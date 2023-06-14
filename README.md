@@ -1,5 +1,5 @@
-# ANKI-400-Basic-Words
-This repository is dedicated to a vocabulary learning deck that focuses on 400 basic words in Spanish, French, German, Portuguese, and Valencian (Catalan). Each card includes a word, image, translation prompt, and the option to add recordings for better retention.
+# ANKI-500-Basic-Words
+This repository is dedicated to a vocabulary learning deck that focuses on 400 basic words in English, French, Catalan / Valencian, German, Spanish, Portuguese, Italian and Romanian. Each card includes a word, image, translation prompt, and the option to add recordings for better retention.
 
 
 ## Notas de Uso y Licencia:

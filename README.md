@@ -1,5 +1,5 @@
 # ANKI-500-Basic-Words
-This repository is dedicated to a vocabulary learning deck that focuses on 400 basic words in English, French, Catalan / Valencian, German, Spanish, Portuguese, Italian and Romanian. Each card includes a word, image, translation prompt, and the option to add recordings for better retention.
+This repository is dedicated to a vocabulary learning deck that focuses on 500 basic words in English, French, Catalan / Valencian, German, Spanish, Portuguese, Italian and Romanian. Each card includes the word, an image, the translation to English, and the option to add recordings for better retention.
 
 
 ## Notas de Uso y Licencia:
@@ -18,7 +18,7 @@ Este mazo se proporciona de forma gratuita para su uso exclusivamente con fines 
 
 ## Instalación
 
-1. Descarga el mazo, es el archivo "Vocabulary - 2nd Grade - Rooftops.apkg". También puedes clonar todo el repositorio si lo prefieres.
+1. Descarga el mazo, es el archivo ".apkg". También puedes clonar todo el repositorio si lo prefieres.
 2. Abre Anki: Inicia la aplicación Anki en tu computadora.
 3. Importa el mazo: En la pantalla principal de Anki, haz clic en "Archivo" en la barra de menú superior y selecciona "Importar". Busca el archivo del mazo que descargaste y selecciónalo. Haz clic en "Abrir" para comenzar el proceso de importación.
 
@@ -49,3 +49,6 @@ Parte frontal: Presenta al usuario una imagen relacionada con una palabra y repr
 Parte posterior: Se muestra la palabra correcta y se realiza una comparación con lo que el usuario ha escrito. Las diferencias entre la palabra escrita por el usuario y la palabra correcta se resaltarán en rojo, mientras que las partes correctas se mostrarán en verde. Esto permite al usuario identificar rápidamente los errores en su respuesta. No es obligatorio que el usuario teclee la palabra si no lo desea.
 
 ## Lista de palabras
+
+Lista de palabras equivalentes en todo los idiomas.
+Listas de palabras en [idioma] con su IPA.

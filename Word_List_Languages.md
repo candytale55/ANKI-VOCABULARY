@@ -1,5 +1,4 @@
 # Word List - All languages
-Sure, here's the table updated with the additional languages:
 
 | No. | English | French | Catalan | German | Spanish | Portuguese | Italian | Romanian |
 |-----|---------|--------|---------|--------|---------|------------|---------|----------|

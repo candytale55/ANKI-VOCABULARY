@@ -16,7 +16,8 @@
 | 12  | to go   | ir      | /iɾ/                        | /iɾ/                      | /iɾ/                   |
 | 13  | to come | venir   | /beˈniɾ/                    | /beˈniɾ/                  | /beˈniɾ/               |
 | 14  | to see  | ver     | /beɾ/                        | /beɾ/                      | /beɾ/                   |
-| 15  | to know | saber, conocer | /ˈsa.βeɾ/, /koˈno.seɾ/  | /ˈsa.βeɾ/, /koˈno.seɾ/    | /ˈsa.βeɾ/, /koˈno.θeɾ/   |
+| 15a  | to know | saber | /ˈsa.βeɾ/  | /ˈsa.βeɾ/    | /ˈsa.βeɾ/   |
+| 15b  | to know | conocer | /koˈno.seɾ/  |  /koˈno.seɾ/    |  /koˈno.θeɾ/   |
 | 16  | to get  | obtener | /oβˈte.neɾ/                  | /oβˈte.neɾ/                | /oβˈte.neɾ/             |
 | 17  | to make | hacer   | /aˈseɾ/                      | /aˈseɾ/                    | /aˈθeɾ/                 |
 | 18  | to think| pensar  | /penˈsaɾ/                    | /penˈsaɾ/                  | /penˈsaɾ/               |

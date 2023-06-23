@@ -12,3 +12,13 @@
 | 8   | to be   | être   | /ɛtʁ/       |
 | 9   | to have | avoir  | /avwaʁ/     |
 | 10  | to do   | faire  | /fɛʁ/       |
+| 11  | to say  | dire    | /diʁ/      |
+| 12  | to go   | aller   | /ale/      |
+| 13  | to come | venir   | /vəniʁ/    |
+| 14  | to see  | voir    | /vwaʁ/     |
+| 15  | to know | savoir  | /savwaʁ/   |
+| 16  | to get  | obtenir | /ɔptəniʁ/  |
+| 17  | to make | faire   | /fɛʁ/      |
+| 18  | to think| penser  | /pɑ̃se/    |
+| 19  | to take | prendre | /pʁɑ̃dʁ/   |
+| 20  | to give | donner  | /dɔne/     |

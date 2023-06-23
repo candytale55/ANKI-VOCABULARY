@@ -22,3 +22,13 @@
 | 18  | to think| pensare | /penˈsaːre/ |
 | 19  | to take | prendere| /prenˈdeːre/|
 | 20  | to give | dare    | /ˈdaːre/    |
+| 21  | to find | trovare | /troˈvare/  |
+| 22  | to listen | ascoltare | /askolˈtare/ |
+| 23  | to work | lavorare | /lavorˈare/ |
+| 24  | to call | chiamare | /kjaˈmare/ |
+| 25  | to laugh | ridere | /riˈdɛːre/ |
+| 26  | to swim | nuotare | /nuoˈtare/ |
+| 27  | to build | costruire | /koˈstruire/ |
+| 28  | to run | correre | /korˈrɛːre/ |
+| 29  | to write | scrivere | /skriˈvɛːre/ |
+| 30  | to teach | insegnare | /inseɲˈɲare/ |

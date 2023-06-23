@@ -23,3 +23,13 @@
 | 18  | to think| denken | /ˈdɛŋkən/ |
 | 19  | to take | nehmen | /ˈneːmən/ |
 | 20  | to give | geben  | /ˈɡeːbən/ |
+| 21  | to find | finden | /ˈfɪndən/ |
+| 22  | to listen | hören | /ˈhøːrən/ |
+| 23  | to work | arbeiten | /aʁˈbaɪ̯tən/ |
+| 24  | to call | anrufen | /ˈanˌʁuːfən/ |
+| 25  | to laugh | lachen | /ˈlaxən/ |
+| 26  | to swim | schwimmen | /ˈʃvɪmən/ |
+| 27  | to build | bauen | /ˈbaʊ̯ən/ |
+| 28  | to run | laufen | /ˈlaʊ̯fn̩/ |
+| 29  | to write | schreiben | /ˈʃʁaɪ̯bn̩/ |
+| 30  | to teach | lehren | /ˈleːrən/ |

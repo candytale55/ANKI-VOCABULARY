@@ -32,3 +32,24 @@
 | 28  | to run | a alerga | /a aˈlerɡə/ |
 | 29  | to write | a scrie | /a skrije/  |
 | 30  | to teach | a învăța | /a ɨnvət͡sə/ |
+| 31  | to close | a închide    | /ə 'ɨn.ki.de/        |
+| 32  | to turn  | a se întoarce| /a se ɨn'to̯ar.t͡ʃe/  |
+| 33  | to stop  | a opri       | /a 'o.pri/           |
+| 34  | to taste | a gusta      | /a 'gus.ta/          |
+| 35  | to cut   | a tăia       | /a 'təi̯a/            |
+| 36  | to watch | a privi      | /a 'pri.vi/          |
+| 37  | to bend  | a îndoi      | /a ɨn'doj/           |
+| 38  | to open  | a deschide   | /a des'ki.de/        |
+| 39  | to drink | a bea        | /a 'be̯a/             |
+| 40  | to die   | a muri       | /a 'mu.ri/           |
+| 41  | to win   | a câștiga    | /a kɨʃ'ti.ga/        |
+| 42  | to hear  | a auzi       | /a a'u.zj/           |
+| 43  | to shoot | a trage      | /a 'tra.ge/          |
+| 44  | to marry | a se căsători| /a se kəsə'to.ri/    |
+| 45  | to pray  | a se ruga    | /a se 'ru.ga/        |
+| 46  | to taste | a gusta      | /a 'gus.ta/          |
+| 47  | to work  | a munci      | /a 'mun.tʃj/         |
+| 48  | to cut   | a tăia       | /a 'təi̯a/            |
+| 49  | to watch | a privi      | /a 'pri.vi/          |
+| 50  | to bend  | a îndoi      | /a ɨn'doj/           |
+

@@ -28,3 +28,23 @@
 | 28  | to run | courir | /kuʁiʁ/ |
 | 29  | to write | écrire | /ekʁiʁ/ |
 | 30  | to teach | enseigner | /ɑ̃seɲe/ |
+| 31  | to close | fermer     | /fɛʁme/          |
+| 32  | to turn  | tourner    | /tuʁne/          |
+| 33  | to stop  | arrêter    | /aʁete/          |
+| 34  | to taste | goûter     | /ɡute/           |
+| 35  | to cut   | couper     | /kupe/           |
+| 36  | to watch | regarder   | /ʁəɡaʁde/        |
+| 37  | to bend  | plier      | /plije/          |
+| 38  | to open  | ouvrir     | /uvʁiʁ/          |
+| 39  | to drink | boire      | /bwɑʁ/           |
+| 40  | to die   | mourir     | /muʁiʁ/          |
+| 41  | to win   | gagner     | /ɡaɲe/           |
+| 42  | to hear  | entendre   | /ɑ̃tɑ̃dʁ/         |
+| 43  | to shoot | tirer      | /tiʁe/           |
+| 44  | to marry | se marier  | /sə maʁje/       |
+| 45  | to pray  | prier      | /pʁije/          |
+| 46  | to taste | goûter     | /ɡute/           |
+| 47  | to work  | travailler | /tʁavaje/        |
+| 48  | to cut   | couper     | /kupe/           |
+| 49  | to watch | regarder   | /ʁəɡaʁde/        |
+| 50  | to bend  | plier      | /plije/          |

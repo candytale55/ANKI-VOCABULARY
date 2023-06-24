@@ -22,3 +22,13 @@
 | 18  | to think| /tə θɪŋk/         | /tə θɪŋk/        |
 | 19  | to take | /tə teɪk/         | /tə teɪk/        |
 | 20  | to give | /tə ɡɪv/          | /tə ɡɪv/         |
+| 21  | to find | /tuː faɪnd/ | /tə faɪnd/ |
+| 22  | to listen | /tuː ˈlɪsən/ | /tə ˈlɪsən/ |
+| 23  | to work | /tuː wɜrk/ | /tə wɜːk/ |
+| 24  | to call | /tuː kɔːl/ | /tə kɔːl/ |
+| 25  | to laugh | /tuː læf/ | /tə lɑːf/ |
+| 26  | to swim | /tuː swɪm/ | /tə swɪm/ |
+| 27  | to build | /tuː bɪld/ | /tə bɪld/ |
+| 28  | to run | /tuː rʌn/ | /tə rʌn/ |
+| 29  | to write | /tuː raɪt/ | /tə raɪt/ |
+| 30  | to teach | /tuː tiːtʃ/ | /tə tiːtʃ/ |

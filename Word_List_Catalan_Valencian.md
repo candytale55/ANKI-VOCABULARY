@@ -23,3 +23,13 @@
 | 18  | to think| pensar  | pensar    | /pənˈsa/    | /penˈsaɾ/     |
 | 19  | to take | agafar  | agarrar   | /əɣəˈfa/    | /aˈɣaɾ/       |
 | 20  | to give | donar   | donar     | /duˈna/     | /doˈnaɾ/      |
+| 21  | to find | trobar | trobar | /tɾuˈbaɾ/ | /tɾoˈbaɾ/ |
+| 22  | to listen | escoltar | escoltar | /əskuɫˈta/ | /eskoɫˈtaɾ/ |
+| 23  | to work | treballar | treballar | /tɾəβəˈʎa/ | /trebaˈʎaɾ/ |
+| 24  | to call | trucar | trucar | /tɾuˈka/ | /tɾuˈkaɾ/ |
+| 25  | to laugh | riure | riure | /ˈriwɾə/ | /ˈriwɾe/ |
+| 26  | to swim | nedar | nedar | /nəˈða/ | /neˈðaɾ/ |
+| 27  | to build | construir | construir | /kunstɾuˈi/ | /konstɾuˈiɾ/ |
+| 28  | to run | córrer | córrer | /ˈkoʎe/ | /ˈkoɾeɾ/ |
+| 29  | to write | escriure | escriure | /əskɾiˈu/ | /esˈkɾiwe/ |
+| 30  | to teach | ensenyar | ensenyar | /ənsəˈɲa/ | /enseˈɲaɾ/ |

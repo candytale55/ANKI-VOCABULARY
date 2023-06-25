@@ -33,3 +33,23 @@
 | 28  | to run | córrer | córrer | /ˈkoʎe/ | /ˈkoɾeɾ/ |
 | 29  | to write | escriure | escriure | /əskɾiˈu/ | /esˈkɾiwe/ |
 | 30  | to teach | ensenyar | ensenyar | /ənsəˈɲa/ | /enseˈɲaɾ/ |
+| 31  | to close | tancar      | tancar     | /tənˈka/     | /tanˈkaɾ/     |
+| 32  | to turn  | girar       | girar      | /ʒiˈɾa/      | /ʒiˈɾaɾ/      |
+| 33  | to stop  | parar       | parar      | /pəˈɾa/      | /paˈɾaɾ/      |
+| 34  | to taste | tastar      | tastar     | /təsˈta/     | /tasˈtaɾ/     |
+| 35  | to cut   | tallar      | tallar     | /təˈʎa/      | /taˈʎaɾ/      |
+| 36  | to watch | mirar       | mirar      | /miˈɾa/      | /miˈɾaɾ/      |
+| 37  | to bend  | per doblar  | per doblar | /pɛɾ ˈdoβlaɾ/| /peɾ ˈdoβlaɾ/ |
+| 38  | to open  | obrir       | obrir      | /uˈβɾi/      | /oˈβɾiɾ/      |
+| 39  | to drink | beure       | beure      | /ˈbɛwɾə/     | /ˈbewɾe/      |
+| 40  | to die   | morir       | morir      | /muˈɾi/      | /moˈɾiɾ/      |
+| 41  | to win   | guanyar     | guanyar    | /ɡwəˈɲa/     | /ɡwaˈɲaɾ/     |
+| 42  | to hear  | escoltar    | escoltar   | /əskuɫˈta/   | /eskolˈtaɾ/   |
+| 43  | to shoot | disparar    | disparar   | /dispəˈɾa/   | /dispaˈɾaɾ/   |
+| 44  | to marry | casar-se    | casar-se   | /kəˈzaɾsə/   | /kaˈsaɾse/    |
+| 45  | to pray  | pregar      | pregar     | /pɾəˈɣa/     | /pɾeˈɣaɾ/     |
+| 46  | to taste | tastar      | tastar     | /təsˈta/     | /tasˈtaɾ/     |
+| 47  | to work  | treballar   | treballar  | /tɾəβəˈʎa/   | /trebaˈʎaɾ/   |
+| 48  | to cut   | tallar      | tallar     | /təˈʎa/      | /taˈʎaɾ/      |
+| 49  | to watch | mirar       | mirar      | /miˈɾa/      | /miˈɾaɾ/      |
+| 50  | to bend  | per doblar  | per doblar | /pɛɾ ˈdoβlaɾ/| /peɾ ˈdoβlaɾ/ |

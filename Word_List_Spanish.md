@@ -49,9 +49,7 @@
 | 43  | to shoot | disparar| /dispaˈɾaɾ/                  | /dispaˈɾaɾ/               | /dispaˈɾaɾ/          |
 | 44  | to marry | casarse | /kaˈsaɾse/                   | /kaˈsaɾse/                | /kaˈsaɾse/           |
 | 45  | to pray  | rezar   | /reˈzaɾ/                     | /reˈsaɾ/                  | /reˈθaɾ/             |
-| 46  | to taste | probar  | /pɾoˈβaɾ/                    | /pɾo
-
-ˈvaɾ/                 | /pɾoˈβaɾ/            |
+| 46  | to taste | probar  | /pɾoˈβaɾ/                    | /pɾoˈvaɾ/                 | /pɾoˈβaɾ/            |
 | 47  | to work  | trabajar| /tɾaβaˈxaɾ/                  | /tɾabaˈʃaɾ/               | /tɾaβaˈxaɾ/          |
 | 48  | to cut   | cortar  | /koɾˈtaɾ/                    | /koɾˈtaɾ/                 | /koɾˈtaɾ/            |
 | 49  | to watch | ver     | /beɾ/                         | /beɾ/                     | /beɾ/                |

@@ -32,3 +32,23 @@
 | 28  | to run | /tuː rʌn/ | /tə rʌn/ |
 | 29  | to write | /tuː raɪt/ | /tə raɪt/ |
 | 30  | to teach | /tuː tiːtʃ/ | /tə tiːtʃ/ |
+| 31  | to close | /tʊˈkloʊz/      | /tuːˈkləʊz/    |
+| 32  | to turn  | /təˈrːn/        | /tʊˈtɜːrn/     |
+| 33  | to stop  | /təˈstɑːp/      | /tuːˈstɒp/     |
+| 34  | to taste | /təˈteɪst/      | /tuːˈteɪst/    |
+| 35  | to cut   | /tʊˈkʌt/        | /tuːˈkʌt/      |
+| 36  | to watch | /tʊˈwɑːtʃ/      | /tuːˈwɒtʃ/     |
+| 37  | to bend  | /tʊˈbɛnd/       | /tuːˈbɛnd/     |
+| 38  | to open  | /tʊˈoʊpən/      | /tuːˈəʊpən/    |
+| 39  | to drink | /tʊˈdrɪŋk/      | /tuːˈdrɪŋk/    |
+| 40  | to die   | /tʊˈdaɪ/        | /tuːˈdaɪ/      |
+| 41  | to win   | /tʊˈwɪn/        | /tuːˈwɪn/      |
+| 42  | to hear  | /tʊˈhɪər/       | /tuːˈhɪər/     |
+| 43  | to shoot | /tʊˈʃuːt/       | /tuːˈʃuːt/     |
+| 44  | to marry | /tʊˈmæri/       | /tuːˈmæri/     |
+| 45  | to pray  | /tʊˈpreɪ/       | /tuːˈpreɪ/     |
+| 46  | to taste | /tʊˈteɪst/      | /tuːˈteɪst/    |
+| 47  | to work  | /tʊˈwɜːrk/      | /tuːˈwɜːrk/    |
+| 48  | to cut   | /tʊˈkʌt/        | /tuːˈkʌt/      |
+| 49  | to watch | /tʊˈwɑːtʃ/      | /tuːˈwɒtʃ/     |
+| 50  | to bend  | /tʊˈbɛnd/       | /tuːˈbɛnd/     |

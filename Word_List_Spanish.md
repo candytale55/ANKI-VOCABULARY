@@ -34,3 +34,25 @@
 | 28  | to run | correr | /koˈreɾ/ | /koˈreɾ/ | /koˈreɾ/ |
 | 29  | to write | escribir | /eskɾiˈβiɾ/ | /eskɾiˈβiɾ/ | /eskɾiˈβiɾ/ |
 | 30  | to teach | enseñar | /enseˈɲaɾ/ | /enseˈɲaɾ/ | /enseˈɲaɾ/ |
+| 31  | to close | cerrar  | /seˈrraɾ/                   | /seˈʃaɾ/                 | /θeˈraɾ/             |
+| 32  | to turn  | girar   | /xiˈɾaɾ/                    | /ʒiˈɾaɾ/                 | /xiˈɾaɾ/             |
+| 33  | to stop  | parar   | /paˈɾaɾ/                    | /paˈɾaɾ/                 | /paˈɾaɾ/             |
+| 34  | to taste | probar  | /pɾoˈβaɾ/                   | /pɾoˈvaɾ/                 | /pɾoˈβaɾ/            |
+| 35  | to cut   | cortar  | /koɾˈtaɾ/                   | /koɾˈtaɾ/                | /koɾˈtaɾ/            |
+| 36  | to watch | ver     | /beɾ/                        | /beɾ/                    | /beɾ/                |
+| 37  | to bend  | doblar  | /doˈβlaɾ/                   | /doˈβlaɾ/                | /doˈβlaɾ/            |
+| 38  | to open  | abrir   | /aˈbɾiɾ/                     | /aˈbɾiɾ/                  | /aˈβɾiɾ/             |
+| 39  | to drink | beber   | /ˈbebeɾ/                     | /ˈbebeɾ/                  | /ˈbeβeɾ/             |
+| 40  | to die   | morir   | /moˈɾiɾ/                     | /moˈɾiɾ/                  | /moˈɾiɾ/             |
+| 41  | to win   | ganar   | /gaˈnaɾ/                     | /gaˈnaɾ/                  | /gaˈnaɾ/             |
+| 42  | to hear  | oir     | /oˈiɾ/                        | /oˈiɾ/                    | /oˈiɾ/               |
+| 43  | to shoot | disparar| /dispaˈɾaɾ/                  | /dispaˈɾaɾ/               | /dispaˈɾaɾ/          |
+| 44  | to marry | casarse | /kaˈsaɾse/                   | /kaˈsaɾse/                | /kaˈsaɾse/           |
+| 45  | to pray  | rezar   | /reˈzaɾ/                     | /reˈsaɾ/                  | /reˈθaɾ/             |
+| 46  | to taste | probar  | /pɾoˈβaɾ/                    | /pɾo
+
+ˈvaɾ/                 | /pɾoˈβaɾ/            |
+| 47  | to work  | trabajar| /tɾaβaˈxaɾ/                  | /tɾabaˈʃaɾ/               | /tɾaβaˈxaɾ/          |
+| 48  | to cut   | cortar  | /koɾˈtaɾ/                    | /koɾˈtaɾ/                 | /koɾˈtaɾ/            |
+| 49  | to watch | ver     | /beɾ/                         | /beɾ/                     | /beɾ/                |
+| 50  | to bend  | doblar  | /doˈβlaɾ/                    | /doˈβlaɾ/                 | /doˈβlaɾ/            |

@@ -52,3 +52,23 @@
 | 48  | to cut   | tagliare   | /taʎˈʎaːre/      |
 | 49  | to watch | guardare   | /ɡwarˈdaːre/     |
 | 50  | to bend  | piegare    | /pjeˈgaːre/      |
+| 51  | to fly  | volare  | /voˈlaːre/  |
+| 52  | to clean| pulire  | /puˈliːre/  |
+| 53  | to taste| assaggiare| /assad͡ʒˈd͡ʒaːre/ |
+| 54  | to live | vivere  | /viˈveːre/  |
+| 55  | to break| rompere | /romˈpeːre/ |
+| 56  | to speak| parlare | /parˈlaːre/ |
+| 57  | to bend | piegare | /pjeˈgaːre/ |
+| 58  | to open | aprire  | /aˈpriːre/  |
+| 59  | to drink| bere    | /ˈbeːre/    |
+| 60  | to die  | morire  | /moˈriːre/  |
+| 61  | to run  | correre | /korˈreːre/ |
+| 62  | to cry  | piangere| /pjanˈd͡ʒɛːre/|
+| 63  | to dance| ballare | /balˈlaːre/ |
+| 64  | to pray | pregare | /preˈgaːre/ |
+| 65  | to sing | cantare | /kanˈtaːre/ |
+| 66  | to sleep| dormire | /dorˈmiːre/ |
+| 67  | to fly  | volare  | /voˈlaːre/  |
+| 68  | to clean| pulire  | /puˈliːre/  |
+| 69  | to taste| assaggiare| /assad͡ʒˈd͡ʒaːre/ |
+| 70  | to live | vivere  | /viˈveːre/  |

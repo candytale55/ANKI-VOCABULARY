@@ -52,4 +52,23 @@
 | 48  | to cut   | a tăia       | /a 'təi̯a/            |
 | 49  | to watch | a privi      | /a 'pri.vi/          |
 | 50  | to bend  | a îndoi      | /a ɨn'doj/           |
-
+| 51  | to fly  | a zbura  | /a ˈzbura/   |
+| 52  | to clean| a curăța | /a kuˈrət͡sa/|
+| 53  | to taste| a gusta  | /a 'gusta/   |
+| 54  | to live | a trăi   | /a trəj/     |
+| 55  | to break| a rupe   | /a ˈrupe/    |
+| 56  | to speak| a vorbi  | /a 'vorbi/   |
+| 57  | to bend | a îndoi  | /a ɨnˈdoj/   |
+| 58  | to open | a deschide| /a desˈkide/|
+| 59  | to drink| a bea    | /a 'be̯a/     |
+| 60  | to die  | a muri   | /a ˈmuri/    |
+| 61  | to run  | a alerga | /a aˈlerga/  |
+| 62  | to cry  | a plânge | /a ˈplɨnʲd͡ʒe/|
+| 63  | to dance| a dansa  | /a ˈdansa/   |
+| 64  | to pray | a ruga   | /a ˈruɡa/    |
+| 65  | to sing | a cânta  | /a kɨnˈta/   |
+| 66  | to sleep| a dormi  | /a ˈdormi/   |
+| 67  | to fly  | a zbura  | /a ˈzbura/   |
+| 68  | to clean| a curăța | /a kuˈrət͡sa/|
+| 69  | to taste| a gusta  | /a 'gusta/   |
+| 70  | to live | a trăi   | /a trəj/     |

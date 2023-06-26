@@ -53,3 +53,23 @@
 | 28  | to run | laufen | /ˈlaʊ̯fn̩/ |
 | 29  | to write | schreiben | /ˈʃʁaɪ̯bn̩/ |
 | 30  | to teach | lehren | /ˈleːrən/ |
+| 51  | to fly  | fliegen  | /ˈfliːɡən/ |
+| 52  | to clean| reinigen | /ˈʁaɪ̯nɪɡən/|
+| 53  | to taste| schmecken| /ˈʃmɛkən/  |
+| 54  | to live | leben    | /ˈleːbən/  |
+| 55  | to break| brechen  | /ˈbʁɛçən/  |
+| 56  | to speak| sprechen | /ˈʃpʁɛçən/ |
+| 57  | to bend | biegen   | /ˈbiːɡən/  |
+| 58  | to open | öffnen   | /ˈœfnən/   |
+| 59  | to drink| trinken  | /ˈtʁɪŋkən/ |
+| 60  | to die  | sterben  | /ˈʃtɛʁbən/ |
+| 61  | to run  | laufen   | /ˈlaʊ̯fn̩/  |
+| 62  | to cry  | weinen   | /ˈvaɪ̯nən/  |
+| 63  | to dance| tanzen   | /ˈtant͡sn̩/ |
+| 64  | to pray | beten    | /ˈbeːtən/  |
+| 65  | to sing | singen   | /ˈzɪŋən/   |
+| 66  | to sleep| schlafen | /ˈʃlaːfən/ |
+| 67  | to fly  | fliegen  | /ˈfliːɡən/ |
+| 68  | to clean| reinigen | /ˈʁaɪ̯nɪɡən/|
+| 69  | to taste| schmecken| /ˈʃmɛkən/  |
+| 70  | to live | leben    | /ˈleːbən/  |

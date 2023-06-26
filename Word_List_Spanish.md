@@ -54,3 +54,23 @@
 | 48  | to cut   | cortar  | /koɾˈtaɾ/                    | /koɾˈtaɾ/                 | /koɾˈtaɾ/            |
 | 49  | to watch | ver     | /beɾ/                         | /beɾ/                     | /beɾ/                |
 | 50  | to bend  | doblar  | /doˈβlaɾ/                    | /doˈβlaɾ/                 | /doˈβlaɾ/            |
+| 51  | to fly  | volar   | /boˈlaɾ/                   | /boˈlaɾ/               | /boˈlaɾ/            |
+| 52  | to clean| limpiar | /limˈpjaɾ/                 | /limˈpjaɾ/             | /limˈpjaɾ/          |
+| 53  | to taste| probar  | /pɾoˈβaɾ/                  | /pɾoˈβaɾ/              | /pɾoˈβaɾ/           |
+| 54  | to live | vivir   | /biˈβiɾ/                   | /biˈβiɾ/               | /biˈβiɾ/            |
+| 55  | to break| romper  | /ˈrompeɾ/                  | /ˈrompeɾ/              | /ˈrompeɾ/           |
+| 56  | to speak| hablar  | /aˈβlaɾ/                   | /aˈβlaɾ/               | /aˈβlaɾ/            |
+| 57  | to bend | doblar  | /doˈβlaɾ/                  | /doˈβlaɾ/              | /doˈβlaɾ/           |
+| 58  | to open | abrir   | /aˈβɾiɾ/                   | /aˈβɾiɾ/               | /aˈβɾiɾ/            |
+| 59  | to drink| beber   | /beˈβeɾ/                   | /beˈβeɾ/               | /beˈβeɾ/            |
+| 60  | to die  | morir   | /moˈɾiɾ/                   | /moˈɾiɾ/               | /moˈɾiɾ/            |
+| 61  | to run  | correr  | /koˈɾeɾ/                   | /koˈɾeɾ/               | /koˈɾeɾ/            |
+| 62  | to cry  | llorar  | /ʝoˈɾaɾ/                   | /ʒoˈɾaɾ/               | /ʎoˈɾaɾ/            |
+| 63  | to dance| bailar  | /baiˈlaɾ/                  | /baiˈlaɾ/              | /baiˈlaɾ/           |
+| 64  | to pray | rezar   | /reˈsaɾ/                   | /reˈsaɾ/               | /reˈθaɾ/            |
+| 65  | to sing | cantar  | /kanˈtaɾ/                  | /kanˈtaɾ/              | /kanˈtaɾ/           |
+| 66  | to sleep| dormir  | /doɾˈmiɾ/                  | /doɾˈmiɾ/              | /doɾˈmiɾ/           |
+| 67  | to fly  | volar   | /boˈlaɾ/                   | /boˈlaɾ/               | /boˈlaɾ/            |
+| 68  | to clean| limpiar | /limˈpjaɾ/                 | /limˈpjaɾ/             | /limˈpjaɾ/          |
+| 69  | to taste| probar  | /pɾoˈβaɾ/                  | /pɾoˈβaɾ/              | /pɾoˈβaɾ/           |
+| 70  | to live | vivir   | /biˈβiɾ/                   | /biˈβiɾ/               | /biˈβiɾ/            |

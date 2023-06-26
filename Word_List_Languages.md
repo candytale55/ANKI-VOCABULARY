@@ -22,3 +22,13 @@
 | 18  | to think| penser | pensar  | denken | pensar  | pensar     | pensare | a gândi  |
 | 19  | to take | prendre| agafar  | nehmen | tomar   | tomar      | prendere| a lua    |
 | 20  | to give | donner | donar   | geben  | dar     | dar        | dare    | a da     |
+| 21  | to find   | trouver     | trobar     | finden     | encontrar   | encontrar  | trovare   | a găsi    |
+| 22  | to listen | écouter     | escoltar   | hören      | escuchar    | ouvir      | ascoltare | a asculta |
+| 23  | to work   | travailler  | treballar  | arbeiten   | trabajar    | trabalhar  | lavorare  | a munci   |
+| 24  | to call   | appeler     | trucar     | anrufen    | llamar      | chamar     | chiamare  | a suna    |
+| 25  | to laugh  | rire        | riure      | lachen     | reir        | rir        | ridere    | a râde    |
+| 26  | to swim   | nager       | nedar      | schwimmen  | nadar       | nadar      | nuotare   | a înota   |
+| 27  | to build  | construire  | construir  | bauen      | construir   | construir  | costruire | a construi|
+| 28  | to run    | courir      | córrer     | laufen     | correr      | correr     | correre   | a alerga  |
+| 29  | to write  | écrire      | escriure   | schreiben  | escribir    | escrever   | scrivere  | a scrie   |
+| 30  | to teach  | enseigner   | ensenyar   | lehren     | enseñar     | ensinar    | insegnare | a învăța  |

@@ -13,7 +13,8 @@
 | 7 | est | verbe | /ɛ/ | is |
 | 8 | il/elle | pronom | /il/, /ɛl/ | it |
 | 9a | tu | pronom | /ty/ | you (singular, informal) |
-| 9b | vous | pronom | /vu/ | you (plural/formal) |
+| 9b | vous | pronom | /vu/ | you (singular/formal) |
+| 9c | vous | pronom | /vu/ | you (plural/formal) |
 | 10 | que | conjonction | /kə/ | that |
 | 11 | il | pronom | /il/ | he |
 | 12 | était | verbe | /etɛ/ | was |

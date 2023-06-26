@@ -53,3 +53,23 @@
 | 48  | to cut   | tallar      | tallar     | /təˈʎa/      | /taˈʎaɾ/      |
 | 49  | to watch | mirar       | mirar      | /miˈɾa/      | /miˈɾaɾ/      |
 | 50  | to bend  | per doblar  | per doblar | /pɛɾ ˈdoβlaɾ/| /peɾ ˈdoβlaɾ/ |
+| 51  | to fly  | volar   | /vuˈla/     | volar     | /voˈlaɾ/      |
+| 52  | to clean| netejar | /nəˈtɛʒa/   | netejar   | /neˈteʒaɾ/    |
+| 53  | to taste| tastar  | /təsˈta/    | tastar    | /tasˈtaɾ/     |
+| 54  | to live | viure   | /biˈuɾə/    | viure     | /viˈuɾe/      |
+| 55  | to break| trencar | /tɾəŋˈka/   | trencar   | /tɾenˈkaɾ/    |
+| 56  | to speak| parlar  | /pəɾˈla/    | parlar    | /paɾˈlaɾ/     |
+| 57  | to bend | doblegar| /duβləˈɡa/  | doblegar  | /doβleˈɡaɾ/   |
+| 58  | to open | obrir   | /uˈβɾi/     | obrir     | /oˈβɾiɾ/      |
+| 59  | to drink| beure   | /ˈbɛwɾə/    | beure     | /ˈbewɾe/      |
+| 60  | to die  | morir   | /muˈɾi/     | morir     | /moˈɾiɾ/      |
+| 61  | to run  | córrer  | /ˈkɔrə/     | córrer    | /ˈkoɾɾeɾ/     |
+| 62  | to cry  | plorar  | /pɫuˈɾa/    | plorar    | /ploˈɾaɾ/     |
+| 63  | to dance| ballar  | /bəˈʎa/     | ballar    | /baˈʎaɾ/      |
+| 64  | to pray | pregar  | /pɾəˈɡa/    | pregar    | /pɾeˈɡaɾ/     |
+| 65  | to sing | cantar  | /kənˈta/    | cantar    | /kanˈtaɾ/     |
+| 66  | to sleep| dormir  | /duɾˈmi/    | dormir    | /doɾˈmiɾ/     |
+| 67  | to fly  | volar   | /vuˈla/     | volar     | /voˈlaɾ/      |
+| 68  | to clean| netejar | /nəˈtɛʒa/   | netejar   | /neˈteʒaɾ/    |
+| 69  | to taste| tastar  | /təsˈta/    | tastar    | /tasˈtaɾ/     |
+| 70  | to live | viure   | /biˈuɾə/    | viure     | /viˈuɾe/      |

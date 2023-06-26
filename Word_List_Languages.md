@@ -32,3 +32,23 @@
 | 28  | to run    | courir      | córrer     | laufen     | correr      | correr     | correre   | a alerga  |
 | 29  | to write  | écrire      | escriure   | schreiben  | escribir    | escrever   | scrivere  | a scrie   |
 | 30  | to teach  | enseigner   | ensenyar   | lehren     | enseñar     | ensinar    | insegnare | a învăța  |
+| 31  | to close  | fermer      | tancar     | schließen  | cerrar      | fechar     | chiudere  | a închide  |
+| 32  | to turn   | tourner     | girar      | drehen     | girar       | virar      | girare    | a întoarce |
+| 33  | to stop   | arrêter     | parar      | stoppen    | parar       | parar      | fermare   | a opri     |
+| 34  | to taste  | goûter      | tastar     | schmecken  | probar      | provar     | assaggiare| a gusta    |
+| 35  | to cut    | couper      | tallar     | schneiden  | cortar      | cortar     | tagliare  | a tăia      |
+| 36  | to watch  | regarder    | mirar      | schauen    | ver         | assistir   | guardare  | a privi     |
+| 37  | to bend   | plier       | per doblar | biegen     | doblar      | dobrar     | piegare   | a îndoi     |
+| 38  | to open   | ouvrir      | obrir      | öffnen     | abrir       | abrir      | aprire    | a deschide  |
+| 39  | to drink  | boire       | beure      | trinken    | beber       | beber      | bere      | a bea       |
+| 40  | to die    | mourir      | morir      | sterben    | morir       | morrer     | morire    | a muri      |
+| 41  | to win    | gagner      | guanyar    | gewinnen   | ganar        | ganhar     | vincere   | a câștiga  |
+| 42  | to hear   | entendre    | escoltar   | hören      | oir          | ouvir      | sentire   | a auzi     |
+| 43  | to shoot  | tirer       | disparar   | schießen   | disparar     | atirar     | sparare   | a trage    |
+| 44  | to marry  | se marier   | casar-se   | heiraten   | casarse      | casar      | sposare   | a se căsători |
+| 45  | to pray   | prier       | pregar     | beten      | rezar        | rezar      | pregare   | a se ruga  |
+| 46  | to taste  | goûter      | tastar     | schmecken  | probar       | provar     | assaggiare| a gusta    |
+| 47  | to work   | travailler  | treballar  | arbeiten   | trabajar     | trabalhar  | lavorare  | a munci    |
+| 48  | to cut    | couper      | tallar     | schneiden  | cortar       | cortar     | tagliare  | a tăia      |
+| 49  | to watch  | regarder    | mirar      | schauen    | ver          | assistir   | guardare  | a privi     |
+| 50  | to bend   | plier       | per doblar | biegen     | doblar       | dobrar     | piegare   | a îndoi     |

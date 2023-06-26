@@ -52,3 +52,23 @@
 | 48  | to cut    | couper      | tallar     | schneiden  | cortar       | cortar     | tagliare  | a tăia      |
 | 49  | to watch  | regarder    | mirar      | schauen    | ver          | assistir   | guardare  | a privi     |
 | 50  | to bend   | plier       | per doblar | biegen     | doblar       | dobrar     | piegare   | a îndoi     |
+| 51  | to fly    | voler       | volar      | fliegen    | volar        | voar       | volare    | a zbura     |
+| 52  | to clean  | nettoyer    | netejar    | reinigen   | limpiar      | limpar     | pulire    | a curăța    |
+| 53  | to taste  | goûter      | tastar     | schmecken  | probar       | provar     | assaggiare| a gusta    |
+| 54  | to live   | habiter     | viure      | leben      | vivir        | viver      | vivere    | a trăi     |
+| 55  | to break  | casser      | trencar    | brechen    | romper       | quebrar    | rompere   | a rupe     |
+| 56  | to speak  | parler      | parlar     | sprechen   | hablar       | falar      | parlare   | a vorbi    |
+| 57  | to bend   | plier       | per doblar | biegen     | doblar       | dobrar     | piegare   | a îndoi     |
+| 58  | to open   | ouvrir      | obrir      | öffnen     | abrir        | abrir      | aprire    | a deschide |
+| 59  | to drink  | boire       | beure      | trinken    | beber        | beber      | bere      | a bea      |
+| 60  | to die    | mourir      | morir      | sterben    | morir        | morrer     | morire    | a muri     |
+| 61  | to run    | courir      | córrer     | laufen     | correr       | correr     | correre   | a alerga   |
+| 62  | to cry    | pleurer     | plorar     | weinen     | llorar       | chorar     | piangere  | a plânge   |
+| 63  | to dance  | danser      | ballar     | tanzen     | bailar       | dançar     | ballare   | a dansa    |
+| 64  | to pray   | prier       | pregar     | beten      | rezar        | rezar      | pregare   | a ruga     |
+| 65  | to sing   | chanter     | cantar     | singen     | cantar       | cantar     | cantare   | a cânta    |
+| 66  | to sleep  | dormir      | dormir     | schlafen   | dormir       | dormir     | dormire   | a dormi    |
+| 67  | to fly    | voler       | volar      | fliegen    | volar        | voar       | volare    | a zbura    |
+| 68  | to clean  | nettoyer    | netejar    | reinigen   | limpiar      | limpar     | pulire    | a curăța   |
+| 69  | to taste  | goûter      | tastar     | schmecken  | probar       | provar     | assaggiare| a gusta    |
+| 70  | to live   | habiter     | viure      | leben      | vivir        | viver      | vivere    | a trăi     |

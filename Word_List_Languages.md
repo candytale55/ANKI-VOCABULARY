@@ -7,7 +7,7 @@
 | 3   | he      | il     | ell     | er     | él      | ele        | lui     | el       |
 | 4   | she     | elle   | ella    | sie    | ella    | ela        | lei     | ea       |
 | 5   | it      | il     | això    | es     | ello    | ele, ela   | esso, essa | el, ea |
-| 6   | we      | nous   | nosaltres | wir  | nosotros | nós       | noi     | noi      |
+| 6   | we      | nous   | nosaltres | wir  | nosotros, nosotras | nós       | noi     | noi      |
 | 7   | they    | ils    | ells    | sie    | ellos, ellas | eles, elas | loro | ei, ele |
 | 8   | to be   | être   | ser     | sein   | ser, estar | ser, estar | essere | a fi     |
 | 9   | to have | avoir  | tenir   | haben  | tener   | ter        | avere   | a avea   |

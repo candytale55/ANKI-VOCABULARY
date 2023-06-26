@@ -48,3 +48,23 @@
 | 48  | to cut   | couper     | /kupe/           |
 | 49  | to watch | regarder   | /ʁəɡaʁde/        |
 | 50  | to bend  | plier      | /plije/          |
+| 51  | to fly  | voler    | /vɔ.le/      |
+| 52  | to clean| nettoyer | /nɛ.twa.je/  |
+| 53  | to taste| goûter   | /ɡu.te/      |
+| 54  | to live | habiter  | /a.bi.te/    |
+| 55  | to break| casser   | /ka.se/      |
+| 56  | to speak| parler   | /paʁ.le/     |
+| 57  | to bend | plier    | /plije/      |
+| 58  | to open | ouvrir   | /u.vʁiʁ/     |
+| 59  | to drink| boire    | /bwaʁ/       |
+| 60  | to die  | mourir   | /mu.ʁiʁ/     |
+| 61  | to run  | courir   | /ku.ʁiʁ/     |
+| 62  | to cry  | pleurer  | /plœ.ʁe/     |
+| 63  | to dance| danser   | /dɑ̃.se/      |
+| 64  | to pray | prier    | /pʁi.je/     |
+| 65  | to sing | chanter  | /ʃɑ̃.te/      |
+| 66  | to sleep| dormir   | /dɔʁ.miʁ/    |
+| 67  | to fly  | voler    | /vɔ.le/      |
+| 68  | to clean| nettoyer | /nɛ.twa.je/  |
+| 69  | to taste| goûter   | /ɡu.te/      |
+| 70  | to live | habiter  | /a.bi.te/    |

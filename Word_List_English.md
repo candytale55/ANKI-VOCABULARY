@@ -52,3 +52,23 @@
 | 48  | to cut   | /tʊˈkʌt/        | /tuːˈkʌt/      |
 | 49  | to watch | /tʊˈwɑːtʃ/      | /tuːˈwɒtʃ/     |
 | 50  | to bend  | /tʊˈbɛnd/       | /tuːˈbɛnd/     |
+| 51  | to fly  | /tə ˈflaɪ/      | /tə ˈflaɪ/     |
+| 52  | to clean| /tə ˈkliːn/     | /tə ˈkliːn/    |
+| 53  | to taste| /tə ˈteɪst/     | /tə ˈteɪst/    |
+| 54  | to live | /tə ˈlɪv/       | /tə ˈlɪv/      |
+| 55  | to break| /tə ˈbreɪk/     | /tə ˈbreɪk/    |
+| 56  | to speak| /tə ˈspiːk/     | /tə ˈspiːk/    |
+| 57  | to bend | /tə ˈbɛnd/      | /tə ˈbɛnd/     |
+| 58  | to open | /tə ˈoʊpən/     | /tə ˈəʊpən/    |
+| 59  | to drink| /tə ˈdrɪŋk/     | /tə ˈdrɪŋk/    |
+| 60  | to die  | /tə ˈdaɪ/       | /tə ˈdaɪ/      |
+| 61  | to run  | /tə ˈrʌn/       | /tə ˈrʌn/      |
+| 62  | to cry  | /tə ˈkraɪ/      | /tə ˈkraɪ/     |
+| 63  | to dance| /tə ˈdæns/      | /tə ˈdɑːns/    |
+| 64  | to pray | /tə ˈpreɪ/      | /tə ˈpreɪ/     |
+| 65  | to sing | /tə ˈsɪŋ/       | /tə ˈsɪŋ/      |
+| 66  | to sleep| /tə ˈsliːp/     | /tə ˈsliːp/    |
+| 67  | to fly  | /tə ˈflaɪ/      | /tə ˈflaɪ/     |
+| 68  | to clean| /tə ˈkliːn/     | /tə ˈkliːn/    |
+| 69  | to taste| /tə ˈteɪst/     | /tə ˈteɪst/    |
+| 70  | to live | /tə ˈlɪv/       | /tə ˈlɪv/      |

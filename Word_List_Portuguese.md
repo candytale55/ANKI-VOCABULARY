@@ -53,3 +53,23 @@
 | 48  | to cut   | cortar     | /koɾˈtaɾ/          |
 | 49  | to watch | assistir   | /asisˈtiɾ/         |
 | 50  | to bend  | dobrar     | /doˈbɾaɾ/          |
+| 51  | to fly  | voar       | /voˈaɾ/        |
+| 52  | to clean| limpar     | /ˈlĩpaɾ/       |
+| 53  | to taste| provar     | /pɾoˈvaɾ/       |
+| 54  | to live | viver      | /viˈveɾ/        |
+| 55  | to break| quebrar    | /keˈbɾaɾ/       |
+| 56  | to speak| falar      | /faˈlaɾ/        |
+| 57  | to bend | dobrar     | /doˈbɾaɾ/       |
+| 58  | to open | abrir      | /aˈbɾiɾ/        |
+| 59  | to drink| beber      | /ˈbebeɾ/        |
+| 60  | to die  | morrer     | /moˈʁeɾ/        |
+| 61  | to run  | correr     | /koˈʁeɾ/        |
+| 62  | to cry  | chorar     | /ʃoˈɾaɾ/        |
+| 63  | to dance| dançar     | /dɐ̃ˈsaɾ/       |
+| 64  | to pray | rezar      | /ʁeˈzaɾ/        |
+| 65  | to sing | cantar     | /kɐ̃ˈtaɾ/       |
+| 66  | to sleep| dormir     | /doɾˈmiɾ/       |
+| 67  | to fly  | voar       | /voˈaɾ/        |
+| 68  | to clean| limpar     | /ˈlĩpaɾ/       |
+| 69  | to taste| provar     | /pɾoˈvaɾ/       |
+| 70  | to live | viver      | /viˈveɾ/        |

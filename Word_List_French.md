@@ -214,3 +214,55 @@
 | 197 | construire | verbe | /kɔ̃s.tʁɥiʁ/ | build |
 | 198 | soi | substantif | /swa/ | self |
 | 199 | terre | substantif | /tɛʁ/ | earth |
+| 200 | père | substantif | /pɛʁ/ | father (padre) |
+| 201 | tête | substantif | /tɛt/ | head (cabeza) |
+| 202 | se tenir debout | verbe | /sə tə.niʁ də.bu/ | stand (estar de pie) |
+| 203 | posséder | verbe | /pɔ.se.de/ | own (poseer) |
+| 204 | page | substantif | /paʒ/ | page (página) |
+| 205 | devrait | verbe modal | /də.vʁɛ/ | should (debería) |
+| 206 | pays | substantif | /pe.i/ | country (país) |
+| 207 | a trouvé | verbe | /a tʁu.ve/ | found (encontró) |
+| 208 | réponse | substantif | /ʁe.pɔ̃s/ | answer (respuesta) |
+| 209 | école | substantif | /e.kɔl/ | school (escuela) |
+| 210 | croître | verbe | /kʁwatʁ/ | grow (crecer) |
+| 211 | étude | substantif | /e.tyd/ | study (estudio) |
+| 212 | toujours | adverbe | /tu.ʒuʁ/ | still (todavía) |
+| 213 | apprendre | verbe | /a.pʁɑ̃dʁ/ | learn (aprender) |
+| 214 | plante | substantif | /plɑ̃t/ | plant (planta) |
+| 215 | couvrir | verbe | /ku.vʁiʁ/ | cover (cubrir) |
+| 216 | nourriture | substantif | /nuʁ.ʁi.tyʁ/ | food (comida) |
+| 217 | soleil | substantif | /sɔ.lɛj/ | sun (sol) |
+| 218 | quatre | nombre | /katʁ/ | four (cuatro) |
+| 219 | pensée | substantif | /pɑ̃.se/ | thought (pensamiento) |
+| 220 | laisser | verbe | /lɛ.se/ | let (dejar) |
+| 221 | garder | verbe | /gaʁ.de/ | keep (mantener) |
+| 222 | œil | substantif | /œj/ | eye (ojo) |
+| 223 | jamais | adverbe | /ʒa.mɛ/ | never (nunca) |
+| 224 | dernier | adjectif | /dɛʁ.nje/ | last (último) |
+| 225 | porte | substantif | /pɔʁt/ | door (puerta) |
+| 226 | entre | préposition | /ɑ̃tʁ/ | between (entre) |
+| 227 | ville | substantif | /vil/ | city (ciudad) |
+| 228 | arbre | substantif | /aʁbʁ/ | tree (árbol) |
+| 229 | croix | substantif | /kʁwa/ | cross (cruz) |
+| 230 | depuis | préposition | /də.pɥi/ | since (desde) |
+| 231a | dur | adjectif | /dyʁ/ | hard (duro - solid or firm) |
+| 231b | difficile | adjectif | /di.fi.sil/ | hard (duro - difficult) |
+| 232 | commencer | verbe | /kɔ.mɑ̃.se/ | start (comenzar) |
+| 233 | pourrait | verbe modal | /pu.ʁʁɛ/ | might (podría) |
+| 234 | histoire | substantif | /is.twaʁ/ | story (historia) |
+| 235 | a vu | verbe | /a vy/ | saw (vio) |
+| 236 | loin | adverbe | /lwɛ̃/ | far (lejos) |
+| 237 | mer | substantif | /mɛʁ/ | sea (mar) |
+| 238 | dessiner | verbe | /de.si.ne/ | draw (dibujar) |
+| 239 | gauche | adjectif | /goʃ/ | left (izquierda) |
+| 240 | tard | adjectif | /taʁ/ | late (tarde) |
+| 241 | courir | verbe | /ku.ʁiʁ/ | run (correr) |
+| 242 | ne pas | contraction | /nə pa/ | don't (no) |
+| 243 | pendant que | conjonction | /pɑ̃.dɑ̃ kə/ | while (mientras) |
+| 244 | presser | verbe | /pʁe.se/ | press (presionar) |
+| 245 | proche | adjectif | /pʁoʃ/ | close (cerca) |
+| 246 | nuit | substantif | /nɥi/ | night (noche) |
+| 247 | réel | adjectif | /ʁe.ɛl/ | real (real) |
+| 248 | vie | substantif | /vi/ | life (vida) |
+| 249 | quelques | adjectif | /kɛlk/ | few (pocos) |
+| 250 | arrêter | verbe | /a.ʁe.te/ | stop (parar) |

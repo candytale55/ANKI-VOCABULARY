@@ -164,3 +164,53 @@
 | 148 | trop | adverbe | /tʁo/ | too |
 | 149 | fait | verbe | /fɛ/ | does |
 | 150 | dire | verbe | /diʁ/ | tell |
+| 151 | phrase | substantif | /fʁaz/ | sentence |
+| 152 | établir | verbe | /e.ta.bliʁ/ | set (establecer) |
+| 153 | trois | nombre | /tʁwa/ | three |
+| 154 | vouloir | verbe | /vu.lwaʁ/ | want |
+| 155 | air | substantif | /ɛʁ/ | air |
+| 156 | bien | adverbe | /bjɛ̃/ | well |
+| 157 | aussi | adverbe | /o.si/ | also |
+| 158a | jouer | verbe | /ʒwe/ | play (jugar - as in playing a game) |
+| 158b | jouer | verbe | /ʒwe/ | play (jugar - as in playing an instrument) |
+| 159 | petit | adjectif | /pə.ti/ | small |
+| 160 | fin | substantif | /fɛ̃/ | end |
+| 161 | mettre | verbe | /mɛtʁ/ | put |
+| 162 | maison | substantif | /me.zɔ̃/ | home |
+| 163 | lire | verbe | /liʁ/ | read |
+| 164 | main | substantif | /mɛ̃/ | hand |
+| 165 | port | substantif | /pɔʁ/ | port |
+| 166 | grand | adjectif | /ɡʁɑ̃/ | large |
+| 167 | épeler | verbe | /e.pe.le/ | spell |
+| 168 | ajouter | verbe | /a.ʒu.te/ | add |
+| 169 | même | adverbe | /mɛm/ | even |
+| 170 | terre | substantif | /tɛʁ/ | land |
+| 171 | ici | adverbe | /i.si/ | here |
+| 172 | devoir | verbe modal | /də.vwaʁ/ | must |
+| 173 | grand | adjectif | /ɡʁɑ̃/ | big |
+| 174 | haut | adjectif | /o/ | high |
+| 175 | tel | déterminant | /tɛl/ | such |
+| 176 | suivre | verbe | /sɥivʁ/ | follow |
+| 177 | agir | verbe | /a.ʒiʁ/ | act |
+| 178 | pourquoi | adverbe | /puʁ.kwa/ | why |
+| 179 | demander | verbe | /də.mɑ̃.de/ | ask |
+| 180 | hommes | substantif | /ɔm/ | men |
+| 181 | changer | verbe | /ʃɑ̃.ʒe/ | change |
+| 182 | aller | verbe | /a.le/ | went (fue - past tense of "to go") |
+| 183 | lumière | substantif | /ly.mjɛʁ/ | light |
+| 184 | type | substantif | /tip/ | kind |
+| 185 | hors de | préposition | /ɔʁ də/ | off |
+| 186 | nécessiter | verbe | /ne.se.si.te/ | need |
+| 187 | maison | substantif | /me.zɔ̃/ | house |
+| 188 | image | substantif | /i.maʒ/ | picture |
+| 189 | essayer | verbe | /e.se.je/ | try |
+| 190 | nous | pronom | /nu/ | us |
+| 191 | encore | adverbe | /ɑ̃.kɔʁ/ | again |
+| 192 | animal | substantif | /a.ni.mal/ | animal |
+| 193 | point | substantif | /pwɛ̃/ | point |
+| 194 | mère | substantif | /mɛʁ/ | mother |
+| 195 | monde | substantif | /mɔ̃d/ | world |
+| 196 | près de | préposition | /pʁɛ də/ | near |
+| 197 | construire | verbe | /kɔ̃s.tʁɥiʁ/ | build |
+| 198 | soi | substantif | /swa/ | self |
+| 199 | terre | substantif | /tɛʁ/ | earth |

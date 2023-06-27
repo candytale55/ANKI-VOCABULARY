@@ -59,3 +59,55 @@
 | 48 | un/une | article | /œ̃/, /yn/ | an |
 | 49 | chaque | déterminant | /ʃak/ | each |
 | 50 | elle | pronom | /ɛl/ | she |
+| 51 | lequel | pronom | /lə.kɛl/ | which |
+| 52 | faire | verbe | /fɛʁ/ | do |
+| 53 | leur | pronom | /lœʁ/ | their |
+| 54 | temps | substantif | /tɑ̃/ | time |
+| 55 | si | conjonction | /si/ | if |
+| 56 | sera | verbe | /sə.ʁa/ | will |
+| 57a | manière | substantif | /ma.njɛʁ/ | way ("manner, method", e.g. "the way he talks") |
+| 57b | chemin | substantif | /ʃə.mɛ̃/ | way ("route, path", e.g. "the way to the city") |
+| 58 | sur | préposition | /syʁ/ | about |
+| 59 | beaucoup | adjectif | /bo.ku/ | many |
+| 60 | alors | adverbe | /a.lɔʁ/ | then |
+| 61 | eux | pronom | /ø/ | them |
+| 62 | serait | verbe | /sə.ʁɛ/ | would |
+| 63 | écrire | verbe | /e.kʁiʁ/ | write |
+| 64 | comme | préposition | /kɔm/ | like |
+| 65 | si | adverbe | /si/ | so |
+| 66 | ces | déterminant | /sɛ/ | these |
+| 67 | elle | pronom | /ɛl/ | her |
+| 67 | son | pronom | /sɔ̃/ | her |
+| 68 | long | adjectif | /lɔ̃/ | long |
+| 69 | faire | verbe | /fɛʁ/ | make |
+| 70 | chose | substantif | /ʃoz/ | thing |
+| 71 | voir | verbe | /vwaʁ/ | see |
+| 72 | lui | pronom | /lɥi/ | him |
+| 73 | deux | nombre | /dø/ | two |
+| 74 | a | verbe | /a/ | has |
+| 75 | regarder | verbe | /ʁə.ɡaʁ.de/ | look |
+| 76 | plus | adjectif | /ply/ | more |
+| 77 | jour | substantif | /ʒuʁ/ | day |
+| 78 | pourrait | verbe | /pu.ʁɛ/ | could |
+| 79 | aller | verbe | /a.le/ | go |
+| 80 | venir | verbe | /və.niʁ/ | come |
+| 81 | a fait | verbe | /a fɛ/ | did |
+| 82 | mon | pronom | /mɔ̃/ | my |
+| 83 | son | substantif | /sɔ̃/ | sound |
+| 84 | non | déterminant | /nɔ̃/ | no |
+| 85 | plus | adjectif | /ply/ | most |
+| 86 | numéro | substantif | /ny.me.ʁo/ | number |
+| 87 | qui | pronom | /ki/ | who |
+| 88 | sur | préposition | /syʁ/ | over |
+| 89 | savoir | verbe | /sa.vwaʁ/ | know |
+| 90 | eau | substantif | /o/ | water |
+| 91 | que | conjonction | /kə/ | than |
+| 92 | appeler | verbe | /a.pe.le/ | call |
+| 93 | premier | adjectif | /pʁə.mje/ | first |
+| 94 | gens | substantif | /ʒɑ̃/ | people |
+| 95 | peut | verbe | /pø/ | may |
+| 96 | bas | adverbe | /bɑ/ | down |
+| 97 | côté | substantif | /ko.te/ | side |
+| 98 | été | verbe | /e.te/ | been |
+| 99 | maintenant | adverbe | /mɛ̃.tə.nɑ̃/ | now |
+| 100 | trouver | verbe | /tʁu.ve/ | find |

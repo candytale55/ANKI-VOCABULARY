@@ -111,3 +111,56 @@
 | 98 | été | verbe | /e.te/ | been |
 | 99 | maintenant | adverbe | /mɛ̃.tə.nɑ̃/ | now |
 | 100 | trouver | verbe | /tʁu.ve/ | find |
+| 101a | aucun | déterminant | /o.kœ̃/ | any (in negative sentences, e.g. "I don't have any apples.") |
+| 101b | quelque | déterminant | /kɛlk/ | any (in interrogative and conditional sentences, e.g. "If you see any problems...") |
+| 102 | nouveau | adjectif | /nu.vo/ | new |
+| 103 | travail | substantif | /tʁa.vaj/ | work |
+| 104 | partie | substantif | /paʁ.ti/ | part |
+| 105 | prendre | verbe | /pʁɑ̃dʁ/ | take |
+| 106 | obtenir | verbe | /ɔpt.niʁ/ | get |
+| 107 | lieu | substantif | /ljø/ | place |
+| 108 | fait | verbe | /fɛ/ | made |
+| 109 | vivre | verbe | /vivʁ/ | live |
+| 110 | où | adverbe | /u/ | where |
+| 111 | après | préposition | /a.pʁɛ/ | after |
+| 112 | derrière | adverbe | /dɛ.ʁjɛʁ/ | back |
+| 113 | petit | adjectif | /pə.ti/ | little |
+| 114 | seulement | adverbe | /səl.mɑ̃/ | only |
+| 115 | rond | adjectif | /ʁɔ̃/ | round |
+| 116 | homme | substantif | /ɔm/ | man |
+| 117 | année | substantif | /a.ne/ | year |
+| 118 | venu | verbe | /və.ny/ | came |
+| 119 | montrer | verbe | /mɔ̃.tʁe/ | show |
+| 120 | chaque | déterminant | /ʃak/ | every |
+| 121 | bon | adjectif | /bɔ̃/ | good |
+| 122 | moi | pronom | /mwa/ | me |
+| 123 | donner | verbe | /dɔ.ne/ | give |
+| 124 | notre | pronom | /nɔtʁ/ | our |
+| 125 | sous | préposition | /su/ | under |
+| 126 | nom | substantif | /nɔm/ | name |
+| 127 | très | adverbe | /tʁɛ/ | very |
+| 128 | à travers | préposition | /a tʁa.veʁ/ | through |
+| 129 | juste | adverbe | /ʒyst/ | just |
+| 130 | forme | substantif | /fɔʁm/ | form |
+| 131 | beaucoup | adverbe | /bo.ku/ | much |
+| 132a | grand | adjectif | /ɡʁɑ̃/ | great (as in "big", e.g. "a great castle") |
+| 132b | génial | adjectif | /ʒe.njal/ | great (as in "awesome", e.g. "a great day") |
+| 133 | penser | verbe | /pɑ̃.se/ | think |
+| 134 | dire | verbe | /diʁ/ | say |
+| 135 | aider | verbe | /e.de/ | help |
+| 136 | bas | adjectif | /ba/ | low |
+| 137 | ligne | substantif | /liɲ/ | line |
+| 138 | avant | préposition | /a.vɑ̃/ | before |
+| 139 | tourner | verbe | /tuʁ.ne/ | turn |
+| 140 | cause | substantif | /koz/ | cause |
+| 141 | même | adjectif | /mɛm/ | same |
+| 142 | signifier | verbe | /siɲi.fje/ | mean |
+| 143 | différer | verbe | /di.fe.ʁe/ | differ |
+| 144 | bouger | verbe | /bu.ʒe/ | move |
+| 145a | correct | adjectif | /kɔ.ʁɛkt/ | right (as in "correct", e.g. "the right answer") |
+| 145b | droit | adjectif | /dʁwa/ | right (as in "opposite of left", e.g. "turn right") |
+| 146 | garçon | substantif | /gaʁ.sɔ̃/ | boy |
+| 147 | vieux | adjectif | /vjø/ | old |
+| 148 | trop | adverbe | /tʁo/ | too |
+| 149 | fait | verbe | /fɛ/ | does |
+| 150 | dire | verbe | /diʁ/ | tell |

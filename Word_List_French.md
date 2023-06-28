@@ -266,3 +266,53 @@
 | 248 | vie | substantif | /vi/ | life (vida) |
 | 249 | quelques | adjectif | /kɛlk/ | few (pocos) |
 | 250 | arrêter | verbe | /a.ʁe.te/ | stop (parar) |
+| 251 | ouvert | adjectif | /u.vɛʁ/ | open (abierto) |
+| 252 | sembler | verbe | /sɑ̃.ble/ | seem (parecer) |
+| 253 | ensemble | adverbe | /ɑ̃.sɑ̃bl/ | together (juntos) |
+| 254 | suivant | adjectif | /sɥi.vɑ̃/ | next (siguiente) |
+| 255 | blanc | adjectif | /blɑ̃/ | white (blanco) |
+| 256 | enfants | substantif | /ɑ̃.fɑ̃/ | children (niños) |
+| 257 | commencer | verbe | /kɔ.mɑ̃.se/ | begin (comenzar) |
+| 258 | a obtenu | verbe | /a ɔp.te.ny/ | got (consiguió) |
+| 259 | marcher | verbe | /maʁ.ʃe/ | walk (caminar) |
+| 260 | exemple | substantif | /ɛɡ.zɑ̃pl/ | example (ejemplo) |
+| 261 | facilité | substantif | /fa.si.li.te/ | ease (facilidad) |
+| 262 | papier | substantif | /pa.pje/ | paper (papel) |
+| 263 | souvent | adverbe | /su.vɑ̃/ | often (a menudo) |
+| 264 | toujours | adverbe | /tu.ʒuʁ/ | always (siempre) |
+| 265 | musique | substantif | /my.zik/ | music (música) |
+| 266 | ceux | pronom | /sø/ | those (esos) |
+| 267 | tous deux | déterminant | /tus dø/ | both (ambos) |
+| 268 | marquer | verbe | /maʁ.ke/ | mark (marcar) |
+| 269 | livre | substantif | /liʁv/ | book (libro) |
+| 270 | lettre | substantif | /lɛtʁ/ | letter (carta) |
+| 271 | jusqu'à | préposition | /ʒys.ka/ | until (hasta) |
+| 272 | mille | substantif | /mil/ | mile (milla) |
+| 273 | rivière | substantif | /ʁi.vjɛʁ/ | river (río) |
+| 274 | voiture | substantif | /vwatyʁ/ | car (coche) |
+| 275 | pieds | substantif | /pje/ | feet (pies) |
+| 276 | soigner | verbe | /swa.ɲe/ | care (cuidar) |
+| 277 | deuxième | adjectif | /dø.zjɛm/ | second (segundo) |
+| 278 | groupe | substantif | /gʁup/ | group (grupo) |
+| 279 | porter | verbe | /pɔʁ.te/ | carry (llevar) |
+| 280 | a pris | verbe | /a pʁi/ | took (tomó) |
+| 281 | pluie | substantif | /plɥi/ | rain (lluvia) |
+| 282 | manger | verbe | /mɑ̃.ʒe/ | eat (comer) |
+| 283 | chambre | substantif | /ʃɑ̃bʁ/ | room (habitación) |
+| 284 | ami | substantif | /a.mi/ | friend (amigo) |
+| 285 | a commencé | verbe | /a kɔ.mɑ̃.se/ | began (comenzó) |
+| 286 | idée | substantif | /i.de/ | idea (idea) |
+| 287 | poisson | substantif | /pwa.sɔ̃/ | fish (pescado) |
+| 288 | montagne | substantif | /mɔ̃.taɲ/ | mountain (montaña) |
+| 289 | nord | substantif | /nɔʁ/ | north (norte) |
+| 290 | une fois | adverbe | /yn fwa/ | once (una vez) |
+| 291 | base | substantif | /baz/ | base (base) |
+| 292 | écouter | verbe | /e.ku.te/ | hear (escuchar) |
+| 293 | cheval | substantif | /ʃə.val/ | horse (caballo) |
+| 294 | couper | verbe | /ku.pe/ | cut (cortar) |
+| 295 | sûr | adjectif | /syʁ/ | sure (seguro) |
+| 296 | regarder | verbe | /ʁə.ɡaʁ.de/ | watch (mirar) |
+| 297 | couleur | substantif | /ku.lœʁ/ | color (color) |
+| 298 | visage | substantif | /vi.zaʒ/ | face (cara) |
+| 299 | bois | substantif | /bwa/ | wood (madera) |
+| 300 | principal | adjectif | /pʁɛ̃.si.pal/ | main (principal) |

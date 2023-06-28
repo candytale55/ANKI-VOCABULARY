@@ -316,3 +316,54 @@
 | 298 | visage | substantif | /vi.zaʒ/ | face (cara) |
 | 299 | bois | substantif | /bwa/ | wood (madera) |
 | 300 | principal | adjectif | /pʁɛ̃.si.pal/ | main (principal) |
+| 301 | assez | adverbe | /a.se/ | enough (suficiente) |
+| 302a | simple | adjectif | /sɛ̃.pl/ | plain (llano) |
+| 302b | uni | adjectif | /y.ni/ | plain (llano) |
+| 303 | fille | substantif | /fij/ | girl (chica) |
+| 304 | habituel | adjectif | /a.bi.tɥɛl/ | usual (usual) |
+| 305 | jeune | adjectif | /ʒœn/ | young (joven) |
+| 306 | prêt | adjectif | /pʁɛ/ | ready (listo) |
+| 307 | au-dessus | préposition | /o də.su/ | above (encima) |
+| 308 | jamais | adverbe | /ʒa.mɛ/ | ever (alguna vez) |
+| 309 | rouge | adjectif | /ʁuʒ/ | red (rojo) |
+| 310 | liste | substantif | /list/ | list (lista) |
+| 311 | bien que | conjonction | /bjɛ̃ kə/ | though (aunque) |
+| 312 | sentir | verbe | /sɑ̃.tiʁ/ | feel (sentir) |
+| 313 | parler | verbe | /paʁ.le/ | talk (hablar) |
+| 314 | oiseau | substantif | /wa.zo/ | bird (pájaro) |
+| 315 | bientôt | adverbe | /bjɛ̃.to/ | soon (pronto) |
+| 316 | corps | substantif | /kɔʁ/ | body (cuerpo) |
+| 317 | chien | substantif | /ʃjɛ̃/ | dog (perro) |
+| 318 | famille | substantif | /fa.mij/ | family (familia) |
+| 319 | direct | adjectif | /di.ʁɛkt/ | direct (directo) |
+| 320 | poser | verbe | /po.ze/ | pose (posar) |
+| 321 | laisser | verbe | /lɛ.se/ | leave (dejar) |
+| 322 | chanson | substantif | /ʃɑ̃.sɔ̃/ | song (canción) |
+| 323 | mesure | substantif | /mə.zyʁ/ | measure (medida) |
+| 324 | état | substantif | /e.ta/ | state (estado) |
+| 325 | produit | substantif | /pʁo.dɥi/ | product (producto) |
+| 326 | noir | adjectif | /nwaʁ/ | black (negro) |
+| 327 | court | adjectif | /kuʁ/ | short (corto) |
+| 328 | numéral | substantif | /ny.me.ʁal/ | numeral (numeral) |
+| 329 | classe | substantif | /klas/ | class (clase) |
+| 330 | vent | substantif | /vɑ̃/ | wind (viento) |
+| 331 | question | substantif | /kɛs.tjɔ̃/ | question (pregunta) |
+| 332 | arriver | verbe | /a.ʁi.ve/ | happen (suceder) |
+| 333 | complet | adjectif | /kɔ̃.plɛ/ | complete (completo) |
+| 334 | navire | substantif | /na.viʁ/ | ship (barco) |
+| 335 | zone | substantif | /zon/ | area (área) |
+| 336 | moitié | substantif | /mwa.tje/ | half (mitad) |
+| 337 | roche | substantif | /ʁɔʃ/ | rock (roca) |
+| 338 | ordre | substantif | /ɔʁ.dʁ/ | order (orden) |
+| 339 | feu | substantif | /fø/ | fire (fuego) |
+| 340 | sud | substantif | /syd/ | south (sur) |
+| 341 | problème | substantif | /pʁɔ.blɛm/ | problem (problema) |
+| 342 | pièce | substantif | /pjɛs/ | piece (pieza) |
+| 343 | a dit | verbe | /a di/ | told (contó) |
+| 344 | savait | verbe | /sa.vɛ/ | knew (sabía) |
+| 345 | passer | verbe | /pa.se/ | pass (pasar) |
+| 346 | ferme | substantif | /fɛʁm/ | farm (granja) |
+| 347 | sommet | substantif | /sɔ.mɛ/ | top (cima) |
+| 348 | entier | adjectif | /ɑ̃.tje/ | whole (entero) |
+| 349 | roi | substantif | /ʁwa/ | king (rey) |
+| 350 | taille | substantif | /taj/ | size (tamaño) |

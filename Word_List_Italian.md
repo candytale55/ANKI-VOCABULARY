@@ -152,7 +152,56 @@
 | 148 | troppo                   | avverbio                 | /ˈtrɔp.po/   | too               |
 | 149 | fa                       | verbo                    | /fa/         | does              |
 | 150 | dire                     | verbo                    | /ˈdi.rɛ/     | tell              |
-
+| 151 | frase                    | sostantivo               | /ˈfra.zɛ/    | sentence          |
+| 152 | impostare                | verbo                    | /im.po.ˈsta.re/| set               |
+| 153 | tre                      | numero                   | /trɛ/        | three             |
+| 154 | volere                   | verbo                    | /ˈvoː.le.re/ | want              |
+| 155 | aria                     | sostantivo               | /ˈa.ri.a/    | air               |
+| 156 | bene                     | avverbio                 | /ˈbɛ.ne/     | well              |
+| 157 | anche                    | avverbio                 | /ˈan.kɛ/     | also              |
+| 158 | giocare                  | verbo                    | /dʒo.ˈka.re/ | play              |
+| 159 | piccolo                  | aggettivo                | /ˈpi.kko.lo/ | small             |
+| 160 | fine                     | sostantivo               | /ˈfi.nɛ/     | end               |
+| 161 | mettere                  | verbo                    | /mɛt.ˈte.re/ | put               |
+| 162 | casa                     | sostantivo               | /ˈka.za/     | home              |
+| 163 | leggere                  | verbo                    | /lɛd.ˈʤɛ.re/ | read              |
+| 164 | mano                     | sostantivo               | /ˈma.no/     | hand              |
+| 165 | porto                    | sostantivo               | /ˈpor.to/    | port              |
+| 166 | grande                   | aggettivo                | /ˈgran.de/   | large             |
+| 167 | scrivere                 | verbo                    | /ˈskri.vɛ.re/| spell             |
+| 168 | aggiungere               | verbo                    | /ad.ˈdʒuŋ.ɡɛ.re/| add               |
+| 169 | anche                    | avverbio                 | /ˈan.kɛ/     | even              |
+| 170 | terra                    | sostantivo               | /ˈtɛr.ra/    | land              |
+| 171 | qui                      | avverbio                 | /ˈkwi/       | here              |
+| 172 | dovere                   | verbo modale             | /ˈdɔ.vɛ.re/  | must              |
+| 173 | grande                   | aggettivo                | /ˈɡran.de/   | big               |
+| 174 | alto                     | aggettivo                | /ˈal.to/     | high              |
+| 175 | tale                     | determinante             | /ˈta.lɛ/     | such              |
+| 176 | seguire                  | verbo                    | /sɛˈɡwi.re/  | follow            |
+| 177 | agire                    | verbo                    | /a.ˈʤi.re/   | act               |
+| 178 | perché                   | avverbio                 | /per.ˈkɛ/    | why               |
+| 179 | chiedere                 | verbo                    | /kje.ˈdɛ.re/ | ask               |
+| 180 | uomini                   | sostantivo               | /ˈuː.mo.ni/  | men               |
+| 181 | cambiare                 | verbo                    | /kam.ˈbja.re/| change            |
+| 182 | andare                   | verbo                    | /ˈan.da.re/  | went              |
+| 183 | luce                     | sostantivo               | /ˈlu.tʃe/    | light             |
+| 184 | tipo                     | sostantivo               | /ˈti.po/     | kind              |
+| 185 | fuori                    | preposizione             | /ˈfwo.ri/    | off               |
+| 186 | avere bisogno di         | verbo                    | /a.ˈvɛ.re bi.ˈzɔ.ɲo di/| need          |
+| 187 | casa                     | sostantivo               | /ˈka.za/     | house             |
+| 188 | immagine                 | sostantivo               | /im.ma.ˈʤi.nɛ/| picture           |
+| 189 | provare                  | verbo                    | /pro.ˈva.re/ | try               |
+| 190 | noi                      | pronome                  | /ˈnɔi/       | us                |
+| 191 | di nuovo                 | avverbio                 | /di ˈnwɔ.vo/ | again             |
+| 192 | animale                  | sostantivo               | /a.ˈni.ma.le/| animal            |
+| 193 | punto                    | sostantivo               | /ˈpun.to/    | point             |
+| 194 | madre                    | sostantivo               | /ˈma.dre/    | mother            |
+| 195 | mondo                    | sostantivo               | /ˈmon.do/    | world             |
+| 196 | vicino a                 | preposizione             | /vi.ˈʧi.no a/ | near              |
+| 197 | costruire                | verbo                    | /ko.ˈstrwi.re/| build             |
+| 198 | sé                       | sostantivo               | /ˈse/        | self              |
+| 199 | terra                    | sostantivo               | /ˈtɛr.ra/    | earth             |
+| 200 | padre                    | sostantivo               | /ˈpa.dre/    | father            |
 
 
 ## Old list

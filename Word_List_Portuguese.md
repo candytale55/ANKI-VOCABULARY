@@ -58,6 +58,70 @@
 | 48 | uma | artigo | /'u.mɐ/ | an (female) |
 | 49 | cada | determinante | /'ka.dɐ/ | each |
 | 50 | ela | pronome | /'e.lɐ/ | she |
+| 51a | qual | pronome | /ku'al/ | which (single) |
+| 51b | quais | pronome | /kajʃ/ | which (plural) |
+| 52 | fazer | verbo | /fa'zeɾ/ | do |
+| 53 | seu | pronome | /sew/ | their (belonging to a male individual or a mixed group of individuals) |
+| 53a | sua | pronome | /'su.ɐ/ | their (belonging to a female individual or group of females) |
+| 54 | tempo | substantivo | /'tẽ.pu/ | time |
+| 55 | se | conjunção | /si/ | if |
+| 56 | será | verbo | /se'ɾa/ | will (future tense of the verb 'be') |
+| 57a | maneira | substantivo | /ma'nejɾa/ | way (manner, way of doing something) |
+| 57b | caminho | substantivo | /ka'miɲu/ | way (path, route) |
+| 58 | sobre | preposição | /'so.bɾi/ | about |
+| 59 | muitos | adjetivo | /'muj.tuʃ/ | many (male or mixed gender) |
+| 59a | muitas | adjetivo | /'muj.tɐʃ/ | many (female) |
+| 60 | então | advérbio | /ẽ'tɐ̃w̃/ | then |
+| 61 | eles | pronome | /'ɛ.lis/ | them (male or mixed gender) |
+| 61a | elas | pronome | /'ɛ.lɐʃ/ | them (female) |
+| 62 | seria | verbo | /se'ɾia/ | would |
+| 63 | escrever | verbo | /is.kɾi'veɾ/ | write |
+| 64 | como | preposição | /'ko.mu/ | like |
+| 65a | assim | advérbio | /ɐ'sĩj/ | so (like this) |
+| 65b | tão | advérbio | /tɐ̃w̃/ | so (very) |
+| 66a | estes | determinante | /'ɛs.tis/ | these (male or mixed gender) |
+| 66b | estas | determinante | /'ɛs.tɐʃ/ | these (female) |
+| 67a | ela | pronome | /'e.lɐ/ | her (referring to her) |
+| 67b | seu | pronome | /sew/ | her (belonging to her - object is male or unspecified) |
+| 67c | sua | pronome | /'su.ɐ/ | her (belonging to her - object is female) |
+| 68 | longo | adjetivo | /'lõ.gu/ | long (male or unspecified) |
+| 68a | longa | adjetivo | /'lõ.gɐ/ | long (female) |
+| 69 | fazer | verbo | /fa'zeɾ/ | make |
+| 70 | coisa | substantivo | /'koj.zɐ/ | thing |
+| 71 | ver | verbo | /veɾ/ | see |
+| 72 | ele | pronome | /'ɛ.li/ | him |
+| 73 | dois | número | /dojʃ/ | two (male or mixed gender) |
+| 73a | duas | número | /'dwɐʃ/ | two (female) |
+| 74 | tem | verbo | /tẽj/ | has |
+| 75 | olhar | verbo | /o'ʎaɾ/ | look |
+| 76 | mais | adjetivo | /majʃ/ | more |
+| 77 | dia | substantivo | /'di.ɐ/ | day |
+| 78 | poderia | verbo | /po.de'ɾi.ɐ/ | could |
+| 79 | ir | verbo | /iɾ/ | go |
+| 80 | vir | verbo | /viɾ/ | come |
+| 81 | fez | verbo | /fɛʃ/ | did |
+| 82 | meu | pronome | /mew/ | my (object is male or unspecified) |
+| 82a | minha | pronome | /'mi.ɲɐ/ | my (object is female) |
+| 83 | som | substantivo | /sõj/ | sound |
+| 84 | não | determinante | /nɐ̃w̃/ | no |
+| 85 | mais | adjetivo | /majʃ/ | most |
+| 86 | número | substantivo | /'nu.me.ɾu/ | number |
+| 87 | quem | pronome | /kẽj/ | who |
+| 88 | sobre | preposição | /'so.bɾi/ | over |
+| 89 | saber | verbo | /sa'beɾ/ | know |
+| 90 | água | substantivo | /'a.gwɐ/ | water |
+| 91 | que | conjunção | /ke/ | than |
+| 92 | chamar | verbo | /ʃa'maɾ/ | call |
+| 93 | primeiro | adjetivo | /pri'mej.ɾu/ | first (male or unspecified) |
+| 93a | primeira | adjetivo | /pri'mej.ɾɐ/ | first (female) |
+| 94a | gente | substantivo | /'ʒẽ.tʃi/ | people (informal, collective) |
+| 94b | pessoas | substantivo | /pe'so.ɐʃ/ | people (formal, plural) |
+| 95 | pode | verbo | /po'dɛ/ | may |
+| 96 | abaixo | advérbio | /ɐ'ba.jʃu/ | down |
+| 97 | lado | substantivo | /'la.du/ | side |
+| 98 | sido | verbo | /'si.du/ | been |
+| 99 | agora | advérbio | /ɐ'go.ɾɐ/ | now |
+| 100 | encontrar | verbo | /ẽ.kõ.tɾa'ɾaɾ/ | find |
 
 
 
@@ -72,8 +136,7 @@
 
 
 
-
-
+## Lista anterior
 
 | No. | English | Portuguese | Portuguese IPA |
 |-----|---------|------------|----------------|

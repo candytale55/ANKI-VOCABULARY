@@ -1,5 +1,80 @@
 # Portuguese Word List with IPA
 
+| N° | Palavra em português | Tipo de palavra | IPA português | Palavra em inglês |
+|---|---|---|---|---|
+| 1a | o | artigo | /u/ | the (male, singular) |
+| 1b | a | artigo | /ɐ/ | the (female, singular) |
+| 1c | os | artigo | /uʃ/ | the (male, plural) |
+| 1d | as | artigo | /ɐʃ/ | the (female, plural) |
+| 2 | de | preposição | /dʒi/ | of |
+| 3 | para | preposição | /'pa.ɾɐ/ | to |
+| 4 | e | conjunção | /i/ | and |
+| 5 | um | artigo | /ũ/ | a (male) |
+| 6 | em | preposição | /ẽj/ | in |
+| 7 | é | verbo | /e/ | is |
+| 8 | ele | pronome | /'e.li/ | it |
+| 9 | você | pronome | /vo.'se/ | you |
+| 10 | que | conjunção | /ke/ | that |
+| 11 | ele | pronome | /'e.li/ | he |
+| 12 | foi | verbo | /foj/ | was |
+| 13 | para | preposição | /'pa.ɾɐ/ | for |
+| 14 | em | preposição | /ẽj/ | on (context: em cima) |
+| 15 | são | verbo | /sɐ̃w̃/ | are |
+| 16 | com | preposição | /kõj/ | with |
+| 17 | como | conjunção | /'ko.mu/ | as |
+| 18 | eu | pronome | /ew/ | I |
+| 19 | seu | pronome | /sew/ | his |
+| 20 | eles | pronome | /'e.lis/ | they |
+| 21a | ser | verbo | /seɾ/ | be (permanent) |
+| 21b | estar | verbo | /is.'taɾ/ | be (temporary) |
+| 22 | em | preposição | /ẽj/ | at |
+| 23 | um | substantivo | /ũ/ | one |
+| 24 | ter | verbo | /teɾ/ | have |
+| 25 | este | pronome | /'es.t(ʃ)i/ | this (male) |
+| 26 | de | preposição | /dʒi/ | from |
+| 27 | ou | conjunção | /ow/ | or |
+| 28a | tinha | verbo | /'tʃi.ɲɐ/ | had (past of have) |
+| 28b | havia | verbo | /a.'vi.ɐ/ | had (past of have - auxiliary) |
+| 29 | por | preposição | /poɾ/ | by |
+| 30 | quente | adjetivo | /'kẽ.t(ʃ)i/ | hot |
+| 31 | mas | conjunção | /maʃ/ | but |
+| 32 | alguns | pronome | /ɐ.'gũjs/ | some |
+| 33 | que | pronome | /ke/ | what |
+| 34 | lá | advérbio | /la/ | there |
+| 35 | nós | pronome | /nɔs/ | we |
+| 36 | pode | verbo | /'po.d(ʃ)i/ | can |
+| 37 | fora | advérbio | /'fo.ɾɐ/ | out |
+| 38 | outro | adjetivo | /'o.tɾu/ | other |
+| 39a | eram | verbo | /'e.ɾɐ̃w/ | were (past of be - permanent) |
+| 39b | estavam | verbo | /is.'ta.vɐ̃w/ | were (past of be - temporary) |
+| 40 | todos | adjetivo | /'to.duʃ/ | all |
+| 41 | seu | pronome | /sew/ | your |
+| 42 | quando | advérbio | /'kwɐ̃.du/ | when |
+| 43 | acima | advérbio | /ɐ.'si.mɐ/ | up |
+| 44 | usar | verbo | /u.'zaɾ/ | use |
+| 45 | palavra | substantivo | /pa.'la.vɾɐ/ | word |
+| 46 | como | advérbio | /'ko.mu/ | how |
+| 47 | disse | verbo | /'di.si/ | said |
+| 48 | uma | artigo | /'u.mɐ/ | an (female) |
+| 49 | cada | determinante | /'ka.dɐ/ | each |
+| 50 | ela | pronome | /'e.lɐ/ | she |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 | No. | English | Portuguese | Portuguese IPA |
 |-----|---------|------------|----------------|
 | 1   | I       | eu         | /ew/           |

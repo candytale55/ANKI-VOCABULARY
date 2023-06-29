@@ -56,7 +56,59 @@
 | 48  | ein            | Artikel        | /aɪn/     | an         |
 | 49  | jeder          | Determinativ   | /ˈjeːdɐ/  | each       |
 | 50  | sie            | Pronomen       | /ziː/     | she        |
-
+| 51a   | welches   | Pronomen   | /ˈvɛlçəs/    | which                                 |
+| 51b   | welche    | Pronomen   | /ˈvɛlçə/     | which (feminine, plural)              |
+| 51c   | welcher   | Pronomen   | /ˈvɛlçər/    | which (masculine, plural)             |
+| 51d   | welchem   | Pronomen   | /ˈvɛlçəm/    | which (neuter, dative singular)       |
+| 52  | tun        | Verb           | /tuːn/  | do                            |
+| 53  | ihr        | Pronomen       | /iːɐ̯/    | their                         |
+| 54  | Zeit       | Substantiv     | /tsaɪt/ | time                          |
+| 55  | wenn       | Konjunktion    | /vɛn/    | if                            |
+| 56  | werden     | Verb           | /ˈvɛʁdən/ | will                          |
+| 57  | Weg        | Substantiv     | /veːk/  | way                           |
+| 58  | über      | Präposition   | /ˈyːbɐ/   | about                         |
+| 59  | viele      | Adjektiv       | /ˈfiːlə/  | many                          |
+| 60  | dann       | Adverb         | /dan/   | then                          |
+| 61  | sie        | Pronomen       | /ziː/   | them                          |
+| 62  | würde     | Verb           | /ˈvʏʁdə/  | would                         |
+| 63  | schreiben  | Verb           | /ˈʃʁaɪbn̩/  | write                         |
+| 64  | wie        | Präposition   | /viː/    | like                          |
+| 65  | so         | Adverb         | /zoː/    | so                            |
+| 66  | diese     | Artikel         | /ˈdiːzə/  | these                         |
+| 67  | ihr        | Pronomen       | /iːɐ̯/    | her                           |
+| 68  | lang       | Adjektiv       | /laŋ/   | long                          |
+| 69  | machen    | Verb           | /ˈmaχn̩/  | make                          |
+| 70  | Ding       | Substantiv     | /dɪŋ/   | thing                         |
+| 71  | sehen      | Verb           | /ˈzeːən/ | see                           |
+| 72  | ihn        | Pronomen       | /iːn/    | him                           |
+| 73  | zwei      | Nummer         | /tsvaɪ/  | two                           |
+| 74  | haben      | Verb           | /ˈhaːbn̩/  | have                          |
+| 75  | schauen   | Verb           | /ˈʃaʊən/ | look                          |
+| 76  | mehr      | Adjektiv       | /meːɐ̯/   | more                          |
+| 77  | Tag        | Substantiv     | /taːk/  | day                           |
+| 78  | könnte    | Verb           | /ˈkœn̩tə/ | could                         |
+| 79  | gehen      | Verb           | /ˈɡeːən/ | go                            |
+| 80  | kommen    | Verb           | /ˈkɔmən/ | come                          |
+| 81  | tat        | Verb           | /tat/   | did                           |
+| 82  | mein       | Pronomen       | /maɪn/  | my                            |
+| 83  | Klang      | Substantiv     | /klaŋ/   | sound                         |
+| 84  | keine     | Artikel         | /ˈkaɪ̯nə/  | no                            |
+| 85  | die meisten | Adjektiv       | /diː ˈmaɪ̯stən/ | most                          |
+| 86  | Nummer    | Substantiv     | /ˈnʊmɐ/  | number                        |
+| 87  | wer        | Pronomen       | /vɛʁ/   | who                           |
+| 88  | über       | Präposition   | /ˈyːbɐ/   | over                          |
+| 89  | wissen    | Verb           | /ˈvɪsn̩/  | know                          |
+| 90  | Wasser     | Substantiv     | /ˈvasɐ/  | water                         |
+| 91  | als        | Konjunktion    | /als/   | than                          |
+| 92  | rufen     | Verb           | /ˈʁuːfn̩/ | call                          |
+| 93  | erst       | Adjektiv       | /ɛʁst/  | first                         |
+| 94  | Leute      | Substantiv     | /ˈlɔʏ̯tə/  | people                        |
+| 95  | dürfen    | Verb           | /ˈdœʁfn̩/ | may                           |
+| 96  | herunter | Adverb         | /hɛˈʁʊntɐ/ | down                          |
+| 97  | Seite      | Substantiv     | /ˈzaɪ̯tə/  | side                          |
+| 98  | gewesen   | Verb           | /ɡəˈveːzn̩/ | been                          |
+| 99  | jetzt      | Adverb         | /ˈjɛtst/  | now                           |
+| 100 | finden    | Verb           | /ˈfɪndən/ | find                          |
 
 
 ## Old List

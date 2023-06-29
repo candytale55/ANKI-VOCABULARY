@@ -352,6 +352,56 @@
 | 348 | intero             | aggettivo           | /in.ˈtɛ.ro/  | whole       |
 | 349 | re                 | sostantivo          | /re/         | king        |
 | 350 | dimensione         | sostantivo          | /di.mɛn.ˈsjɔ.ne/| size      |
+| 351 | sentito            | verbo               | /sɛn.ˈti.to/  | heard      |
+| 352 | migliore           | aggettivo           | /miʎ.ˈɡjo.re/ | best       |
+| 353 | ora                | sostantivo          | /ˈo.ra/       | hour       |
+| 354 | migliore           | aggettivo           | /miʎ.ˈɡjo.re/ | better     |
+| 355 | vero               | aggettivo           | /ˈvɛ.ro/      | true       |
+| 356 | durante            | preposizione        | /dur.ˈan.te/  | during     |
+| 357 | cento              | numeral             | /ˈʧɛn.to/     | hundred    |
+| 358 | sono               | verbo               | /ˈso.no/      | am         |
+| 359 | ricordare          | verbo               | /ri.kor.ˈda.re/| remember   |
+| 360 | passo              | sostantivo          | /ˈpas.so/     | step       |
+| 361 | presto             | aggettivo           | /ˈprɛs.to/    | early      |
+| 362 | tenere             | verbo               | /ˈtɛ.nɛ.re/   | hold       |
+| 363 | ovest              | sostantivo          | /ˈo.vɛst/     | west       |
+| 364 | terra              | sostantivo          | /ˈtɛr.ra/     | ground     |
+| 365 | interesse          | sostantivo          | /ˈin.trɛs.se/ | interest   |
+| 366 | raggiungere        | verbo               | /ra.ˈʤun.ʤe.re/| reach     |
+| 367 | veloce             | aggettivo           | /ˈvɛ.lo.tʃe/  | fast       |
+| 368 | cinque             | numeral             | /ˈʧin.kwe/    | five       |
+| 369 | cantare            | verbo               | /kan.ˈta.re/  | sing       |
+| 370 | ascoltare          | verbo               | /a.ˈskol.ta.re/| listen     |
+| 371 | sei                | numeral             | /ˈsɛi/        | six        |
+| 372 | tavolo             | sostantivo          | /ˈta.vo.lo/   | table      |
+| 373 | viaggiare          | verbo               | /vjat.ˈʤa.re/ | travel     |
+| 374 | meno               | aggettivo           | /ˈmɛ.no/      | less       |
+| 375 | mattina            | sostantivo          | /mat.ˈti.na/  | morning    |
+| 376 | dieci              | numeral             | /ˈdiɛ.tʃi/    | ten        |
+| 377 | semplice           | aggettivo           | /ˈsɛm.pli.ʧe/| simple     |
+| 378 | diversi            | aggettivo           | /di.ˈvɛr.si/  | several    |
+| 379 | vocale             | sostantivo          | /vo.ˈka.le/   | vowel      |
+| 380 | verso              | preposizione        | /ˈvɛr.so/     | toward     |
+| 381 | guerra             | sostantivo          | /ˈɡwɛr.ra/    | war        |
+| 382 | mettere            | verbo               | /ˈmɛt.te.re/  | lay        |
+| 383 | contro             | preposizione        | /ˈkon.tro/    | against    |
+| 384 | modello            | sostantivo          | /mo.ˈdɛl.lo/  | pattern    |
+| 385 | lento              | aggettivo           | /ˈlɛn.to/     | slow       |
+| 386 | centro             | sostantivo          | /ˈtʃɛn.tro/   | center     |
+| 387 | amore              | sostantivo          | /a.ˈmo.re/    | love       |
+| 388 | persona            | sostantivo          | /per.ˈso.na/  | person     |
+| 389 | denaro             | sostantivo          | /ˈdɛ.na.ro/   | money      |
+| 390 | servire            | verbo               | /sɛr.ˈvi.re/  | serve      |
+| 391 | apparire           | verbo               | /ap.pa.ˈri.re/| appear     |
+| 392 | strada             | sostantivo          | /ˈstra.da/    | road       |
+| 393 | mappa              | sostantivo          | /ˈmap.pa/     | map        |
+| 394 | scienza            | sostantivo          | /ˈʃɛn.ʧa/    | science    |
+| 395 | regola             | sostantivo          | /ˈrɛ.ɡo.la/   | rule       |
+| 396 | governare          | verbo               | /ɡo.ver.ˈna.re/| govern     |
+| 397 | tirare             | verbo               | /ti.ˈra.re/   | pull       |
+| 398 | freddo             | aggettivo           | /ˈfrɛd.do/    | cold       |
+| 399 | notare             | verbo               | /no.ˈta.re/   | notice     |
+| 400 | voce               | sostantivo          | /ˈvo.tʃe/     | voice      |
 
 ## Old list
 

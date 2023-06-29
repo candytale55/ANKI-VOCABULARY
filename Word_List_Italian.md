@@ -252,7 +252,106 @@
 | 248 | vita                     | sostantivo               | /ˈvi.ta/     | life              |
 | 249 | pochi                    | aggettivo                | /ˈpɔ.ki/     | few               |
 | 250 | fermare                  | verbo                    | /fɛr.ˈma.re/ | stop              |
-
+| 251 | aperto             | aggettivo           | /a.ˈpɛr.to/  | open        |
+| 252 | sembrare           | verbo               | /ˈsɛm.bra.re/| seem        |
+| 253 | insieme            | avverbio            | /in.ˈsjɛ.mɛ/ | together    |
+| 254 | prossimo           | aggettivo           | /ˈprɔs.si.mo/| next        |
+| 255 | bianco             | aggettivo           | /ˈbjaŋ.ko/   | white       |
+| 256 | bambini            | sostantivo          | /bam.ˈbi.ni/ | children    |
+| 257 | cominciare         | verbo               | /ko.min.ˈʧa.re/| begin     |
+| 258 | ottenuto           | verbo               | /ot.te.ˈnu.to/| got         |
+| 259 | camminare          | verbo               | /kam.mi.ˈna.re/| walk        |
+| 260 | esempio            | sostantivo          | /eˈzɛm.pjo/  | example     |
+| 261 | facilità           | sostantivo          | /fa.ʧi.li.ˈta/| ease        |
+| 262 | carta              | sostantivo          | /ˈkar.ta/    | paper       |
+| 263 | spesso             | avverbio            | /ˈspɛs.so/   | often       |
+| 264 | sempre             | avverbio            | /ˈsɛm.pre/   | always      |
+| 265 | musica             | sostantivo          | /ˈmu.zi.ka/  | music       |
+| 266 | quelli             | pronome             | /ˈkwɛl.li/   | those       |
+| 267 | entrambi           | determinante        | /ɛn.ˈtram.bi/| both        |
+| 268 | segno              | verbo               | /ˈsɛɲ.ɲo/    | mark        |
+| 269 | libro              | sostantivo          | /ˈli.bro/    | book        |
+| 270 | lettera            | sostantivo          | /ˈlɛt.tɛ.ra/ | letter      |
+| 271 | fino a             | preposizione        | /ˈfi.no a/   | until       |
+| 272 | miglio             | sostantivo          | /ˈmiʎ.ʎo/   | mile        |
+| 273 | fiume              | sostantivo          | /ˈfju.mɛ/    | river       |
+| 274 | automobile         | sostantivo          | /ˈo.tɔ.mo.bil/| car         |
+| 275 | piedi              | sostantivo          | /ˈpje.di/    | feet        |
+| 276 | prendersi cura di  | verbo               | /ˈprɛn.dɛr.si ˈku.ra di/| care |
+| 277 | secondo            | aggettivo           | /se.ˈkɔn.do/ | second      |
+| 278 | gruppo             | sostantivo          | /ˈɡrup.po/   | group       |
+| 279 | portare            | verbo               | /por.ˈta.re/ | carry       |
+| 280 | prese              | verbo               | /ˈprɛ.ze/    | took        |
+| 281 | pioggia            | sostantivo          | /ˈpjɔd.dʒa/  | rain        |
+| 282 | mangiare           | verbo               | /man.ˈdʒa.re/| eat         |
+| 283 | stanza             | sostantivo          | /ˈstan.ʦa/   | room        |
+| 284 | amico              | sostantivo          | /a.ˈmi.ko/   | friend      |
+| 285 | iniziato           | verbo               | /i.ˈni.ʦja.to/| began      |
+| 286 | idea               | sostantivo          | /i.ˈdɛ.a/    | idea        |
+| 287 | pesce              | sostantivo          | /ˈpɛʃ.ʃe/   | fish        |
+| 288 | montagna           | sostantivo          | /mon.ˈta.ɲa/ | mountain    |
+| 289 | nord               | sostantivo          | /nord/       | north       |
+| 290 | una volta          | avverbio            | /u.na ˈvɔl.ta/| once        |
+| 291 | base               | sostantivo          | /ˈba.se/     | base        |
+| 292 | sentire            | verbo               | /ʃɛn.ˈti.re/ | hear        |
+| 293 | cavallo            | sostantivo          | /ka.ˈval.lo/ | horse       |
+| 294 | tagliare           | verbo               | /ta.ˈʎa.re/  | cut         |
+| 295 | sicuro             | aggettivo           | /ˈsi.ku.ro/  | sure        |
+| 296 | guardare           | verbo               | /ɡwar.ˈda.re/| watch       |
+| 297 | colore             | sostantivo          | /ko.ˈlo.re/  | color       |
+| 298 | faccia             | sostantivo          | /ˈfaʧ.ʧa/   | face        |
+| 299 | legno              | sostantivo          | /ˈlɛ.ɲo/     | wood        |
+| 300 | principale         | aggettivo           | /pri.nˈʧi.pa.le/| main      |
+| 301 | abbastanza         | aggettivo           | /ab.ba.ˈstan.ʦa/| enough     |
+| 302 | semplice           | aggettivo           | /ˈsɛm.pli.ʧe/| plain       |
+| 303 | ragazza            | sostantivo          | /ra.ˈɡaz.ʦa/ | girl        |
+| 304 | solito             | aggettivo           | /so.ˈli.to/  | usual       |
+| 305 | giovane            | aggettivo           | /dʒo.ˈva.ne/ | young       |
+| 306 | pronto             | aggettivo           | /ˈpron.to/   | ready       |
+| 307 | sopra              | preposizione        | /ˈsop.ra/    | above       |
+| 308 | mai                | avverbio            | /ˈmaj/       | ever        |
+| 309 | rosso              | aggettivo           | /ˈros.so/    | red         |
+| 310 | lista              | sostantivo          | /ˈli.sta/    | list        |
+| 311 | anche se           | congiunzione        | /ˈan.ke sɛ/  | though      |
+| 312 | sentire            | verbo               | /sɛn.ˈti.re/ | feel        |
+| 313 | parlare            | verbo               | /par.ˈla.re/ | talk        |
+| 314 | uccello            | sostantivo          | /u.ˈʧɛl.lo/  | bird        |
+| 315 | presto             | avverbio            | /ˈprɛs.to/   | soon        |
+| 316 | corpo              | sostantivo          | /ˈkɔr.po/    | body        |
+| 317 | cane               | sostantivo          | /ˈka.ne/     | dog         |
+| 318 | famiglia           | sostantivo          | /fa.ˈmiʎ.ʎa/| family      |
+| 319 | diretto            | aggettivo           | /di.ˈrɛt.to/ | direct      |
+| 320 | posare             | verbo               | /po.ˈza.re/  | pose        |
+| 321 | lasciare           | verbo               | /la.ˈʃa.re/  | leave       |
+| 322 | canzone            | sostantivo          | /kan.ˈʦo.ne/ | song        |
+| 323 | misura             | sostantivo          | /mi.ˈʒu.ra/  | measure     |
+| 324 | stato              | sostantivo          | /ˈsta.to/    | state       |
+| 325 | prodotto           | sostantivo          | /pro.ˈdɔt.to/| product     |
+| 326 | nero               | aggettivo           | /ˈne.ro/     | black       |
+| 327 | corto              | aggettivo           | /ˈkor.to/    | short       |
+| 328 | numero             | sostantivo          | /ˈnu.mɛ.ro/  | numeral     |
+| 329 | classe             | sostantivo          | /ˈklas.se/   | class       |
+| 330 | vento              | sostantivo          | /ˈvɛn.to/    | wind        |
+| 331 | domanda            | sostantivo          | /do.ˈman.da/ | question    |
+| 332 | accadere           | verbo               | /ak.ˈka.de.re/| happen      |
+| 333 | completo           | aggettivo           | /kom.ˈplɛ.to/| complete    |
+| 334 | nave               | sostantivo          | /ˈna.ve/     | ship        |
+| 335 | area               | sostantivo          | /ˈa.re.a/    | area        |
+| 336 | metà               | sostantivo          | /ˈmɛ.ta/     | half        |
+| 337 | roccia             | sostantivo          | /ˈrɔk.kja/   | rock        |
+| 338 | ordine             | sostantivo          | /ˈor.di.ne/  | order       |
+| 339 | fuoco              | sostantivo          | /ˈfwɔ.ko/    | fire        |
+| 340 | sud                | sostantivo          | /sut/        | south       |
+| 341 | problema           | sostantivo          | /pro.ˈblɛ.ma/| problem     |
+| 342 | pezzo              | sostantivo          | /ˈpɛt.so/    | piece       |
+| 343 | detto              | verbo               | /ˈdɛt.to/    | told        |
+| 344 | sapeva             | verbo               | /sa.ˈpɛ.va/  | knew        |
+| 345 | passare            | verbo               | /pas.ˈsa.re/ | pass        |
+| 346 | fattoria           | sostantivo          | /fat.ˈtɔ.ri.a/| farm       |
+| 347 | cima               | sostantivo          | /ˈʧi.ma/     | top         |
+| 348 | intero             | aggettivo           | /in.ˈtɛ.ro/  | whole       |
+| 349 | re                 | sostantivo          | /re/         | king        |
+| 350 | dimensione         | sostantivo          | /di.mɛn.ˈsjɔ.ne/| size      |
 
 ## Old list
 

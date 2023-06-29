@@ -402,6 +402,111 @@
 | 398 | freddo             | aggettivo           | /ˈfrɛd.do/    | cold       |
 | 399 | notare             | verbo               | /no.ˈta.re/   | notice     |
 | 400 | voce               | sostantivo          | /ˈvo.tʃe/     | voice      |
+| 401 | cadere             | verbo               | /ka.ˈde.re/   | fall       |
+| 402 | potere             | sostantivo          | /po.ˈte.re/   | power      |
+| 403 | città              | sostantivo          | /ˈtʃi.tta/    | town       |
+| 404 | bello              | aggettivo           | /ˈbɛl.lo/     | fine       |
+| 405 | certo              | aggettivo           | /ˈtʃɛr.to/    | certain    |
+| 406 | volare             | verbo               | /vo.ˈla.re/   | fly        |
+| 407 | unità              | sostantivo          | /u.ˈni.ta/    | unit       |
+| 408 | guidare            | verbo               | /ɡwi.ˈda.re/  | lead       |
+| 409 | piangere           | verbo               | /ˈpjan.ɡe.re/ | cry        |
+| 410 | scuro              | aggettivo           | /ˈsku.ro/     | dark       |
+| 411 | macchina           | sostantivo          | /ma.ˈkki.na/  | machine    |
+| 412 | nota               | sostantivo          | /ˈno.ta/      | note       |
+| 413 | aspettare          | verbo               | /as.pet.ˈta.re/| wait       |
+| 414 | piano              | sostantivo          | /ˈpja.no/     | plan       |
+| 415 | figura             | sostantivo          | /ˈfi.ɡu.ra/   | figure     |
+| 416 | stella             | sostantivo          | /ˈstɛl.la/    | star       |
+| 417 | scatola            | sostantivo          | /ska.ˈto.la/  | box        |
+| 418 | sostantivo         | sostantivo          | /so.ˈstan.ti.vo/| noun      |
+| 419 | campo              | sostantivo          | /ˈkam.po/     | field      |
+| 420 | riposo             | sostantivo          | /ˈri.po.so/   | rest       |
+| 421 | corretto           | aggettivo           | /ko.ˈrɛt.to/  | correct    |
+| 422 | capace             | aggettivo           | /ka.ˈpa.tʃe/  | able       |
+| 423 | libbra             | sostantivo          | /ˈlib.bra/    | pound      |
+| 424 | fatto              | verbo               | /ˈfat.to/     | done       |
+| 425 | bellezza           | sostantivo          | /bel.ˈlɛt.tsa/| beauty     |
+| 426 | guidare            | verbo               | /ɡwi.ˈda.re/  | drive      |
+| 427 | fermarsi           | verbo               | /fer.ˈmar.si/ | stood      |
+| 428   | contenere     | verbo           | /kõn'tɛnere/    | contain                                       |
+| 429   | davanti       | avverbio        | /da'vanti/       | front (in front of)                           |
+| 430   | insegnare     | verbo           | /inseɲ'ɲare/     | teach                                         |
+| 431   | settimana     | sostantivo      | /setˈtiːmana/    | week                                          |
+| 432   | finale        | aggettivo       | /fiˈnaːle/       | final                                         |
+| 433   | dare          | verbo           | /ˈdaːre/         | gave (past tense of "give")                   |
+| 434   | verde         | aggettivo       | /ˈverde/         | green                                         |
+| 435   | oh            | interiezione    | /ɔː/             | oh                                            |
+| 436   | rapido        | aggettivo       | /ˈrapido/        | quick                                         |
+| 437   | sviluppare    | verbo           | /svilup'pare/    | develop                                       |
+| 438   | dormire       | verbo           | /dor'mire/       | sleep                                         |
+| 439   | caldo         | aggettivo       | /ˈkaldo/         | warm                                          |
+| 440   | libero        | aggettivo       | /ˈlibero/        | free                                          |
+| 441   | minuto        | sostantivo      | /miˈnuːto/       | minute                                        |
+| 442   | forte         | aggettivo       | /ˈforte/         | strong                                        |
+| 443   | speciale      | aggettivo       | /speˈtʃaːle/     | special                                       |
+| 444   | mente         | sostantivo      | /ˈmente/         | mind                                          |
+| 445   | dietro        | preposizione    | /ˈdjɛtro/        | behind                                        |
+| 446   | chiaro        | aggettivo       | /ˈkjaːro/        | clear                                         |
+| 447   | coda          | sostantivo      | /ˈkoda/          | tail                                          |
+| 448   | produrre      | verbo           | /pro'durːe/      | produce                                       |
+| 449   | fatto         | sostantivo      | /ˈfatto/         | fact                                          |
+| 450   | strada        | sostantivo      | /ˈstraːda/       | street                                        |
+| 451 | pollice           | sostantivo      | /ˈpol.ʧe/    | inch       |
+| 452 | lot               | sostantivo      | /lot/        | lot        |
+| 453 | niente            | pronome         | /ˈnjɛn.te/   | nothing    |
+| 454 | corso             | sostantivo      | /ˈkɔr.so/    | course     |
+| 455 | stare             | verbo           | /ˈsta.re/    | stay       |
+| 456 | ruota             | sostantivo      | /ˈrwo.ta/    | wheel      |
+| 457 | pieno             | aggettivo       | /ˈpjɛ.no/    | full       |
+| 458 | forza             | sostantivo      | /ˈfor.tsa/   | force      |
+| 459 | blu               | aggettivo       | /bluː/       | blue       |
+| 460 | oggetto           | sostantivo      | /ob.ˈʤɛt.to/ | object     |
+| 461 | decidere          | verbo           | /de.ˈʧi.de.re/| decide     |
+| 462 | superficie        | sostantivo      | /super.ˈfi.tʃe/| surface   |
+| 463 | profondo          | aggettivo       | /ˈpro.fon.do/ | deep       |
+| 464 | luna              | sostantivo      | /ˈlu.na/     | moon       |
+| 465 | isola             | sostantivo      | /ˈi.zo.la/   | island     |
+| 466 | piede             | sostantivo      | /ˈpje.de/    | foot       |
+| 467 | ancora            | avverbio        | /ˈan.ko.ra/  | yet        |
+| 468 | occupato          | aggettivo       | /ok.ku.ˈpa.to/| busy       |
+| 469 | prova             | sostantivo      | /ˈpro.va/    | test       |
+| 470 | registrazione     | sostantivo      | /re.dʒi.stra.ˈʦjo.ne/| record |
+| 471 | barca             | sostantivo      | /ˈbar.ka/    | boat       |
+| 472 | comune            | aggettivo       | /ko.ˈmu.ne/  | common     |
+| 473 | oro               | sostantivo      | /ˈo.ro/      | gold       |
+| 474 | possibile         | aggettivo       | /pos.si.ˈbi.le/| possible  |
+| 475 | aereo             | sostantivo      | /a.ˈɛ.re.o/   | plane      |
+| 476 | età               | sostantivo      | /ˈe.ta/      | age        |
+| 477 | asciutto          | aggettivo       | /aʃ.ˈʧut.to/ | dry        |
+| 478 | chiedersi         | verbo           | /kjɛ.ˈder.si/| wonder     |
+| 479 | ridere            | verbo           | /ˈri.de.re/  | laugh      |
+| 480 | mille             | numero          | /ˈmil.le/    | thousand   |
+| 481 | fa                | avverbio        | /ˈfa/        | ago        |
+| 482 | corse             | verbo           | /kor.ˈse/    | ran        |
+| 483 | controllo         | sostantivo      | /kon.ˈtrɔl.lo/| check      |
+| 484 | gioco             | sostantivo      | /ˈdʒɔ.ko/    | game       |
+| 485 | forma             | sostantivo      | /ˈfor.ma/    | shape      |
+| 486 | sì                | avverbio        | /si/         | yes        |
+| 487 | caldo             | aggettivo       | /ˈkal.do/    | hot        |
+| 488 | mancare           | verbo           | /ˈman.ka.re/ | miss       |
+| 489 | portato           | verbo           | /por.ˈta.to/ | brought    |
+| 490 | calore            | sostantivo      | /ka.ˈlo.re/  | heat       |
+| 491 | neve              | sostantivo      | /ˈne.ve/     | snow       |
+| 492 | letto             | sostantivo      | /ˈlɛt.to/    | bed        |
+| 493 | portare           | verbo           | /por.ˈta.re/ | bring      |
+| 494 | sedere            | verbo           | /ˈsɛ.de.re/  | sit        |
+| 495 | forse             | avverbio        | /ˈfor.se/    | perhaps    |
+| 496 | riempire          | verbo           | /ri.ˈɛm.pi.re/| fill       |
+| 497 | est               | sostantivo      | /ˈɛst/       | east       |
+| 498 | peso              | sostantivo      | /ˈpe.so/     | weight     |
+| 499 | lingua            | sostantivo      | /ˈliŋ.ɡwa/   | language   |
+| 500 | tra               | preposizione    | /tra/        | among      |
+
+
+
+
+
 
 ## Old list
 

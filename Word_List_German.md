@@ -1,6 +1,66 @@
 
 # German Word List with IPA
 
+| No. | Wort       | Wortart    | IPA   | Englisch (Disambiguation)       |
+|-----|------------|------------|-------|---------------------------------|
+| 1a  | der        | Artikel    | /dɛr/ | the (masculine, singular)       |
+| 1b  | die        | Artikel    | /diː/ | the (feminine, plural)          |
+| 1c  | das        | Artikel    | /das/ | the (neuter, singular)          |
+| 1d  | die        | Artikel    | /diː/ | the (plural)                    |
+| 2   | von            | Präposition    | /fɔn/     | of         |
+| 3   | zu             | Präposition    | /tsuː/    | to         |
+| 4   | und            | Konjunktion    | /ʊnt/     | and        |
+| 5   | ein/eine       | Artikel        | /aɪnə/    | a          |
+| 6   | in             | Präposition    | /ɪn/      | in         |
+| 7   | ist            | Verb           | /ɪst/     | is         |
+| 8   | es             | Pronomen       | /ɛs/      | it         |
+| 9   | du             | Pronomen       | /duː/     | you        |
+| 10  | dass           | Konjunktion    | /das/     | that       |
+| 11  | er             | Pronomen       | /ɛr/      | he         |
+| 12  | was            | Verb           | /vas/     | was        |
+| 13  | für            | Präposition    | /fʏr/     | for        |
+| 14  | auf            | Präposition    | /aʊf/     | on         |
+| 15  | sind           | Verb           | /zɪnt/    | are        |
+| 16  | mit            | Präposition    | /mɪt/     | with       |
+| 17  | als            | Konjunktion    | /als/     | as         |
+| 18  | ich            | Pronomen       | /ɪç/      | I          |
+| 19  | sein           | Verb           | /zaɪn/    | his        |
+| 20  | sie            | Pronomen       | /ziː/     | they       |
+| 21  | sein           | Verb           | /zaɪn/    | be         |
+| 22  | bei            | Präposition    | /baɪ/     | at         |
+| 23  | eins           | Substantiv     | /aɪns/    | one        |
+| 24  | haben          | Verb           | /haːbn/   | have       |
+| 25  | diese          | Pronomen       | /ˈdiːzə/  | this       |
+| 26  | von            | Präposition    | /fɔn/     | from       |
+| 27  | oder           | Konjunktion    | /ˈoːdər/  | or         |
+| 28  | hatte          | Verb           | /ˈhatə/   | had        |
+| 29  | durch          | Präposition    | /dʊʁç/    | by         |
+| 30  | heiß           | Adjektiv       | /haɪs/    | hot        |
+| 31  | aber           | Konjunktion    | /ˈaːbɐ/   | but        |
+| 32  | einige         | Pronomen       | /ˈaɪnɪɡə/ | some       |
+| 33  | was            | Pronomen       | /vas/     | what       |
+| 34  | dort           | Pronomen       | /dɔʁt/    | there      |
+| 35  | wir            | Pronomen       | /vɪʁ/     | we         |
+| 36  | können         | Verb           | /ˈkœnən/  | can        |
+| 37  | heraus         | Präposition    | /haɪˈʁaʊs/| out        |
+| 38  | anderer        | Adjektiv       | /ˈandəʁɐ/ | other      |
+| 39  | waren          | Verb           | /ˈvaːʁən/ | were       |
+| 40  | alle           | Adjektiv       | /ˈalə/    | all        |
+| 41  | dein           | Pronomen       | /daɪn/    | your       |
+| 42  | wann           | Konjunktion    | /van/     | when       |
+| 43  | hoch           | Präposition    | /hoːx/    | up         |
+| 44  | nutzen         | Verb           | /ˈnʊʦən/  | use        |
+| 45  | Wort           | Substantiv     | /vɔʁt/    | word       |
+| 46  | wie            | Adverb         | /viː/     | how        |
+| 47  | sagte          | Verb           | /ˈzaːɡtə/ | said       |
+| 48  | ein            | Artikel        | /aɪn/     | an         |
+| 49  | jeder          | Determinativ   | /ˈjeːdɐ/  | each       |
+| 50  | sie            | Pronomen       | /ziː/     | she        |
+
+
+
+## Old List
+
 | No. | English | German | German IPA |
 |-----|---------|--------|----------------|
 | 1   | I       | ich    | /ɪç/          |

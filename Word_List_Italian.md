@@ -202,6 +202,56 @@
 | 198 | sé                       | sostantivo               | /ˈse/        | self              |
 | 199 | terra                    | sostantivo               | /ˈtɛr.ra/    | earth             |
 | 200 | padre                    | sostantivo               | /ˈpa.dre/    | father            |
+| 201 | testa                    | sostantivo               | /ˈtɛ.sta/    | head              |
+| 202 | stare                    | verbo                    | /ˈsta.re/    | stand             |
+| 203 | possedere                | verbo                    | /po.sse.ˈdɛ.re/| own               |
+| 204 | pagina                   | sostantivo               | /ˈpa.ʤi.na/  | page              |
+| 205 | dovrebbe                 | verbo modale             | /do.vrɛb.be/  | should            |
+| 206 | paese                    | sostantivo               | /ˈpaɛ.se/    | country           |
+| 207 | trovare                  | verbo                    | /tro.ˈva.re/  | found             |
+| 208 | risposta                 | sostantivo               | /ri.ˈspɔs.ta/ | answer            |
+| 209 | scuola                   | sostantivo               | /ˈskwo.la/   | school            |
+| 210 | crescere                 | verbo                    | /ˈkre.ʃɛ.re/ | grow              |
+| 211 | studio                   | sostantivo               | /ˈstu.djo/   | study             |
+| 212 | ancora                   | avverbio                 | /ˈan.ko.ra/  | still             |
+| 213 | imparare                 | verbo                    | /im.pa.ˈra.re/| learn             |
+| 214 | pianta                   | sostantivo               | /ˈpjɑn.ta/   | plant             |
+| 215 | coprire                  | verbo                    | /ko.ˈpri.re/ | cover             |
+| 216 | cibo                     | sostantivo               | /ˈʧi.bo/     | food              |
+| 217 | sole                     | sostantivo               | /ˈso.le/     | sun               |
+| 218 | quattro                  | numero                   | /ˈkwat.tro/  | four              |
+| 219 | pensiero                 | sostantivo               | /pen.ˈsjɛ.ro/ | thought           |
+| 220 | lasciare                 | verbo                    | /la.ʃa.ˈre/  | let               |
+| 221 | mantenere                | verbo                    | /man.te.ˈnɛ.re/| keep              |
+| 222 | occhio                   | sostantivo               | /ˈɔk.kjo/    | eye               |
+| 223 | mai                      | avverbio                 | /ˈma.i/      | never             |
+| 224 | ultimo                   | aggettivo                | /ˈul.ti.mo/  | last              |
+| 225 | porta                    | sostantivo               | /ˈpɔr.ta/    | door              |
+| 226 | tra                      | preposizione             | /ˈtra/       | between           |
+| 227 | città                    | sostantivo               | /ˈʧi.tta/    | city              |
+| 228 | albero                   | sostantivo               | /ˈal.be.ro/  | tree              |
+| 229 | croce                    | sostantivo               | /ˈkrɔ.tʃe/   | cross             |
+| 230 | da                       | preposizione             | /da/         | since             |
+| 231 | duro                     | aggettivo                | /ˈdu.ro/     | hard              |
+| 232 | iniziare                 | verbo                    | /i.ni.ˈʦja.re/| start             |
+| 233 | potrebbe                 | verbo modale             | /pot.ˈrɛb.be/| might             |
+| 234 | storia                   | sostantivo               | /ˈstɔ.ri.a/  | story             |
+| 235 | ha visto                 | verbo                    | /a ˈvi.sto/  | saw               |
+| 236 | lontano                  | avverbio                 | /lon.ˈta.no/  | far               |
+| 237 | mare                     | sostantivo               | /ˈma.re/     | sea               |
+| 238 | disegnare                | verbo                    | /di.ˈʃɛ.ɲa.re/| draw              |
+| 239 | sinistra                 | aggettivo                | /si.ˈni.stra/| left              |
+| 240 | tardi                    | aggettivo                | /ˈtar.di/    | late              |
+| 241 | correre                  | verbo                    | /kor.ˈre/    | run               |
+| 242 | non                      | contrazione              | /non/        | don't             |
+| 243 | mentre                   | congiunzione             | /ˈmɛn.trɛ/   | while             |
+| 244 | premere                  | verbo                    | /ˈprɛ.me.re/ | press             |
+| 245 | vicino                   | aggettivo                | /vi.ˈʧi.no/  | close             |
+| 246 | notte                    | sostantivo               | /ˈnɔt.te/    | night             |
+| 247 | reale                    | aggettivo                | /ˈrɛ.a.le/   | real              |
+| 248 | vita                     | sostantivo               | /ˈvi.ta/     | life              |
+| 249 | pochi                    | aggettivo                | /ˈpɔ.ki/     | few               |
+| 250 | fermare                  | verbo                    | /fɛr.ˈma.re/ | stop              |
 
 
 ## Old list

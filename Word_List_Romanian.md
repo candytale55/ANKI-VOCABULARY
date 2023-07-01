@@ -162,7 +162,106 @@ Here is the table of Romanian words:
 | 148  | prea    | adverb       | /pre̯a/       | too                              |
 | 149  | face    | verb         | /ˈfa.t͡ʃe/    | does                             |
 | 150  | spune   | verb         | /spuː.ne/    | tell                             |
-
+| 151  | propoziție | substantiv    | /pro.poˈzi.t͡si.e/ | sentence                        |
+| 152  | set       | verb          | /set/       | set                             |
+| 153  | trei      | număr         | /trej/      | three                           |
+| 154  | vrea      | verb          | /vre̯a/      | want                            |
+| 155  | aer       | substantiv    | /a.er/      | air                             |
+| 156  | bine      | adverb        | /bi.ne/     | well                            |
+| 157  | de asemenea | adverb        | /de‿a.se.meˈne̯a/ | also                           |
+| 158  | juca      | verb          | /ju.ka/     | play                            |
+| 159  | mic       | adjectiv      | /mik/       | small                           |
+| 160  | sfârșit   | substantiv    | /sfɨr.ˈʃit/ | end                             |
+| 161  | pune      | verb          | /ˈpu.ne/    | put                             |
+| 162  | acasă     | substantiv    | /aˈka.sə/   | home                            |
+| 163  | citi      | verb          | /ˈt͡ʃi.ti/  | read                            |
+| 164  | mână      | substantiv    | /mɨnə/      | hand                            |
+| 165  | port      | substantiv    | /port/      | port                            |
+| 166  | mare      | adjectiv      | /ˈma.re/    | large                           |
+| 167  | scrie     | verb          | /skri.e/    | spell                           |
+| 168  | adăuga    | verb          | /a.ˈdə.u.ɡa/ | add                            |
+| 169  | chiar      | adverb        | /ˈki.ar/    | even                            |
+| 170  | pământ    | substantiv    | /pə.mɨnt/   | land                            |
+| 171  | aici      | adverb        | /a.i.t͡ʃi/   | here                            |
+| 172  | trebuie   | verb auxiliar | /ˈtre.bu.je/ | must                            |
+| 173  | mare      | adjectiv      | /mar/       | big                             |
+| 174  | înalt     | adjectiv      | /ˈɨn.əlt/  | high                            |
+| 175  | asemenea  | determinator  | /a.seˈme.ne̯a/ | such                           |
+| 176  | urma      | verb          | /ˈur.ma/    | follow                          |
+| 177  | acționa   | verb          | /ak.ˈt͡si.o.na/ | act                           |
+| 178  | de ce     | adverb        | /de‿ˈt͡ʃe/  | why                             |
+| 179  | întreba   | verb          | /ɨn.ˈtre.ba/ | ask                             |
+| 180  | bărbați   | substantiv    | /ˈbɨr.baʦ/  | men                             |
+| 181  | schimba   | verb          | /ˈski̯im.ba/ | change                          |
+| 182  | mers      | verb          | /mers/      | went                            |
+| 183  | lumină    | substantiv    | /ˈlu.mi.nə/  | light                           |
+| 184  | fel       | substantiv    | /fel/       | kind                            |
+| 185  | închis    | prepoziție   | /ˈɨn.kis/   | off                             |
+| 186  | nevoie    | verb          | /ˈne̯o.vje/ | need                            |
+| 187  | casă      | substantiv    | /kaːsə/     | house                           |
+| 188  | imagine   | substantiv    | /i.ma.ˈʒi.ne/ | picture                        |
+| 189  | încerca   | verb          | /ɨn.ˈt͡ʃer.ka/ | try                          |
+| 190  | noi       | pronume       | /noj/       | us                              |
+| 191  | din nou   | adverb        | /din‿ˈno̯u/  | again                           |
+| 192  | animal    | substantiv    | /a.ni.ˈmal/ | animal                          |
+| 193  | punct     | substantiv    | /punct/     | point                           |
+| 194  | mamă      | substantiv    | /ˈma.mə/    | mother                          |
+| 195  | lume      | substantiv    | /ˈlu.me/    | world                           |
+| 196  | aproape   | prepoziție   | /a.ˈpro̯a.pe/ | near                            |
+| 197  | construi  | verb          | /konˈstru.i/ | build                           |
+| 198  | sine      | substantiv    | /ˈsi.ne/    | self                            |
+| 199  | pământ    | substantiv    | /ˈpə.mɨnt/  | earth                           |
+| 200  | tată      | substantiv    | /ˈta.tə/    | father                          |
+| 201  | cap     | substantiv    | /kap/       | head                     |
+| 202  | sta     | verb          | /sta/       | stand                    |
+| 203  | deține  | verb          | /de.ˈt͡si.ne/ | own                      |
+| 204  | pagină  | substantiv    | /pa.ˈʤinə/  | page                     |
+| 205  | ar trebui | verb auxiliar | /ar‿ˈtre.bu.i/ | should                |
+| 206  | țară    | substantiv    | /ˈt͡sə.rə/   | country                  |
+| 207  | găsit   | verb          | /ɡə.ˈsit/   | found                    |
+| 208  | răspuns | substantiv    | /ˈrəs.puns/ | answer                   |
+| 209  | școală  | substantiv    | /ˈʃkolə/    | school                   |
+| 210  | crește  | verb          | /ˈkreʃte/   | grow                     |
+| 211  | studiu  | substantiv    | /ˈstudju/   | study                    |
+| 212  | încă    | adverb        | /ˈɨŋ.kə/    | still                    |
+| 213  | învăța | verb          | /ɨn.ˈvə.t͡sa/ | learn                   |
+| 214  | plantă  | substantiv    | /ˈplanta/   | plant                    |
+| 215  | acoperi | verb          | /a.ko.ˈperʲ/ | cover                    |
+| 216  | mâncare | substantiv    | /ˈmɨn.kare/ | food                     |
+| 217  | soare   | substantiv    | /ˈso̯a.re/   | sun                      |
+| 218  | patru   | număr         | /ˈpatru/    | four                     |
+| 219  | gând    | substantiv    | /ɡɨnd/      | thought                  |
+| 220  | lăsa    | verb          | /ˈlə.sa/    | let                      |
+| 221  | păstra  | verb          | /ˈpə.stra/  | keep                     |
+| 222  | ochi    | substantiv    | /ˈo.ki/     | eye                      |
+| 223  | niciodată | adverb        | /ni.cjo.ˈda.tə/ | never                 |
+| 224  | ultim   | adjectiv      | /ul.ˈtim/   | last                     |
+| 225  | ușă     | substantiv    | /ˈuʃə/      | door                     |
+| 226  | între    | prepoziție   | /ɨn.ˈtre/    | between                  |
+| 227  | oraș    | substantiv    | /o.raʃ/     | city                     |
+| 228  | copac   | substantiv    | /ko.ˈpak/   | tree                     |
+| 229  | cruce   | substantiv    | /kru.t͡ʃe/   | cross                    |
+| 230  | de când | prepoziție   | /de‿ˈkɨnd/  | since                    |
+| 231  | greu    | adjectiv      | /greu/      | hard                     |
+| 232  | începe  | verb          | /ɨn.ˈʧe.pe/ | start                    |
+| 233  | ar putea | verb auxiliar | /ar‿ˈpu.te̯a/ | might                  |
+| 234  | poveste | substantiv    | /po.ˈve̯ste/ | story (povestire)        |
+| 235  | a văzut | verb          | /a‿ˈvə.zut/  | saw (trecut simplu de la "to see") |
+| 236  | departe  | adverb        | /de.ˈpar.te/ | far                      |
+| 237  | mare    | substantiv    | /ˈma.re/     | sea                      |
+| 238  | desena  | verb          | /de.ˈse̯na/  | draw                     |
+| 239  | stânga  | adjectiv      | /ˈstɨ̯aŋ.ɡa/ | left                     |
+| 240  | târziu  | adjectiv      | /ˈtɨr.zju/   | late                     |
+| 241  | alerga  | verb          | /a.ˈler.ɡa/  | run                      |
+| 242  | nu      | contracție   | /nu/        | don't                    |
+| 243  | în timp ce | conjuncție   | /ɨn‿timp‿ˈt͡ʃe/ | while               |
+| 244  | apăsa   | verb          | /a.ˈpə.sa/   | press                    |
+| 245  | aproape | adjectiv      | /a.ˈpro̯a.pe/ | close (aproape)          |
+| 246  | noapte  | substantiv    | /ˈno̯ap.te/   | night                    |
+| 247  | real    | adjectiv      | /ˈre̯al/      | real                     |
+| 248  | viață    | substantiv    | /ˈvi̯a.ʦə/   | life                     |
+| 249  | puțini  | adjectiv      | /pu.ˈt͡si.ni/ | few                      |
+| 250  | opri    | verb          | /ˈo̯pri/      | stop                     |
 
 ## Old List:
 

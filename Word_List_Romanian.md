@@ -262,6 +262,56 @@ Here is the table of Romanian words:
 | 248  | viață    | substantiv    | /ˈvi̯a.ʦə/   | life                     |
 | 249  | puțini  | adjectiv      | /pu.ˈt͡si.ni/ | few                      |
 | 250  | opri    | verb          | /ˈo̯pri/      | stop                     |
+| 251  | deschis       | adjective     | /ˈdeʃis/       | open                          |
+| 252  | părea         | verb          | /ˈpə.a/        | seem                          |
+| 253  | împreună      | adverb        | /ɨm.ˈprɛ.u.nə/ | together                      |
+| 254  | următor       | adjective     | /ˈur.mə.tor/   | next                          |
+| 255  | alb           | adjective     | /alb/          | white                         |
+| 256  | copii         | noun          | /ˈko.pi.i/     | children                      |
+| 257  | începe        | verb          | /ˈɨn.ʧe.pe/   | begin                         |
+| 258  | obținut       | verb          | /ob.ˈt͡si.nut/  | got                           |
+| 259  | plimbare      | verb          | /ˈplim.bare/   | walk                          |
+| 260  | exemplu       | noun          | /eɡ.ˈzɛm.plu/  | example                       |
+| 261  | ușurință      | noun          | /u.su.ˈrin.t͡sə/| ease                          |
+| 262  | hârtie        | noun          | /ˈhɨr.tie/     | paper                         |
+| 263  | adesea        | adverb        | /a.ˈde̯.s̪ea/  | often                         |
+| 264  | mereu         | adverb        | /me.ˈre̯u/     | always                        |
+| 265  | muzică        | noun          | /ˈmu.zi.kə/    | music                         |
+| 266  | aceia         | pronoun       | /a.ˈt͡ʃe̯a/    | those                         |
+| 267  | amândoi       | determiner    | /a.ˈmɨn.doi/   | both                          |
+| 268  | marca         | verb          | /ˈmar.ka/      | mark                          |
+| 269  | carte         | noun          | /ˈkar.te/      | book                          |
+| 270  | scrisoare     | noun          | /ˈskri.so̯a.re/| letter                        |
+| 271  | până          | preposition   | /pənə/         | until                         |
+| 272  | milă          | noun          | /ˈmi.lə/       | mile                          |
+| 273  | râu           | noun          | /rɨ̯u/          | river                         |
+| 274  | mașină        | noun          | /ˈma.ʃi.nə/    | car                           |
+| 275  | picioare      | noun          | /pi.ˈt͡ʃo̯a.re/| feet                          |
+| 276  | grijă         | verb          | /ɡri.ʒə/       | care                          |
+| 277  | secund        | adjective     | /ˈse.kund/     | second                        |
+| 278  | grup          | noun          | /ɡrup/         | group                         |
+| 279  | purta         | verb          | /ˈpur.ta/      | carry                         |
+| 280  | luat          | verb          | /lu.at/        | took                          |
+| 281  | ploaie        | noun          | /ˈplo̯a.je/     | rain                          |
+| 282  | mânca         | verb          | /ˈmɨ̯aŋ.ka/    | eat                           |
+| 283  | cameră        | noun          | /ka.ˈmərə/     | room                          |
+| 284  | prieten       | noun          | /ˈpri.e̯ten/   | friend                        |
+| 285  | început       | verb          | /ɨn.ˈt͡ʃe.put/ | began                         |
+| 286  | idee          | noun          | /i.ˈd͡ʒe̯e/    | idea                          |
+| 287  | pește         | noun          | /peʃ.te/       | fish                          |
+| 288  | munte         | noun          | /ˈmun.te/      | mountain                      |
+| 289  | nord          | noun          | /nord/         | north                         |
+| 290  | o dată        | adverb        | /o‿ˈda.tə/     | once                          |
+| 291  | bază          | noun          | /bazə/         | base                          |
+| 292  | auzi          | verb          | /ˈawzʲ/        | hear                          |
+| 293  | cal           | noun          | /kal/          | horse                         |
+| 294  | tăiat         | verb          | /təˈjat/       | cut                           |
+| 295  | sigur         | adjective     | /ˈsi.ɡur/      | sure                          |
+| 296  | urmări        | verb          | /ˈur.mə.ri/    | watch                         |
+| 297  | culoare       | noun          | /ku.ˈlo̯a.re/   | color                         |
+| 298  | față          | noun          | /fəts̪ə/       | face                          |
+| 299  | lemn          | noun          | /lemn/         | wood                          |
+| 300  | principal     | adjective     | /prin.ˈʨi.pal/ | main                          |
 
 ## Old List:
 

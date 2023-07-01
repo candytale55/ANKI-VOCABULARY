@@ -312,6 +312,107 @@ Here is the table of Romanian words:
 | 298  | față          | noun          | /fəts̪ə/       | face                          |
 | 299  | lemn          | noun          | /lemn/         | wood                          |
 | 300  | principal     | adjective     | /prin.ˈʨi.pal/ | main                          |
+| 301  | destul        | adjective     | /ˈdes.tul/     | enough                        |
+| 302  | simplu        | adjective     | /ˈsim.plu/     | plain                         |
+| 303  | fată          | noun          | /fatə/         | girl                          |
+| 304  | obișnuit      | adjective     | /o.biˈʃnu.it/  | usual                         |
+| 305  | tânăr         | adjective     | /ˈtɨ.nər/      | young                         |
+| 306  | gata          | adjective     | /ˈɡa.ta/       | ready                         |
+| 307  | deasupra      | preposition   | /ˌdɛ̯aˈsu.pra/  | above                         |
+| 308  | vreodată      | adverb        | /ˌvreo.ˈda.tə/ | ever                          |
+| 309  | roșu          | adjective     | /ˈroʃu/        | red                           |
+| 310  | listă         | noun          | /ˈlis.tə/      | list                          |
+| 311  | cu toate că   | conjunction   | /kuːˌto̯a.təˈkə/| though                        |
+| 312  | simți         | verb          | /ˈsimt/        | feel                          |
+| 313  | vorbi         | verb          | /ˈvor.bi/      | talk                          |
+| 314  | pasăre        | noun          | /ˈpa.sə.rə/    | bird                          |
+| 315  | curând        | adverb        | /ku.ˈrənd/     | soon                          |
+| 316  | corp          | noun          | /korp/         | body                          |
+| 317  | câine         | noun          | /kɨˈnɨː.e/     | dog                           |
+| 318  | familie       | noun          | /fa.mi.ˈli.e/  | family                        |
+| 319  | direct        | adjective     | /diˈrekt/      | direct                        |
+| 320  | poziție       | verb          | /poˈzi.ʦi.e/   | pose                          |
+| 321  | pleca         | verb          | /ˈple.ka/      | leave                         |
+| 322  | cântec        | noun          | /ˈkɨ̯ɨn.tek/   | song                          |
+| 323  | măsură        | noun          | /ˈmə.ʃur/     | measure                       |
+| 324  | stat          | noun          | /stat/         | state                         |
+| 325  | produs        | noun          | /ˈpro.dus/     | product                       |
+| 326  | negru         | adjective     | /ˈneɡru/       | black                         |
+| 327  | scurt         | adjective     | /ʃurt/         | short                         |
+| 328  | numeral       | noun          | /nu.meˈral/    | numeral                       |
+| 329  | clasă         | noun          | /klaːs/        | class                         |
+| 330  | vânt          | noun          | /vɨnt/         | wind                          |
+| 331  | întrebare     | noun          | /ɨn.ˈtre.ba.re/| question                      |
+| 332  | se întâmpla   | verb          | /se‿ɨnˈtɨm.pla/| happen                        |
+| 333  | complet       | adjective     | /komˈplet/     | complete                      |
+| 334  | navă          | noun          | /ˈna.və/       | ship                          |
+| 335  | zonă          | noun          | /ˈzo̯a.nə/     | area                          |
+| 336  | jumătate      | noun          | /ʒu.məˈtate/  | half                          |
+| 337  | stâncă        | noun          | /stɨ̯ɨn.kə/    | rock                          |
+| 338  | ordine        | noun          | /orˈdi.ne/     | order                         |
+| 339  | foc           | noun          | /fok/          | fire                          |
+| 340  | sud           | noun          | /sud/          | south                         |
+| 341  | problemă      | noun          | /proˈble.ma/   | problem                       |
+| 342  | bucată        | noun          | /buˈka.tə/     | piece                         |
+| 343  | spus          | verb          | /spus/         | told                          |
+| 344  | știu          | verb          | /ʃtiu/         | knew                          |
+| 345  | trece         | verb          | /ˈtre.ʧe/     | pass                          |
+| 346  | fermă         | noun          | /fermə/        | farm                          |
+| 347  | vârf          | noun          | /vɨrf/         | top                           |
+| 348  | întreg        | adjective     | /ɨnˈtreg/      | whole                         |
+| 349  | rege          | noun          | /ˈre.ɡe/       | king                          |
+| 350  | mărime        | noun          | /ˈmə.rime/     | size                          |
+| 351  | auzit         | verb          | /a.uˈzit/       | heard                         |
+| 352  | cel mai bun   | adjective     | /ˌʧel.ˌmaj.ˈbun/| best                          |
+| 353  | oră           | noun          | /o.rə/          | hour                          |
+| 354  | mai bun       | adjective     | /ˌmaj.ˈbun/     | better                        |
+| 355  | adevărat      | adjective     | /a.deˈvə.rat/   | true                          |
+| 356  | în timpul     | preposition   | /ɨn‿timˈpul/    | during                        |
+| 357  | o sută        | numeral       | /o‿ˈsutə/       | hundred                       |
+| 358  | sunt          | verb          | /sunt/          | am                            |
+| 359  | reține        | verb          | /reˈʦi.ne/      | remember                      |
+| 360  | pas           | noun          | /pas/           | step                          |
+| 361  | devreme       | adjective     | /ˈde.vre.me/    | early                         |
+| 362  | ține          | verb          | /ʦiˈne/         | hold                          |
+| 363  | vest          | noun          | /vest/          | west                          |
+| 364  | pământ        | noun          | /ˈpɨ̯ɨ.mɨ̯nt/   | ground                        |
+| 365  | interes       | noun          | /inˈte.res/     | interest                      |
+| 366  | ajunge        | verb          | /a.ˈʒun.ʤe/    | reach                         |
+| 367  | rapid         | adjective     | /ˈra.pid/       | fast                          |
+| 368  | cinci         | numeral       | /ˈʧinʧ/        | five                          |
+| 369  | cânta         | verb          | /ˈkɨn.ta/       | sing                          |
+| 370  | asculta       | verb          | /as.ˈku.lta/    | listen                        |
+| 371  | șase          | numeral       | /ʃaːʃ/         | six                           |
+| 372  | masă          | noun          | /ˈmasə/         | table                         |
+| 373  | călători      | verb          | /kəˈlə.to.ri/   | travel                        |
+| 374  | mai puțin     | adjective     | /maj‿puˈtsin/   | less                          |
+| 375  | dimineață     | noun          | /di.mi.neˈʦə/   | morning                       |
+| 376  | zece          | numeral       | /ˈzeʧe/         | ten                           |
+| 377  | simplu        | adjective     | /ˈsimplu/       | simple                        |
+| 378  | mai mulți     | adjective     | /maj‿ˈmulʦʲ/   | several                       |
+| 379  | vocală        | noun          | /ˈvo.kalə/      | vowel                         |
+| 380  | spre          | preposition   | /spre/          | toward                        |
+| 381  | război        | noun          | /ˈrəz.boj/      | war                           |
+| 382  | așeza         | verb          | /aˈʃe.za/       | lay                           |
+| 383  | împotriva     | preposition   | /ɨm.poˈtri.va/  | against                       |
+| 384  | model         | noun          | /moˈdel/        | pattern                       |
+| 385  | lent          | adjective     | /lent/          | slow                          |
+| 386  | centru        | noun          | /ˈʧen.tru/      | center                        |
+| 387  | dragoste      | noun          | /ˈdra.ɡos.te/   | love                          |
+| 388  | persoană      | noun          | /per.soˈanə/    | person                        |
+| 389  | bani          | noun          | /ˈba.ni/        | money                         |
+| 390  | servi         | verb          | /ˈser.vi/       | serve                         |
+| 391  | apărea        | verb          | /aˈpə.re̯a/     | appear                        |
+| 392  | drum          | noun          | /drum/          | road                          |
+| 393  | hartă         | noun          | /ˈhartə/        | map                           |
+| 394  | știință       | noun          | /ʃtiˈint͡sə/    | science                       |
+| 395  | regulă        | noun          | /ˈre.gulə/      | rule                          |
+| 396  | guverna       | verb          | /guˈver.na/     | govern                        |
+| 397  | trage         | verb          | /ˈtra.ʤe/      | pull                          |
+| 398  | rece          | adjective     | /ˈre.ʧe/        | cold                          |
+| 399  | observa       | verb          | /o.bˈserva/     | notice                        |
+| 400  | voce          | noun          | /ˈvo.t͡ʃe/      | voice                         |
+
 
 ## Old List:
 

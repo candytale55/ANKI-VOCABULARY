@@ -1,5 +1,73 @@
 # Romanian Word List with IPA
 
+Here is the table of Romanian words:
+
+| Nr. | Cuvânt     | Tip          | Română IPA  | Engleză                    |
+|-----|------------|--------------|-------------|-----------------------------------------------|
+| 1a  | el         | articol      | /el/        | the (masculin singular)                       |
+| 1b  | ea         | articol      | /ea/        | the (feminin singular)                         |
+| 1c  | ei         | articol      | /ei/        | the (masculin plural)                         |
+| 1d  | ele        | articol      | /ele/       | the (feminin plural)                           |
+| 2   | de         | prepoziție  | /de/        | of                                            |
+| 3   | către      | prepoziție  | /kə'tre/    | to                                            |
+| 4   | și         | conjuncție  | /ʃi/        | and                                           |
+| 5a  | un         | articol      | /un/        | a/an (masculin singular)                      |
+| 5b  | o          | articol      | /o/         | a/an (feminin singular)                        |
+| 5c  | niște      | pronume      | /niʃte/     | some                                          |
+| 6   | în         | prepoziție  | /ɨn/        | in                                            |
+| 7   | este       | verb         | /ˈeste/     | is                                            |
+| 8   | el         | pronume      | /el/        | it                                            |
+| 9   | tu         | pronume      | /tu/        | you (singular)                                |
+| 10  | că         | conjuncție  | /kə/        | that                                          |
+| 11  | el         | pronume      | /el/        | he                                            |
+| 12  | a fost     | verb         | /a fost/    | was                                           |
+| 13  | pentru     | prepoziție  | /pentru/    | for                                           |
+| 14  | pe         | prepoziție  | /pe/        | on                                            |
+| 15  | sunt       | verb         | /sunt/      | are                                           |
+| 16  | cu         | prepoziție  | /ku/        | with                                          |
+| 17  | ca         | conjuncție  | /ka/        | as                                            |
+| 18  | eu         | pronume      | /eu/        | I                                             |
+| 19  | lui        | pronume      | /lui/       | his                                           |
+| 20  | ei         | pronume      | /ei/        | they                                          |
+| 21  | a fi       | verb         | /a fi/      | to be                                         |
+| 22  | la         | prepoziție  | /la/        | at                                            |
+| 23  | unul       | substantiv   | /uˈnul/     | one                                           |
+| 24  | avea       | verb         | /aˈve̯a/    | to have                                       |
+| 25  | acesta     | pronume      | /aˈt͡ʃesta/ | this                                          |
+| 26  | din        | prepoziție  | /din/       | from                                          |
+| 27  | sau        | conjuncție  | /sau/       | or                                            |
+| 28  | avut       | verb         | /aˈvut/     | had                                           |
+| 29  | prin       | prepoziție  | /prin/      | by                                            |
+| 30a | fierbinte  | adjectiv     | /ˈfjerbinte/| hot (temperature)                             |
+| 30b | picant     | adjectiv     | /pi'kant/   | hot (spicy)                                   |
+| 31  | dar        | conjuncție  | /dar/       | but                                           |
+| 32a | unii       | pronume      | /u'ni.i/    | some (indefinite plural masculine)            |
+| 32b | unele      | pronume      | /u'nele/    | some (indefinite plural feminine)             |
+| 33  | ce         | pronume      | /t͡ʃe/       | what                                          |
+| 34  | acolo      | pronume      | /a'kolo/    | there                                         |
+| 35  | noi        | pronume      | /noj/       | we                                            |
+| 36  | putea      | verb         | /ˈpute̯a/   | can                                           |
+| 37  | afară      | prepoziție  | /a'farə/    | out                                           |
+| 38  | alt        | adjectiv     | /alt/       | other                                         |
+| 39  | erau       | verb         | /eˈrau/     | were                                          |
+| 40  | toți       | adjectiv     | /tot͡sʲ/     | all (masculin plural)                         |
+| 41  | tău        | pronume      | /təu/       | your (singular)                               |
+| 42  | când       | conjuncție  | /kɨnd/      | when                                          |
+| 43  | sus        | prepoziție  | /sus/       | up                                            |
+| 44  | folosi     | verb         | /fo'losʲ/   | use                                           |
+| 45  | cuvânt     | substantiv   | /ku'vɨnt/   | word                                          |
+| 46  | cum        | adverb       | /kum/       | how                                           |
+| 47  | zis        | verb         | /zis/       | said                                          |
+| 48a | un         | articol      | /un/        | an (masculin singular)                        |
+| 48b | o          | articol      | /o/         | an (feminin singular)                          |
+| 49  | fiecare    | determinator | /fi'e̯.ka.re/| each                                          |
+| 50  | ea         | pronume      | /ea/        | she                                           |
+
+
+
+
+## Old List:
+
 | No. | English | Romanian | Romanian IPA |
 |-----|---------|----------|--------------|
 | 1   | I       | eu       | /jew/        |

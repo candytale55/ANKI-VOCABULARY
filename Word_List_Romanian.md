@@ -62,8 +62,106 @@ Here is the table of Romanian words:
 | 48b | o          | articol      | /o/         | an (feminin singular)                          |
 | 49  | fiecare    | determinator | /fi'e̯.ka.re/| each                                          |
 | 50  | ea         | pronume      | /ea/        | she                                           |
-
-
+| 51  | care     | pronume      | /ˈkare/       | which                                  |
+| 52  | face     | verb         | /ˈfa.t͡ʃe/    | do                                     |
+| 53  | al lor   | pronume      | /al.ˈlor/     | their (masculin plural)                |
+| 54  | timp     | substantiv   | /timp/        | time                                   |
+| 55  | dacă     | conjuncție  | /ˈda.kə/      | if                                     |
+| 56  | va       | verb         | /va/          | will                                   |
+| 57  | cale     | substantiv   | /ˈka.le/      | way                                    |
+| 58  | despre   | prepoziție  | /de.ˈpres/    | about                                  |
+| 59  | multe    | adjectiv     | /ˈmul.te/     | many                                   |
+| 60  | atunci   | adverb       | /aˈtunʲkʲ/    | then                                   |
+| 61  | pe ei    | pronume      | /pe.ej/       | them (masculin)                        |
+| 62  | ar       | verb         | /ar/          | would                                  |
+| 63  | scrie    | verb         | /ˈskri.e/     | write                                  |
+| 64  | ca       | prepoziție  | /ka/          | like                                   |
+| 65  | așa      | adverb       | /aʃa/         | so                                     |
+| 66  | acestea  | determinator | /aˈke.ste̯a/  | these                                  |
+| 67  | ei       | pronume      | /ej/          | her (direct object)/them (masculin)    |
+| 68  | lung     | adjectiv     | /luŋ/         | long                                   |
+| 69  | face     | verb         | /ˈfa.t͡ʃe/    | make                                   |
+| 70  | lucru    | substantiv   | /ˈlu.kru/     | thing                                  |
+| 71  | vezi     | verb         | /ˈve.zi/      | see                                    |
+| 72  | pe el    | pronume      | /pe.el/       | him                                    |
+| 73  | doi      | număr        | /doi/         | two                                    |
+| 74  | are      | verb         | /are/         | has                                    |
+| 75  | privește | verb         | /pri.veʃ.te/  | look                                   |
+| 76  | mai mult | adjectiv     | /majˈmult/    | more                                   |
+| 77  | zi       | substantiv   | /zi/          | day                                    |
+| 78  | ar putea | verb         | /arˈpu.te̯a/  | could                                  |
+| 79  | mergi    | verb         | /ˈmerʤʲ/      | go                                     |
+| 80  | vino     | verb         | /ˈvi.no/      | come                                   |
+| 81  | a făcut  | verb         | /aˈfə.kut/   | did                                    |
+| 82  | meu      | pronume      | /me̯u/        | my                                     |
+| 83  | sunet    | substantiv   | /ˈsu.net/     | sound                                  |
+| 84  | nu       | determinator | /nu/          | no                                     |
+| 85  | cel mai  | adjectiv     | /t͡ʃel ˈmaj/  | most                                   |
+| 86  | număr    | substantiv   | /ˈnumər/      | number                                 |
+| 87  | cine     | pronume      | /ˈt͡ʃi.ne/     | who                                    |
+| 88  | peste    | prepoziție  | /ˈpe.ste/     | over                                   |
+| 89  | ști      | verb         | /ʃti/         | know                                   |
+| 90  | apă      | substantiv   | /apə/         | water                                  |
+| 91  | decât    | conjuncție  | /deˈkat/      | than                                   |
+| 92  | cheamă   | verb         | /t͡ʃe̯amə/    | call                                   |
+| 93  | primul   | adjectiv     | /ˈpri.mul/    | first                                  |
+| 94  | oameni   | substantiv   | /oˈa.menʲ/    | people                                 |
+| 95  | poate    | verb         | /poˈa.te/     | may                                    |
+| 96  | jos      | adverb       | /ʒos/         | down                                   |
+| 97  | parte    | substantiv   | /ˈpar.te/     | side                                   |
+| 98  | fost     | verb         | /fost/        | been                                   |
+| 99  | acum     | adverb       | /aˈkum/       | now                                    |
+| 100 | găsi     | verb         | /ˈɡə.si/      | find                                   |
+| 101a | orice   | determinator | /ˈo.ri.t͡ʃe/  | any                              |
+| 102  | nou     | adjectiv     | /nuw/        | new                              |
+| 103  | muncă   | substantiv   | /mun.kə/     | work                             |
+| 104  | parte   | substantiv   | /ˈpar.te/    | part                             |
+| 105  | lua     | verb         | /lu.a/       | take                             |
+| 106  | obține  | verb         | /obˈt͡si.ne/  | get                              |
+| 107  | loc     | substantiv   | /lok/        | place                            |
+| 108  | făcut   | verb         | /ˈfə.kut/    | made                             |
+| 109  | trăi    | verb         | /trəj/       | live                             |
+| 110  | unde    | adverb       | /ˈun.de/     | where                            |
+| 111  | după    | prepoziție  | /ˈdu.pə/     | after                            |
+| 112  | înapoi  | adverb       | /i.naˈpoj/   | back                             |
+| 113  | mic     | adjectiv     | /mik/        | little                           |
+| 114  | doar    | adverb       | /do̯ar/       | only                             |
+| 115  | rotund  | adjectiv     | /ro.tund/    | round                            |
+| 116  | bărbat  | substantiv   | /bərˈbat/    | man                              |
+| 117  | an      | substantiv   | /an/         | year                             |
+| 118  | a venit | verb         | /aˈve.nit/   | came                             |
+| 119  | arăta   | verb         | /aˈrə.ta/    | show                             |
+| 120  | fiecare | determinator | /ˈfje.ka.re/ | every                            |
+| 121  | bun     | adjectiv     | /bun/        | good                             |
+| 122  | mie     | pronume      | /mi.e/       | me (object form)                 |
+| 123  | da      | verb         | /da/         | give                             |
+| 124  | nostru  | pronume      | /ˈnos.tru/   | our                              |
+| 125  | sub     | prepoziție  | /sub/        | under                            |
+| 126  | nume    | substantiv   | /ˈnu.me/     | name                             |
+| 127  | foarte  | adverb       | /ˈfo̯ar.te/   | very                             |
+| 128  | prin    | prepoziție  | /prin/       | through                          |
+| 129  | doar    | adverb       | /do̯ar/       | just                             |
+| 130  | formă   | substantiv   | /formə/      | form                             |
+| 131  | mult    | adverb       | /mult/       | much                             |
+| 132  | mare    | adjectiv     | /ˈma.re/     | great                            |
+| 133  | gândi   | verb         | /ɡɨnˈdi/     | think                            |
+| 134  | spune   | verb         | /spuː.ne/    | say                              |
+| 135  | ajuta   | verb         | /a.ˈʒu.ta/   | help                             |
+| 136  | scăzut  | adjectiv     | /ˈskə.zut/   | low                              |
+| 137  | linie   | substantiv   | /ˈli.nje/    | line                             |
+| 138  | înainte | prepoziție  | /ɨnˈajn.te/  | before                           |
+| 139  | roti    | verb         | /ˈro.ti/     | turn                             |
+| 140  | cauză   | substantiv   | /kaˈuzə/     | cause                            |
+| 141  | același | adjectiv     | /a.ˈt͡ʃe.ləʃ/ | same                             |
+| 142  | însemna | verb         | /ɨnˈsem.na/  | mean                             |
+| 143  | diferi  | verb         | /diˈferi/    | differ                           |
+| 144  | muta    | verb         | /ˈmu.ta/     | move                             |
+| 145  | drept   | adjectiv     | /drept/      | right                            |
+| 146  | băiat   | substantiv   | /bəˈjat/     | boy                              |
+| 147  | vechi   | adjectiv     | /ˈve.ki/     | old                              |
+| 148  | prea    | adverb       | /pre̯a/       | too                              |
+| 149  | face    | verb         | /ˈfa.t͡ʃe/    | does                             |
+| 150  | spune   | verb         | /spuː.ne/    | tell                             |
 
 
 ## Old List:

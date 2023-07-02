@@ -1,7 +1,7 @@
 # Catalan and Valencian Word List with IPA
 
 
-| No. | Palabra Catalana | Palabra Valenciana | Tipo | IPA Catalán | IPA Valenciano | Palabra en Inglés (Disambiguación) |
+| No. | Palabra Catalana | Palabra Valenciana | Tipo | IPA Catalán | IPA Valenciano | Palabra en Inglés |
 |-----|-----------------|--------------------|------|-------------|----------------|------------------------------------|
 | 1a  | el              | el                 | article | /əl/        | /əl/           | the                                |
 | 1b  | la              | la                 | article | /lə/        | /lə/           | the                                |

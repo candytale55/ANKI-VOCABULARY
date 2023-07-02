@@ -262,6 +262,113 @@
 | 248     | vida                   | vida                     | substantiu                         | /ˈviðə/     | /ˈvida/       | life         |
 | 249     | pocs                   | pocs                     | adjectiu                           | /ˈpɔks/     | /ˈpɔks/       | few          |
 | 250     | parar                  | parar                    | verb                               | /pəˈɾaɾ/    | /paˈɾaɾ/      | stop         |
+| 251     | obert                  | obert                    | adjectiu                           | /oˈbɛɾt/    | /oˈbɛɾt/      | open         |
+| 252     | semblar                | semblar                  | verb                               | /səmˈbɫaɾ/  | /səmˈbɫaɾ/    | seem         |
+| 253     | junts                  | junts                    | adverbi                            | /ˈʒuns/     | /ˈʒunts/      | together     |
+| 254     | següent                | següent                  | adjectiu                           | /səˈɣwɛnt/  | /seˈɣwɛnt/    | next         |
+| 255     | blanc                  | blanc                    | adjectiu                           | /ˈbɫaŋk/    | /ˈbɫaŋk/      | white        |
+| 256     | nens                   | xiquets                  | substantiu                         | /ˈnɛns/     | /ˈtʃikets/    | children     |
+| 257     | començar               | començar                 | verb                               | /kumənˈsaɾ/  | /komenˈsaɾ/   | begin        |
+| 258     | va aconseguir          | va aconseguir            | verb                               | /ɡɔt/       | /ɡɔt/         | got          |
+| 259     | caminar                | caminar                  | verb                               | /wɔk/       | /wɔk/         | walk         |
+| 260     | exemple                | exemple                  | substantiu                         | /iɡˈzɛmpɫə/ | /iɡˈzɛmpɫe/   | example      |
+| 261     | facilitat              | facilitat                | substantiu                         | /ˈjaz/      | /ˈjez/        | ease         |
+| 262     | paper                  | paper                    | substantiu                         | /ˈpapər/    | /ˈpapər/      | paper        |
+| 263     | sovint                 | sovint                   | adverbi                            | /ˈsɔfin/    | /a muˈtʃes/   | often        |
+| 264     | sempre                 | sempre                   | adverbi                            | /ˈsɛmpɾə/   | /ˈsɛmpɾe/     | always       |
+| 265     | música                 | música                   | substantiu                         | /ˈmuzikə/   | /ˈmuzika/     | music        |
+| 266     | aquells                | aquells                  | pronom                            | /ˈðoʊz/     | /ˈðəʊz/       | those        |
+| 267     | tots dos               | tots dos                 | determinant                        | /boθ
+
+/       | /bəʊθ/        | both         |
+| 268     | marcar                 | marcar                   | verb                               | /ˈmaɾk/     | /maɾˈkaɾ/      | mark         |
+| 269     | llibre                 | llibre                   | substantiu                         | /ˈʎiβɾə/    | /ˈʎibre/      | book         |
+| 270     | carta                  | carta                    | substantiu                         | /ˈkæɾtə/    | /ˈkaɾta/      | letter       |
+| 271     | fins                   | fins                     | preposició                         | /ˈfins/     | /ˈfins/       | until        |
+| 272     | milla                  | milla                    | substantiu                         | /ˈmiʎə/     | /ˈmiʎa/       | mile         |
+| 273     | riu                    | riu                      | substantiu                         | /ˈɾiw/      | /ˈɾiβ/        | river        |
+| 274     | cotxe                  | cotxe                    | substantiu                         | /ˈkɔtʃə/    | /ˈkɔtʃe/      | car          |
+| 275     | peus                   | peus                     | substantiu                         | /fjuts/     | /fjuts/       | feet         |
+| 276     | cuidar                 | cuidar                   | verb                               | /kuiˈðaɾ/   | /koˈiðaɾ/     | care         |
+| 277     | segon                  | segon                    | adjectiu                           | /səˈɣon/    | /seˈɣon/      | second       |
+| 278     | grup                   | grup                     | substantiu                         | /ˈɡɾup/     | /ˈɡɾup/       | group        |
+| 279     | portar                 | portar                   | verb                               | /ˈpɔɾtaɾ/   | /ˈpɔɾtaɾ/     | carry        |
+| 280     | va prendre             | va prendre               | verb                               | /tʊk/       | /tʊk/         | took         |
+| 281     | pluja                  | pluja                    | substantiu                         | /ˈɹeɪn/     | /ˈreɪn/       | rain         |
+| 282     | menjar                 | menjar                   | verb                               | /it/        | /it/          | eat          |
+| 283     | habitació              | habitació                | substantiu                         | /ˈɾum/      | /ˈɾum/        | room         |
+| 284     | amic                   | amic                     | substantiu                         | /fɾɛnt/     | /fɾɛnd/       | friend       |
+| 285     | començava              | començava                | verb                               | /kumənˈsava/ | /komeɲˈsava/  | began        |
+| 286     | idea                   | idea                     | substantiu                         | /aɪˈdiə/    | /a
+
+ɪˈdiə/      | idea         |
+| 287     | peix                   | peix                     | substantiu                         | /fɪʃ/       | /fɪʃ/         | fish         |
+| 288     | muntanya               | muntanya                 | substantiu                         | /munˈtaɲə/  | /munˈtaɲa/    | mountain     |
+| 289     | nord                   | nord                     | substantiu                         | /nɔɾt/      | /nɔɾt/        | north        |
+| 290     | una vegada             | una vegada               | adverbi                            | /ˈwʌns/     | /ˈuna βeˈɣaða/ | once         |
+| 291     | base                   | base                     | substantiu                         | /ˈbɛsə/     | /ˈbaza/       | base         |
+| 292     | sentir                 | sentir                   | verb                               | /ˈsɛntiɾ/   | /ˈsɛntiɾ/     | hear         |
+| 293     | cavall                 | cavall                   | substantiu                         | /kəˈβaʎ/    | /kaˈβaʎ/      | horse        |
+| 294     | tallar                 | tallar                   | verb                               | /ˈtaɫaɾ/    | /ˈtaʎaɾ/      | cut          |
+| 295     | segur                  | segur                    | adjectiu                           | /səˈɣuɾ/    | /seˈɣuɾ/      | sure         |
+| 296     | mirar                  | mirar                    | verb                               | /ˈmiɾaɾ/    | /ˈmiɾaɾ/      | watch        |
+| 297     | color                  | color                    | substantiu                         | /ˈkuɫəɾ/    | /ˈkuɫəɾ/      | color        |
+| 298     | cara                   | cara                     | substantiu                         | /ˈkaɾə/     | /ˈkaɾa/       | face         |
+| 299     | fusta                  | fusta                    | substantiu                         | /ˈfustə/    | /ˈfusta/      | wood         |
+| 300     | principal              | principal                | adjectiu                           | /pɾinsiˈpaɫ/ | /pɾinsiˈpaɫ/   | main         |
+| 301     | suficient              | suficient                | adjectiu                           | /sufiˈsjɛnt/ | /sofiˈsjent/   | enough       |
+| 302     | plan                    | plan                      | adjectiu                             | /ˈplan/           | /ˈplan/             | plain        |
+| 303     | noia                   | xiqueta                  | substantiu                         | /ˈɡɜrl/     | /ˈtʃiketa/    | girl         |
+| 304     | usual                  | usual                    | adjectiu                           | /ˈjuʒuəɫ/   | /ˈjuʒuəɫ/     | usual        |
+| 305     | jove                   | jove                     | adjectiu                           | /ˈjʌŋ/      | /ˈʒove/       | young        |
+| 306     | preparat               | preparat                 | adjectiu                           | /pɾəpaˈɾat/ | /pɾəpaˈɾat/   | ready        |
+| 307     | sobre                  | sobre                    | preposició                         | /suˈbɾə/    | /suˈbɾe/      | above        |
+| 308     | mai                    | mai                      | adverbi                            | /ˈmɛvər/    | /ˈmaj/        | ever         |
+| 309     | vermell                | vermell                  | adjectiu                           | /ˈɾɛm/      | /ˈɾed/        | red          |
+| 310     | llista                 | llista                   | substantiu                         | /ˈɫistə/    | /ˈɫista/      | list         |
+| 311     | encara que              | tot i que                | conjunció                            | /ˈðo/             | /ˈðəw/               | though       |
+| 312     | sentir                 | parlar                   | verb                               | /fiːl/       | /tɔːk/         | feel         |
+| 313     | ocell                  | ocell                    | substantiu                         | /ˈbɜrd/     | /ˈbɜːd/       | bird         |
+| 314     | aviat                  | aviat                    | adverbi                            | /suːn/      | /suːn/         | soon         |
+| 315     | cos                    | cos                      | substantiu                         | /ˈbɒdi/     | /ˈbɒdi/       | body         |
+| 316     | gos                    | gos                      | substantiu                         | /ˈdɔɡ/      | /ˈdɔɡ/        | dog          |
+| 317     | família                | família                  | substantiu                         | /fəˈmɪɫiə/  | /faˈmiʎa/     | family       |
+| 318     | directe                | directe                  | adjectiu                           | /diˈɾɛkt/   | /da.iˈɾɛkt/   | direct       |
+| 319     | posar                  | posar                    | verb                               | /poˈzaɾ/    | /poˈzaɾ/      | pose         |
+| 320     | deixar                 | deixar                   | verb                               | /lɪˈʃaɾ/    | /deiˈʃaɾ/     | leave        |
+| 321     | cançó                  | cançó                    | substantiu                         | /ˈsoŋ/      | /ˈkaɲˈso/     | song         |
+| 322     | mesura                 | mesura                   | substantiu                         | /məˈzuɾə/   | /məˈzuɾa/     | measure      |
+| 323     | estat                  | estat                    | substantiu                         | /stejt/     | /stejt/       |
+
+ state        |
+| 324     | producte               | producte                 | substantiu                         | /pɾuˈðukt/  | /pɾuˈðukt/    | product      |
+| 325     | negre                  | negre                    | adjectiu                           | /ˈnɛɡɾə/    | /ˈnɛɡɾe/      | black        |
+| 326     | curt                   | curt                     | adjectiu                           | /ʃɔrt/      | /ʃɔrt/        | short        |
+| 327     | numeral                | numeral                  | substantiu                         | /ˈnjuːməɹəɫ/ | /ˈnjuːməɹəɫ/   | numeral      |
+| 328     | classe                 | classe                   | substantiu                         | /ˈklasə/    | /ˈkla.sə/     | class        |
+| 329     | vent                   | vent                     | substantiu                         | /ˈwɪnd/     | /ˈwɪnd/       | wind         |
+| 330     | pregunta               | pregunta                 | substantiu                         | /pɾəˈɣuntə/ | /pɾəˈɣunta/   | question     |
+| 331     | succeir                | succeir                  | verb                               | /suˈθeɾ/    | /saˈtʃeɾ/     | happen       |
+| 332     | complet                | complet                  | adjectiu                           | /kəmˈpɫɛt/  | /koˈmple/     | complete     |
+| 333     | vaixell                | vaixell                  | substantiu                         | /ˈbaʃə/     | /ˈbaʃe/       | ship         |
+| 334     | àrea                   | àrea                     | substantiu                         | /ˈaɾiə/     | /ˈaɾea/       | area         |
+| 335     | meitat                 | meitat                   | substantiu                         | /məˈjæt/    | /ˈmeja/       | half         |
+| 336     | roca                   | roca                     | substantiu                         | /ˈɹɑk/      | /ˈrɒk/        | rock         |
+| 337     | ordre                  | ordre                    | substantiu                         | /ˈɔɾdər/    | /ˈɔɾdəɾ/      | order        |
+| 338     | foc                    | foc                      | substantiu                         | /ˈfɑɪər/    | /ˈfɔːk/       | fire         |
+| 339     | sud                    | sud                      | substantiu                         | /sut/       | /sut/         | south        |
+| 340     | problema               | problema                 | substantiu                         | /pɾuˈbɫɛmə/ | /pɾuˈbɫema/   | problem      |
+| 341     | tros                   | tros                     | substantiu                         | /piːs/      | /piːs/        | piece        |
+| 342     | va dir                 | va dir | verb                               | /toʊld/     | /toʊld/       | told         |
+| 343     | passar                 | passar                   | verb                               | /pæs/       | /ˈpas/        | pass         |
+| 344     | granja                 | granja                   | substantiu                         | /ˈfɑɹm/     | /ˈɡɾaɲdʒa/    | farm         |
+| 345     | cim                    | cim                      | substantiu                         | /tɑp/       | /ˈtɒp/        | top          |
+| 346     | tot                    | tot                      | adjectiu                           | /hoʊl/      | /ˈtot/        | whole        |
+| 347     | rei                    | rei                      | substantiu                         | /keɪŋ/      | /ˈrei/        | king         |
+| 348     | mida                   | mida                     | substantiu                         | /ˈmaɪdə/    | /ˈmida/       | size         |
+
+
+
 
 ## Old list
 

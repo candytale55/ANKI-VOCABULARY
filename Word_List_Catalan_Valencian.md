@@ -3,15 +3,15 @@
 
 | No. | Palabra Catalana | Palabra Valenciana | Tipo | IPA Catalán | IPA Valenciano | Palabra en Inglés |
 |-----|-----------------|--------------------|------|-------------|----------------|------------------------------------|
-| 1a  | el              | el                 | article | /əl/        | /əl/           | the                                |
-| 1b  | la              | la                 | article | /lə/        | /lə/           | the                                |
-| 1c  | els             | els                | article | /ɛɫs/       | /ɛɫs/          | the                                |
-| 1d  | les             | les                | article | /ɫəs/       | /ɫəs/          | the                                |
+| 1a       | el | el   | article                             | /əl/        | /əl/          | the (masculine singular)               |
+| 1b       | la | la   | article                             | /la/        | /la/          | the (feminine singular)                |
+| 1c       | els | els  | article                             | /ɛɫs/       | /ɛɫs/         | the (masculine plural)                 |
+| 1d       | les  | les   | article                             | /ɫəs/       | /ɫəs/         | the (feminine plural)                  |
 | 2   | de              | de                 | preposició | /də/        | /də/           | of                                 |
 | 3   | a               | a                  | preposició | /ə/         | /ə/            | to                                 |
 | 4   | i               | i                  | conjunció | /i/         | /i/            | and                                |
-| 5a  | un              | un                 | article | /un/        | /un/           | a                                  |
-| 5b  | una             | una                | article | /uːnə/      | /uːnə/         | a                                  |
+| 5a       | un  | un | article                             | /un/        | /un/          | a, an (masculine singular)             |
+| 5b       | una | una   | article                             | /uːnə/      | /uːnə/        | a, an (feminine singular)              |
 | 6   | en              | en                 | preposició | /ən/        | /ən/           | in                                 |
 | 7   | és             | és                 | verb      | /es/        | /es/           | is                                 |
 | 8   | ho             | ho                 | pronom    | /o/         | /o/            | it                                 |
@@ -326,43 +326,192 @@
 | 312     | sentir                 | parlar                   | verb         | /fiːl/       | /tɔːk/         | feel         |
 | 313     | ocell                  | ocell                    | substantiu   | /ˈbɜrd/     | /ˈbɜːd/       | bird         |
 | 314     | aviat                  | aviat                    | adverbi      | /suːn/      | /suːn/         | soon         |
-| 315     | cos                    | cos                      | substantiu                         | /ˈbɒdi/     | /ˈbɒdi/       | body         |
-| 316     | gos                    | gos                      | substantiu                         | /ˈdɔɡ/      | /ˈdɔɡ/        | dog          |
-| 317     | família                | família                  | substantiu                         | /fəˈmɪɫiə/  | /faˈmiʎa/     | family       |
-| 318     | directe                | directe                  | adjectiu                           | /diˈɾɛkt/   | /da.iˈɾɛkt/   | direct       |
-| 319     | posar                  | posar                    | verb                               | /poˈzaɾ/    | /poˈzaɾ/      | pose         |
-| 320     | deixar                 | deixar                   | verb                               | /lɪˈʃaɾ/    | /deiˈʃaɾ/     | leave        |
-| 321     | cançó                  | cançó                    | substantiu                         | /ˈsoŋ/      | /ˈkaɲˈso/     | song         |
-| 322     | mesura                 | mesura                   | substantiu                         | /məˈzuɾə/   | /məˈzuɾa/     | measure      |
-| 323     | estat                  | estat                    | substantiu                         | /stejt/     | /stejt/       |
-
- state        |
-| 324     | producte               | producte                 | substantiu                         | /pɾuˈðukt/  | /pɾuˈðukt/    | product      |
-| 325     | negre                  | negre                    | adjectiu                           | /ˈnɛɡɾə/    | /ˈnɛɡɾe/      | black        |
-| 326     | curt                   | curt                     | adjectiu                           | /ʃɔrt/      | /ʃɔrt/        | short        |
-| 327     | numeral                | numeral                  | substantiu                         | /ˈnjuːməɹəɫ/ | /ˈnjuːməɹəɫ/   | numeral      |
-| 328     | classe                 | classe                   | substantiu                         | /ˈklasə/    | /ˈkla.sə/     | class        |
-| 329     | vent                   | vent                     | substantiu                         | /ˈwɪnd/     | /ˈwɪnd/       | wind         |
-| 330     | pregunta               | pregunta                 | substantiu                         | /pɾəˈɣuntə/ | /pɾəˈɣunta/   | question     |
-| 331     | succeir                | succeir                  | verb                               | /suˈθeɾ/    | /saˈtʃeɾ/     | happen       |
-| 332     | complet                | complet                  | adjectiu                           | /kəmˈpɫɛt/  | /koˈmple/     | complete     |
-| 333     | vaixell                | vaixell                  | substantiu                         | /ˈbaʃə/     | /ˈbaʃe/       | ship         |
-| 334     | àrea                   | àrea                     | substantiu                         | /ˈaɾiə/     | /ˈaɾea/       | area         |
-| 335     | meitat                 | meitat                   | substantiu                         | /məˈjæt/    | /ˈmeja/       | half         |
-| 336     | roca                   | roca                     | substantiu                         | /ˈɹɑk/      | /ˈrɒk/        | rock         |
-| 337     | ordre                  | ordre                    | substantiu                         | /ˈɔɾdər/    | /ˈɔɾdəɾ/      | order        |
-| 338     | foc                    | foc                      | substantiu                         | /ˈfɑɪər/    | /ˈfɔːk/       | fire         |
-| 339     | sud                    | sud                      | substantiu                         | /sut/       | /sut/         | south        |
-| 340     | problema               | problema                 | substantiu                         | /pɾuˈbɫɛmə/ | /pɾuˈbɫema/   | problem      |
-| 341     | tros                   | tros                     | substantiu                         | /piːs/      | /piːs/        | piece        |
+| 315     | cos                    | cos                      | substantiu    | /ˈbɒdi/     | /ˈbɒdi/       | body         |
+| 316     | gos                    | gos                      | substantiu  | /ˈdɔɡ/      | /ˈdɔɡ/        | dog          |
+| 317     | família                | família                  | substantiu  | /fəˈmɪɫiə/  | /faˈmiʎa/     | family       |
+| 318     | directe                | directe                  | adjectiu    | /diˈɾɛkt/   | /da.iˈɾɛkt/   | direct       |
+| 319     | posar                  | posar                    | verb        | /poˈzaɾ/    | /poˈzaɾ/      | pose         |
+| 320     | deixar                 | deixar                   | verb        | /lɪˈʃaɾ/    | /deiˈʃaɾ/     | leave        |
+| 321     | cançó                  | cançó                    | substantiu  | /ˈsoŋ/      | /ˈkaɲˈso/     | song         |
+| 322     | mesura                 | mesura                   | substantiu  | /məˈzuɾə/   | /məˈzuɾa/     | measure      |
+| 323     | estat                  | estat                    | substantiu  | /stejt/     | /stejt/       | state        |
+| 324     | producte               | producte                 | substantiu  | /pɾuˈðukt/  | /pɾuˈðukt/    | product      |
+| 325     | negre                  | negre                    | adjectiu    | /ˈnɛɡɾə/    | /ˈnɛɡɾe/      | black        |
+| 326     | curt                   | curt                     | adjectiu    | /ʃɔrt/      | /ʃɔrt/        | short        |
+| 327     | numeral                | numeral                  | substantiu  | /ˈnjuːməɹəɫ/ | /ˈnjuːməɹəɫ/   | numeral      |
+| 328     | classe                 | classe                   | substantiu  | /ˈklasə/    | /ˈkla.sə/     | class        |
+| 329     | vent                   | vent                     | substantiu   | /ˈwɪnd/     | /ˈwɪnd/       | wind         |
+| 330     | pregunta               | pregunta                 | substantiu  | /pɾəˈɣuntə/ | /pɾəˈɣunta/   | question     |
+| 331     | succeir                | succeir                  | verb        | /suˈθeɾ/    | /saˈtʃeɾ/     | happen       |
+| 332     | complet                | complet                  | adjectiu     | /kəmˈpɫɛt/  | /koˈmple/     | complete     |
+| 333     | vaixell                | vaixell                  | substantiu  | /ˈbaʃə/     | /ˈbaʃe/       | ship         |
+| 334     | àrea                   | àrea                     | substantiu   | /ˈaɾiə/     | /ˈaɾea/       | area         |
+| 335     | meitat                 | meitat                   | substantiu   | /məˈjæt/    | /ˈmeja/       | half         |
+| 336     | roca                   | roca                     | substantiu    | /ˈɹɑk/      | /ˈrɒk/        | rock         |
+| 337     | ordre                  | ordre                    | substantiu   | /ˈɔɾdər/    | /ˈɔɾdəɾ/      | order        |
+| 338     | foc                    | foc                      | substantiu      | /ˈfɑɪər/    | /ˈfɔːk/       | fire         |
+| 339     | sud                    | sud                      | substantiu     | /sut/       | /sut/         | south        |
+| 340     | problema               | problema                 | substantiu    | /pɾuˈbɫɛmə/ | /pɾuˈbɫema/   | problem      |
+| 341     | tros                   | tros                     | substantiu    | /piːs/      | /piːs/        | piece        |
 | 342     | va dir                 | va dir | verb                               | /toʊld/     | /toʊld/       | told         |
-| 343     | passar                 | passar                   | verb                               | /pæs/       | /ˈpas/        | pass         |
-| 344     | granja                 | granja                   | substantiu                         | /ˈfɑɹm/     | /ˈɡɾaɲdʒa/    | farm         |
-| 345     | cim                    | cim                      | substantiu                         | /tɑp/       | /ˈtɒp/        | top          |
-| 346     | tot                    | tot                      | adjectiu                           | /hoʊl/      | /ˈtot/        | whole        |
-| 347     | rei                    | rei                      | substantiu                         | /keɪŋ/      | /ˈrei/        | king         |
-| 348     | mida                   | mida                     | substantiu                         | /ˈmaɪdə/    | /ˈmida/       | size         |
-
+| 343     | passar                 | passar                   | verb          | /pæs/       | /ˈpas/        | pass         |
+| 344     | granja                 | granja                   | substantiu    | /ˈfɑɹm/     | /ˈɡɾaɲdʒa/    | farm         |
+| 345     | cim                    | cim                      | substantiu       | /tɑp/       | /ˈtɒp/        | top          |
+| 346     | tot                    | tot                      | adjectiu      | /hoʊl/      | /ˈtot/        | whole        |
+| 347     | rei                    | rei                      | substantiu   | /keɪŋ/      | /ˈrei/        | king         |
+| 348     | mida                   | mida                     | substantiu   | /ˈmaɪdə/    | /ˈmida/       | size         |
+| 349     | rei                     | rei                       | noun           | /rɛj/       | /ˈrei/        | king         |
+| 350     | mida                    | mida                      | noun           | /ˈmiðə/     | /ˈmiða/       | size         |
+| 351     | vaig sentir             | vaig sentir               | verb           | /ˈsentiɾ/   | /ˈsentiɾ/     | heard        |
+| 352     | millor                  | millor                    | adjective      | /miˈʎoɾ/    | /miˈʎoɾ/      | best         |
+| 353     | hora                    | hora                      | noun           | /ˈɔɾə/      | /ˈɔɾa/        | hour         |
+| 354     | millor                  | millor                    | adjective      | /miˈʎoɾ/    | /miˈʎoɾ/      | better       |
+| 355     | veritable               | veritable                 | adjective      | /bəɾiˈtaβɫə/ | /beɾiˈtaβle/  | true         |
+| 356     | durant                  | durant                    | preposition    | /duˈɾan/    | /duˈɾan/      | during       |
+| 357     | cent                    | cent                      | numeral        | /ˈsɛn/      | /ˈsɛn/        | hundred      |
+| 358     | soc                     | soc                       | verb           | /sɔk/       | /ˈsɔk/        | am           |
+| 359     | recordar                | recordar                  | verb           | /ɾəkuɾˈðaɾ/ | /ɾekoɾˈðaɾ/   | remember     |
+| 360     | pas                     | pas                       | noun           | /ˈpas/      | /ˈpas/        | step         |
+| 361     | matí                    | matí                      | adjective      | /məˈti/     | /ˈmati/       | early        |
+| 362     | mantenir                | mantindre                 | verb           | /manˈtɛniɾ/ | /mantinˈdɾe/  | hold         |
+| 363     | oest                    | oest                      | noun           | /ˈwɛst/     | /ˈwɛst/       | west         |
+| 364     | terra                   | terra                     | noun           | /ˈtɛra/     | /ˈtɛra/       | ground       |
+| 365     | interès                 | interès                   | noun           | /intəˈɾɛs/  | /intɛˈɾes/    | interest     |
+| 366     | assolir                 | assolir                   | verb           | /əˈsoɫiɾ/   | /asuˈliɾ/     | reach        |
+| 367     | ràpid                   | ràpid                     | adjective      | /ˈrapid/    | /ˈrapid/      | fast         |
+| 368     | cinc                    | cinc                      | numeral        | /ˈsiŋk/     | /ˈsiŋk/       | five         |
+| 369     | cantar                  | cantar                    | verb           | /ˈkantar/   | /kanˈtaɾ/     | sing         |
+| 370     | escoltar                | escoltar                  | verb           | /əs.kuɫˈta/  | /es.koɫˈtaɾ/  | listen       |
+| 371     | sis                     | sis                       | numeral        | /siz/       | /siz/         | six          |
+| 372     | taula                   | taula                     | noun           | /ˈtawɫə/    | /ˈta.wla/     | table        |
+| 373     | viatjar                 | viatjar                   | verb           | /biəˈʤaɾ/   | /bjaˈtʃaɾ/    | travel       |
+| 374     | menys                   | menys                     | adjective      | /ˈmɛnəs/    | /ˈmɛnəs/      | less         |
+| 375     | matí                    | matí                      | noun           | /ˈmɔɾniŋ/   | /ˈmɔɾniŋ/     | morning      |
+| 376     | deu                     | deu                       | numeral        | /ˈdɛw/      | /ˈdɛw/        | ten          |
+| 377     | simple                  | simple                    | adjective      | /ˈsimpɫə/   | /ˈsimpɫe/     | simple       |
+| 378     | diversos                | diversos                  | adjective      | /dəˈvɛɾsəs/ | /deˈveɾsos/   | several      |
+| 379     | vocal                   | vocal                     | noun           | /voˈkaɫ/    | /voˈkaɫ/      | vowel        |
+| 380     | cap a                   | cap a                     | preposition    | /ˈkap ə/    | /ˈkap a/      | toward       |
+| 381     | guerra                  | guerra                    | noun           | /ˈgɛrə/     | /ˈgɛra/       | war          |
+| 382     | posar                   | posar                     | verb           | /poˈza/     | /poˈzaɾ/      | lay          |
+| 383     | contra                  | contra                    | preposition    | /ˈkontɾə/   | /ˈkɔntɾa/     | against      |
+| 384     | patró                   | patró                     | noun           | /ˈpatɾo/    | /ˈpatɾon/     | pattern      |
+| 385     | lent                    | lent                      | adjective      | /ˈlɛnt/     | /ˈlɛnt/       | slow         |
+| 386     | centre                  | centre                    | noun           | /ˈsɛntɾə/   | /ˈsɛntɾe/     | center       |
+| 387     | amor                    | amor                      | noun           | /əˈmoɾ/     | /əˈmoɾ/       | love         |
+| 388     | persona                 | persona                   | noun           | /pərˈsonə/  | /pɛrˈsona/    | person       |
+| 389     | diners                  | diners                    | noun           | /ˈdinərs/   | /ˈdinəɾs/     | money        |
+| 390     | servir                  | servir                    | verb           | /səɾˈviɾ/   | /sɛɾˈviɾ/     | serve        |
+| 391     | aparèixer               | aparèixer                 | verb           | /əpəˈɾɛiʃər/| /apaˈɾeixeɾ/  | appear       |
+| 392     | carretera               | carretera                 | noun           | /ˌkarəˈtɛɾə/| /kaˈreteɾa/   | road         |
+| 393     | mapa                    | mapa                      | noun           | /ˈmapə/     | /ˈmapa/       | map          |
+| 394     | ciència                 | ciència                   | noun           | /ˈsiənsə/   | /ˈsiɛnsia/    | science      |
+| 395     | regla                   | regla                     | noun           | /ˈɾɛɫɡə/    | /ˈrɛɡɫa/      | rule         |
+| 396     | governar                | governar                  | verb           | /ɡuβəɾˈna/  | /ɡoβeɾˈnaɾ/   | govern       |
+| 397     | estirar                 | estirar                   | verb           | /əs.tiˈɾaɾ/ | /es.tiˈɾaɾ/   | pull         |
+| 398     | fred                    | fred                      | adjective      | /fɾɛt/      | /fɾɛt/        | cold         |
+| 399     | observar                | observar                  | verb           | /əb.səɾˈvaɾ/| /ob.serˈvaɾ/  | notice       |
+| 400     | veu                     | veu                       | noun           | /ˈvɛw/      | /ˈvɛw/        | voice        |
+| 401     | caure                  | caure                    | verb           | /ˈkawrə/    | /ˈkawɾe/       | fall         |
+| 402     | poder                  | poder                    | noun           | /ˈpoðər/    | /ˈpoðeɾ/       | power        |
+| 403     | poble                  | poble                    | noun           | /ˈpɔbɫə/    | /ˈpɔbɫe/       | town         |
+| 404     | fi                     | fi                       | adjective      | /fi/        | /fi/            | fine         |
+| 405     | cert                   | cert                     | adjective      | /ˈsɛrt/     | /ˈsɛrt/         | certain      |
+| 406     | volar                  | volar                    | verb           | /voˈɫa/     | /voˈlaɾ/        | fly          |
+| 407     | unitat                 | unitat                   | noun           | /uˈnitət/   | /uniˈtat/       | unit         |
+| 408     | liderar                | liderar                  | verb           | /liðəˈɾaɾ/  | /liðeˈɾaɾ/     | lead         |
+| 409     | plorar                 | plorar                   | verb           | /pɫuˈɾa/    | /ploˈɾaɾ/       | cry          |
+| 410     | fosc                   | fosc                     | adjective      | /ˈfɔsk/     | /ˈfɔsk/         | dark         |
+| 411     | màquina                | màquina                  | noun           | /ˈmaɲkinə/  | /ˈmaɲkina/      | machine      |
+| 412     | nota                   | nota                     | noun           | /ˈnota/     | /ˈnota/         | note         |
+| 413     | esperar                | esperar                  | verb           | /əspəˈɾa/   | /espeˈɾaɾ/     | wait         |
+| 414     | pla                    | pla                      | noun           | /ˈpɫa/      | /ˈpɫa/          | plan         |
+| 415     | figura                 | figura                   | noun           | /fiˈɣuɾə/   | /fiˈɣuɾa/       | figure       |
+| 416     | estrella               | estrella                 | noun           | /əsˈtɾeʎə/  | /esˈtɾeʎa/     | star         |
+| 417     | caixa                  | caixa                    | noun           | /ˈkaʃə/    | /ˈkaʃa/        | box          |
+| 418     | nom                    | nom                      | noun           | /ˈnom/      | /ˈnom/          | noun         |
+| 419     | camp                   | camp                     | noun           | /ˈkam/      | /ˈkam/          | field        |
+| 420     | repòs                  | repòs                    | noun           | /rəˈpos/    | /ˈɾepos/        | rest         |
+| 421     | correcte               | correcte                 | adjective      | /kəˈɾɛktə/  | /koˈrɛkte/     | correct      |
+| 422     | capaç                  | capaç                    | adjective      | /kəˈpaθ/    | /kaˈpaθ/        | able         |
+| 423     | lliura                 | lliura                   | noun           | /ˈʎiwɾə/   | /ˈʎiwɾa/       | pound        |
+| 424     | fer                    | fer                      | verb           | /ˈfɛr/      | /ˈfɛɾ/          | do           |
+| 425     | bellesa                | bellesa                  | noun           | /bəˈɫɛsə/   | /beˈʎesa/      | beauty       |
+| 426     | conduir                | conduir                  | verb           | /kõnˈdwiɾ/  | /konˈduiɾ/     | drive        |
+| 427     | estava de peu          | estava de peu            | verb           | /əsˈtaβə ðəˈpe/ | /esˈtaβa de ˈpe/ | stood        |
+| 428     | contenir               | contenir                 | verb           | /kənˈtɛniɾ/  | /koˈteniɾ/     | contain      |
+| 429     | front                  | front                    | noun           | /ˈfɾont/    | /ˈfɾont/        | front        |
+| 430     | ensenyar               | ensenyar                 | verb           | /ənsəˈɲa/   | /en.seˈɲaɾ/    | teach        |
+| 431     | setmana                | setmana                  | noun           | /ˈsɛtmənə/  | /ˈsetmana/     | week         |
+| 432     | final                  | final                    | adjective      | /ˈfinəl/    | /ˈfinəl/        | final        |
+| 433     | donar                  | donar                    | verb           | /duˈnaɾ/    | /doˈnaɾ/        | give         |
+| 434     | verd                   | verd                     | adjective      | /ˈvɛɾt/     | /ˈvɛɾt/         | green        |
+| 435     | oh                     | oh                       | interjection   | /o/         | /o/             | oh           |
+| 436     | ràpid                  | ràpid                    | adjective      | /ˈrapid/    | /ˈrapid/        | quick        |
+| 437     | desenvolupar           | desenvolupar             | verb           | /dənsəvɔɫuˈpaɾ/ | /deseɱvoluˈpaɾ/  | develop      |
+| 438     | dormir                 | dormir                   | verb           | /duɾˈmiɾ/    | /doɾˈmiɾ/       | sleep        |
+| 439     | càlid                  | càlid                    | adjective      | /ˈkaɫit/    | /ˈkaɫi/         | warm         |
+| 440     | lliure                 | lliure                   | adjective      | /ˈʎiwɾə/   | /ˈʎiwɾe/       | free         |
+| 441     | minut                  | minut                    | noun           | /muˈnit/    | /muˈnit/        | minute       |
+| 442     | fort                   | fort                     | adjective      | /ˈfɔrt/     | /ˈfɔɾt/         | strong       |
+| 443     | especial               | especial                 | adjective      | /əspəˈsjal/ | /espeˈsjal/     | special      |
+| 444     | ment                   | ment                     | noun           | /mənt/      | /mɛnt/          | mind         |
+| 445     | darrere                | darrere                  | preposition    | /dəˈrɛɾə/   | /daˈreɾe/       | behind       |
+| 446     | clar                   | clar                     | adjective      | /ˈkɫaɾ/     | /ˈklaɾ/         | clear        |
+| 447     | cua                    | cua                      | noun           | /kuə/       | /kwa/           | tail         |
+| 448     | produir                | produir                  | verb           | /pɾuˈði/    | /pɾoˈðiɾ/       | produce      |
+| 449     | fet                    | fet                      | noun           | /ˈfɛt/      | /ˈfɛt/          | fact         |
+| 450     | carrer                 | carrer                   | noun           | /kəˈrɛr/    | /kaˈreɾ/        | street       |
+| 451      | polzada                | polzada                  | noun           | /poɫˈzaðə/  | /poɫˈzaða/    | inch         |
+| 452      | lot                    | lot                      | noun           | /lɔt/       | /lot/         | lot          |
+| 453      | res                    | res                      | pronoun        | /ˈrɛs/      | /ˈrɛs/        | nothing      |
+| 454      | curs                   | curs                     | noun           | /ˈkurs/     | /ˈkurs/       | course       |
+| 455      | quedar-se              | quedar-se                | verb           | /kəˈðaɾ sə/ | /keˈðaɾ se/   | stay         |
+| 456      | roda                   | roda                     | noun           | /ˈrɔðə/     | /ˈrɔða/       | wheel        |
+| 457      | ple                     | ple                      | adjective      | /ˈplɛ/      | /ˈplɛ/        | full         |
+| 458      | força                  | força                    | noun           | /ˈfɔɾsə/    | /ˈfɔɾsa/      | force        |
+| 459      | blau                   | blau                     | adjective      | /ˈbɫaw/     | /ˈbɫaw/       | blue         |
+| 460      | objecte                | objecte                  | noun           | /əbˈʒɛktə/  | /obˈʒɛkte/    | object       |
+| 461      | decidir                | decidir                  | verb           | /dəsiˈðiɾ/  | /de.siˈðiɾ/   | decide       |
+| 462      | superfície             | superfície               | noun           | /səɾpəˈfisi/ | /sʊpəɾˈfisi/  | surface      |
+| 463      | profund                | profund                  | adjective      | /pɾuˈfunt/  | /pɾuˈfunt/    | deep         |
+| 464      | lluna                  | lluna                    | noun           | /ˈʎunə/     | /ˈʎuna/       | moon         |
+| 465      | illa                   | illa                     | noun           | /ˈiʎə/     | /ˈiʎa/       | island       |
+| 466      | peu                    | peu                      | noun           | /ˈpew/      | /ˈpew/        | foot         |
+| 467      | encara                | encara                  | adverb         | /əŋˈkaɾə/  | /eŋˈkaɾa/    | yet          |
+| 468      | ocupat                 | ocupat                   | adjective      | /u.kuˈpat/  | /o.kuˈpat/    | busy         |
+| 469      | prova                  | prova                    | noun           | /ˈpɾɔvə/    | /ˈpɾɔva/      | test         |
+| 470      | registre               | registre                 | noun           | /rəˈʒistɾə/ | /ɾeˈʒistɾe/   | record       |
+| 471      | barca                  | barca                    | noun           | /ˈbaɾkə/    | /ˈbaɾka/      | boat         |
+| 472      | comú                   | comú                     | adjective      | /kəˈmu/     | /koˈmu/       | common       |
+| 473      | or                     | or                       | noun           | /oɾ/        | /ɔɾ/          | gold         |
+| 474      | possible               | possible                 | adjective      | /pozsiˈbɫə/ | /possiˈbɫe/   | possible     |
+| 475      | avió                   | avió                     | noun           | /əˈβjo/     | /aˈvi.o/      | plane        |
+| 476      | edat                   | edat                     | noun           | /əˈðat/     | /eˈdat/       | age          |
+| 477      | sec                    | sec                      | adjective      | /ˈsɛk/      | /ˈsɛk/        | dry          |
+| 478      | preguntar-se           | preguntar-se             | verb           | /pɾəɣunˈtaɾ sə/ | /pɾeɣunˈtaɾ se/ | wonder       |
+| 479      | riure                  | riure                    | verb           | /ˈɾiwɾə/    | /ˈriwɾe/      | laugh        |
+| 480      | mil                    | mil                      | number         | /ˈmiɫ/      | /ˈmiɫ/        | thousand     |
+| 481      | fa                     | fa                       | adverb         | /ˈfa/       | /ˈfa/         | ago          |
+| 482      | va córrer              | va córrer                | verb           | /ba ˈko.rə/ | /va ˈko.re/   | ran          |
+| 483      | xec                    | xec                      | noun           | /ʃɛk/       | /tʃɛk/         | check        |
+| 484      | joc                    | joc                      | noun           | /ˈʒɔk/      | /ˈdʒɔk/        | game         |
+| 485      | forma                  | forma                    | noun           | /ˈfɔɾmə/    | /ˈfɔɾma/      | shape        |
+| 486      | sí                    | sí                      | adverb         | /ˈsi/       | /ˈsi/         | yes          |
+| 487      | calent                 | calent                   | adjective      | /kəˈɫɛnt/   | /kaˈlɛnt/     | hot          |
+| 488      | trobar a faltar        | trobar a faltar          | verb     | /tɾuˈba ə ˈfaltər/ | /tɾoˈba a ˈfaltaɾ/ | miss         |
+| 489      | va portar              | va portar                | verb           | /ba porˈtaɾ/ | /va poɾˈtaɾ/   | brought      |
+| 490      | calor                  | calor                    | noun           | /kəˈɫoɾ/    | /kaˈloɾ/      | heat         |
+| 491      | neu                    | neu                      | noun           | /ˈnɛw/      | /ˈnɛw/        | snow         |
+| 492      | llit                   | llit                     | noun           | /ˈʎit/      | /ˈʎit/        | bed          |
+| 493      | portar                 | portar                   | verb           | /poɾˈtaɾ/    | /poɾˈtaɾ/      | bring        |
+| 494      | seure                  | seure                    | verb           | /səˈuɾə/    | /ˈseuɾe/      | sit          |
+| 495      | potser                 | potser                   | adverb         | /ˈpo.tsər/  | /ˈpot.seɾ/    | perhaps      |
+| 496      | omplir                 | omplir                   | verb           | /umˈpliɾ/    | /omˈpliɾ/      | fill         |
+| 497      | est                          | est          | noun                  | /ˈɛst/    | /ˈɛst/      | east         |
+| 498      | pes                    | pes                      | noun           | /ˈpɛs/      | /ˈpɛs/        | weight       |
+| 499      | llenguatge             | llenguatge               | noun           | /ʎəŋˈɡwaʧə/ | /ʎeŋˈɡwaʧ/   | language     |
+| 500      | entre                  | entre                    | preposition    | /ˈɛntɾə/    | /ˈɛntɾe/      | among        |
 
 
 

@@ -471,7 +471,56 @@
 | 448  | produce                | verbo                   | /prəˈduːs/         | /prəˈdjuːs/        | /pɾo.ˈðu.siɾ/       | producir           |
 | 449  | fact                   | sustantivo              | /fækt/             | /fækt/            | /ˈhe.tʃo/           | hecho              |
 | 450  | street                 | sustantivo              | /striːt/           | /striːt/          | /ka.ˈʎe/            | calle              |
-
+| 451   | pulgada                | sustantivo            | /ˈpʊl.ɡa.ða/     | /ˈpʊl.ɡa.ða/     | /ˈpuɫ.ɣa.ða/        | inch              |
+| 452   | lote                   | sustantivo            | /ˈlo.te/         | /ˈlo.te/         | /ˈlo.te/            | lot               |
+| 453   | nada                   | pronombre             | /ˈna.ða/         | /ˈna.ða/         | /ˈna.ða/            | nothing           |
+| 454   | curso                  | sustantivo            | /ˈkuɾ.so/        | /ˈkuɾ.so/        | /ˈkuɾ.so/           | course            |
+| 455   | quedarse               | verbo                 | /keˈðaɾ.se/      | /keˈðaɾ.se/      | /keˈðaɾ.se/         | stay              |
+| 456   | rueda                  | sustantivo            | /ˈrwe.ða/        | /ˈrwe.ða/        | /ˈrwe.ða/           | wheel             |
+| 457   | lleno                  | adjetivo              | /ˈʝe.ðo/         | /ˈʝe.ðo/         | /ˈʝe.ðo/            | full              |
+| 458   | fuerza                 | sustantivo            | /ˈfweɾ.sa/       | /ˈfweɾ.sa/       | /ˈfweɾ.sa/          | force             |
+| 459   | azul                   | adjetivo              | /aˈsul/          | /aˈsul/          | /aˈθul/             | blue              |
+| 460   | objeto                 | sustantivo            | /oˈβe.x.to/      | /oˈβe.x.to/      | /oˈβe.x.to/         | object            |
+| 461   | decidir                | verbo                 | /de.θiˈðiɾ/      | /de.θiˈðiɾ/      | /de.θiˈðiɾ/         | decide            |
+| 462   | superficie             | sustantivo            | /su.peɾ.fiˈθje/  | /su.peɾ.fiˈsi/   | /su.peɾ.fiˈθje/      | surface           |
+| 463   | profundo               | adjetivo              | /pɾoˈfun.do/     | /pɾoˈfun.do/     | /pɾoˈfun.ðo/        | deep              |
+| 464   | luna                   | sustantivo            | /ˈlu.na/         | /ˈlu.na/         | /ˈlu.na/            | moon              |
+| 465   | isla                   | sustantivo            | /ˈi.sla/         | /ˈi.sla/         | /ˈi.sla/            | island            |
+| 466   | pie                    | sustantivo            | /ˈpi.e/          | /ˈpi.e/          | /ˈpi.e/             | foot              |
+| 467   | aún                    | adverbio              | /aˈun/           | /aˈun/           | /aˈun/              | yet               |
+| 468   | ocupado                | adjetivo              | /o.kuˈpa.ðo/     | /o.kuˈpa.ðo/     | /o.kuˈpa.ðo/        | busy              |
+| 469   | prueba                 | sustantivo            | /ˈpɾwe.βa/       | /ˈpɾwe.βa/       | /ˈpɾwe.βa/          | test              |
+| 470   | registro               | sustantivo            | /re.ˈxis.tɾo/    | /re.ˈxis.tɾo/    | /re.ˈxis.tɾo/       | record            |
+| 471   | bote                   | sustantivo            | /ˈbo.te/         | /ˈbo.te/         | /ˈbo.te/            | boat              |
+| 472   | común                  | adjetivo              | /ko.ˈmun/        | /ko.ˈmun/        | /ko.ˈmun/           | common            |
+| 473   | oro                    | sustantivo            | /ˈo.ɾo/          | /ˈo.ɾo/          | /ˈo.ɾo/             | gold              |
+| 474   | posible                | adjetivo              | /poˈsi.βle/      | /poˈsi.βle/      | /poˈθi.βle/         | possible          |
+| 475   | avión                  | sustantivo            | /aˈβjon/         | /aˈβjon/         | /aˈβjon/            | plane             |
+| 476   | edad                   | sustantivo            | /ˈe.ðað/         | /ˈe.ðað/         | /ˈe.ðað/            | age               |
+| 477   | seco                   | adjetivo              | /ˈse.ko/         | /ˈse.ko/         | /ˈse.ko/            | dry               |
+| 478   | preguntarse            | verbo                 | /pɾe.ɣunˈtaɾ.se/ | /pɾe.ɣunˈtaɾ.se/ | /pɾe.ɣunˈtaɾ.se/    | wonder            |
+| 479   | reír                   | verbo                 | /ˈre.iɾ/         | /ˈre.iɾ/         | /ˈre.iɾ/            | laugh             |
+| 480   | mil                    | número                | /ˈmil/           | /ˈmil/           | /ˈmil/              | thousand         |
+| 481   | hace                   | adverbio              | /ˈa.se/          | /ˈa.se/          | /ˈa.se/             | ago               |
+| 482   | corrió                 | verbo                 | /koˈɾi.o/        | /koˈɾi.o/        | /koˈr.i.o/           | ran               |
+| 483   | cheque                 | sustantivo            | /ˈtʃek/          | /ˈtʃek/          | /ˈtʃeke/            | check             |
+| 484   | juego                  | sustantivo            | /ˈxwe.ɣo/        | /ˈxwe.ɣo/        | /ˈxwe.ɣo/           | game              |
+| 485   | forma                  | sustantivo            | /ˈfor.ma/        | /ˈfor.ma/        | /ˈfor.ma/           | shape             |
+| 486   | sí                     | adverbio              | /ˈsi/            | /ˈsi/            | /ˈsi/               | yes               |
+| 487   | caliente               | adjetivo              | /kaˈljen.te/     | /kaˈljen.te/     | /kaˈljẽ.te/         | hot               |
+| 488   | extrañar               | verbo                 | /eks.tɾaˈɲaɾ/    | /eks.tɾaˈɲaɾ/    | /eks.tɾaˈɲaɾ/       | miss              |
+| 489   | trajo                  | verbo                 | /ˈtɾa.xo/        | /ˈtɾa.xo/        | /ˈtɾa.xo/           | brought           |
+| 490   | calor                  | sustantivo            | /ka.ˈloɾ/        | /ka.ˈloɾ/        | /ka.ˈloɾ/           | heat              |
+| 491   | nieve                  | sustantivo            | /ˈnje.βe/        | /ˈnje.βe/        | /ˈnje.βe/           | snow              |
+| 492   | cama                   | sustantivo            | /ˈka.ma/         | /ˈka.ma/         | /ˈka.ma/            | bed               |
+| 493   | traer                  | verbo                 | /ˈtɾa.eɾ/        | /ˈtɾa.eɾ/        | /ˈtɾa.eɾ/           | bring             |
+| 494   | sentarse               | verbo                 | /senˈtaɾ.se/     | /senˈtaɾ.se/     | /senˈtaɾ.se/        | sit               |
+| 495   | quizás                 | adverbio              | /kiˈθas/         | /kiˈsas/         | /kiˈθas/            | perhaps           |
+| 496   | llenar                 | verbo                 | /ʝeˈnaɾ/         | /ʝeˈnaɾ/         | /ʎeˈnaɾ/            | fill|
+| 497   | este                   | sustantivo            | /ˈes.te/         | /ˈes.te/         | /ˈes.te/            | east              |
+| 498   | peso                   | sustantivo            | /ˈpe.so/         | /ˈpe.so/         | /ˈpe.so/            | weight            |
+| 499   | lenguaje               | sustantivo            | /leŋˈɡwa.xe/     | /leŋˈɡwa.xe/     | /leŋˈɡwa.xe/        | language          |
+| 500   | entre                  | preposición           | /ˈen.tɾe/        | /ˈen.tɾe/        | /ˈen.tɾe/           | among             |
 
 ## Old List:
 

@@ -1,11 +1,11 @@
 # Spanish Word List with IPA
 
-| Word No. | Equivalent Spanish Word | Part of Speech in Spanish | Latin American IPA | Rioplatense IPA | Iberian Spanish IPA | Word in English |
-|----------|------------------------|---------------------------|--------------------|-----------------|---------------------|-----------------|
-| 1a       | el  | artículo                  | /el/               | /el/            | /el/                | the             |
-| 1b       | la  | artículo                  | /la/               | /la/            | /la/                | the             |
-| 1c       | los | artículo                  | /los/              | /los/           | /los/               | the             |
-| 1d       | las | artículo                  | /las/              | /las/           | /las/               | the             |
+| Número de palabra | Palabra equivalente en español | Categoría gramatical en español | Valor IPA en América Latina | Valor IPA en el Rioplatense | Valor IPA en el español ibérico | Palabra en inglés                           |
+|----------|-------------------------|---------------------------|-------------------------|-----------------|---------------------|------------------------------------------|
+| 1a       | el                      | artículo                  | /el/                    | /el/            | /el/                | the (masculine singular)                 |
+| 1b       | la                      | artículo                  | /la/                    | /la/            | /la/                | the (feminine singular)                  |
+| 1c       | los                     | artículo                  | /los/                   | /los/           | /los/               | the (masculine plural)                   |
+| 1d       | las                     | artículo                  | /las/                   | /las/           | /las/               | the (feminine plural)                     |
 | 2        | de  | preposición               | /de/               | /de/            | /de/                | of              |
 | 3        | a   | preposición               | /a/                | /a/             | /a/                 | to              |
 | 4        | y   | conjunción                | /i/                | /i/             | /i/                 | and             |

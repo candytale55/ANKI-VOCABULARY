@@ -119,8 +119,8 @@
 | 98       | sido                                                             | verbo                                | /ˈsi.ðo/                 | /ˈsi.ðo/         | /ˈsi.ðo/             | been                                           |
 | 99       | ahora                                                            | adverbio                             | /a.ˈo.ɾa/                | /a.ˈo.ɾa/        | /a.ˈo.ɾa/            | now                                            |
 | 100      | encontrar                                                        | verbo                                | /en.kon.ˈtɾaɾ/           | /en.kon.ˈtɾaɾ/   | /en.kon.ˈtɾaɾ/       | find                                           |
-| 101a     | cualquier              | determinante              | /ˈkwal.kjeɾ/             | /ˈkwal.kjeɾ/     | /ˈkwal.kjeɾ/         | any             |
-| 101b     | alguno                 | pronombre                 | /al.ˈɡu.no/              | /al.ˈɡu.no/      | /al.ˈɡu.no/          |                 |
+| 101a     | cualquier              | determinante              | /ˈkwal.kjeɾ/             | /ˈkwal.kjeɾ/     | /ˈkwal.kjeɾ/        | any (indefinite)           |
+| 101b     | alguno                 | pronombre                 | /al.ˈɡu.no/              | /al.ˈɡu.no/      | /aɡ.ˈu.nu/          | some (unspecified quantity) |
 | 102      | nuevo                  | adjetivo                  | /ˈnwe.βo/                | /ˈnwe.βo/        | /ˈnwe.βo/            | new             |
 | 103      | trabajo                | sustantivo                | /tɾa.ˈβa.xo/             | /tɾa.ˈβa.ʃo/     | /tɾa.ˈβa.ʎo/         | work            |
 | 104      | parte                  | sustantivo                | /ˈpaɾ.te/                | /ˈpaɾ.te/        | /ˈpaɾ.te/            | part            |
@@ -169,7 +169,57 @@
 | 147      | viejo                  | adjetivo                  | /ˈbje.xo/                | /ˈbje.ʃo/        | /ˈbje.xo/            | old             |
 | 148      | demasiado              | adverbio                  | /de.ˈma.sja.ðo/          | /de.ˈma.sja.ðo/  | /de.ma.si.ˈa.ðo/     | too             |
 | 149      | hace                   | verbo                     | /ˈa.se/                  | /ˈa.se/          | /ˈa.se/              | does            |
-
+| 150     | decir                 | verbo                     | /de.ˈsiɾ/          | /de.ˈsiɾ/       | /de.ˈθiɾ/           | tell            |
+| 151     | oración               | sustantivo                | /o.ɾa.ˈsjon/       | /o.ɾa.ˈsjon/    | /o.ɾa.ˈθjon/        | sentence        |
+| 152     | establecer            | verbo                     | /es.ta.ble.ˈser/   | /es.ta.ble.ˈseɾ/| /es.ta.βle.ˈθeɾ/    | set             |
+| 153     | tres                  | número                    | /tɾes/             | /tɾes/          | /tɾes/               | three           |
+| 154     | querer                | verbo                     | /ke.ˈɾeɾ/          | /ke.ˈɾeɾ/       | /ke.ˈɾeɾ/           | want            |
+| 155     | aire                  | sustantivo                | /ˈa.jɾe/           | /ˈa.jɾe/        | /ˈa.i.ɾe/           | air             |
+| 156     | bien                  | adverbio                  | /ˈbjen/            | /ˈbjẽn/         | /ˈbjen/              | well            |
+| 157     | también               | adverbio                  | /ˈtam.bjen/        | /ˈtam.bjẽn/     | /ˈtam.bjẽn/         | also            |
+| 158     | jugar                 | verbo                     | /ˈxu.ɡaɾ/          | /ˈxu.ɡaɾ/       | /ˈxu.ɡaɾ/           | play            |
+| 159     | pequeño               | adjetivo                  | /pe.ˈke.ɲo/        | /pe.ˈke.ɲo/     | /pe.ˈke.ɲo/         | small           |
+| 160     | fin                   | sustantivo                | /fin/              | /fin/           | /fin/                | end             |
+| 161     | poner                 | verbo                     | /po.ˈneɾ/          | /po.ˈneɾ/       | /po.ˈneɾ/           | put             |
+| 162     | casa                  | sustantivo                | /ˈka.sa/           | /ˈka.sa/        | /ˈka.sa/             | home            |
+| 163     | leer                  | verbo                     | /le.ˈɾeɾ/          | /le.ˈɾeɾ/       | /le.ˈɾeɾ/           | read            |
+| 164     | mano                  | sustantivo                | /ˈma.no/           | /ˈma.no/        | /ˈma.no/             | hand            |
+| 165     | puerto                | sustantivo                | /ˈpweɾ.to/         | /ˈpweɾ.to/      | /ˈpwɛɾ.to/           | port            |
+| 166     | grande                | adjetivo                  | /ˈɡɾan.de/         | /ˈɡɾan.de/      | /ˈɡɾan.de/           | large           |
+| 167     | deletrear             | verbo                     | /de.le.ˈtɾaɾ/      | /de.le.ˈtɾaɾ/   | /de.le.ˈtɾaɾ/        | spell           |
+| 168     | añadir                | verbo                     | /a.ˈɲa.diɾ/        | /a.ˈɲa.diɾ/     | /a.ˈɲa.ðiɾ/          | add             |
+| 169     | incluso               | adverbio                  | /in.ˈklu.so/       | /in.ˈklu.so/    | /in.ˈklu.so/         | even            |
+| 170     | tierra                | sustantivo                | /ˈtje.rra/         | /ˈtje.rra/      | /ˈtje.rra/           | land            |
+| 171     | aquí                  | adverbio                  | /a.ˈki/            | /a.ˈki/         | /a.ˈki/              | here            |
+| 172     | debe                  | verbo auxiliar            | /ˈde.be/           | /ˈde.be/        | /ˈde.βe/             | must            |
+| 173     | grande                | adjetivo                  | /ˈɡɾan.de/         | /ˈɡɾan.de/      | /ˈɡɾan.de/           | big             |
+| 174     | alto                  | adjetivo                  | /ˈal.to/           | /ˈal.to/        | /ˈal.to/             | high            |
+| 175     | tal                   | determinante              | /tal/              | /tal/           | /tal/                | such            |
+| 176     | seguir                | verbo                     | /se.ˈɣiɾ/          | /se.ˈʃiɾ/       | /se.ˈɣiɾ/           | follow          |
+| 177     | actuar                | verbo                     | /ak.ˈtwaɾ/         | /ak.ˈtwaɾ/      | /ak.ˈtwaɾ/           | act             |
+| 178     | por qué               | adverbio interrogativo    | /poɾ.ˈke/          | /poɾ.ˈke/       | /poɾ.ˈke/            | why             |
+| 179     | preguntar             | verbo                     | /pɾe.ɣun.ˈtaɾ/     | /pɾe.ɣun.ˈtaɾ/  | /pɾe.ɣun.ˈtaɾ/       | ask             |
+| 180     | hombres               | sustantivo                | /ˈom.bɾes/         | /ˈom.bɾes/      | /ˈom.bɾes/           | men             |
+| 181     | cambiar               | verbo                     | /kam.ˈbjaɾ/        | /kam.ˈbjaɾ/     | /kam.ˈbjaɾ/          | change          |
+| 182     | fue                   | verbo                     | /ˈfwe/             | /ˈfwe/          | /ˈfwe/               | went            |
+| 183     | luz                   | sustantivo                | /lus/              | /lus/           | /lus/                | light           |
+| 184     | tipo                  | sustantivo                | /ˈti.po/           | /ˈti.po/        | /ˈti.po/             | kind            |
+| 185     | fuera                 | preposición               | /ˈfwe.ɾa/          | /ˈfwe.ɾa/       | /ˈfwe.ɾa/            | off             |
+| 186     | necesitar             | verbo                     | /ne.θe.si.ˈtaɾ/    | /ne.se.si.ˈtaɾ/ | /ne.θe.si.ˈtaɾ/      | need            |
+| 187     | casa                  | sustantivo                | /ˈka.sa/           | /ˈka.sa/        | /ˈka.sa/             | house           |
+| 188     | imagen                | sustantivo                | /i.ˈma.xen/        | /i.ˈma.ʃen/     | /i.ˈma.xen/          | picture         |
+| 189     | intentar              | verbo                     | /in.ten.ˈtaɾ/      | /in.ten.ˈtaɾ/   | /in.ten.ˈtaɾ/        | try             |
+| 190     | nosotros              | pronombre                 | /no.ˈsot.ɾos/      | /no.ˈsot.ɾos/   | /no.ˈsot.ɾos/        | us              |
+| 191     | de nuevo              | adverbio                  | /de ˈnwe.βo/       | /de ˈnwe.βo/    | /de ˈnwe.βo/         | again           |
+| 192     | animal                | sustantivo                | /a.ˈni.mal/        | /a.ˈni.mal/     | /a.ˈni.mal/          | animal          |
+| 193     | punto                 | sustantivo                | /ˈpun.to/          | /ˈpun.to/       | /ˈpun.to/            | point           |
+| 194     | madre                 | sustantivo                | /ˈma.ðɾe/          | /ˈma.ðɾe/       | /ˈma.ðɾe/            | mother          |
+| 195     | mundo                 | sustantivo                | /ˈmun.do/          | /ˈmun.do/       | /ˈmun.do/            | world           |
+| 196     | cerca                 | preposición               | /ˈseɾ.ka/          | /ˈseɾ.ka/       | /ˈseɾ.ka/            | near            |
+| 197     | construir             | verbo                     | /kons.ˈtɾwiɾ/      | /kons.ˈtɾwiɾ/   | /kons.ˈtɾwiɾ/        | build           |
+| 198     | yo mismo              | pronombre reflexivo        | /ʝo ˈmis.mo/       | /ʒo ˈmis.mo/    | /ʝo ˈmis.mo/         | self            |
+| 199     | tierra                | sustantivo                | /ˈtje.rra/         | /ˈtje.rra/      | /ˈtje.rra/           | earth           |
+| 200     | padre                 | sustantivo                | /ˈpa.ðɾe/          | /ˈpa.ðɾe/       | /ˈpa.ðɾe/            | father          |
 
 
 ## Old List:

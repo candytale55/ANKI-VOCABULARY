@@ -1,5 +1,74 @@
 # Spanish Word List with IPA
 
+| Word No. | Equivalent Spanish Word | Part of Speech in Spanish | Latin American IPA | Rioplatense IPA | Iberian Spanish IPA | Word in English |
+|----------|------------------------|---------------------------|--------------------|-----------------|---------------------|-----------------|
+| 1a       | el                     | artículo                  | /el/               | /el/            | /el/                | the             |
+| 1b       | la                     | artículo                  | /la/               | /la/            | /la/                | the             |
+| 1c       | los                    | artículo                  | /los/              | /los/           | /los/               | the             |
+| 1d       | las                    | artículo                  | /las/              | /las/           | /las/               | the             |
+| 2        | de                     | preposición               | /de/               | /de/            | /de/                | of              |
+| 3        | a                      | preposición               | /a/                | /a/             | /a/                 | to              |
+| 4        | y                      | conjunción                | /i/                | /i/             | /i/                 | and             |
+| 5a       | un                     | artículo                  | /un/               | /un/            | /un/                | a               |
+| 5b       | una                    | artículo                  | /uˈna/             | /uˈna/          | /uˈna/              | a               |
+| 6        | en                     | preposición               | /en/               | /en/            | /en/                | in              |
+| 7        | es                     | verbo                     | /es/               | /es/            | /es/                | is              |
+| 8a       | ello                   | pronombre                 | /ˈeʎo/            | /ˈeʎo/         | /ˈeʎo/              | it              |
+| 8b       | eso                    | pronombre                 | /ˈeso/            | /ˈeso/         | /ˈeso/              | it              |
+| 9a       | tú                     | pronombre                 | /ˈtu/             | /ˈtu/          | /ˈtu/               | you             |
+| 9b       | usted                  | pronombre                 | /usˈted/          | /usˈte/        | /usˈted/            | you             |
+| 10       | que                    | conjunción                | /ke/               | /ke/            | /ke/                | that            |
+| 11       | él                     | pronombre                 | /ˈel/             | /ˈel/           | /ˈel/               | he              |
+| 12       | fue                    | verbo                     | /ˈfwe/            | /ˈfwe/         | /ˈfwe/              | was             |
+| 13       | para                   | preposición               | /ˈpaɾa/           | /ˈpaɾa/        | /ˈpaɾa/             | for             |
+| 14       | en/sobre               | preposición               | /en/soˈβɾe/       | /en/soˈβɾe/    | /en/soˈβɾe/         | on              |
+
+
+| 15       | son                    | verbo                     | /son/              | /son/           | /son/               | are             |
+| 16       | con                    | preposición               | /kon/              | /kon/           | /kon/               | with            |
+| 17       | como                   | conjunción                | /ˈkomo/           | /ˈkomo/        | /ˈkomo/             | as              |
+| 18       | yo                     | pronombre                 | /ʝo/              | /ʒo/            | /ʝo/                | I               |
+| 19       | su (de él)             | pronombre                 | /su (de ˈel)/     | /su (de ˈel)/   | /su (de ˈel)/       | his             |
+| 20       | ellos                  | pronombre                 | /eˈʎos/           | /eˈʒos/         | /eˈʎos/             | they            |
+| 21       | ser/estar              | verbo                     | /seɾ/esˈtaɾ/      | /seɾ/esˈtaɾ/   | /seɾ/esˈtaɾ/        | be              |
+| 22       | en                     | preposición               | /en/               | /en/            | /en/                | at              |
+| 23       | uno                    | sustantivo                | /ˈuno/            | /ˈuno/         | /ˈuno/              | one             |
+| 24       | tener                  | verbo                     | /teˈneɾ/          | /teˈneɾ/       | /teˈneɾ/            | have            |
+| 25a      | este                   | pronombre                 | /ˈeste/           | /ˈeste/        | /ˈeste/             | this            |
+| 25b      | esta                   | pronombre                 | /ˈesta/           | /ˈesta/        | /ˈesta/             | this            |
+| 26       | de                     | preposición               | /de/               | /de/            | /de/                | from            |
+| 27       | o                      | conjunción                | /o/                | /o/             | /o/                 | or              |
+| 28       | tenía/había           | verbo                     | /ˈteni.a/aˈβi.a/  | /ˈteni.a/aˈβi.a/| /ˈteni.a/aˈβi.a/    | had             |
+| 29       | por                    | preposición               | /poɾ/              | /poɾ/           | /poɾ/               | by              |
+| 30       | caliente               | adjetivo                  | /kaˈljente/       | /kaˈʃente/     | /kaˈljente/         | hot             |
+| 31       | pero                   | conjunción                | /ˈpeɾo/           | /ˈpeɾo/        | /ˈpeɾo/             | but             |
+| 32       | algunos                | pronombre                 | /alˈɣunos/        | /alˈɣunos/     | /alˈɣunos/
+
+          | some            |
+| 33       | qué                    | pronombre                 | /ke/               | /ke/            | /ke/                | what            |
+| 34       | allí/ahí               | pronombre                 | /aˈʎi/aˈi/        | /aˈʝi/aˈi/     | /aˈʎi/aˈi/          | there           |
+| 35       | nosotros               | pronombre                 | /nos.oˈtɾos/      | /no.zoˈtɾos/   | /noˈsotɾos/         | we              |
+| 36       | poder                  | verbo                     | /poˈdeɾ/          | /poˈdeɾ/       | /poˈdeɾ/            | can             |
+| 37       | fuera                  | preposición               | /ˈfwe.ɾa/         | /ˈfwe.ɾa/      | /ˈfwe.ɾa/           | out             |
+| 38       | otro                   | adjetivo                  | /ˈotɾo/           | /ˈotɾo/        | /ˈotɾo/             | other           |
+| 39       | eran/estaban           | verbo                     | /eˈɾan/esˈtaβan/  | /eˈɾan/esˈtaβan/| /eˈɾan/esˈtaβan/    | were            |
+| 40       | todos                  | adjetivo                  | /ˈtoðos/          | /ˈtoðos/       | /ˈtoðos/            | all             |
+| 41       | tu/tus                 | pronombre                 | /tu/tus/           | /tu/tus/        | /tu/tus/            | your            |
+| 42       | cuando                 | conjunción                | /ˈkwando/         | /ˈkwando/      | /ˈkwando/           | when            |
+| 43       | arriba                 | preposición               | /aˈriβa/           | /aˈriβa/        | /aˈriβa/            | up              |
+| 44       | usar                   | verbo                     | /uˈsaɾ/            | /uˈsaɾ/         | /uˈsaɾ/             | use             |
+| 45       | palabra                | sustantivo                | /paˈlabɾa/        | /paˈlabɾa/     | /paˈlabɾa/          | word            |
+| 46       | cómo                   | adverbio                  | /ˈkomo/           | /ˈkomo/        | /ˈkomo/             | how             |
+| 47       | dijo                   | verbo                     | /ˈdi.xo/          | /ˈdi.ʒo/       | /ˈdi.xo/            | said            |
+| 48       | un                     | artículo                  | /un/               | /un/            | /un/                | an              |
+| 49       | cada                   | determinante              | /ˈka.ða/          | /ˈka.ða/       | /ˈka
+
+.ða/            | each            |
+| 50       | ella                   | pronombre                 | /ˈe.ʎa/           | /ˈe.ʒa/        | /ˈe.ʎa/             | she             |
+
+
+## Old List:
+
 | No. | English | Spanish | Spanish IPA (Latin America) | Spanish IPA (Rioplatense) | Spanish IPA (Iberian) |
 |-----|---------|---------|-----------------------------|---------------------------|-----------------------|
 | 1   | I       | yo      | /ʝo/                        | /ʃo/                     | /ʝo/                  |

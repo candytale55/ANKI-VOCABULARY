@@ -119,6 +119,58 @@
 | 98       | sido                                                             | verbo                                | /ˈsi.ðo/                 | /ˈsi.ðo/         | /ˈsi.ðo/             | been                                           |
 | 99       | ahora                                                            | adverbio                             | /a.ˈo.ɾa/                | /a.ˈo.ɾa/        | /a.ˈo.ɾa/            | now                                            |
 | 100      | encontrar                                                        | verbo                                | /en.kon.ˈtɾaɾ/           | /en.kon.ˈtɾaɾ/   | /en.kon.ˈtɾaɾ/       | find                                           |
+| 101a     | cualquier              | determinante              | /ˈkwal.kjeɾ/             | /ˈkwal.kjeɾ/     | /ˈkwal.kjeɾ/         | any             |
+| 101b     | alguno                 | pronombre                 | /al.ˈɡu.no/              | /al.ˈɡu.no/      | /al.ˈɡu.no/          |                 |
+| 102      | nuevo                  | adjetivo                  | /ˈnwe.βo/                | /ˈnwe.βo/        | /ˈnwe.βo/            | new             |
+| 103      | trabajo                | sustantivo                | /tɾa.ˈβa.xo/             | /tɾa.ˈβa.ʃo/     | /tɾa.ˈβa.ʎo/         | work            |
+| 104      | parte                  | sustantivo                | /ˈpaɾ.te/                | /ˈpaɾ.te/        | /ˈpaɾ.te/            | part            |
+| 105      | tomar                  | verbo                     | /to.ˈmaɾ/                | /to.ˈmaɾ/        | /to.ˈmaɾ/            | take            |
+| 106      | obtener                | verbo                     | /oβ.ˈte.neɾ/             | /oβ.ˈte.neɾ/     | /oβ.ˈte.neɾ/         | get             |
+| 107      | lugar                  | sustantivo                | /ˈlu.ɣaɾ/                | /ˈlu.ɣaɾ/        | /ˈlu.ɣaɾ/            | place           |
+| 108      | hecho                  | verbo                     | /ˈe.ʧo/                 | /ˈe.so/          | /ˈe.ʧo/             | made            |
+| 109      | vivir                  | verbo                     | /bi.ˈβiɾ/                | /bi.ˈβiɾ/        | /bi.ˈβiɾ/            | live            |
+| 110      | dónde                  | adverbio                  | /ˈdon.de/                | /ˈdon.de/        | /ˈdon.de/            | where           |
+| 111      | después                | preposición               | /de.ˈspwes/              | /de.ˈspwes/      | /de.ˈspwes/          | after           |
+| 112      | atrás                  | adverbio                  | /a.ˈtɾas/                | /a.ˈtɾas/        | /a.ˈtɾas/            | back            |
+| 113      | pequeño                | adjetivo                  | /pe.ˈke.ɲo/              | /pe.ˈke.ɲo/      | /pe.ˈke.ɲo/          | little          |
+| 114      | sólo                   | adverbio                  | /ˈso.lo/                 | /ˈso.lo/         | /ˈso.lo/             | only            |
+| 115      | redondo                | adjetivo                  | /re.ˈðon.do/             | /re.ˈðon.do/     | /re.ˈðon.do/         | round           |
+| 116      | hombre                 | sustantivo                | /ˈom.bɾe/                | /ˈom.bɾe/        | /ˈom.bɾe/            | man             |
+| 117      | año                    | sustantivo                | /ˈa.ɲo/                  | /ˈa.ɲo/          | /ˈa.ɲo/              | year            |
+| 118      | vino                   | verbo                     | /ˈbi.no/                 | /ˈbi.no/         | /ˈbi.no/             | came            |
+| 119      | mostrar                | verbo                     | /mo.ˈstɾaɾ/              | /mo.ˈstɾaɾ/      | /mo.ˈstɾaɾ/          | show            |
+| 120      | cada                   | determinante              | /ˈka.ða/                 | /ˈka.ða/         | /ˈka.ða/             | every           |
+| 121      | bueno                  | adjetivo                  | /ˈbwe.no/                | /ˈbwe.no/        | /ˈbwe.no/            | good            |
+| 122      | yo (objeto)            | pronombre                 | /ˈmi/                    | /ˈmi/            | /ˈmi/                | me              |
+| 123      | dar                    | verbo                     | /ˈdaɾ/                   | /ˈdaɾ/           | /ˈdaɾ/               | give            |
+| 124      | nuestro                | pronombre                 | /nes.ˈtɾo/               | /nes.ˈtɾo/       | /nes.ˈtɾo/           | our             |
+| 125      | bajo                   | preposición               | /ˈba.xo/                 | /ˈba.ʃo/         | /ˈba.xo/             | under           |
+| 126      | nombre                 | sustantivo                | /ˈno.mβɾe/               | /ˈno.mβɾe/       | /ˈno.mβɾe/           | name            |
+| 127      | muy                    | adverbio                  | /ˈmuʝ/                   | /ˈmuʝ/           | /ˈmuʝ/               | very            |
+| 128      | a través de            | preposición               | /a ˈtɾa.βes de/          | /a ˈtɾa.βes de/  | /a ˈtɾa.βes de/      | through         |
+| 129      | sólo                   | adverbio                  | /ˈso.lo/                 | /ˈso.lo/         | /ˈso.lo/             | just            |
+| 130      | forma                  | sustantivo                | /ˈfoɾ.ma/                | /ˈfoɾ.ma/        | /ˈfoɾ.ma/            | form            |
+| 131      | mucho                  | adverbio                  | /ˈmu.tʃo/                | /ˈmu.tʃo/        | /ˈmu.tʃo/            | much            |
+| 132      | gran/grande            | adjetivo                  | /ˈɡɾan/                  | /ˈɡɾan/          | /ˈɡɾan/              | great           |
+| 133      | pensar                 | verbo                     | /pen.ˈsaɾ/               | /pen.ˈsaɾ/       | /pen.ˈsaɾ/           | think           |
+| 134      | decir                  | verbo                     | /de.ˈsiɾ/                | /de.ˈsiɾ/        | /de.ˈθiɾ/            | say             |
+| 135      | ayudar                 | verbo                     | /a.ˈʝu.daɾ/              | /a.ˈʝu.daɾ/      | /a.ˈʝu.daɾ/          | help            |
+| 136      | bajo                   | adjetivo                  | /ˈba.xo/                 | /ˈba.ʃo/         | /ˈba.xo/             | low             |
+| 137      | línea                  | sustantivo                | /ˈli.ɲa/                 | /ˈli.ɲa/         | /ˈli.ɲa/             | line            |
+| 138      | antes                  | preposición               | /ˈan.tes/                | /ˈan.tes/        | /ˈan.tes/            | before          |
+| 139      | girar                  | verbo                     | /xi.ˈɾaɾ/                | /xi.ˈɾaɾ/        | /xi.ˈɾaɾ/            | turn            |
+| 140      | causa                  | sustantivo                | /ˈkau.sa/                | /ˈkau.sa/        | /ˈkau.sa/            | cause           |
+| 141      | mismo                  | adjetivo                  | /ˈmis.mo/                | /ˈmis.mo/        | /ˈmis.mo/            | same            |
+| 142      | significar             | verbo                     | /si.ɣni.ˈfi.kaɾ/         | /si.ɣni.ˈfi.kaɾ/ | /si.ɣni.ˈfi.kaɾ/     | mean            |
+| 143      | diferir                | verbo                     | /di.fe.ˈɾiɾ/             | /di.fe.ˈɾiɾ/     | /di.fe.ˈɾiɾ/         | differ          |
+| 144      | mover                  | verbo                     | /mo.ˈβeɾ/                | /mo.ˈβeɾ/        | /mo.ˈβeɾ/            | move            |
+| 145      | correcto/derecho       | adjetivo                  | /ko.ˈrek.to/        | /ko.ˈrek.to/     | /ko.ˈrek.to/         | right           |
+| 146      | chico                  | sustantivo                | /ˈtʃi.ko/                | /ˈtʃi.ko/        | /ˈtʃi.ko/            | boy             |
+| 147      | viejo                  | adjetivo                  | /ˈbje.xo/                | /ˈbje.ʃo/        | /ˈbje.xo/            | old             |
+| 148      | demasiado              | adverbio                  | /de.ˈma.sja.ðo/          | /de.ˈma.sja.ðo/  | /de.ma.si.ˈa.ðo/     | too             |
+| 149      | hace                   | verbo                     | /ˈa.se/                  | /ˈa.se/          | /ˈa.se/              | does            |
+
+
 
 ## Old List:
 

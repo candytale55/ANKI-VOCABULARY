@@ -21,14 +21,16 @@
 | 11       | él     | pronombre                 | /ˈel/             | /ˈel/           | /ˈel/               | he              |
 | 12       | fue    | verbo                     | /ˈfwe/            | /ˈfwe/         | /ˈfwe/              | was             |
 | 13       | para   | preposición               | /ˈpaɾa/           | /ˈpaɾa/        | /ˈpaɾa/             | for             |
-| 14       | en/sobre  | preposición               | /en/soˈβɾe/       | /en/soˈβɾe/    | /en/soˈβɾe/         | on              |
+| 14a    | en  | preposición  | /ɛn/                    | /ɛn/            | /ɛn/                | on              |
+| 14b      | sobre  | preposición    | /ˈso.bɾe/               | /ˈso.bɾe/       | /ˈso.bɾe/           | on              |
 | 15       | son  | verbo                     | /son/              | /son/           | /son/               | are             |
 | 16       | con   | preposición               | /kon/              | /kon/           | /kon/               | with            |
 | 17       | como | conjunción                | /ˈkomo/           | /ˈkomo/        | /ˈkomo/             | as              |
 | 18       | yo     | pronombre                 | /ʝo/              | /ʒo/            | /ʝo/                | I               |
 | 19       | su (de él) | pronombre                 | /su (de ˈel)/     | /su (de ˈel)/   | /su (de ˈel)/       | his             |
 | 20       | ellos      | pronombre                 | /eˈʎos/           | /eˈʒos/         | /eˈʎos/             | they            |
-| 21       | ser/estar  | verbo                     | /seɾ/esˈtaɾ/      | /seɾ/esˈtaɾ/   | /seɾ/esˈtaɾ/        | be              |
+| 21a       | ser   | verbo | /sɛɾ/                   | /seɾ/            | /seɾ/               | be              |
+| 21b      | estar  | verbo  | /ɛsˈtaɾ/                | /esˈtaɾ/         | /esˈtaɾ/             | be              |
 | 22       | en        | preposición               | /en/               | /en/            | /en/                | at              |
 | 23       | uno        | sustantivo                | /ˈuno/            | /ˈuno/         | /ˈuno/              | one             |
 | 24       | tener      | verbo                     | /teˈneɾ/          | /teˈneɾ/       | /teˈneɾ/            | have            |
@@ -36,7 +38,8 @@
 | 25b      | esta      | pronombre                 | /ˈesta/           | /ˈesta/        | /ˈesta/             | this            |
 | 26       | de          | preposición               | /de/               | /de/            | /de/                | from            |
 | 27       | o         | conjunción                | /o/                | /o/             | /o/                 | or              |
-| 28       | tenía/había | verbo                     | /ˈteni.a/aˈβi.a/  | /ˈteni.a/aˈβi.a/| /ˈteni.a/aˈβi.a/    | had             |
+| 28a       | tenía | verbo | /ˈte.ni.a/              | /ˈte.ni.a/       | /ˈte.ni.a/           | had             |
+| 28b      | había   | verbo | /aˈβi.a/                | /aˈβi.a/         | /aˈβi.a/             | had             |
 | 29       | por       | preposición               | /poɾ/              | /poɾ/           | /poɾ/               | by              |
 | 30       | caliente   | adjetivo                  | /kaˈljente/       | /kaˈʃente/     | /kaˈljente/         | hot             |
 | 31       | pero        | conjunción                | /ˈpeɾo/           | /ˈpeɾo/        | /ˈpeɾo/             | but             |
@@ -47,7 +50,8 @@
 | 36       | poder      | verbo                     | /poˈdeɾ/          | /poˈdeɾ/       | /poˈdeɾ/            | can             |
 | 37       | fuera     | preposición               | /ˈfwe.ɾa/         | /ˈfwe.ɾa/      | /ˈfwe.ɾa/           | out             |
 | 38       | otro      | adjetivo                  | /ˈotɾo/           | /ˈotɾo/        | /ˈotɾo/             | other           |
-| 39       | eran/estaban  | verbo                     | /eˈɾan/esˈtaβan/  | /eˈɾan/esˈtaβan/| /eˈɾan/esˈtaβan/    | were            |
+| 39a       | eran   | verbo  | /eˈɾan/                 | /eˈɾan/          | /eˈɾan/              | were            |
+| 39b      | estaban   | verbo   | /esˈtaβan/              | /esˈtaβan/       | /esˈtaβan/           | were            |
 | 40       | todos        | adjetivo                  | /ˈtoðos/          | /ˈtoðos/       | /ˈtoðos/            | all             |
 | 41       | tu/tus        | pronombre                 | /tu/tus/           | /tu/tus/        | /tu/tus/            | your            |
 | 42       | cuando      | conjunción                | /ˈkwando/         | /ˈkwando/      | /ˈkwando/           | when            |

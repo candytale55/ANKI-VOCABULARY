@@ -2,26 +2,26 @@
 
 | Word No. | Equivalent Spanish Word | Part of Speech in Spanish | Latin American IPA | Rioplatense IPA | Iberian Spanish IPA | Word in English |
 |----------|------------------------|---------------------------|--------------------|-----------------|---------------------|-----------------|
-| 1a       | el                     | artículo                  | /el/               | /el/            | /el/                | the             |
-| 1b       | la                     | artículo                  | /la/               | /la/            | /la/                | the             |
-| 1c       | los                    | artículo                  | /los/              | /los/           | /los/               | the             |
-| 1d       | las                    | artículo                  | /las/              | /las/           | /las/               | the             |
-| 2        | de                     | preposición               | /de/               | /de/            | /de/                | of              |
-| 3        | a                      | preposición               | /a/                | /a/             | /a/                 | to              |
-| 4        | y                      | conjunción                | /i/                | /i/             | /i/                 | and             |
-| 5a       | un                     | artículo                  | /un/               | /un/            | /un/                | a               |
-| 5b       | una                    | artículo                  | /uˈna/             | /uˈna/          | /uˈna/              | a               |
-| 6        | en                     | preposición               | /en/               | /en/            | /en/                | in              |
-| 7        | es                     | verbo                     | /es/               | /es/            | /es/                | is              |
-| 8a       | ello                   | pronombre                 | /ˈeʎo/            | /ˈeʎo/         | /ˈeʎo/              | it              |
-| 8b       | eso                    | pronombre                 | /ˈeso/            | /ˈeso/         | /ˈeso/              | it              |
-| 9a       | tú                     | pronombre                 | /ˈtu/             | /ˈtu/          | /ˈtu/               | you             |
-| 9b       | usted                  | pronombre                 | /usˈted/          | /usˈte/        | /usˈted/            | you             |
-| 10       | que                    | conjunción                | /ke/               | /ke/            | /ke/                | that            |
-| 11       | él                     | pronombre                 | /ˈel/             | /ˈel/           | /ˈel/               | he              |
-| 12       | fue                    | verbo                     | /ˈfwe/            | /ˈfwe/         | /ˈfwe/              | was             |
-| 13       | para                   | preposición               | /ˈpaɾa/           | /ˈpaɾa/        | /ˈpaɾa/             | for             |
-| 14       | en/sobre               | preposición               | /en/soˈβɾe/       | /en/soˈβɾe/    | /en/soˈβɾe/         | on              |
+| 1a       | el  | artículo                  | /el/               | /el/            | /el/                | the             |
+| 1b       | la  | artículo                  | /la/               | /la/            | /la/                | the             |
+| 1c       | los | artículo                  | /los/              | /los/           | /los/               | the             |
+| 1d       | las | artículo                  | /las/              | /las/           | /las/               | the             |
+| 2        | de  | preposición               | /de/               | /de/            | /de/                | of              |
+| 3        | a   | preposición               | /a/                | /a/             | /a/                 | to              |
+| 4        | y   | conjunción                | /i/                | /i/             | /i/                 | and             |
+| 5a       | un  | artículo                  | /un/               | /un/            | /un/                | a               |
+| 5b       | una | artículo                  | /uˈna/             | /uˈna/          | /uˈna/              | a               |
+| 6        | en   | preposición               | /en/               | /en/            | /en/                | in              |
+| 7        | es    | verbo                     | /es/               | /es/            | /es/                | is              |
+| 8a       | ello  | pronombre                 | /ˈeʎo/            | /ˈeʎo/         | /ˈeʎo/              | it              |
+| 8b       | eso   | pronombre                 | /ˈeso/            | /ˈeso/         | /ˈeso/              | it              |
+| 9a       | tú     | pronombre                 | /ˈtu/             | /ˈtu/          | /ˈtu/               | you             |
+| 9b       | usted  | pronombre                 | /usˈted/          | /usˈte/        | /usˈted/            | you             |
+| 10       | que   | conjunción                | /ke/               | /ke/            | /ke/                | that            |
+| 11       | él     | pronombre                 | /ˈel/             | /ˈel/           | /ˈel/               | he              |
+| 12       | fue    | verbo                     | /ˈfwe/            | /ˈfwe/         | /ˈfwe/              | was             |
+| 13       | para   | preposición               | /ˈpaɾa/           | /ˈpaɾa/        | /ˈpaɾa/             | for             |
+| 14       | en/sobre  | preposición               | /en/soˈβɾe/       | /en/soˈβɾe/    | /en/soˈβɾe/         | on              |
 
 
 | 15       | son                    | verbo                     | /son/              | /son/           | /son/               | are             |

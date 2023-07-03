@@ -1,6 +1,6 @@
 # Spanish Word List with IPA
 
-| Número de palabra | Palabra equivalente en español | Categoría gramatical en español | Valor IPA en América Latina | Valor IPA en el Rioplatense | Valor IPA en el español ibérico | Palabra en inglés                           |
+| Número de palabra | Palabra equivalente en español | Categoría gramatical en español | Valor IPA español latinoamericano | Valor IPA español rioplatense | Valor IPA en español ibérico | Palabra en inglés                           |
 |----------|-------------------------|---------------------------|-------------------------|-----------------|---------------------|------------------------------------------|
 | 1a       | el                      | artículo                  | /el/                    | /el/            | /el/                | the (masculine singular)                 |
 | 1b       | la                      | artículo                  | /la/                    | /la/            | /la/                | the (feminine singular)                  |

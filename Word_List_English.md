@@ -54,6 +54,7 @@
 | 50       | she                | pronoun                   | /ʃiː/   | /ʃiː/  | /ʃiː/          | ella                    |
 
 
+
 ## Old List.
 
 

@@ -52,7 +52,56 @@
 | 48       | an                 | article                   | /æn/    | /æn/   | /æn/           | un/una                  |
 | 49       | each               | determiner                | /iːtʃ/  | /iːtʃ/ | /iːtʃ/         | cada                    |
 | 50       | she                | pronoun                   | /ʃiː/   | /ʃiː/  | /ʃiː/          | ella                    |
-
+| 51       | which        | pronoun                   | /wɪtʃ/  | /wɪtʃ/ | /wɪtʃ/        | cuál/cuáles            |
+| 52       | do           | verb                      | /duː/   | /duː/  | /duː/          | hacer                   |
+| 53       | their        | pronoun                   | /ðɛər/  | /ðɛər/ | /ðɛər/         | su/sus (de ellos)       |
+| 54       | time         | noun                      | /taɪm/  | /taɪm/ | /taɪm/         | tiempo                  |
+| 55       | if           | conjunction               | /ɪf/    | /ɪf/   | /ɪf/           | si                      |
+| 56       | will         | verb                      | /wɪl/   | /wɪl/  | /wɪl/          | será                    |
+| 57       | way          | noun                      | /weɪ/   | /weɪ/  | /weɪ/          | manera/camino           |
+| 58       | about        | preposition               | /əˈbaʊt/| /əˈbaʊt/| /əˈbaʊt/      | sobre                   |
+| 59       | many         | adjective                 | /ˈmɛni/ | /ˈmɛni/| /ˈmɛni/        | muchos                  |
+| 60       | then         | adverb                    | /ðɛn/   | /ðɛn/  | /ðɛn/          | entonces                |
+| 61       | them         | pronoun                   | /ðɛm/   | /ðɛm/  | /ðɛm/          | ellos/ellas             |
+| 62       | would        | verb                      | /wʊd/   | /wʊd/  | /wʊd/          | sería                   |
+| 63       | write        | verb                      | /raɪt/  | /raɪt/ | /raɪt/         | escribir                |
+| 64       | like         | preposition               | /laɪk/  | /laɪk/ | /laɪk/         | como                    |
+| 65       | so           | adverb                    | /soʊ/   | /səʊ/  | /soʊ/          | así/tan                |
+| 66       | these        | determiner                | /ðiːz/  | /ðiːz/ | /ðiːz/         | estos/estas             |
+| 67       | her          | pronoun                   | /hɜːr/  | /hɜːr/ | /hɜːr/         | ella/su                 |
+| 68       | long         | adjective                 | /lɔːŋ/  | /lɔːŋ/ | /lɔːŋ/         | largo                   |
+| 69       | make         | verb                      | /meɪk/  | /meɪk/ | /meɪk/         | hacer                   |
+| 70       | thing        | noun                      | /θɪŋ/  | /θɪŋ/ | /θɪŋ/         | cosa                    |
+| 71       | see          | verb                      | /siː/   | /siː/  | /siː/          | ver                     |
+| 72       | him          | pronoun                   | /hɪm/   | /hɪm/  | /hɪm/          | él                      |
+| 73       | two          | number                    | /tuː/   | /tuː/  | /tuː/          | dos                     |
+| 74       | has          | verb                      | /hæz/   | /hæz/  | /hæz/          | tiene                   |
+| 75       | look         | verb                      | /lʊk/   | /lʊk/  | /lʊk/          | mirar                   |
+| 76       | more         | adjective                 | /mɔːr/  | /mɔːr/ | /mɔːr/         | más                     |
+| 77       | day          | noun                      | /deɪ/   | /deɪ/  | /deɪ/          | día                     |
+| 78       | could        | verb                      | /kʊd/   | /kʊd/  | /kʊd/          | podría                  |
+| 79       | go           | verb                      | /goʊ/   | /goʊ/  | /goʊ/          | ir                      |
+| 80       | come         | verb                      | /kʌm/   | /kʌm/  | /kʌm/          | venir                   |
+| 81       | did          | verb                      | /dɪd/   | /dɪd/  | /dɪd/          | hizo                    |
+| 82       | my           | pronoun                   | /maɪ/   | /maɪ/  | /maɪ/          | mi                      |
+| 83       | sound        | noun                      | /saʊnd/ | /saʊnd/| /saʊnd/        | sonido                  |
+| 84       | no           | determiner                | /noʊ/   | /noʊ/  | /noʊ/          | no                      |
+| 85       | most         | adjective                 | /moʊst/ | /moʊst/| /moʊst/        | más                     |
+| 86       | number       | noun                      | /ˈnʌmbər/| /ˈnʌmbər/ | /ˈnʌmbər/  | número                  |
+| 87       | who          | pronoun                   | /huː/   | /huː/  | /huː/          | quién                   |
+| 88       | over         | preposition               | /ˈoʊvər/| /ˈoʊvər/| /ˈoʊvər/      | sobre                   |
+| 89       | know         | verb                      | /noʊ/   | /nəʊ/  | /noʊ/          | saber                   |
+| 90       | water        | noun                      | /ˈwɔːtər/| /ˈwɔːtər/| /ˈwɔːtər/    | agua                    |
+| 91       | than         | conjunction               | /ðæn/   | /ðæn/  | /ðæn/          | que                     |
+| 92       | call         | verb                      | /kɔːl/  | /kɔːl/ | /kɔːl/         | llamar                  |
+| 93       | first        | adjective                 | /fɜːrst/| /fɜːrst/| /fɜːrst/       | primero                 |
+| 94       | people       | noun                      | /ˈpiːpl̩/| /ˈpiːpl̩/| /ˈpiːpl̩/      | gente/personas          |
+| 95       | may          | verb                      | /meɪ/   | /meɪ/  | /meɪ/          | puede                   |
+| 96       | down         | adverb                    | /daʊn/  | /daʊn/ | /daʊn/         | abajo                   |
+| 97       | side         | noun                      | /saɪd/  | /saɪd/ | /saɪd/         | lado                    |
+| 98       | been         | verb                      | /biːn/  | /biːn/ | /biːn/         | sido                    |
+| 99       | now          | adverb                    | /naʊ/   | /naʊ/  | /naʊ/          | ahora                   |
+| 100      | find         | verb                      | /faɪnd/ | /faɪnd/| /faɪnd/        | encontrar               |
 
 
 ## Old List.

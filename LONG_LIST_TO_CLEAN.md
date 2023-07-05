@@ -1,3 +1,9 @@
+
+La lista tiene valores repetidos, que probablemente vienen de las tarjetas del mazo existente de ANKI. Esta lista probablemente se tenga que eliminar pero por precaución la dejaré aquí hasta que el mazo final haya sido generado. 
+
+
+
+
 | No. | English        | French          | Catalan        | German           | Spanish          | Portuguese       | Italian          | Romanian        |
 | --- | -------------- | --------------- | -------------- | ---------------- | ---------------- | ---------------- | ---------------- | --------------- |
 | 1   | I              | je              | jo             | ich              | yo               | eu               | io               | eu              |

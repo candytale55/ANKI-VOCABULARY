@@ -102,6 +102,112 @@
 | 98       | been         | verb                      | /biːn/  | /biːn/ | /biːn/         | sido                    |
 | 99       | now          | adverb                    | /naʊ/   | /naʊ/  | /naʊ/          | ahora                   |
 | 100      | find         | verb                      | /faɪnd/ | /faɪnd/| /faɪnd/        | encontrar               |
+| 101      | any          | determiner     | /ˈɛni/  | /ˈɛni/ | /ˈɛni/        | cualquier/alguno      |
+| 102      | new          | adjective      | /nuː/   | /njuː/ | /njuː/         | nuevo                  |
+| 103      | work         | noun           | /wɜːrk/ | /wɜːrk/| /wɜːrk/       | trabajo                |
+| 104      | part         | noun           | /pɑːrt/ | /pɑːrt/| /pɑːrt/       | parte                  |
+| 105      | take         | verb           | /teɪk/  | /teɪk/ | /teɪk/        | tomar                  |
+| 106      | get          | verb           | /ɡɛt/   | /ɡɛt/  | /ɡɛt/         | obtener                |
+| 107      | place        | noun           | /pleɪs/ | /pleɪs/| /pleɪs/       | lugar                  |
+| 108      | made         | verb           | /meɪd/  | /meɪd/ | /meɪd/        | hecho                  |
+| 109      | live         | verb           | /lɪv/   | /lɪv/  | /lɪv/         | vivir                  |
+| 110      | where        | adverb         | /wɛər/  | /wɛər/ | /wɛər/        | dónde                  |
+| 111      | after        | preposition    | /ˈæftər/| /ˈæftər/| /ˈæftər/      | después                |
+| 112      | back         | adverb         | /bæk/   | /bæk/  | /bæk/         | atrás                  |
+| 113      | little       | adjective      | /ˈlɪtl̩/| /ˈlɪtl̩/| /ˈlɪtl̩/       | pequeño                |
+| 114      | only         | adverb         | /ˈoʊnli/| /ˈoʊnli/| /ˈoʊnli/      | sólo                   |
+| 115      | round        | adjective      | /raʊnd/ | /raʊnd/| /raʊnd/       | redondo                |
+| 116      | man          | noun           | /mæn/   | /mæn/  | /mæn/         | hombre                 |
+| 117      | year         | noun           | /jɪər/  | /jɪər/ | /jɪər/        | año                    |
+| 118      | came         | verb           | /keɪm/  | /keɪm/ | /keɪm/        | vino                   |
+| 119      | show         | verb           | /ʃoʊ/  | /ʃoʊ/ | /ʃoʊ/        | mostrar                |
+| 120      | every        | determiner     | /ˈɛvri/ | /ˈɛvri/| /ˈɛvri/       | cada                   |
+| 121      | good         | adjective      | /ɡʊd/   | /ɡʊd/  | /ɡʊd/         | bueno                  |
+| 122      | me           | pronoun        | /miː/   | /miː/  | /miː/         | yo (objeto)           |
+| 123      | give         | verb           | /ɡɪv/   | /ɡɪv/  | /ɡɪv/         | dar                    |
+| 124      | our          | pronoun        | /aʊr/   | /aʊr/  | /aʊr/         | nuestro               |
+| 125      | under        | preposition    | /ˈʌndər/| /ˈʌndər/| /ˈʌndər/      | bajo                   |
+| 126      | name         | noun           | /neɪm/  | /neɪm/ | /neɪm/        | nombre                 |
+| 127      | very         | adverb         | /ˈvɛri/ | /ˈvɛri/| /ˈvɛri/       | muy                    |
+| 128      | through      | preposition    | /θruː/  | /θruː/ | /θruː/        | a través de            |
+| 129      | just         | adverb         | /dʒʌst/ | /dʒʌst/| /dʒʌst/       | sólo                   |
+| 130      | form         | noun           | /fɔːrm/ | /fɔːrm/| /fɔːrm/       | forma                  |
+| 131      | much         | adverb         | /mʌtʃ/  | /mʌtʃ/ | /mʌtʃ/        | mucho                  |
+| 132      | great        | adjective      | /ɡreɪt/ | /ɡreɪt/| /ɡreɪt/       | gran/grande            |
+| 133      | think        | verb           | /θɪŋk/  | /θɪŋk/ | /θɪŋk/        | pensar                 |
+| 134      | say          | verb           | /seɪ/   | /seɪ/  | /seɪ/         | decir                  |
+| 135      | help         | verb           | /hɛlp/  | /hɛlp/ | /hɛlp/        | ayudar                 |
+| 136      | low          | adjective      | /loʊ/   | /ləʊ/  | /loʊ/         | bajo                   |
+| 137      | line         | noun           | /laɪn/  | /laɪn/ | /laɪn/        | línea                  |
+| 138      | before       | preposition    | /bɪˈfɔːr/| /bɪˈfɔːr/| /bɪˈfɔːr/  | antes                  |
+| 139      | turn         | verb           | /tɜːrn/ | /tɜːrn/| /tɜːrn/       | girar                  |
+| 140      | cause        | noun           | /kɔːz/  | /kɔːz/ | /kɔːz/        | causa                  |
+| 141      | same         | adjective      | /seɪm/  | /seɪm/ | /seɪm/        | mismo                  |
+| 142      | mean         | verb           | /miːn/  | /miːn/ | /miːn/        | significar             |
+| 143      | differ       | verb           | /ˈdɪfər/| /ˈdɪfər/| /ˈdɪfər/      | diferir                |
+| 144      | move         | verb           | /muːv/  | /muːv/ | /muːv/        | mover                  |
+| 145      | right        | adjective      | /raɪt/  | /raɪt/ | /raɪt/        | correcto/derecho       |
+| 146      | boy          | noun           | /bɔɪ/   | /bɔɪ/  | /bɔɪ/         | chico                  |
+| 147      | old          | adjective      | /oʊld/  | /oʊld/ | /oʊld/        | viejo                  |
+| 148      | too          | adverb         | /tuː/   | /tuː/  | /tuː/         | demasiado              |
+| 149      | does         | verb           | /dʌz/   | /dʌz/  | /dʌz/         | hace                   |
+| 150      | down         | preposition    | /daʊn/  | /daʊn/ | /daʊn/        | abajo                  |
+| 151      | side         | noun           | /saɪd/  | /saɪd/ | /saɪd/        | lado                   |
+| 152      | end          | noun           | /ɛnd/   | /ɛnd/  | /ɛnd/         | final                  |
+| 153      | just         | adjective      | /dʒʌst/ | /dʒʌst/| /dʒʌst/       | justo                  |
+| 154      | great        | adjective      | /ɡreɪt/ | /ɡreɪt/| /ɡreɪt/       | gran/grande            |
+| 155      | place        | verb           | /pleɪs/ | /pleɪs/| /pleɪs/       | colocar                |
+| 156      | before       | adverb         | /bɪˈfɔːr/| /bɪˈfɔːr/| /bɪˈfɔːr/      | antes                  |
+| 157      | man          | noun           | /mæn/   | /mæn/  | /mæn/         | hombre                 |
+| 158      | change       | noun           | /tʃeɪndʒ/| /tʃeɪndʒ/| /tʃeɪndʒ/      | cambio                 |
+| 159      | place        | noun           | /pleɪs/ | /pleɪs/| /pleɪs/       | lugar                  |
+| 160      | write        | verb           | /raɪt/  | /raɪt/ | /raɪt/        | escribir               |
+| 161      | father       | noun           | /ˈfɑːðər/| /ˈfɑːðər/| /ˈfɑːðər/      | padre                  |
+| 162      | head         | noun           | /hɛd/   | /hɛd/  | /hɛd/         | cabeza                 |
+| 163      | stand        | verb           | /stænd/ | /stænd/| /stænd/        | estar de pie           |
+| 164      | own          | adjective      | /oʊn/   | /əʊn/  | /oʊn/         | propio                 |
+| 165      | page         | noun           | /peɪdʒ/ | /peɪdʒ/| /peɪdʒ/       | página                 |
+| 166      | should       | verb           | /ʃʊd/   | /ʃʊd/  | /ʃʊd/         | debería                |
+| 167      | country      | noun           | /ˈkʌntri/| /ˈkʌntri/| /ˈkʌntri/      | país                   |
+| 168      | found        | verb           | /faʊnd/ | /faʊnd/| /faʊnd/       | encontrar              |
+| 169      | answer       | noun           | /ˈænsər/| /ˈɑːnsər/| /ˈænsər/      | respuesta              |
+| 170      | school       | noun           | /skuːl/ | /skuːl/| /skuːl/       | escuela                |
+| 171      | grow         | verb           | /ɡroʊ/  | /ɡrəʊ/ | /ɡroʊ/        | crecer                 |
+| 172      | study        | verb           | /ˈstʌdi/| /ˈstʌdi/| /ˈstʌdi/      | estudiar               |
+| 173      | still        | adverb         | /stɪl/  | /stɪl/ | /stɪl/        | aún                    |
+| 174      | learn        | verb           | /lɜːrn/ | /lɜːn/ | /lɜːrn/       | aprender               |
+| 175      | should       | modal verb     | /ʃʊd/   | /ʃʊd/  | /ʃʊd/         | debería                |
+| 176      | world        | noun           | /wɜːrld/| /wɜːld/| /wɜːrld/      | mundo                  |
+| 177      | near         | preposition    | /nɪr/   | /nɪər/ | /nɪər/        | cerca de               |
+| 178      | add          | verb           | /æd/    | /æd/   | /æd/           | añadir                 |
+| 179      | food         | noun           | /fuːd/  | /fuːd/ | /fuːd/         | comida                 |
+| 180      | between      | preposition    | /bɪˈtwiːn/| /bɪˈtwiːn/| /bɪˈtwiːn/    | entre                  |
+| 181      | own          | adjective      | /oʊn/   | /əʊn/  | /oʊn/         | propio                 |
+| 182      | below        | preposition    | /bɪˈloʊ/| /bɪˈloʊ/| /bɪˈloʊ/      | debajo de              |
+| 183      | country      | noun           | /ˈkʌntri/| /ˈkʌntri/| /ˈkʌntri/      | país                   |
+| 184      | plant        | noun           | /plænt/ | /plɑːnt/| /plænt/       | planta                 |
+| 185      | spell        | verb           | /spɛl/  | /spɛl/ | /spɛl/        | deletrear              |
+| 186      | even         | adverb         | /ˈiːvən/| /ˈiːvən/| /ˈiːvən/      | incluso                |
+| 187      | land         | noun           | /lænd/  | /lænd/ | /lænd/         | tierra                 |
+| 188      | here         | adverb         | /hɪr/   | /hɪər/ | /hɪər/        | aquí                   |
+| 189      | must         | modal verb     | /mʌst/  | /mʌst/ | /mʌst/        | deber                  |
+| 190      | big          | adjective      | /bɪɡ/   | /bɪɡ/  | /bɪɡ/         | grande                 |
+| 191      | high         | adjective      | /haɪ/   | /haɪ/  | /haɪ/         | alto                   |
+| 192      | such         | determiner     | /sʌtʃ/  | /sʌtʃ/ | /sʌtʃ/        | tal                    |
+| 193      | follow       | verb           | /ˈfɑːloʊ/| /ˈfɒləʊ/| /ˈfɒləʊ/      | seguir                 |
+| 194      | act          | verb           | /ækt/   | /ækt/  | /ækt/          | actuar                 |
+| 195      | why          | adverb         | /waɪ/   | /waɪ/  | /waɪ/          | por qué                |
+| 196      | ask          | verb           | /æsk/   | /ɑːsk/ | /æsk/          | preguntar              |
+| 197      | men          | noun           | /mɛn/   | /mɛn/  | /mɛn/          | hombres                |
+| 198      | change       | verb           | /tʃeɪndʒ/| /tʃeɪndʒ/| /tʃeɪndʒ/      | cambiar                |
+| 199      | went         | verb           | /wɛnt/  | /wɛnt/ | /wɛnt/         | fue                    |
+| 200      | understand   | verb           | /ˌʌndərˈstænd/| /ˌʌndəˈstænd/| /ˌʌndəˈstænd/  | entender               |
+
+
+
+
+
+
 
 
 ## Old List.

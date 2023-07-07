@@ -202,11 +202,106 @@
 | 198      | change       | verb           | /tʃeɪndʒ/| /tʃeɪndʒ/| /tʃeɪndʒ/      | cambiar                |
 | 199      | went         | verb           | /wɛnt/  | /wɛnt/ | /wɛnt/         | fue                    |
 | 200      | understand   | verb           | /ˌʌndərˈstænd/| /ˌʌndəˈstænd/| /ˌʌndəˈstænd/  | entender               |
-
-
-
-
-
+| 201      | head         | noun           | /hɛd/   | /hɛd/  | /hɛd/          | cabeza                 |
+| 202      | stand        | verb           | /stænd/ | /stænd/| /stænd/        | estar de pie           |
+| 203      | own          | verb           | /oʊn/   | /əʊn/  | /oʊn/          | poseer                 |
+| 204      | page         | noun           | /peɪdʒ/ | /peɪdʒ/| /peɪdʒ/        | página                 |
+| 205      | should       | modal verb     | /ʃʊd/   | /ʃʊd/  | /ʃʊd/          | debería                |
+| 206      | country      | noun           | /ˈkʌntri/| /ˈkʌntri/| /ˈkʌntri/      | país                   |
+| 207      | found        | verb           | /faʊnd/ | /faʊnd/| /faʊnd/        | encontró               |
+| 208      | answer       | noun           | /ˈænsər/| /ˈænsər/| /ˈænsər/       | respuesta              |
+| 209      | school       | noun           | /skuːl/ | /skuːl/| /skuːl/        | escuela                |
+| 210      | grow         | verb           | /ɡroʊ/  | /ɡrəʊ/ | /ɡrəʊ/         | crecer                 |
+| 211      | study        | noun           | /ˈstʌdi/| /ˈstʌdi/| /ˈstʌdi/       | estudio                |
+| 212      | still        | adverb         | /stɪl/  | /stɪl/ | /stɪl/         | todavía                |
+| 213      | learn        | verb           | /lɜːrn/ | /lɜːrn/| /lɜːrn/        | aprender               |
+| 214      | plant        | noun           | /plænt/ | /plɑːnt/| /plænt/       | planta                 |
+| 215      | cover        | verb           | /ˈkʌvər/| /ˈkʌvər/| /ˈkʌvər/      | cubrir                 |
+| 216      | food         | noun           | /fuːd/  | /fuːd/ | /fuːd/         | comida                 |
+| 217      | sun          | noun           | /sʌn/   | /sʌn/  | /sʌn/          | sol                    |
+| 218      | four         | number         | /fɔːr/  | /fɔːr/ | /fɔːr/         | cuatro                 |
+| 219      | thought      | noun           | /θɔːt/  | /θɔːt/ | /θɔːt/         | pensamiento            |
+| 220      | let          | verb           | /lɛt/   | /lɛt/  | /lɛt/          | dejar                  |
+| 221      | keep         | verb           | /kiːp/  | /kiːp/ | /kiːp/         | mantener               |
+| 222      | eye          | noun           | /aɪ/    | /aɪ/   | /aɪ/           | ojo                    |
+| 223      | never        | adverb         | /ˈnɛvər/| /ˈnɛvər/| /ˈnɛvər/       | nunca                  |
+| 224      | last         | adjective      | /læst/  | /lɑːst/| /lɑːst/        | último                 |
+| 225      | door         | noun           | /dɔːr/  | /dɔːr/ | /dɔːr/         | puerta                 |
+| 226      | between      | preposition    | /bɪˈtwiːn/| /bɪˈtwiːn/| /bɪˈtwiːn/    | entre                  |
+| 227      | city         | noun           | /ˈsɪti/ | /ˈsɪti/| /ˈsɪti/        | ciudad                 |
+| 228      | tree         | noun           | /triː/  | /triː/ | /triː/         | árbol                  |
+| 229      | cross        | noun           | /krɔːs/ | /krɒs/ | /krɒs/         | cruz                   |
+| 230      | since        | preposition    | /sɪns/  | /sɪns/ | /sɪns/         | desde                  |
+| 231      | hard         | adjective      | /hɑːrd/ | /hɑːrd/| /hɑːrd/        | duro                   |
+| 232      | start        | verb           | /stɑːrt/| /stɑːrt/| /stɑːrt/       | comenzar               |
+| 233      | might        | modal verb     | /maɪt/  | /maɪt/ | /maɪt/         | podría                 |
+| 234      | story        | noun           | /ˈstɔːri/| /ˈstɔːri/| /ˈstɔːri/      | historia               |
+| 235      | saw          | verb           | /sɔː/   | /sɔː/  | /sɔː/          | vio                    |
+| 236      | far          | adverb         | /fɑːr/  | /fɑːr/ | /fɑːr/         | lejos                  |
+| 237      | sea          | noun           | /siː/   | /siː/  | /siː/          | mar                    |
+| 238      | draw         | verb           | /drɔː/  | /drɔː/ | /drɔː/         | dibujar                |
+| 239      | left         | adjective      | /lɛft/  | /lɛft/ | /lɛft/         | izquierda              |
+| 240      | late         | adjective      | /leɪt/  | /leɪt/ | /leɪt/         | tarde                  |
+| 241      | run          | verb           | /rʌn/   | /rʌn/  | /rʌn/          | correr                 |
+| 242      | don't        | contraction    | /doʊnt/ | /dəʊnt/| /doʊnt/        | no                     |
+| 243      | while        | conjunction    | /waɪl/  | /waɪl/ | /waɪl/         | mientras               |
+| 244      | press        | verb           | /prɛs/  | /prɛs/ | /prɛs/         | presionar              |
+| 245      | close        | adjective      | /kloʊs/ | /kləʊs/| /kləʊs/        | cerca                  |
+| 246      | night        | noun           | /naɪt/  | /naɪt/ | /naɪt/         | noche                  |
+| 247      | real         | adjective      | /ˈriːəl/| /ˈriːəl/| /ˈriːəl/       | real                   |
+| 248      | life         | noun           | /laɪf/  | /laɪf/ | /laɪf/         | vida                   |
+| 249      | few          | adjective      | /fjuː/  | /fjuː/ | /fjuː/         | pocos                  |
+| 250      | stop         | verb           | /stɑːp/ | /stɒp/ | /stɒp/         | parar                  |
+|      251 | open         | adjective      | /ˈoʊpən/ | /ˈəʊpən/ | /ˈoʊpən/       | abierto                 |
+|      252 | seem         | verb           | /siːm/   | /siːm/   | /siːm/         | parecer                 |
+|      253 | together     | adverb         | /təˈɡɛðər/ | /təˈɡɛðər/ | /təˈɡɛðər/       | juntos                  |
+|      254 | next         | adjective      | /nɛkst/  | /nɛkst/  | /nɛkst/         | siguiente               |
+|      255 | white        | adjective      | /waɪt/   | /waɪt/   | /waɪt/          | blanco                  |
+|      256 | children     | noun           | /ˈtʃɪldrən/ | /ˈtʃɪldrən/ | /ˈtʃɪldrən/     | niños                   |
+|      257 | begin        | verb           | /bɪˈɡɪn/ | /bɪˈɡɪn/ | /bɪˈɡɪn/       | comenzar                |
+|      258 | got          | verb           | /ɡɒt/    | /ɡɒt/    | /ɡɒt/          | consiguió               |
+|      259 | walk         | verb           | /wɔːk/   | /wɔːk/   | /wɔːk/          | caminar                 |
+|      260 | example      | noun           | /ɪɡˈzæmpl̩/ | /ɪɡˈzɑːmpl̩/ | /ɪɡˈzæmpl̩/     | ejemplo                 |
+|      261 | ease         | noun           | /iːz/    | /iːz/    | /iːz/           | facilidad               |
+|      262 | paper        | noun           | /ˈpeɪpər/ | /ˈpeɪpər/ | /ˈpeɪpər/       | papel                   |
+|      263 | often        | adverb         | /ˈɔfən/  | /ˈɒfən/  | /ˈɒfən/         | a menudo                |
+|      264 | always       | adverb         | /ˈɔːlweɪz/ | /ˈɔːlweɪz/ | /ˈɔːlweɪz/       | siempre                 |
+|      265 | music        | noun           | /ˈmjuːzɪk/ | /ˈmjuːzɪk/ | /ˈmjuːzɪk/       | música                  |
+|      266 | those        | pronoun        | /ðoʊz/   | /ðəʊz/   | /ðoʊz/         | esos                    |
+|      267 | both         | determiner     | /boʊθ/   | /bəʊθ/   | /boʊθ/         | ambos                   |
+|      268 | mark         | verb           | /mɑːrk/  | /mɑːrk/  | /mɑːrk/         | marcar                  |
+|      269 | book         | noun           | /bʊk/    | /bʊk/    | /bʊk/           | libro                   |
+|      270 | letter       | noun           | /ˈlɛtər/ | /ˈlɛtər/ | /ˈlɛtər/       | carta                   |
+|      271 | until        | preposition    | /ʌnˈtɪl/ | /ʌnˈtɪl/ | /ʌnˈtɪl/       | hasta                   |
+|      272 | mile         | noun           | /maɪl/   | /maɪl/   | /maɪl/          | milla                   |
+|      273 | river        | noun           | /ˈrɪvər/ | /ˈrɪvər/ | /ˈrɪvər/       | río                     |
+|      274 | car          | noun           | /kɑːr/   | /kɑːr/   | /kɑːr/          | coche                   |
+|      275 | feet         | noun           | /fiːt/   | /fiːt/   | /fiːt/          | pies                    |
+|      276 | care         | verb           | /kɛər/   | /kɛər/   | /kɛər/          | cuidar                  |
+|      277 | second       | adjective      | /ˈsɛkənd/ | /ˈsɛkənd/ | /ˈsɛkənd/       | segundo                 |
+|      278 | group        | noun           | /ɡruːp/  | /ɡruːp/  | /ɡruːp/         | grupo                   |
+|      279 | carry        | verb           | /ˈkæri/  | /ˈkæri/  | /ˈkæri/         | llevar                  |
+|      280 | took         | verb           | /tʊk/    | /tʊk/    | /tʊk/           | tomó                    |
+|      281 | rain         | noun           | /reɪn/   | /reɪn/   | /reɪn/          | lluvia                  |
+|      282 | eat          | verb           | /iːt/    | /iːt/    | /iːt/           | comer                   |
+|      283 | room         | noun           | /ruːm/    | /ruːm/   | /ruːm/         | habitación              |
+|      284 | friend       | noun           | /frɛnd/   | /frɛnd/  | /frɛnd/        | amigo                   |
+|      285 | began        | verb           | /bɪˈɡæn/  | /bɪˈɡæn/ | /bɪˈɡæn/       | comenzó                 |
+|      286 | idea         | noun           | /aɪˈdiːə/ | /aɪˈdiːə/ | /aɪˈdiːə/      | idea                    |
+|      287 | fish         | noun           | /fɪʃ/     | /fɪʃ/    | /fɪʃ/          | pescado                 |
+|      288 | mountain     | noun           | /ˈmaʊntən/ | /ˈmaʊntɪn/ | /ˈmaʊntən/    | montaña                 |
+|      289 | north        | noun           | /nɔːrθ/   | /nɔːrθ/  | /nɔːrθ/        | norte                   |
+|      290 | once         | adverb         | /wʌns/    | /wʌns/   | /wʌns/         | una vez                 |
+|      291 | base         | noun           | /beɪs/    | /beɪs/   | /beɪs/         | base                    |
+|      292 | hear         | verb           | /hɪər/    | /hɪər/   | /hɪər/         | escuchar                |
+|      293 | horse        | noun           | /hɔːrs/   | /hɔːrs/  | /hɔːrs/        | caballo                 |
+|      294 | cut          | verb           | /kʌt/     | /kʌt/    | /kʌt/          | cortar                  |
+|      295 | sure         | adjective      | /ʃʊr/     | /ʃʊr/    | /ʃʊr/          | seguro                  |
+|      296 | watch        | verb           | /wɑːtʃ/   | /wɒtʃ/   | /wɒtʃ/         | mirar                   |
+|      297 | color        | noun           | /ˈkʌlər/  | /ˈkʌlər/ | /ˈkʌlər/       | color                   |
+|      298 | face         | noun           | /feɪs/    | /feɪs/   | /feɪs/         | cara                    |
+|      299 | wood         | noun           | /wʊd/     | /wʊd/    | /wʊd/          | madera                  |
+|      300 | main         | adjective      | /meɪn/    | /meɪn/   | /meɪn/         | principal               |
 
 
 

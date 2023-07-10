@@ -402,8 +402,61 @@
 | 398      | cold         | adjective      | /koʊld/    | /koʊld/    | frío           | frío                   |
 | 399      | notice       | verb           | /ˈnoʊtɪs/  | /ˈnoʊtɪs/  | notar          | notar                  |
 | 400      | voice        | noun           | /voɪs/     | /voɪs/     | voz            | voz                    |
+Here is the table with the provided words from 401 to 450:
 
-Please let me know if there's anything else I can assist you with!
+| Word No. | English word | Part of Speech | USA IPA   | UK IPA    | Australian IPA | Equivalent Spanish Word |
+|----------|--------------|----------------|-----------|-----------|----------------|------------------------|
+| 401      | fall         | verb           | /fɔːl/   | /fɔːl/   | /fɔːl/         | caer                   |
+| 402      | power        | noun           | /ˈpaʊər/ | /ˈpaʊər/ | /ˈpaʊər/       | poder                  |
+| 403      | town         | noun           | /taʊn/   | /taʊn/   | /taʊn/         | pueblo                 |
+| 404      | fine         | adjective      | /faɪn/   | /faɪn/   | /faɪn/         | fino                   |
+| 405      | certain      | adjective      | /ˈsɜːrtən/ | /ˈsɜːrtən/ | /ˈsɜːrtən/   | cierto                 |
+| 406      | fly          | verb           | /flaɪ/   | /flaɪ/   | /flaɪ/         | volar                  |
+| 407      | unit         | noun           | /ˈjuːnɪt/ | /ˈjuːnɪt/ | /ˈjuːnɪt/       | unidad                 |
+| 408      | lead         | verb           | /liːd/   | /liːd/   | /liːd/         | liderar                |
+| 409      | cry          | verb           | /kraɪ/   | /kraɪ/   | /kraɪ/         | llorar                 |
+| 410      | dark         | adjective      | /dɑːrk/  | /dɑːrk/  | /dɑːrk/        | oscuro                 |
+| 411      | machine      | noun           | /məˈʃiːn/ | /məˈʃiːn/ | /məˈʃiːn/     | máquina                |
+| 412      | note         | noun           | /noʊt/   | /nəʊt/   | /noʊt/         | nota                   |
+| 413      | wait         | verb           | /weɪt/   | /weɪt/   | /weɪt/         | esperar                |
+| 414      | plan         | noun           | /plæn/   | /plæn/   | /plæn/         | plan                   |
+| 415      | figure       | noun           | /ˈfɪgjər/ | /ˈfɪgər/ | /ˈfɪgjər/     | figura                 |
+| 416      | star         | noun           | /stɑːr/   | /stɑːr/   | /stɑːr/         | estrella               |
+| 417      | box          | noun           | /bɑːks/  | /bɒks/  | /bɑːks/        | caja                   |
+| 418      | noun         | noun           | /naʊn/   | /naʊn/   | /naʊn/         | sustantivo             |
+| 419      | field        | noun           | /fiːld/  | /fiːld/  | /fiːld/        | campo                  |
+| 420      | rest         | noun           | /rɛst/   | /rɛst/   | /rɛst/         | descanso               |
+| 421      | correct      | adjective      | /kəˈrɛkt/ | /kəˈrɛkt/ | /kəˈrɛkt/       | correcto               |
+| 422      | able         | adjective      | /ˈeɪbəl/ | /ˈeɪbəl/ | /ˈeɪbəl/       | capaz                  |
+| 423      | pound        | noun           | /paʊnd/  | /paʊnd/  | /paʊnd/        | libra                  |
+| 424      | done         | verb           | /dʌn/    | /dʌn/    | /dʌn/          | hecho                  |
+| 425      | beauty       | noun           | /ˈbjuːti/ | /ˈbjuːti/ | /ˈbjuːti/      | belleza                |
+| 426      | drive        | verb           | /draɪv/  | /draɪv/  | /draɪv/        | conducir               |
+| 427      | stood        | verb           | /stʊd/   | /stʊd/   | /stʊd/         | estaba de pie          |
+| 428      | contain      | verb           | /kənˈteɪn/ | /kənˈteɪn/ | /kənˈteɪn/   | contener               |
+| 429      | front        | noun           | /frʌnt/   | /frʌnt/   | /frʌnt/        | frente                 |
+| 430      | teach        | verb           | /tiːtʃ/   | /tiːtʃ/   | /tiːtʃ/        | enseñar                |
+| 431      | week         | noun           | /wiːk/    | /wiːk/    | /wiːk/         | semana                 |
+| 432      | final        | adjective      | /ˈfaɪnəl/ | /ˈfaɪnəl/ | /ˈfaɪnəl/      | final                  |
+| 433      | gave         | verb           | /ɡeɪv/    | /ɡeɪv/    | /ɡeɪv/         | dio                    |
+| 434      | green        | adjective      | /ɡriːn/   | /ɡriːn/   | /ɡriːn/        | verde                  |
+| 435      | oh           | interjection   | /oʊ/      | /əʊ/      | /oʊ/           | oh                     |
+| 436      | quick        | adjective      | /kwɪk/    | /kwɪk/    | /kwɪk/         | rápido                 |
+| 437      | develop      | verb           | /dɪˈvɛləp/ | /dɪˈvɛləp/ | /dɪˈvɛləp/   | desarrollar            |
+| 438      | sleep        | verb           | /sliːp/   | /sliːp/   | /sliːp/        | dormir                 |
+| 439      | warm         | adjective      | /wɔːrm/   | /wɔːrm/   | /wɔːrm/        | cálido                 |
+| 440      | free         | adjective      | /friː/    | /friː/    | /friː/         | libre                  |
+| 441      | minute       | noun           | /ˈmɪnɪt/  | /ˈmɪnɪt/  | /ˈmɪnɪt/       | minuto                 |
+| 442      | strong       | adjective      | /strɔːŋ/  | /strɔːŋ/  | /strɔːŋ/       | fuerte                 |
+| 443      | special      | adjective      | /ˈspɛʃəl/ | /ˈspɛʃəl/ | /ˈspɛʃəl/      | especial               |
+| 444      | mind         | noun           | /maɪnd/   | /maɪnd/   | /maɪnd/        | mente                  |
+| 445      | behind       | preposition    | /bɪˈhaɪnd/ | /bɪˈhaɪnd/ | /bɪˈhaɪnd/     | detrás                 |
+| 446      | clear        | adjective      | /klɪr/    | /klɪər/   | /klɪr/         | claro                  |
+| 447      | tail         | noun           | /teɪl/    | /teɪl/    | /teɪl/         | cola                   |
+| 448      | produce      | verb           | /prəˈduːs/ | /prəˈdjuːs/ | /prəˈduːs/   | producir               |
+| 449      | fact         | noun           | /fækt/    | /fækt/    | /fækt/         | hecho                  |
+| 450      | street       | noun           | /striːt/  | /striːt/  | /striːt/       | calle                  |
+
 
 ## Old List.
 

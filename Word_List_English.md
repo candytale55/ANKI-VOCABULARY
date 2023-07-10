@@ -352,7 +352,58 @@
 | 348      | whole        | adjective      | /hoʊl/    | /hoʊl/   | /hoʊl/         | entero                 |
 | 349      | king         | noun           | /kɪŋ/     | /kɪŋ/    | /kɪŋ/          | rey                    |
 | 350      | size         | noun           | /saɪz/    | /saɪz/   | /saɪz/         | tamaño                 |
+| 351      | heard        | verb           | /hɜːrd/    | /hɜːrd/    | oyó            | escuchar               |
+| 352      | best         | adjective      | /bɛst/     | /bɛst/     | mejor          | mejor                  |
+| 353      | hour         | noun           | /aʊər/     | /aʊər/     | hora           | hora                   |
+| 354      | better       | adjective      | /ˈbɛtər/   | /ˈbɛtər/   | mejor          | mejor                  |
+| 355      | true         | adjective      | /truː/     | /truː/     | verdadero      | verdadero              |
+| 356      | during       | preposition    | /ˈdʊrɪŋ/   | /ˈdjʊrɪŋ/  | durante        | durante                |
+| 357      | hundred      | numeral        | /ˈhʌndrəd/ | /ˈhʌndrəd/ | cien           | cien                   |
+| 358      | am           | verb           | /æm/       | /æm/       | soy            | soy                    |
+| 359      | remember     | verb           | /rɪˈmɛmbər/ | /rɪˈmɛmbər/ | recordar       | recordar               |
+| 360      | step         | noun           | /stɛp/     | /stɛp/     | paso           | paso                   |
+| 361      | early        | adjective      | /ˈɜːrli/   | /ˈɜːrli/   | temprano       | temprano               |
+| 362      | hold         | verb           | /hoʊld/    | /hoʊld/    | sostener       | sostener               |
+| 363      | west         | noun           | /wɛst/     | /wɛst/     | oeste          | oeste                  |
+| 364      | ground       | noun           | /graʊnd/   | /graʊnd/   | suelo          | suelo                  |
+| 365      | interest     | noun           | /ˈɪntrəst/ | /ˈɪntrəst/ | interés        | interés                |
+| 366      | reach        | verb           | /riːtʃ/    | /riːtʃ/    | alcanzar       | alcanzar               |
+| 367      | fast         | adjective      | /fæst/     | /fɑːst/    | rápido         | rápido                 |
+| 368      | five         | numeral        | /faɪv/     | /faɪv/     | cinco          | cinco                  |
+| 369      | sing         | verb           | /sɪŋ/      | /sɪŋ/      | cantar         | cantar                 |
+| 370      | listen       | verb           | /ˈlɪsən/   | /ˈlɪsən/   | escuchar       | escuchar               |
+| 371      | six          | numeral        | /sɪks/     | /sɪks/     | seis           | seis                   |
+| 372      | table        | noun           | /ˈteɪbəl/  | /ˈteɪbəl/  | mesa           | mesa                   |
+| 373      | travel       | verb           | /ˈtrævəl/  | /ˈtrævəl/  | viajar         | viajar                 |
+| 374      | less         | adjective      | /lɛs/      | /lɛs/      | menos          | menos                  |
+| 375      | morning      | noun           | /ˈmɔːrnɪŋ/ | /ˈmɔːrnɪŋ/ | mañana         | mañana                 |
+| 376      | ten          | numeral        | /tɛn/      | /tɛn/      | diez           | diez                   |
+| 377      | simple       | adjective      | /ˈsɪmpl/   | /ˈsɪmpl/   | simple         | simple                 |
+| 378      | several      | adjective      | /ˈsɛvrəl/  | /ˈsɛvrəl/  | varios         | varios                 |
+| 379      | vowel        | noun           | /ˈvaʊəl/   | /ˈvaʊəl/   | vocal          | vocal                  |
+| 380      | toward       | preposition    | /təˈwɔːrd/ | /təˈwɔːrd/ | hacia          | hacia                  |
+| 381      | war          | noun           | /wɔːr/     | /wɔːr/     | guerra         | guerra                 |
+| 382      | lay          | verb           | /leɪ/      | /leɪ/      | poner          | poner                  |
+| 383      | against      | preposition    | /əˈɡeɪnst/ | /əˈɡeɪnst/ | contra         | contra                 |
+| 384      | pattern      | noun           | /ˈpætərn/  | /ˈpætərn/  | patrón         | patrón                 |
+| 385      | slow         | adjective      | /sloʊ/     | /sləʊ/     | lento          | lento                  |
+| 386      | center       | noun           | /ˈsɛntər/  | /ˈsɛntər/  | centro         | centro                 |
+| 387      | love         | noun           | /lʌv/      | /lʌv/      | amor           | amor                   |
+| 388      | person       | noun           | /ˈpɜːrsən/ | /ˈpɜːrsən/ | persona        | persona                |
+| 389      | money        | noun           | /ˈmʌni/  | /ˈmʌni/  | /ˈmʌni/        | dinero                 |
+| 390      | serve        | verb           | /sɜːrv/    | /sɜːrv/    | servir         | servir                 |
+| 391      | appear       | verb           | /əˈpɪr/    | /əˈpɪər/   | aparecer       | aparecer               |
+| 392      | road         | noun           | /roʊd/     | /rəʊd/     | carretera      | carretera              |
+| 393      | map          | noun           | /mæp/      | /mæp/      | mapa           | mapa                   |
+| 394      | science      | noun           | /ˈsaɪəns/  | /ˈsaɪəns/  | ciencia        | ciencia                |
+| 395      | rule         | noun           | /ruːl/     | /ruːl/     | regla          | regla                  |
+| 396      | govern       | verb           | /ˈɡʌvərn/  | /ˈɡʌvərn/  | gobernar       | gobernar               |
+| 397      | pull         | verb           | /pʊl/      | /pʊl/      | tirar          | tirar                  |
+| 398      | cold         | adjective      | /koʊld/    | /koʊld/    | frío           | frío                   |
+| 399      | notice       | verb           | /ˈnoʊtɪs/  | /ˈnoʊtɪs/  | notar          | notar                  |
+| 400      | voice        | noun           | /voɪs/     | /voɪs/     | voz            | voz                    |
 
+Please let me know if there's anything else I can assist you with!
 
 ## Old List.
 

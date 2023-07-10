@@ -402,10 +402,6 @@
 | 398      | cold         | adjective      | /koʊld/    | /koʊld/    | frío           | frío                   |
 | 399      | notice       | verb           | /ˈnoʊtɪs/  | /ˈnoʊtɪs/  | notar          | notar                  |
 | 400      | voice        | noun           | /voɪs/     | /voɪs/     | voz            | voz                    |
-Here is the table with the provided words from 401 to 450:
-
-| Word No. | English word | Part of Speech | USA IPA   | UK IPA    | Australian IPA | Equivalent Spanish Word |
-|----------|--------------|----------------|-----------|-----------|----------------|------------------------|
 | 401      | fall         | verb           | /fɔːl/   | /fɔːl/   | /fɔːl/         | caer                   |
 | 402      | power        | noun           | /ˈpaʊər/ | /ˈpaʊər/ | /ˈpaʊər/       | poder                  |
 | 403      | town         | noun           | /taʊn/   | /taʊn/   | /taʊn/         | pueblo                 |

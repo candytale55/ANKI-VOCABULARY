@@ -1,6 +1,6 @@
 # English Word List with IPA
 
-| Word No. | English word       | Part of Speech in English | USA IPA | UK IPA | Australian IPA | Equivalent Spanish Word |
+| No. | English word       | Part of Speech in English | USA IPA | UK IPA | Australian IPA | Equivalent Spanish Word |
 |----------|--------------------|---------------------------|---------|--------|----------------|-------------------------|
 | 1        | the                | article                   | /ðə/    | /ðə/   | /ðə/           | el/la/los/las          |
 | 2        | of                 | preposition               | /ʌv/    | /ɒv/   | /əv/           | de                      |

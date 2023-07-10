@@ -456,6 +456,60 @@ Here is the table with the provided words from 401 to 450:
 | 448      | produce      | verb           | /prəˈduːs/ | /prəˈdjuːs/ | /prəˈduːs/   | producir               |
 | 449      | fact         | noun           | /fækt/    | /fækt/    | /fækt/         | hecho                  |
 | 450      | street       | noun           | /striːt/  | /striːt/  | /striːt/       | calle                  |
+Here is the table with the provided words from 451 to 500:
+
+| Word No. | English word | Part of Speech | USA IPA     | UK IPA      | Australian IPA | Equivalent Spanish Word |
+|----------|--------------|----------------|-------------|-------------|----------------|------------------------|
+| 451      | inch         | noun           | /ɪntʃ/     | /ɪntʃ/     | /ɪntʃ/         | pulgada                |
+| 452      | lot          | noun           | /lɑːt/     | /lɒt/     | /lɑːt/         | lote                   |
+| 453      | nothing      | pronoun        | /ˈnʌθɪŋ/   | /ˈnʌθɪŋ/   | /ˈnʌθɪŋ/       | nada                   |
+| 454      | course       | noun           | /kɔːrs/     | /kɔːrs/     | /kɔːrs/         | curso                  |
+| 455      | stay         | verb           | /steɪ/     | /steɪ/     | /steɪ/         | quedarse               |
+| 456      | wheel        | noun           | /wiːl/     | /wiːl/     | /wiːl/         | rueda                  |
+| 457      | full         | adjective      | /fʊl/       | /fʊl/       | /fʊl/           | lleno                  |
+| 458      | force        | noun           | /fɔːrs/     | /fɔːrs/     | /fɔːrs/         | fuerza                 |
+| 459      | blue         | adjective      | /bluː/     | /bluː/     | /bluː/         | azul                   |
+| 460      | object       | noun           | /ˈɒbdʒɛkt/  | /ˈɒbdʒɛkt/  | /ˈɒbdʒɛkt/      | objeto                 |
+| 461      | decide       | verb           | /dɪˈsaɪd/   | /dɪˈsaɪd/   | /dɪˈsaɪd/       | decidir                |
+| 462      | surface      | noun           | /ˈsɝːfɪs/  | /ˈsɜːfɪs/  | /ˈsɜːfɪs/      | superficie             |
+| 463      | deep         | adjective      | /diːp/      | /diːp/      | /diːp/          | profundo               |
+| 464      | moon         | noun           | /muːn/     | /muːn/     | /muːn/         | luna                   |
+| 465      | island       | noun           | /ˈaɪlənd/   | /ˈaɪlənd/   | /ˈaɪlənd/       | isla                   |
+| 466      | foot         | noun           | /fʊt/       | /fʊt/       | /fʊt/           | pie                    |
+| 467      | yet          | adverb         | /jɛt/       | /jɛt/       | /jɛt/           | aún                    |
+| 468      | busy         | adjective      | /ˈbɪzi/     | /ˈbɪzi/     | /ˈbɪzi/         | ocupado                |
+| 469      | test         | noun           | /tɛst/     | /tɛst/     | /tɛst/         | prueba                 |
+| 470      | record       | noun           | /ˈrɛkərd/   | /ˈrɛkɔːrd/   | /ˈrɛkərd/       | registro               |
+| 471      | boat         | noun           | /boʊt/     | /bəʊt/     | /boʊt/         | bote                   |
+| 472      | common       | adjective      | /ˈkɑːmən/  | /ˈkɒmən/  | /ˈkɑːmən/      | común                  |
+| 473      | gold         | noun           | /ɡoʊld/     | /ɡəʊld/     | /ɡoʊld/         | oro                    |
+| 474      | possible     | adjective      | /ˈpɑːsəbəl/ | /ˈpɒsəbl/ | /ˈpɑːsəbəl/   | posible                |
+| 475      | plane        | noun           | /pleɪn/     | /pleɪn/     | /pleɪn/         | avión                  |
+| 476      | age          | noun           | /eɪdʒ/     | /eɪdʒ/     | /eɪdʒ/         | edad                   |
+| 477      | dry          | adjective      | /draɪ/     | /draɪ/     | /draɪ/         | seco                   |
+| 478      | wonder       | verb           | /ˈwʌndər/   | /ˈwʌndər/   | /ˈwʌndər/       | preguntarse            |
+| 479      | laugh        | verb           | /læf/       | /læf/       | /læf/           | reír                   |
+| 480      | thousand     | number         | /ˈθaʊzənd/  | /ˈθaʊzənd/  | /ˈθaʊzənd/      | mil                    |
+| 481      | ago          | adverb         | /əˈɡoʊ/     | /əˈɡəʊ/     | /əˈɡoʊ/         | hace                   |
+| 482      | ran          | verb           | /ræn/       | /ræn/       | /ræn/           | corrió                 |
+| 483      | check        | noun           | /tʃɛk/  | /tʃɛk/ | /ʧɛk/          | cheque                 |
+| 484      | game         | noun           | /ɡeɪm/     | /ɡeɪm/     | /ɡeɪm/         | juego                  |
+| 485      | shape        | noun           | /ʃeɪp/     | /ʃeɪp/     | /ʃeɪp/         | forma                  |
+| 486      | yes          | adverb         | /jɛs/       | /jɛs/       | /jɛs/           | sí                     |
+| 487      | hot          | adjective      | /hɑːt/      | /hɒt/      | /hɒt/           | caliente               |
+| 488      | miss         | verb           | /mɪs/      | /mɪs/      | /mɪs/          | extrañar               |
+| 489      | brought      | verb           | /brɔːt/     | /brɔːt/     | /brɔːt/         | trajo                  |
+| 490      | heat         | noun           | /hiːt/     | /hiːt/     | /hiːt/         | calor                  |
+| 491      | snow         | noun           | /snoʊ/     | /snəʊ/     | /snoʊ/         | nieve                  |
+| 492      | bed          | noun           | /bɛd/      | /bɛd/      | /bɛd/          | cama                   |
+| 493      | bring        | verb           | /brɪŋ/     | /brɪŋ/     | /brɪŋ/         | traer                  |
+| 494      | sit          | verb           | /sɪt/      | /sɪt/      | /sɪt/          | sentarse               |
+| 495      | perhaps      | adverb         | /pərˈhæps/ | /pəˈhæps/ | /pərˈhæps/     | quizás                 |
+| 496      | fill         | verb           | /fɪl/      | /fɪl/      | /fɪl/          | llenar                 |
+| 497      | east         | noun           | /iːst/     | /iːst/     | /iːst/         | este                   |
+| 498      | weight       | noun           | /weɪt/     | /weɪt/     | /weɪt/         | peso                   |
+| 499      | language     | noun           | /ˈlæŋɡwɪdʒ/ | /ˈlæŋɡwɪdʒ/ | /ˈlæŋɡwɪdʒ/   | lenguaje               |
+| 500      | among        | preposition    | /əˈmʌŋ/    | /əˈmʌŋ/    | /əˈmʌŋ/        | entre                  |
 
 
 ## Old List.

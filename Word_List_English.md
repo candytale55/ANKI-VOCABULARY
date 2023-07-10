@@ -302,7 +302,56 @@
 |      298 | face         | noun           | /feɪs/    | /feɪs/   | /feɪs/         | cara                    |
 |      299 | wood         | noun           | /wʊd/     | /wʊd/    | /wʊd/          | madera                  |
 |      300 | main         | adjective      | /meɪn/    | /meɪn/   | /meɪn/         | principal               |
-
+| 301      | enough       | adjective      | /ɪˈnʌf/   | /ɪˈnʌf/  | /ɪˈnʌf/        | suficiente             |
+| 302      | plain        | adjective      | /pleɪn/   | /pleɪn/  | /pleɪn/        | llano                  |
+| 303      | girl         | noun           | /ɡɜːrl/   | /ɡɜːrl/  | /ɡɜːrl/        | chica                  |
+| 304      | usual        | adjective      | /ˈjuːʒuəl/| /ˈjuːʒuəl/ | /ˈjuːʒuəl/   | usual                  |
+| 305      | young        | adjective      | /jʌŋ/     | /jʌŋ/    | /jʌŋ/          | joven                  |
+| 306      | ready        | adjective      | /ˈrɛdi/   | /ˈrɛdi/  | /ˈrɛdi/        | listo                  |
+| 307      | above        | preposition    | /əˈbʌv/   | /əˈbʌv/  | /əˈbʌv/        | encima                 |
+| 308      | ever         | adverb         | /ˈɛvər/   | /ˈɛvər/  | /ˈɛvər/        | alguna vez             |
+| 309      | red          | adjective      | /rɛd/     | /rɛd/    | /rɛd/          | rojo                   |
+| 310      | list         | noun           | /lɪst/    | /lɪst/   | /lɪst/         | lista                  |
+| 311      | though       | conjunction    | /ðoʊ/     | /ðəʊ/    | /ðoʊ/          | aunque                 |
+| 312      | feel         | verb           | /fiːl/    | /fiːl/   | /fiːl/         | sentir                 |
+| 313      | talk         | verb           | /tɔːk/    | /tɔːk/   | /tɔːk/         | hablar                 |
+| 314      | bird         | noun           | /bɜːrd/   | /bɜːrd/  | /bɜːrd/        | pájaro                 |
+| 315      | soon         | adverb         | /suːn/    | /suːn/   | /suːn/         | pronto                 |
+| 316      | body         | noun           | /ˈbɒdi/   | /ˈbɒdi/  | /ˈbɒdi/        | cuerpo                 |
+| 317      | dog          | noun           | /dɔːɡ/    | /dɔːɡ/   | /dɔːɡ/         | perro                  |
+| 318      | family       | noun           | /ˈfæməli/ | /ˈfæmɪli/| /ˈfæməli/      | familia                |
+| 319      | direct       | adjective      | /dəˈrɛkt/ | /daɪˈrɛkt/| /dəˈrɛkt/      | directo                |
+| 320      | pose         | verb           | /poʊz/    | /pəʊz/   | /poʊz/         | posar                  |
+| 321      | leave        | verb           | /liːv/    | /liːv/   | /liːv/         | dejar                  |
+| 322      | song         | noun           | /sɔːŋ/    | /sɒŋ/    | /sɒŋ/          | canción                |
+| 323      | measure      | noun           | /ˈmɛʒər/  | /ˈmɛʒər/ | /ˈmɛʒər/       | medida                 |
+| 324      | state        | noun           | /steɪt/   | /steɪt/  | /steɪt/        | estado                 |
+| 325      | product      | noun           | /ˈprɒdʌkt/| /ˈprɒdʌkt/| /ˈprɒdʌkt/    | producto               |
+| 326      | black        | adjective      | /blæk/    | /blæk/   | /blæk/         | negro                  |
+| 327      | short        | adjective      | /ʃɔːrt/   | /ʃɔːrt/  | /ʃɔːrt/        | corto                  |
+| 328      | numeral      | noun           | /ˈnuːmərəl/| /ˈnjuːmərəl/| /ˈnuːmərəl/   | numeral                |
+| 329      | class        | noun           | /klæs/    | /klɑːs/  | /klɑːs/        | clase                  |
+| 330      | wind         | noun           | /wɪnd/    | /wɪnd/   | /wɪnd/         | viento                 |
+| 331      | question     | noun           | /ˈkwɛstʃən/| /ˈkwɛstʃən/| /ˈkwɛstʃən/  | pregunta               |
+| 332      | happen       | verb           | /ˈhæpən/  | /ˈhæpən/ | /ˈhæpən/       | suceder                |
+| 333      | complete     | adjective      | /kəmˈpliːt/| /kəmˈpliːt/| /kəmˈpliːt/    | completo               |
+| 334      | ship         | noun           | /ʃɪp/    | /ʃɪp/   | /ʃɪp/         | barco                  |
+| 335      | area         | noun           | /ˈɛəriə/  | /ˈeəriə/ | /ˈɛəriə/       | área                   |
+| 336      | half         | noun           | /hæf/     | /hɑːf/   | /hɑːf/         | mitad                  |
+| 337      | rock         | noun           | /rɒk/     | /rɒk/    | /rɒk/          | roca                   |
+| 338      | order        | noun           | /ˈɔːrdər/ | /ˈɔːrdər/| /ˈɔːrdər/      | orden                  |
+| 339      | fire         | noun           | /ˈfaɪər/  | /ˈfaɪər/ | /ˈfaɪər/       | fuego                  |
+| 340      | south        | noun           | /saʊθ/    | /saʊθ/   | /saʊθ/         | sur                    |
+| 341      | problem      | noun           | /ˈprɑːbləm/ | /ˈprɒbləm/ | /ˈprɑːbləm/ | problema               |
+| 342      | piece        | noun           | /piːs/    | /piːs/   | /piːs/         | pieza                  |
+| 343      | told         | verb           | /toʊld/   | /toʊld/  | /toʊld/        | contó                  |
+| 344      | knew         | verb           | /nuː/     | /njuː/   | /nuː/          | sabía                  |
+| 345      | pass         | verb           | /pæs/     | /pɑːs/   | /pɑːs/         | pasar                  |
+| 346      | farm         | noun           | /fɑːrm/   | /fɑːrm/  | /fɑːrm/        | granja                 |
+| 347      | top          | noun           | /tɑːp/    | /tɒp/    | /tɒp/          | cima                   |
+| 348      | whole        | adjective      | /hoʊl/    | /hoʊl/   | /hoʊl/         | entero                 |
+| 349      | king         | noun           | /kɪŋ/     | /kɪŋ/    | /kɪŋ/          | rey                    |
+| 350      | size         | noun           | /saɪz/    | /saɪz/   | /saɪz/         | tamaño                 |
 
 
 ## Old List.

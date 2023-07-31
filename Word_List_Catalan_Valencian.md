@@ -3,10 +3,10 @@
 
 | No. | Palabra Catalana | Palabra Valenciana | Tipo | IPA Catalán | IPA Valenciano | Palabra en Inglés |
 |-----|-----------------|--------------------|------|-------------|----------------|------------------------------------|
-| 1a       | el | el   | article                             | /əl/        | /əl/          | the (masculine singular)               |
-| 1b       | la | la   | article                             | /la/        | /la/          | the (feminine singular)                |
-| 1c       | els | els  | article                             | /ɛɫs/       | /ɛɫs/         | the (masculine plural)                 |
-| 1d       | les  | les   | article                             | /ɫəs/       | /ɫəs/         | the (feminine plural)                  |
+| 1a  | el  | el   | article                | /əl/        | /əl/          | the (masculine singular)               |
+| 1b  | la | la   | article                             | /la/        | /la/          | the (feminine singular)                |
+| 1c  | els | els  | article                             | /ɛɫs/       | /ɛɫs/         | the (masculine plural)                 |
+| 1d  | les  | les   | article                             | /ɫəs/       | /ɫəs/         | the (feminine plural)                  |
 | 2   | de              | de                 | preposició | /də/        | /də/           | of                                 |
 | 3   | a               | a                  | preposició | /ə/         | /ə/            | to                                 |
 | 4   | i               | i                  | conjunció | /i/         | /i/            | and                                |

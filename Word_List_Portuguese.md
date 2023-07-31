@@ -9,8 +9,8 @@
 | 2 | de | preposição | /dʒi/ | of |
 | 3 | para | preposição | /'pa.ɾɐ/ | to |
 | 4 | e | conjunção | /i/ | and |
-| 5a       | um              | artigo         | /ũ/     | masculino (male)  |
-| 5b       | uma             | artigo         | /ˈumə/  | feminino (female) |
+| 5a       | um              | artigo         | /ũ/     | a (male)  |
+| 5b       | uma             | artigo         | /ˈumə/  | a (female) |
 | 6 | em | preposição | /ẽj/ | in |
 | 7 | é | verbo | /e/ | is |
 | 8 | ele | pronome | /'e.li/ | it |

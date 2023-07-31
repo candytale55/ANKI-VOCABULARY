@@ -196,26 +196,26 @@
 | 182 | anar             | anar               | verb           | /ˈanəɾ/      | /ˈanəɾ/          | go              |
 | 183 | llum             | llum               | substantiu     | /ˈʎum/       | /ʎum/            | light           |
 | 184 | tipus            | tipus              | substantiu     | /ˈtipus/     | /ˈtipus/         | kind            |
-| 185 | fora de          | fora               | preposició    | /ˈfoɾə ðə/   | /ˈfoɾa ðe/       | off             |
-| 186 | necessitar       | necessitar         | verb           | /nə.sə.siˈta/ | /nes.siˈtaɾ/     | need            |
+| 185 | fora de          | fora               | preposició    | /ˈfoɾə ðə/   | /ˈfoɾa ðe/        | off             |
+| 186 | necessitar       | necessitar         | verb           | /nə.sə.siˈta/ | /nes.siˈtaɾ/    | need            |
 | 187 | casa             | casa               | substantiu     | /ˈkazə/      | /ˈkaza/          | house           |
 | 188 | imatge           | imatge             | substantiu     | /iˈmadʒə/    | /iˈmatʒə/        | picture         |
 | 189 | intentar         | intentar           | verb           | /in.tənˈta/  | /in.tenˈtaɾ/     | try             |
 | 190 | nosaltres        | nosaltres          | pronom         | /nuˈzaɫtɾəs/ | /nosaɫˈtɾes/     | us              |
-| 191 | de nou           | de nou             | adverbi        | /də ˈnow/    | /de ˈnou/         | again           |
-| 192 | animal           | animal             | substantiu     | /ə.niˈmal/   | /a.niˈmal/        | animal          |
+| 191 | de nou           | de nou             | adverbi        | /də ˈnow/    | /de ˈnou/        | again           |
+| 192 | animal           | animal             | substantiu     | /ə.niˈmal/   | /a.niˈmal/       | animal          |
 | 193 | punt             | punt               | substantiu     | /punt/       | /punt/           | point           |
 | 194 | mare             | mare               | substantiu     | /ˈmaɾə/      | /ˈmaɾe/          | mother          |
 | 195 | món              | món                | substantiu     | /ˈmoŋ/       | /ˈmon/           | world           |
-| 196 | a prop           | a prop             | preposició    | /ə ˈpɾɔp/    | /a ˈpɾɔp/        | near            |
-| 197 | construir        | construir          | verb           | /kənsˈtɾu.jə/ | /konsˈtɾwiɾ/     | build           |
+| 196 | a prop           | a prop             | preposició     | /ə ˈpɾɔp/    | /a ˈpɾɔp/        | near            |
+| 197 | construir        | construir          | verb           | /kənsˈtɾu.jə/ | /konsˈtɾwiɾ/    | build           |
 | 198 | jo mateix        | jo mateix          | pronom         | /ʒu maˈtɛʃ/  | /dʒo maˈteʃ/     | self            |
 | 199 | terra            | terra              | substantiu     | /ˈtɛrə/      | /ˈtɛra/          | earth           |
 | 200 | pare             | pare               | substantiu     | /ˈpa.ɾə/     | /ˈpa.ɾe/         | father          |
-| 201     | cap                    | cap                      | substantiu                         | /kəp/       | /kap/         | head         |
-| 202     | estar de peu           | estar dret               | verb                               | /ɛsˈtaɾ də ˈpɛw/ | /esˈtaɾ dɾɛt/  | stand        |
-| 203     | posseir                | posseir                  | verb                               | /poˈsɛjɾ/   | /posˈejɾ/     | own          |
-| 204     | pàgina                | pàgina                  | substantiu                         | /ˈpaʒinə/   | /ˈpaʒina/    | page         |
+| 201 | cap              | cap                | substantiu     | /kəp/        | /kap/            | head            |
+| 202 | estar de peu     | estar dret         | verb           | /ɛsˈtaɾ də ˈpɛw/ | /esˈtaɾ dɾɛt/ | stand         |
+| 203 | posseir          | posseir            | verb           |  /poˈsɛjɾ/    | /posˈejɾ/        | own          |
+| 204 | pàgina           | pàgina             | substantiu     | /ˈpaʒinə/     | /ˈpaʒina/        | page         |
 | 205     | hauria de              | hauria de                | verb                               | /awˈɾi.a ðə/ | /awˈɾi.a ðe/  | should       |
 | 206     | país                   | país                     | substantiu                         | /ˈpajs/     | /ˈpajs/       | country      |
 | 207     | trobar                 | trobar                   | verb                               | /tɾuˈbaɾ/   | /tɾoˈbaɾ/     | found        |

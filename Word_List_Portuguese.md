@@ -25,10 +25,10 @@
 | 14 | em | preposição | /ẽj/ | on (context: em cima) |
 | 15 | são | verbo | /sɐ̃w̃/ | are |
 | 16 | com | preposição | /kõj/ | with |
-| 16a | Comigo          | Pronome        | /ku.'mi.ɡu/    | with me           |
-| 16b | Contigo         | Pronome        | /kõ.'ti.ɡu/    | with you (singular)          |
-| 16c | Connosco        | Pronome        | /kõ.'nɔʃ.ku/   | with us           |
-| 16d | Convosco        | Pronome        | /kõ.'vɔʃ.ku/   | with you all (plural) |
+| 16a | comigo          | Pronome        | /ku.'mi.ɡu/    | with me           |
+| 16b | contigo         | Pronome        | /kõ.'ti.ɡu/    | with you (singular)          |
+| 16c | connosco        | Pronome        | /kõ.'nɔʃ.ku/   | with us           |
+| 16d | convosco        | Pronome        | /kõ.'vɔʃ.ku/   | with you all (plural) |
 | 17 | como | conjunção | /'ko.mu/ | as |
 | 18 | eu | pronome | /ew/ | I |
 | 19 | seu | pronome | /sew/ | his |

@@ -14,7 +14,8 @@
 | 6 | em | preposição | /ẽj/ | in |
 | 7 | é | verbo | /e/ | is |
 | 8 | ele | pronome | /'e.li/ | it |
-| 9 | você | pronome | /vo.'se/ | you |
+| 9a | você | pronome | /vo.'se/ | you (formal, singular) |
+| 9b   | vocês   | pronome | /vo.'seʃ/ | you (formal and informal, plural)   |
 | 10 | que | conjunção | /ke/ | that |
 | 11 | ele | pronome | /'e.li/ | he |
 | 12 | foi | verbo | /foj/ | was |

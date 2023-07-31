@@ -31,7 +31,8 @@
 | 16d | convosco        | pronome        | /kõ.'vɔʃ.ku/   | with you all (plural) |
 | 17 | como | conjunção | /'ko.mu/ | as |
 | 18 | eu | pronome | /ew/ | I |
-| 19 | seu | pronome | /sew/ | his |
+| 19a | seu | pronome | /sew/ | his or hers, masculine possession |
+| 19b | sua | pronome | /'su.ɐ/ | his or hers, femenine possession |
 | 20 | eles | pronome | /'e.lis/ | they |
 | 21a | ser | verbo | /seɾ/ | be (permanent) |
 | 21b | estar | verbo | /is.'taɾ/ | be (temporary) |

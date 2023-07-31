@@ -16,6 +16,8 @@
 | 8 | ele | pronome | /'e.li/ | it |
 | 9a | você | pronome | /vo.'se/ | you (formal, singular) |
 | 9b   | vocês   | pronome | /vo.'seʃ/ | you (formal and informal, plural)   |
+| 9c   | tu      | pronome | /tu/    | you (informal, singular, mostly used in European PT) |
+| 9d   | vós     | pronome | /vɔʃ/   | you (informal, plural, archaic)   |
 | 10 | que | conjunção | /ke/ | that |
 | 11 | ele | pronome | /'e.li/ | he |
 | 12 | foi | verbo | /foj/ | was |

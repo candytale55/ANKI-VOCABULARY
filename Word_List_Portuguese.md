@@ -35,7 +35,8 @@
 | 18 | eu | pronome | /ew/ | I |
 | 19a | seu | pronome | /sew/ | his or hers, masculine possession |
 | 19b | sua | pronome | /'su.ɐ/ | his or hers, femenine possession |
-| 20 | eles | pronome | /'e.lis/ | they |
+| 20a | eles | pronome | /'e.lis/ | they (masculine or mixed gender) |
+| 20b | elas | pronome | /'e.lɐs/ | they (feminine) |
 | 21a | ser | verbo | /seɾ/ | be (permanent) |
 | 21b | estar | verbo | /is.'taɾ/ | be (temporary) |
 | 22 | em | preposição | /ẽj/ | at |

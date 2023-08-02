@@ -16,9 +16,9 @@
 | 6 | em | preposição | /ẽj/ | in |
 | 7 | é | verbo | /e/ | is |
 | 8 | ele | pronome | /'e.li/ | it |
-| 9a | você | pronome | /vo.'se/ | you (formal and informal (BR), singular) |
-| 9b   | vocês   | pronome | /vo.'seʃ/ | you (formal and informal, plural)   |
-| 9c   | tu      | pronome | /tu/    | you (informal, singular, mostly used in European PT) |
+| 9a   | tu      | pronome | /tu/    | you (informal, singular, mostly used in European PT) |
+| 9b | você | pronome | /vo.'se/ | you (formal and informal (BR), singular) |
+| 9c   | vocês   | pronome | /vo.'seʃ/ | you (formal and informal, plural)   |
 | 9d   | vós     | pronome | /vɔʃ/   | you (formal, plural, archaic)   |
 | 10 | que | conjunção | /ke/ | that |
 | 11 | ele | pronome | /'e.li/ | he |

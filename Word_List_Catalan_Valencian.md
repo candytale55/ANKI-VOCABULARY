@@ -218,15 +218,15 @@
 | 204 | pàgina           | pàgina             | substantiu     | /ˈpaʒinə/     | /ˈpaʒina/        | page         |
 | 205 | hauria de        | hauria de          | verb           | /awˈɾi.a ðə/  | /awˈɾi.a ðe/     | should       |
 | 206 | país             | país               | substantiu     | /ˈpajs/       | /ˈpajs/          | country      |
-| 207 | trobar                 | trobar                   | verb                               | /tɾuˈbaɾ/   | /tɾoˈbaɾ/     | found        |
-| 208 | resposta               | resposta                 | substantiu                         | /ˈrɛspɔstə/ | /ˈrɛspɔsta/   | answer       |
-| 209 | escola                 | escola                   | substantiu                         | /əsˈkoɫə/   | /esˈkoɫa/     | school       |
-| 210 | créixer                | créixer                  | verb                               | /ˈkɾɛʃə/    | /ˈkɾejʃeɾ/    | grow         |
-| 211 | estudi                 | estudi                   | substantiu                         | /əsˈtuði/    | /esˈtudi/     | study        |
-| 212 | encara                 | encara                   | adverbi                            | /ənˈkaɾə/   | /enˈkaɾa/     | still        |
-| 213 | aprendre               | aprendre                 | verb                               | /əpˈɾɛndɾə/ | /apˈɾɛndɾe/   | learn        |
-| 214 | planta                 | planta                   | substantiu                         | /ˈpɫantə/   | /ˈplantə/     | plant        |
-| 215 | cobrir                 | cobrir                   | verb                               | /kuˈbɾiɾ/   | /koˈbɾiɾ/     | cover        |
+| 207 | trobar           | trobar                   | verb                               | /tɾuˈbaɾ/   | /tɾoˈbaɾ/     | found        |
+| 208 | resposta         | resposta                 | substantiu                         | /ˈrɛspɔstə/ | /ˈrɛspɔsta/   | answer       |
+| 209 | escola           | escola                   | substantiu                         | /əsˈkoɫə/   | /esˈkoɫa/     | school       |
+| 210 | créixer          | créixer                  | verb                               | /ˈkɾɛʃə/    | /ˈkɾejʃeɾ/    | grow         |
+| 211 | estudi           | estudi                   | substantiu                         | /əsˈtuði/    | /esˈtudi/     | study        |
+| 212 | encara           | encara                   | adverbi                            | /ənˈkaɾə/   | /enˈkaɾa/     | still        |
+| 213 | aprendre         | aprendre                 | verb                               | /əpˈɾɛndɾə/ | /apˈɾɛndɾe/   | learn        |
+| 214 | planta           | planta                   | substantiu                         | /ˈpɫantə/   | /ˈplantə/     | plant        |
+| 215 | cobrir           | cobrir                   | verb                               | /kuˈbɾiɾ/   | /koˈbɾiɾ/     | cover        |
 | 216 | menjar                 | menjar                   | substantiu                         | /mənˈʒaɾ/   | /menˈdʒaɾ/    | food         |
 | 217 | sol                    | sol                      | substantiu                         | /ˈsɔɫ/      | /ˈsɔɫ/        | sun          |
 | 218 | quatre                 | quatre                   | nombre                             | /ˈkwatɾə/   | /ˈkwatɾe/     | four         |

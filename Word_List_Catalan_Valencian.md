@@ -10,8 +10,8 @@
 | 2   | de              | de                 | preposició | /də/        | /də/           | of                                 |
 | 3   | a               | a                  | preposició | /ə/         | /ə/            | to                                 |
 | 4   | i               | i                  | conjunció | /i/         | /i/            | and                                |
-| 5a  | un  | un | article                             | /un/        | /un/          | a, an (masculine singular)             |
-| 5b  | una | una   | article                             | /uːnə/      | /uːnə/        | a, an (feminine singular)              |
+| 5a  | un  | un | article    | /un/        | /un/          | a, an (masculine singular)             |
+| 5b  | una     | una   | article                             | /uːnə/      | /uːnə/        | a, an (feminine singular)              |
 | 6   | en              | en                 | preposició | /ən/        | /ən/           | in                                 |
 | 7   | és             | és                 | verb      | /es/        | /es/           | is                                 |
 | 8   | ho             | ho                 | pronom    | /o/         | /o/            | it                                 |
@@ -216,8 +216,8 @@
 | 202 | estar de peu     | estar dret         | verb           | /ɛsˈtaɾ də ˈpɛw/ | /esˈtaɾ dɾɛt/ | stand         |
 | 203 | posseir          | posseir            | verb           |  /poˈsɛjɾ/    | /posˈejɾ/        | own          |
 | 204 | pàgina           | pàgina             | substantiu     | /ˈpaʒinə/     | /ˈpaʒina/        | page         |
-| 205 | hauria de              | hauria de                | verb                               | /awˈɾi.a ðə/ | /awˈɾi.a ðe/  | should       |
-| 206 | país                   | país                     | substantiu                         | /ˈpajs/     | /ˈpajs/       | country      |
+| 205 | hauria de        | hauria de          | verb           | /awˈɾi.a ðə/  | /awˈɾi.a ðe/     | should       |
+| 206 | país             | país               | substantiu     | /ˈpajs/       | /ˈpajs/          | country      |
 | 207 | trobar                 | trobar                   | verb                               | /tɾuˈbaɾ/   | /tɾoˈbaɾ/     | found        |
 | 208 | resposta               | resposta                 | substantiu                         | /ˈrɛspɔstə/ | /ˈrɛspɔsta/   | answer       |
 | 209 | escola                 | escola                   | substantiu                         | /əsˈkoɫə/   | /esˈkoɫa/     | school       |

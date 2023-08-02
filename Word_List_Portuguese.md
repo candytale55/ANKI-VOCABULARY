@@ -11,6 +11,8 @@
 | 4 | e | conjunção | /i/ | and |
 | 5a       | um              | artigo         | /ũ/     | a (male)  |
 | 5b       | uma             | artigo         | /ˈumə/  | a (female) |
+| 5c       | uns             | artigo         | /ũs/    | some (masculine, plural) |
+| 5d       | umas            | artigo         | /ˈuməs/ | some (feminine, plural) |
 | 6 | em | preposição | /ẽj/ | in |
 | 7 | é | verbo | /e/ | is |
 | 8 | ele | pronome | /'e.li/ | it |

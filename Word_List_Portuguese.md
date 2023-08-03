@@ -187,7 +187,7 @@
 | 148 | demais | advérbio | /dɨ'majʃ/ | too |
 | 149 | faz | verbo | /faʃ/ | does |
 | 150 | dizer | verbo | /di'zeɾ/ | tell |
-| 151 | frase | substantivo | /'fɾa.zɨ/ | sentence (oración) |
+| 151 | frase | substantivo | /'fɾa.zɨ/ | sentence (part of speech) (oración) |
 | 152 | definir | verbo | /dɨ.fi'nir/ | set (establecer) |
 | 153 | três | número | /'tɾeʃ/ | three (tres) |
 | 154 | querer | verbo | /kɨ'ɾeɾ/ | want (querer) |

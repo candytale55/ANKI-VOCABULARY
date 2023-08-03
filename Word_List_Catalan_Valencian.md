@@ -392,36 +392,36 @@
 | 378 | diversos         | diversos                  | adjective      | /dəˈvɛɾsəs/ | /deˈveɾsos/   | several      |
 | 379 | vocal            | vocal                     | noun           | /voˈkaɫ/    | /voˈkaɫ/      | vowel        |
 | 380 | cap a            | cap a                     | preposition    | /ˈkap ə/    | /ˈkap a/      | toward       |
-| 381 | guerra                  | guerra                    | noun           | /ˈgɛrə/     | /ˈgɛra/       | war          |
-| 382 | posar                   | posar                     | verb           | /poˈza/     | /poˈzaɾ/      | lay          |
-| 383 | contra                  | contra                    | preposition    | /ˈkontɾə/   | /ˈkɔntɾa/     | against      |
-| 384 | patró                   | patró                     | noun           | /ˈpatɾo/    | /ˈpatɾon/     | pattern      |
-| 385 | lent                    | lent                      | adjective      | /ˈlɛnt/     | /ˈlɛnt/       | slow         |
-| 386 | centre                  | centre                    | noun           | /ˈsɛntɾə/   | /ˈsɛntɾe/     | center       |
-| 387 | amor                    | amor                      | noun           | /əˈmoɾ/     | /əˈmoɾ/       | love         |
-| 388 | persona                 | persona                   | noun           | /pərˈsonə/  | /pɛrˈsona/    | person       |
-| 389 | diners                  | diners                    | noun           | /ˈdinərs/   | /ˈdinəɾs/     | money        |
-| 390 | servir                  | servir                    | verb           | /səɾˈviɾ/   | /sɛɾˈviɾ/     | serve        |
-| 391 | aparèixer               | aparèixer                 | verb           | /əpəˈɾɛiʃər/| /apaˈɾeixeɾ/  | appear       |
-| 392 | carretera               | carretera                 | noun           | /ˌkarəˈtɛɾə/| /kaˈreteɾa/   | road         |
-| 393 | mapa                    | mapa                      | noun           | /ˈmapə/     | /ˈmapa/       | map          |
-| 394 | ciència                 | ciència                   | noun           | /ˈsiənsə/   | /ˈsiɛnsia/    | science      |
-| 395 | regla                   | regla                     | noun           | /ˈɾɛɫɡə/    | /ˈrɛɡɫa/      | rule         |
-| 396 | governar                | governar                  | verb           | /ɡuβəɾˈna/  | /ɡoβeɾˈnaɾ/   | govern       |
-| 397 | estirar                 | estirar                   | verb           | /əs.tiˈɾaɾ/ | /es.tiˈɾaɾ/   | pull         |
-| 398 | fred                    | fred                      | adjective      | /fɾɛt/      | /fɾɛt/        | cold         |
-| 399 | observar                | observar                  | verb           | /əb.səɾˈvaɾ/| /ob.serˈvaɾ/  | notice       |
-| 400 | veu                     | veu                       | noun           | /ˈvɛw/      | /ˈvɛw/        | voice        |
-| 401 | caure                  | caure                    | verb           | /ˈkawrə/    | /ˈkawɾe/       | fall         |
-| 402 | poder                  | poder                    | noun           | /ˈpoðər/    | /ˈpoðeɾ/       | power        |
-| 403 | poble                  | poble                    | noun           | /ˈpɔbɫə/    | /ˈpɔbɫe/       | town         |
-| 404 | fi                     | fi                       | adjective      | /fi/        | /fi/            | fine         |
-| 405 | cert                   | cert                     | adjective      | /ˈsɛrt/     | /ˈsɛrt/         | certain      |
-| 406 | volar                  | volar                    | verb           | /voˈɫa/     | /voˈlaɾ/        | fly          |
-| 407 | unitat                 | unitat                   | noun           | /uˈnitət/   | /uniˈtat/       | unit         |
-| 408 | liderar                | liderar                  | verb           | /liðəˈɾaɾ/  | /liðeˈɾaɾ/     | lead         |
-| 409 | plorar                 | plorar                   | verb           | /pɫuˈɾa/    | /ploˈɾaɾ/       | cry          |
-| 410 | fosc                   | fosc                     | adjective      | /ˈfɔsk/     | /ˈfɔsk/         | dark         |
+| 381 | guerra           | guerra                    | noun           | /ˈgɛrə/     | /ˈgɛra/       | war          |
+| 382 | posar            | posar                     | verb           | /poˈza/     | /poˈzaɾ/      | lay          |
+| 383 | contra           | contra                    | preposition    | /ˈkontɾə/   | /ˈkɔntɾa/     | against      |
+| 384 | patró            | patró                     | noun           | /ˈpatɾo/    | /ˈpatɾon/     | pattern      |
+| 385 | lent             | lent                      | adjective      | /ˈlɛnt/     | /ˈlɛnt/       | slow         |
+| 386 | centre           | centre                    | noun           | /ˈsɛntɾə/   | /ˈsɛntɾe/     | center       |
+| 387 | amor             | amor                      | noun           | /əˈmoɾ/     | /əˈmoɾ/       | love         |
+| 388 | persona          | persona                   | noun           | /pərˈsonə/  | /pɛrˈsona/    | person       |
+| 389 | diners           | diners                    | noun           | /ˈdinərs/   | /ˈdinəɾs/     | money        |
+| 390 | servir           | servir                    | verb           | /səɾˈviɾ/   | /sɛɾˈviɾ/     | serve        |
+| 391 | aparèixer        | aparèixer                 | verb           | /əpəˈɾɛiʃər/| /apaˈɾeixeɾ/  | appear       |
+| 392 | carretera        | carretera                 | noun           | /ˌkarəˈtɛɾə/| /kaˈreteɾa/   | road         |
+| 393 | mapa             | mapa                      | noun           | /ˈmapə/     | /ˈmapa/       | map          |
+| 394 | ciència          | ciència                   | noun           | /ˈsiənsə/   | /ˈsiɛnsia/    | science      |
+| 395 | regla            | regla                     | noun           | /ˈɾɛɫɡə/    | /ˈrɛɡɫa/      | rule         |
+| 396 | governar         | governar                  | verb           | /ɡuβəɾˈna/  | /ɡoβeɾˈnaɾ/   | govern       |
+| 397 | estirar          | estirar                   | verb           | /əs.tiˈɾaɾ/ | /es.tiˈɾaɾ/   | pull         |
+| 398 | fred             | fred                      | adjective      | /fɾɛt/      | /fɾɛt/        | cold         |
+| 399 | observar         | observar                  | verb           | /əb.səɾˈvaɾ/| /ob.serˈvaɾ/  | notice       |
+| 400 | veu              | veu                       | noun           | /ˈvɛw/      | /ˈvɛw/        | voice        |
+| 401 | caure            | caure                    | verb           | /ˈkawrə/    | /ˈkawɾe/       | fall         |
+| 402 | poder            | poder                    | noun           | /ˈpoðər/    | /ˈpoðeɾ/       | power        |
+| 403 | poble            | poble                    | noun           | /ˈpɔbɫə/    | /ˈpɔbɫe/       | town         |
+| 404 | fi               | fi                       | adjective      | /fi/        | /fi/            | fine         |
+| 405 | cert             | cert                     | adjective      | /ˈsɛrt/     | /ˈsɛrt/         | certain      |
+| 406 | volar            | volar                    | verb           | /voˈɫa/     | /voˈlaɾ/        | fly          |
+| 407 | unitat           | unitat                   | noun           | /uˈnitət/   | /uniˈtat/       | unit         |
+| 408 | liderar          | liderar                  | verb           | /liðəˈɾaɾ/  | /liðeˈɾaɾ/     | lead         |
+| 409 | plorar           | plorar                   | verb           | /pɫuˈɾa/    | /ploˈɾaɾ/       | cry          |
+| 410 | fosc             | fosc                     | adjective      | /ˈfɔsk/     | /ˈfɔsk/         | dark         |
 | 411 | màquina                | màquina                  | noun           | /ˈmaɲkinə/  | /ˈmaɲkina/      | machine      |
 | 412 | nota                   | nota                     | noun           | /ˈnota/     | /ˈnota/         | note         |
 | 413 | esperar                | esperar                  | verb           | /əspəˈɾa/   | /espeˈɾaɾ/     | wait         |

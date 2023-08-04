@@ -3,15 +3,15 @@
 
 | No. | Palabra Catalana | Palabra Valenciana | Tipo | IPA Catalán | IPA Valenciano | Palabra en Inglés |
 |-----|-----------------|--------------------|------|-------------|----------------|------------------------------------|
-| 1a  | el              | el   | article                | /əl/        | /əl/          | the (masculine singular)               |
-| 1b  | la              | la   | article                | /la/        | /la/          | the (feminine singular)                |
-| 1c  | els             | els  | article             | /ɛɫs/       | /ɛɫs/         | the (masculine plural)                 |
-| 1d  | les             | les   | article            | /ɫəs/       | /ɫəs/         | the (feminine plural)                  |
+| 1a  | el              | el                 | article         | /əl/        | /əl/          | the (masculine singular)|
+| 1b  | la              | la                 | article     | /la/        | /la/          | the (feminine singular)                |
+| 1c  | els             | els                | article     | /ɛɫs/       | /ɛɫs/         | the (masculine plural)                 |
+| 1d  | les             | les                | article      | /ɫəs/       | /ɫəs/         | the (feminine plural)                  |
 | 2   | de              | de                 | preposició | /də/        | /də/           | of                                 |
 | 3   | a               | a                  | preposició | /ə/         | /ə/            | to                                 |
 | 4   | i               | i                  | conjunció | /i/         | /i/            | and                                |
-| 5a  | un              | un | article    | /un/        | /un/          | a, an (masculine singular)             |
-| 5b  | una             | una   | article               | /uːnə/      | /uːnə/        | a, an (feminine singular)              |
+| 5a  | un              | un                 | article    | /un/        | /un/          | a, an (masculine singular)             |
+| 5b  | una             | una                | article  | /uːnə/      | /uːnə/        | a, an (feminine singular)              |
 | 6   | en              | en                 | preposició | /ən/        | /ən/           | in                                 |
 | 7   | és              | és                 | verb      | /es/        | /es/           | is                                 |
 | 8   | ho              | ho                 | pronom    | /o/         | /o/            | it                                 |
@@ -105,7 +105,7 @@
 | 91  | que             | que                | conjunction | /kə/        | /kə/           | than                               |
 | 92  | trucar          | trucar             | verb      | /tɾuˈkaɾ/   | /tɾuˈkaɾ/      | call                               |
 | 93  | primer          | primer             | adjectiu  | /pɾiˈme/    | /pɾiˈmeɾ/       | first                              |
-| 94  | gent             | gent               | substantiu | /ʒənt/      | /ʒənt/         | people                             |
+| 94  | gent             | gent              | substantiu | /ʒənt/      | /ʒənt/         | people                             |
 | 95  | pot             | pot                | verb      | /pɔt/       | /pɔt/          | may                                |
 | 96  | avall           | avall              | adverbi   | /əˈvaʎ/     | /aˈvaʎ/        | down                               |
 | 97  | costat          | costat             | substantiu | /koˈsat/    | /koˈsat/       | side                               |

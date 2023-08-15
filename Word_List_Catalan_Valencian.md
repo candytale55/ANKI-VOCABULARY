@@ -18,7 +18,7 @@
 | 9   | tu              | tu                 | pronom         | /tu/        | /tu/           | you                                |
 | 10  | que             | que                | conjunció      | /kə/        | /kə/           | that                               |
 | 11  | ell             | ell                | pronom         | /eʎ/        | /eʎ/           | he                                 |
-| 12  | era             | era                | verb           | /ˈɛɾə/     | /ˈɛɾa/        | was                                |
+| 12  | era             | era                | verb           | /ˈɛɾə/      | /ˈɛɾa/         | was                                |
 | 13  | per             | per                | preposició     | /pəɾ/       | /pəɾ/          | for                                |
 | 14  | sobre           | sobre              | preposició     | /suˈbɾə/    | /suˈbɾe/       | on                                 |
 | 15  | són             | són                | verb           | /sɔn/       | /sɔn/          | are                                |
@@ -41,8 +41,8 @@
 | 31  | pero            | pero               | conjunció      | /ˈpɛɾu/     | /ˈpɛɾo/        | but                                |
 | 32  | alguns          | alguns             | pronom         | /əwˈɣuns/   | /əwˈɣuns/      | some                               |
 | 33  | què             | què                | pronom         | /kə/        | /kə/           | what                               |
-| 34  | allà            | allà               | pronom         | /əˈʎa/     | /əˈʎa/        | there                              |
-| 35  | nosaltres       | nosaltres          | pronom         | /nuˈzaltrəs/ | /nuˈzaltrəs/    | we                                 |
+| 34  | allà            | allà               | pronom         | /əˈʎa/      | /əˈʎa/        | there                              |
+| 35  | nosaltres       | nosaltres          | pronom         | /nuˈzaltrəs/| /nuˈzaltrəs/    | we                                 |
 | 36  | poder           | poder              | verb           | /puˈðe/     | /puˈðe/        | can                                |
 | 37  | fora            | fora               | preposició     | /ˈfɔɾə/     | /ˈfɔɾa/        | out                                |
 | 38  | altre           | altre              | adjectiu       | /ˈaɫ.tɾə/   | /ˈaɫ.tɾe/      | other                              |

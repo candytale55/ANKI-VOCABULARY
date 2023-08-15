@@ -10,8 +10,8 @@
 | 2   | de              | de                 | preposició     | /də/        | /də/           | of                                 |
 | 3   | a               | a                  | preposició     | /ə/         | /ə/            | to                                 |
 | 4   | i               | i                  | conjunció      | /i/         | /i/            | and                                |
-| 5a  | un              | un                 | article        | /un/        | /un/          | a, an (masculine singular)             |
-| 5b  | una             | una                | article        | /uːnə/      | /uːnə/        | a, an (feminine singular)              |
+| 5a  | un              | un                 | article        | /un/        | /un/           | a, an (masculine singular)             |
+| 5b  | una             | una                | article        | /uːnə/      | /uːnə/         | a, an (feminine singular)              |
 | 6   | en              | en                 | preposició     | /ən/        | /ən/           | in                                 |
 | 7   | és              | és                 | verb           | /es/        | /es/           | is                                 |
 | 8   | ho              | ho                 | pronom         | /o/         | /o/            | it                                 |
@@ -57,7 +57,7 @@
 | 47  | dit             | dit                | verb           | /ˈdiθ/      | /ˈdiθ/         | said                               |
 | 48a | un              | un                 | article        | /ən/        | /ən/           | an                                 |
 | 49  | cada            | cada               | determinat     | /ˈkaðə/     | /ˈkaða/        | each                               |
-| 50  | ella            | ella               | pronom         | /ˈɛʎə/     | /ˈɛʎa/        | she                                |
+| 50  | ella            | ella               | pronom         | /ˈɛʎə/      | /ˈɛʎa/         | she                                |
 | 51  | quin            | quin               | pronom         | /ˈkin/      | /ˈkin/         | which (referring to things)         |
 | 51  | quina           | quina              | pronom         | /ˈkinə/     | /ˈkinə/        | which (referring to feminine things)|
 | 52  | fer             | fer                | verb           | /fɛr/       | /fɛr/          | do                                 |
@@ -197,7 +197,7 @@
 | 183 | llum            | llum               | substantiu     | /ˈʎum/       | /ʎum/            | light           |
 | 184 | tipus           | tipus              | substantiu     | /ˈtipus/     | /ˈtipus/         | kind            |
 | 185 | fora de         | fora               | preposició     | /ˈfoɾə ðə/   | /ˈfoɾa ðe/        | off             |
-| 186 | necessitar      | necessitar         | verb           | /nə.sə.siˈta/ | /nes.siˈtaɾ/    | need            |
+| 186 | necessitar      | necessitar         | verb           | /nə.sə.siˈta/| /nes.siˈtaɾ/    | need            |
 | 187 | casa            | casa               | substantiu     | /ˈkazə/      | /ˈkaza/          | house           |
 | 188 | imatge          | imatge             | substantiu     | /iˈmadʒə/    | /iˈmatʒə/        | picture         |
 | 189 | intentar        | intentar           | verb           | /in.tənˈta/  | /in.tenˈtaɾ/     | try             |
@@ -208,94 +208,94 @@
 | 194 | mare            | mare               | substantiu     | /ˈmaɾə/      | /ˈmaɾe/          | mother          |
 | 195 | món             | món                | substantiu     | /ˈmoŋ/       | /ˈmon/           | world           |
 | 196 | a prop          | a prop             | preposició     | /ə ˈpɾɔp/    | /a ˈpɾɔp/        | near            |
-| 197 | construir       | construir          | verb           | /kənsˈtɾu.jə/ | /konsˈtɾwiɾ/    | build           |
+| 197 | construir       | construir          | verb           | /kənsˈtɾu.jə/| /konsˈtɾwiɾ/    | build           |
 | 198 | jo mateix       | jo mateix          | pronom         | /ʒu maˈtɛʃ/  | /dʒo maˈteʃ/     | self            |
 | 199 | terra           | terra              | substantiu     | /ˈtɛrə/      | /ˈtɛra/          | earth           |
 | 200 | pare            | pare               | substantiu     | /ˈpa.ɾə/     | /ˈpa.ɾe/         | father          |
 | 201 | cap             | cap                | substantiu     | /kəp/        | /kap/            | head            |
 | 202 | estar de peu    | estar dret         | verb           | /ɛsˈtaɾ də ˈpɛw/ | /esˈtaɾ dɾɛt/ | stand         |
-| 203 | posseir         | posseir            | verb           |  /poˈsɛjɾ/    | /posˈejɾ/        | own          |
-| 204 | pàgina          | pàgina             | substantiu     | /ˈpaʒinə/     | /ˈpaʒina/        | page         |
-| 205 | hauria de       | hauria de          | verb           | /awˈɾi.a ðə/  | /awˈɾi.a ðe/     | should       |
-| 206 | país            | país               | substantiu     | /ˈpajs/       | /ˈpajs/          | country      |
-| 207 | trobar          | trobar             | verb           | /tɾuˈbaɾ/   | /tɾoˈbaɾ/     | found        |
-| 208 | resposta        | resposta           | substantiu     | /ˈrɛspɔstə/ | /ˈrɛspɔsta/   | answer       |
-| 209 | escola          | escola             | substantiu     | /əsˈkoɫə/   | /esˈkoɫa/     | school       |
-| 210 | créixer         | créixer            | verb           | /ˈkɾɛʃə/    | /ˈkɾejʃeɾ/    | grow         |
+| 203 | posseir         | posseir            | verb           |  /poˈsɛjɾ/   | /posˈejɾ/        | own          |
+| 204 | pàgina          | pàgina             | substantiu     | /ˈpaʒinə/    | /ˈpaʒina/        | page         |
+| 205 | hauria de       | hauria de          | verb           | /awˈɾi.a ðə/ | /awˈɾi.a ðe/     | should       |
+| 206 | país            | país               | substantiu     | /ˈpajs/      | /ˈpajs/          | country      |
+| 207 | trobar          | trobar             | verb           | /tɾuˈbaɾ/    | /tɾoˈbaɾ/     | found        |
+| 208 | resposta        | resposta           | substantiu     | /ˈrɛspɔstə/  | /ˈrɛspɔsta/   | answer       |
+| 209 | escola          | escola             | substantiu     | /əsˈkoɫə/    | /esˈkoɫa/     | school       |
+| 210 | créixer         | créixer            | verb           | /ˈkɾɛʃə/     | /ˈkɾejʃeɾ/    | grow         |
 | 211 | estudi          | estudi             | substantiu     | /əsˈtuði/    | /esˈtudi/     | study        |
-| 212 | encara          | encara             | adverbi        | /ənˈkaɾə/   | /enˈkaɾa/     | still        |
-| 213 | aprendre        | aprendre           | verb           | /əpˈɾɛndɾə/ | /apˈɾɛndɾe/   | learn        |
-| 214 | planta          | planta             | substantiu     | /ˈpɫantə/   | /ˈplantə/     | plant        |
-| 215 | cobrir          | cobrir             | verb           | /kuˈbɾiɾ/   | /koˈbɾiɾ/     | cover        |
-| 216 | menjar          | menjar             | substantiu     | /mənˈʒaɾ/   | /menˈdʒaɾ/    | food         |
-| 217 | sol             | sol                | substantiu     | /ˈsɔɫ/      | /ˈsɔɫ/        | sun          |
-| 218 | quatre          | quatre             | nombre         | /ˈkwatɾə/   | /ˈkwatɾe/     | four         |
+| 212 | encara          | encara             | adverbi        | /ənˈkaɾə/    | /enˈkaɾa/     | still        |
+| 213 | aprendre        | aprendre           | verb           | /əpˈɾɛndɾə/  | /apˈɾɛndɾe/   | learn        |
+| 214 | planta          | planta             | substantiu     | /ˈpɫantə/    | /ˈplantə/     | plant        |
+| 215 | cobrir          | cobrir             | verb           | /kuˈbɾiɾ/    | /koˈbɾiɾ/     | cover        |
+| 216 | menjar          | menjar             | substantiu     | /mənˈʒaɾ/    | /menˈdʒaɾ/    | food         |
+| 217 | sol             | sol                | substantiu     | /ˈsɔɫ/       | /ˈsɔɫ/        | sun          |
+| 218 | quatre          | quatre             | nombre         | /ˈkwatɾə/    | /ˈkwatɾe/     | four         |
 | 219 | pensament       | pensament          | substantiu     | /pənsəˈmɛnt/ | /pɛnsaˈment/  | thought      |
-| 220 | deixar          | deixar             | verb           | /dəˈʃaɾ/    | /deˈʃaɾ/      | let          |
+| 220 | deixar          | deixar             | verb           | /dəˈʃaɾ/     | /deˈʃaɾ/      | let          |
 | 221 | mantenir        | mantindre          | verb           | /mənˈtɛnir/  | /manˈtindɾe/  | keep         |
-| 222 | ull             | ull                | substantiu     | /uʎ/        | /uʎ/          | eye          |
-| 223 | mai             | mai                | adverbi        | /mai/       | /ˈmaj/        | never        |
-| 224 | últim           | últim              | adjectiu       | /ˈuɫ.tim/   | /ˈuɫ.tim/     | last         |
-| 225 | porta           | porta              | substantiu     | /ˈpɔɾtə/    | /ˈpɔɾta/      | door         |
-| 226 | entre           | entre              | preposició     | /ˈɛntɾə/    | /ˈentɾe/      | between      |
-| 227 | ciutat          | ciutat             | substantiu     | /siˈwat/    | /siˈtat/      | city         |
-| 228 | arbre           | arbre              | substantiu     | /ˈaɾbɾə/    | /ˈaɾbɾe/      | tree         |
-| 229 | creu            | creu               | substantiu     | /ˈkɾɛw/     | /ˈkɾew/       | cross        |
-| 230 | des de          | des de             | preposició     | /dəz ˈðe/   | /des ˈde/     | since        |
-| 231 | dur             | dur                | adjectiu       | /ˈduɾ/      | /ˈduɾ/        | hard         |
+| 222 | ull             | ull                | substantiu     | /uʎ/         | /uʎ/          | eye          |
+| 223 | mai             | mai                | adverbi        | /mai/        | /ˈmaj/        | never        |
+| 224 | últim           | últim              | adjectiu       | /ˈuɫ.tim/    | /ˈuɫ.tim/     | last         |
+| 225 | porta           | porta              | substantiu     | /ˈpɔɾtə/     | /ˈpɔɾta/      | door         |
+| 226 | entre           | entre              | preposició     | /ˈɛntɾə/     | /ˈentɾe/      | between      |
+| 227 | ciutat          | ciutat             | substantiu     | /siˈwat/     | /siˈtat/      | city         |
+| 228 | arbre           | arbre              | substantiu     | /ˈaɾbɾə/     | /ˈaɾbɾe/      | tree         |
+| 229 | creu            | creu               | substantiu     | /ˈkɾɛw/      | /ˈkɾew/       | cross        |
+| 230 | des de          | des de             | preposició     | /dəz ˈðe/    | /des ˈde/     | since        |
+| 231 | dur             | dur                | adjectiu       | /ˈduɾ/       | /ˈduɾ/        | hard         |
 | 232 | començar        | començar           | verb           | /ku.mənˈsaɾ/ | /ko.menˈsaɾ/   | start        |
-| 233 | podria          | podria             | verb           | /puˈðɾi.a/  | /poˈðɾia/     | might        |
-| 234 | història        | història           | substantiu     | /isˈtoɾiə/  | /isˈtoɾja/    | story        |
+| 233 | podria          | podria             | verb           | /puˈðɾi.a/   | /poˈðɾia/     | might        |
+| 234 | història        | història           | substantiu     | /isˈtoɾiə/   | /isˈtoɾja/    | story        |
 | 235 | vaig veure      | vaig veure         | verb           | /ˈvaʒ ˈvəɾə/ | /ˈvajɡ veˈɾe/ | saw          |
-| 236 | lluny           | lluny              | adverbi        | /ˈʎuɲ/      | /ˈʎuɲ/        | far          |
-| 237 | mar             | mar                | substantiu     | /ˈmaɾ/      | /ˈmaɾ/        | sea          |
-| 238 | dibuixar        | dibuixar           | verb           | /diˈβuʃə/   | /diˈbujar/    | draw         |
-| 239 | esquerra        | esquerra           | adjectiu       | /əsˈkɛrə/   | /esˈkɛra/     | left         |
-| 240 | tard            | tard               | adjectiu       | /ˈtaɾd/     | /ˈtaɾd/       | late         |
-| 241 | córrer          | córrer             | verb           | /ˈkoɾəɾ/    | /ˈkoɾeɾ/      | run          |
-| 242 | no              | no                 | contracció     | /noʊ/       | /no/          | don't        |
-| 243 | mentre          | mentre             | conjunció      | /ˈmɛntɾə/   | /ˈmentɾe/     | while        |
-| 244 | prémer          | prémer             | verb           | /ˈpɾɛməɾ/   | /ˈpɾɛs/       | press        |
-| 245 | a prop          | a prop             | adjectiu       | /ə ˈpɾɔp/   | /a ˈpɾɔp/     | close        |
-| 246 | nit             | nit                | substantiu     | /ˈnit/      | /ˈnit/        | night        |
-| 247 | real            | real               | adjectiu       | /rəˈaɫ/     | /reˈaɫ/       | real         |
-| 248 | vida            | vida               | substantiu     | /ˈviðə/     | /ˈvida/       | life         |
-| 249 | pocs            | pocs               | adjectiu       | /ˈpɔks/     | /ˈpɔks/       | few          |
-| 250 | parar           | parar              | verb           | /pəˈɾaɾ/    | /paˈɾaɾ/      | stop         |
-| 251 | obert           | obert              | adjectiu       | /oˈbɛɾt/    | /oˈbɛɾt/      | open         |
-| 252 | semblar         | semblar            | verb           | /səmˈbɫaɾ/  | /səmˈbɫaɾ/    | seem         |
-| 253 | junts           | junts              | adverbi        | /ˈʒuns/     | /ˈʒunts/      | together     |
-| 254 | següent         | següent            | adjectiu       | /səˈɣwɛnt/  | /seˈɣwɛnt/    | next         |
-| 255 | blanc           | blanc              | adjectiu       | /ˈbɫaŋk/    | /ˈbɫaŋk/      | white        |
-| 256 | nens            | xiquets            | substantiu     | /ˈnɛns/     | /ˈtʃikets/    | children     |
+| 236 | lluny           | lluny              | adverbi        | /ˈʎuɲ/       | /ˈʎuɲ/        | far          |
+| 237 | mar             | mar                | substantiu     | /ˈmaɾ/       | /ˈmaɾ/        | sea          |
+| 238 | dibuixar        | dibuixar           | verb           | /diˈβuʃə/    | /diˈbujar/    | draw         |
+| 239 | esquerra        | esquerra           | adjectiu       | /əsˈkɛrə/    | /esˈkɛra/     | left         |
+| 240 | tard            | tard               | adjectiu       | /ˈtaɾd/      | /ˈtaɾd/       | late         |
+| 241 | córrer          | córrer             | verb           | /ˈkoɾəɾ/     | /ˈkoɾeɾ/      | run          |
+| 242 | no              | no                 | contracció     | /noʊ/        | /no/          | don't        |
+| 243 | mentre          | mentre             | conjunció      | /ˈmɛntɾə/    | /ˈmentɾe/     | while        |
+| 244 | prémer          | prémer             | verb           | /ˈpɾɛməɾ/    | /ˈpɾɛs/       | press        |
+| 245 | a prop          | a prop             | adjectiu       | /ə ˈpɾɔp/    | /a ˈpɾɔp/     | close        |
+| 246 | nit             | nit                | substantiu     | /ˈnit/       | /ˈnit/        | night        |
+| 247 | real            | real               | adjectiu       | /rəˈaɫ/      | /reˈaɫ/       | real         |
+| 248 | vida            | vida               | substantiu     | /ˈviðə/      | /ˈvida/       | life         |
+| 249 | pocs            | pocs               | adjectiu       | /ˈpɔks/      | /ˈpɔks/       | few          |
+| 250 | parar           | parar              | verb           | /pəˈɾaɾ/     | /paˈɾaɾ/      | stop         |
+| 251 | obert           | obert              | adjectiu       | /oˈbɛɾt/     | /oˈbɛɾt/      | open         |
+| 252 | semblar         | semblar            | verb           | /səmˈbɫaɾ/   | /səmˈbɫaɾ/    | seem         |
+| 253 | junts           | junts              | adverbi        | /ˈʒuns/      | /ˈʒunts/      | together     |
+| 254 | següent         | següent            | adjectiu       | /səˈɣwɛnt/   | /seˈɣwɛnt/    | next         |
+| 255 | blanc           | blanc              | adjectiu       | /ˈbɫaŋk/     | /ˈbɫaŋk/      | white        |
+| 256 | nens            | xiquets            | substantiu     | /ˈnɛns/      | /ˈtʃikets/    | children     |
 | 257 | començar        | començar           | verb           | /kumənˈsaɾ/  | /komenˈsaɾ/   | begin        |
-| 258 | va aconseguir   | va aconseguir      | verb           | /ɡɔt/       | /ɡɔt/         | got          |
-| 259 | caminar         | caminar            | verb           | /wɔk/       | /wɔk/         | walk         |
-| 260 | exemple         | exemple            | substantiu     | /iɡˈzɛmpɫə/ | /iɡˈzɛmpɫe/   | example      |
-| 261 | facilitat       | facilitat          | substantiu     | /ˈjaz/      | /ˈjez/        | ease         |
-| 262 | paper           | paper              | substantiu     | /ˈpapər/    | /ˈpapər/      | paper        |
-| 263 | sovint          | sovint             | adverbi        | /ˈsɔfin/    | /a muˈtʃes/   | often        |
-| 264 | sempre          | sempre             | adverbi        | /ˈsɛmpɾə/   | /ˈsɛmpɾe/     | always       |
-| 265 | música          | música             | substantiu     | /ˈmuzikə/   | /ˈmuzika/     | music        |
-| 266 | aquells         | aquells            | pronom         | /ˈðoʊz/     | /ˈðəʊz/       | those        |
-| 267 | tots dos        | tots dos           | determinant    | /boθ/       | /bəʊθ/        | both         |
-| 268 | marcar          | marcar             | verb           | /ˈmaɾk/     | /maɾˈkaɾ/      | mark         |
-| 269 | llibre          | llibre             | substantiu     | /ˈʎiβɾə/    | /ˈʎibre/      | book         |
-| 270 | carta           | carta              | substantiu     | /ˈkæɾtə/    | /ˈkaɾta/      | letter       |
-| 271 | fins            | fins               | preposició     | /ˈfins/     | /ˈfins/       | until        |
-| 272 | milla           | milla              | substantiu     | /ˈmiʎə/     | /ˈmiʎa/       | mile         |
-| 273 | riu             | riu                | substantiu     | /ˈɾiw/      | /ˈɾiβ/        | river        |
-| 274 | cotxe           | cotxe              | substantiu     | /ˈkɔtʃə/    | /ˈkɔtʃe/      | car          |
-| 275 | peus            | peus               | substantiu     | /fjuts/     | /fjuts/       | feet         |
-| 276 | cuidar          | cuidar             | verb           | /kuiˈðaɾ/   | /koˈiðaɾ/     | care         |
-| 277 | segon           | segon              | adjectiu       | /səˈɣon/    | /seˈɣon/      | second       |
-| 278 | grup            | grup               | substantiu     | /ˈɡɾup/     | /ˈɡɾup/       | group        |
-| 279 | portar          | portar             | verb           | /ˈpɔɾtaɾ/   | /ˈpɔɾtaɾ/     | carry        |
-| 280 | va prendre      | va prendre         | verb           | /tʊk/       | /tʊk/         | took         |
-| 281 | pluja           | pluja              | substantiu     | /ˈɹeɪn/     | /ˈreɪn/       | rain         |
-| 282 | menjar          | menjar             | verb           | /it/        | /it/          | eat          |
-| 283 | habitació       | habitació          | substantiu     | /ˈɾum/      | /ˈɾum/        | room         |
-| 284 | amic            | amic               | substantiu     | /fɾɛnt/     | /fɾɛnd/       | friend       |
+| 258 | va aconseguir   | va aconseguir      | verb           | /ɡɔt/        | /ɡɔt/         | got          |
+| 259 | caminar         | caminar            | verb           | /wɔk/        | /wɔk/         | walk         |
+| 260 | exemple         | exemple            | substantiu     | /iɡˈzɛmpɫə/  | /iɡˈzɛmpɫe/   | example      |
+| 261 | facilitat       | facilitat          | substantiu     | /ˈjaz/       | /ˈjez/        | ease         |
+| 262 | paper           | paper              | substantiu     | /ˈpapər/     | /ˈpapər/      | paper        |
+| 263 | sovint          | sovint             | adverbi        | /ˈsɔfin/     | /a muˈtʃes/   | often        |
+| 264 | sempre          | sempre             | adverbi        | /ˈsɛmpɾə/    | /ˈsɛmpɾe/     | always       |
+| 265 | música          | música             | substantiu     | /ˈmuzikə/    | /ˈmuzika/     | music        |
+| 266 | aquells         | aquells            | pronom         | /ˈðoʊz/      | /ˈðəʊz/       | those        |
+| 267 | tots dos        | tots dos           | determinant    | /boθ/        | /bəʊθ/        | both         |
+| 268 | marcar          | marcar             | verb           | /ˈmaɾk/      | /maɾˈkaɾ/      | mark         |
+| 269 | llibre          | llibre             | substantiu     | /ˈʎiβɾə/     | /ˈʎibre/      | book         |
+| 270 | carta           | carta              | substantiu     | /ˈkæɾtə/     | /ˈkaɾta/      | letter       |
+| 271 | fins            | fins               | preposició     | /ˈfins/      | /ˈfins/       | until        |
+| 272 | milla           | milla              | substantiu     | /ˈmiʎə/      | /ˈmiʎa/       | mile         |
+| 273 | riu             | riu                | substantiu     | /ˈɾiw/       | /ˈɾiβ/        | river        |
+| 274 | cotxe           | cotxe              | substantiu     | /ˈkɔtʃə/     | /ˈkɔtʃe/      | car          |
+| 275 | peus            | peus               | substantiu     | /fjuts/      | /fjuts/       | feet         |
+| 276 | cuidar          | cuidar             | verb           | /kuiˈðaɾ/    | /koˈiðaɾ/     | care         |
+| 277 | segon           | segon              | adjectiu       | /səˈɣon/     | /seˈɣon/      | second       |
+| 278 | grup            | grup               | substantiu     | /ˈɡɾup/      | /ˈɡɾup/       | group        |
+| 279 | portar          | portar             | verb           | /ˈpɔɾtaɾ/    | /ˈpɔɾtaɾ/     | carry        |
+| 280 | va prendre      | va prendre         | verb           | /tʊk/        | /tʊk/         | took         |
+| 281 | pluja           | pluja              | substantiu     | /ˈɹeɪn/      | /ˈreɪn/       | rain         |
+| 282 | menjar          | menjar             | verb           | /it/         | /it/          | eat          |
+| 283 | habitació       | habitació          | substantiu     | /ˈɾum/       | /ˈɾum/        | room         |
+| 284 | amic            | amic               | substantiu     | /fɾɛnt/      | /fɾɛnd/       | friend       |
 | 285 | començava       | començava          | verb           | /kumənˈsava/ | /komeɲˈsava/  | began        |
 | 286 | idea            | idea               | substantiu     | /aɪˈdiə/    | /aɪˈdiə/      | idea         |
 | 287 | peix            | peix               | substantiu     | /fɪʃ/       | /fɪʃ/         | fish         |

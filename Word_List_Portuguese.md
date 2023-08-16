@@ -1,7 +1,7 @@
 # Portuguese Word List with IPA
 
 | N° | Palavra em português | Tipo de palavra | IPA português | Palavra em inglês |
-|---|---|---|---|---|
+|-----|---|---|---|---|
 | 1a | o | artigo | /u/ | the (male, singular) |
 | 1b | a | artigo | /ɐ/ | the (female, singular) |
 | 1c | os | artigo | /uʃ/ | the (male, plural) |
@@ -539,89 +539,3 @@
 | 498 | peso                    | substantivo                 | /ˈpɛzu/       | weight            |
 | 499 | linguagem               | substantivo                 | /ˈlĩ.ɡwɐ.ʒẽ/  | language          |
 | 500 | entre                   | preposição                 | /ˈẽ.tɾɨ/       | among             |
-
-
-
-
-
-
-
-
-
-
-
-## Lista anterior
-
-| No. | English | Portuguese | Portuguese IPA |
-|-----|---------|------------|----------------|
-| 1   | I       | eu         | /ew/           |
-| 2   | you     | você       | /vo'se/        |
-| 3   | he      | ele        | /'ɛli/         |
-| 4   | she     | ela        | /'ɛlɐ/         |
-| 5   | it      | ele, ela   | /'ɛli/, /'ɛlɐ/ |
-| 6   | we      | nós        | /'nɔs/         |
-| 7   | they    | eles, elas | /'ɛlis/, /'ɛlɐs/ |
-| 8a  | to be   | ser | /sɛɾ/|
-| 8a  | to be   | estar | /is'taɾ/ |
-| 9   | to have | ter        | /tɛɾ/          |
-| 10  | to do   | fazer      | /fa'zeɾ/       | 
-| 11  | to say  | dizer      | /di'zeɾ/       |
-| 12  | to go   | ir         | /iɾ/           |
-| 13  | to come | vir        | /viɾ/          |
-| 14  | to see  | ver        | /veɾ/          |
-| 15  | to know | saber      | /sa'beɾ/       |
-| 16  | to get  | obter      | /o'bteɾ/       |
-| 17  | to make | fazer      | /fa'zeɾ/       |
-| 18  | to think| pensar     | /pen'saɾ/      |
-| 19  | to take | tomar      | /to'maɾ/       |
-| 20  | to give | dar        | /daɾ/          |
-| 21  | to find | encontrar  | /ẽkõˈtaɾ/      |
-| 22  | to listen | ouvir    | /oˈviɾ/        |
-| 23  | to work | trabalhar  | /tɾabɐˈʎaɾ/     |
-| 24  | to call | chamar     | /ʃɐˈmaɾ/       |
-| 25  | to laugh | rir       | /ʁiˈɾ/         |
-| 26  | to swim | nadar      | /nɐˈdaɾ/       |
-| 27  | to build | construir | /kõʃˈtɾuiɾ/    |
-| 28  | to run | correr      | /koˈʁeɾ/       |
-| 29  | to write | escrever  | /iʃˈkɾevɛɾ/    |
-| 30  | to teach | ensinar   | /ẽsiˈnaɾ/      |
-| 31  | to close | fechar     | /ˈfɛʃaɾ/           |
-| 32  | to turn  | virar      | /viˈɾaɾ/           |
-| 33  | to stop  | parar      | /pɐˈɾaɾ/           |
-| 34  | to taste | provar     | /pɾoˈvaɾ/          |
-| 35  | to cut   | cortar     | /koɾˈtaɾ/          |
-| 36  | to watch | assistir   | /asisˈtiɾ/         |
-| 37  | to bend  | dobrar     | /doˈbɾaɾ/          |
-| 38  | to open  | abrir      | /ɐˈbɾiɾ/           |
-| 39  | to drink | beber      | /ˈbɛbeɾ/           |
-| 40  | to die   | morrer     | /moˈʁeɾ/           |
-| 41  | to win   | ganhar     | /ɡɐˈɲaɾ/           |
-| 42  | to hear  | ouvir      | /oˈviɾ/            |
-| 43  | to shoot | disparar   | /dispaˈɾaɾ/        |
-| 44  | to marry | casar      | /kaˈzaɾ/           |
-| 45  | to pray  | rezar      | /ɾeˈzaɾ/           |
-| 46  | to taste | provar     | /pɾoˈvaɾ/          |
-| 47  | to work  | trabalhar  | /tɾɐbɐˈʎaɾ/        |
-| 48  | to cut   | cortar     | /koɾˈtaɾ/          |
-| 49  | to watch | assistir   | /asisˈtiɾ/         |
-| 50  | to bend  | dobrar     | /doˈbɾaɾ/          |
-| 51  | to fly  | voar       | /voˈaɾ/        |
-| 52  | to clean| limpar     | /ˈlĩpaɾ/       |
-| 53  | to taste| provar     | /pɾoˈvaɾ/       |
-| 54  | to live | viver      | /viˈveɾ/        |
-| 55  | to break| quebrar    | /keˈbɾaɾ/       |
-| 56  | to speak| falar      | /faˈlaɾ/        |
-| 57  | to bend | dobrar     | /doˈbɾaɾ/       |
-| 58  | to open | abrir      | /aˈbɾiɾ/        |
-| 59  | to drink| beber      | /ˈbebeɾ/        |
-| 60  | to die  | morrer     | /moˈʁeɾ/        |
-| 61  | to run  | correr     | /koˈʁeɾ/        |
-| 62  | to cry  | chorar     | /ʃoˈɾaɾ/        |
-| 63  | to dance| dançar     | /dɐ̃ˈsaɾ/       |
-| 64  | to pray | rezar      | /ʁeˈzaɾ/        |
-| 65  | to sing | cantar     | /kɐ̃ˈtaɾ/       |
-| 66  | to sleep| dormir     | /doɾˈmiɾ/       |
-| 67  | to fly  | voar       | /voˈaɾ/        |
-| 68  | to clean| limpar     | /ˈlĩpaɾ/       |
-| 69  | to taste| provar     | /pɾoˈvaɾ/       |
-| 70  | to live | viver      | /viˈveɾ/        |

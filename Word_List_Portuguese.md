@@ -337,37 +337,37 @@
 | 296 | assistir                | verbo | /ɐ.sis'tiɾ/ | watch (mirar) |
 | 297 | cor                     | substantivo | /'koɾ/ | color (color) |
 | 298 | cara                    | substantivo | /'ka.ɾɐ/ | face (cara) |
-| 299 | madeira                 | substantivo | /mɐ'dɐj.ɾɐ/ | wood (madera) |
-| 300 | principal               | adjetivo                   | /pɾĩ.si'paɫ/ | main (principal) |
-| 301 | suficiente              | adjetivo                   | /sufiˈsjẽtʃi/  | enough       |
-| 302 | llano                   | adjetivo                   | /ˈʎanu/        | plain        |
-| 303 | chica                   | substantivo                | /ˈʃika/        | girl         |
-| 304 | usual                   | adjetivo                   | /uˈzu.aɫ/      | usual        |
-| 305 | joven                   | adjetivo                   | /ˈʒoβẽn/       | young        |
-| 306 | listo                   | adjetivo                   | /ˈliʃtu/       | ready        |
-| 307 | encima                  | preposição                 | /ẽˈsimɐ/       | above        |
-| 308 | alguna vez              | advérbio                   | /alˈɡũ.və‿ˈʃ/ | ever         |
-| 309 | rojo                    | adjetivo                   | /ˈʁo.ʒu/      | red          |
-| 310 | lista                   | substantivo                | /ˈliʃtɐ/       | list         |
-| 311 | aunque                  | conjunção                  | /ˈaũ.kɨ/       | though       |
-| 312 | sentir                  | verbo                      | /sẽˈtiɾ/       | feel         |
-| 313 | hablar                  | verbo                      | /aˈblaɾ/       | talk         |
-| 314 | pájaro                  | substantivo                | /ˈpa.ʒa.ɾu/   | bird         |
-| 315 | pronto                  | advérbio                   | /ˈpɾõ.tu/      | soon         |
-| 316 | cuerpo                  | substantivo                | /ˈkoɾ.po/      | body         |
-| 317 | perro                   | substantivo                | /ˈpe.ʁu/       | dog          |
-| 318 | familia                 | substantivo                | /fa.mi.ˈli.ɐ/  | family       |
-| 319 | directo                 | adjetivo                   | /di.ˈɾɛ.tu/    | direct       |
-| 320 | posar                   | verbo                      | /pu.ˈzaɾ/      | pose         |
-| 321 | dejar                   | verbo                      | /de.ˈʒaɾ/      | leave        |
-| 322 | canción                 | substantivo                | /kɐ̃.siˈõũ/    | song         |
-| 323 | medida                  | substantivo                | /mɨ.ˈdɐ/       | measure      |
-| 324 | estado                  | substantivo                | /iʃ.ˈta.du/    | state        |
-| 325 | produto                 | substantivo                | /pɾu.ˈdu.tu/    | product      |
-| 326 | negro                   | adjetivo                   | /ˈne.ɡɾu/      | black        |
-| 327 | corto                   | adjetivo                   | /ˈkoɾ.tu/      | short        |
-| 328 | numeral                 | substantivo                | /nu.mɨ.ˈɾaw/    | numeral      |
-| 329 | classe                  | substantivo                | /ˈklasɨ/       | class        |
+| 299 | madeira                 | substantivo                 | /mɐ'dɐj.ɾɐ/      | wood (madera) |
+| 300 | principal               | adjetivo                    | /pɾĩ.si'paɫ/     | main (principal) |
+| 301 | suficiente              | adjetivo                    | /sufiˈsjẽtʃi/    | enough       |
+| 302 | llano                   | adjetivo                    | /ˈʎanu/          | plain        |
+| 303 | chica                   | substantivo                 | /ˈʃika/          | girl         |
+| 304 | usual                   | adjetivo                    | /uˈzu.aɫ/        | usual        |
+| 305 | joven                   | adjetivo                    | /ˈʒoβẽn/         | young        |
+| 306 | listo                   | adjetivo                    | /ˈliʃtu/         | ready        |
+| 307 | encima                  | preposição                  | /ẽˈsimɐ/         | above        |
+| 308 | alguna vez              | advérbio                    | /alˈɡũ.və‿ˈʃ/   | ever         |
+| 309 | rojo                    | adjetivo                    | /ˈʁo.ʒu/         | red          |
+| 310 | lista                   | substantivo                 | /ˈliʃtɐ/         | list         |
+| 311 | aunque                  | conjunção                   | /ˈaũ.kɨ/         | though       |
+| 312 | sentir                  | verbo                       | /sẽˈtiɾ/         | feel         |
+| 313 | hablar                  | verbo                       | /aˈblaɾ/         | talk         |
+| 314 | pájaro                  | substantivo                 | /ˈpa.ʒa.ɾu/      | bird         |
+| 315 | pronto                  | advérbio                    | /ˈpɾõ.tu/        | soon         |
+| 316 | cuerpo                  | substantivo                 | /ˈkoɾ.po/        | body         |
+| 317 | perro                   | substantivo                 | /ˈpe.ʁu/         | dog          |
+| 318 | familia                 | substantivo                 | /fa.mi.ˈli.ɐ/    | family       |
+| 319 | directo                 | adjetivo                    | /di.ˈɾɛ.tu/      | direct       |
+| 320 | posar                   | verbo                       | /pu.ˈzaɾ/        | pose         |
+| 321 | dejar                   | verbo                       | /de.ˈʒaɾ/        | leave        |
+| 322 | canción                 | substantivo                 | /kɐ̃.siˈõũ/       | song         |
+| 323 | medida                  | substantivo                 | /mɨ.ˈdɐ/         | measure      |
+| 324 | estado                  | substantivo                 | /iʃ.ˈta.du/      | state        |
+| 325 | produto                 | substantivo                 | /pɾu.ˈdu.tu/     | product      |
+| 326 | negro                   | adjetivo                    | /ˈne.ɡɾu/        | black        |
+| 327 | corto                   | adjetivo                    | /ˈkoɾ.tu/        | short        |
+| 328 | numeral                 | substantivo                 | /nu.mɨ.ˈɾaw/     | numeral      |
+| 329 | classe                  | substantivo                 | /ˈklasɨ/         | class        |
 | 330 | vento                   | substantivo                 | /ˈvẽ.tu/         | wind         |
 | 331 | pergunta                | substantivo                 | /pɨ.ˈɡũ.tɐ/      | question     |
 | 332 | suceder                 | verbo                       | /su.sɨ.ˈðeɾ/     | happen       |

@@ -226,37 +226,37 @@
 | 186 | necessitar              | verbo | /nɨ.sɨ.si'taɾ/ | need (necesitar) |
 | 187 | casa                    | substantivo | /'ka.zɐ/ | house (casa) |
 | 188 | imagem                  | substantivo | /i'ma.ʒẽj/ | picture (imagen) |
-| 189 | tentar                  | verbo | /tẽ'taɾ/ | try (intentar) |
-| 190 | nós                     | pronome | /noʃ/ | us (nosotros) |
-| 191 | novamente               | advérbio | /no.vɐ.mẽj'tɨ/ | again (de nuevo) |
-| 192 | animal                  | substantivo | /ɐ.ni'mal/ | animal |
-| 193 | ponto                   | substantivo | /'põ.tu/ | point (punto) |
-| 194 | mãe                     | substantivo | /mɐ̃j/ | mother (madre) |
-| 195 | mundo                   | substantivo | /'mũ.du/ | world (mundo) |
-| 196 | perto                   | preposição | /'pɛɾ.tu/ | near (cerca) |
-| 197 | construir               | verbo | /kõʃ.tɾu'iɾ/ | build (construir) |
-| 198 | eu mesmo                | substantivo | /ew 'meʒ.mu/ | self (yo mismo) |
-| 199 | terra                   | substantivo | /'tɛ.ʀɐ/ | earth (tierra) |
-| 200 | pai                     | substantivo | /paɪ/ | father (padre) |
-| 201 | cabeça                  | substantivo | /kɐ'be.sɐ/ | head (cabeza) |
-| 202 | ficar de pé             | verbo | /fi'kaɾ dɨ 'pe/ | stand (estar de pie) |
-| 203 | possuir                 | verbo | /po'sujɾ/ | own (poseer) |
-| 204 | página                  | substantivo | /pa'ʒi.nɐ/ | page (página) |
-| 205 | deveria                 | verbo modal | /dɨ've.ɾi.ɐ/ | should (debería) |
-| 206 | país                    | substantivo | /pa'iʃ/ | country (país) |
-| 207 | encontrou               | verbo | /ẽ.kõ.tɾow/ | found (encontró) |
-| 208 | resposta                | substantivo | /ʁɨʃ'poʃ.tɐ/ | answer (respuesta) |
-| 209 | escola                  | substantivo | /iʃ'ko.lɐ/ | school (escuela) |
-| 210 | crescer                 | verbo | /kɾe'seɾ/ | grow (crecer) |
-| 211 | estudo                  | substantivo | /iʃ'tu.ðu/ | study (estudio) |
-| 212 | ainda                   | advérbio | /ɐ'ĩ.ðɐ/ | still (todavía) |
-| 213 | aprender                | verbo | /ɐ.pɾẽ'deɾ/ | learn (aprender) |
-| 214 | planta                  | substantivo | /'plɐ̃.tɐ/ | plant (planta) |
-| 215 | cobrir                  | verbo | /ko'bɾiɾ/ | cover (cubrir) |
-| 216 | comida                  | substantivo | /ko'mi.ðɐ/ | food (comida) |
-| 217 | sol                     | substantivo | /sɔɫ/ | sun (sol) |
-| 218 | quatro                  | número | /'kwɐ.tɾu/ | four (cuatro) |
-| 219 | pensamento              | substantivo | /pẽ.sɐ'mẽ.tu/ | thought (pensamiento) |
+| 189 | tentar                  | verbo                       | /tẽ'taɾ/ | try (intentar) |
+| 190 | nós                     | pronome                     | /noʃ/ | us (nosotros) |
+| 191 | novamente               | advérbio                    | /no.vɐ.mẽj'tɨ/ | again (de nuevo) |
+| 192 | animal                  | substantivo                 | /ɐ.ni'mal/ | animal |
+| 193 | ponto                   | substantivo                 | /'põ.tu/ | point (punto) |
+| 194 | mãe                     | substantivo                 | /mɐ̃j/ | mother (madre) |
+| 195 | mundo                   | substantivo                 | /'mũ.du/ | world (mundo) |
+| 196 | perto                   | preposição                  | /'pɛɾ.tu/ | near (cerca) |
+| 197 | construir               | verbo                       | /kõʃ.tɾu'iɾ/ | build (construir) |
+| 198 | eu mesmo                | substantivo                 | /ew 'meʒ.mu/ | self (yo mismo) |
+| 199 | terra                   | substantivo                 | /'tɛ.ʀɐ/ | earth (tierra) |
+| 200 | pai                     | substantivo                 | /paɪ/ | father (padre) |
+| 201 | cabeça                  | substantivo                 | /kɐ'be.sɐ/ | head (cabeza) |
+| 202 | ficar de pé             | verbo                       | /fi'kaɾ dɨ 'pe/ | stand (estar de pie) |
+| 203 | possuir                 | verbo                       | /po'sujɾ/ | own (poseer) |
+| 204 | página                  | substantivo                 | /pa'ʒi.nɐ/ | page (página) |
+| 205 | deveria                 | verbo modal                 | /dɨ've.ɾi.ɐ/ | should (debería) |
+| 206 | país                    | substantivo                 | /pa'iʃ/ | country (país) |
+| 207 | encontrou               | verbo                       | /ẽ.kõ.tɾow/ | found (encontró) |
+| 208 | resposta                | substantivo                 | /ʁɨʃ'poʃ.tɐ/ | answer (respuesta) |
+| 209 | escola                  | substantivo                 | /iʃ'ko.lɐ/ | school (escuela) |
+| 210 | crescer                 | verbo                       | /kɾe'seɾ/ | grow (crecer) |
+| 211 | estudo                  | substantivo                 | /iʃ'tu.ðu/ | study (estudio) |
+| 212 | ainda                   | advérbio                    | /ɐ'ĩ.ðɐ/ | still (todavía) |
+| 213 | aprender                | verbo                       | /ɐ.pɾẽ'deɾ/ | learn (aprender) |
+| 214 | planta                  | substantivo                 | /'plɐ̃.tɐ/ | plant (planta) |
+| 215 | cobrir                  | verbo                       | /ko'bɾiɾ/ | cover (cubrir) |
+| 216 | comida                  | substantivo                 | /ko'mi.ðɐ/ | food (comida) |
+| 217 | sol                     | substantivo                 | /sɔɫ/ | sun (sol) |
+| 218 | quatro                  | número                      | /'kwɐ.tɾu/ | four (cuatro) |
+| 219 | pensamento              | substantivo                 | /pẽ.sɐ'mẽ.tu/ | thought (pensamiento) |
 | 220 | deixar                  | verbo                       | /dej'ʃaɾ/ | let (dejar) |
 | 221 | manter                  | verbo                       | /mɐ̃'teɾ/ | keep (mantener) |
 | 222 | olho                    | substantivo                 | /'o.ʎu/ | eye (ojo) |

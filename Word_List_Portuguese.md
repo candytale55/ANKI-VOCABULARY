@@ -209,23 +209,23 @@
 | 169 | até                     | advérbio | /ɐ'te/ | even (incluso) |
 | 170 | terra                   | substantivo | /'tɛ.ʀɐ/ | land (tierra) |
 | 171 | aqui                    | advérbio | /ɐ'ki/ | here (aquí) |
-| 172 | deve                    | verbo modal | /'dɛ.vɨ/ | must (debe) |
-| 173 | grande                  | adjetivo | /'ɡɾɐ̃.dɨ/ | big (grande) |
-| 174 | alto                    | adjetivo | /'aɫ.tu/ | high (alto) |
-| 175 | tal                     | determinante | /tal/ | such (tal) |
-| 176 | seguir                  | verbo | /sɨ'giɾ/ | follow (seguir) |
-| 177 | atuar                   | verbo | /ɐ.tu'aɾ/ | act (actuar) |
-| 178 | por que                 | advérbio | /poɾ ke/ | why (por qué) |
-| 179 | perguntar               | verbo | /pɨɾ.gũ'taɾ/ | ask (preguntar) |
-| 180 | homens                  | substantivo | /'o.mẽjʃ/ | men (hombres) |
-| 181 | mudar                   | verbo | /mu'daɾ/ | change (cambiar) |
-| 182 | foi                     | verbo | /fɔj/ | went (fue) |
-| 183 | luz                     | substantivo | /luʃ/ | light (luz) |
-| 184 | tipo                    | substantivo | /'ti.pu/ | kind (tipo) |
-| 185 | fora                    | preposição | /'fɔ.ɾɐ/ | off (fuera) |
-| 186 | necessitar              | verbo | /nɨ.sɨ.si'taɾ/ | need (necesitar) |
-| 187 | casa                    | substantivo | /'ka.zɐ/ | house (casa) |
-| 188 | imagem                  | substantivo | /i'ma.ʒẽj/ | picture (imagen) |
+| 172 | deve                    | verbo modal                 | /'dɛ.vɨ/ | must (debe) |
+| 173 | grande                  | adjetivo                    | /'ɡɾɐ̃.dɨ/ | big (grande) |
+| 174 | alto                    | adjetivo                    | /'aɫ.tu/ | high (alto) |
+| 175 | tal                     | determinante                | /tal/ | such (tal) |
+| 176 | seguir                  | verbo                       | /sɨ'giɾ/ | follow (seguir) |
+| 177 | atuar                   | verbo                       | /ɐ.tu'aɾ/ | act (actuar) |
+| 178 | por que                 | advérbio                    | /poɾ ke/ | why (por qué) |
+| 179 | perguntar               | verbo                       | /pɨɾ.gũ'taɾ/ | ask (preguntar) |
+| 180 | homens                  | substantivo                 | /'o.mẽjʃ/ | men (hombres) |
+| 181 | mudar                   | verbo                       | /mu'daɾ/ | change (cambiar) |
+| 182 | foi                     | verbo                       | /fɔj/ | went (fue) |
+| 183 | luz                     | substantivo                 | /luʃ/ | light (luz) |
+| 184 | tipo                    | substantivo                 | /'ti.pu/ | kind (tipo) |
+| 185 | fora                    | preposição                  | /'fɔ.ɾɐ/ | off (fuera) |
+| 186 | necessitar              | verbo                       | /nɨ.sɨ.si'taɾ/ | need (necesitar) |
+| 187 | casa                    | substantivo                 | /'ka.zɐ/ | house (casa) |
+| 188 | imagem                  | substantivo                 | /i'ma.ʒẽj/ | picture (imagen) |
 | 189 | tentar                  | verbo                       | /tẽ'taɾ/ | try (intentar) |
 | 190 | nós                     | pronome                     | /noʃ/ | us (nosotros) |
 | 191 | novamente               | advérbio                    | /no.vɐ.mẽj'tɨ/ | again (de nuevo) |

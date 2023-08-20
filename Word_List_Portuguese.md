@@ -174,41 +174,41 @@
 | 136 | baixo                   | adjetivo | /'baj.ʃu/ | low |
 | 137 | linha                   | substantivo | /'li.ɲɐ/ | line |
 | 138 | antes                   | preposição | /ɐ̃'teʃ/ | before |
-| 139 | girar                   | verbo | /ʒi'ɾaɾ/ | turn |
-| 140 | causa                   | substantivo | /'kaw.zɐ/ | cause |
-| 141 | mesmo                   | adjetivo | /'meʒ.mu/ | same |
-| 142 | significar              | verbo | /si.ɲi.fi'kaɾ/ | mean |
-| 143 | diferir                 | verbo | /di.fɨ'ɾiɾ/ | differ |
-| 144 | mover                   | verbo | /mu'veɾ/ | move |
-| 145a | correto                | adjetivo | /ko're.tu/ | right (correcto) |
-| 145b | direito                | adjetivo | /di'ɾej.tu/ | right (derecho) |
-| 146 | rapaz                   | substantivo | /ʀɐ'paʃ/ | boy |
-| 147 | velho                   | adjetivo | /'ve.ʎu/ | old |
-| 148 | demais                  | advérbio | /dɨ'majʃ/ | too |
-| 149 | faz                     | verbo | /faʃ/ | does |
-| 150 | dizer                   | verbo | /di'zeɾ/ | tell |
-| 151 | frase                   | substantivo | /'fɾa.zɨ/ | sentence (part of speech) (oración) |
-| 152 | definir                 | verbo | /dɨ.fi'nir/ | set (establecer) |
-| 153 | três                    | número | /'tɾeʃ/ | three (tres) |
-| 154 | querer                  | verbo | /kɨ'ɾeɾ/ | want (querer) |
-| 155 | ar                      | substantivo | /aɾ/ | air (aire) |
-| 156 | bem                     | advérbio | /bɐ̃j/ | well (bien) |
-| 157 | também                  | advérbio | /tɐ̃'bẽj/ | also (también) |
-| 158a | jogar                  | verbo | /ʒo'gaɾ/ | play (jugar) |
-| 158b | tocar                  | verbo | /to'kaɾ/ | play (tocar un instrumento) |
-| 159 | pequeno                 | adjetivo | /pɨ'ke.nu/ | small (pequeño) |
-| 160 | fim                     | substantivo | /fĩj/ | end (fin) |
-| 161 | colocar                 | verbo | /ko.lo'kaɾ/ | put (poner) |
-| 162 | casa                    | substantivo | /'ka.zɐ/ | home (casa) |
-| 163 | ler                     | verbo | /leɾ/ | read (leer) |
-| 164 | mão                     | substantivo | /mɐ̃w̃/ | hand (mano) |
-| 165 | porto                   | substantivo | /'poɾ.tu/ | port (puerto) |
-| 166 | grande                  | adjetivo | /'ɡɾɐ̃.dɨ/ | large (grande) |
-| 167 | soletrar                | verbo | /so.lɨ'tɾaɾ/ | spell (deletrear) |
-| 168 | adicionar               | verbo | /ɐ.di.si.o'naɾ/ | add (añadir) |
-| 169 | até                     | advérbio | /ɐ'te/ | even (incluso) |
-| 170 | terra                   | substantivo | /'tɛ.ʀɐ/ | land (tierra) |
-| 171 | aqui                    | advérbio | /ɐ'ki/ | here (aquí) |
+| 139 | girar                   | verbo                       | /ʒi'ɾaɾ/ | turn |
+| 140 | causa                   | substantivo                 | /'kaw.zɐ/ | cause |
+| 141 | mesmo                   | adjetivo                    | /'meʒ.mu/ | same |
+| 142 | significar              | verbo                       | /si.ɲi.fi'kaɾ/ | mean |
+| 143 | diferir                 | verbo                       | /di.fɨ'ɾiɾ/ | differ |
+| 144 | mover                   | verbo                       | /mu'veɾ/ | move |
+| 145a | correto                | adjetivo                    | /ko're.tu/ | right (correcto) |
+| 145b | direito                | adjetivo                    | /di'ɾej.tu/ | right (derecho) |
+| 146 | rapaz                   | substantivo                 | /ʀɐ'paʃ/ | boy |
+| 147 | velho                   | adjetivo                    | /'ve.ʎu/ | old |
+| 148 | demais                  | advérbio                    | /dɨ'majʃ/ | too |
+| 149 | faz                     | verbo                       | /faʃ/ | does |
+| 150 | dizer                   | verbo                       | /di'zeɾ/ | tell |
+| 151 | frase                   | substantivo                 | /'fɾa.zɨ/ | sentence (part of speech) (oración) |
+| 152 | definir                 | verbo                       | /dɨ.fi'nir/ | set (establecer) |
+| 153 | três                    | número                      | /'tɾeʃ/ | three (tres) |
+| 154 | querer                  | verbo                       | /kɨ'ɾeɾ/ | want (querer) |
+| 155 | ar                      | substantivo                 | /aɾ/ | air (aire) |
+| 156 | bem                     | advérbio                    | /bɐ̃j/ | well (bien) |
+| 157 | também                  | advérbio                    | /tɐ̃'bẽj/ | also (también) |
+| 158a | jogar                  | verbo                       | /ʒo'gaɾ/ | play (jugar) |
+| 158b | tocar                  | verbo                       | /to'kaɾ/ | play (tocar un instrumento) |
+| 159 | pequeno                 | adjetivo                    | /pɨ'ke.nu/ | small (pequeño) |
+| 160 | fim                     | substantivo                 | /fĩj/ | end (fin) |
+| 161 | colocar                 | verbo                       | /ko.lo'kaɾ/ | put (poner) |
+| 162 | casa                    | substantivo                 | /'ka.zɐ/ | home (casa) |
+| 163 | ler                     | verbo                       | /leɾ/ | read (leer) |
+| 164 | mão                     | substantivo                 | /mɐ̃w̃/ | hand (mano) |
+| 165 | porto                   | substantivo                 | /'poɾ.tu/ | port (puerto) |
+| 166 | grande                  | adjetivo                    | /'ɡɾɐ̃.dɨ/ | large (grande) |
+| 167 | soletrar                | verbo                       | /so.lɨ'tɾaɾ/ | spell (deletrear) |
+| 168 | adicionar               | verbo                       | /ɐ.di.si.o'naɾ/ | add (añadir) |
+| 169 | até                     | advérbio                    | /ɐ'te/ | even (incluso) |
+| 170 | terra                   | substantivo                 | /'tɛ.ʀɐ/ | land (tierra) |
+| 171 | aqui                    | advérbio                    | /ɐ'ki/ | here (aquí) |
 | 172 | deve                    | verbo modal                 | /'dɛ.vɨ/ | must (debe) |
 | 173 | grande                  | adjetivo                    | /'ɡɾɐ̃.dɨ/ | big (grande) |
 | 174 | alto                    | adjetivo                    | /'aɫ.tu/ | high (alto) |

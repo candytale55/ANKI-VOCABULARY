@@ -323,15 +323,15 @@
 | 282 | comer                   | verbo | /ku'meɾ/ | eat (comer) |
 | 283 | quarto                  | substantivo | /'kwaɾ.tu/ | room (habitación) |
 | 284 | amigo                   | substantivo | /ɐ'mi.ɣu/ | friend (amigo) |
-| 285 | começou                 | verbo | /ko.mɨ'sow/ | began (comenzó) |
-| 286 | ideia                   | substantivo | /i'dej.ɐ/ | idea (idea) |
-| 287 | peixe                   | substantivo | /'pej.ʃ(ɨ)/ | fish (pescado) |
-| 288 | montanha                | substantivo | /mõ'ta.ɲɐ/ | mountain (montaña) |
-| 289 | norte                   | substantivo | /'nɔɾ.tɨ/ | north (norte) |
-| 290 | uma vez                 | advérbio | /'umɐ 'vɛʃ/ | once (una vez) |
-| 291 | base                    | substantivo | /'ba.zɨ/ | base (base) |
-| 292 | ouvir                   | verbo | /o'viɾ/ | hear (escuchar) |
-| 293 | cavalo                  | substantivo | /kɐ'va.ɫu/ | horse (caballo) |
+| 285 | começou                 | verbo                       | /ko.mɨ'sow/      | began (comenzó) |
+| 286 | ideia                   | substantivo                 | /i'dej.ɐ/        | idea (idea) |
+| 287 | peixe                   | substantivo                 | /'pej.ʃ(ɨ)/      | fish (pescado) |
+| 288 | montanha                | substantivo                 | /mõ'ta.ɲɐ/       | mountain (montaña) |
+| 289 | norte                   | substantivo                 | /'nɔɾ.tɨ/        | north (norte) |
+| 290 | uma vez                 | advérbio                    | /'umɐ 'vɛʃ/      | once (una vez) |
+| 291 | base                    | substantivo                 | /'ba.zɨ/         | base (base) |
+| 292 | ouvir                   | verbo                       | /o'viɾ/          | hear (escuchar) |
+| 293 | cavalo                  | substantivo                 | /kɐ'va.ɫu/       | horse (caballo) |
 | 294 | cortar                  | verbo                       | /koɾ'taɾ/        | cut (cortar) |
 | 295 | seguro                  | adjetivo                    | /sɨ'ɣu.ɾu/       | sure (seguro) |
 | 296 | assistir                | verbo                       | /ɐ.sis'tiɾ/      | watch (mirar) |

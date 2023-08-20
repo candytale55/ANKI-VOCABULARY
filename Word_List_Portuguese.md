@@ -332,11 +332,11 @@
 | 291 | base                    | substantivo | /'ba.zɨ/ | base (base) |
 | 292 | ouvir                   | verbo | /o'viɾ/ | hear (escuchar) |
 | 293 | cavalo                  | substantivo | /kɐ'va.ɫu/ | horse (caballo) |
-| 294 | cortar                  | verbo | /koɾ'taɾ/ | cut (cortar) |
-| 295 | seguro                  | adjetivo | /sɨ'ɣu.ɾu/ | sure (seguro) |
-| 296 | assistir                | verbo | /ɐ.sis'tiɾ/ | watch (mirar) |
-| 297 | cor                     | substantivo | /'koɾ/ | color (color) |
-| 298 | cara                    | substantivo | /'ka.ɾɐ/ | face (cara) |
+| 294 | cortar                  | verbo                       | /koɾ'taɾ/        | cut (cortar) |
+| 295 | seguro                  | adjetivo                    | /sɨ'ɣu.ɾu/       | sure (seguro) |
+| 296 | assistir                | verbo                       | /ɐ.sis'tiɾ/      | watch (mirar) |
+| 297 | cor                     | substantivo                 | /'koɾ/           | color (color) |
+| 298 | cara                    | substantivo                 | /'ka.ɾɐ/         | face (cara) |
 | 299 | madeira                 | substantivo                 | /mɐ'dɐj.ɾɐ/      | wood (madera) |
 | 300 | principal               | adjetivo                    | /pɾĩ.si'paɫ/     | main (principal) |
 | 301 | suficiente              | adjetivo                    | /sufiˈsjẽtʃi/    | enough       |

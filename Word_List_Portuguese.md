@@ -90,20 +90,20 @@
 | 63 | escrever                 | verbo | /is.kɾi'veɾ/ | write |
 | 64 | como                     | preposição | /'ko.mu/ | like |
 | 65a | assim                   | advérbio | /ɐ'sĩj/ | so (like this) |
-| 65b | tão                     | advérbio | /tɐ̃w̃/ | so (very) |
-| 66a | estes                   | determinante | /'ɛs.tis/ | these (male or mixed gender) |
-| 66b | estas                   | determinante | /'ɛs.tɐʃ/ | these (female) |
-| 67a | ela                     | pronome | /'e.lɐ/ | her (referring to her) |
-| 67b | seu                     | pronome | /sew/ | her (belonging to her - object is male or unspecified) |
-| 67c | sua                     | pronome | /'su.ɐ/ | her (belonging to her - object is female) |
-| 68 | longo                    | adjetivo | /'lõ.gu/ | long (male or unspecified) |
-| 68a | longa                   | adjetivo | /'lõ.gɐ/ | long (female) |
-| 69 | fazer                    | verbo | /fa'zeɾ/ | make |
-| 70 | coisa                    | substantivo | /'koj.zɐ/ | thing |
-| 71 | ver                      | verbo | /veɾ/ | see |
-| 72 | ele                      | pronome | /'ɛ.li/ | him |
-| 73 | dois                     | número | /dojʃ/ | two (male or mixed gender) |
-| 73a | duas                    | número | /'dwɐʃ/ | two (female) |
+| 65b | tão                     | advérbio                    | /tɐ̃w̃/ | so (very) |
+| 66a | estes                   | determinante                | /'ɛs.tis/ | these (male or mixed gender) |
+| 66b | estas                   | determinante                | /'ɛs.tɐʃ/ | these (female) |
+| 67a | ela                     | pronome                     | /'e.lɐ/ | her (referring to her) |
+| 67b | seu                     | pronome                     | /sew/ | her (belonging to her - object is male or unspecified) |
+| 67c | sua                     | pronome                     | /'su.ɐ/ | her (belonging to her - object is female) |
+| 68 | longo                    | adjetivo                    | /'lõ.gu/ | long (male or unspecified) |
+| 68a | longa                   | adjetivo                    | /'lõ.gɐ/ | long (female) |
+| 69 | fazer                    | verbo                       | /fa'zeɾ/ | make |
+| 70 | coisa                    | substantivo                 | /'koj.zɐ/ | thing |
+| 71 | ver                      | verbo                       | /veɾ/ | see |
+| 72 | ele                      | pronome                     | /'ɛ.li/ | him |
+| 73 | dois                     | número                      | /dojʃ/ | two (male or mixed gender) |
+| 73a | duas                    | número                      | /'dwɐʃ/ | two (female) |
 | 74 | tem                      | verbo                       | /tẽj/ | has |
 | 75 | olhar                    | verbo                       | /o'ʎaɾ/ | look |
 | 76 | mais                     | adjetivo                    | /majʃ/ | more |

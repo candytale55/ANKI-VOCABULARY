@@ -104,25 +104,25 @@
 | 72 | ele                      | pronome | /'ɛ.li/ | him |
 | 73 | dois                     | número | /dojʃ/ | two (male or mixed gender) |
 | 73a | duas                    | número | /'dwɐʃ/ | two (female) |
-| 74 | tem                      | verbo | /tẽj/ | has |
-| 75 | olhar                    | verbo | /o'ʎaɾ/ | look |
-| 76 | mais                     | adjetivo | /majʃ/ | more |
-| 77 | dia                      | substantivo | /'di.ɐ/ | day |
-| 78 | poderia                  | verbo | /po.de'ɾi.ɐ/ | could |
-| 79 | ir                       | verbo | /iɾ/ | go |
-| 80 | vir                      | verbo | /viɾ/ | come |
-| 81 | fez                      | verbo | /fɛʃ/ | did |
-| 82 | meu                      | pronome | /mew/ | my (object is male or unspecified) |
-| 82a | minha                   | pronome | /'mi.ɲɐ/ | my (object is female) |
-| 83 | som                      | substantivo | /sõj/ | sound |
-| 84 | não                      | determinante | /nɐ̃w̃/ | no |
-| 85 | mais                     | adjetivo | /majʃ/ | most |
-| 86 | número                   | substantivo | /'nu.me.ɾu/ | number |
-| 87 | quem                     | pronome | /kẽj/ | who |
-| 88 | sobre                    | preposição | /'so.bɾi/ | over |
-| 89 | saber                    | verbo | /sa'beɾ/ | know |
-| 90 | água                     | substantivo | /'a.gwɐ/ | water |
-| 91 | que                      | conjunção | /ke/ | than |
+| 74 | tem                      | verbo                       | /tẽj/ | has |
+| 75 | olhar                    | verbo                       | /o'ʎaɾ/ | look |
+| 76 | mais                     | adjetivo                    | /majʃ/ | more |
+| 77 | dia                      | substantivo                 | /'di.ɐ/ | day |
+| 78 | poderia                  | verbo                       | /po.de'ɾi.ɐ/ | could |
+| 79 | ir                       | verbo                       | /iɾ/ | go |
+| 80 | vir                      | verbo                       | /viɾ/ | come |
+| 81 | fez                      | verbo                       | /fɛʃ/ | did |
+| 82 | meu                      | pronome                     | /mew/ | my (object is male or unspecified) |
+| 82a | minha                   | pronome                     | /'mi.ɲɐ/ | my (object is female) |
+| 83 | som                      | substantivo                 | /sõj/ | sound |
+| 84 | não                      | determinante                | /nɐ̃w̃/ | no |
+| 85 | mais                     | adjetivo                    | /majʃ/ | most |
+| 86 | número                   | substantivo                 | /'nu.me.ɾu/ | number |
+| 87 | quem                     | pronome                     | /kẽj/ | who |
+| 88 | sobre                    | preposição                  | /'so.bɾi/ | over |
+| 89 | saber                    | verbo                       | /sa'beɾ/ | know |
+| 90 | água                     | substantivo                 | /'a.gwɐ/ | water |
+| 91 | que                      | conjunção                   | /ke/ | than |
 | 92 | chamar                   | verbo                       | /ʃa'maɾ/ | call |
 | 93 | primeiro                 | adjetivo                    | /pri'mej.ɾu/ | first (male or unspecified) |
 | 93a | primeira                | adjetivo                    | /pri'mej.ɾɐ/ | first (female) |

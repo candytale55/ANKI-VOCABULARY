@@ -123,24 +123,24 @@
 | 89 | saber                    | verbo | /sa'beɾ/ | know |
 | 90 | água                     | substantivo | /'a.gwɐ/ | water |
 | 91 | que                      | conjunção | /ke/ | than |
-| 92 | chamar                   | verbo | /ʃa'maɾ/ | call |
-| 93 | primeiro                 | adjetivo | /pri'mej.ɾu/ | first (male or unspecified) |
-| 93a | primeira                | adjetivo | /pri'mej.ɾɐ/ | first (female) |
-| 94a | gente                   | substantivo | /'ʒẽ.tʃi/ | people (informal, collective) |
-| 94b | pessoas                 | substantivo | /pe'so.ɐʃ/ | people (formal, plural) |
-| 95 | pode                     | verbo | /po'dɛ/ | may |
-| 96 | abaixo                   | advérbio | /ɐ'ba.jʃu/ | down |
-| 97 | lado                     | substantivo | /'la.du/ | side |
-| 98 | sido                     | verbo | /'si.du/ | been |
-| 99 | agora                    | advérbio | /ɐ'go.ɾɐ/ | now |
-| 100 | encontrar               | verbo | /ẽ.kõ.tɾa'ɾaɾ/ | find |
-| 101a | qualquer               | determinante | /kwɐɫ'keɾ/ | any (cualquier) |
-| 101b | algum                  | determinante | /ɐɫ'ɡũj/ | any (alguno) |
-| 102 | novo                    | adjetivo | /'no.vu/ | new |
-| 103 | trabalho                | substantivo | /tɾɐ'bɐ.ʎu/ | work |
-| 104 | parte                   | substantivo | /'paɾ.tʃi/ | part |
-| 105 | tomar                   | verbo | /to'maɾ/ | take |
-| 106 | obter                   | verbo | /o'bteɾ/ | get |
+| 92 | chamar                   | verbo                       | /ʃa'maɾ/ | call |
+| 93 | primeiro                 | adjetivo                    | /pri'mej.ɾu/ | first (male or unspecified) |
+| 93a | primeira                | adjetivo                    | /pri'mej.ɾɐ/ | first (female) |
+| 94a | gente                   | substantivo                 | /'ʒẽ.tʃi/ | people (informal, collective) |
+| 94b | pessoas                 | substantivo                 | /pe'so.ɐʃ/ | people (formal, plural) |
+| 95 | pode                     | verbo                       | /po'dɛ/ | may |
+| 96 | abaixo                   | advérbio                    | /ɐ'ba.jʃu/ | down |
+| 97 | lado                     | substantivo                 | /'la.du/ | side |
+| 98 | sido                     | verbo                       | /'si.du/ | been |
+| 99 | agora                    | advérbio                    | /ɐ'go.ɾɐ/ | now |
+| 100 | encontrar               | verbo                       | /ẽ.kõ.tɾa'ɾaɾ/ | find |
+| 101a | qualquer               | determinante                | /kwɐɫ'keɾ/ | any (cualquier) |
+| 101b | algum                  | determinante                | /ɐɫ'ɡũj/ | any (alguno) |
+| 102 | novo                    | adjetivo                    | /'no.vu/ | new |
+| 103 | trabalho                | substantivo                 | /tɾɐ'bɐ.ʎu/ | work |
+| 104 | parte                   | substantivo                 | /'paɾ.tʃi/ | part |
+| 105 | tomar                   | verbo                       | /to'maɾ/ | take |
+| 106 | obter                   | verbo                       | /o'bteɾ/ | get |
 | 107 | lugar                   | substantivo                 | /lu'gaɾ/ | place |
 | 108 | feito                   | verbo                       | /'fej.tu/ | made |
 | 109 | viver                   | verbo                       | /vi'veɾ/ | live |

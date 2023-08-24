@@ -147,40 +147,40 @@
 | 110 | onde                    | advérbio                    | /'õ.dɨ/ | where |
 | 111 | depois                  | preposição                  | /dɨ'pojʃ/ | after |
 | 112 | atrás                   | advérbio                    | /ɐ'tɾaʃ/ | back |
-| 113 | pequeno                 | adjetivo                    | /pɨ'ke.nu/ | little |
-| 114 | só                      | advérbio                    | /'so/ | only |
-| 115 | redondo                 | adjetivo                    | /ʀɨ'dõ.du/ | round |
-| 116 | homem                   | substantivo                 | /'o.mẽj/ | man |
-| 117 | ano                     | substantivo                 | /'ɐ.nu/ | year |
-| 118 | veio                    | verbo                       | /'vej.u/ | came |
-| 119 | mostrar                 | verbo                       | /muʃ'tɾaɾ/ | show |
-| 120 | cada                    | determinante                | /'ka.dɐ/ | every |
-| 121 | bom                     | adjetivo                    | /bõj/ | good |
-| 122 | me                      | pronome                     | /mɨ/ | me |
-| 123 | dar                     | verbo                       | /daɾ/ | give |
-| 124 | nosso                   | pronome                     | /'no.su/ | our |
-| 125 | debaixo                 | preposição                  | /dɨ'baj.ʃu/ | under |
-| 126 | nome                    | substantivo                 | /'no.mɨ/ | name |
-| 127 | muito                   | advérbio                    | /'mu.tu/ | very |
-| 128 | através de              | preposição                  | /ɐ.tɾɐ'veʃ dɨ/ | through |
-| 129 | só                      | advérbio                    | /'so/ | just |
-| 130 | forma                   | substantivo                 | /'foɾ.mɐ/ | form |
-| 131 | muito                   | advérbio                    | /'mu.tu/ | much |
-| 132a | grande                 | adjetivo                    | /'ɡɾɐ̃.dɨ/ | great (grande) |
-| 132b | grande                 | adjetivo                    | /'ɡɾɐ̃.dɨ/ | great (gran) |
-| 133 | pensar                  | verbo                       | /pẽ'zaɾ/ | think |
-| 134 | dizer                   | verbo                       | /di'zeɾ/ | say |
-| 135 | ajudar                  | verbo                       | /ɐʒu'daɾ/ | help |
-| 136 | baixo                   | adjetivo                    | /'baj.ʃu/ | low |
-| 137 | linha                   | substantivo                 | /'li.ɲɐ/ | line |
-| 138 | antes                   | preposição                  | /ɐ̃'teʃ/ | before |
-| 139 | girar                   | verbo                       | /ʒi'ɾaɾ/ | turn |
-| 140 | causa                   | substantivo                 | /'kaw.zɐ/ | cause |
-| 141 | mesmo                   | adjetivo                    | /'meʒ.mu/ | same |
-| 142 | significar              | verbo                       | /si.ɲi.fi'kaɾ/ | mean |
-| 143 | diferir                 | verbo                       | /di.fɨ'ɾiɾ/ | differ |
-| 144 | mover                   | verbo                       | /mu'veɾ/ | move |
-| 145a | correto                | adjetivo                    | /ko're.tu/ | right (correcto) |
+| 113 | pequeno                 | adjetivo                    | /pɨ'ke.nu/       | little |
+| 114 | só                      | advérbio                    | /'so/            | only |
+| 115 | redondo                 | adjetivo                    | /ʀɨ'dõ.du/       | round |
+| 116 | homem                   | substantivo                 | /'o.mẽj/         | man |
+| 117 | ano                     | substantivo                 | /'ɐ.nu/          | year |
+| 118 | veio                    | verbo                       | /'vej.u/         | came |
+| 119 | mostrar                 | verbo                       | /muʃ'tɾaɾ/       | show |
+| 120 | cada                    | determinante                | /'ka.dɐ/         | every |
+| 121 | bom                     | adjetivo                    | /bõj/            | good |
+| 122 | me                      | pronome                     | /mɨ/             | me |
+| 123 | dar                     | verbo                       | /daɾ/            | give |
+| 124 | nosso                   | pronome                     | /'no.su/         | our |
+| 125 | debaixo                 | preposição                  | /dɨ'baj.ʃu/      | under |
+| 126 | nome                    | substantivo                 | /'no.mɨ/         | name |
+| 127 | muito                   | advérbio                    | /'mu.tu/         | very |
+| 128 | através de              | preposição                  | /ɐ.tɾɐ'veʃ dɨ/   | through |
+| 129 | só                      | advérbio                    | /'so/            | just |
+| 130 | forma                   | substantivo                 | /'foɾ.mɐ/        | form |
+| 131 | muito                   | advérbio                    | /'mu.tu/         | much |
+| 132a | grande                 | adjetivo                    | /'ɡɾɐ̃.dɨ/        | great (grande) |
+| 132b | grande                 | adjetivo                    | /'ɡɾɐ̃.dɨ/        | great (gran) |
+| 133 | pensar                  | verbo                       | /pẽ'zaɾ/         | think |
+| 134 | dizer                   | verbo                       | /di'zeɾ/         | say |
+| 135 | ajudar                  | verbo                       | /ɐʒu'daɾ/        | help |
+| 136 | baixo                   | adjetivo                    | /'baj.ʃu/        | low |
+| 137 | linha                   | substantivo                 | /'li.ɲɐ/         | line |
+| 138 | antes                   | preposição                  | /ɐ̃'teʃ/          | before |
+| 139 | girar                   | verbo                       | /ʒi'ɾaɾ/         | turn |
+| 140 | causa                   | substantivo                 | /'kaw.zɐ/        | cause |
+| 141 | mesmo                   | adjetivo                    | /'meʒ.mu/        | same |
+| 142 | significar              | verbo                       | /si.ɲi.fi'kaɾ/   | mean |
+| 143 | diferir                 | verbo                       | /di.fɨ'ɾiɾ/      | differ |
+| 144 | mover                   | verbo                       | /mu'veɾ/         | move |
+| 145a | correto                | adjetivo                    | /ko're.tu/       | right (correcto) |
 | 145b | direito                | adjetivo                    | /di'ɾej.tu/      | right (derecho) |
 | 146 | rapaz                   | substantivo                 | /ʀɐ'paʃ/         | boy |
 | 147 | velho                   | adjetivo                    | /'ve.ʎu/         | old |

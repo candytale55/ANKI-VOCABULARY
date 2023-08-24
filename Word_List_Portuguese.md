@@ -264,28 +264,28 @@
 | 224 | último                  | adjetivo                    | /'ul.ti.mu/ | last (último) |
 | 225 | porta                   | substantivo                 | /'pɔɾ.tɐ/ | door (puerta) |
 | 226 | entre                   | preposição                  | /ẽ'tɾɨ/ | between (entre) |
-| 227 | cidade                  | substantivo                 | /si'da.dɨ/ | city (ciudad) |
-| 228 | árvore                  | substantivo                 | /'aɾ.vɔ.ɾɨ/ | tree (árbol) |
-| 229 | cruz                    | substantivo                 | /kɾuʃ/ | cross (cruz) |
-| 230 | desde                   | preposição                  | /dɨs'dɨ/ | since (desde) |
-| 231 | duro                    | adjetivo                    | /'du.ɾu/ | hard (duro) |
-| 232 | começar                 | verbo                       | /ko.mɨ'saɾ/ | start (comenzar) |
-| 233 | poderia                 | verbo modal                 | /po.dɨ'ɾi.ɐ/ | might (podría) |
-| 234 | história                | substantivo                 | /iʃ'to.ɾi.ɐ/ | story (historia) |
-| 235 | viu                     | verbo                       | /viw/ | saw (vio) |
-| 236 | longe                   | advérbio                    | /'lõ.ʒɨ/ | far (lejos) |
-| 237 | mar                     | substantivo                 | /maɾ/ | sea (mar) |
-| 238a | desenhar               | verbo                       | /dɨ'ze.ɲaɾ/ | draw (dibujar) |
-| 238b | trazer                 | verbo                       | /tɾɐ'zeɾ/ | draw (sacar, en el contexto de "draw a card") |
-| 239 | esquerda                | adjetivo                    | /iʃ'kɛɾ.dɐ/ | left (izquierda) |
-| 240 | tarde                   | adjetivo                    | /'taɾ.dɨ/ | late (tarde) |
-| 241 | correr                  | verbo                       | /ko'ɾeɾ/ | run (correr) |
-| 242 | não                     | contração                   | /nɐ̃w/ | don't (no) |
-| 243 | enquanto                | conjunção                   | /ẽ.'kwã.tu/ | while (mientras) |
-| 244 | pressionar              | verbo                       | /pɾɨ.ʃi'o.naɾ/ | press (presionar) |
-| 245 | perto                   | adjetivo                    | /'pɛɾ.tu/ | close (cerca) |
-| 246 | noite                   | substantivo                 | /'noj.tɨ/ | night (noche) |
-| 247 | real                    | adjetivo                    | /ʁe'al/ | real (real) |
+| 227 | cidade                  | substantivo                 | /si'da.dɨ/       | city (ciudad) |
+| 228 | árvore                  | substantivo                 | /'aɾ.vɔ.ɾɨ/      | tree (árbol) |
+| 229 | cruz                    | substantivo                 | /kɾuʃ/           | cross (cruz) |
+| 230 | desde                   | preposição                  | /dɨs'dɨ/         | since (desde) |
+| 231 | duro                    | adjetivo                    | /'du.ɾu/         | hard (duro) |
+| 232 | começar                 | verbo                       | /ko.mɨ'saɾ/      | start (comenzar) |
+| 233 | poderia                 | verbo modal                 | /po.dɨ'ɾi.ɐ/     | might (podría) |
+| 234 | história                | substantivo                 | /iʃ'to.ɾi.ɐ/     | story (historia) |
+| 235 | viu                     | verbo                       | /viw/            | saw (vio) |
+| 236 | longe                   | advérbio                    | /'lõ.ʒɨ/         | far (lejos) |
+| 237 | mar                     | substantivo                 | /maɾ/            | sea (mar) |
+| 238a | desenhar               | verbo                       | /dɨ'ze.ɲaɾ/      | draw (dibujar) |
+| 238b | trazer                 | verbo                       | /tɾɐ'zeɾ/        | draw (sacar, en el contexto de "draw a card") |
+| 239 | esquerda                | adjetivo                    | /iʃ'kɛɾ.dɐ/      | left (izquierda) |
+| 240 | tarde                   | adjetivo                    | /'taɾ.dɨ/        | late (tarde) |
+| 241 | correr                  | verbo                       | /ko'ɾeɾ/         | run (correr) |
+| 242 | não                     | contração                   | /nɐ̃w/            | don't (no) |
+| 243 | enquanto                | conjunção                   | /ẽ.'kwã.tu/      | while (mientras) |
+| 244 | pressionar              | verbo                       | /pɾɨ.ʃi'o.naɾ/   | press (presionar) |
+| 245 | perto                   | adjetivo                    | /'pɛɾ.tu/        | close (cerca) |
+| 246 | noite                   | substantivo                 | /'noj.tɨ/        | night (noche) |
+| 247 | real                    | adjetivo                    | /ʁe'al/          | real (real) |
 | 248 | vida                    | substantivo                 | /'vi.dɐ/         | life (vida) |
 | 249 | poucos                  | adjetivo                    | /'pow.kus/       | few (pocos) |
 | 250 | parar                   | verbo                       | /pɐ'ɾaɾ/         | stop (parar) |

@@ -142,11 +142,11 @@
 | 105 | tomar                   | verbo                       | /to'maɾ/ | take |
 | 106 | obter                   | verbo                       | /o'bteɾ/ | get |
 | 107 | lugar                   | substantivo                 | /lu'gaɾ/ | place |
-| 108 | feito                   | verbo                       | /'fej.tu/ | made |
-| 109 | viver                   | verbo                       | /vi'veɾ/ | live |
-| 110 | onde                    | advérbio                    | /'õ.dɨ/ | where |
-| 111 | depois                  | preposição                  | /dɨ'pojʃ/ | after |
-| 112 | atrás                   | advérbio                    | /ɐ'tɾaʃ/ | back |
+| 108 | feito                   | verbo                       | /'fej.tu/        | made |
+| 109 | viver                   | verbo                       | /vi'veɾ/         | live |
+| 110 | onde                    | advérbio                    | /'õ.dɨ/          | where |
+| 111 | depois                  | preposição                  | /dɨ'pojʃ/        | after |
+| 112 | atrás                   | advérbio                    | /ɐ'tɾaʃ/         | back |
 | 113 | pequeno                 | adjetivo                    | /pɨ'ke.nu/       | little |
 | 114 | só                      | advérbio                    | /'so/            | only |
 | 115 | redondo                 | adjetivo                    | /ʀɨ'dõ.du/       | round |

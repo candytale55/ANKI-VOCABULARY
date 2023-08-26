@@ -33,68 +33,68 @@
 | 16d | convosco                | pronome                     | /kõ.'vɔʃ.ku/   | with you all (plural) |
 | 17 | como                     | conjunção                   | /'ko.mu/ | as |
 | 18 | eu                       | pronome                     | /ew/ | I |
-| 19a | seu                     | pronome                     | /sew/ | his or hers, masculine possession |
-| 19b | sua                     | pronome                     | /'su.ɐ/ | his or hers, femenine possession |
-| 20a | eles                    | pronome                     | /'e.lis/ | they (masculine or mixed gender) |
-| 20b | elas                    | pronome                     | /'e.lɐs/ | they (feminine) |
-| 21a | ser                     | verbo                       | /seɾ/ | be (permanent) |
-| 21b | estar                   | verbo                       | /is.'taɾ/ | be (temporary) |
-| 22 | em                       | preposição                  | /ẽj/ | at |
-| 23 | um                       | substantivo                 | /ũ/ | one |
-| 24 | ter                      | verbo                       | /teɾ/ | have |
-| 25 | este                     | pronome                     | /'es.t(ʃ)i/ | this (male) |
-| 26 | de                       | preposição                  | /dʒi/ | from |
-| 27 | ou                       | conjunção                   | /ow/ | or |
-| 28a | tinha                   | verbo                       | /'tʃi.ɲɐ/ | had (past of have) |
-| 28b | havia                   | verbo                       | /a.'vi.ɐ/ | had (past of have - auxiliary) |
-| 29 | por                      | preposição                  | /poɾ/ | by |
-| 30 | quente                   | adjetivo                    | /'kẽ.t(ʃ)i/ | hot |
-| 31 | mas                      | conjunção                   | /maʃ/ | but |
-| 32 | alguns                   | pronome                     | /ɐ.'gũjs/ | some |
-| 33 | que                      | pronome                     | /ke/ | what |
-| 34 | lá                       | advérbio                    | /la/ | there |
-| 35 | nós                      | pronome                     | /nɔs/ | we |
-| 36 | pode                     | verbo                       | /'po.d(ʃ)i/ | can |
-| 37 | fora                     | advérbio                    | /'fo.ɾɐ/ | out |
-| 38 | outro                    | adjetivo                    | /'o.tɾu/ | other |
-| 39a | eram                    | verbo                       | /'e.ɾɐ̃w/ | were (past of be - permanent) |
-| 39b | estavam                 | verbo                       | /is.'ta.vɐ̃w/ | were (past of be - temporary) |
-| 40 | todos                    | adjetivo                    | /'to.duʃ/ | all |
-| 41 | seu                      | pronome                     | /sew/ | your |
-| 42 | quando                   | advérbio                    | /'kwɐ̃.du/ | when |
-| 43 | acima                    | advérbio                    | /ɐ.'si.mɐ/ | up |
-| 44 | usar                     | verbo                       | /u.'zaɾ/ | use |
-| 45 | palavra                  | substantivo                 | /pa.'la.vɾɐ/ | word |
-| 46 | como                     | advérbio                    | /'ko.mu/ | how |
-| 47 | disse                    | verbo                       | /'di.si/ | said |
-| 48 | uma                      | artigo                      | /'u.mɐ/ | an (female) |
-| 49 | cada                     | determinante                | /'ka.dɐ/ | each |
-| 50 | ela                      | pronome                     | /'e.lɐ/ | she |
-| 51a | qual                    | pronome                     | /ku'al/ | which (single) |
-| 51b | quais                   | pronome                     | /kajʃ/ | which (plural) |
-| 52 | fazer                    | verbo                       | /fa'zeɾ/ | do |
-| 53 | seu                      | pronome                     | /sew/ | their (belonging to a male individual or a mixed group of individuals) |
-| 53a | sua                     | pronome                     | /'su.ɐ/ | their (belonging to a female individual or group of females) |
-| 54 | tempo                    | substantivo                 | /'tẽ.pu/ | time |
-| 55 | se                       | conjunção                   | /si/ | if |
-| 56 | será                     | verbo                       | /se'ɾa/ | will (future tense of the verb 'be') |
-| 57a | maneira                 | substantivo                 | /ma'nejɾa/ | way (manner, way of doing something) |
-| 57b | caminho                 | substantivo                 | /ka'miɲu/ | way (path, route) |
-| 58 | sobre                    | preposição                  | /'so.bɾi/ | about |
-| 59 | muitos                   | adjetivo                    | /'muj.tuʃ/ | many (male or mixed gender) |
-| 59a | muitas                  | adjetivo                    | /'muj.tɐʃ/ | many (female) |
-| 60 | então                    | advérbio                    | /ẽ'tɐ̃w̃/ | then |
-| 61 | eles                     | pronome                     | /'ɛ.lis/ | them (male or mixed gender) |
-| 61a | elas                    | pronome                     | /'ɛ.lɐʃ/ | them (female) |
-| 62 | seria                    | verbo                       | /se'ɾia/ | would |
-| 63 | escrever                 | verbo                       | /is.kɾi'veɾ/ | write |
-| 64 | como                     | preposição                  | /'ko.mu/ | like |
-| 65a | assim                   | advérbio                    | /ɐ'sĩj/ | so (like this) |
-| 65b | tão                     | advérbio                    | /tɐ̃w̃/ | so (very) |
-| 66a | estes                   | determinante                | /'ɛs.tis/ | these (male or mixed gender) |
-| 66b | estas                   | determinante                | /'ɛs.tɐʃ/ | these (female) |
-| 67a | ela                     | pronome                     | /'e.lɐ/ | her (referring to her) |
-| 67b | seu                     | pronome                     | /sew/ | her (belonging to her - object is male or unspecified) |
+| 19a | seu                     | pronome                     | /sew/           | his or hers, masculine possession |
+| 19b | sua                     | pronome                     | /'su.ɐ/         | his or hers, femenine possession |
+| 20a | eles                    | pronome                     | /'e.lis/        | they (masculine or mixed gender) |
+| 20b | elas                    | pronome                     | /'e.lɐs/        | they (feminine) |
+| 21a | ser                     | verbo                       | /seɾ/           | be (permanent) |
+| 21b | estar                   | verbo                       | /is.'taɾ/       | be (temporary) |
+| 22 | em                       | preposição                  | /ẽj/            | at |
+| 23 | um                       | substantivo                 | /ũ/             | one |
+| 24 | ter                      | verbo                       | /teɾ/           | have |
+| 25 | este                     | pronome                     | /'es.t(ʃ)i/     | this (male) |
+| 26 | de                       | preposição                  | /dʒi/           | from |
+| 27 | ou                       | conjunção                   | /ow/            | or |
+| 28a | tinha                   | verbo                       | /'tʃi.ɲɐ/       | had (past of have) |
+| 28b | havia                   | verbo                       | /a.'vi.ɐ/       | had (past of have - auxiliary) |
+| 29 | por                      | preposição                  | /poɾ/           | by |
+| 30 | quente                   | adjetivo                    | /'kẽ.t(ʃ)i/     | hot |
+| 31 | mas                      | conjunção                   | /maʃ/           | but |
+| 32 | alguns                   | pronome                     | /ɐ.'gũjs/       | some |
+| 33 | que                      | pronome                     | /ke/            | what |
+| 34 | lá                       | advérbio                    | /la/            | there |
+| 35 | nós                      | pronome                     | /nɔs/           | we |
+| 36 | pode                     | verbo                       | /'po.d(ʃ)i/     | can |
+| 37 | fora                     | advérbio                    | /'fo.ɾɐ/        | out |
+| 38 | outro                    | adjetivo                    | /'o.tɾu/        | other |
+| 39a | eram                    | verbo                       | /'e.ɾɐ̃w/        | were (past of be - permanent) |
+| 39b | estavam                 | verbo                       | /is.'ta.vɐ̃w/    | were (past of be - temporary) |
+| 40 | todos                    | adjetivo                    | /'to.duʃ/       | all |
+| 41 | seu                      | pronome                     | /sew/           | your |
+| 42 | quando                   | advérbio                    | /'kwɐ̃.du/       | when |
+| 43 | acima                    | advérbio                    | /ɐ.'si.mɐ/      | up |
+| 44 | usar                     | verbo                       | /u.'zaɾ/        | use |
+| 45 | palavra                  | substantivo                 | /pa.'la.vɾɐ/    | word |
+| 46 | como                     | advérbio                    | /'ko.mu/        | how |
+| 47 | disse                    | verbo                       | /'di.si/        | said |
+| 48 | uma                      | artigo                      | /'u.mɐ/         | an (female) |
+| 49 | cada                     | determinante                | /'ka.dɐ/        | each |
+| 50 | ela                      | pronome                     | /'e.lɐ/         | she |
+| 51a | qual                    | pronome                     | /ku'al/         | which (single) |
+| 51b | quais                   | pronome                     | /kajʃ/          | which (plural) |
+| 52 | fazer                    | verbo                       | /fa'zeɾ/        | do |
+| 53 | seu                      | pronome                     | /sew/           | their (belonging to a male individual or a mixed group of individuals) |
+| 53a | sua                     | pronome                     | /'su.ɐ/         | their (belonging to a female individual or group of females) |
+| 54 | tempo                    | substantivo                 | /'tẽ.pu/        | time |
+| 55 | se                       | conjunção                   | /si/            | if |
+| 56 | será                     | verbo                       | /se'ɾa/         | will (future tense of the verb 'be') |
+| 57a | maneira                 | substantivo                 | /ma'nejɾa/      | way (manner, way of doing something) |
+| 57b | caminho                 | substantivo                 | /ka'miɲu/       | way (path, route) |
+| 58 | sobre                    | preposição                  | /'so.bɾi/       | about |
+| 59 | muitos                   | adjetivo                    | /'muj.tuʃ/      | many (male or mixed gender) |
+| 59a | muitas                  | adjetivo                    | /'muj.tɐʃ/      | many (female) |
+| 60 | então                    | advérbio                    | /ẽ'tɐ̃w̃/         | then |
+| 61 | eles                     | pronome                     | /'ɛ.lis/        | them (male or mixed gender) |
+| 61a | elas                    | pronome                     | /'ɛ.lɐʃ/        | them (female) |
+| 62 | seria                    | verbo                       | /se'ɾia/        | would |
+| 63 | escrever                 | verbo                       | /is.kɾi'veɾ/    | write |
+| 64 | como                     | preposição                  | /'ko.mu/        | like |
+| 65a | assim                   | advérbio                    | /ɐ'sĩj/         | so (like this) |
+| 65b | tão                     | advérbio                    | /tɐ̃w̃/           | so (very) |
+| 66a | estes                   | determinante                | /'ɛs.tis/       | these (male or mixed gender) |
+| 66b | estas                   | determinante                | /'ɛs.tɐʃ/       | these (female) |
+| 67a | ela                     | pronome                     | /'e.lɐ/         | her (referring to her) |
+| 67b | seu                     | pronome                     | /sew/           | her (belonging to her - object is male or unspecified) |
 | 67c | sua                     | pronome                     | /'su.ɐ/          | her (belonging to her - object is female) |
 | 68 | longo                    | adjetivo                    | /'lõ.gu/         | long (male or unspecified) |
 | 68a | longa                   | adjetivo                    | /'lõ.gɐ/         | long (female) |

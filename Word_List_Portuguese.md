@@ -1,38 +1,38 @@
 # Portuguese Word List with IPA
 
 | N° | Palavra em português | Tipo de palavra | IPA português | Palavra em inglês |
-|----|--------------------------|-----------------------------|---|---|
-| 1a | o                        | artigo                      | /u/ | the (male, singular) |
-| 1b | a                        | artigo                      | /ɐ/ | the (female, singular) |
-| 1c | os                       | artigo                      | /uʃ/ | the (male, plural) |
-| 1d | as                       | artigo                      | /ɐʃ/ | the (female, plural) |
-| 2  | de                       | preposição                  | /dʒi/ | of |
-| 3  | para                     | preposição                  | /'pa.ɾɐ/ | to |
-| 4  | e                        | conjunção                   | /i/ | and |
-| 5a | um                       | artigo                      | /ũ/     | a (masculine, singular)  |
-| 5b | uma                      | artigo                      | /ˈumə/  | a (feminine, singular) |
-| 5c | uns                      | artigo                      | /ũs/    | some (masculine, plural) |
-| 5d | umas                     | artigo                      | /ˈuməs/ | some (feminine, plural) |
-| 6  | em                       | preposição                  | /ẽj/ | in |
-| 7  | é                        | verbo                       | /e/ | is |
-| 8  | ele                      | pronome                     | /'e.li/ | it |
-| 9a | tu                       | pronome                     | /tu/    | you (informal, singular, mostly used in European PT) |
-| 9b | você                     | pronome                     | /vo.'se/ | you (formal and informal (BR), singular) |
-| 9c | vocês                    | pronome                     | /vo.'seʃ/ | you (formal and informal, plural)   |
-| 9d | vós                      | pronome                     | /vɔʃ/   | you (formal, plural, archaic)   |
-| 10 | que                      | conjunção                   | /ke/ | that |
-| 11 | ele                      | pronome                     | /'e.li/ | he |
-| 12 | foi                      | verbo                       | /foj/ | was |
-| 13 | para                     | preposição                  | /'pa.ɾɐ/ | for |
-| 14 | em                       | preposição                  | /ẽj/ | on (context: em cima) |
-| 15 | são                      | verbo                       | /sɐ̃w̃/ | are |
-| 16 | com                      | preposição                  | /kõj/ | with |
-| 16a | comigo                  | pronome                     | /ku.'mi.ɡu/    | with me           |
-| 16b | contigo                 | pronome                     | /kõ.'ti.ɡu/    | with you (singular)          |
-| 16c | connosco                | pronome                     | /kõ.'nɔʃ.ku/   | with us           |
-| 16d | convosco                | pronome                     | /kõ.'vɔʃ.ku/   | with you all (plural) |
-| 17 | como                     | conjunção                   | /'ko.mu/ | as |
-| 18 | eu                       | pronome                     | /ew/ | I |
+|----|--------------------------|-----------------------------|-----------------|----------------------|
+| 1a | o                        | artigo                      | /u/             | the (male, singular) |
+| 1b | a                        | artigo                      | /ɐ/             | the (female, singular) |
+| 1c | os                       | artigo                      | /uʃ/            | the (male, plural) |
+| 1d | as                       | artigo                      | /ɐʃ/            | the (female, plural) |
+| 2  | de                       | preposição                  | /dʒi/           | of |
+| 3  | para                     | preposição                  | /'pa.ɾɐ/        | to |
+| 4  | e                        | conjunção                   | /i/             | and |
+| 5a | um                       | artigo                      | /ũ/             | a (masculine, singular)  |
+| 5b | uma                      | artigo                      | /ˈumə/          | a (feminine, singular) |
+| 5c | uns                      | artigo                      | /ũs/            | some (masculine, plural) |
+| 5d | umas                     | artigo                      | /ˈuməs/         | some (feminine, plural) |
+| 6  | em                       | preposição                  | /ẽj/            | in |
+| 7  | é                        | verbo                       | /e/             | is |
+| 8  | ele                      | pronome                     | /'e.li/         | it |
+| 9a | tu                       | pronome                     | /tu/            | you (informal, singular, mostly used in European PT) |
+| 9b | você                     | pronome                     | /vo.'se/        | you (formal and informal (BR), singular) |
+| 9c | vocês                    | pronome                     | /vo.'seʃ/       | you (formal and informal, plural)   |
+| 9d | vós                      | pronome                     | /vɔʃ/           | you (formal, plural, archaic)   |
+| 10 | que                      | conjunção                   | /ke/            | that |
+| 11 | ele                      | pronome                     | /'e.li/         | he |
+| 12 | foi                      | verbo                       | /foj/           | was |
+| 13 | para                     | preposição                  | /'pa.ɾɐ/        | for |
+| 14 | em                       | preposição                  | /ẽj/            | on (context: em cima) |
+| 15 | são                      | verbo                       | /sɐ̃w̃/           | are |
+| 16 | com                      | preposição                  | /kõj/           | with |
+| 16a | comigo                  | pronome                     | /ku.'mi.ɡu/     | with me           |
+| 16b | contigo                 | pronome                     | /kõ.'ti.ɡu/     | with you (singular)          |
+| 16c | connosco                | pronome                     | /kõ.'nɔʃ.ku/    | with us           |
+| 16d | convosco                | pronome                     | /kõ.'vɔʃ.ku/    | with you all (plural) |
+| 17 | como                     | conjunção                   | /'ko.mu/        | as |
+| 18 | eu                       | pronome                     | /ew/            | I |
 | 19a | seu                     | pronome                     | /sew/           | his or hers, masculine possession |
 | 19b | sua                     | pronome                     | /'su.ɐ/         | his or hers, femenine possession |
 | 20a | eles                    | pronome                     | /'e.lis/        | they (masculine or mixed gender) |

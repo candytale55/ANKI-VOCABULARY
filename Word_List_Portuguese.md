@@ -186,85 +186,85 @@
 | 147 | velho                   | adjetivo         | /'ve.ʎu/         | old |
 | 148 | demais                  | advérbio         | /dɨ'majʃ/        | too |
 | 149 | faz                     | verbo            | /faʃ/            | does |
-| 150 | dizer                   | verbo                       | /di'zeɾ/         | tell |
-| 151 | frase                   | substantivo                 | /'fɾa.zɨ/        | sentence (part of speech) (oración) |
-| 152 | definir                 | verbo                       | /dɨ.fi'nir/      | set (establecer) |
-| 153 | três                    | número                      | /'tɾeʃ/          | three (tres) |
-| 154 | querer                  | verbo                       | /kɨ'ɾeɾ/         | want (querer) |
-| 155 | ar                      | substantivo                 | /aɾ/             | air (aire) |
-| 156 | bem                     | advérbio                    | /bɐ̃j/            | well (bien) |
-| 157 | também                  | advérbio                    | /tɐ̃'bẽj/         | also (también) |
-| 158a | jogar                  | verbo                       | /ʒo'gaɾ/         | play (jugar) |
-| 158b | tocar                  | verbo                       | /to'kaɾ/         | play (tocar un instrumento) |
-| 159 | pequeno                 | adjetivo                    | /pɨ'ke.nu/       | small (pequeño) |
-| 160 | fim                     | substantivo                 | /fĩj/            | end (fin) |
-| 161 | colocar                 | verbo                       | /ko.lo'kaɾ/      | put (poner) |
-| 162 | casa                    | substantivo                 | /'ka.zɐ/         | home (casa) |
-| 163 | ler                     | verbo                       | /leɾ/            | read (leer) |
-| 164 | mão                     | substantivo                 | /mɐ̃w̃/            | hand (mano) |
-| 165 | porto                   | substantivo                 | /'poɾ.tu/        | port (puerto) |
-| 166 | grande                  | adjetivo                    | /'ɡɾɐ̃.dɨ/        | large (grande) |
-| 167 | soletrar                | verbo                       | /so.lɨ'tɾaɾ/     | spell (deletrear) |
-| 168 | adicionar               | verbo                       | /ɐ.di.si.o'naɾ/  | add (añadir) |
-| 169 | até                     | advérbio                    | /ɐ'te/           | even (incluso) |
-| 170 | terra                   | substantivo                 | /'tɛ.ʀɐ/         | land (tierra) |
-| 171 | aqui                    | advérbio                    | /ɐ'ki/           | here (aquí) |
-| 172 | deve                    | verbo modal                 | /'dɛ.vɨ/         | must (debe) |
-| 173 | grande                  | adjetivo                    | /'ɡɾɐ̃.dɨ/        | big (grande) |
-| 174 | alto                    | adjetivo                    | /'aɫ.tu/         | high (alto) |
-| 175 | tal                     | determinante                | /tal/            | such (tal) |
-| 176 | seguir                  | verbo                       | /sɨ'giɾ/         | follow (seguir) |
-| 177 | atuar                   | verbo                       | /ɐ.tu'aɾ/        | act (actuar) |
-| 178 | por que                 | advérbio                    | /poɾ ke/         | why (por qué) |
-| 179 | perguntar               | verbo                       | /pɨɾ.gũ'taɾ/     | ask (preguntar) |
-| 180 | homens                  | substantivo                 | /'o.mẽjʃ/        | men (hombres) |
-| 181 | mudar                   | verbo                       | /mu'daɾ/         | change (cambiar) |
-| 182 | foi                     | verbo                       | /fɔj/            | went (fue) |
-| 183 | luz                     | substantivo                 | /luʃ/            | light (luz) |
-| 184 | tipo                    | substantivo                 | /'ti.pu/         | kind (tipo) |
-| 185 | fora                    | preposição                  | /'fɔ.ɾɐ/         | off (fuera) |
-| 186 | necessitar              | verbo                       | /nɨ.sɨ.si'taɾ/   | need (necesitar) |
-| 187 | casa                    | substantivo                 | /'ka.zɐ/         | house (casa) |
-| 188 | imagem                  | substantivo                 | /i'ma.ʒẽj/       | picture (imagen) |
-| 189 | tentar                  | verbo                       | /tẽ'taɾ/         | try (intentar) |
-| 190 | nós                     | pronome                     | /noʃ/            | us (nosotros) |
-| 191 | novamente               | advérbio                    | /no.vɐ.mẽj'tɨ/   | again (de nuevo) |
-| 192 | animal                  | substantivo                 | /ɐ.ni'mal/       | animal |
-| 193 | ponto                   | substantivo                 | /'põ.tu/         | point (punto) |
-| 194 | mãe                     | substantivo                 | /mɐ̃j/            | mother (madre) |
-| 195 | mundo                   | substantivo                 | /'mũ.du/         | world (mundo) |
-| 196 | perto                   | preposição                  | /'pɛɾ.tu/        | near (cerca) |
-| 197 | construir               | verbo                       | /kõʃ.tɾu'iɾ/     | build (construir) |
-| 198 | eu mesmo                | substantivo                 | /ew 'meʒ.mu/     | self (yo mismo) |
-| 199 | terra                   | substantivo                 | /'tɛ.ʀɐ/         | earth (tierra) |
-| 200 | pai                     | substantivo                 | /paɪ/            | father (padre) |
-| 201 | cabeça                  | substantivo                 | /kɐ'be.sɐ/       | head (cabeza) |
-| 202 | ficar de pé             | verbo                       | /fi'kaɾ dɨ 'pe/  | stand (estar de pie) |
-| 203 | possuir                 | verbo                       | /po'sujɾ/        | own (poseer) |
-| 204 | página                  | substantivo                 | /pa'ʒi.nɐ/       | page (página) |
-| 205 | deveria                 | verbo modal                 | /dɨ've.ɾi.ɐ/     | should (debería) |
-| 206 | país                    | substantivo                 | /pa'iʃ/          | country (país) |
-| 207 | encontrou               | verbo                       | /ẽ.kõ.tɾow/      | found (encontró) |
-| 208 | resposta                | substantivo                 | /ʁɨʃ'poʃ.tɐ/     | answer (respuesta) |
-| 209 | escola                  | substantivo                 | /iʃ'ko.lɐ/       | school (escuela) |
-| 210 | crescer                 | verbo                       | /kɾe'seɾ/        | grow (crecer) |
-| 211 | estudo                  | substantivo                 | /iʃ'tu.ðu/       | study (estudio) |
-| 212 | ainda                   | advérbio                    | /ɐ'ĩ.ðɐ/         | still (todavía) |
-| 213 | aprender                | verbo                       | /ɐ.pɾẽ'deɾ/      | learn (aprender) |
-| 214 | planta                  | substantivo                 | /'plɐ̃.tɐ/        | plant (planta) |
-| 215 | cobrir                  | verbo                       | /ko'bɾiɾ/        | cover (cubrir) |
-| 216 | comida                  | substantivo                 | /ko'mi.ðɐ/       | food (comida) |
-| 217 | sol                     | substantivo                 | /sɔɫ/            | sun (sol) |
-| 218 | quatro                  | número                      | /'kwɐ.tɾu/       | four (cuatro) |
-| 219 | pensamento              | substantivo                 | /pẽ.sɐ'mẽ.tu/    | thought (pensamiento) |
-| 220 | deixar                  | verbo                       | /dej'ʃaɾ/        | let (dejar) |
-| 221 | manter                  | verbo                       | /mɐ̃'teɾ/         | keep (mantener) |
-| 222 | olho                    | substantivo                 | /'o.ʎu/          | eye (ojo) |
-| 223 | nunca                   | advérbio                    | /'nũ.kɐ/         | never (nunca) |
-| 224 | último                  | adjetivo                    | /'ul.ti.mu/      | last (último) |
-| 225 | porta                   | substantivo                 | /'pɔɾ.tɐ/        | door (puerta) |
-| 226 | entre                   | preposição                  | /ẽ'tɾɨ/          | between (entre) |
-| 227 | cidade                  | substantivo                 | /si'da.dɨ/       | city (ciudad) |
+| 150 | dizer                   | verbo            | /di'zeɾ/         | tell |
+| 151 | frase                   | substantivo      | /'fɾa.zɨ/        | sentence (part of speech) (oración) |
+| 152 | definir                 | verbo            | /dɨ.fi'nir/      | set (establecer) |
+| 153 | três                    | número           | /'tɾeʃ/          | three (tres) |
+| 154 | querer                  | verbo            | /kɨ'ɾeɾ/         | want (querer) |
+| 155 | ar                      | substantivo      | /aɾ/             | air (aire) |
+| 156 | bem                     | advérbio         | /bɐ̃j/            | well (bien) |
+| 157 | também                  | advérbio         | /tɐ̃'bẽj/         | also (también) |
+| 158a | jogar                  | verbo            | /ʒo'gaɾ/         | play (jugar) |
+| 158b | tocar                  | verbo            | /to'kaɾ/         | play (tocar un instrumento) |
+| 159 | pequeno                 | adjetivo         | /pɨ'ke.nu/       | small (pequeño) |
+| 160 | fim                     | substantivo      | /fĩj/            | end (fin) |
+| 161 | colocar                 | verbo            | /ko.lo'kaɾ/      | put (poner) |
+| 162 | casa                    | substantivo      | /'ka.zɐ/         | home (casa) |
+| 163 | ler                     | verbo            | /leɾ/            | read (leer) |
+| 164 | mão                     | substantivo      | /mɐ̃w̃/            | hand (mano) |
+| 165 | porto                   | substantivo      | /'poɾ.tu/        | port (puerto) |
+| 166 | grande                  | adjetivo         | /'ɡɾɐ̃.dɨ/        | large (grande) |
+| 167 | soletrar                | verbo            | /so.lɨ'tɾaɾ/     | spell (deletrear) |
+| 168 | adicionar               | verbo            | /ɐ.di.si.o'naɾ/  | add (añadir) |
+| 169 | até                     | advérbio         | /ɐ'te/           | even (incluso) |
+| 170 | terra                   | substantivo      | /'tɛ.ʀɐ/         | land (tierra) |
+| 171 | aqui                    | advérbio         | /ɐ'ki/           | here (aquí) |
+| 172 | deve                    | verbo modal      | /'dɛ.vɨ/         | must (debe) |
+| 173 | grande                  | adjetivo         | /'ɡɾɐ̃.dɨ/        | big (grande) |
+| 174 | alto                    | adjetivo         | /'aɫ.tu/         | high (alto) |
+| 175 | tal                     | determinante     | /tal/            | such (tal) |
+| 176 | seguir                  | verbo            | /sɨ'giɾ/         | follow (seguir) |
+| 177 | atuar                   | verbo            | /ɐ.tu'aɾ/        | act (actuar) |
+| 178 | por que                 | advérbio         | /poɾ ke/         | why (por qué) |
+| 179 | perguntar               | verbo            | /pɨɾ.gũ'taɾ/     | ask (preguntar) |
+| 180 | homens                  | substantivo      | /'o.mẽjʃ/        | men (hombres) |
+| 181 | mudar                   | verbo            | /mu'daɾ/         | change (cambiar) |
+| 182 | foi                     | verbo            | /fɔj/            | went (fue) |
+| 183 | luz                     | substantivo      | /luʃ/            | light (luz) |
+| 184 | tipo                    | substantivo      | /'ti.pu/         | kind (tipo) |
+| 185 | fora                    | preposição       | /'fɔ.ɾɐ/         | off (fuera) |
+| 186 | necessitar              | verbo            | /nɨ.sɨ.si'taɾ/   | need (necesitar) |
+| 187 | casa                    | substantivo      | /'ka.zɐ/         | house (casa) |
+| 188 | imagem                  | substantivo      | /i'ma.ʒẽj/       | picture (imagen) |
+| 189 | tentar                  | verbo            | /tẽ'taɾ/         | try (intentar) |
+| 190 | nós                     | pronome          | /noʃ/            | us (nosotros) |
+| 191 | novamente               | advérbio         | /no.vɐ.mẽj'tɨ/   | again (de nuevo) |
+| 192 | animal                  | substantivo      | /ɐ.ni'mal/       | animal |
+| 193 | ponto                   | substantivo      | /'põ.tu/         | point (punto) |
+| 194 | mãe                     | substantivo      | /mɐ̃j/            | mother (madre) |
+| 195 | mundo                   | substantivo      | /'mũ.du/         | world (mundo) |
+| 196 | perto                   | preposição       | /'pɛɾ.tu/        | near (cerca) |
+| 197 | construir               | verbo            | /kõʃ.tɾu'iɾ/     | build (construir) |
+| 198 | eu mesmo                | substantivo      | /ew 'meʒ.mu/     | self (yo mismo) |
+| 199 | terra                   | substantivo      | /'tɛ.ʀɐ/         | earth (tierra) |
+| 200 | pai                     | substantivo      | /paɪ/            | father (padre) |
+| 201 | cabeça                  | substantivo      | /kɐ'be.sɐ/       | head (cabeza) |
+| 202 | ficar de pé             | verbo            | /fi'kaɾ dɨ 'pe/  | stand (estar de pie) |
+| 203 | possuir                 | verbo            | /po'sujɾ/        | own (poseer) |
+| 204 | página                  | substantivo      | /pa'ʒi.nɐ/       | page (página) |
+| 205 | deveria                 | verbo modal      | /dɨ've.ɾi.ɐ/     | should (debería) |
+| 206 | país                    | substantivo      | /pa'iʃ/          | country (país) |
+| 207 | encontrou               | verbo            | /ẽ.kõ.tɾow/      | found (encontró) |
+| 208 | resposta                | substantivo      | /ʁɨʃ'poʃ.tɐ/     | answer (respuesta) |
+| 209 | escola                  | substantivo      | /iʃ'ko.lɐ/       | school (escuela) |
+| 210 | crescer                 | verbo            | /kɾe'seɾ/        | grow (crecer) |
+| 211 | estudo                  | substantivo      | /iʃ'tu.ðu/       | study (estudio) |
+| 212 | ainda                   | advérbio         | /ɐ'ĩ.ðɐ/         | still (todavía) |
+| 213 | aprender                | verbo            | /ɐ.pɾẽ'deɾ/      | learn (aprender) |
+| 214 | planta                  | substantivo      | /'plɐ̃.tɐ/        | plant (planta) |
+| 215 | cobrir                  | verbo            | /ko'bɾiɾ/        | cover (cubrir) |
+| 216 | comida                  | substantivo      | /ko'mi.ðɐ/       | food (comida) |
+| 217 | sol                     | substantivo      | /sɔɫ/            | sun (sol) |
+| 218 | quatro                  | número           | /'kwɐ.tɾu/       | four (cuatro) |
+| 219 | pensamento              | substantivo      | /pẽ.sɐ'mẽ.tu/    | thought (pensamiento) |
+| 220 | deixar                  | verbo            | /dej'ʃaɾ/        | let (dejar) |
+| 221 | manter                  | verbo            | /mɐ̃'teɾ/         | keep (mantener) |
+| 222 | olho                    | substantivo      | /'o.ʎu/          | eye (ojo) |
+| 223 | nunca                   | advérbio         | /'nũ.kɐ/         | never (nunca) |
+| 224 | último                  | adjetivo         | /'ul.ti.mu/      | last (último) |
+| 225 | porta                   | substantivo      | /'pɔɾ.tɐ/        | door (puerta) |
+| 226 | entre                   | preposição       | /ẽ'tɾɨ/          | between (entre) |
+| 227 | cidade                  | substantivo      | /si'da.dɨ/       | city (ciudad) |
 | 228 | árvore                  | substantivo                 | /'aɾ.vɔ.ɾɨ/      | tree (árbol) |
 | 229 | cruz                    | substantivo                 | /kɾuʃ/           | cross (cruz) |
 | 230 | desde                   | preposição                  | /dɨs'dɨ/         | since (desde) |

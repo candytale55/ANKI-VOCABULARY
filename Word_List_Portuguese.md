@@ -62,130 +62,130 @@
 | 40 | todos                    | adjetivo         | /'to.duʃ/       | all |
 | 41 | seu                      | pronome          | /sew/           | your |
 | 42 | quando                   | advérbio         | /'kwɐ̃.du/       | when |
-| 43 | acima                    | advérbio                    | /ɐ.'si.mɐ/      | up |
-| 44 | usar                     | verbo                       | /u.'zaɾ/        | use |
-| 45 | palavra                  | substantivo                 | /pa.'la.vɾɐ/    | word |
-| 46 | como                     | advérbio                    | /'ko.mu/        | how |
-| 47 | disse                    | verbo                       | /'di.si/        | said |
-| 48 | uma                      | artigo                      | /'u.mɐ/         | an (female) |
-| 49 | cada                     | determinante                | /'ka.dɐ/        | each |
-| 50 | ela                      | pronome                     | /'e.lɐ/         | she |
-| 51a | qual                    | pronome                     | /ku'al/         | which (single) |
-| 51b | quais                   | pronome                     | /kajʃ/          | which (plural) |
-| 52 | fazer                    | verbo                       | /fa'zeɾ/        | do |
-| 53 | seu                      | pronome                     | /sew/           | their (belonging to a male individual or a mixed group of individuals) |
-| 53a | sua                     | pronome                     | /'su.ɐ/         | their (belonging to a female individual or group of females) |
-| 54 | tempo                    | substantivo                 | /'tẽ.pu/        | time |
-| 55 | se                       | conjunção                   | /si/            | if |
-| 56 | será                     | verbo                       | /se'ɾa/         | will (future tense of the verb 'be') |
-| 57a | maneira                 | substantivo                 | /ma'nejɾa/      | way (manner, way of doing something) |
-| 57b | caminho                 | substantivo                 | /ka'miɲu/       | way (path, route) |
-| 58 | sobre                    | preposição                  | /'so.bɾi/       | about |
-| 59 | muitos                   | adjetivo                    | /'muj.tuʃ/      | many (male or mixed gender) |
-| 59a | muitas                  | adjetivo                    | /'muj.tɐʃ/      | many (female) |
-| 60 | então                    | advérbio                    | /ẽ'tɐ̃w̃/         | then |
-| 61 | eles                     | pronome                     | /'ɛ.lis/        | them (male or mixed gender) |
-| 61a | elas                    | pronome                     | /'ɛ.lɐʃ/        | them (female) |
-| 62 | seria                    | verbo                       | /se'ɾia/        | would |
-| 63 | escrever                 | verbo                       | /is.kɾi'veɾ/    | write |
-| 64 | como                     | preposição                  | /'ko.mu/        | like |
-| 65a | assim                   | advérbio                    | /ɐ'sĩj/         | so (like this) |
-| 65b | tão                     | advérbio                    | /tɐ̃w̃/           | so (very) |
-| 66a | estes                   | determinante                | /'ɛs.tis/       | these (male or mixed gender) |
-| 66b | estas                   | determinante                | /'ɛs.tɐʃ/       | these (female) |
-| 67a | ela                     | pronome                     | /'e.lɐ/         | her (referring to her) |
-| 67b | seu                     | pronome                     | /sew/           | her (belonging to her - object is male or unspecified) |
-| 67c | sua                     | pronome                     | /'su.ɐ/          | her (belonging to her - object is female) |
-| 68 | longo                    | adjetivo                    | /'lõ.gu/         | long (male or unspecified) |
-| 68a | longa                   | adjetivo                    | /'lõ.gɐ/         | long (female) |
-| 69 | fazer                    | verbo                       | /fa'zeɾ/         | make |
-| 70 | coisa                    | substantivo                 | /'koj.zɐ/        | thing |
-| 71 | ver                      | verbo                       | /veɾ/            | see |
-| 72 | ele                      | pronome                     | /'ɛ.li/          | him |
-| 73 | dois                     | número                      | /dojʃ/           | two (male or mixed gender) |
-| 73a | duas                    | número                      | /'dwɐʃ/          | two (female) |
-| 74 | tem                      | verbo                       | /tẽj/            | has |
-| 75 | olhar                    | verbo                       | /o'ʎaɾ/          | look |
-| 76 | mais                     | adjetivo                    | /majʃ/           | more |
-| 77 | dia                      | substantivo                 | /'di.ɐ/          | day |
-| 78 | poderia                  | verbo                       | /po.de'ɾi.ɐ/     | could |
-| 79 | ir                       | verbo                       | /iɾ/             | go |
-| 80 | vir                      | verbo                       | /viɾ/            | come |
-| 81 | fez                      | verbo                       | /fɛʃ/            | did |
-| 82 | meu                      | pronome                     | /mew/            | my (object is male or unspecified) |
-| 82a | minha                   | pronome                     | /'mi.ɲɐ/         | my (object is female) |
-| 83 | som                      | substantivo                 | /sõj/            | sound |
-| 84 | não                      | determinante                | /nɐ̃w̃/            | no |
-| 85 | mais                     | adjetivo                    | /majʃ/           | most |
-| 86 | número                   | substantivo                 | /'nu.me.ɾu/      | number |
-| 87 | quem                     | pronome                     | /kẽj/            | who |
-| 88 | sobre                    | preposição                  | /'so.bɾi/        | over |
-| 89 | saber                    | verbo                       | /sa'beɾ/         | know |
-| 90 | água                     | substantivo                 | /'a.gwɐ/         | water |
-| 91 | que                      | conjunção                   | /ke/             | than |
-| 92 | chamar                   | verbo                       | /ʃa'maɾ/         | call |
-| 93 | primeiro                 | adjetivo                    | /pri'mej.ɾu/     | first (male or unspecified) |
-| 93a | primeira                | adjetivo                    | /pri'mej.ɾɐ/     | first (female) |
-| 94a | gente                   | substantivo                 | /'ʒẽ.tʃi/        | people (informal, collective) |
-| 94b | pessoas                 | substantivo                 | /pe'so.ɐʃ/       | people (formal, plural) |
-| 95 | pode                     | verbo                       | /po'dɛ/          | may |
-| 96 | abaixo                   | advérbio                    | /ɐ'ba.jʃu/       | down |
-| 97 | lado                     | substantivo                 | /'la.du/         | side |
-| 98 | sido                     | verbo                       | /'si.du/         | been |
-| 99 | agora                    | advérbio                    | /ɐ'go.ɾɐ/        | now |
-| 100 | encontrar               | verbo                       | /ẽ.kõ.tɾa'ɾaɾ/   | find |
-| 101a | qualquer               | determinante                | /kwɐɫ'keɾ/       | any (cualquier) |
-| 101b | algum                  | determinante                | /ɐɫ'ɡũj/         | any (alguno) |
-| 102 | novo                    | adjetivo                    | /'no.vu/         | new |
-| 103 | trabalho                | substantivo                 | /tɾɐ'bɐ.ʎu/      | work |
-| 104 | parte                   | substantivo                 | /'paɾ.tʃi/       | part |
-| 105 | tomar                   | verbo                       | /to'maɾ/         | take |
-| 106 | obter                   | verbo                       | /o'bteɾ/         | get |
-| 107 | lugar                   | substantivo                 | /lu'gaɾ/         | place |
-| 108 | feito                   | verbo                       | /'fej.tu/        | made |
-| 109 | viver                   | verbo                       | /vi'veɾ/         | live |
-| 110 | onde                    | advérbio                    | /'õ.dɨ/          | where |
-| 111 | depois                  | preposição                  | /dɨ'pojʃ/        | after |
-| 112 | atrás                   | advérbio                    | /ɐ'tɾaʃ/         | back |
-| 113 | pequeno                 | adjetivo                    | /pɨ'ke.nu/       | little |
-| 114 | só                      | advérbio                    | /'so/            | only |
-| 115 | redondo                 | adjetivo                    | /ʀɨ'dõ.du/       | round |
-| 116 | homem                   | substantivo                 | /'o.mẽj/         | man |
-| 117 | ano                     | substantivo                 | /'ɐ.nu/          | year |
-| 118 | veio                    | verbo                       | /'vej.u/         | came |
-| 119 | mostrar                 | verbo                       | /muʃ'tɾaɾ/       | show |
-| 120 | cada                    | determinante                | /'ka.dɐ/         | every |
-| 121 | bom                     | adjetivo                    | /bõj/            | good |
-| 122 | me                      | pronome                     | /mɨ/             | me |
-| 123 | dar                     | verbo                       | /daɾ/            | give |
-| 124 | nosso                   | pronome                     | /'no.su/         | our |
-| 125 | debaixo                 | preposição                  | /dɨ'baj.ʃu/      | under |
-| 126 | nome                    | substantivo                 | /'no.mɨ/         | name |
-| 127 | muito                   | advérbio                    | /'mu.tu/         | very |
-| 128 | através de              | preposição                  | /ɐ.tɾɐ'veʃ dɨ/   | through |
-| 129 | só                      | advérbio                    | /'so/            | just |
-| 130 | forma                   | substantivo                 | /'foɾ.mɐ/        | form |
-| 131 | muito                   | advérbio                    | /'mu.tu/         | much |
-| 132a | grande                 | adjetivo                    | /'ɡɾɐ̃.dɨ/        | great (grande) |
-| 132b | grande                 | adjetivo                    | /'ɡɾɐ̃.dɨ/        | great (gran) |
-| 133 | pensar                  | verbo                       | /pẽ'zaɾ/         | think |
-| 134 | dizer                   | verbo                       | /di'zeɾ/         | say |
-| 135 | ajudar                  | verbo                       | /ɐʒu'daɾ/        | help |
-| 136 | baixo                   | adjetivo                    | /'baj.ʃu/        | low |
-| 137 | linha                   | substantivo                 | /'li.ɲɐ/         | line |
-| 138 | antes                   | preposição                  | /ɐ̃'teʃ/          | before |
-| 139 | girar                   | verbo                       | /ʒi'ɾaɾ/         | turn |
-| 140 | causa                   | substantivo                 | /'kaw.zɐ/        | cause |
-| 141 | mesmo                   | adjetivo                    | /'meʒ.mu/        | same |
-| 142 | significar              | verbo                       | /si.ɲi.fi'kaɾ/   | mean |
-| 143 | diferir                 | verbo                       | /di.fɨ'ɾiɾ/      | differ |
-| 144 | mover                   | verbo                       | /mu'veɾ/         | move |
-| 145a | correto                | adjetivo                    | /ko're.tu/       | right (correcto) |
-| 145b | direito                | adjetivo                    | /di'ɾej.tu/      | right (derecho) |
-| 146 | rapaz                   | substantivo                 | /ʀɐ'paʃ/         | boy |
-| 147 | velho                   | adjetivo                    | /'ve.ʎu/         | old |
-| 148 | demais                  | advérbio                    | /dɨ'majʃ/        | too |
-| 149 | faz                     | verbo                       | /faʃ/            | does |
+| 43 | acima                    | advérbio         | /ɐ.'si.mɐ/      | up |
+| 44 | usar                     | verbo            | /u.'zaɾ/        | use |
+| 45 | palavra                  | substantivo      | /pa.'la.vɾɐ/    | word |
+| 46 | como                     | advérbio         | /'ko.mu/        | how |
+| 47 | disse                    | verbo            | /'di.si/        | said |
+| 48 | uma                      | artigo           | /'u.mɐ/         | an (female) |
+| 49 | cada                     | determinante     | /'ka.dɐ/        | each |
+| 50 | ela                      | pronome          | /'e.lɐ/         | she |
+| 51a | qual                    | pronome          | /ku'al/         | which (single) |
+| 51b | quais                   | pronome          | /kajʃ/          | which (plural) |
+| 52 | fazer                    | verbo            | /fa'zeɾ/        | do |
+| 53 | seu                      | pronome          | /sew/           | their (belonging to a male individual or a mixed group) |
+| 53a | sua                     | pronome          | /'su.ɐ/         | their (belonging to a female individual or group of females) |
+| 54 | tempo                    | substantivo      | /'tẽ.pu/        | time |
+| 55 | se                       | conjunção        | /si/            | if |
+| 56 | será                     | verbo            | /se'ɾa/         | will (future tense of the verb 'be') |
+| 57a | maneira                 | substantivo      | /ma'nejɾa/      | way (manner, way of doing something) |
+| 57b | caminho                 | substantivo      | /ka'miɲu/       | way (path, route) |
+| 58 | sobre                    | preposição       | /'so.bɾi/       | about |
+| 59 | muitos                   | adjetivo         | /'muj.tuʃ/      | many (male or mixed gender) |
+| 59a | muitas                  | adjetivo         | /'muj.tɐʃ/      | many (female) |
+| 60 | então                    | advérbio         | /ẽ'tɐ̃w̃/         | then |
+| 61 | eles                     | pronome          | /'ɛ.lis/        | them (male or mixed gender) |
+| 61a | elas                    | pronome          | /'ɛ.lɐʃ/        | them (female) |
+| 62 | seria                    | verbo            | /se'ɾia/        | would |
+| 63 | escrever                 | verbo            | /is.kɾi'veɾ/    | write |
+| 64 | como                     | preposição       | /'ko.mu/        | like |
+| 65a | assim                   | advérbio         | /ɐ'sĩj/         | so (like this) |
+| 65b | tão                     | advérbio         | /tɐ̃w̃/           | so (very) |
+| 66a | estes                   | determinante     | /'ɛs.tis/       | these (male or mixed gender) |
+| 66b | estas                   | determinante     | /'ɛs.tɐʃ/       | these (female) |
+| 67a | ela                     | pronome          | /'e.lɐ/         | her (referring to her) |
+| 67b | seu                     | pronome          | /sew/           | her (belonging to her - object is male or unspecified) |
+| 67c | sua                     | pronome          | /'su.ɐ/         | her (belonging to her - object is female) |
+| 68 | longo                    | adjetivo         | /'lõ.gu/        | long (male or unspecified) |
+| 68a | longa                   | adjetivo         | /'lõ.gɐ/        | long (female) |
+| 69 | fazer                    | verbo            | /fa'zeɾ/        | make |
+| 70 | coisa                    | substantivo      | /'koj.zɐ/       | thing |
+| 71 | ver                      | verbo            | /veɾ/           | see |
+| 72 | ele                      | pronome          | /'ɛ.li/         | him |
+| 73 | dois                     | número           | /dojʃ/          | two (male or mixed gender) |
+| 73a | duas                    | número           | /'dwɐʃ/         | two (female) |
+| 74 | tem                      | verbo            | /tẽj/           | has |
+| 75 | olhar                    | verbo            | /o'ʎaɾ/         | look |
+| 76 | mais                     | adjetivo         | /majʃ/          | more |
+| 77 | dia                      | substantivo      | /'di.ɐ/         | day |
+| 78 | poderia                  | verbo            | /po.de'ɾi.ɐ/    | could |
+| 79 | ir                       | verbo            | /iɾ/            | go |
+| 80 | vir                      | verbo            | /viɾ/           | come |
+| 81 | fez                      | verbo            | /fɛʃ/           | did |
+| 82 | meu                      | pronome          | /mew/           | my (object is male or unspecified) |
+| 82a | minha                   | pronome          | /'mi.ɲɐ/        | my (object is female) |
+| 83 | som                      | substantivo      | /sõj/           | sound |
+| 84 | não                      | determinante     | /nɐ̃w̃/           | no |
+| 85 | mais                     | adjetivo         | /majʃ/          | most |
+| 86 | número                   | substantivo      | /'nu.me.ɾu/     | number |
+| 87 | quem                     | pronome          | /kẽj/           | who |
+| 88 | sobre                    | preposição       | /'so.bɾi/       | over |
+| 89 | saber                    | verbo            | /sa'beɾ/        | know |
+| 90 | água                     | substantivo      | /'a.gwɐ/        | water |
+| 91 | que                      | conjunção        | /ke/            | than |
+| 92 | chamar                   | verbo            | /ʃa'maɾ/        | call |
+| 93 | primeiro                 | adjetivo         | /pri'mej.ɾu/    | first (male or unspecified) |
+| 93a | primeira                | adjetivo         | /pri'mej.ɾɐ/    | first (female) |
+| 94a | gente                   | substantivo      | /'ʒẽ.tʃi/       | people (informal, collective) |
+| 94b | pessoas                 | substantivo      | /pe'so.ɐʃ/      | people (formal, plural) |
+| 95 | pode                     | verbo            | /po'dɛ/         | may |
+| 96 | abaixo                   | advérbio         | /ɐ'ba.jʃu/      | down |
+| 97 | lado                     | substantivo      | /'la.du/        | side |
+| 98 | sido                     | verbo            | /'si.du/        | been |
+| 99 | agora                    | advérbio         | /ɐ'go.ɾɐ/       | now |
+| 100 | encontrar               | verbo            | /ẽ.kõ.tɾa'ɾaɾ/  | find |
+| 101a | qualquer               | determinante     | /kwɐɫ'keɾ/       | any (cualquier) |
+| 101b | algum                  | determinante     | /ɐɫ'ɡũj/         | any (alguno) |
+| 102 | novo                    | adjetivo         | /'no.vu/         | new |
+| 103 | trabalho                | substantivo      | /tɾɐ'bɐ.ʎu/      | work |
+| 104 | parte                   | substantivo      | /'paɾ.tʃi/       | part |
+| 105 | tomar                   | verbo            | /to'maɾ/         | take |
+| 106 | obter                   | verbo            | /o'bteɾ/         | get |
+| 107 | lugar                   | substantivo      | /lu'gaɾ/         | place |
+| 108 | feito                   | verbo            | /'fej.tu/        | made |
+| 109 | viver                   | verbo            | /vi'veɾ/         | live |
+| 110 | onde                    | advérbio         | /'õ.dɨ/          | where |
+| 111 | depois                  | preposição       | /dɨ'pojʃ/        | after |
+| 112 | atrás                   | advérbio         | /ɐ'tɾaʃ/         | back |
+| 113 | pequeno                 | adjetivo         | /pɨ'ke.nu/       | little |
+| 114 | só                      | advérbio         | /'so/            | only |
+| 115 | redondo                 | adjetivo         | /ʀɨ'dõ.du/       | round |
+| 116 | homem                   | substantivo      | /'o.mẽj/         | man |
+| 117 | ano                     | substantivo      | /'ɐ.nu/          | year |
+| 118 | veio                    | verbo            | /'vej.u/         | came |
+| 119 | mostrar                 | verbo            | /muʃ'tɾaɾ/       | show |
+| 120 | cada                    | determinante     | /'ka.dɐ/         | every |
+| 121 | bom                     | adjetivo         | /bõj/            | good |
+| 122 | me                      | pronome          | /mɨ/             | me |
+| 123 | dar                     | verbo            | /daɾ/            | give |
+| 124 | nosso                   | pronome          | /'no.su/         | our |
+| 125 | debaixo                 | preposição       | /dɨ'baj.ʃu/      | under |
+| 126 | nome                    | substantivo      | /'no.mɨ/         | name |
+| 127 | muito                   | advérbio         | /'mu.tu/         | very |
+| 128 | através de              | preposição       | /ɐ.tɾɐ'veʃ dɨ/   | through |
+| 129 | só                      | advérbio         | /'so/            | just |
+| 130 | forma                   | substantivo      | /'foɾ.mɐ/        | form |
+| 131 | muito                   | advérbio         | /'mu.tu/         | much |
+| 132a | grande                 | adjetivo         | /'ɡɾɐ̃.dɨ/        | great (grande) |
+| 132b | grande                 | adjetivo         | /'ɡɾɐ̃.dɨ/        | great (gran) |
+| 133 | pensar                  | verbo            | /pẽ'zaɾ/         | think |
+| 134 | dizer                   | verbo            | /di'zeɾ/         | say |
+| 135 | ajudar                  | verbo            | /ɐʒu'daɾ/        | help |
+| 136 | baixo                   | adjetivo         | /'baj.ʃu/        | low |
+| 137 | linha                   | substantivo      | /'li.ɲɐ/         | line |
+| 138 | antes                   | preposição       | /ɐ̃'teʃ/          | before |
+| 139 | girar                   | verbo            | /ʒi'ɾaɾ/         | turn |
+| 140 | causa                   | substantivo      | /'kaw.zɐ/        | cause |
+| 141 | mesmo                   | adjetivo         | /'meʒ.mu/        | same |
+| 142 | significar              | verbo            | /si.ɲi.fi'kaɾ/   | mean |
+| 143 | diferir                 | verbo            | /di.fɨ'ɾiɾ/      | differ |
+| 144 | mover                   | verbo            | /mu'veɾ/         | move |
+| 145a | correto                | adjetivo         | /ko're.tu/       | right (correcto) |
+| 145b | direito                | adjetivo         | /di'ɾej.tu/      | right (derecho) |
+| 146 | rapaz                   | substantivo      | /ʀɐ'paʃ/         | boy |
+| 147 | velho                   | adjetivo         | /'ve.ʎu/         | old |
+| 148 | demais                  | advérbio         | /dɨ'majʃ/        | too |
+| 149 | faz                     | verbo            | /faʃ/            | does |
 | 150 | dizer                   | verbo                       | /di'zeɾ/         | tell |
 | 151 | frase                   | substantivo                 | /'fɾa.zɨ/        | sentence (part of speech) (oración) |
 | 152 | definir                 | verbo                       | /dɨ.fi'nir/      | set (establecer) |

@@ -265,131 +265,131 @@
 | 225 | porta                   | substantivo      | /'pɔɾ.tɐ/        | door (puerta) |
 | 226 | entre                   | preposição       | /ẽ'tɾɨ/          | between (entre) |
 | 227 | cidade                  | substantivo      | /si'da.dɨ/       | city (ciudad) |
-| 228 | árvore                  | substantivo                 | /'aɾ.vɔ.ɾɨ/      | tree (árbol) |
-| 229 | cruz                    | substantivo                 | /kɾuʃ/           | cross (cruz) |
-| 230 | desde                   | preposição                  | /dɨs'dɨ/         | since (desde) |
-| 231 | duro                    | adjetivo                    | /'du.ɾu/         | hard (duro) |
-| 232 | começar                 | verbo                       | /ko.mɨ'saɾ/      | start (comenzar) |
-| 233 | poderia                 | verbo modal                 | /po.dɨ'ɾi.ɐ/     | might (podría) |
-| 234 | história                | substantivo                 | /iʃ'to.ɾi.ɐ/     | story (historia) |
-| 235 | viu                     | verbo                       | /viw/            | saw (vio) |
-| 236 | longe                   | advérbio                    | /'lõ.ʒɨ/         | far (lejos) |
-| 237 | mar                     | substantivo                 | /maɾ/            | sea (mar) |
-| 238a | desenhar               | verbo                       | /dɨ'ze.ɲaɾ/      | draw (dibujar) |
-| 238b | trazer                 | verbo                       | /tɾɐ'zeɾ/        | draw (sacar, en el contexto de "draw a card") |
-| 239 | esquerda                | adjetivo                    | /iʃ'kɛɾ.dɐ/      | left (izquierda) |
-| 240 | tarde                   | adjetivo                    | /'taɾ.dɨ/        | late (tarde) |
-| 241 | correr                  | verbo                       | /ko'ɾeɾ/         | run (correr) |
-| 242 | não                     | contração                   | /nɐ̃w/            | don't (no) |
-| 243 | enquanto                | conjunção                   | /ẽ.'kwã.tu/      | while (mientras) |
-| 244 | pressionar              | verbo                       | /pɾɨ.ʃi'o.naɾ/   | press (presionar) |
-| 245 | perto                   | adjetivo                    | /'pɛɾ.tu/        | close (cerca) |
-| 246 | noite                   | substantivo                 | /'noj.tɨ/        | night (noche) |
-| 247 | real                    | adjetivo                    | /ʁe'al/          | real (real) |
-| 248 | vida                    | substantivo                 | /'vi.dɐ/         | life (vida) |
-| 249 | poucos                  | adjetivo                    | /'pow.kus/       | few (pocos) |
-| 250 | parar                   | verbo                       | /pɐ'ɾaɾ/         | stop (parar) |
-| 251 | aberto                  | adjetivo                    | /ɐ'bɛɾ.tu/       | open (abierto) |
-| 252 | parecer                 | verbo                       | /pɐ'ɾe.seɾ/      | seem (parecer) |
-| 253 | juntos                  | advérbio                    | /'ʒũ.tus/        | together (juntos) |
-| 254 | próximo                 | adjetivo                    | /'pɾɔ.ʃi.mu/     | next (siguiente) |
-| 255 | branco                  | adjetivo                    | /'bɾɐ̃.ku/        | white (blanco) |
-| 256 | crianças                | substantivo                 | /kɾi'ɐ̃.sɐʃ/      | children (niños) |
-| 257 | começar                 | verbo                       | /ko.mɨ'saɾ/      | begin (comenzar) |
-| 258 | conseguiu               | verbo                       | /kõ.se'giw/      | got (consiguió) |
-| 259 | caminhar                | verbo                       | /kɐ.mi'ɲaɾ/      | walk (caminar) |
-| 260 | exemplo                 | substantivo                 | /i'zẽ.pɫu/       | example (ejemplo) |
-| 261 | facilidade              | substantivo                 | /fɐ.si.li'da.dɨ/ | ease (facilidad) |
-| 262 | papel                   | substantivo                 | /pɐ'pɛɫ/         | paper (papel) |
-| 263 | frequentemente          | advérbio                    | /fɾi.kẽ'tɐ.mẽ.tɨ/ | often (a menudo) |
-| 264 | sempre                  | advérbio                    | /'sẽ.pɾɨ/        | always (siempre) |
-| 265 | música                  | substantivo                 | /'mu.zi.kɐ/      | music (música) |
-| 266 | aqueles                 | pronome                     | /ɐ'ke.ʎɨʃ/       | those (esos) |
-| 267 | ambos                   | determinante                | /'ɐ̃.boʃ/         | both (ambos) |
-| 268 | marcar                  | verbo                       | /mɐɾ'kaɾ/        | mark (marcar) |
-| 269 | livro                   | substantivo                 | /'li.vɾu/        | book (libro) |
-| 270 | carta                   | substantivo                 | /'kaɾ.tɐ/        | letter (carta) |
-| 271 | até                     | preposição                  | /ɐ'tɛ/           | until (hasta) |
-| 272 | milha                   | substantivo                 | /'mi.ʎɐ/         | mile (milla) |
-| 273 | rio                     | substantivo                 | /'ʁi.u/          | river (río) |
-| 274 | carro                   | substantivo                 | /'ka.ʁu/         | car (coche) |
-| 275 | pés                     | substantivo                 | /'peʃ/           | feet (pies) |
-| 276 | cuidar                  | verbo                       | /kuj'daɾ/        | care (cuidar) |
-| 277 | segundo                 | adjetivo                    | /sɨ'gun.du/      | second (segundo) |
-| 278 | grupo                   | substantivo                 | /'gɾu.pu/        | group (grupo) |
-| 279 | levar                   | verbo                       | /lɨ'vaɾ/         | carry (llevar) |
-| 280 | levou                   | verbo                       | /lɨ'vow/         | took (tomó) |
-| 281 | chuva                   | substantivo                 | /'ʃu.vɐ/         | rain (lluvia) |
-| 282 | comer                   | verbo                       | /ku'meɾ/         | eat (comer) |
-| 283 | quarto                  | substantivo                 | /'kwaɾ.tu/       | room (habitación) |
-| 284 | amigo                   | substantivo                 | /ɐ'mi.ɣu/        | friend (amigo) |
-| 285 | começou                 | verbo                       | /ko.mɨ'sow/      | began (comenzó) |
-| 286 | ideia                   | substantivo                 | /i'dej.ɐ/        | idea (idea) |
-| 287 | peixe                   | substantivo                 | /'pej.ʃ(ɨ)/      | fish (pescado) |
-| 288 | montanha                | substantivo                 | /mõ'ta.ɲɐ/       | mountain (montaña) |
-| 289 | norte                   | substantivo                 | /'nɔɾ.tɨ/        | north (norte) |
-| 290 | uma vez                 | advérbio                    | /'umɐ 'vɛʃ/      | once (una vez) |
-| 291 | base                    | substantivo                 | /'ba.zɨ/         | base (base) |
-| 292 | ouvir                   | verbo                       | /o'viɾ/          | hear (escuchar) |
-| 293 | cavalo                  | substantivo                 | /kɐ'va.ɫu/       | horse (caballo) |
-| 294 | cortar                  | verbo                       | /koɾ'taɾ/        | cut (cortar) |
-| 295 | seguro                  | adjetivo                    | /sɨ'ɣu.ɾu/       | sure (seguro) |
-| 296 | assistir                | verbo                       | /ɐ.sis'tiɾ/      | watch (mirar) |
-| 297 | cor                     | substantivo                 | /'koɾ/           | color (color) |
-| 298 | cara                    | substantivo                 | /'ka.ɾɐ/         | face (cara) |
-| 299 | madeira                 | substantivo                 | /mɐ'dɐj.ɾɐ/      | wood (madera) |
-| 300 | principal               | adjetivo                    | /pɾĩ.si'paɫ/     | main (principal) |
-| 301 | suficiente              | adjetivo                    | /sufiˈsjẽtʃi/    | enough       |
-| 302 | llano                   | adjetivo                    | /ˈʎanu/          | plain        |
-| 303 | chica                   | substantivo                 | /ˈʃika/          | girl         |
-| 304 | usual                   | adjetivo                    | /uˈzu.aɫ/        | usual        |
-| 305 | joven                   | adjetivo                    | /ˈʒoβẽn/         | young        |
-| 306 | listo                   | adjetivo                    | /ˈliʃtu/         | ready        |
-| 307 | encima                  | preposição                  | /ẽˈsimɐ/         | above        |
-| 308 | alguna vez              | advérbio                    | /alˈɡũ.və‿ˈʃ/   | ever         |
-| 309 | rojo                    | adjetivo                    | /ˈʁo.ʒu/         | red          |
-| 310 | lista                   | substantivo                 | /ˈliʃtɐ/         | list         |
-| 311 | aunque                  | conjunção                   | /ˈaũ.kɨ/         | though       |
-| 312 | sentir                  | verbo                       | /sẽˈtiɾ/         | feel         |
-| 313 | hablar                  | verbo                       | /aˈblaɾ/         | talk         |
-| 314 | pájaro                  | substantivo                 | /ˈpa.ʒa.ɾu/      | bird         |
-| 315 | pronto                  | advérbio                    | /ˈpɾõ.tu/        | soon         |
-| 316 | cuerpo                  | substantivo                 | /ˈkoɾ.po/        | body         |
-| 317 | perro                   | substantivo                 | /ˈpe.ʁu/         | dog          |
-| 318 | familia                 | substantivo                 | /fa.mi.ˈli.ɐ/    | family       |
-| 319 | directo                 | adjetivo                    | /di.ˈɾɛ.tu/      | direct       |
-| 320 | posar                   | verbo                       | /pu.ˈzaɾ/        | pose         |
-| 321 | dejar                   | verbo                       | /de.ˈʒaɾ/        | leave        |
-| 322 | canción                 | substantivo                 | /kɐ̃.siˈõũ/       | song         |
-| 323 | medida                  | substantivo                 | /mɨ.ˈdɐ/         | measure      |
-| 324 | estado                  | substantivo                 | /iʃ.ˈta.du/      | state        |
-| 325 | produto                 | substantivo                 | /pɾu.ˈdu.tu/     | product      |
-| 326 | negro                   | adjetivo                    | /ˈne.ɡɾu/        | black        |
-| 327 | corto                   | adjetivo                    | /ˈkoɾ.tu/        | short        |
-| 328 | numeral                 | substantivo                 | /nu.mɨ.ˈɾaw/     | numeral      |
-| 329 | classe                  | substantivo                 | /ˈklasɨ/         | class        |
-| 330 | vento                   | substantivo                 | /ˈvẽ.tu/         | wind         |
-| 331 | pergunta                | substantivo                 | /pɨ.ˈɡũ.tɐ/      | question     |
-| 332 | suceder                 | verbo                       | /su.sɨ.ˈðeɾ/     | happen       |
-| 333 | completo                | adjetivo                    | /kõ.ˈplɛ.tu/     | complete     |
-| 334 | barco                   | substantivo                 | /ˈbaɾ.ku/        | ship         |
-| 335 | área                    | substantivo                 | /ˈa.ɾɨ.ɐ/        | area         |
-| 336 | metade                  | substantivo                 | /mɨ.ˈta.dɨ/      | half         |
-| 337 | rocha                   | substantivo                 | /ˈʁo.ʃɐ/         | rock         |
-| 338 | ordem                   | substantivo                 | /ˈɔɾ.dɐ̃w̃/        | order        |
-| 339 | fogo                    | substantivo                 | /ˈfo.ɡu/         | fire         |
-| 340 | sul                     | substantivo                 | /ˈsuw/           | south        |
-| 341 | problema                | substantivo                 | /pɾu.ˈblɛ.mɐ/    | problem      |
-| 342 | peça                    | substantivo                 | /ˈpɛ.sɐ/         | piece        |
-| 343 | contou                  | verbo                       | /kõ.ˈtow/        | told         |
-| 344 | sabia                   | verbo                       | /sɐ.ˈβjɐ/        | knew         |
-| 345 | passar                  | verbo                       | /pɐ.ˈsaɾ/        | pass         |
-| 346 | fazenda                 | substantivo                 | /fɐ.ˈzẽ.dɐ/      | farm         |
-| 347 | topo                    | substantivo                 | /ˈto.pu/         | top          |
-| 348 | inteiro                 | adjetivo                    | /ĩ.ˈtɐj.ɾu/      | whole        |
-| 349 | rei                     | substantivo                 | /ˈʁej/           | king         |
-| 350 | tamanho                 | substantivo                 | /tɐ.ˈma.ɲu/      | size         |
-| 351 | ouviu                   | verbo                       | /oˈviw/          | heard        |
+| 228 | árvore                  | substantivo      | /'aɾ.vɔ.ɾɨ/      | tree (árbol) |
+| 229 | cruz                    | substantivo      | /kɾuʃ/           | cross (cruz) |
+| 230 | desde                   | preposição       | /dɨs'dɨ/         | since (desde) |
+| 231 | duro                    | adjetivo         | /'du.ɾu/         | hard (duro) |
+| 232 | começar                 | verbo            | /ko.mɨ'saɾ/      | start (comenzar) |
+| 233 | poderia                 | verbo modal      | /po.dɨ'ɾi.ɐ/     | might (podría) |
+| 234 | história                | substantivo      | /iʃ'to.ɾi.ɐ/     | story (historia) |
+| 235 | viu                     | verbo            | /viw/            | saw (vio) |
+| 236 | longe                   | advérbio         | /'lõ.ʒɨ/         | far (lejos) |
+| 237 | mar                     | substantivo      | /maɾ/            | sea (mar) |
+| 238a | desenhar               | verbo            | /dɨ'ze.ɲaɾ/      | draw (dibujar) |
+| 238b | trazer                 | verbo            | /tɾɐ'zeɾ/        | draw (sacar, en el contexto de "draw a card") |
+| 239 | esquerda                | adjetivo         | /iʃ'kɛɾ.dɐ/      | left (izquierda) |
+| 240 | tarde                   | adjetivo         | /'taɾ.dɨ/        | late (tarde) |
+| 241 | correr                  | verbo            | /ko'ɾeɾ/         | run (correr) |
+| 242 | não                     | contração        | /nɐ̃w/            | don't (no) |
+| 243 | enquanto                | conjunção        | /ẽ.'kwã.tu/      | while (mientras) |
+| 244 | pressionar              | verbo            | /pɾɨ.ʃi'o.naɾ/   | press (presionar) |
+| 245 | perto                   | adjetivo         | /'pɛɾ.tu/        | close (cerca) |
+| 246 | noite                   | substantivo      | /'noj.tɨ/        | night (noche) |
+| 247 | real                    | adjetivo         | /ʁe'al/          | real (real) |
+| 248 | vida                    | substantivo      | /'vi.dɐ/         | life (vida) |
+| 249 | poucos                  | adjetivo         | /'pow.kus/       | few (pocos) |
+| 250 | parar                   | verbo            | /pɐ'ɾaɾ/         | stop (parar) |
+| 251 | aberto                  | adjetivo         | /ɐ'bɛɾ.tu/       | open (abierto) |
+| 252 | parecer                 | verbo            | /pɐ'ɾe.seɾ/      | seem (parecer) |
+| 253 | juntos                  | advérbio         | /'ʒũ.tus/        | together (juntos) |
+| 254 | próximo                 | adjetivo         | /'pɾɔ.ʃi.mu/     | next (siguiente) |
+| 255 | branco                  | adjetivo         | /'bɾɐ̃.ku/        | white (blanco) |
+| 256 | crianças                | substantivo      | /kɾi'ɐ̃.sɐʃ/      | children (niños) |
+| 257 | começar                 | verbo            | /ko.mɨ'saɾ/      | begin (comenzar) |
+| 258 | conseguiu               | verbo            | /kõ.se'giw/      | got (consiguió) |
+| 259 | caminhar                | verbo            | /kɐ.mi'ɲaɾ/      | walk (caminar) |
+| 260 | exemplo                 | substantivo      | /i'zẽ.pɫu/       | example (ejemplo) |
+| 261 | facilidade              | substantivo      | /fɐ.si.li'da.dɨ/ | ease (facilidad) |
+| 262 | papel                   | substantivo      | /pɐ'pɛɫ/         | paper (papel) |
+| 263 | frequentemente          | advérbio         | /fɾi.kẽ'tɐ.mẽ.tɨ/ | often (a menudo) |
+| 264 | sempre                  | advérbio         | /'sẽ.pɾɨ/        | always (siempre) |
+| 265 | música                  | substantivo      | /'mu.zi.kɐ/      | music (música) |
+| 266 | aqueles                 | pronome          | /ɐ'ke.ʎɨʃ/       | those (esos) |
+| 267 | ambos                   | determinante     | /'ɐ̃.boʃ/         | both (ambos) |
+| 268 | marcar                  | verbo            | /mɐɾ'kaɾ/        | mark (marcar) |
+| 269 | livro                   | substantivo      | /'li.vɾu/        | book (libro) |
+| 270 | carta                   | substantivo      | /'kaɾ.tɐ/        | letter (carta) |
+| 271 | até                     | preposição       | /ɐ'tɛ/           | until (hasta) |
+| 272 | milha                   | substantivo      | /'mi.ʎɐ/         | mile (milla) |
+| 273 | rio                     | substantivo      | /'ʁi.u/          | river (río) |
+| 274 | carro                   | substantivo      | /'ka.ʁu/         | car (coche) |
+| 275 | pés                     | substantivo      | /'peʃ/           | feet (pies) |
+| 276 | cuidar                  | verbo            | /kuj'daɾ/        | care (cuidar) |
+| 277 | segundo                 | adjetivo         | /sɨ'gun.du/      | second (segundo) |
+| 278 | grupo                   | substantivo      | /'gɾu.pu/        | group (grupo) |
+| 279 | levar                   | verbo            | /lɨ'vaɾ/         | carry (llevar) |
+| 280 | levou                   | verbo            | /lɨ'vow/         | took (tomó) |
+| 281 | chuva                   | substantivo      | /'ʃu.vɐ/         | rain (lluvia) |
+| 282 | comer                   | verbo            | /ku'meɾ/         | eat (comer) |
+| 283 | quarto                  | substantivo      | /'kwaɾ.tu/       | room (habitación) |
+| 284 | amigo                   | substantivo      | /ɐ'mi.ɣu/        | friend (amigo) |
+| 285 | começou                 | verbo            | /ko.mɨ'sow/      | began (comenzó) |
+| 286 | ideia                   | substantivo      | /i'dej.ɐ/        | idea (idea) |
+| 287 | peixe                   | substantivo      | /'pej.ʃ(ɨ)/      | fish (pescado) |
+| 288 | montanha                | substantivo      | /mõ'ta.ɲɐ/       | mountain (montaña) |
+| 289 | norte                   | substantivo      | /'nɔɾ.tɨ/        | north (norte) |
+| 290 | uma vez                 | advérbio         | /'umɐ 'vɛʃ/      | once (una vez) |
+| 291 | base                    | substantivo      | /'ba.zɨ/         | base (base) |
+| 292 | ouvir                   | verbo            | /o'viɾ/          | hear (escuchar) |
+| 293 | cavalo                  | substantivo      | /kɐ'va.ɫu/       | horse (caballo) |
+| 294 | cortar                  | verbo            | /koɾ'taɾ/        | cut (cortar) |
+| 295 | seguro                  | adjetivo         | /sɨ'ɣu.ɾu/       | sure (seguro) |
+| 296 | assistir                | verbo            | /ɐ.sis'tiɾ/      | watch (mirar) |
+| 297 | cor                     | substantivo      | /'koɾ/           | color (color) |
+| 298 | cara                    | substantivo      | /'ka.ɾɐ/         | face (cara) |
+| 299 | madeira                 | substantivo      | /mɐ'dɐj.ɾɐ/      | wood (madera) |
+| 300 | principal               | adjetivo         | /pɾĩ.si'paɫ/     | main (principal) |
+| 301 | suficiente              | adjetivo         | /sufiˈsjẽtʃi/    | enough       |
+| 302 | llano                   | adjetivo         | /ˈʎanu/          | plain        |
+| 303 | chica                   | substantivo      | /ˈʃika/          | girl         |
+| 304 | usual                   | adjetivo         | /uˈzu.aɫ/        | usual        |
+| 305 | joven                   | adjetivo         | /ˈʒoβẽn/         | young        |
+| 306 | listo                   | adjetivo         | /ˈliʃtu/         | ready        |
+| 307 | encima                  | preposição       | /ẽˈsimɐ/         | above        |
+| 308 | alguna vez              | advérbio         | /alˈɡũ.və‿ˈʃ/   | ever         |
+| 309 | rojo                    | adjetivo         | /ˈʁo.ʒu/         | red          |
+| 310 | lista                   | substantivo      | /ˈliʃtɐ/         | list         |
+| 311 | aunque                  | conjunção        | /ˈaũ.kɨ/         | though       |
+| 312 | sentir                  | verbo            | /sẽˈtiɾ/         | feel         |
+| 313 | hablar                  | verbo            | /aˈblaɾ/         | talk         |
+| 314 | pájaro                  | substantivo      | /ˈpa.ʒa.ɾu/      | bird         |
+| 315 | pronto                  | advérbio         | /ˈpɾõ.tu/        | soon         |
+| 316 | cuerpo                  | substantivo      | /ˈkoɾ.po/        | body         |
+| 317 | perro                   | substantivo      | /ˈpe.ʁu/         | dog          |
+| 318 | familia                 | substantivo      | /fa.mi.ˈli.ɐ/    | family       |
+| 319 | directo                 | adjetivo         | /di.ˈɾɛ.tu/      | direct       |
+| 320 | posar                   | verbo            | /pu.ˈzaɾ/        | pose         |
+| 321 | dejar                   | verbo            | /de.ˈʒaɾ/        | leave        |
+| 322 | canción                 | substantivo      | /kɐ̃.siˈõũ/       | song         |
+| 323 | medida                  | substantivo      | /mɨ.ˈdɐ/         | measure      |
+| 324 | estado                  | substantivo      | /iʃ.ˈta.du/      | state        |
+| 325 | produto                 | substantivo      | /pɾu.ˈdu.tu/     | product      |
+| 326 | negro                   | adjetivo         | /ˈne.ɡɾu/        | black        |
+| 327 | corto                   | adjetivo         | /ˈkoɾ.tu/        | short        |
+| 328 | numeral                 | substantivo      | /nu.mɨ.ˈɾaw/     | numeral      |
+| 329 | classe                  | substantivo      | /ˈklasɨ/         | class        |
+| 330 | vento                   | substantivo      | /ˈvẽ.tu/         | wind         |
+| 331 | pergunta                | substantivo      | /pɨ.ˈɡũ.tɐ/      | question     |
+| 332 | suceder                 | verbo            | /su.sɨ.ˈðeɾ/     | happen       |
+| 333 | completo                | adjetivo         | /kõ.ˈplɛ.tu/     | complete     |
+| 334 | barco                   | substantivo      | /ˈbaɾ.ku/        | ship         |
+| 335 | área                    | substantivo      | /ˈa.ɾɨ.ɐ/        | area         |
+| 336 | metade                  | substantivo      | /mɨ.ˈta.dɨ/      | half         |
+| 337 | rocha                   | substantivo      | /ˈʁo.ʃɐ/         | rock         |
+| 338 | ordem                   | substantivo      | /ˈɔɾ.dɐ̃w̃/        | order        |
+| 339 | fogo                    | substantivo      | /ˈfo.ɡu/         | fire         |
+| 340 | sul                     | substantivo      | /ˈsuw/           | south        |
+| 341 | problema                | substantivo      | /pɾu.ˈblɛ.mɐ/    | problem      |
+| 342 | peça                    | substantivo      | /ˈpɛ.sɐ/         | piece        |
+| 343 | contou                  | verbo            | /kõ.ˈtow/        | told         |
+| 344 | sabia                   | verbo            | /sɐ.ˈβjɐ/        | knew         |
+| 345 | passar                  | verbo            | /pɐ.ˈsaɾ/        | pass         |
+| 346 | fazenda                 | substantivo      | /fɐ.ˈzẽ.dɐ/      | farm         |
+| 347 | topo                    | substantivo      | /ˈto.pu/         | top          |
+| 348 | inteiro                 | adjetivo         | /ĩ.ˈtɐj.ɾu/      | whole        |
+| 349 | rei                     | substantivo      | /ˈʁej/           | king         |
+| 350 | tamanho                 | substantivo      | /tɐ.ˈma.ɲu/      | size         |
+| 351 | ouviu                   | verbo            | /oˈviw/          | heard        |
 | 352 | melhor                  | adjetivo                    | /mɨ.ˈʎoɾ/        | best         |
 | 353 | hora                    | substantivo                 | /ˈo.ɾɐ/          | hour         |
 | 354 | melhor                  | adjetivo                    | /mɨ.ˈʎoɾ/        | better       |

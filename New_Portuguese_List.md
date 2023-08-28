@@ -29,6 +29,14 @@
 
 
 
+
+
+
+
+
+
+
+
 | Portuguese Word | Part of Speech (Gender) | Portuguese IPA | Equivalent English Word | English IPA (USA) | Equivalent Spanish Word | Spanish IPA (Latin American) | Word No. |
 |-----------------|------------------------|----------------|------------------------|-------------------|-------------------------|-----------------------------|----------|
 | cousa           | noun (fem)             | /ˈko.wzɐ/      | thing                  | /θɪŋ/             | cosa                    | /ˈkosa/                     |          |

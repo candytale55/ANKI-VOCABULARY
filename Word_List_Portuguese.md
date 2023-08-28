@@ -16,30 +16,30 @@
 | 6  | em                       | preposição       | /ẽj/            | in |
 | 7  | é                        | verbo            | /e/             | is |
 | 8  | ele                      | pronome          | /'e.li/         | it |
-| 9a | tu                       | pronome                     | /tu/            | you (informal, singular, mostly used in European PT) |
-| 9b | você                     | pronome                     | /vo.'se/        | you (formal and informal (BR), singular) |
-| 9c | vocês                    | pronome                     | /vo.'seʃ/       | you (formal and informal, plural)   |
-| 9d | vós                      | pronome                     | /vɔʃ/           | you (formal, plural, archaic)   |
-| 10 | que                      | conjunção                   | /ke/            | that |
-| 11 | ele                      | pronome                     | /'e.li/         | he |
-| 12 | foi                      | verbo                       | /foj/           | was |
-| 13 | para                     | preposição                  | /'pa.ɾɐ/        | for |
-| 14 | em                       | preposição                  | /ẽj/            | on (context: em cima) |
-| 15 | são                      | verbo                       | /sɐ̃w̃/           | are |
-| 16 | com                      | preposição                  | /kõj/           | with |
-| 16a | comigo                  | pronome                     | /ku.'mi.ɡu/     | with me           |
-| 16b | contigo                 | pronome                     | /kõ.'ti.ɡu/     | with you (singular)          |
-| 16c | connosco                | pronome                     | /kõ.'nɔʃ.ku/    | with us           |
-| 16d | convosco                | pronome                     | /kõ.'vɔʃ.ku/    | with you all (plural) |
-| 17 | como                     | conjunção                   | /'ko.mu/        | as |
-| 18 | eu                       | pronome                     | /ew/            | I |
-| 19a | seu                     | pronome                     | /sew/           | his or hers, masculine possession |
-| 19b | sua                     | pronome                     | /'su.ɐ/         | his or hers, femenine possession |
-| 20a | eles                    | pronome                     | /'e.lis/        | they (masculine or mixed gender) |
-| 20b | elas                    | pronome                     | /'e.lɐs/        | they (feminine) |
-| 21a | ser                     | verbo                       | /seɾ/           | be (permanent) |
-| 21b | estar                   | verbo                       | /is.'taɾ/       | be (temporary) |
-| 22 | em                       | preposição                  | /ẽj/            | at |
+| 9a | tu                       | pronome          | /tu/            | you (informal, singular, mostly used in European PT) |
+| 9b | você                     | pronome          | /vo.'se/        | you (formal and informal (BR), singular) |
+| 9c | vocês                    | pronome          | /vo.'seʃ/       | you (formal and informal, plural)   |
+| 9d | vós                      | pronome          | /vɔʃ/           | you (formal, plural, archaic)   |
+| 10 | que                      | conjunção        | /ke/            | that |
+| 11 | ele                      | pronome          | /'e.li/         | he |
+| 12 | foi                      | verbo            | /foj/           | was |
+| 13 | para                     | preposição       | /'pa.ɾɐ/        | for |
+| 14 | em                       | preposição       | /ẽj/            | on (context: em cima) |
+| 15 | são                      | verbo            | /sɐ̃w̃/           | are |
+| 16 | com                      | preposição       | /kõj/           | with |
+| 16a | comigo                  | pronome          | /ku.'mi.ɡu/     | with me           |
+| 16b | contigo                 | pronome          | /kõ.'ti.ɡu/     | with you (singular)          |
+| 16c | connosco                | pronome          | /kõ.'nɔʃ.ku/    | with us           |
+| 16d | convosco                | pronome          | /kõ.'vɔʃ.ku/    | with you all (plural) |
+| 17 | como                     | conjunção        | /'ko.mu/        | as |
+| 18 | eu                       | pronome          | /ew/            | I |
+| 19a | seu                     | pronome          | /sew/           | his or hers, masculine possession |
+| 19b | sua                     | pronome          | /'su.ɐ/         | his or hers, femenine possession |
+| 20a | eles                    | pronome          | /'e.lis/        | they (masculine or mixed gender) |
+| 20b | elas                    | pronome          | /'e.lɐs/        | they (feminine) |
+| 21a | ser                     | verbo            | /seɾ/           | be (permanent) |
+| 21b | estar                   | verbo            | /is.'taɾ/       | be (temporary) |
+| 22 | em                       | preposição       | /ẽj/            | at |
 | 23 | um                       | substantivo                 | /ũ/             | one |
 | 24 | ter                      | verbo                       | /teɾ/           | have |
 | 25 | este                     | pronome                     | /'es.t(ʃ)i/     | this (male) |

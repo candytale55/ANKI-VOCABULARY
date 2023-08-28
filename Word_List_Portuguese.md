@@ -40,28 +40,28 @@
 | 21a | ser                     | verbo            | /seɾ/           | be (permanent) |
 | 21b | estar                   | verbo            | /is.'taɾ/       | be (temporary) |
 | 22 | em                       | preposição       | /ẽj/            | at |
-| 23 | um                       | substantivo                 | /ũ/             | one |
-| 24 | ter                      | verbo                       | /teɾ/           | have |
-| 25 | este                     | pronome                     | /'es.t(ʃ)i/     | this (male) |
-| 26 | de                       | preposição                  | /dʒi/           | from |
-| 27 | ou                       | conjunção                   | /ow/            | or |
-| 28a | tinha                   | verbo                       | /'tʃi.ɲɐ/       | had (past of have) |
-| 28b | havia                   | verbo                       | /a.'vi.ɐ/       | had (past of have - auxiliary) |
-| 29 | por                      | preposição                  | /poɾ/           | by |
-| 30 | quente                   | adjetivo                    | /'kẽ.t(ʃ)i/     | hot |
-| 31 | mas                      | conjunção                   | /maʃ/           | but |
-| 32 | alguns                   | pronome                     | /ɐ.'gũjs/       | some |
-| 33 | que                      | pronome                     | /ke/            | what |
-| 34 | lá                       | advérbio                    | /la/            | there |
-| 35 | nós                      | pronome                     | /nɔs/           | we |
-| 36 | pode                     | verbo                       | /'po.d(ʃ)i/     | can |
-| 37 | fora                     | advérbio                    | /'fo.ɾɐ/        | out |
-| 38 | outro                    | adjetivo                    | /'o.tɾu/        | other |
-| 39a | eram                    | verbo                       | /'e.ɾɐ̃w/        | were (past of be - permanent) |
-| 39b | estavam                 | verbo                       | /is.'ta.vɐ̃w/    | were (past of be - temporary) |
-| 40 | todos                    | adjetivo                    | /'to.duʃ/       | all |
-| 41 | seu                      | pronome                     | /sew/           | your |
-| 42 | quando                   | advérbio                    | /'kwɐ̃.du/       | when |
+| 23 | um                       | substantivo      | /ũ/             | one |
+| 24 | ter                      | verbo            | /teɾ/           | have |
+| 25 | este                     | pronome          | /'es.t(ʃ)i/     | this (male) |
+| 26 | de                       | preposição       | /dʒi/           | from |
+| 27 | ou                       | conjunção        | /ow/            | or |
+| 28a | tinha                   | verbo            | /'tʃi.ɲɐ/       | had (past of have) |
+| 28b | havia                   | verbo            | /a.'vi.ɐ/       | had (past of have - auxiliary) |
+| 29 | por                      | preposição       | /poɾ/           | by |
+| 30 | quente                   | adjetivo         | /'kẽ.t(ʃ)i/     | hot |
+| 31 | mas                      | conjunção        | /maʃ/           | but |
+| 32 | alguns                   | pronome          | /ɐ.'gũjs/       | some |
+| 33 | que                      | pronome          | /ke/            | what |
+| 34 | lá                       | advérbio         | /la/            | there |
+| 35 | nós                      | pronome          | /nɔs/           | we |
+| 36 | pode                     | verbo            | /'po.d(ʃ)i/     | can |
+| 37 | fora                     | advérbio         | /'fo.ɾɐ/        | out |
+| 38 | outro                    | adjetivo         | /'o.tɾu/        | other |
+| 39a | eram                    | verbo            | /'e.ɾɐ̃w/        | were (past of be - permanent) |
+| 39b | estavam                 | verbo            | /is.'ta.vɐ̃w/    | were (past of be - temporary) |
+| 40 | todos                    | adjetivo         | /'to.duʃ/       | all |
+| 41 | seu                      | pronome          | /sew/           | your |
+| 42 | quando                   | advérbio         | /'kwɐ̃.du/       | when |
 | 43 | acima                    | advérbio                    | /ɐ.'si.mɐ/      | up |
 | 44 | usar                     | verbo                       | /u.'zaɾ/        | use |
 | 45 | palavra                  | substantivo                 | /pa.'la.vɾɐ/    | word |

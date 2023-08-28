@@ -1,21 +1,21 @@
 # Portuguese Word List with IPA
 
 | N° | Palavra em português | Tipo de palavra | IPA português | Palavra em inglês |
-|----|--------------------------|-----------------------------|-----------------|----------------------|
-| 1a | o                        | artigo                      | /u/             | the (male, singular) |
-| 1b | a                        | artigo                      | /ɐ/             | the (female, singular) |
-| 1c | os                       | artigo                      | /uʃ/            | the (male, plural) |
-| 1d | as                       | artigo                      | /ɐʃ/            | the (female, plural) |
-| 2  | de                       | preposição                  | /dʒi/           | of |
-| 3  | para                     | preposição                  | /'pa.ɾɐ/        | to |
-| 4  | e                        | conjunção                   | /i/             | and |
-| 5a | um                       | artigo                      | /ũ/             | a (masculine, singular)  |
-| 5b | uma                      | artigo                      | /ˈumə/          | a (feminine, singular) |
-| 5c | uns                      | artigo                      | /ũs/            | some (masculine, plural) |
-| 5d | umas                     | artigo                      | /ˈuməs/         | some (feminine, plural) |
-| 6  | em                       | preposição                  | /ẽj/            | in |
-| 7  | é                        | verbo                       | /e/             | is |
-| 8  | ele                      | pronome                     | /'e.li/         | it |
+|----|--------------------------|------------------|-----------------|----------------------|
+| 1a | o                        | artigo           | /u/             | the (male, singular) |
+| 1b | a                        | artigo           | /ɐ/             | the (female, singular) |
+| 1c | os                       | artigo           | /uʃ/            | the (male, plural) |
+| 1d | as                       | artigo           | /ɐʃ/            | the (female, plural) |
+| 2  | de                       | preposição       | /dʒi/           | of |
+| 3  | para                     | preposição       | /'pa.ɾɐ/        | to |
+| 4  | e                        | conjunção        | /i/             | and |
+| 5a | um                       | artigo           | /ũ/             | a (masculine, singular)  |
+| 5b | uma                      | artigo           | /ˈumə/          | a (feminine, singular) |
+| 5c | uns                      | artigo           | /ũs/            | some (masculine, plural) |
+| 5d | umas                     | artigo           | /ˈuməs/         | some (feminine, plural) |
+| 6  | em                       | preposição       | /ẽj/            | in |
+| 7  | é                        | verbo            | /e/             | is |
+| 8  | ele                      | pronome          | /'e.li/         | it |
 | 9a | tu                       | pronome                     | /tu/            | you (informal, singular, mostly used in European PT) |
 | 9b | você                     | pronome                     | /vo.'se/        | you (formal and informal (BR), singular) |
 | 9c | vocês                    | pronome                     | /vo.'seʃ/       | you (formal and informal, plural)   |

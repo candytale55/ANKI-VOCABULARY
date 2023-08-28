@@ -33,7 +33,7 @@
 
 
 
-
+## NOUNS
 
 
 
@@ -67,3 +67,22 @@
 | hora            | noun (fem)             | /ˈɔ.ɾɐ/        | hour                   | /aʊər/            | hora                    | /ˈo.ɾa/                      |          |
 | coração         | noun (mas)             | /ko.ɾɐˈsɐ̃w̃/  | heart                  | /hɑːrt/           | corazón                 | /koɾaˈson/                   |          |
 | pai             | noun (mas)             | /ˈpa.i/        | father                 | /ˈfɑː.ðər/        | padre                   | /ˈpaðɾe/                     |          |
+| pessoa          | noun (fem)             | /pɨˈso.ɐ/      | person                 | /ˈpɜː.sən/        | persona                 | /peɾˈsona/                   |          |
+| mulher          | noun (fem)             | /muˈɫeɾ/       | woman                  | /ˈwʊmən/          | mujer                   | /muˈxeɾ/                     |          |
+| amor            | noun (mas)             | /ɐˈmoɾ/        | love                   | /lʌv/             | amor                    | /aˈmoɾ/                      |          |
+| verdade         | noun (fem)             | /vɨɾˈdað/      | truth                  | /truːθ/           | verdad                  | /beˈɾað/                     |          |
+| ideia           | noun (fem)             | /iˈde.jɐ/      | idea                   | /aɪˈdiə/          | idea                    | /iˈðea/                      |          |
+| mãe             | noun (fem)             | /ˈmɐ̃j/        | mother                 | /ˈmʌðər/          | madre                   | /ˈmaðɾe/                     |          |
+| marido          | noun (mas)             | /mɐˈɾi.du/     | husband                | /ˈhʌz.bənd/       | marido                  | /maˈɾiðo/                    |          |
+| espírito        | noun (mas)             | /ɨʃˈpi.ɾi.tu/  | spirit                 | /ˈspɪr.ɪt/        | espíritu                | /esˈpiɾitu/                  |          |
+| viúva           | noun (fem)             | /viˈu.vɐ/      | widow                  | /ˈwɪd.oʊ/         | viuda                   | /ˈbjuða/                     |          |
+| viúvo           | noun (mas)             | /viˈuvu/       | widower                | /ˈwɪd.oʊ.ər/     | viudo                   | /ˈbjuðo/                     |          |
+| alma            | noun (fem)             | /ˈaɫ.mɐ/       | soul                   | /soʊl/            | alma                    | /ˈalma/                      |          |
+| fim             | noun (mas)             | /ˈfĩ/          | end                    | /ɛnd/             | fin                     | /fin/                        |          |
+| cabeça          | noun (fem)             | /ˈka.be.sɐ/    | head                   | /hɛd/             | cabeza                  | /kaˈβesa/                    |          |
+| nome            | noun (mas)             | /ˈno.mi/       | name                   | /neɪm/            | nombre                  | /ˈnombre/                   |          |
+| porta           | noun (fem)             | /ˈpoɾ.tɐ/      | door                   | /dɔːr/            | puerta                  | /ˈpweɾta/                    |          |
+| pé              | noun (mas)             | /ˈpe/          | foot                   | /fʊt/             | pie                     | /ˈpie/                       |          |
+| razão           | noun (fem)             | /ʁɐˈzɐ̃w̃/     | reason                 | /ˈriːzən/         | razón                   | /raˈθon/                     |          |
+| parte           | noun (fem)             | /ˈpaɾ.tɨ/      | part                   | /pɑːrt/           | parte                   | /ˈparte/                     |          |
+| modo            | noun (mas)             | /ˈmo.du/       | way/manner             | /weɪ/             | modo                    | /ˈmoðo/                      |          |

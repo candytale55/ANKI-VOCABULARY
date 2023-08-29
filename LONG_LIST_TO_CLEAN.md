@@ -3,12 +3,7 @@ Here is the generated table with feminine adjectives based on the provided list 
 
 | Portuguese Word | Part of Speech (Gender) | Portuguese IPA | Equivalent English Word | English IPA (USA) | Equivalent Spanish Word | Spanish IPA (Latin American) | Word No. |
 |-----------------|-------------------------|----------------|-------------------------|-------------------|-------------------------|-----------------------------|----------|
-| boa             | adj. (fem)              | /ˈbo.ɐ/        | good                    | /ɡʊd/             | buena                   | /ˈbwe.na/                   | 1        |
-| grande          | adj. (fem)              | /ˈɡɾɐ̃.d(ɨ)/   | big, large              | /bɪɡ, lɑːrdʒ/    | grande                  | /ˈɡɾande/                  | 2        |
-| melhor          | adj. (fem)              | /ˈmɛ.ʎoɾ/      | better                  | /ˈbɛtər/          | mejor                   | /meˈxoɾ/                   | 3        |
-| própria         | adj. (fem)              | /ˈpɾɔ.pɾjɐ/    | own                     | /oʊn/             | propia                  | /ˈpɾopja/                  | 4        |
-| velha           | adj. (fem)              | /ˈvɛ.ʎɐ/       | old                     | /oʊld/            | vieja                   | /ˈbje.xa/                  | 5        |
-| certa           | adj. (fem)              | /ˈsɛɾ.tɐ/      | right, certain          | /raɪt, ˈsɜːrtn/ | cierta                  | /ˈθjerta/                  | 6        |
+
 | última          | adj. (fem)              | /ˈuɫ.timɐ/     | last                    | /læst/            | última                  | /ˈul.tima/                 | 7        |
 | longa           | adj. (fem)              | /ˈɫõ.ɡɐ/       | long                    | /lɔŋ/             | larga                   | /ˈlaɾɡa/                   | 8        |
 | nova            | adj. (fem)              | /ˈno.vɐ/       | new                     | /nuː/             | nueva                   | /ˈnwe.βa/                  | 9        |

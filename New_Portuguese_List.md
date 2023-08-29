@@ -95,42 +95,35 @@
 
 | Portuguese Word | Part of Speech (Gender) | Portuguese IPA | Equivalent English Word | English IPA (USA) | Equivalent Spanish Word | Spanish IPA (Latin American) | Word No. |
 |-----------------|-------------------------|----------------|-------------------------|-------------------|-------------------------|-----------------------------|----------|
-| bom             | adj. (mas)    | /bõ/          | good        | /ɡʊd/         | bueno      | /ˈbweno/          |        |
 | boa             | adj. (fem)    | /ˈbo.ɐ/       | good        | /ɡʊd/         | buena      | /ˈbwe.na/         |        |
+| bom             | adj. (mas)    | /bõ/          | good        | /ɡʊd/         | bueno      | /ˈbweno/          |        |
 | grande          | adj.          | /ˈɡɾɐ̃.d(ɨ)/   | big, large  | /bɪɡ, lɑːrdʒ/ | grande     | /ˈɡɾande/         |        |
 | melhor          | adj.          | /mɨˈʎoɾ/      | better      | /ˈbɛtər/      | mejor      | /meˈxoɾ/          |        |
-| próprio         | adj. (mas)    | /ˈpɾɔ.pɾju/   | own         | /oʊn/         | propio     | /ˈpɾopjo/         |        |
 | própria         | adj. (fem)    | /ˈpɾɔ.pɾjɐ/   | own         | /oʊn/         | propia     | /ˈpɾopja/         |        |
-| velho           | adj. (mas)    | /ˈvɛ.ʎu/      | old         | /oʊld/        | viejo      | /ˈbje.xo/         |        |
+| próprio         | adj. (mas)    | /ˈpɾɔ.pɾju/   | own         | /oʊn/         | propio     | /ˈpɾopjo/         |        |
 | velha           | adj. (fem)    | /ˈvɛ.ʎɐ/      | old         | /oʊld/        | vieja      | /ˈbje.xa/         |        |
-| certo           | adj. (mas)    | /ˈsɛɾ.tu/     | right, certain  | /raɪt, ˈsɜːrtn/  | cierto  | /ˈθjerto/     |        |
+| velho           | adj. (mas)    | /ˈvɛ.ʎu/      | old         | /oʊld/        | viejo      | /ˈbje.xo/         |        |
 | certa           | adj. (fem)    | /ˈsɛɾ.tɐ/     | right, certain  | /raɪt, ˈsɜːrtn/  | cierta  | /ˈθjerta/     |        |
+| certo           | adj. (mas)    | /ˈsɛɾ.tu/     | right, certain  | /raɪt, ˈsɜːrtn/  | cierto  | /ˈθjerto/     |        |
+| última          | adj. (fem)    | /ˈuɫ.timɐ/    | last        | /læst/        | última     | /ˈul.tima/        |        |
 | último          | adj. (mas)    | /ˈuɫ.timu/    | last        | /læst/        | último     | /ˈul.timo/        |        |
-| última          | adj. (fem)              | /ˈuɫ.timɐ/     | last                    | /læst/            | última                  | /ˈul.tima/                 | 7        |
+| longa           | adj. (fem)    | /ˈɫõ.ɡɐ/      | long        | /lɔŋ/         | larga      | /ˈlaɾɡa/          |        |
+| longo           | adj. (mas)    | /ˈɫõ.ɡu/      | long        | /lɔŋ/         | largo      | /ˈlaɾɣo/          |        |
+| nova            | adj. (fem)    | /ˈno.vɐ/      | new         | /nuː/         | nueva      | /ˈnwe.βa/         |        |
+| novo            | adj. (mas)    | /ˈno.vu/      | new         | /nuː/         | nuevo      | /ˈnwe.βo/         |        |
+| única           | adj. (fem)    | /ˈu.ni.kɐ/    | unique      | /juːˈniːk/    | única      | /ˈu.ni.ka/        |        |
+| único           | adj. (mas)    | /ˈu.ni.ku/    | unique      | /juːˈniːk/    | único      | /ˈu.ni.ko/        |        |
+| antiga          | adj. (fem)    | /ɐ̃ˈti.ɡɐ/     | old, ancient| /oʊld, ˈeɪn.ʃənt/| antigua | /anˈtiɣwa/        |        |
+| antigo          | adj. (mas)    | /ɐ̃ˈti.ɡu/     | old, ancient| /oʊld, ˈeɪn.ʃənt/| antiguo | /anˈtiɣwo/        |        |
+| belo            | adj. (mas)    | /ˈbe.lu/      | beautiful   | /ˈbjuː.tɪ.fəl/   | bello   | /ˈbeʎo/           |        |
+| bela            | adj. (fem)    | /ˈbe.lɐ/      | beautiful   | /ˈbjuː.tɪ.fəl/   | bella   | /ˈbe.ʎa/          |        |
+| seguinte        | adj. (mas)    | /ˈse.ɡʊin.t(ɨ)/ | following, next   | /ˈfɑː.loʊ.ɪŋ, nɛkst/ | siguiente | /siˈɣjente/  |        |
+| preciso         | adj. (mas)    | /ˈpɾɛ.si.zu/  | necessary, precise| /ˈnɛs.əˌsɛri, prɪˈsaɪs/| preciso | /ˈpɾesi.so/  |       |
+| precisa         | adj. (fem)    | /ˈpɾɛ.zi.dɐ/  | necessary, precise| /ˈnɛs.əˌsɛri, prɪˈsaɪs/| precisa | /ˈpɾesiða/   |       |
+| meia            | adj. (fem)    | /ˈme.jɐ/      | half        | /hæf/          | media     | /ˈmeðja/           |        |
+| meio            | adj. (mas)    | /ˈme.ju/      | half        | /hæf/          | medio     | /ˈme.ðjo/          |        |
+| natural         | adj. (mas)    | /nɐ.tuˈɾaɫ/   | natural     | /ˈnætʃ.ərəl/   | natural   | /naˈtuɾal/         |        |
 
-| longo           | adj. (mas)              | /ˈɫõ.ɡu/       | long                    | /lɔŋ/             | largo                   | /ˈlaɾɣo/                   | 8        |
-| longa           | adj. (fem)              | /ˈɫõ.ɡɐ/       | long                    | /lɔŋ/             | larga                   | /ˈlaɾɡa/                   | 8        |
-
-| novo            | adj. (mas)              | /ˈno.vu/        | new                     | /nuː/             | nuevo                   | /ˈnwe.βo/                  | 9        |
-| nova            | adj. (fem)              | /ˈno.vɐ/       | new                     | /nuː/             | nueva                   | /ˈnwe.βa/                  | 9        |
-
-| único           | adj. (mas)              | /ˈu.ni.ku/      | unique                  | /juːˈniːk/        | único                   | /ˈu.ni.ko/                 | 10       |
-| única           | adj. (fem)              | /ˈu.ni.kɐ/     | unique                  | /juːˈniːk/        | única                   | /ˈu.ni.ka/                 | 10       |
-
-| antigo          | adj. (mas)              | /ɐ̃ˈti.ɡu/     | old, ancient            | /oʊld, ˈeɪn.ʃənt/| antiguo                 | /anˈtiɣwo/                 | 11       |
-| antiga          | adj. (fem)              | /ɐ̃ˈti.ɡɐ/     | old, ancient            | /oʊld, ˈeɪn.ʃənt/| antigua                 | /anˈtiɣwa/                 | 11       |
-
-| belo            | adj. (mas)              | /ˈbe.lu/        | beautiful               | /ˈbjuː.tɪ.fəl/    | bello                   | /ˈbeʎo/                    | 12       |
-| bela            | adj. (fem)              | /ˈbe.lɐ/       | beautiful               | /ˈbjuː.tɪ.fəl/    | bella                   | /ˈbe.ʎa/                   | 12       |
-
-| seguinte        | adj. (mas)              | /ˈse.ɡʊin.t(ɨ)/ | following, next         | /ˈfɑː.loʊ.ɪŋ, nɛkst/ | siguiente               | /siˈɣjente/                | 13       |
-| preciso         | adj. (mas)              | /ˈpɾɛ.si.zu/    | necessary, precise      | /ˈnɛs.əˌsɛri, prɪˈsaɪs/| preciso                 | /ˈpɾesi.so/                 | 14       |
-| precisa         | adj. (fem)              | /ˈpɾɛ.zi.dɐ/   | necessary, precise      | /ˈnɛs.əˌsɛri, prɪˈsaɪs/| precisa                 | /ˈpɾesiða/                 | 14       |
-
-| meio            | adj. (mas)              | /ˈme.ju/        | half                    | /hæf/             | medio                   | /ˈme.ðjo/                  | 15       |
-| meia            | adj. (fem)              | /ˈme.jɐ/       | half                    | /hæf/             | media                   | /ˈmeðja/                   | 15       |
-
-| natural         | adj. (mas)              | /nɐ.tuˈɾaɫ/    | natural                 | /ˈnætʃ.ərəl/      | natural                 | /naˈtuɾal/                 | 16       |
 | maior           | adj. (mas)              | /majˈoɾ/        | bigger, greater         | /ˈbɪɡər, ˈɡreɪtər/ | mayor                   | /maˈʝoɾ/                   | 17       |
 | triste          | adj. (mas)              | /ˈtɾiʃ.t(ɨ)/   | sad                     | /sæd/             | triste                  | /ˈtɾiste/                  | 18       |
 | bonito          | adj. (mas)              | /bo.ˈni.tu/     | beautiful              | /ˈbjuː.tɪ.fəl/    | bonito                  | /boˈnito/                  | 19       |

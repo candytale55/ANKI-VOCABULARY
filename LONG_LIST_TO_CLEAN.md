@@ -1,28 +1,4 @@
 
-Here is the generated table with feminine adjectives based on the provided list of masculine adjectives:
-
-| Portuguese Word | Part of Speech (Gender) | Portuguese IPA | Equivalent English Word | English IPA (USA) | Equivalent Spanish Word | Spanish IPA (Latin American) | Word No. |
-|-----------------|-------------------------|----------------|-------------------------|-------------------|-------------------------|-----------------------------|----------|
-
-| última          | adj. (fem)              | /ˈuɫ.timɐ/     | last                    | /læst/            | última                  | /ˈul.tima/                 | 7        |
-| longa           | adj. (fem)              | /ˈɫõ.ɡɐ/       | long                    | /lɔŋ/             | larga                   | /ˈlaɾɡa/                   | 8        |
-| nova            | adj. (fem)              | /ˈno.vɐ/       | new                     | /nuː/             | nueva                   | /ˈnwe.βa/                  | 9        |
-| única           | adj. (fem)              | /ˈu.ni.kɐ/     | unique                  | /juːˈniːk/        | única                   | /ˈu.ni.ka/                 | 10       |
-| antiga          | adj. (fem)              | /ɐ̃ˈti.ɡɐ/     | old, ancient            | /oʊld, ˈeɪn.ʃənt/| antigua                 | /anˈtiɣwa/                 | 11       |
-| bela            | adj. (fem)              | /ˈbe.lɐ/       | beautiful               | /ˈbjuː.tɪ.fəl/    | bella                   | /ˈbe.ʎa/                   | 12       |
-| seguinte        | adj. (fem)              | /ˈse.ɡʊin.t(ɨ)/ | following, next         | /ˈfɑː.loʊ.ɪŋ, nɛkst/ | siguiente               | /siˈɣjente/                | 13       |
-| precisa         | adj. (fem)              | /ˈpɾɛ.zi.dɐ/   | necessary, precise      | /ˈnɛs.əˌsɛri, prɪˈsaɪs/| precisa                 | /ˈpɾesiða/                 | 14       |
-| meia            | adj. (fem)              | /ˈme.jɐ/       | half                    | /hæf/             | media                   | /ˈmeðja/                   | 15       |
-| natural         | adj. (fem)              | /nɐ.tuˈɾaɫ/    | natural                 | /ˈnætʃ.ərəl/      | natural                 | /naˈtuɾal/                 | 16       |
-| maior           | adj. (fem)              | /majˈoɾ/       | bigger, greater         | /
-
-
-
-La lista tiene valores repetidos, que probablemente vienen de las tarjetas del mazo existente de ANKI. Esta lista probablemente se tenga que eliminar pero por precaución la dejaré aquí hasta que el mazo final haya sido generado. 
-
-
-
-
 | No. | English        | French          | Catalan        | German           | Spanish          | Portuguese       | Italian          | Romanian        |
 | --- | -------------- | --------------- | -------------- | ---------------- | ---------------- | ---------------- | ---------------- | --------------- |
 | 1   | I              | je              | jo             | ich              | yo               | eu               | io               | eu              |

@@ -95,10 +95,12 @@
 
 | Portuguese Word | Part of Speech (Gender) | Portuguese IPA | Equivalent English Word | English IPA (USA) | Equivalent Spanish Word | Spanish IPA (Latin American) | Word No. |
 |-----------------|-------------------------|----------------|-------------------------|-------------------|-------------------------|-----------------------------|----------|
-| bom             | adj. (mas)              | /bõ/           | good                    | /ɡʊd/             | bueno                   | /ˈbweno/                   | 1        |
-| grande          | adj. (mas)              | /ˈɡɾɐ̃.d(ɨ)/   | big, large              | /bɪɡ, lɑːrdʒ/    | grande                  | /ˈɡɾande/                  | 2        |
-| melhor          | adj. (mas)              | /mɨˈʎoɾ/       | better                  | /ˈbɛtər/          | mejor                   | /meˈxoɾ/                   | 3        |
-| próprio         | adj. (mas)              | /ˈpɾɔ.pɾju/    | own                     | /oʊn/             | propio                  | /ˈpɾopjo/                  | 4        |
+| bom             | adj. (mas)    | /bõ/          | good        | /ɡʊd/         | bueno      | /ˈbweno/          |        |
+| boa             | adj. (fem)    | /ˈbo.ɐ/       | good        | /ɡʊd/         | buena      | /ˈbwe.na/         |        |
+| grande          | adj.          | /ˈɡɾɐ̃.d(ɨ)/   | big, large  | /bɪɡ, lɑːrdʒ/ | grande     | /ˈɡɾande/         |        |
+| melhor          | adj.          | /mɨˈʎoɾ/      | better      | /ˈbɛtər/      | mejor      | /meˈxoɾ/          |        |
+| próprio         | adj. (mas)    | /ˈpɾɔ.pɾju/   | own         | /oʊn/         | propio     | /ˈpɾopjo/         |        |
+| própria         | adj. (fem)    | /ˈpɾɔ.pɾjɐ/   | own         | /oʊn/         | propia     | /ˈpɾopja/         |        |
 | velho           | adj. (mas)              | /ˈvɛ.ʎu/       | old                     | /oʊld/            | viejo                   | /ˈbje.xo/                  | 5        |
 | certo           | adj. (mas)              | /ˈsɛɾ.tu/       | right, certain          | /raɪt, ˈsɜːrtn/  | cierto                  | /ˈθjerto/                  | 6        |
 | último          | adj. (mas)              | /ˈuɫ.timu/      | last                    | /læst/            | último                  | /ˈul.timo/                 | 7        |

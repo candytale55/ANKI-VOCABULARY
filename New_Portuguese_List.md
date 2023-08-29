@@ -91,7 +91,7 @@
 
 ## Adjetives
 
-Here is the generated table as per your request:
+
 
 | Portuguese Word | Part of Speech (Gender) | Portuguese IPA | Equivalent English Word | English IPA (USA) | Equivalent Spanish Word | Spanish IPA (Latin American) | Word No. |
 |-----------------|-------------------------|----------------|-------------------------|-------------------|-------------------------|-----------------------------|----------|

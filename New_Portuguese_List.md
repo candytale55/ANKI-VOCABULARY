@@ -39,7 +39,7 @@
 
 | Portuguese Word | Part of Speech (Gender) | Portuguese IPA | Equivalent English Word | English IPA (USA) | Equivalent Spanish Word | Spanish IPA (Latin American) | Word No. |
 |-----------------|------------------------|----------------|------------------------|-------------------|-------------------------|-----------------------------|----------|
-| cousa           | noun (fem)             | /ˈko.wzɐ/      | thing                  | /θɪŋ/             | cosa                    | /ˈkosa/                     |          |
+| cousa           | noun (fem)(archaic)    | /ˈko.wzɐ/      | thing                  | /θɪŋ/             | cosa                    | /ˈkosa/                     |          |
 | coisa           | noun (fem)             | /ˈkoj.zɐ/      | thing                  | /θɪŋ/             | cosa                    | /ˈkosa/                     |          |
 | casa            | noun (fem)             | /ˈka.zɐ/       | house                  | /haʊs/            | casa                    | /ˈkasa/                     |          |
 | tempo           | noun (mas)             | /ˈtẽ.pu/       | time                   | /taɪm/            | tiempo                  | /ˈtjempo/                   |          |

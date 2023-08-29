@@ -86,3 +86,54 @@
 | razão           | noun (fem)             | /ʁɐˈzɐ̃w̃/     | reason                 | /ˈriːzən/         | razón                   | /raˈθon/                     |          |
 | parte           | noun (fem)             | /ˈpaɾ.tɨ/      | part                   | /pɑːrt/           | parte                   | /ˈparte/                     |          |
 | modo            | noun (mas)             | /ˈmo.du/       | way/manner             | /weɪ/             | modo                    | /ˈmoðo/                      |          |
+
+
+
+## Adjetives
+
+Here is the generated table as per your request:
+
+| Portuguese Word | Part of Speech (Gender) | Portuguese IPA | Equivalent English Word | English IPA (USA) | Equivalent Spanish Word | Spanish IPA (Latin American) | Word No. |
+|-----------------|-------------------------|----------------|-------------------------|-------------------|-------------------------|-----------------------------|----------|
+| bom             | adj. (mas)              | /bõ/           | good                    | /ɡʊd/             | bueno                   | /ˈbweno/                   | 1        |
+| grande          | adj. (mas)              | /ˈɡɾɐ̃.d(ɨ)/   | big, large              | /bɪɡ, lɑːrdʒ/    | grande                  | /ˈɡɾande/                  | 2        |
+| melhor          | adj. (mas)              | /mɨˈʎoɾ/       | better                  | /ˈbɛtər/          | mejor                   | /meˈxoɾ/                   | 3        |
+| próprio         | adj. (mas)              | /ˈpɾɔ.pɾju/    | own                     | /oʊn/             | propio                  | /ˈpɾopjo/                  | 4        |
+| velho           | adj. (mas)              | /ˈvɛ.ʎu/       | old                     | /oʊld/            | viejo                   | /ˈbje.xo/                  | 5        |
+| certo           | adj. (mas)              | /ˈsɛɾ.tu/       | right, certain          | /raɪt, ˈsɜːrtn/  | cierto                  | /ˈθjerto/                  | 6        |
+| último          | adj. (mas)              | /ˈuɫ.timu/      | last                    | /læst/            | último                  | /ˈul.timo/                 | 7        |
+| longo           | adj. (mas)              | /ˈɫõ.ɡu/       | long                    | /lɔŋ/             | largo                   | /ˈlaɾɣo/                   | 8        |
+| novo            | adj. (mas)              | /ˈno.vu/        | new                     | /nuː/             | nuevo                   | /ˈnwe.βo/                  | 9        |
+| único           | adj. (mas)              | /ˈu.ni.ku/      | unique                  | /juːˈniːk/        | único                   | /ˈu.ni.ko/                 | 10       |
+| antigo          | adj. (mas)              | /ɐ̃ˈti.ɡu/     | old, ancient            | /oʊld, ˈeɪn.ʃənt/| antiguo                 | /anˈtiɣwo/                 | 11       |
+| belo            | adj. (mas)              | /ˈbe.lu/        | beautiful               | /ˈbjuː.tɪ.fəl/    | bello                   | /ˈbeʎo/                    | 12       |
+| seguinte        | adj. (mas)              | /ˈse.ɡʊin.t(ɨ)/ | following, next         | /ˈfɑː.loʊ.ɪŋ, nɛkst/ | siguiente               | /siˈɣjente/                | 13       |
+| preciso         | adj. (mas)              | /ˈpɾɛ.si.zu/    | necessary, precise      | /ˈnɛs.əˌsɛri, prɪˈsaɪs/| preciso                 | /ˈpɾesi.so/                 | 14       |
+| meio            | adj. (mas)              | /ˈme.ju/        | half                    | /hæf/             | medio                   | /ˈme.ðjo/                  | 15       |
+| natural         | adj. (mas)              | /nɐ.tuˈɾaɫ/    | natural                 | /ˈnætʃ.ərəl/      | natural                 | /naˈtuɾal/                 | 16       |
+| maior           | adj. (mas)              | /majˈoɾ/        | bigger, greater         | /ˈbɪɡər, ˈɡreɪtər/ | mayor                   | /maˈʝoɾ/                   | 17       |
+| triste          | adj. (mas)              | /ˈtɾiʃ.t(ɨ)/   | sad                     | /sæd/             | triste                  | /ˈtɾiste/                  | 18       |
+| bonito          | adj. (mas)              | /bo.ˈni.tu/     | beautiful
+
+               | /ˈbjuː.tɪ.fəl/    | bonito                  | /boˈnito/                  | 19       |
+| só              | adj. (mas)              | /ˈso/           | alone, only             | /əˈloʊn, ˈoʊnli/ | solo                    | /ˈso.lo/                   | 20       |
+| simples         | adj. (mas)              | /ˈsĩ.pliʒ/      | simple                  | /ˈsɪm.pəl/        | simple                  | /ˈsim.ple/                 | 21       |
+| mau             | adj. (mas)              | /maw/           | bad, poor               | /bæd, pʊr/        | malo                    | /ˈmalo/                    | 22       |
+| verdadeiro      | adj. (mas)              | /vɛɾ.dɐˈdɐj.ɾu/ | true                    | /truː/            | verdadero               | /beɾðaˈðeɾo/               | 23       |
+| alegre          | adj. (mas)              | /aˈlɛ.ɡɾ(ɨ)/   | happy                   | /ˈhæp.i/          | alegre                  | /aˈleɣɾe/                  | 24       |
+| político        | adj. (mas)              | /poˈli.tiku/    | political               | /pəˈlɪtɪkəl/      | político                | /poˈlitiko/                | 25       |
+| alto            | adj. (mas)              | /ˈaɫ.tu/        | tall, high              | /tɔːl, haɪ/       | alto                    | /ˈalto/                    | 26       |
+| público         | adj. (mas)              | /ˈpu.bli.ku/    | public                  | /ˈpʌblɪk/         | público                 | /ˈpu.βli.ko/                | 27       |
+| grave           | adj. (mas)              | /ˈɡɾa.vɨ/       | serious, grave          | /ˈsɪə.riəs, ɡreɪv/| grave                   | /ˈɡɾa.βe/                  | 28       |
+| vivo            | adj. (mas)              | /ˈvi.vu/        | alive                   | /əˈlaɪv/          | vivo                    | /ˈbi.βo/                   | 29       |
+| cheio           | adj. (mas)              | /ˈʃɛ.ju/        | full                    | /fʊl/             | lleno                   | /ˈʎeno/                    | 30       |
+| feliz           | adj. (mas)              | /ˈfɛ.liz/       | happy                   | /ˈhæp.i/          | feliz                   | /feˈlis/                   | 31       |
+| possível        | adj. (mas)              | /ˈpo.si.vɛl/    | possible                | /ˈpɑː.sə.bəl/    | posible                 | /poˈsi.ble/                | 32       |
+| raro            | adj. (mas)              | /ˈɾa.ɾu/        | rare                    | /rɛər/            | raro                    | /ˈraɾo/                    | 33       |
+| claro           | adj. (mas)              | /ˈkla.ɾu/       | clear                   | /klɪr/            | claro                   | /ˈklaɾo/                   | 34       |
+| necessário      | adj. (mas)              | /nɛ.sɛˈsa.ɾju/ | necessary               | /ˈnɛs.əˌsɛri/    | necesario               | /ne.saˈsjo.ɾjo/             | 35       |
+| pequeno         | adj. (mas)              | /ˈpe.kw(ɨ).nu/  | small                   | /smɔːl/           | pequeño                 | /peˈkeɲo/                   | 36       |
+| igual           | adj. (mas)              | /i.ˈɡwaɫ/       | equal                   | /ˈiːkwəl/         | igual                   | /iˈɣwal/                    | 37       |
+| fino            | adj. (mas)              | /ˈfi.nu/        | thin, fine              | /θɪn, faɪn/       | fino                    | /ˈfino/                    | 38       |
+| impossível      | adj. (mas)              | /ĩ.po.ˈsi.vɛw/  | impossible              | /ɪmˈpɑː.sə.bəl/  | imposible               | /im.poˈsi.ble/              | 39       |
+| pobre           | adj. (mas)              | /ˈpɔ.bɾ(ɨ)/     | poor                    | /pʊr/             | pobre                   | /ˈpo.βɾe/                   | 40       |

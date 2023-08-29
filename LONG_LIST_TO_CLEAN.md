@@ -1,4 +1,28 @@
 
+Here is the generated table with feminine adjectives based on the provided list of masculine adjectives:
+
+| Portuguese Word | Part of Speech (Gender) | Portuguese IPA | Equivalent English Word | English IPA (USA) | Equivalent Spanish Word | Spanish IPA (Latin American) | Word No. |
+|-----------------|-------------------------|----------------|-------------------------|-------------------|-------------------------|-----------------------------|----------|
+| boa             | adj. (fem)              | /ˈbo.ɐ/        | good                    | /ɡʊd/             | buena                   | /ˈbwe.na/                   | 1        |
+| grande          | adj. (fem)              | /ˈɡɾɐ̃.d(ɨ)/   | big, large              | /bɪɡ, lɑːrdʒ/    | grande                  | /ˈɡɾande/                  | 2        |
+| melhor          | adj. (fem)              | /ˈmɛ.ʎoɾ/      | better                  | /ˈbɛtər/          | mejor                   | /meˈxoɾ/                   | 3        |
+| própria         | adj. (fem)              | /ˈpɾɔ.pɾjɐ/    | own                     | /oʊn/             | propia                  | /ˈpɾopja/                  | 4        |
+| velha           | adj. (fem)              | /ˈvɛ.ʎɐ/       | old                     | /oʊld/            | vieja                   | /ˈbje.xa/                  | 5        |
+| certa           | adj. (fem)              | /ˈsɛɾ.tɐ/      | right, certain          | /raɪt, ˈsɜːrtn/ | cierta                  | /ˈθjerta/                  | 6        |
+| última          | adj. (fem)              | /ˈuɫ.timɐ/     | last                    | /læst/            | última                  | /ˈul.tima/                 | 7        |
+| longa           | adj. (fem)              | /ˈɫõ.ɡɐ/       | long                    | /lɔŋ/             | larga                   | /ˈlaɾɡa/                   | 8        |
+| nova            | adj. (fem)              | /ˈno.vɐ/       | new                     | /nuː/             | nueva                   | /ˈnwe.βa/                  | 9        |
+| única           | adj. (fem)              | /ˈu.ni.kɐ/     | unique                  | /juːˈniːk/        | única                   | /ˈu.ni.ka/                 | 10       |
+| antiga          | adj. (fem)              | /ɐ̃ˈti.ɡɐ/     | old, ancient            | /oʊld, ˈeɪn.ʃənt/| antigua                 | /anˈtiɣwa/                 | 11       |
+| bela            | adj. (fem)              | /ˈbe.lɐ/       | beautiful               | /ˈbjuː.tɪ.fəl/    | bella                   | /ˈbe.ʎa/                   | 12       |
+| seguinte        | adj. (fem)              | /ˈse.ɡʊin.t(ɨ)/ | following, next         | /ˈfɑː.loʊ.ɪŋ, nɛkst/ | siguiente               | /siˈɣjente/                | 13       |
+| precisa         | adj. (fem)              | /ˈpɾɛ.zi.dɐ/   | necessary, precise      | /ˈnɛs.əˌsɛri, prɪˈsaɪs/| precisa                 | /ˈpɾesiða/                 | 14       |
+| meia            | adj. (fem)              | /ˈme.jɐ/       | half                    | /hæf/             | media                   | /ˈmeðja/                   | 15       |
+| natural         | adj. (fem)              | /nɐ.tuˈɾaɫ/    | natural                 | /ˈnætʃ.ərəl/      | natural                 | /naˈtuɾal/                 | 16       |
+| maior           | adj. (fem)              | /majˈoɾ/       | bigger, greater         | /
+
+
+
 La lista tiene valores repetidos, que probablemente vienen de las tarjetas del mazo existente de ANKI. Esta lista probablemente se tenga que eliminar pero por precaución la dejaré aquí hasta que el mazo final haya sido generado. 
 
 

@@ -209,6 +209,28 @@
 | orla            | substantivo (fem)       | /ˈɔɾ.lɐ/       | border, edge           | /ˈbɔrdər, ɛdʒ/  | orilla                  | /o'ɾi.ʎa/                    |          |
 
 
+## CINCO LETRAS
+
+| Portuguese Word | Part of Speech (Gender) | Portuguese IPA | Equivalent English Word | English IPA (USA) | Equivalent Spanish Word | Spanish IPA (Latin American) | Word No. |
+|-----------------|-------------------------|----------------|------------------------|------------------|-------------------------|-----------------------------|----------|
+| sagaz           | adjetivo (masc)         | /sa.ˈɡaʒ/      | shrewd, astute         | /ʃruːd, əˈstuːt/ | sagaz                   | /sa'ɣas/                     |          |
+| âmago           | substantivo (masc)      | /ˈa.ma.ɡu/     | core, essence          | /kɔr, ˈɛsəns/    | esencia                 | /e'sen.sja/                  |          |
+| negro           | adjetivo (masc)         | /ˈnɛ.ɡɾu/      | black                  | /blæk/           | negro                   | /'ne.ɣɾo/                    |          |
+| êxito           | substantivo (masc)      | /ˈɛ.ʃi.tu/     | success                | /səkˈsɛs/        | éxito                   | /'ek.si.to/                  |          |
+| termo           | substantivo (masc)      | /ˈtɛɾ.mu/      | term, word             | /tɜrm, wɜrd/     | término                 | /'ter.mi.no/                 |          |
+| mexer           | verbo                   | /mɛ.ˈʃɛɾ/      | to move, to stir       | /tuː muːv, tuː stɜr/ | mover                   | /mo'βer/                     |          |
+| nobre           | adjetivo (masc)         | /ˈnɔ.bɾi/      | noble                  | /ˈnoʊ.bəl/       | noble                   | /'no.βle/                    |          |
+| senso           | substantivo (masc)      | /ˈsɛ̃.su/      | sense                  | /sɛns/           | sentido                 | /sen'ti.do/                  |          |
+| afeto           | substantivo (masc)      | /a.ˈfɛ.tu/     | affection, love        | /əˈfɛkʃən, lʌv/ | afecto                  | /a'fek.to/                   |          |
+| algoz           | substantivo (masc)      | /al.ˈɡɔs/     | executioner, tormentor | /ˌɛksɪˈkjuːʃənər, tɔrˈmɛntər/ | verdugo             | /bɛrˈðu.ɣo/               |          |
+| ética           | substantivo (fem)       | /ˈe.ti.ka/     | ethics                 | /ˈɛθɪks/         | ética                   | /'e.ti.ka/                   |          |
+| plena           | adjetivo (fem)          | /ˈple.nɐ/      | full                   | /fʊl/            | plena                   | /'ple.na/                    |          |
+| mútua           | adjetivo (fem)          | /ˈmu.twa/      | mutual                 | /ˈmjuː.tʃu.əl/   | mutua                   | /'mu.twa/                    |          |
+| tênue           | adjetivo (fem)          | /ˈtɛ.nw/       | tenuous                | /ˈtɛnju.əs/      | tenue                   | /te.'nwe/                    |          |
+| fazer           | verbo                   | /fa.ˈzɛɾ/      | to do, to make         | /tuː duː, tuː meɪk/ | hacer                   | /a'θer/                      |          |
+| assim           | advérbio                | /a.ˈsim/       | so, like this          | /soʊ, laɪk ðɪs/  | así                     | /a'si/                       |          |
+| sutil           | adjetivo (fem)          | /su.ˈtil/      | subtle                 | /ˈsʌtəl/         | sutil                   | /su'til/                     |          |
+| vigor           | substantivo (masc)      | /vi.ˈɡɔɾ/     | vigor                  | /ˈvɪɡər/         | vigor                   | /bi.'ɣor/                    |          |
 
 
 | Portuguese Word | Part of Speech | Portuguese IPA | Equivalent English Word | English IPA (USA) | Equivalent Spanish Word | Spanish IPA (Latin American) | Word No. |

@@ -231,6 +231,24 @@
 | assim           | advérbio                | /a.ˈsim/       | so, like this          | /soʊ, laɪk ðɪs/  | así                     | /a'si/                       |          |
 | sutil           | adjetivo (fem)          | /su.ˈtil/      | subtle                 | /ˈsʌtəl/         | sutil                   | /su'til/                     |          |
 | vigor           | substantivo (masc)      | /vi.ˈɡɔɾ/     | vigor                  | /ˈvɪɡər/         | vigor                   | /bi.'ɣor/                    |          |
+| aquém           | advérbio                | /a.ˈkẽ/        | this side, within     | /ðɪs saɪd, wɪðˈɪn/ | aquende                 | /a'ken.de/                   |          |
+| porém           | conjunção               | /po.ˈɾẽj/      | however, but          | /haʊˈɛvɚ, bət/   | pero                    | /'pe.ɾo/                     |          |
+| seção           | substantivo (fem)       | /se.ˈsɐ̃w/     | section                | /ˈsɛkʃən/        | sección                 | /se'θjon/                    |          |
+| fosse           | verbo (subjuntivo)      | /ˈfo.sɨ/       | were (subjunctive)     | /wɜr/            | fuera                   | /'fwe.ɾa/                    |          |
+| sanar           | verbo                   | /sa.ˈnaɾ/      | to heal, to cure       | /tuː hil, tuː kjʊr/ | sanar                   | /sa'naɾ/                     |          |
+| audaz           | adjetivo (masc)         | /aw.ˈdas/      | bold, daring           | /boʊld, ˈdɛrɪŋ/ | audaz                   | /aw'ðas/                     |          |
+| poder           | verbo/substantivo (masc)| /po.ˈdeɾ/      | to be able, power      | /tuː bi ˈeɪ.bl̩, ˈpaʊər/ | poder                   | /po'ðeɾ/                     |          |
+| ideia           | substantivo (fem)       | /i.ˈdɐj.ɐ/     | idea                   | /aɪˈdiə/         | idea                    | /iˈðe.a/                     |          |
+| cerne           | substantivo (masc)      | /ˈsɛɾ.nɨ/      | core, essence          | /kɔr, ˈɛsəns/    | meollo                  | /me'ɔ.ʝo/                    |          |
+| inato           | adjetivo (masc)         | /i.ˈna.tu/     | innate, inborn         | /ɪˈneɪt, ɪnˈbɔrn/ | innato                  | /i'nːa.to/                   |          |
+| moral           | adjetivo (fem)          | /mo.ˈɾaw/      | moral                  | /ˈmɔrəl/         | moral                   | /mo'ɾal/                     |          |
+| desde           | preposição/conjunção    | /ˈde.zi/       | since, from            | /sɪns, frʌm/      | desde                   | /'de.se/                     |          |
+| sobre           | preposição              | /ˈso.bɾɨ/      | on, about              | /ɒn, əˈbaʊt/     | sobre                   | /'so.βɾe/                    |          |
+| justo           | adjetivo (masc)         | /ˈʒus.tu/      | just, fair             | /dʒʌst, fɛr/     | justo                   | /'xus.to/                    |          |
+| muito           | pronome/adverbio        | /ˈmũj.tu/     | much, very             | /mʌtʃ, ˈvɛri/    | mucho                   | /'mu.ʧo/                    |          |
+| honra           | substantivo (fem)       | /ˈõ.na.ɾɐ/     | honor, dignity         | /ˈɒnər, ˈdɪɡnəti/ | honra                   | /'on.ɾa/                     |          |
+| torpe           | adjetivo (masc)         | /ˈtoɾ.pɨ/      | clumsy, awkward        | /ˈklʌmzi, ˈɔkwərd/ | torpe                   | /'toɾ.pe/                    |          |
+| quiçá           | advérbio                | /ki.ˈza/       | perhaps, maybe         | /pɚˈhæps, ˈmeɪbi/ | quizá                   | /ki'θa/                      |          |
 
 
 | Portuguese Word | Part of Speech | Portuguese IPA | Equivalent English Word | English IPA (USA) | Equivalent Spanish Word | Spanish IPA (Latin American) | Word No. |

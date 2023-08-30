@@ -120,7 +120,30 @@
 | saga            | substantivo (fem)      | /ˈsa.ɡɐ/        | saga                   | /ˈsæɡə/          | saga                    | /'sa.ɣa/                     |          |
 | medo            | substantivo (masc)     | /ˈme.du/        | fear                   | /fɪr/            | miedo                   | /'mje.ðo/                    |          |
 | ônus            | substantivo (masc)     | /ˈo.nus/        | burden                 | /ˈbɜrdən/        | onus                    | /'o.nus/                     |          |
+| ermo            | substantivo (masc)     | /ˈeɾ.mu/        | wilderness             | /ˈwɪldərnəs/     | erial                   | /e'ɾjal/                     |          |
+| suma            | substantivo (fem)      | /ˈsu.mɐ/        | sum                    | /sʌm/            | suma                    | /'su.ma/                     |          |
+| mote            | substantivo (masc)     | /ˈmo.tɨ/        | motto                  | /ˈmɑtoʊ/         | mote                    | /'mo.te/                     |          |
+| vovó            | substantivo (fem)      | /vo'vo/         | grandma                | /ˈɡrænˌmɑðə/    | abuela                  | /a'βwe.la/                    |          |
+| idem            | advérbio                 | /i'dẽj/         | same                   | /seɪm/           | ídem                    | /'i.ðem/                     |          |
+| tolo            | substantivo (masc)     | /ˈto.lu/        | fool                   | /ful/            | tonto                   | /'ton.to/                    |          |
+| além            | preposição              | /a'wẽj/         | beyond                 | /bɪˈjɑnd/        | además                 | /a'de.mas/                   |          |
+| sina            | substantivo (fem)      | /'si.nɐ/        | sign                   | /saɪn/           | señal                   | /se'ɲal/                     |          |
+| urge            | verbo (3rd person)      | /'uʁʒɨ/         | urges                  | /ɜrdʒɪz/         | urge                    | /'ur.xe/                     |          |
+| crer            | verbo                   | /kɾeɾ/          | believe                | /bɪˈliːv/        | creer                   | /kɾe'el/                     |          |
+| apto            | adjetivo (masc)         | /ˈap.tu/        | capable                | /ˈkeɪpəbəl/      | apto                    | /'ap.to/                     |          |
+| pela            | preposição              | /ˈpe.lɐ/        | by the                 | /baɪ ðə/         | por la                  | /poɾ 'la/                     |          |
+| veio            | verbo                   | /'ve.ju/        | came                   | /keɪm/           | vino                    | /'bi.no/                     |          |
+| zelo            | substantivo (masc)     | /ˈze.lu/        | zeal                   | /ziːl/           | celo                    | /'se.lo/                     |          |
+| pude            | verbo                   | /'pu.dʒɨ/       | could                  | /kʊd/            | pude                    | /'pu.ðe/                     |          |
+| tudo            | pronome                 | /'tu.du/        | everything             | /ˈɛv.riˌθɪŋ/    | todo                    | /'to.ðo/                     |          |
+| área            | substantivo (fem)      | /a'ɾe.ɐ/        | area                   | /ˈɛəriə/         | área                    | /'a.ɾe.a/                     |          |
+| ruim            | adjetivo (masc)         | /ˈʁwĩ/          | bad                    | /bæd/            | mal                     | /mal/                        |          |
+| rude            | adjetivo (masc)         | /ˈʁu.d
 
+ɨ/        | rude                   | /ruːd/           | rudo                    | /'ru.do/                     |          |
+| mais            | advérbio                 | /maɪs/          | more                   | /mɔr/            | más                     | /mas/                        |          |
+| amar            | verbo                   | /a'maɾ/         | love                   | /lʌv/            | amar                    | /a'mar/                      |          |
+| coxo            | adjetivo (masc)         | /ˈko.ʃu/        | lame                   | /leɪm/           | cojo                    | /'ko.xo/                     |          |
 
 
 

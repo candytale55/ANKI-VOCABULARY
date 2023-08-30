@@ -22,6 +22,46 @@
 | são             | adjetivo (masc)        | /sɐ̃w/          | are                    | /ɑr/             | son                     | /son/                       |          |
 | ora             | advérbio                 | /'ɔɾɐ/         | now                    | /naʊ/            | ora                    | /ˈo.ɾa/                     |          |
 | que             | conjunção               | /'ke/          | that                   | /ðæt/            | que                     | /ke/                        |          |
+| era             | substantivo (fem)      | /'ɛɾɐ/         | era                    | /'ɪr.ə/          | era                     | /'e.ɾa/                     |          |
+| elo             | substantivo (masc)     | /'ɛ.lu/         | eloquence              | /'ɛl.əkwəns/     | elocuencia              | /e.lo.kwen'θi.a/            |          |
+| luz             | substantivo (fem)      | /'luʃ/         | light                  | /laɪt/           | luz                     | /lus/                       |          |
+| réu             | substantivo (masc)     | /'ɾew/         | defendant              | /dɪˈfɛn.dənt/     | reo                     | /'re.o/                     |          |
+| nós             | pronome pessoal (mas)  | /nɔʃ/          | we                     | /wi/             | nosotros                | /noˈsotɾos/                  |          |
+| com             | preposição              | /kõw/          | with                   | /wɪθ/            | con                     | /kon/                       |          |
+| seu             | pronome possessivo (mas) | /sew/         | your/his/her           | /jʊr/            | su                      | /su/                        |          |
+| tal             | adjetivo (masc)        | /taw/          | such                   | /sʌtʃ/           | tal                     | /tal/                       |          |
+| rol             | substantivo (masc)     | /'ɾɔw/         | roll                   | /roʊl/           | rol                     | /rol/                       |          |
+| foi             | verbo                   | /'foj/         | was                    | /wəz/            | fue                     | /fwe/                       |          |
+| mim             | pronome pessoal (masc)  | /mĩj/          | me                     | /mi/             | mí                      | /mi/                        |          |
+| uma             | artigo (fem)           | /'umɐ/         | a/an                   | /eɪ/             | una                     | /'u.na/                      |          |
+| lua             | substantivo (fem)      | /'lu.ɐ/        | moon                   | /mun/            | luna                    | /'lu.na/                     |          |
+| até             | preposição              | /'a.tɛ/         | until                  | /ʌn'tɪl/         | hasta                   | /'as.ta/                    |          |
+| hum             | adjetivo (masc)        | /'ũ/           | a/an                   | /ə/              | uno                     | /'u.no/                      |          |
+| por             | preposição              | /pɔʁ/          | by/for                 | /baɪ/fɔr/        | por                     | /por/                       |          |
+| vis             | adjetivo (masc)        | /'vis/         | obvious                | /'ɑb.vi.əs/      | vis                     | /bis/                       |          |
+| pós             | preposição              | /pɔs/          | after                  | /'æf.tɚ/         | post                    | /post/                      |          |
+| dor             | substantivo (fem)      | /dɔʁ/          | pain                   | /peɪn/           | dolor                   | /do'lor/                    |          |
+| fim             | substantivo (masc)     | /'fĩw/          | end                    | /ɛnd/            | fin                     | /fin/                       |          |
+| ato             | substantivo (masc)     | /'a.tu/         | act                    | /ækt/            | acto                    | /'ak.to/                     |          |
+| sol             | substantivo (masc)     | /'sɔw/         | sun                    | /sʌn/            | sol                     | /sol/                       |          |
+| sem             | preposição              | /sẽw/          | without                | /wɪð'aʊt/       | sin                     | /sin/                       |          |
+| dia             | substantivo (masc)     | /'di.ɐ/        | day                    | /deɪ/            | día                     | /'di.a/                      |          |
+| pai             | substantivo (masc)     | /'pa.i/         | father                 | /'fɑð.ɚ/         | padre                   | /'pa.ðɾe/                     |          |
+| dou             | verbo                   | /dow/          | I give                 | /aɪ ɡɪv/        | doy                     | /doi/                       |          |
+| vez             | substantivo (fem)      | /'vɛz/         | time                   | /taɪm/           | vez                     | /bes/                       |          |
+| pro             | preposição              | /'pɾo/          | for                    | /fɔr/            | para                    | /'pa.ɾa/                     |          |
+| irá             | verbo                   | /i'ɾa/          | will go                | /wɪl ɡoʊ/       | irá                     | /i'ɾa/                      |          |
+| eis             | interjeição             | /'ejs/         | behold                 | /bɪˈhoʊld/      | he aquí                 | /e aˈki/                     |          |
+| rua             | substantivo (fem)      | /'ʁwɐ/         | street                 | /strit/          | calle                   | /'ka.ʎe/                     |          |
+| tez             | substantivo (fem)      | /'tez/         | complexion             | /kəm'plɛk.ʃən/   | tez                     | /'tes/                       |          |
+| ler             | verbo                   | /lɛɾ/          | to read                | /tu rid/         | leer                    | /le'ɾ/                       |          |
+| ode             | substantivo (fem)      | /'o.dɨ/        | ode                    | /oʊd/            | oda                     | /'o.ða/                      |          |
+| tão             | advérbio                 | /tɐ̃w/          | so                     | /soʊ/            | tan                     | /tan/                       |          |
+| nem             | conjunção               | /'nẽw/         | nor                    | /nɔr/            | ni                      | /ni/                        |          |
+| fiz             | verbo                   | /fiz/          | I did                  | /aɪ dɪd/         | hice                    | /'i.θe/                     |          |
+| ajo             | verbo                   | /'a.ʒu/         | I act                  | /aɪ ækt/        | actúo                   | /akˈtu.o/                   |          |
+| gay             | adjetivo (masc)        | /gaj/          | gay                    | /ɡeɪ/            | gay                     | /ɡai/                       |          |
+| voz             | substantivo (fem)      | /voʃ/          | voice                  | /vɔɪs/           | voz                     | /'bos/                       |          |
 
 
 

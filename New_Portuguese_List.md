@@ -267,6 +267,24 @@
 | casal           | substantivo (masc)      | /ka.ˈsaɫ/      | couple, pair           | /ˈkʌpəl, pɛr/    | pareja                  | /pa'ɾe.xa/                   |          |
 | hábil           | adjetivo (masc)         | /ˈa.biɫ/       | skillful               | /ˈskɪl.fəl/      | hábil                   | /'a.βil/                     |          |
 | então           | advérbio                | /ẽ.ˈtɐ̃w/      | then                   | /ðɛn/            | entonces                | /en'ton.ses/                 |          |
+| seara           | substantivo (fem)       | /si.ˈa.ɾɐ/     | harvest, crop          | /ˈhɑr.vɪst, krɑp/ | cosecha                 | /ko'se.ʧa/                  |          |
+| boçal           | adjetivo (masc)         | /bo.ˈsaɫ/      | uncouth, rude          | /ʌnˈkuːθ, ruːd/ | rudo, grosero           | /'ru.ðo, ɡro'se.ɾo/         |          |
+| ávido           | adjetivo (masc)         | /ˈa.vi.du/     | eager, avid            | /ˈiː.ɡər, ˈæv.ɪd/ | ávido                   | /'a.βi.ðo/                  |          |
+| pesar           | substantivo (masc)      | /pe.ˈzaɾ/      | sorrow, regret         | /ˈsɑr.oʊ, rɪˈɡrɛt/ | pesar                   | /pe'saɾ/                    |          |
+| ardil           | substantivo (masc)      | /aɾ.ˈdiw/      | trick, stratagem       | /trɪk, ˈstræ.tə.dʒəm/ | ardilejo                | /ar.di'le.xo/               |          |
+| genro           | substantivo (masc)      | /ˈʒẽ.ɾu/      | son-in-law             | /ˈsʌn.ɪn.lɔ/      | yerno                   | /'ʝer.no/                   |          |
+| causa           | substantivo (fem)       | /ˈkaw.zɐ/     | cause                  | /kɔːz/           | causa                   | /'kaw.sa/                   |          |
+| saber           | substantivo (masc)      | /sa.ˈbeɾ/      | knowledge              | /ˈnɒl.ɪdʒ/       | saber                   | /sa'βeɾ/                     |          |
+| graça           | substantivo (fem)       | /ˈɡɾa.sɐ/     | grace                  | /ɡreɪs/          | gracia                  | /'ɡra.sja/                   |          |
+| dizer           | verbo                   | /di.ˈzeɾ/      | to say, to tell        | /tu seɪ, tu tɛl/  | decir                   | /de'θiɾ/                     |          |
+| posse           | substantivo (fem)       | /ˈpɔ.sɪ/      | possession             | /pəˈzɛʃ.ən/      | posesión                | /po.se'sjon/                |          |
+| coser           | verbo                   | /ko.ˈzeɾ/      | to sew                 | /tu soʊ/          | coser                   | /ko'seɾ/                    |          |
+| pária           | substantivo (fem)       | /ˈpa.ɾi.ɐ/     | outcast, pariah        | /ˈaʊt.kæst, pəˈraɪə/ | páriao                  | /'pa.ɾja.o/                  |          |
+| óbice           | substantivo (masc)      | /ˈo.bi.si/     | obstacle, hindrance    | /ˈɑbstəkəl, ˈhɪn.drəns/ | obstáculo               | /ob'sta.ku.lo/               |          |
+| dever           | substantivo (masc)      | /ˈde.vɛɾ/      | duty, responsibility   | /ˈduː.ti, rɪˌspɒn.səˈbɪl.ə.ti/ | deber                   | /de'βer/                    |          |
+| tenaz           | adjetivo (masc)        | /te.ˈnaz/      | tenacious              | /təˈneɪ.ʃəs/    | tenaz                   | /te'nas/                     |          |
+| prole           | substantivo (fem)       | /ˈpɾo.lɪ/      | offspring, progeny     | /ˈɔf.spriŋ, ˈprɑ.dʒə.ni/ | prole                   | /'pro.le/                    |          |
+| corja           | substantivo (fem)       | /ˈkɔ.ɾʒɐ/     | crowd, rabble          | /kraʊd, ˈræb.əl/ | canalla                 | /ka'na.ʎa/                  |          |
 
 Please note that some words, like "égide," "tange," and "dengo," might not have direct equivalents in English, and the translations provided are approximate.
 

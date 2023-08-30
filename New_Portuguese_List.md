@@ -100,8 +100,26 @@
 | lhe             | pronome                 | /lɨ/           | him/her                | /hɪm, hɜr/       | le                      | /le/                         |          |
 | clã             | substantivo (masc)     | /klɐ̃w̃/        | clan                   | /klæn/           | clan                    | /klan/                       |          |
 | pal             | substantivo (masc)     | /paɫ/          | stick                  | /stɪk/           | palo                    | /'pa.lo/                     |          |
-
-
+| amor            | substantivo (masc)     | /aˈmoɾ/         | love                   | /lʌv/            | amor                    | /a'mor/                     |          |
+| fato            | substantivo (masc)     | /ˈfatu/         | fact                   | /fækt/           | hecho                   | /'e.tʃo/                    |          |
+| mito            | substantivo (masc)     | /ˈmitu/         | myth                   | /mɪθ/            | mito                    | /'mi.to/                     |          |
+| viés            | substantivo (masc)     | /ˈvi.ɛs/        | bias                   | /baɪəs/          | sesgo                   | /'ses.ɣo/                    |          |
+| você            | pronome                 | /vo'se/         | you                    | /ju/             | usted                   | /us'ted/                     |          |
+| caos            | substantivo (masc)     | /kaˈoʃ/         | chaos                  | /ˈkeɪ.ɒs/        | caos                    | /'ka.os/                     |          |
+| como            | advérbio                 | /ˈkɔ.mu/        | like/as                | /laɪk, æz/       | como                    | /'ko.mo/                     |          |
+| esmo            | substantivo (masc)     | /ˈez.mu/        | fervor                 | /ˈfɜrvər/        | celo                    | /'se.lo/                     |          |
+| brio            | substantivo (masc)     | /ˈbɾi.u/        | pride                  | /praɪd/          | brío                    | /'bri.o/                     |          |
+| vide            | substantivo (masc)     | /ˈvi.dɨ/        | see                    | /si/             | véase                   | /'be.a.se/                   |          |
+| ação            | substantivo (fem)      | /a'sɐ̃w/        | action                 | /ˈæk.ʃən/        | acción                  | /ak'θjon/                    |          |
+| após            | preposição              | /a'poɾs/        | after                  | /ˈæftɚ/          | después                 | /des'pwes/                   |          |
+| sede            | substantivo (fem)      | /ˈse.dɨ/        | thirst                 | /θɜrst/          | sed                     | /sed/                        |          |
+| pois            | conjunção               | /pojʃ/          | because                | /bɪˈkɑz/         | porque                  | /por'ke/                     |          |
+| vida            | substantivo (fem)      | /ˈvi.dɐ/        | life                   | /laɪf/           | vida                    | /'bi.ða/                     |          |
+| casa            | substantivo (fem)      | /ˈkazɐ/         | house                  | /haʊs/           | casa                    | /'ka.sa/                     |          |
+| auge            | substantivo (masc)     | /ˈawʒi/         | peak                   | /pik/            | auge                    | /'aw.xe/                     |          |
+| saga            | substantivo (fem)      | /ˈsa.ɡɐ/        | saga                   | /ˈsæɡə/          | saga                    | /'sa.ɣa/                     |          |
+| medo            | substantivo (masc)     | /ˈme.du/        | fear                   | /fɪr/            | miedo                   | /'mje.ðo/                    |          |
+| ônus            | substantivo (masc)     | /ˈo.nus/        | burden                 | /ˈbɜrdən/        | onus                    | /'o.nus/                     |          |
 
 
 

@@ -303,8 +303,20 @@
 | culto           | substantivo (masc)      | /ˈkul.tu/      | worship, cult          | /ˈwɜr.ʃɪp, kʌlt/ | culto                   | /'kul.to/                   |          |
 | atroz           | adjetivo (masc)         | /ɐ.ˈtɾɔz/      | atrocious              | /əˈtroʊ.ʃəs/    | atroz                   | /a'tɾos/                    |          |
 | mundo           | substantivo (masc)      | /ˈmũ.du/       | world                  | /wɜrld/          | mundo                   | /'mun.do/                   |          |
+| censo           | substantivo (masc)      | /ˈsẽ.zu/       | census                 | /ˈsɛn.səs/        | censo                   | /'sen.so/                   |          |
+| fugaz           | adjetivo (masc)         | /fu.ˈɡaz/      | fleeting, brief        | /ˈfliː.tɪŋ, briːf/ | fugaz                   | /fu'ɣaz/                    |          |
+| gleba           | substantivo (fem)       | /ˈɡlɛ.bɐ/      | plot of land, parcel   | /plɒt ʌv lænd, ˈpɑːr.səl/ | gleba                   | /'ɡle.βa/                   |          |
+| xibiu           | substantivo (masc)      | /ʃi.ˈbiw/      | (slang) penis          | /ˈpiː.nɪs/        | (slang) pene            | /'pe.ne/                    |          |
+| forte           | adjetivo (masc/fem)     | /ˈfɔɾ.tɨ/      | strong, loud           | /strɒŋ, laʊd/    | fuerte                  | /'fweɾ.te/                  |          |
+| vício           | substantivo (masc)      | /ˈvi.sju/      | vice                   | /vaɪs/            | vicio                   | /'bi.sjo/                   |          |
+| vulgo           | substantivo (masc)      | /ˈvuɫ.ɡu/     | common people, vulgar  | /ˈkɒm.ən ˈpiː.pəl, ˈvʌl.ɡər/ | vulgo                   | /'bul.ɣo/                   |          |
+| valha           | interjeição             | /ˈva.ʎɐ/      | well, may it be        | /wɛl, meɪ ɪt bi/ | ¡vaya!                  | /'ba.ʝa/                    |          |
+| cozer           | verbo                   | /ˈko.zɨɾ/      | to cook                | /tu kʊk/          | cocer                   | /ko'seɾ/                    |          |
+| denso           | adjetivo (masc)         | /ˈdẽ.su/       | dense                  | /dɛns/            | denso                   | /'den.so/                   |          |
 
 Please note that some words, like "égide," "tange," and "dengo," might not have direct equivalents in English, and the translations provided are approximate.
+
+Please note that the translation of "xibiu" is slang and is marked as such in the table.
 
 
 

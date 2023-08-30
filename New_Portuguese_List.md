@@ -320,6 +320,33 @@ Please note that the translation of "xibiu" is slang and is marked as such in th
 
 
 
+
+## SEIS LETRAS
+
+| Portuguese Word | Part of Speech | Portuguese IPA | Equivalent English Word | English IPA (USA) | Equivalent Spanish Word | Spanish IPA (Latin American) | Word No. |
+|-----------------|----------------|----------------|------------------------|-------------------|-------------------------|----------------------------|----------|
+| exceto          | adjetivo (mas) | /ɛk'sɛtu/      | except                 | /ɪkˈsɛpt/         | excepto                  | /ek'sɛpto/                |          |
+| cínico          | adjetivo (mas) | /'siniku/      | cynical                | /'sɪnɪkl/         | cínico                   | /'siniko/                 |          |
+| idôneo          | adjetivo (mas) | /i'dɔnej/      | suitable               | /'sutəbəl/        | idóneo                   | /i'ðoneo/                 |          |
+| âmbito          | substantivo (mas) | /'ɐ̃bitu/   | scope                  | /skoʊp/           | ámbito                   | /'ambito/                 |          |
+| néscio          | adjetivo (mas) | /'nɛʃsiu/      | ignorant               | /'ɪɡnərənt/       | necio                    | /'nesjo/                  |          |
+| índole          | substantivo (fem) | /'ĩdɔli/   | nature                 | /'neɪtʃər/        | índole                   | /'indole/                 |          |
+| mister          | substantivo (mas) | /'mistɛr/   | mystery                | /'mɪstəri/        | misterio                 | /mis'terjo/               |          |
+| vereda          | substantivo (fem) | /vɛ'rɛdɐ/   | path                   | /pæθ/             | vereda                   | /be'reða/                 |          |
+| apogeu          | substantivo (mas) | /ɐpu'ʒew/   | zenith                 | /'zinɪθ/          | apogeo                   | /apo'xeo/                 |          |
+| inócuo          | adjetivo (mas) | /i'nɔku/       | harmless               | /'hɑrmləs/        | inofensivo               | /ino'fensivo/             |          |
+| convém          | verbo          | /kõ'vẽj/       | suits                  | /sut͡s/            | conviene                 | /kon'bje.ne/              |          |
+| utopia          | substantivo (fem) | /u'tɔpiɐ/  | utopia                 | /ju'toʊpiə/       | utopía                   | /u'topia/                 |          |
+| sádico          | adjetivo (mas) | /'sadiku/      | sadistic               | /sə'dɪstɪk/       | sádico                   | /'saðiko/                 |          |
+| escopo          | substantivo (mas) | /'ɛsku.pu/  | scope                  | /skoʊp/           | alcance                  | /al'kanθe/                |          |
+| ênfase          | substantivo (fem) | /'ẽfazi/   | emphasis               | /'ɛmfəsɪs/        | énfasis                  | /'enfasis/                |          |
+
+
+
+
+
+
+
 | Portuguese Word | Part of Speech | Portuguese IPA | Equivalent English Word | English IPA (USA) | Equivalent Spanish Word | Spanish IPA (Latin American) | Word No. |
 |-----------------|----------------|----------------|------------------------|-------------------|-------------------------|-----------------------------|----------|
 | ser             | verb           | /sɛɾ/          | to be                  | /toʊ bi/         | ser                     | /seɾ/                       |          |

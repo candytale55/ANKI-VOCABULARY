@@ -1,3 +1,35 @@
+| Portuguese Word | Part of Speech (Gender) | Portuguese IPA | Equivalent English Word | English IPA (USA) | Equivalent Spanish Word | Spanish IPA (Latin American) | Word No. |
+|-----------------|-------------------------|----------------|------------------------|------------------|-------------------------|-----------------------------|----------|
+| paz             | substantivo (fem)      | /'paʒ/         | peace                  | /piːs/           | paz                     | /pas/                       |          |
+| não             | advérbio                 | /'nɐ̃w/         | not                    | /nɑt/            | no                      | /no/                        |          |
+| fel             | substantivo (masc)     | /'fɛw/         | happiness              | /'hæpi.nɪs/     | felicidad              | /fe.li.siˈðað/             |          |
+| céu             | substantivo (masc)     | /'sew/         | sky                    | /skaɪ/           | cielo                   | /ˈsjelo/                    |          |
+| ser             | verbo                   | /seʁ/          | to be                  | /tu bi/          | ser                     | /ser/                       |          |
+| vil             | adjetivo (masc)        | /'vil/         | vile                   | /vaɪl/           | vil                     | /bil/                       |          |
+| sob             | preposição              | /soβ/          | under                  | /ˈʌn.dər/       | bajo                    | /ˈba.xo/                    |          |
+| mal             | substantivo (masc)     | /'maw/         | evil                   | /ˈiː.vəl/        | mal                     | /mal/                       |          |
+| mãe             | substantivo (fem)      | /'mɐ̃j/         | mother                 | /'mʌðər/         | madre                   | /ˈmaðɾe/                     |          |
+| ver             | verbo                   | /veʁ/          | to see                 | /tu si/          | ver                     | /ber/                       |          |
+| ter             | verbo                   | /teʁ/          | to have                | /tu hæv/         | tener                   | /teˈner/                     |          |
+| ego             | substantivo (masc)     | /'eɡu/         | ego                    | /ˈiː.ɡoʊ/       | ego                     | /ˈeɡo/                       |          |
+| bem             | substantivo (masc)     | /'bẽj/         | good                   | /ɡʊd/            | bien                    | /ˈbjen/                      |          |
+| mas             | conjunção               | /'maʃ/         | but                    | /bət/            | pero                    | /ˈpe.ɾo/                     |          |
+| bom             | adjetivo (masc)        | /bõw/          | good                   | /ɡʊd/            | bueno                   | /ˈbwe.no/                    |          |
+| dom             | substantivo (masc)     | /dõw/          | gift                   | /ɡɪft/           | don                     | /don/                       |          |
+| vir             | verbo                   | /'viʁ/         | to come                | /tu kʌm/         | venir                   | /biˈneɾ/                     |          |
+| vão             | adjetivo (masc)        | /'vɐ̃w/         | vain                   | /veɪn/           | vano                    | /'bano/                      |          |
+| dar             | verbo                   | /dɐɾ/          | to give                | /tu ɡɪv/         | dar                     | /dar/                       |          |
+| são             | adjetivo (masc)        | /sɐ̃w/          | are                    | /ɑr/             | son                     | /son/                       |          |
+| ora             | advérbio                 | /'ɔɾɐ/         | now                    | /naʊ/            | ora                    | /ˈo.ɾa/                     |          |
+| que             | conjunção               | /'ke/          | that                   | /ðæt/            | que                     | /ke/                        |          |
+
+
+
+
+
+
+
+
 
 | Portuguese Word | Part of Speech | Portuguese IPA | Equivalent English Word | English IPA (USA) | Equivalent Spanish Word | Spanish IPA (Latin American) | Word No. |
 |-----------------|----------------|----------------|------------------------|-------------------|-------------------------|-----------------------------|----------|

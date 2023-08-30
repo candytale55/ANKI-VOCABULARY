@@ -249,6 +249,27 @@
 | honra           | substantivo (fem)       | /ˈõ.na.ɾɐ/     | honor, dignity         | /ˈɒnər, ˈdɪɡnəti/ | honra                   | /'on.ɾa/                     |          |
 | torpe           | adjetivo (masc)         | /ˈtoɾ.pɨ/      | clumsy, awkward        | /ˈklʌmzi, ˈɔkwərd/ | torpe                   | /'toɾ.pe/                    |          |
 | quiçá           | advérbio                | /ki.ˈza/       | perhaps, maybe         | /pɚˈhæps, ˈmeɪbi/ | quizá                   | /ki'θa/                      |          |
+| sonho           | substantivo (masc)      | /ˈsõ.ɲu/       | dream                  | /drim/           | sueño                   | /'swe.ɲo/                    |          |
+| fútil           | adjetivo (masc)         | /ˈfu.tiɫ/      | futile                 | /ˈfjuː.taɪl/     | fútil                   | /'fu.til/                    |          |
+| razão           | substantivo (fem)       | /ʁa.ˈzɐ̃w/     | reason                 | /ˈriː.zən/       | razón                   | /ra'θon/                     |          |
+| ícone           | substantivo (masc)      | /ˈi.ko.ni/     | icon                   | /ˈaɪ.kɑn/         | icono                   | /i'ko.no/                    |          |
+| etnia           | substantivo (fem)       | /ˈɛt.ni.ɐ/     | ethnicity              | /ɛθˈnɪs.ə.ti/   | etnia                   | /'et.nja/                    |          |
+| anexo           | substantivo (masc)      | /a.ˈne.ʃu/     | attachment, annex      | /əˈtætʃ.mənt, ˈæ.neks/ | anexo                   | /a'ne.ksɔ/                   |          |
+| amigo           | substantivo (masc)      | /a.ˈmi.ɡu/     | friend                 | /frɛnd/          | amigo                   | /a'mi.ɣo/                    |          |
+| égide           | substantivo (fem)       | /ˈe.ɡi.dʒi/    | aegis                  | /ˈiː.dʒɪs/       | égida                   | /'e.xi.ða/                   |          |
+| tange           | verbo                   | /ˈtɐ̃.ʒi/      | touch, concern         | /tʌʧ, kənˈsɝn/   | tocar                   | /to'kaɾ/                     |          |
+| lapso           | substantivo (masc)      | /ˈlap.su/      | lapse                  | /læps/           | lapsus                  | /'lap.sus/                   |          |
+| expor           | verbo                   | /iʃ.ˈpoɾ/      | to expose, to exhibit  | /tu ɪkˈspoʊz, tu ɪɡˈzɪbɪt/ | exponer                 | /ekspo'neɾ/                  |          |
+| haver           | verbo                   | /a.ˈveɾ/       | to have                | /tu ˈhæv/        | haber                   | /a'βeɾ/                      |          |
+| mútuo           | adjetivo (masc)         | /ˈmu.tu/       | mutual                 | /ˈmjuː.tʃuəl/    | mutuo                   | /'mu.two/                    |          |
+| dengo           | substantivo (masc)      | /ˈdẽ.ɡu/      | affection              | /əˈfɛk.ʃən/      | mimo                    | /'mi.mo/                     |          |
+| tempo           | substantivo (masc)      | /ˈtẽ.pu/       | time                   | /taɪm/           | tiempo                  | /'tjɛm.po/                   |          |
+| casal           | substantivo (masc)      | /ka.ˈsaɫ/      | couple, pair           | /ˈkʌpəl, pɛr/    | pareja                  | /pa'ɾe.xa/                   |          |
+| hábil           | adjetivo (masc)         | /ˈa.biɫ/       | skillful               | /ˈskɪl.fəl/      | hábil                   | /'a.βil/                     |          |
+| então           | advérbio                | /ẽ.ˈtɐ̃w/      | then                   | /ðɛn/            | entonces                | /en'ton.ses/                 |          |
+
+Please note that some words, like "égide," "tange," and "dengo," might not have direct equivalents in English, and the translations provided are approximate.
+
 
 
 | Portuguese Word | Part of Speech | Portuguese IPA | Equivalent English Word | English IPA (USA) | Equivalent Spanish Word | Spanish IPA (Latin American) | Word No. |

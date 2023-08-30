@@ -198,6 +198,16 @@
 | ócio            | substantivo (masc)     | /ˈɔ.sju/        | leisure, idleness      | /ˈliʒər, ˈaɪdəlnəs/ | ocio                    | /'o.sjo/                     |          |
 | rito            | substantivo (masc)     | /ˈɾi.tu/        | rite                   | /raɪt/           | rito                    | /'ri.to/                     |          |
 | eita            | interjeição             | /ˈej.tɐ/        | wow, oh my              | /waʊ, oʊ maɪ/    | ¡wow, oh cielos!       | /'wow, o 'sjelos/            |          |
+| irão            | verbo                   | /i.ˈɾɐ̃w/       | they will go          | /ðeɪ wɪl ɡoʊ/    | irán                    | /i'ɾan/                      |          |
+| alva            | adjetivo (fem)          | /ˈaw.vɐ/       | white, dawn            | /waɪt, dɔn/      | alba                    | /'al.ba/                     |          |
+| ágil            | adjetivo (masc)         | /ˈa.ʒiɫ/       | agile                  | /ˈæ.dʒaɪl/       | ágil                    | /'a.xil/                     |          |
+| novo            | adjetivo (masc)         | /ˈno.vu/       | new                    | /nju/            | nuevo                   | /'nwe.βo/                    |          |
+| tese            | substantivo (fem)       | /ˈtɛ.zi/       | thesis                 | /ˈθi.sɪs/        | tesis                   | /'te.sis/                    |          |
+| alta            | substantivo (fem)       | /ˈaw.tɐ/       | height                 | /haɪt/           | altura                  | /al.'tu.ɾa/                  |          |
+| nexo            | substantivo (masc)      | /ˈnɛ.ʃu/      | link                   | /lɪŋk/           | nexo                    | /'nek.so/                    |          |
+| peço            | verbo                   | /ˈpe.su/       | I ask, I request      | /aɪ æsk, aɪ rɪˈkwɛst/ | pido                    | /'pi.ðo/                     |          |
+| orla            | substantivo (fem)       | /ˈɔɾ.lɐ/       | border, edge           | /ˈbɔrdər, ɛdʒ/  | orilla                  | /o'ɾi.ʎa/                    |          |
+
 
 
 

@@ -62,8 +62,44 @@
 | ajo             | verbo                   | /'a.ʒu/         | I act                  | /aɪ ækt/        | actúo                   | /akˈtu.o/                   |          |
 | gay             | adjetivo (masc)        | /gaj/          | gay                    | /ɡeɪ/            | gay                     | /ɡai/                       |          |
 | voz             | substantivo (fem)      | /voʃ/          | voice                  | /vɔɪs/           | voz                     | /'bos/                       |          |
-
-
+| meu             | pronome possessivo (mas) | /mew/          | my                     | /maɪ/            | mi/mío                  | /mi/mi'ho/                  |          |
+| lei             | substantivo (fem)      | /'lɛj/         | law                    | /lɔ/             | ley                     | /'leʝ/                      |          |
+| mau             | adjetivo (masc)        | /maw/          | bad                    | /bæd/            | malo                    | /'ma.lo/                     |          |
+| voo             | substantivo (masc)     | /'vo.w/         | flight                 | /flaɪt/          | vuelo                   | /'bwelo/                     |          |
+| mão             | substantivo (fem)      | /mɐ̃w/          | hand                   | /hænd/           | mano                    | /'ma.no/                     |          |
+| dês             | verbo                   | /dɛs/          | from (archaic)         | /frʌm/           | desde                   | /'des.de/                    |          |
+| num             | artigo (masc)          | /'nũ/          | in a                   | /ɪn ə/           | en un                   | /en 'un/                     |          |
+| pôr             | verbo                   | /'poɾ/          | to put                 | /tu pʊt/         | poner                   | /po'ner/                    |          |
+| afã             | substantivo (masc)     | /ɐ'fɐ̃w/       | effort                 | /ˈɛ.fərt/        | esfuerzo                | /es'fwer.θo/                |          |
+| for             | verbo                   | /'foɾ/          | I go                   | /aɪ ɡoʊ/        | voy                     | /boi/                       |          |
+| rio             | substantivo (masc)     | /'ʁi.u/         | river                  | /ˈrɪvər/         | río                     | /'ri.o/                      |          |
+| daí             | advérbio                 | /daj/          | hence                  | /hɛns/           | de ahí                  | /de a'i/                     |          |
+| cia             | substantivo (fem)      | /'si.ɐ/        | company                | /ˈkʌmpəni/       | compañía               | /kum.pa'ni.a/               |          |
+| olá             | interjeição             | /o'la/         | hello                  | /hə'loʊ/         | hola                    | /o'la/                      |          |
+| jus             | substantivo (masc)     | /ʒus/          | juice                  | /dʒus/           | jugo                    | /'xu.ɣo/                    |          |
+| lar             | substantivo (masc)     | /laɾ/          | home                   | /hoʊm/           | hogar                   | /o'ɣaɾ/                      |          |
+| fez             | verbo                   | /fɛz/          | he/she did             | /hi, ʃi dɪd/     | hizo                    | /'i.so/                     |          |
+| ira             | substantivo (fem)      | /'i.ɾɐ/        | anger                  | /'æŋɡɚ/          | ira                     | /'i.ɾa/                      |          |
+| sua             | pronome possessivo (fem) | /su.ɐ/         | her/his/your           | /jʊr/            | su/suyo                 | /su/su'ʝo/                   |          |
+| via             | substantivo (fem)      | /'vi.ɐ/        | road                   | /roʊd/           | vía                     | /'bi.a/                      |          |
+| som             | substantivo (masc)     | /'sɔ̃w/         | sound                  | /saʊnd/          | sonido                  | /so'ni.ðo/                  |          |
+| nau             | substantivo (fem)      | /'naw/         | ship                   | /ʃɪp/            | nave                    | /'na.βe/                     |          |
+| sim             | advérbio                 | /'sĩw/         | yes                    | /jɛs/            | sí                      | /'si/                        |          |
+| amo             | verbo                   | /'a.mu/        | I love                 | /aɪ lʌv/         | amo                     | /'a.mo/                      |          |
+| rei             | substantivo (masc)     | /'ʁej/         | king                   | /kɪŋ/            | rey                     | /rej/                        |          |
+| tem             | verbo                   | /tẽw/          | he/she has             | /hi, ʃi hæz/     | tiene                   | /'tje.ne/                    |          |
+| boa             | adjetivo (fem)         | /'bo.ɐ/        | good                   | /ɡʊd/            | buena                   | /'bwe.na/                    |          |
+| ido             | adjetivo (masc)       | /'i.du/         | gone                   | /ɡɔn/            | ido                     | /'i.ðo/                      |          |
+| más             | conjunção               | /mɐ̃jʃ/         | but                    | /bət/            | pero                    | /'pe.ɾo/                     |          |
+| uso             | substantivo (masc)     | /'u.zu/         | use                    | /jus/            | uso                     | /'u.so/                      |          |
+| mês             | substantivo (masc)     | /mɛs/          | month                  | /mʌnθ/           | mes                     | /mes/                        |          |
+| uns             | artigo (masc)          | /ũw̃s/          | some                   | /sʌm/            | unos                    | /'u.nos/                     |          |
+| jaz             | verbo                   | /ʒaʒ/          | I lie                  | /aɪ laɪ/         | yacer                   | /ʝa'θeɾ/                     |          |
+| asa             | substantivo (fem)      | /'az.ɐ/        | wing                   | /wɪŋ/            | ala                     | /'a.la/                      |          |
+| eco             | substantivo (masc)     | /'ɛ.ku/         | echo                   | /ˈɛ.koʊ/        | eco                     | /'e.ko/                      |          |
+| lhe             | pronome                 | /lɨ/           | him/her                | /hɪm, hɜr/       | le                      | /le/                         |          |
+| clã             | substantivo (masc)     | /klɐ̃w̃/        | clan                   | /klæn/           | clan                    | /klan/                       |          |
+| pal             | substantivo (masc)     | /paɫ/          | stick                  | /stɪk/           | palo                    | /'pa.lo/                     |          |
 
 
 

@@ -285,6 +285,24 @@
 | tenaz           | adjetivo (masc)        | /te.ˈnaz/      | tenacious              | /təˈneɪ.ʃəs/    | tenaz                   | /te'nas/                     |          |
 | prole           | substantivo (fem)       | /ˈpɾo.lɪ/      | offspring, progeny     | /ˈɔf.spriŋ, ˈprɑ.dʒə.ni/ | prole                   | /'pro.le/                    |          |
 | corja           | substantivo (fem)       | /ˈkɔ.ɾʒɐ/     | crowd, rabble          | /kraʊd, ˈræb.əl/ | canalla                 | /ka'na.ʎa/                  |          |
+| brado           | substantivo (masc)      | /ˈbɾa.du/      | outcry, shout          | /ˈaʊt.kraɪ, ʃaʊt/ | clamor                  | /kla'mor/                   |          |
+| crivo           | substantivo (masc)      | /ˈkɾi.vu/      | sieve, filter          | /sɪv, ˈfɪl.tər/ | criba, tamiz            | /'kɾi.βa, ta'mis/           |          |
+| comum           | adjetivo (masc/fem)     | /ko.ˈmũ/       | common                 | /ˈkɒm.ən/        | común                   | /ko'mun/                    |          |
+| detém           | verbo                   | /di.ˈtẽj/      | holds, detains         | /hoʊldz, dɪˈteɪnz/ | detiene                 | /de'tje.ne/                 |          |
+| sendo           | verbo                   | /ˈsẽ.dʊ/      | being                  | /ˈbiɪŋ/           | siendo                  | /'sjen.do/                  |          |
+| ânimo           | substantivo (masc)      | /ˈɐ̃.ni.mu/    | spirit, courage        | /ˈspɪr.ɪt, ˈkɜːr.ɪdʒ/ | ánimo                   | /'a.ni.mo/                  |          |
+| temor           | substantivo (masc)      | /tɨ.ˈmoɾ/      | fear                   | /fɪr/            | temor                   | /te'mor/                    |          |
+| ápice           | substantivo (masc)      | /ˈa.pi.sɨ/     | apex, peak             | /ˈeɪ.pɛks, piːk/ | ápice                   | /'a.pi.se/                  |          |
+| ânsia           | substantivo (fem)       | /ˈɐ̃n.sɨ.ɐ/    | longing, anxiety       | /ˈlɒŋ.ɪŋ, æŋˈzaɪ.ə.ti/ | ansia                   | /'an.sja/                   |          |
+| ainda           | advérbio                | /ˈɐ̃j.dɐ/      | still, yet             | /stɪl, jɛt/      | aún                     | /'a.un/                     |          |
+| ceder           | verbo                   | /sɨ.ˈdeɾ/      | yield, give in         | /jiːld, ɡɪv ɪn/ | ceder                   | /θe'ðeɾ/                    |          |
+| digno           | adjetivo (masc)         | /ˈdi.ɡnu/      | worthy                 | /ˈwɜr.ði/        | digno                   | /'diɡ.no/                   |          |
+| pauta           | substantivo (fem)       | /ˈpaw.tɐ/     | guideline, agenda      | /ˈɡaɪd.laɪn, əˈdʒɛn.də/ | pauta                   | /'paw.ta/                   |          |
+| estar           | verbo                   | /iʃ.ˈtaɾ/     | to be                  | /tu bi/           | estar                   | /es'taɾ/                    |          |
+| assaz           | advérbio                | /ɐ.ˈsaz/      | quite, rather          | /kwaɪt, ˈræð.ər/ | bastante                | /ban'tan.te/                |          |
+| culto           | substantivo (masc)      | /ˈkul.tu/      | worship, cult          | /ˈwɜr.ʃɪp, kʌlt/ | culto                   | /'kul.to/                   |          |
+| atroz           | adjetivo (masc)         | /ɐ.ˈtɾɔz/      | atrocious              | /əˈtroʊ.ʃəs/    | atroz                   | /a'tɾos/                    |          |
+| mundo           | substantivo (masc)      | /ˈmũ.du/       | world                  | /wɜrld/          | mundo                   | /'mun.do/                   |          |
 
 Please note that some words, like "égide," "tange," and "dengo," might not have direct equivalents in English, and the translations provided are approximate.
 

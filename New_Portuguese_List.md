@@ -1,3 +1,5 @@
+## TRES LETRAS
+
 | Portuguese Word | Part of Speech (Gender) | Portuguese IPA | Equivalent English Word | English IPA (USA) | Equivalent Spanish Word | Spanish IPA (Latin American) | Word No. |
 |-----------------|-------------------------|----------------|------------------------|------------------|-------------------------|-----------------------------|----------|
 | paz             | substantivo (fem)      | /'paʒ/         | peace                  | /piːs/           | paz                     | /pas/                       |          |
@@ -100,6 +102,11 @@
 | lhe             | pronome                 | /lɨ/           | him/her                | /hɪm, hɜr/       | le                      | /le/                         |          |
 | clã             | substantivo (masc)     | /klɐ̃w̃/        | clan                   | /klæn/           | clan                    | /klan/                       |          |
 | pal             | substantivo (masc)     | /paɫ/          | stick                  | /stɪk/           | palo                    | /'pa.lo/                     |          |
+
+## CUATRO LETRAS
+
+| Portuguese Word | Part of Speech (Gender) | Portuguese IPA | Equivalent English Word | English IPA (USA) | Equivalent Spanish Word | Spanish IPA (Latin American) | Word No. |
+|-----------------|-------------------------|----------------|------------------------|------------------|-------------------------|-----------------------------|----------|
 | amor            | substantivo (masc)     | /aˈmoɾ/         | love                   | /lʌv/            | amor                    | /a'mor/                     |          |
 | fato            | substantivo (masc)     | /ˈfatu/         | fact                   | /fækt/           | hecho                   | /'e.tʃo/                    |          |
 | mito            | substantivo (masc)     | /ˈmitu/         | myth                   | /mɪθ/            | mito                    | /'mi.to/                     |          |
@@ -170,7 +177,27 @@
 | traz            | verbo                   | /tɾaz/          | brings                 | /brɪŋz/          | trae                    | /tɾae/                       |          |
 | numa            | preposição              | /ˈnumɐ/         | in a                   | /ɪn ə/           | en una                  | /en 'u.na/                    |          |
 | cela            | substantivo (fem)      | /ˈsɛ.lu/        | cell                   | /sɛl/            | celda                   | /'sel.da/                    |          |
-
+| teor            | substantivo (masc)     | /ˈtɛ.ɔɾ/        | content, theme         | /ˈkɒn.tɛnt, θim/| contenido, tema        | /kon.ten.'i.ðo, 'te.ma/     |          |
+| face            | substantivo (fem)      | /ˈfa.sɨ/        | face                   | /feɪs/           | cara                    | /'ka.ɾa/                     |          |
+| nojo            | substantivo (masc)     | /ˈno.ʒu/        | disgust                | /dɪsˈɡʌst/       | asco                    | /'as.ko/                     |          |
+| noia            | substantivo (fem)      | /ˈnɔ.jɐ/        | anxiety                | /æŋˈzaɪəti/      | nerviosidad             | /ner.bjo.si.'ðad/             |          |
+| sido            | verbo                   | /ˈsi.du/        | been                   | /bɪn/            | sido                    | /'si.ðo/                     |          |
+| asco            | substantivo (masc)     | /ˈaʃ.ku/        | disgust                | /dɪsˈɡʌst/       | asco                    | /'as.ko/                     |          |
+| pose            | substantivo (fem)      | /ˈpo.zɨ/        | pose                   | /poʊz/           | pose                    | /po.'se/                     |          |
+| alvo            | substantivo (masc)     | /ˈaw.vu/        | target                 | /ˈtɑr.ɡɪt/       | blanco                  | /'blaŋ.ko/                   |          |
+| foco            | substantivo (masc)     | /ˈfo.ku/        | focus                  | /ˈfoʊ.kəs/       | foco                    | /'fo.ko/                     |          |
+| isso            | pronome demonstrativo  | /ˈi.su/         | this                   | /ðɪs/            | eso                     | /'e.so/                      |          |
+| base            | substantivo (fem)      | /ˈba.zɨ/        | base                   | /beɪs/           | base                    | /'ba.se/                     |          |
+| vale            | substantivo (masc)     | /ˈva.li/        | valley                 | /ˈvæl.i/         | valle                   | /'ba.ʎe/                     |          |
+| sair            | verbo                   | /ˈsajɾ/         | to leave               | /tu liːv/        | salir                   | /sa'liɾ/                     |          |
+| teve            | verbo                   | /ˈte.vɨ/        | had                    | /hæd/            | tuvo                    | /'tu.βo/                     |          |
+| agir            | verbo                   | /a.ˈʒiɾ/        | to act                 | /tu ækt/         | actuar                  | /ak'twaɾ/                    |          |
+| ódio            | substantivo (masc)     | /ˈɔ.di.u/       | hatred                 | /ˈheɪ.trɪd/      | odio                    | /'o.djo/                     |          |
+| todo            | pronome, adjetivo (masc)| /ˈto.du/        | all, every             | /ɔl, ˈɛv.ri/     | todo                    | /'to.ðo/                     |          |
+| alto            | adjetivo (masc)         | /ˈaw.tu/        | tall, high             | /tɔl, haɪ/       | alto                    | /'al.to/                     |          |
+| ócio            | substantivo (masc)     | /ˈɔ.sju/        | leisure, idleness      | /ˈliʒər, ˈaɪdəlnəs/ | ocio                    | /'o.sjo/                     |          |
+| rito            | substantivo (masc)     | /ˈɾi.tu/        | rite                   | /raɪt/           | rito                    | /'ri.to/                     |          |
+| eita            | interjeição             | /ˈej.tɐ/        | wow, oh my              | /waʊ, oʊ maɪ/    | ¡wow, oh cielos!       | /'wow, o 'sjelos/            |          |
 
 
 

@@ -138,12 +138,38 @@
 | tudo            | pronome                 | /'tu.du/        | everything             | /ˈɛv.riˌθɪŋ/    | todo                    | /'to.ðo/                     |          |
 | área            | substantivo (fem)      | /a'ɾe.ɐ/        | area                   | /ˈɛəriə/         | área                    | /'a.ɾe.a/                     |          |
 | ruim            | adjetivo (masc)         | /ˈʁwĩ/          | bad                    | /bæd/            | mal                     | /mal/                        |          |
-| rude            | adjetivo (masc)         | /ˈʁu.d
-
-ɨ/        | rude                   | /ruːd/           | rudo                    | /'ru.do/                     |          |
+| rude            | adjetivo (masc)         | /ˈʁu.dɨ/        | rude                   | /ruːd/           | rudo                    | /'ru.do/                     |          |
 | mais            | advérbio                 | /maɪs/          | more                   | /mɔr/            | más                     | /mas/                        |          |
 | amar            | verbo                   | /a'maɾ/         | love                   | /lʌv/            | amar                    | /a'mar/                      |          |
 | coxo            | adjetivo (masc)         | /ˈko.ʃu/        | lame                   | /leɪm/           | cojo                    | /'ko.xo/                     |          |
+| cota            | substantivo (fem)      | /ˈko.tɐ/        | quote                  | /kwoʊt/          | cuota                   | /'kw.o.ta/                   |          |
+| para            | preposição              | /ˈpa.ɾɐ/        | for                    | /fɔr/            | para                    | /'pa.ɾa/                     |          |
+| soar            | verbo                   | /so'aɾ/         | sound                  | /saʊnd/          | sonar                   | /so'nar/                     |          |
+| ater            | verbo                   | /ɐ'tɛɾ/         | land                   | /lænd/           | aterrizar               | /a.te.ri'θar/                |          |
+| fase            | substantivo (fem)      | /ˈfa.zɨ/        | phase                  | /feɪz/           | fase                    | /'fa.se/                     |          |
+| ente            | substantivo (masc)     | /ˈẽ.tɨ/         | being                  | /ˈbiːɪŋ/         | ente                    | /'en.te/                     |          |
+| será            | verbo                   | /sɨ'ɾa/         | will be                | /wɪl bi/         | será                    | /'se.ɾa/                     |          |
+| auto            | substantivo (masc)     | /ˈaw.tu/        | car                    | /kɑr/            | auto                    | /'aw.to/                     |          |
+| trás            | preposição              | /tɾaʃ/          | behind                 | /bɪˈhaɪnd/       | tras                    | /tɾas/                       |          |
+| voga            | substantivo (fem)      | /ˈvo.ɡɐ/        | trend                  | /trɛnd/          | moda                    | /'mo.da/                     |          |
+| doce            | adjetivo (masc)         | /ˈdo.sɨ/        | sweet                  | /swit/           | dulce                   | /'dul.se/                    |          |
+| logo            | advérbio                 | /'lo.ɡu/        | soon                   | /suːn/           | luego                   | /'lwe.ɣo/                    |          |
+| onde            | advérbio                 | /ˈõ.dɨ/         | where                  | /wɛr/            | donde                   | /'don.de/                    |          |
+| rima            | substantivo (fem)      | /'ri.mɐ/        | rhyme                  | /raɪm/           | rima                    | /'ri.ma/                     |          |
+| deus            | substantivo (masc)     | /ˈdews/         | god                    | /ɡɑd/            | dios                    | /'djos/                      |          |
+| ante            | preposição              | /ˈɐ̃.tɨ/         | before                 | /bɪˈfɔr/         | ante                    | /'an.te/                     |          |
+| cedo            | advérbio                 | /ˈse.du/        | early                  | /ˈɜrli/          | temprano                | /tem'pɾa.no/                  |          |
+| pelo            | preposição              | /ˈpe.lu/        | by the                 | /baɪ ðə/         | por el                  | /por 'el/                    |          |
+| jugo            | substantivo (masc)     | /ˈʒu.ɡu/        | yoke                   | /joʊk/           | yugo                    | /'ʝu.ɣo/                     |          |
+| meio            | substantivo (masc)     | /ˈme.ju/        | half                   | /hælf/           | medio                   | /me'ðjo/                     |          |
+| meta            | substantivo (fem)      | /ˈme.tɐ/        | goal                   | /ɡoʊl/           | meta                    | /'me.ta/                     |          |
+| arte            | substantivo (fem)      | /ˈaɾ.tɨ/        | art                    | /ɑrt/            | arte                    | /'ar.te/                     |          |
+| cujo            | pronome relativo        | /ˈku.ʒu/        | whose                  | /huːz/           | cuyo                    | /'ku.ʝo/                     |          |
+| sela            | substantivo (fem)      | /ˈsɛ.lɐ/        | saddle                 | /ˈsædəl/         | silla                   | /'si.ʎa/                     |          |
+| alma            | substantivo (fem)      | /ˈaɫ.mɐ/        | soul                   | /soʊl/           | alma                    | /'al.ma/                     |          |
+| traz            | verbo                   | /tɾaz/          | brings                 | /brɪŋz/          | trae                    | /tɾae/                       |          |
+| numa            | preposição              | /ˈnumɐ/         | in a                   | /ɪn ə/           | en una                  | /en 'u.na/                    |          |
+| cela            | substantivo (fem)      | /ˈsɛ.lu/        | cell                   | /sɛl/            | celda                   | /'sel.da/                    |          |
 
 
 

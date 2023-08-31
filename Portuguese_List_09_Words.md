@@ -13,3 +13,15 @@
 | presunção       | substantivo (fem)| /pɾɨzu'nsɐ̃w/     | presumption              | /prɪˈzʌmpʃən/      | presunción               | /pɾesun'θjon/            |          |
 | propósito       | substantivo (mas)| /pɾu'pozitu/      | purpose                  | /ˈpɜːrpəs/          | propósito                | /pɾo'pɔsito/             |          |
 | concepção       | substantivo (fem)| /kõsɛ'psɐ̃w/      | conception               | /kən'sɛpʃən/         | concepción               | /konθep'sjon/            |          |
+| hipócrita       | substantivo (mas)| /ipɔ'kɾita/      | hypocrite                | /ˈhɪpəˌkraɪt/      | hipócrita                | /ipo'kɾita/             |          |
+| ratificar       | verbo (infinitivo)| /ʁatifi'kaʁ/     | ratify                   | /ˈrætəˌfaɪ/        | ratificar                | /rati'fikaɾ/            |          |
+| implícito       | adjetivo (mas)   | /ĩ'plisitu/      | implicit                 | /ɪmˈplɪsɪt/         | implícito                | /im'plisito/            |          |
+| plenitude       | substantivo (fem)| /plɛ'nitudi/     | plenitude                | /ˈplɛnɪˌtjuːd/      | plenitud                 | /pleni'tuð/             |          |
+| essencial       | adjetivo (mas)   | /ɛsɛ̃si'aw/      | essential                | /ɪ'sɛnʃəl/         | esencial                 | /esens'jal/             |          |
+| hegemonia       | substantivo (fem)| /ɛgimu'niɐ/      | hegemony                 | /ˈhɛdʒəˌmoʊni/     | hegemonía                | /egemo'nia/             |          |
+| corolário       | substantivo (mas)| /koɾo'laɾiu/     | corollary                | /ˈkɒrəˌlɛri/       | corolario                | /koɾo'laɾjo/            |          |
+| incidente       | substantivo (mas)| /ĩsi'dẽti/      | incident                 | /ˈɪnsədənt/         | incidente                | /insjen'te/             |          |
+| esdrúxulo       | adjetivo (mas)   | /ɛs'dɾusulu/     | absurd                   | /əbˈsɜrd/           | estrambótico             | /es'dɾusulo/            |          |
+| altruísmo       | substantivo (mas)| /aw'tɾuismu/     | altruism                 | /ˈæltruˌɪzəm/      | altruismo                | /altɾu'izmo/             |          |
+| vagabundo       | substantivo (mas)| /vaɡɐ'bũdu/     | vagabond                 | /ˈvæɡəˌbɑnd/       | vagabundo                | /baɡa'βundo/            |          |
+| altruísta       | substantivo (mas)| /aw'tɾuistɐ/     | altruist                 | /ˈæltruˌɪst/       | altruista                | /altɾu'ista/            |          |

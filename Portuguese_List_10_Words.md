@@ -39,3 +39,15 @@
 | subestimar      | verbo            | /subesˈtimar/    | underestimate           | /ˌʌndərˈɛstəˌmeɪt/| subestimar              | /subestiˈmaɾ/          |          |
 | preliminar      | adjetivo (mas)   | /pɾelimiˈnaɾ/    | preliminary              | /prɪˈlɪməˌnɛri/  | preliminar              | /pɾelimiˈnaɾ/          |          |
 | tribulação      | substantivo (fem)| /tɾibulaˈsɐ̃w/   | tribulation              | /ˌtrɪbjuˈleɪʃən/  | tribulación             | /tɾibulaˈsjon/         |          |
+| depreender      | verbo            | /depɾeˈẽdeɾ/     | infer                    | /ɪnˈfɜr/          | deducir                 | /deduˈsiɾ/             |          |
+| fleumático      | adjetivo (mas)   | /flewˈmatiku/    | phlegmatic               | /flɛɡˈmætɪk/      | fleumático              | /fleuˈmatiko/          |          |
+| equivocado      | adjetivo (mas)   | /eˌkwivɐˈkadu/   | mistaken                 | /mɪsˈteɪkən/      | equivocado              | /ekwiβoˈkaðo/          |          |
+| anacrônico      | adjetivo (mas)   | /anakˈɾoniku/    | anachronistic            | /əˌnækroʊˈnɪstɪk/| anacrónico              | /anakˈɾoniko/          |          |
+| retrógrado      | adjetivo (mas)   | /ɾetˈɾoɡɾadu/    | retrograde               | /ˈrɛtroʊˌɡreɪd/  | retrógrado              | /reˈtɾoɣɾaðo/         |          |
+| indolência      | substantivo (fem)| /ĩdɔˈlẽsiɐ/     | indolence                | /ˈɪndələns/       | indolencia              | /indolenˈsjja/         |          |
+| escrutínio      | substantivo (mas)| /eskɾuˈtiniu/    | scrutiny                 | /ˈskruːtəni/      | escrutinio              | /eskɾuˈtinjo/          |          |
+| excelência     | substantivo (fem)| /eksɛˈlẽsiɐ̃w/   | excellence               | /ˈɛksələns/       | excelencia              | /ekselenˈsjja/         |          |
+| ingerência     | substantivo (fem)| /ĩʒeˈɾẽsiɐ/     | interference             | /ˌɪntərˈfɪrəns/   | injerencia              | /inxeɾenˈsjja/         |          |
+| democracia     | substantivo (fem)| /deˌmokɾaˈsiɐ/   | democracy                | /dɪˈmɑːkrəsi/     | democracia              | /demokɾaˈsjja/         |          |
+| infortúnio     | substantivo (mas)| /ĩfoɾˈtunju/     | misfortune               | /mɪsˈfɔːrtʃən/    | infortunio              | /infoɾˈtunjo/          |          |
+| compassivo     | adjetivo (mas)   | /kõpɐˈsivu/      | compassionate            | /kəmˈpæʃənət/     | compasivo               | /kompasiˈvo/          |          |

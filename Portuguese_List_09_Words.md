@@ -73,3 +73,31 @@
 | execrável       | adjetivo (mas)   | /ɛksɛ'kɾavɛɫ/    | execrable                | /ˈɛksɪkrəbəl/      | execrable                | /eksɛ'kɾaβle/          |          |
 | restrição       | substantivo (fem)| /ʁɛʃtɾi'sɐ̃w/    | restriction              | /rɪˈstrɪkʃən/      | restricción              | /restɾik'θjon/         |          |
 | discorrer       | verbo (infinitivo)| /disko'ʁeɾ/     | discourse                | /dɪsˈkɔːrs/        | discurrir                | /disku'rir/            |          |
+| outrossim       | advérbio         | /ow'tɾosim/      | furthermore             | /ˈfɜːrðərˌmɔːr/    | además                  | /að'em.as/             |          |
+| desumilde       | adjetivo (mas)   | /dezʊ'miwðɨ/     | not humble               | /nɒt ˈhʌmbəl/      | desumilde               | /dezumilðe/            |          |
+| obstinado       | adjetivo (mas)   | /ɔbʃtɨ'nadu/     | stubborn                 | /ˈstʌbərn/         | obstinado               | /obstɪ'naðo/           |          |
+| consoante       | preposição       | /kõzu'ɐ̃ntɨ/     | consonant                | /ˈkɑːnsənənt/      | conforme                | /kom'forme/            |          |
+| jactância       | substantivo (fem)| /ʒɐk'tɐ̃sjɐ/     | boasting, bragging       | /ˈboʊstɪŋ/         | jactancia               | /xak'tansja/           |          |
+| cognitivo       | adjetivo (mas)   | /kɔɡni'tivu/     | cognitive                | /ˈkɒɡnɪtɪv/        | cognitivo               | /kon'ɣitivo/           |          |
+| adjacente       | adjetivo (mas)   | /ɐʒɐ'dʒɛ̃tɨ/     | adjacent                 | /əˈdʒeɪsənt/       | adyacente               | /aðja'θente/           |          |
+| arcabouço       | substantivo (mas)| /aɾkɐ'bowsu/     | framework, structure     | /ˈfreɪmˌwɜːrk/     | estructura              | /estɾuk'tuɾa/          |          |
+| eloquente       | adjetivo (mas)   | /ɛlo'kwẽtɨ/      | eloquent                 | /ˈɛləkwənt/        | elocuente               | /elok'wente/           |          |
+| instância       | substantivo (fem)| /ĩ'stɐ̃sjɐ/      | instance                 | /ˈɪnstəns/         | instancia               | /instan'sja/           |          |
+| interesse       | substantivo (mas)| /ĩtɨ'ɾɛsi/      | interest                 | /ˈɪntrəst/         | interés                 | /inte'ɾes/             |          |
+| limítrofe       | adjetivo (mas)   | /limi'tɾofɨ/     | neighboring, adjacent    | /ˈneɪbərɪŋ/        | limítrofe               | /limi'tɾofe/           |          |
+| sintético       | adjetivo (mas)   | /sĩ'tetɨku/      | synthetic                | /sɪnˈθɛtɪk/       | sintético               | /sinˈtetiko/           |          |
+| iminência       | substantivo (fem)| /iminˈẽsjɐ/      | imminence                | /ˈɪmɪnəns/         | inminencia              | /inmi'nensja/          |          |
+| presságio       | substantivo (mas)| /pɾɨsɐ'ʒi.u/     | omen, sign               | /ˈoʊmən/           | presagio                | /pɾesa'xio/            |          |
+| submissão       | substantivo (fem)| /submi'sɐ̃w/     | submission               | /səbˈmɪʃən/        | sumisión                | /sumi'sjon/            |          |
+| relevante       | adjetivo (mas)   | /ʁɨli'vɐ̃tɨ/     | relevant                 | /ˈrɛləvənt/        | relevante               | /rele'βante/           |          |
+| irascível       | adjetivo (mas)   | /iɾɐʃ'ivɛl/     | irascible                | /ɪˈræsəbəl/        | irascible               | /iɾas'θible/           |          |
+| empecilho       | substantivo (mas)| /ẽpɨ'silʲu/     | hindrance, obstacle      | /ˈhɪndrəns/        | obstáculo               | /ob'stakulo/           |          |
+| ludibriar       | verbo            | /ludi'biɾjaɾ/    | to deceive, mislead      | /tə dɪ'siv/         | engañar                 | /eŋγa'ɲaɾ/             |          |
+| excelente       | adjetivo (mas)   | /eksɛ'lẽtɨ/      | excellent                | /ˈɛksələnt/        | excelente               | /ekse'len.te/          |          |
+| liberdade       | substantivo (fem)| /libeʁ'dadi/     | freedom                  | /ˈfriːdəm/         | libertad                | /liβeɾ'tað/            |          |
+| aquisição       | substantivo (fem)| /akwizi'sɐ̃w/    | acquisition              | /ˌæk.wɪ'zɪʃən/     | adquisición             | /adkisji'sjon/         |          |
+| ambicioso       | adjetivo (mas)   | /ɐ̃bĩsi'o.zu/    | ambitious                | /æmˈbɪʃəs/         | ambicioso               | /ambi'θjoso/           |          |
+| plausível       | adjetivo (mas)   | /plaw'zivɛl/     | plausible                | /ˈplɔːzəbəl/       | plausible               | /'plawsible/           |          |
+| humildade       | substantivo (fem)| /umĩ'ladʒi/     | humility                 | /hjuːˈmɪlɪti/      | humildad                | /umi'lað/              |          |
+| convicção       | substantivo (fem)| /kõvi'sɐ̃w/      | conviction               | /kənˈvɪkʃən/       | convicción              | /konβik'tjon/          |          |
+| recíproca       | substantivo (fem)| /ʁe'sipɾukɐ/     | reciprocity              | /ˌrɪsɪ'prɑsəti/    | reciprocidad             | /resi'pɾosidað/        |          |

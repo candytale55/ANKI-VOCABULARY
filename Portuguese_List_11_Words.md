@@ -32,3 +32,31 @@
 | necessidade     | substantivo (fem) | /nɛsɨsiˈdadʒi/  | necessity                | /nɪˈsɛsəti/        | necesidad               | /nesesiˈðað/        |          |
 | concernente     | adjetivo        | /kõsɨɾˈnẽtɨ/     | concerning               | /kənˈsɜrnɪŋ/      | concerniente            | /konsɛɾˈnjente/      |          |
 | benignidade     | substantivo (fem) | /bɛniɡniˈdadʒi/ | benignity                | /bɪˈnɪɡnəti/      | benignidad              | /beɲiɡniˈðað/       |          |
+| contencioso     | adjetivo        | /kõtẽsiˈozu/      | contentious              | /kənˈtɛnʃəs/      | contencioso             | /kontenˈθjoso/      |          |
+| inenarrável     | adjetivo        | /inenɐˈɾavɛw/     | inexpressible           | /ɪnɪkˈsprɛsəbl/    | inenarrable             | /inenaraˈβle/       |          |
+| animosidade     | substantivo (fem) | /animuziˈdadʒi/  | animosity                | /ˌænɪˈmɑːsəti/     | animosidad              | /animosiˈðað/       |          |
+| intervenção     | substantivo (fem) | /ĩtɨɾvẽˈsɐ̃w/   | intervention             | /ˌɪntərˈvɛnʃən/   | intervención            | /intervenˈθjon/     |          |
+| incumbência     | substantivo (fem) | /ĩkũˈbẽsjɐ/     | incumbency               | /ɪnˈkʌmbənsi/     | incumbencia             | /inkumˈbensja/      |          |
+| antagonismo     | substantivo (masc) | /ɐ̃tɐɡuˈniʃmu/   | antagonism               | /ænˈtæɡəˌnɪzəm/   | antagonismo             | /antagonisˈmo/      |          |
+| vocabulário     | substantivo (masc) | /vɔkɐbuˈlaɾju/   | vocabulary               | /vəˈkæbjəˌlɛri/   | vocabulario             | /bokaβuˈlaɾjo/      |          |
+| cumprimento     | substantivo (masc) | /kũpɾiˈmẽtu/    | greeting, compliment     | /ˈɡriːtɪŋ, ˈkɒmplɪmənt/ | cumplimiento            | /kumpliˈmjento/     |          |
+| resistência     | substantivo (fem) | /ʁeziʃˈtẽsjɐ/   | resistance               | /rɪˈzɪstəns/       | resistencia             | /resisˈtensja/      |          |
+| reivindicar     | verbo           | /ʁejvĩdikiˈkaʁ/  | claim, demand            | /kleɪm, dɪˈmænd/    | reivindicar             | /reivindiˈkar/      |          |
+| indiferença     | substantivo (fem) | /ĩdifɨˈɾẽsjɐ/   | indifference             | /ɪnˈdɪfərəns/     | indiferencia             | /indĩfeɾenˈθja/    |          |
+| compreender     | verbo           | /kõpɾeẽˈdeɾ/      | understand               | /ˌʌndərˈstænd/     | comprender              | /komprendˈer/       |          |
+| supracitado     | adjetivo        | /supɾasitˈadu/    | aforementioned           | /əˈfɔːrmərˈmɛnʃənd/ | supracitado             | /suprasiˈtaðo/      |          |
+| subsequente     | adjetivo        | /suksekwẽtˈi/     | subsequent               | /ˈsʌbsɪkwənt/      | subsecuente             | /subsekwente/       |          |
+| estereótipo     | substantivo (masc) | /esteɾeˈotipu/   | stereotype               | /ˈstɛr.i.ə.taɪp/   | estereotipo             | /estere.oˈtipo/     |          |
+| integridade     | substantivo (fem) | /ĩteɡɾiˈdadʒi/   | integrity                | /ɪnˈtɛɡrəti/       | integridad              | /integriˈðað/       |          |
+| diversidade     | substantivo (fem) | /divɨɾsiˈdadʒi/  | diversity                | /daɪˈvɜːrsəti/     | diversidad              | /ðiβersiˈðad/      |          |
+| deliberação     | substantivo (fem) | /dɛlibeɾaˈsɐ̃w/   | deliberation             | /dɪˌlɪb.əˈreɪ.ʃən/ | deliberación            | /delibeɾaˈsjon/     |          |
+| ambiguidade     | substantivo (fem) | /ɐ̃biɡwiˈdadʒi/   | ambiguity                | /ˌæm.bɪˈɡjuː.ə.ti/ | ambigüedad              | /ambiguˈeðað/      |          |
+| especulação     | substantivo (fem) | /ʃpekuɫɐˈsɐ̃w/   | speculation              | /ˌspɛk.jʊˈleɪ.ʃən/ | especulación            | /espekulaˈsjon/     |          |
+| proveniente     | adjetivo        | /pɾuvɨˈnjẽtʃi/    | coming from, deriving    | /ˈkʌm.ɪŋ ˈfrʌm, dɪˈraɪvɪŋ/ | proveniente             | /proveniˈente/      |          |
+| divergência     | substantivo (fem) | /divɨɾˈʒẽsiɐ/    | divergence               | /daɪˈvɜːrdʒəns/   | divergencia             | /diβerˈxenθja/      |          |
+| indulgência     | substantivo (fem) | /ĩduɫˈʒẽsiɐ/    | indulgence               | /ɪnˈdʌl.dʒəns/     | indulgencia             | /indulˈxensja/      |          |
+| elucubração     | substantivo (fem) | /elukubɾɐˈsɐ̃w/  | speculation, supposition | /ˌspɛk.jʊˈleɪ.ʃən, ˌsʌp.əˈzɪʃ.ən/ | elucubración             | /elukubraˈsjon/     |          |
+
+Please note that for words like "proveniente," the English equivalent contains two possible translations: "coming from" and "deriving."
+
+Please note that for words like "cumprimento," the English equivalent contains two possible translations: "greeting" and "compliment." 

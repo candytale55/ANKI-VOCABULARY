@@ -61,3 +61,15 @@
 | fidedigno       | adjetivo (mas)   | /fidɛ'diɲu/      | reliable                 | /rɪˈlaɪəbl/        | fidedigno                | /fide'diɲo/            |          |
 | resolução       | substantivo (fem)| /ʁɛzulu'sɐ̃w/    | resolution               | /ˌrɛzəˈluːʃən/    | resolución               | /rezolu'sjon/          |          |
 | dissensão       | substantivo (fem)| /disẽ'sɐ̃w/     | dissension               | /dɪˈsɛnʃən/       | disensión                | /disen'sjon/           |          |
+| constante       | adjetivo (mas)   | /kõʃ'tɐ̃tɨ/     | constant                 | /ˈkɑːnstənt/       | constante                | /kons'tante/           |          |
+| expressão       | substantivo (fem)| /isprɛ'sɐ̃w/     | expression               | /ɪkˈsprɛʃən/       | expresión                | /ekspɾe'sjon/          |          |
+| supressão       | substantivo (fem)| /supɾɨ'sɐ̃w/     | suppression              | /səˈprɛʃən/        | supresión                | /supɾe'sjon/           |          |
+| taciturno       | adjetivo (mas)   | /tɐsi'tuɾnu/     | taciturn                 | /ˈtæsɪtɜːrn/      | taciturno                | /tasi'tuɾno/           |          |
+| imparcial       | adjetivo (mas)   | /ĩpaɾ'sjaɫ/     | impartial                | /ɪmˈpɑːrʃəl/      | imparcial                | /impaɾ'sjal/           |          |
+| autêntico       | adjetivo (mas)   | /aw'tẽtiku/     | authentic                | /ɔːˈθɛntɪk/        | auténtico                | /aw'tentiko/           |          |
+| ignorante       | adjetivo (mas)   | /iɡnu'ɾɐ̃tɨ/     | ignorant                 | /ˈɪɡnərənt/        | ignorante                | /iɡno'ɾante/           |          |
+| paciência       | substantivo (fem)| /pasjẽ'siɐ̃w/    | patience                 | /ˈpeɪʃəns/         | paciencia                | /pasjen'sja/           |          |
+| arrogante       | adjetivo (mas)   | /aʁu'ɡɐ̃tɨ/     | arrogant                 | /ˈærəɡənt/         | arrogante                | /aro'ɣante/           |          |
+| execrável       | adjetivo (mas)   | /ɛksɛ'kɾavɛɫ/    | execrable                | /ˈɛksɪkrəbəl/      | execrable                | /eksɛ'kɾaβle/          |          |
+| restrição       | substantivo (fem)| /ʁɛʃtɾi'sɐ̃w/    | restriction              | /rɪˈstrɪkʃən/      | restricción              | /restɾik'θjon/         |          |
+| discorrer       | verbo (infinitivo)| /disko'ʁeɾ/     | discourse                | /dɪsˈkɔːrs/        | discurrir                | /disku'rir/            |          |

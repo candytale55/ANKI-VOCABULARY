@@ -27,3 +27,15 @@
 | sagacidade      | substantivo (fem)| /saɡasiˈdadʒi/  | sagacity                 | /səˈɡæsəti/        | sagacidad               | /saɣasiˈðað/           |          |
 | resignação      | substantivo (fem)| /ʁeziɡnaˈsɐ̃w/  | resignation              | /ˌrɛzɪɡˈneɪʃən/   | resignación             | /reziɡnaˈsjon/         |          |
 | hipocrisia      | substantivo (fem)| /ipokɾiˈzia/    | hypocrisy                | /hɪˈpɑːkrəsi/      | hipocresía              | /ipokɾeˈsia/           |          |
+| preconizar      | verbo            | /pɾekɔnizˈaɾ/     | advocate                 | /ˈædvəˌkeɪt/      | preconizar              | /pɾekoˈnizaɾ/          |          |
+| precedente      | substantivo (mas)| /pɾesɨˈdẽtʃi/    | precedent                | /ˈpresɪdənt/      | precedente              | /pɾeseˈdente/          |          |
+| vislumbrar      | verbo            | /vizlũˈbɾaɾ/     | glimpse                  | /ɡlɪmps/          | vislumbrar              | /bizlumˈbɾaɾ/          |          |
+| incidência      | substantivo (fem)| /ĩsidẽˈsiɐ/      | incidence                | /ˈɪnsɪdəns/       | incidencia              | /insidenˈsja/          |          |
+| lisonjeado      | adjetivo (mas)   | /lizɔˈɲejaðu/    | flattered                | /ˈflætərd/        | lisonjeado              | /lisonˈxeadɔ/         |          |
+| suscetível      | adjetivo (mas)   | /suseˈtivɛl/     | susceptible              | /səˈsɛptəbl/      | susceptible             | /susepˈtible/         |          |
+| entretanto      | conjunção        | /ẽtɾetãˈtu/     | however                  | /haʊˈɛvər/        | sin embargo             | /sin emˈbaɾɡo/        |          |
+| disposição      | substantivo (fem)| /dispɔziˈsɐ̃w/   | disposition              | /ˌdɪspəˈzɪʃən/   | disposición             | /disposiˈsjon/         |          |
+| excêntrico      | adjetivo (mas)   | /ɛkˈsẽtɾiku/    | eccentric                | /ɪkˈsɛntrɪk/      | excéntrico              | /ekˈsentɾiko/          |          |
+| subestimar      | verbo            | /subesˈtimar/    | underestimate           | /ˌʌndərˈɛstəˌmeɪt/| subestimar              | /subestiˈmaɾ/          |          |
+| preliminar      | adjetivo (mas)   | /pɾelimiˈnaɾ/    | preliminary              | /prɪˈlɪməˌnɛri/  | preliminar              | /pɾelimiˈnaɾ/          |          |
+| tribulação      | substantivo (fem)| /tɾibulaˈsɐ̃w/   | tribulation              | /ˌtrɪbjuˈleɪʃən/  | tribulación             | /tɾibulaˈsjon/         |          |

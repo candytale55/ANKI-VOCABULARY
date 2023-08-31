@@ -25,3 +25,15 @@
 | altruísmo       | substantivo (mas)| /aw'tɾuismu/     | altruism                 | /ˈæltruˌɪzəm/      | altruismo                | /altɾu'izmo/             |          |
 | vagabundo       | substantivo (mas)| /vaɡɐ'bũdu/     | vagabond                 | /ˈvæɡəˌbɑnd/       | vagabundo                | /baɡa'βundo/            |          |
 | altruísta       | substantivo (mas)| /aw'tɾuistɐ/     | altruist                 | /ˈæltruˌɪst/       | altruista                | /altɾu'ista/            |          |
+| hermético       | adjetivo (mas)   | /ɛɾ'mɛtiku/      | hermetic                 | /hɜrˈmɛtɪk/        | hermético                | /eɾ'metiko/             |          |
+| aleatório       | adjetivo (mas)   | /ali'atɔɾiu/     | random                   | /ˈrændəm/          | aleatorio                | /ale'aˈtoɾjo/           |          |
+| esperança       | substantivo (fem)| /ɛspɛ'ɾɐ̃sɐ/     | hope                     | /hoʊp/             | esperanza                | /espe'ɾansa/            |          |
+| promíscuo       | adjetivo (mas)   | /pɾu'misku/      | promiscuous              | /prəˈmɪskjuəs/     | promiscuo                | /pɾomi'skuo/            |          |
+| persuadir       | verbo (infinitivo)| /pɛʁswa'diʁ/    | persuade                 | /pərˈsweɪd/        | persuadir                | /peɾswa'ðiɾ/            |          |
+| confiança       | substantivo (fem)| /kõfi'ɐ̃sɐ/      | confidence               | /ˈkɑnˌfɪdəns/      | confianza                | /konfjan'tsa/           |          |
+| deliberar       | verbo (infinitivo)| /dɛlibɛ'ɾaɾ/     | deliberate               | /dɪˈlɪbəˌreɪt/    | deliberar                | /delibe'ɾaɾ/           |          |
+| sapiência       | substantivo (fem)| /sapj'ɛ̃siɐ/      | wisdom                   | /ˈwɪzdəm/          | sabiduría                | /sapi'ensja/            |          |
+| indelével       | adjetivo (mas)   | /ĩdɛ'levɛw/     | indelible                | /ɪnˈdɛləbl̩/       | indeleble                | /inde'leβle/            |          |
+| demasiado       | adjetivo (mas)   | /dɛzma'siadu/    | too much                 | /tuː mʌʧ/          | demasiado                | /de'masjaðo/            |          |
+| mesquinho       | adjetivo (mas)   | /mɛʃ'kiɲu/      | stingy                   | /ˈstɪndʒi/         | mezquino                 | /mes'kino/             |          |
+| diligente       | adjetivo (mas)   | /dili'ʒẽti/     | diligent                 | /ˈdɪlədʒənt/       | diligente                | /di'lixente/           |          |

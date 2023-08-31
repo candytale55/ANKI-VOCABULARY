@@ -37,3 +37,15 @@
 | demasiado       | adjetivo (mas)   | /dɛzma'siadu/    | too much                 | /tuː mʌʧ/          | demasiado                | /de'masjaðo/            |          |
 | mesquinho       | adjetivo (mas)   | /mɛʃ'kiɲu/      | stingy                   | /ˈstɪndʒi/         | mezquino                 | /mes'kino/             |          |
 | diligente       | adjetivo (mas)   | /dili'ʒẽti/     | diligent                 | /ˈdɪlədʒənt/       | diligente                | /di'lixente/           |          |
+| impetuoso       | adjetivo (mas)   | /ĩpɛtu'ozu/      | impetuous                | /ɪmˈpɛtʃuəs/      | impetuoso                | /impe'twoso/            |          |
+| descrição       | substantivo (fem)| /dɛskɾi'sɐ̃w/    | description              | /dɪˈskrɪpʃən/     | descripción              | /des'kɾipθjon/         |          |
+| resignado       | adjetivo (mas)   | /ʁɛziɲa'du/      | resigned                 | /rɪˈzaɪnd/         | resignado                | /reθi'naðo/            |          |
+| regozijar       | verbo (infinitivo)| /ʁɛgozi'ʒaɾ/    | rejoice                  | /rɪˈdʒɔɪs/         | regocijar                | /rexoθi'xaɾ/           |          |
+| inusitado       | adjetivo (mas)   | /inusi'tadu/     | unusual                  | /ʌnˈjuːʒuəl/      | inusitado                | /inusi'taðo/           |          |
+| eminência       | substantivo (fem)| /ɛmin'ẽsiɐ/      | eminence                 | /ˈɛmənəns/         | eminencia                | /eminen'sja/           |          |
+| compaixão       | substantivo (fem)| /kõpaj'ʒɐ̃w/     | compassion               | /kəmˈpæʃən/        | compasión                | /kompasjo'n/           |          |
+| prudência       | substantivo (fem)| /pɾu'dẽsiɐ/      | prudence                 | /ˈpruːdəns/        | prudencia                | /pru'densja/           |          |
+| pretensão       | substantivo (fem)| /pɾɛtẽ'sɐ̃w/     | pretension               | /prɪˈtɛnʃən/       | pretensión               | /pɾeten'sjon/          |          |
+| discrição       | substantivo (fem)| /diskɾi'sɐ̃w/    | discretion               | /dɪˈskrɛʃən/       | discreción               | /diskɾep'sjon/         |          |
+| analítico       | adjetivo (mas)   | /anal'i'tiku/    | analytical               | /ˌænəˈlɪtɪkəl/    | analítico                | /anal'i'tiko/          |          |
+| explícito       | adjetivo (mas)   | /ɛks'plisitu/     | explicit                 | /ɪkˈsplɪsɪt/       | explícito                | /eks'plisito/          |          |

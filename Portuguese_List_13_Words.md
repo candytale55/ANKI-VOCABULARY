@@ -15,4 +15,43 @@
 | ressignificar    | verbo               | /χɛ.sĩ.fi.kaɾ/         | reframe, reinterpret       | /riːˈfreɪm, ˌriːɪnˈtɜːprɪt/ | resignificar            | /resiɲifiˈkaɾ/          |          |
 | discriminação    | substantivo (fem)   | /di.skɾi.mi.na.ˈsɐ̃w̃/ | discrimination             | /dɪˌskrɪm.əˈneɪʃən/  | discriminación          | /diskɾiminaˈsjon/      |          |
 | transcendente    | adjetivo            | /tɾɐ̃s.ẽ.ˈdẽ.tɨ/      | transcendent                | /trænˈsɛn.dənt/       | trascendente            | /tɾasenˈdente/         |          |
-| aprovisionado    | particípio (masc)   | /ˌa.pɾo.vi.zjɔ.ˈna.du/
+| aprovisionado     | particípio (masc)   | /ˌa.pɾo.vi.zjɔ.ˈna.du/ | provisioned, stocked       | /prəˈvɪʒənd, stɒkt/   | aprovisionado           | /apɾobisjoˈnaðo/       |          |
+| epistemologia     | substantivo (fem)   | /ˌɛ.pɨs.tɨ.mo.lo.ˈʒi.ɐ/| epistemology                | /ɪˌpɪs.tɪˈmɒl.ə.dʒi/ | epistemología           | /episteˌmoloˈxi.a/     |          |
+| contrapartida     | substantivo (fem)   | /kõ.tɾɐ.paɾ.ˈti.ðɐ/   | counterpart                 | /ˈkaʊntərˌpɑːrt/     | contrapartida           | /kontraparˈtida/       |          |
+| assintomático     | adjetivo            | /a.sĩ.tɔ.ˈmɐ.ti.ku/   | asymptomatic                | /ˌeɪsɪmptəˈmætɪk/    | asintomático            | /asintomaˈtiko/        |          |
+| comprobatório     | adjetivo            | /kõ.pɾu.ba.ˈto.ɾi.u/   | probative                   | /prəˈbeɪtɪv/          | comprobatorio           | /komprobaˈtoɾjo/       |          |
+| perpendicular     | adjetivo            | /pɛɾ.pẽn.di.ku.ˈlaɾ/  | perpendicular               | /ˌpɜːr.pənˈdɪk.jə.lər/ | perpendicular           | /perpenðikuˈlaɾ/       |          |
+| incongruência     | substantivo (fem)   | /ĩ.kõ.gɾu.ˈẽ.si.ɐ/   | incongruence                | /ˌɪn.kənˈɡruː.əns/   | incongruencia           | /iŋkonɡɾuˈenθja/      |          |
+| reminiscência     | substantivo (fem)   | /ʁɨ.mi.ni.ˈsẽ.si.ɐ/   | reminiscence                | /ˌrɛm.əˈnɪs.əns/     | reminiscencia           | /reminisjenˈθja/      |          |
+| ressentimento     | substantivo (masc)  | /ʁɨ.sẽ.ti.mẽ.ˈtu/     | resentment                  | /rɪˈzɛnt.mənt/        | resentimiento           | /resenˈtimjento/       |          |
+| estereotipado     | adjetivo            | /ɨʃ.tɨ.ɾɨ.o.ti.ˈpa.du/| stereotyped                 | /ˈstɛr.i.əˌtaɪpt/     | estereotipado           | /estereotiˈpado/       |          |
+| possibilidade     | substantivo (fem)   | /pɔ.si.bi.li.da.ˈdʒi/ | possibility                 | /ˌpɑːs.əˈbɪl.ə.ti/   | posibilidad             | /posibiliˈðað/        |          |
+| recenseamento     | substantivo (masc)  | /ɦɨ.sẽ.sjaˈmẽ.tu/     | census, enumeration        | /ˈsɛn.səs, ɪˌnuːməˈreɪʃən/ | censo, censamiento      | /ˈsenso, senˈsamejn̪to/|          |
+| intermediário     | adjetivo            | /ĩ.tɛɾ.mu.ˌdi.a.ˈɾi.u/| intermediate                | /ˌɪn.tərˈmiː.di.ət/  | intermediario           | /intɛɾmeˈðjario/       |          |
+| veementemente     | advérbio            | /vɨ.ɨ.mẽ.ˈti.mẽ.tʃi/  | vehemently                  | /ˈviː.ə.mənt.li/      | vehementemente          | /beemenˈtemente/       |          |
+| preponderante     | adjetivo            | /pɾɨ.põ.dɨ.ˈɾɐ̃.tʃi/ | preponderant                | /prɪˈpɒn.də.rənt/     | preponderante           | /prepondeˈɾante/       |          |
+| indispensável     | adjetivo           | /ĩ.dɨʃ.pẽn.ˈsɐ.vɛl/     | indispensable                | /ˌɪn.dɪˈspɛn.sə.bəl/   | indispensable           | /indespenˈsable/       |          |
+| subjetividade     | substantivo (fem)  | /sub.ʒɨ.tʃi.vi.ˈda.dʒi/ | subjectivity                | /səbˌdʒɛk.tɪvˈɪ.ti/    | subjetividad            | /subxetiβiˈðað/        |          |
+| singularidade     | substantivo (fem)  | /siŋ.gu.la.ɾi.ˈda.dʒi/ | singularity                 | /ˌsɪŋ.ɡjəˈlær.ə.ti/    | singularidad           | /siŋɡulaɾiˈðað/       |          |
+| hodiernamente     | advérbio           | /o.dʒi.ɛɾ.ˈna.mẽ.tʃi/ | nowadays                    | /ˈnaʊ.əˌdez/            | hodiernamente           | /oðjeɾˈnamente/        |          |
+| subserviência     | substantivo (fem)  | /sub.sɛɾ.vi.ˈẽ.si.ɐ/  | subservience                | /səbˈsɜː.vi.əns/      | sumisión                | /sumiˈsjon/            |          |
+| longanimidade     | substantivo (fem)  | /lõ.ɡɐ.ni.mi.ˈda.dʒi/ | longanimity                 | /ˌlɔŋ.ɡəˈnɪ.mɪ.ti/    | longanimidad           | /lonɡanimiˈðað/       |          |
+| convalescença     | substantivo (fem)  | /kõ.va.lɨ.ˈsẽ.sɐ/    | convalescence               | /ˌkɒn.vəˈlɛs.əns/      | convalecencia           | /konβaleˈθenθja/      |          |
+| pormenorizado     | adjetivo           | /poɾ.me.nɔ.ɾi.ˈza.du/ | detailed, meticulous       | /ˈdiː.teɪld, məˈtɪk.jə.ləs/ | detallado               | /detaliˈðaðo/         |          |
+| autenticidade     | substantivo (fem)  | /aw.tẽ.ti.si.ˈda.dʒi/ | authenticity                | /ˌɔː.θɛnˈtɪs.ɪ.ti/     | autenticidad           | /awtentiˈsiðað/       |          |
+| transformação     | substantivo (fem)  | /tɾɐ̃s.fɔɾ.ma.ˈsɐ̃w/  | transformation              | /ˌtræns.fɔrˈmeɪ.ʃən/  | transformación         | /tɾansformaˈsjon/      |          |
+| incontinência     | substantivo (fem)  | /ĩ.kõ.ti.nẽ.ˈsi.ɐ/   | incontinence                | /ˌɪn.kənˈtɪn.əns/     | incontinencia           | /inkontinenˈθja/      |          |
+| instabilidade     | substantivo (fem)  | /ĩʃ.ta.bi.li.ˈda.dʒi/| instability                 | /ˌɪn.stəˈbɪl.ə.ti/    | inestabilidad           | /inestabiliˈðað/      |          |
+| independência     | substantivo (fem)  | /ĩ.ðɨ.pẽn.ˈdẽ.si.ɐ/ | independence                | /ˌɪn.dɪˈpɛn.dəns/     | independencia           | /indepenˈdensja/      |          |
+| sensibilidade     | substantivo (fem)  | /sẽ.si.bi.li.ˈda.dʒi/ | sensitivity               | /ˌsɛn.səˈtɪv.ə.ti/    | sensibilidad           | /sensiβiliˈðað/       |          |
+| introspectivo     | adjetivo           | /ĩ.tɾo.spɛk.ˈti.vu/  | introspective             | /ˌɪn.trəˈspɛk.tɪv/    | introspectivo           | /introspekˈtivo/      |          |
+| reivindicação     | substantivo (fem)  | /ʁɐj.vĩ.di.ka.ˈsɐ̃w/ | claim, demand             | /kleɪm, dɪˈmænd/       | reivindicación           | /reiβindiˈkasjon/     |          |
+| superestimado     | adjetivo           | /su.pɛɾ.ɨʃ.ti.ˈma.du/ | overestimated             | /ˌoʊ.vərˈɛs.təˌmeɪ.tɪd/ | sobreestimado           | /soβɾeestimaˈðo/     |          |
+| elegibilidade     | substantivo (fem)  | /ɛ.lɛ.ʒi.bi.li.ˈda.dʒi/| eligibility               | /ˌɛl.ə.dʒəˈbɪl.ə.ti/  | elegibilidad           | /eleɣibiliˈðað/      |          |
+| contraditório     | adjetivo           | /kõ.tɾɐ.di.ˈtɔ.ɾju/ | contradictory             | /ˌkɒn.trəˈdɪk.tər.i/ | contradictorio           | /kontradikˈtoɾjo/     |          |
+| latifundiário     | substantivo (masc) | /la.ti.fũ.di.ˈa.ɾju/ | large landowner           | /lɑrdʒ ˈlænd.oʊ.nər/  | latifundista            | /latifundiˈsta/       |          |
+| indissociável     | adjetivo           | /ĩ.dʒi.sɔ.si.ˈa.vɛl/ | indivisible, inseparable  | /ˌɪn.dɪˈvɪz.ə.bəl/  | indisoluble             | /indisoliˈble/        |          |
+| multifacetado     | adjetivo           | /mu.li.fa.si.ˈta.du/ | multifaceted              | /ˌmʌl.tiˈfæs.tɪd/    | multifacético           | /multifaseˈtiko/      |          |
+| eventualmente     | advérbio           | /i.vẽ.tu.ɐl.ˈmẽ.tʃi/| eventually                | /ɪˈvɛn.tʃu.ə.li/     | eventualmente           | /eventualˈmente/     |          |
+| recalcitrante     | adjetivo           | /ʁɨ.kaw.si.ˈtɾɐ̃.tʃi/ | recalcitrant              | /rɪˈkæl.sɪ.trənt/     | recalcitrante           | /rekalsiˈtɾante/     |          |
+| desmistificar     | verbo              | /dɨʃ.mis.ti.fi.ˈkaʁ/| demystify                 | /diːˈmɪs.tɪ.faɪ/      | desmitificar            | /desmitifiˈkar/      |          |

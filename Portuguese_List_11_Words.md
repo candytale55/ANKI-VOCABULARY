@@ -17,3 +17,18 @@
 | pressuposto     | substantivo (masc) | /pɾɨsɨpuˈʃuʃtu/ | assumption, presupposition | /əˌsʌmpˈʃən/, /ˌpriːsəpəˈzɪʃən/ | presupuesto | /pɾesuˈpwesto/ | |
 | beneplácito     | substantivo (masc) | /bɨnɨplɐˈsitu/  | approval                 | /əˈpruːvəl/         | beneplácito             | /beneˈplasito/       |          |
 | subterfúgio     | substantivo (masc) | /sutɨɾˈfuʒju/    | subterfuge               | /ˈsʌbtərfjuːdʒ/   | subterfugio             | /subteɾˈfuʝjo/       |          |
+| preconceito     | substantivo (masc) | /pɾekõˈsejtu/   | prejudice                | /ˈprɛdʒədɪs/      | prejuicio               | /pɾexuˈθjo/          |          |
+| indiferente     | adjetivo        | /ĩdifeˈɾẽtɨ/      | indifferent              | /ɪnˈdɪfərənt/     | indiferente             | /indĩfeˈɾente/      |          |
+| experiência     | substantivo (fem) | /eʃpeɾiˈẽsjɐ/   | experience               | /ɪkˈspɪriəns/      | experiencia             | /ekspɛɾiˈensja/      |          |
+| consonância     | substantivo (fem) | /kõsõˈnɐ̃sjɐ/   | consonance               | /ˈkɑːnsənəns/     | consonancia             | /konsɔˈnansja/       |          |
+| pretensioso     | adjetivo        | /pɾetẽsiˈozu/      | pretentious              | /prɪˈtɛnʃəs/      | pretencioso             | /pretensiˈoso/       |          |
+| transcender     | verbo           | /tɾɐ̃ʃˈsendɨɾ/    | transcend                | /trænsˈɛnd/        | trascender              | /tɾasenˈdeɾ/         |          |
+| imensurável     | adjetivo        | /imensuˈɾavɛw/     | immeasurable             | /ɪˈmɛʒərəbl/      | inmensurable            | /imenˈsuɾable/       |          |
+| beligerante     | adjetivo        | /bɛliʒeˈɾɐ̃tɨ/   | belligerent              | /bəˈlɪdʒərənt/    | beligerante             | /belixeˈɾante/      |          |
+| intensidade     | substantivo (fem) | /ĩtẽsiˈdadʒi/  | intensity                | /ɪnˈtɛnsəti/      | intensidad              | /intensiˈðað/       |          |
+| contingente     | substantivo (masc) | /kõtĩʒẽˈtʃi/   | contingent               | /kənˈtɪndʒənt/     | contingente             | /kontiˈxente/        |          |
+| proeminente     | adjetivo        | /pɾɔjmiˈnẽtɨ/     | prominent                | /ˈprɒmɪnənt/      | prominente              | /pɾomineˈnte/        |          |
+| superficial     | adjetivo        | /sufisjupeɾˈfiʃu/ | superficial              | /ˌsuːpɚˈfɪʃəl/    | superficial             | /superfiˈsjal/       |          |
+| necessidade     | substantivo (fem) | /nɛsɨsiˈdadʒi/  | necessity                | /nɪˈsɛsəti/        | necesidad               | /nesesiˈðað/        |          |
+| concernente     | adjetivo        | /kõsɨɾˈnẽtɨ/     | concerning               | /kənˈsɜrnɪŋ/      | concerniente            | /konsɛɾˈnjente/      |          |
+| benignidade     | substantivo (fem) | /bɛniɡniˈdadʒi/ | benignity                | /bɪˈnɪɡnəti/      | benignidad              | /beɲiɡniˈðað/       |          |

@@ -1,4 +1,4 @@
-# PALABRAS DE 11 LETRAS
+# Palabras de 11 Letras
 
 | Portuguese Word | Part of Speech  | Portuguese IPA      | Equivalent English Word  | English IPA (USA)  | Equivalent Spanish Word | Spanish IPA (Latin American) | Word No. |
 |-----------------|-----------------|---------------------|--------------------------|--------------------|-------------------------|----------------------------|----------|

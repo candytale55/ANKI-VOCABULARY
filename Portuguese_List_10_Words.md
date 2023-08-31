@@ -15,3 +15,15 @@
 | inexorável      | adjetivo (mas)   | /inɨksuˈɾavɛw/  | inexorable               | /ɪnˈɛksərəbəl/     | inexorable              | /inekso'ɾaβle/         |          |
 | pragmático      | adjetivo (mas)   | /pɾɐɡˈmatiku/   | pragmatic                | /præɡˈmætɪk/       | pragmático              | /pɾaɣ'matiko/          |          |
 | prepotente      | adjetivo (mas)   | /pɾɨpoˈtẽtɨ/    | overbearing, arrogant    | /ˌoʊvərˈbɛrɪŋ/    | prepotente              | /pɾepo'tente/          |          |
+| incipiente      | adjetivo (mas)   | /ĩsipiˈẽtʃi/    | incipient                | /ɪnˈsɪpiənt/       | incipiente              | /insiˈpjente/          |          |
+| disruptivo      | adjetivo (mas)   | /disɾupˈtivu/   | disruptive               | /dɪsˈrʌptɪv/       | disruptivo              | /disrupˈtivo/          |          |
+| sororidade      | substantivo (fem)| /soɾoɾiˈdadʒi/  | sisterhood               | /ˈsɪstərˌhʊd/     | sororidad               | /soɾoɾiˈðað/           |          |
+| serenidade      | substantivo (fem)| /sɨɾɨniˈdadʒi/  | serenity                 | /səˈrɛnəti/        | serenidad               | /seɾeniˈðað/           |          |
+| arbitrário      | adjetivo (mas)   | /aɾbiˈtɾaɾiu/   | arbitrary                | /ˈɑːrbəˌtrɛri/     | arbitrario              | /arbiˈtraɾjo/          |          |
+| indulgente      | adjetivo (mas)   | /ĩduʎˈʒẽtɨ/    | indulgent                | /ɪnˈdʌldʒənt/      | indulgente              | /indulˈxente/          |          |
+| auspicioso      | adjetivo (mas)   | /awspiˈsjozu/   | auspicious               | /ɔːˈspɪʃəs/        | auspicioso              | /auspiˈsjoso/          |          |
+| iniquidade      | substantivo (fem)| /ini.kwidaˈdʒi/ | iniquity                 | /ɪˈnɪkwəti/        | iniquidad               | /ini.kwiðaˈð/          |          |
+| pertinente      | adjetivo (mas)   | /peɾtiˈnẽtʃi/   | pertinent                | /ˈpɜːrtənənt/     | pertinente              | /peɾtiˈnente/          |          |
+| sagacidade      | substantivo (fem)| /saɡasiˈdadʒi/  | sagacity                 | /səˈɡæsəti/        | sagacidad               | /saɣasiˈðað/           |          |
+| resignação      | substantivo (fem)| /ʁeziɡnaˈsɐ̃w/  | resignation              | /ˌrɛzɪɡˈneɪʃən/   | resignación             | /reziɡnaˈsjon/         |          |
+| hipocrisia      | substantivo (fem)| /ipokɾiˈzia/    | hypocrisy                | /hɪˈpɑːkrəsi/      | hipocresía              | /ipokɾeˈsia/           |          |

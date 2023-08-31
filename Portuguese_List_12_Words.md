@@ -44,8 +44,6 @@
 | interlocutor     | substantivo (masc)   | /ĩ.tɛɾ.lo.ku.ˈtoɾ/         | interlocutor                 | /ˌɪn.tərˈlɑː.kjə.tər/  | interlocutor             | /inteɾloˈkutoɾ/            |          |
 | escatológico     | adjetivo             | /ɨs.kɐ.to.lo.ˈʤi.ku/       | eschatological              | /ˌɛs.kə.təˈlɒdʒ.ɪ.kəl/ | escatológico              | /eskatoloˈxiko/            |          |
 | libertinagem     | substantivo (fem)    | /li.bɛɾ.ti.ˈna.ʒẽj/        | debauchery                   | /dɪˈbɔː.tʃə.ri/         | libertinaje              | /libeɾtinaˈxe/             |          |
-| Portuguese Word  | Part of Speech       | Portuguese IPA             | Equivalent English Word      | English IPA (USA)         | Equivalent Spanish Word   | Spanish IPA (Latin American) | Word No. |
-|------------------|----------------------|----------------------------|------------------------------|---------------------------|---------------------------|------------------------------|----------|
 | conformidade     | substantivo (fem)    | /kõ.fɔɾ.mi.ˈda.dʒi/        | conformity                   | /kənˈfɔːr.mə.ti/        | conformidad               | /konformiˈdad/             |          |
 | proporcionar     | verbo                | /pɾu.puɾ.si.o.naɾ/          | provide                      | /prəˈvaɪd/               | proporcionar              | /pɾoporsjoˈnaɾ/            |          |
 | ninfomaníaco     | substantivo (masc)   | /nĩ.fo.ma.ni.ˈa.ku/        | nymphomaniac                 | /ˌnɪm.fəˈmeɪ.ni.æk/     | ninfómano                 | /ninfoˈmano/               |          |

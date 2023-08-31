@@ -49,3 +49,15 @@
 | discrição       | substantivo (fem)| /diskɾi'sɐ̃w/    | discretion               | /dɪˈskrɛʃən/       | discreción               | /diskɾep'sjon/         |          |
 | analítico       | adjetivo (mas)   | /anal'i'tiku/    | analytical               | /ˌænəˈlɪtɪkəl/    | analítico                | /anal'i'tiko/          |          |
 | explícito       | adjetivo (mas)   | /ɛks'plisitu/     | explicit                 | /ɪkˈsplɪsɪt/       | explícito                | /eks'plisito/          |          |
+| ordinário       | adjetivo (mas)   | /oɾdina'ɾju/     | ordinary                 | /ˈɔːrdnˌɛri/      | ordinario                | /oɾði'naɾjo/           |          |
+| percepção       | substantivo (fem)| /pɛɾsɛp'sɐ̃w/    | perception               | /pɚˈsɛpʃən/       | percepción               | /peɾsep'θjon/          |          |
+| exequível       | adjetivo (mas)   | /ɛksɛ'kivɛl/     | feasible                 | /ˈfiːzəbəl/        | factible                 | /fak'tible/            |          |
+| nostalgia       | substantivo (fem)| /nuʃta'ʒjɐ/     | nostalgia                | /nɒˈstældʒə/      | nostalgia                | /nostal'xia/           |          |
+| subjetivo       | adjetivo (mas)   | /subʒɛ'tivu/     | subjective               | /səbˈdʒɛktɪv/     | subjetivo                | /subxek'tixo/          |          |
+| autóctone       | adjetivo (mas)   | /aw'tɔktoni/     | autochthonous            | /ɔːˈtɑːkθənəs/    | autóctono                | /aw'toktono/           |          |
+| autonomia       | substantivo (fem)| /awtɔno'miɐ/     | autonomy                 | /ɔːˈtɒnəmi/        | autonomía                | /awtono'mja/           |          |
+| desdenhar       | verbo (infinitivo)| /dɛzdẽ'jaɾ/     | despise                  | /dɪˈspaɪz/         | despreciar               | /despɾe'θjaɾ/          |          |
+| companhia       | substantivo (fem)| /kõpɐ'ɲiɐ/      | company                  | /ˈkʌmpəni/         | compañía                 | /kompaj'nia/           |          |
+| fidedigno       | adjetivo (mas)   | /fidɛ'diɲu/      | reliable                 | /rɪˈlaɪəbl/        | fidedigno                | /fide'diɲo/            |          |
+| resolução       | substantivo (fem)| /ʁɛzulu'sɐ̃w/    | resolution               | /ˌrɛzəˈluːʃən/    | resolución               | /rezolu'sjon/          |          |
+| dissensão       | substantivo (fem)| /disẽ'sɐ̃w/     | dissension               | /dɪˈsɛnʃən/       | disensión                | /disen'sjon/           |          |

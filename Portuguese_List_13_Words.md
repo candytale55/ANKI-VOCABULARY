@@ -75,3 +75,20 @@
 | serendipidade    | substantivo (fem)  | /sɨ.ɾẽ.di.pi.ˈda.dʒi/ | serendipity               | /ˌsɛr.ənˈdɪp.ə.ti/    | serendipia              | /seɾenˈdipja/       |          |
 | correlacionar    | verbo              | /ko.ɾɨ.la.si.o.ˈnaɾ/   | correlate                 | /ˈkɒr.əˌleɪt/           | correlacionar           | /korelasi.oˈnaɾ/     |          |
 | arrefecimento    | substantivo (masc) | /a.hɨ.fi.si.ˈmẽ.tu/   | cooling, cooling down     | /ˈkuː.lɪŋ, ˌkuː.lɪŋ ˈdaʊn/ | enfriamiento           | /enfɾiaˈmiento/     |          |
+| incandescente    | adjetivo           | /ĩ.kɐ̃.dɨˈʃẽs.tɨ/      | incandescent              | /ˌɪn.kænˈdɛs.ənt/      | incandescente           | /inkãnˈdesente/    |          |
+| predisposição    | substantivo (fem)  | /pɾɨ.dis.po.zi.ˈsɐ̃w̃/   | predisposition            | /ˌpriː.dɪs.pəˈzɪʃ.ən/  | predisposición         | /predisposiˈsjon/  |          |
+| versatilidade    | substantivo (fem)  | /vɨɾ.sɐ.ti.li.ˈdɐ.dɨ/  | versatility               | /ˌvɜːr.səˈtɪl.ɪ.ti/    | versatilidad           | /bersatiliˈðað/   |          |
+| conscientizar    | verbo              | /kõ.siẽ.ti.zaɾ/         | raise awareness, realize  | /ˈreɪz əˈwɛr.nəs, ˈriː.əˌlaɪz/ | concienciar            | /konθjenθjar/      |          |
+| desnecessário    | adjetivo           | /dɨs.nɨ.sɨˈsa.ɾju/      | unnecessary               | /ʌnˈnɛs.ɪˌsɛri/        | innecesario             | /ineθeˈsaɾjo/      |          |
+| irresponsável    | adjetivo           | /ɨʁɨʃ.põ.si.ˈsɐ.w̃ɨɫ/  | irresponsible             | /ˌɪr.ɪˈspɒn.sə.bəl/    | irresponsable           | /iresponsaˈble/    |          |
+| supersticioso    | adjetivo           | /su.peʁs.ti.si.o.ˈzu/   | superstitious             | /ˌsuː.pərˈstɪʃ.əs/    | supersticioso           | /supeɾstisjoˈso/   |          |
+| indeterminado    | adjetivo           | /ĩ.dɨ.tɨ.mi.na.ˈɾa.ðu/ | undetermined              | /ˌʌn.dɪˈtɜːr.mɪnd/     | indeterminado           | /indeɾminaˈðo/     |          |
+| imperceptível    | adjetivo           | /ĩ.pɨɾ.sɛpˈtivɛɫ/      | imperceptible            | /ˌɪm.pərˈsɛp.tə.bəl/   | imperceptible          | /impersepˈtible/  |          |
+| representação    | substantivo (fem)  | /ʁɛpɾɨzẽ.tɐˈsɐ̃w̃/     | representation            | /ˌrɛprɪzɛnˈteɪʃən/    | representación         | /repɾesentaˈsjon/  |          |
+| especificação    | substantivo (fem)  | /ɨʃ.pɨsɨ.fɨ.kɐ.ˈsɐ̃w̃/  | specification             | /ˌspɛsɪfɪˈkeɪʃən/     | especificación         | /espeθifikaˈsjon/ |          |
+| identificação    | substantivo (fem)  | /i.dẽ.ti.fɨ.kɐ.sɐ̃w̃/   | identification            | /aɪˌdɛntɪfɪˈkeɪʃən/    | identificación         | /identifikasiˈon/  |          |
+| reconciliação    | substantivo (fem)  | /ʁɨ.kõ.sili.ɐ.ˈsɐ̃w̃/   | reconciliation            | /ˌrɛkənˌsɪliˈeɪʃən/    | reconciliación         | /reθonθiliˈasjjon/ |          |
+| ressarcimento    | substantivo (masc) | /ʁɨ.sɐɾ.siˈmẽ.tu/      | compensation              | /ˌkɒmpənˈseɪʃən/      | resarcimiento          | /resarsiˈmjento/  |          |
+| receptividade    | substantivo (fem)  | /ʁɨsɛp.ti.vi.ˈda.dɨ/   | receptivity               | /rɪˌsɛpˈtɪvəti/        | receptividad          | /resɛptiβiˈðað/   |          |
+| incognoscível    | adjetivo           | /ĩ.kɔ.ɡ.nɔ.ʃi.ˈvɛɫ/   | unknowable                | /ʌnˈnoʊəbl/            | incognoscible          | /inkoɡnosˈθiβle/  |          |
+| monocromático    | adjetivo           | /mɔ.nɔ.kɾo.ˈmɐ.ti.ku/   | monochromatic             | /ˌmɒn.ə.kroʊˈmætɪk/   | monocromático          | /monokroˈmatiko/  |          |

@@ -86,3 +86,11 @@ Tomadas de esta URL: https://www.dicio.com.br/lista-de-palavras/
 | questionamento     | substantivo (mas) | /kwɛs.ti.ɔ.nɐ.ˈmẽ.tu/   | questioning             | /ˈkwɛsʧənɪŋ/           | cuestionamiento         | /kwes.tjoˈnamjento/  |          |
 | grandiloquente     | adjetivo (mas) | /ɡɾɐ̃.di.lu.ˈkẽ.tɨ/     | grandiloquent           | /ɡrænˈdɪloʊkwənt/      | grandilocuente          | /ɡɾandiloˈkwente/     |          |
 | esclarecimento     | substantivo (mas) | /iʃ.kla.ɾɨ.si.ˈmẽ.tu/   | clarification           | /ˌklærɪfɪˈkeɪʃən/     | esclarecimiento         | /esklareθimiˈento/  |          |
+| minuciosamente    | advérbio       | /mi.nu.si.ɔ.zaˈmen.tɨ/     | meticulously           | /məˌtɪˈkjuːləsli/   | minuciosamente         | /minusi.oˈsameŋte/    |          |
+| permissividade    | substantivo (fem) | /pɛɾ.mi.si.viˈda.dɨ/   | permissiveness         | /pərˈmɪsɪvnəs/      | permisividad           | /permissiβiˈðað/      |          |
+| frequentemente    | advérbio       | /fɾi.kwẽ.tɨˈmẽ.tɨ/        | frequently             | /ˈfriːkwəntli/      | frecuentemente         | /fkwentemenˈte/      |          |
+| indiscriminado    | adjetivo (mas) | /ĩ.dis.kɾi.miˈna.du/       | indiscriminate         | /ˌɪn.dɪˈskrɪmɪnət/ | indiscriminado         | /indiskɾimiˈnaðo/     |          |
+| intermunicipal    | adjetivo (mas) | /ĩ.tɛɾ.mu.ni.si.pal/        | intermunicipal         | /ˌɪn.tərmjuːˈnɪsəpəl/ | intermunicipal         | /intermunicipal/     |          |
+| sobrecarregado    | adjetivo (mas) | /su.bɾi.kɐ.ɾɨ.ˈɡa.ðu/     | overloaded             | /ˌoʊvərˈloʊdɪd/     | sobrecargado           | /sobrekaɾˈɡaðo/      |          |
+| concessionária   | substantivo (fem) | /kõ.si.si.o.ˈna.ɾi.ɐ/  | concessionaire         | /kənˌsɛʃəˈnɛr/     | concesionaria          | /konesjoˈnaɾja/      |          |
+| semianalfabeto    | adjetivo (mas) | /sɛ.mi.ɐ.nal.fa.ˈbe.tu/    | semi-literate          | /ˌsɛmiˈlɪtərət/   | semianalfabeto         | /semianalfaˈβeto/    |          |

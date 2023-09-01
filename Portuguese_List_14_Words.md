@@ -76,3 +76,13 @@ Tomadas de esta URL: https://www.dicio.com.br/lista-de-palavras/
 | individualismo    | substantivo (mas) | /ĩ.di.vi.dʒu.al.ˈiʒ.mu/   | individualism           | /ˌɪndɪˈvɪdʒuəˌlɪzəm/  | individualismo         | /indibidjualiˈsimo/    |          |
 | resplandecente     | adjetivo (fem) | /ɾɨʃ.plɐ̃.dɨ.ˈsẽ.tɨ/      | resplendent             | /rɪˈsplɛndənt/         | resplandeciente         | /resplandenˈsjente/    |          |
 | biodiversidade     | substantivo (fem) | /bi.u.di.vɛɾ.si.ˈda.ði/    | biodiversity            | /ˌbaɪoʊdaɪˈvɜrsəti/    | biodiversidad          | /biodiβersiˈðað/       |          |
+| papibaquígrafo     | substantivo (mas) | /papi.ba.ˈkwi.ɡɾa.fo/   | speedwriter             | /ˈspiːdˌraɪtər/        | papibagrafo             | /papibaˈɣɾafo/         |          |
+| multiplicidade     | substantivo (fem) | /muɫ.ti.pli.si.ˈda.dʒi/  | multiplicity            | /ˌmʌltɪˈplɪsɪti/       | multiplicidad           | /multipliˈsiðað/       |          |
+| perfeccionista     | substantivo (mas) | /pɛɾ.fɛk.si.ɔ.ˈniʃ.tɐ/   | perfectionist           | /pəˈfɛkʃənɪst/        | perfeccionista          | /perfekθjoˈnista/      |          |
+| aleatoriamente     | advérbio       | /a.le.ɐ.tɔ.ɾi.ˈa.mẽ.tɨ/  | randomly                | /ˈrændəmli/            | aleatoriamente          | /aleatoˈɾjamẽnte/     |          |
+| implicitamente     | advérbio       | /im.pli.si.ta.ˈmẽ.tɨ/    | implicitly              | /ɪmˈplɪsətli/          | implícitamente          | /imˈplisitamẽnte/     |          |
+| impressionante     | adjetivo (mas) | /ĩ.pɾɨ.si.ɔ.ˈnɐ̃.tɨ/    | impressive              | /ɪmˈprɛsɪv/            | impresionante           | /impresjoˈnante/      |          |
+| menção honrosa     | substantivo (fem) | /mẽ.ˈsɐ̃w̃ ˈõ.ɾo.zɐ/     | honorable mention       | /ˈɒnərəbl ˈmɛnʃən/    | mención honorífica      | /menˈsjon oˈnorifika/ |          |
+| questionamento     | substantivo (mas) | /kwɛs.ti.ɔ.nɐ.ˈmẽ.tu/   | questioning             | /ˈkwɛsʧənɪŋ/           | cuestionamiento         | /kwes.tjoˈnamjento/  |          |
+| grandiloquente     | adjetivo (mas) | /ɡɾɐ̃.di.lu.ˈkẽ.tɨ/     | grandiloquent           | /ɡrænˈdɪloʊkwənt/      | grandilocuente          | /ɡɾandiloˈkwente/     |          |
+| esclarecimento     | substantivo (mas) | /iʃ.kla.ɾɨ.si.ˈmẽ.tu/   | clarification           | /ˌklærɪfɪˈkeɪʃən/     | esclarecimiento         | /esklareθimiˈento/  |          |

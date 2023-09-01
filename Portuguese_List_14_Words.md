@@ -66,3 +66,13 @@ Tomadas de esta URL: https://www.dicio.com.br/lista-de-palavras/
 | prestatividade   | substantivo (fem) | /pɾɨʃ.tɐ.ti.vi.ˈda.dɨ/  | helpfulness              | /ˈhɛlpfəlnəs/            | prestatividad            | /prestatiβiˈðað/        |          |
 | excentricidade   | substantivo (fem) | /iʃ.sẽ.tɾi.si.si.ˈda.dʒi/ | eccentricity            | /ɪkˌsɛnˈtrɪsəti/          | excentricidad            | /ekstentɾisiˈðað/      |          |
 | extraordinária   | adjetivo (fem) | /eʃ.tɾɔɾ.di.ˈna.ɾi.ɐ/  | extraordinary            | /ɪkˈstrɔrdəˌnɛri/        | extraordinaria            | /ekstɾaoɾdiˈnaɾja/      |          |
+| inconveniência     | substantivo (fem) | /ĩ.kõ.vɛ.ni.ˈẽ.si.ɐ/      | inconvenience          | /ˌɪnkənˈviːniəns/      | inconveniencia          | /iŋkonbenjenˈθja/      |          |
+| congratulações     | substantivo (fem) | /kõ.gɾɐ.tu.lɐ.ˈsɐ̃w̃s/     | congratulations        | /kənˌɡrætjʊˈleɪʃənz/   | felicitaciones         | /felisitaˈsjones/      |          |
+| dissolutamente     | advérbio       | /dis.so.lu.ˈta.mẽ.tɨ/      | dissolutely             | /dɪˈsɒljuːtli/         | disolutamente          | /disolutaˈmente/        |          |
+| pusilanimidade     | substantivo (fem) | /pu.zi.lɐ.ni.mi.ˈda.dʒi/    | pusillanimity           | /ˌpjuːsɪˈlænɪməti/     | pusilanimidad          | /pusilanimiˈðað/       |          |
+| exequibilidade     | substantivo (fem) | /e.ʃe.kwe.si.bi.li.ˈda.dʒi/ | executability          | /ɪɡˌzɛkjʊtəˈbɪləti/    | ejecutabilidad         | /exekutabi.liˈðað/     |          |
+| insubstituível     | adjetivo (mas) | /ĩ.su.pʃi.tu.ˈi.vɛl/       | irreplaceable           | /ɪrɪˈpleɪsəbəl/        | insustituible          | /insustituˈiβle/       |          |
+| epistemológico     | adjetivo (mas) | /e.pis.te.mo.ˈloʤi.ku/     | epistemological         | /ɪˌpɪstɪməˈlɒdʒɪkəl/   | epistemológico         | /epistemoloˈxiko/      |          |
+| individualismo    | substantivo (mas) | /ĩ.di.vi.dʒu.al.ˈiʒ.mu/   | individualism           | /ˌɪndɪˈvɪdʒuəˌlɪzəm/  | individualismo         | /indibidjualiˈsimo/    |          |
+| resplandecente     | adjetivo (fem) | /ɾɨʃ.plɐ̃.dɨ.ˈsẽ.tɨ/      | resplendent             | /rɪˈsplɛndənt/         | resplandeciente         | /resplandenˈsjente/    |          |
+| biodiversidade     | substantivo (fem) | /bi.u.di.vɛɾ.si.ˈda.ði/    | biodiversity            | /ˌbaɪoʊdaɪˈvɜrsəti/    | biodiversidad          | /biodiβersiˈðað/       |          |

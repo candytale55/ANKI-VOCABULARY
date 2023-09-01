@@ -46,3 +46,13 @@ Tomadas de esta URL: https://www.dicio.com.br/lista-de-palavras/
 | diligentemente    | advérbio        | /di.li.ʒẽ.ˈmẽ.tɨ/       | diligently                 | /ˈdɪlɪdʒəntli/            | diligentemente           | /di.li.ʒenˈtemente/       |          |
 | inconsistência    | substantivo (fem)| /ĩ.kõ.si.ˈsẽ.si.ɐ/     | inconsistency              | /ˌɪnkənˈsɪstənsi/        | inconsistencia           | /inkonsistenˈθja/        |          |
 | personificação    | substantivo (fem)| /peɾ.so.ni.fi.ka.ˈsɐ̃w/  | personification            | /pərˌsɑːnɪfɪˈkeɪʃən/     | personificación          | /peɾsonifikasiˈon/        |          |
+| despretensioso       | adjetivo          | /deʃ.pɾe.tẽ.si.ˈo.zu/  | unpretentious            | /ʌnprɪˈtɛnʃəs/           | despretensioso           | /despretensiˈoso/         |          |
+| impessoalidade       | substantivo (fem) | /ĩ.pɨ.so.a.li.ˈda.dɨ/   | impersonality            | /ˌɪmpərˌsəˈnæləti/      | impersonalidad           | /impeɾsonaliˈdad/         |          |
+| socioambiental      | adjetivo          | /so.sju.ã̃.bi.ẽ̃.ˈtaɫ/ | socio-environmental      | /ˌsoʊsiəʊɪnˌvaɪrənˈmɛntəl/ | socioambiental           | /sosjoamˌbjentaˈal/      |          |
+| espontaneidade       | substantivo (fem) | /iʃ.põ.tɐ.ˈnei.da.dʒi/  | spontaneity              | /spɑnˈteɪniəti/           | espontaneidad            | /esponˌtaneiˈðað/         |          |
+| funcionalidade       | substantivo (fem) | /fũ.si.o.na.li.ˈda.dɨ/ | functionality            | /ˌfʌŋkʃəˌnæləˈtɪti/     | funcionalidad            | /funθjonalidaˈð/         |          |
+| cônjuge virago       | substantivo (fem) | /ˈkõ.ʒu.ʒi vi.ˈɾa.ɡu/  | virago spouse            | /vɪˈreɪɡoʊ spaʊs/        | cónyuge virago           | /ˈkonʝuɣe viˈɾaɣo/       |          |
+| trazer à baila       | locução verbal    | /ˈtɾa.zɨɾ a ˈbai.lɐ/    | bring up for discussion  | /brɪŋ ʌp fɔr dɪˈskʌʃən/   | traer a colación         | /tɾaˈeɾ a kolaˈsjon/      |          |
+| intransigência       | substantivo (fem) | /ĩ.tɾɐ̃.zi.ˈʒẽ.si.ɐ/   | intransigence            | /ɪnˈtrænsɪdʒəns/         | intransigencia           | /intɾansiˈxensja/         |          |
+| aplicabilidade       | substantivo (fem) | /a.pli.ka.bi.li.ˈda.dɨ/ | applicability            | /ˌæplɪkəˌbɪləˈtɪti/      | aplicabilidad            | /aplikabiˈliðað/         |          |
+| desprendimento       | substantivo (mas) | /deʃ.pɾẽn.di.ˈmẽ.tu/   | selflessness             | /ˌsɛlfˈlɛs.nəs/           | desprendimiento          | /despɾendimiˈento/        |          |

@@ -1,5 +1,7 @@
 # Lista de palabras con 14 letras.
 
+Tomadas de esta URL: https://www.dicio.com.br/lista-de-palavras/ 
+
 | Portuguese Word     | Part of Speech     | Portuguese IPA          | Equivalent English Word    | English IPA (USA)       | Equivalent Spanish Word | Spanish IPA (Latin American) | Word No. |
 |---------------------|--------------------|-------------------------|---------------------------|-------------------------|-------------------------|-----------------------------|----------|
 | imprescindível      | adjetivo           | /ĩ.pɾɨʃˈsĩ.dʒi.vɛɫ/   | indispensable             | /ˌɪndɪˈspɛnsəbəl/      | imprescindible         | /impɾesinˈdible/   |          |
@@ -24,3 +26,23 @@
 | contextualizar    | verbo            | /kõ.tɛk.stu.ɐ.liˈzaɾ/    | contextualize             | /kənˈtɛkstjuəˌlaɪz/      | contextualizar          | /kontekstwaliˈsaɾ/ |          |
 | empreendimento    | substantivo (mas)| /ẽ.pɾɨ.ẽ.ˈtɾɛ.ŋ.du/     | undertaking               | /ˌʌndərˈteɪkɪŋ/          | emprendimiento          | /emprendiˈmjento/  |          |
 | ancestralidade    | substantivo (fem)| /ã.siˌstɾa.li.ˈdadɨ/    | ancestry                  | /ˈænˌsɛstri/             | ancestralidad           | /ansesˌtɾaliˈðað/  |          |
+| entretenimento     | substantivo (mas)| /ẽ.tɾi.tɨ.ˌnaˈmẽ.tu/    | entertainment             | /ˌɛntərˈteɪnmənt/        | entretenimiento         | /entreteˈnimiento/ |          |
+| transcendental    | adjetivo (mas)   | /tɾɐ̃s.ẽ.dẽn.ˈtaɫ/      | transcendental            | /ˌtrænsɛnˈdɛntəl/         | transcendental          | /transendenˈtal/   |          |
+| paulatinamente    | advérbio         | /paw.lɐ.ti.nɐ.ˈmẽ.tɨ/   | gradually                 | /ˈɡrædʒuəli/             | paulatinamente          | /pawlaˌtinaˈmente/ |          |
+| infraestrutura    | substantivo (fem)| /ĩ.fɾa.jɨʃ.ˈtu.ɾɐ/       | infrastructure            | /ˌɪnfrəˈstrʌktʃər/       | infraestructura         | /infɾaeˈstruktura/ |          |
+| relacionamento    | substantivo (mas)| /ɾɨ.lɐ.sju.nɐ.ˈmẽ.tu/    | relationship              | /rɪˈleɪʃənʃɪp/           | relacionamiento         | /re-lah-sjo-namjen-to/ |          |
+| revolucionário    | adjetivo (mas)   | /ʁɨ.vo.lu.si.o.ˈna.ɾju/  | revolutionary             | /ˌrɛvəˈluʃəˌnɛri/        | revolucionario          | /re-vo-loo-sjo-nah-reeo/ |          |
+| arrependimento    | substantivo (mas)| /a.ʁɨ.pẽ.dʒi.ˈmẽ.tu/    | repentance                | /rɪˈpɛntəns/             | arrepentimiento         | /a-re-pen-tee-myen-to/ |          |
+| imparcialidade    | substantivo (fem)| /ĩ.paʁ.ʃi.a.ɫi.ˈdadɨ/   | impartiality              | /ˌɪmˌpɑrʃiˈæləti/        | imparcialidad          | /impar-sja-lee-dahd/ |          |
+| superveniência    | substantivo (fem)| /su.pɛɾ.ve.ˌni.ˈẽ.si.ɐ/ | supervenience             | /ˌsuːpərˈviːniəns/        | superveniencia         | /su-per-ve-njen-thyah/ |          |
+| bem-aventurado    | adjetivo (mas)   | /bẽ.ɐ.vẽ.tu.ˈɾa.du/     | blessed                   | /blɛst/                   | bienaventurado          | /bjena-ven-tu-ra-do/ |          |
+| atenciosamente    | advérbio        | /a.tẽ.si.ʊ.ˈza.mẽ.ti/   | sincerely                  | /sɪnˈsɪrəli/             | atentamente              | /atenˈtamente/            |          |
+| ponto de vista    | substantivo     | /ˈpõ.tu dʒi ˈviʃ.tɐ/     | point of view              | /pɔɪnt ʌv vjuː/           | punto de vista           | /ˈpunto de ˈbista/        |          |
+| periodicamente    | advérbio        | /pe.ɾi.o.di.ka.ˈmẽ.ti/   | periodically               | /ˌpɪriəˈdɒdɪkəli/        | periódicamente           | /pe.ˌɾjoðikaˈmente/       |          |
+| transcendência    | substantivo (fem)| /tɾɐ̃.sẽ.ˈdẽn.si.ɐ/     | transcendence              | /trænˈsɛndəns/            | trascendencia            | /tɾasenˈdenθja/           |          |
+| reconhecimento    | substantivo     | /ʁi.kõ.si.ˈmẽ.tu/        | recognition                | /ˌrɛkəɡˈnɪʃən/           | reconocimiento           | /rekonosjeˈmjento/        |          |
+| democratização    | substantivo (fem)| /dɛ.mo.kɾa.ti.za.ˈsɐ̃w/  | democratization            | /dɪˌmɑːkrətaɪˈzeɪʃən/    | democratización          | /demokratizaˈsjon/        |          |
+| insignificante    | adjetivo        | /ĩ.si.ɡ.ni.fi.ˈkɐ̃.tɨ/   | insignificant              | /ˌɪnsɪɡˈnɪfɪkənt/        | insignificante           | /insijni-fiˈkante/        |          |
+| diligentemente    | advérbio        | /di.li.ʒẽ.ˈmẽ.tɨ/       | diligently                 | /ˈdɪlɪdʒəntli/            | diligentemente           | /di.li.ʒenˈtemente/       |          |
+| inconsistência    | substantivo (fem)| /ĩ.kõ.si.ˈsẽ.si.ɐ/     | inconsistency              | /ˌɪnkənˈsɪstənsi/        | inconsistencia           | /inkonsistenˈθja/        |          |
+| personificação    | substantivo (fem)| /peɾ.so.ni.fi.ka.ˈsɐ̃w/  | personification            | /pərˌsɑːnɪfɪˈkeɪʃən/     | personificación          | /peɾsonifikasiˈon/        |          |

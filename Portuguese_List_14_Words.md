@@ -56,3 +56,13 @@ Tomadas de esta URL: https://www.dicio.com.br/lista-de-palavras/
 | intransigência       | substantivo (fem) | /ĩ.tɾɐ̃.zi.ˈʒẽ.si.ɐ/   | intransigence            | /ɪnˈtrænsɪdʒəns/         | intransigencia           | /intɾansiˈxensja/         |          |
 | aplicabilidade       | substantivo (fem) | /a.pli.ka.bi.li.ˈda.dɨ/ | applicability            | /ˌæplɪkəˌbɪləˈtɪti/      | aplicabilidad            | /aplikabiˈliðað/         |          |
 | desprendimento       | substantivo (mas) | /deʃ.pɾẽn.di.ˈmẽ.tu/   | selflessness             | /ˌsɛlfˈlɛs.nəs/           | desprendimiento          | /despɾendimiˈento/        |          |
+| potencialidade    | substantivo (fem) | /po.tẽ.si.a.li.ˈda.dʒi/ | potentiality             | /pəˌtɛnʃiˈæləti/         | potencialidad            | /potenθialidad/         |          |
+| procrastinação   | substantivo (fem) | /pɾɔ.kɾɐs.ti.na.ˈsɐ̃w/  | procrastination          | /proʊˌkræs.tɪˈneɪʃən/    | procrastinación          | /prokɾastinaˈθjon/       |          |
+| procrastinador   | substantivo (mas) | /pɾɔ.kɾɐs.ti.na.ˈdoɾ/  | procrastinator           | /proʊˈkræs.təˌneɪ.tər/   | procrastinador           | /prokɾastinaˈðoɾ/       |          |
+| principalmente   | advérbio       | /pɾĩ.si.pɐlˈmen.tɨ/     | mainly                   | /ˈmeɪnli/                 | principalmente           | /pɾinθipalˈmen̩te/      |          |
+| estratificação   | substantivo (fem) | /eʃ.tɾɐ.ti.fi.kɐ.si.ˈɐ̃w/ | stratification           | /ˌstrætɪfɪˈkeɪʃən/      | estratificación           | /estɾatifikasiˈon/      |          |
+| estelionatário   | substantivo (mas) | /es.te.li.o.nɐˈta.ɾju/   | scammer                  | /ˈskæmər/                | estafador                 | /estafaˈðoɾ/             |          |
+| licenciosidade   | substantivo (fem) | /li.sẽ.si.o.zi.ˈda.dʒi/ | licentiousness           | /lɪˈsɛnʃəsˌnəs/          | licenciosidad            | /lisensjoˈsiðad/        |          |
+| prestatividade   | substantivo (fem) | /pɾɨʃ.tɐ.ti.vi.ˈda.dɨ/  | helpfulness              | /ˈhɛlpfəlnəs/            | prestatividad            | /prestatiβiˈðað/        |          |
+| excentricidade   | substantivo (fem) | /iʃ.sẽ.tɾi.si.si.ˈda.dʒi/ | eccentricity            | /ɪkˌsɛnˈtrɪsəti/          | excentricidad            | /ekstentɾisiˈðað/      |          |
+| extraordinária   | adjetivo (fem) | /eʃ.tɾɔɾ.di.ˈna.ɾi.ɐ/  | extraordinary            | /ɪkˈstrɔrdəˌnɛri/        | extraordinaria            | /ekstɾaoɾdiˈnaɾja/      |          |

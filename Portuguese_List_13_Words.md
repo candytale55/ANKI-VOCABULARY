@@ -55,3 +55,13 @@
 | eventualmente     | advérbio           | /i.vẽ.tu.ɐl.ˈmẽ.tʃi/| eventually                | /ɪˈvɛn.tʃu.ə.li/     | eventualmente           | /eventualˈmente/     |          |
 | recalcitrante     | adjetivo           | /ʁɨ.kaw.si.ˈtɾɐ̃.tʃi/ | recalcitrant              | /rɪˈkæl.sɪ.trənt/     | recalcitrante           | /rekalsiˈtɾante/     |          |
 | desmistificar     | verbo              | /dɨʃ.mis.ti.fi.ˈkaʁ/| demystify                 | /diːˈmɪs.tɪ.faɪ/      | desmitificar            | /desmitifiˈkar/      |          |
+| personalidade     | substantivo (fem)  | /pɨɾ.su.na.li.ˈda.dʒi/ | personality               | /ˌpɝː.səˈnæl.ɪ.ti/   | personalidad            | /peɾsonaliˈðad/       |          |
+| indescritível    | adjetivo           | /ĩ.dɨʃ.kɾi.ˈtivɨl/    | indescribable             | /ˌɪn.dɪˈskraɪ.bəbl̩/  | indescriptible          | /indeskɾipˈtible/     |          |
+| integralmente    | advérbio           | /ĩ.tɨ.ɡɾɐ.lˈmẽ.tʃɨ/  | entirely, completely      | /ɪnˈtaɪr.li, kəmˈplitli/ | integralmente           | /integɾalˈmẽnte/     |          |
+| implementação    | substantivo (fem)  | /ĩ.plɨ.mẽn.ta.ˈsɐ̃w̃/ | implementation            | /ˌɪm.plə.mɛnˈteɪ.ʃən/ | implementación          | /implemenˈtasi.on/   |          |
+| homogeneidade    | substantivo (fem)  | /o.mo.ʒɨ.nɛ.i.ˈdɐ.dʒi/ | homogeneity              | /ˌhoʊ.məˈdʒɛ.nə.ti/   | homogeneidad            | /omoxeneiˈðað/        |          |
+| monossilábico    | adjetivo           | /mo.nu.su.ˈlɐ.bi.ku/  | monosyllabic              | /ˌmɑː.noʊˈsɪl.æb.ɪk/  | monosilábico            | /monosilaˈbiko/       |          |
+| magnificência    | substantivo (fem)  | /ma.ɲi.fi.ˈsẽ.si.ɐ/  | magnificence              | /mæɡˈnɪf.ɪ.səns/      | magnificencia           | /maɡnifiˈθjenθja/     |          |
+| provavelmente    | advérbio           | /pɾu.vɐ.ˈvɛl.mẽ.tɨ/  | probably                  | /ˈprɑː.bə.bli/         | probablemente           | /pɾoβa.bleˈmente/     |          |
+| precipuamente    | advérbio           | /pɾɨ.si.pwɐ.ˈmẽ.tɨ/  | chiefly, primarily        | /ˈtʃiːf.li, ˈpraɪ.mərə.li/ | principalmente          | /pɾinθipalˈmente/   |          |
+| peculiaridade    | substantivo (fem)  | /pɨ.kju.li.a.ɾi.ˈda.dʒi/ | peculiarity              | /pɪˌkjuː.liˈær.ə.ti/  | peculiaridad            | /pekuˌljaɾiˈðað/      |          |

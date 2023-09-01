@@ -65,3 +65,13 @@
 | provavelmente    | advérbio           | /pɾu.vɐ.ˈvɛl.mẽ.tɨ/  | probably                  | /ˈprɑː.bə.bli/         | probablemente           | /pɾoβa.bleˈmente/     |          |
 | precipuamente    | advérbio           | /pɾɨ.si.pwɐ.ˈmẽ.tɨ/  | chiefly, primarily        | /ˈtʃiːf.li, ˈpraɪ.mərə.li/ | principalmente          | /pɾinθipalˈmente/   |          |
 | peculiaridade    | substantivo (fem)  | /pɨ.kju.li.a.ɾi.ˈda.dʒi/ | peculiarity              | /pɪˌkjuː.liˈær.ə.ti/  | peculiaridad            | /pekuˌljaɾiˈðað/      |          |
+| circunscrição    | substantivo (fem)  | /siɾ.kũ.ˈskɾi.sɐ̃w̃/   | circumscription           | /ˌsɝː.kəmˈskrɪp.ʃən/ | circunscripción         | /θirkuns.kripsiˈon/  |          |
+| consentimento    | substantivo (masc) | /kõ.sẽ.ti.ˈmẽ.tu/     | consent                   | /kənˈsɛnt/              | consentimiento          | /konsenˈtimjento/   |          |
+| incondicional    | adjetivo           | /ĩ.kõ.di.si.o.ˈnaɫ/    | unconditional             | /ˌʌn.kənˈdɪʃ.ən.əl/   | incondicional           | /inkondiθjoˈnal/    |          |
+| convalescente    | adjetivo/substantivo (masc/fem) | /kõ.va.les.ˈsẽ.tɨ/  | convalescent              | /ˌkɑːn.vəˈlɛs.ənt/    | convaleciente           | /konbalesˈjente/    |          |
+| remanejamento    | substantivo (masc) | /ʁɨ.ma.ˈne.ʒɐ.mẽ̃.tu/ | reallocation              | /ˌriː.æ.ləˈkeɪ.ʃən/   | reasignación            | /re.asiɲaˈθjon/      |          |
+| contentamento    | substantivo (masc) | /kõ.tẽ.tɐ.ˈmẽ.tu/     | contentment               | /kənˈtɛnt.mənt/        | contentamiento          | /kontenˈtamiɛnto/   |          |
+| consciencioso    | adjetivo           | /kõ.si.ẽ.si.ˈo.zu/     | conscientious             | /ˌkɑːn.ʃiˈɛn.ʃəs/     | concienzudo             | /konθjenˈzuðo/      |          |
+| serendipidade    | substantivo (fem)  | /sɨ.ɾẽ.di.pi.ˈda.dʒi/ | serendipity               | /ˌsɛr.ənˈdɪp.ə.ti/    | serendipia              | /seɾenˈdipja/       |          |
+| correlacionar    | verbo              | /ko.ɾɨ.la.si.o.ˈnaɾ/   | correlate                 | /ˈkɒr.əˌleɪt/           | correlacionar           | /korelasi.oˈnaɾ/     |          |
+| arrefecimento    | substantivo (masc) | /a.hɨ.fi.si.ˈmẽ.tu/   | cooling, cooling down     | /ˈkuː.lɪŋ, ˌkuː.lɪŋ ˈdaʊn/ | enfriamiento           | /enfɾiaˈmiento/     |          |

@@ -1,4 +1,4 @@
-# Portuguese words - 9 Letters.
+# Portuguese Words - 9 Letters.
 
 | Portuguese Word | Part of Speech   | Portuguese IPA   | Equivalent English Word  | English IPA (USA) | Equivalent Spanish Word | Spanish IPA (Latin American) | Word No. |
 |-----------------|------------------|------------------|--------------------------|-------------------|-------------------------|----------------------------|----------|

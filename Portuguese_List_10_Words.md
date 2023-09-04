@@ -1,3 +1,7 @@
+# Lista de Palabras de 10 letras - Portugués
+
+Tomadas de esta URL: https://www.dicio.com.br/lista-de-palavras/
+
 | Portuguese Word | Part of Speech   | Portuguese IPA   | Equivalent English Word  | English IPA (USA) | Equivalent Spanish Word | Spanish IPA (Latin American) | Word No. |
 |-----------------|------------------|------------------|--------------------------|-------------------|-------------------------|----------------------------|----------|
 | dicionário      | substantivo (mas)| /disjuˈnɐɾiu/   | dictionary               | /ˈdɪkʃəˌnɛri/     | diccionario             | /diθjoˈnaɾjo/           |          |

@@ -1,5 +1,7 @@
 # Portuguese Words - 9 Letters.
 
+Tomadas de esta URL: https://www.dicio.com.br/lista-de-palavras/
+
 | Portuguese Word | Part of Speech   | Portuguese IPA   | Equivalent English Word  | English IPA (USA) | Equivalent Spanish Word | Spanish IPA (Latin American) | Word No. |
 |-----------------|------------------|------------------|--------------------------|-------------------|-------------------------|----------------------------|----------|
 | perspicaz       | adjetivo (mas)   | /pɛʁspi'kas/     | perspicacious            | /pɜːrˈspɪˌkeɪʃəs/  | perspicaz                | /peɾspi'kas/             |          |

@@ -1,5 +1,7 @@
 ## Lista de palabras en portugués - Cinco Letras
 
+Tomadas de esta URL: https://www.dicio.com.br/lista-de-palavras/
+
 | Portuguese Word | Part of Speech (Gender) | Portuguese IPA | Equivalent English Word | English IPA (USA) | Equivalent Spanish Word | Spanish IPA (Latin American) | Word No. |
 |-----------------|-------------------------|----------------|------------------------|------------------|-------------------------|-----------------------------|----------|
 | sagaz           | adjetivo (masc)         | /sa.ˈɡaʒ/      | shrewd, astute         | /ʃruːd, əˈstuːt/ | sagaz                   | /sa'ɣas/                     |          |

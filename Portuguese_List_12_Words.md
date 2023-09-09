@@ -1,5 +1,7 @@
 # Palabras de 12 letras
 
+Tomadas de esta URL: https://www.dicio.com.br/lista-de-palavras/
+
 | Portuguese Word | Part of Speech    | Portuguese IPA           | Equivalent English Word   | English IPA (USA)        | Equivalent Spanish Word  | Spanish IPA (Latin American) | Word No. |
 |-----------------|-------------------|--------------------------|---------------------------|--------------------------|--------------------------|-----------------------------|----------|
 | perseverança    | substantivo (fem)  | /pɛɾ.sɛ.vɛ.ɾɐ̃ˈsɐ̃w/    | perseverance              | /ˌpɜːr.səˈvɪə.rəns/     | perseverancia            | /perseveɾanˈθja/             |          |

@@ -1,6 +1,8 @@
 
 # Palabras en portugués - Siete Letras
 
+Tomadas de esta URL: https://www.dicio.com.br/lista-de-palavras/
+
 | Portuguese Word | Part of Speech   | Portuguese IPA | Equivalent English Word | English IPA (USA) | Equivalent Spanish Word | Spanish IPA (Latin American) | Word No. |
 |-----------------|------------------|----------------|------------------------|-------------------|-------------------------|----------------------------|----------|
 | empatia         | substantivo (fem)| /ẽpɐ'tjɐ/     | empathy                | /ˈɛmpəθi/         | empatía                 | /empa'tia/                |          |

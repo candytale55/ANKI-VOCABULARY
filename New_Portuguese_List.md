@@ -2,31 +2,31 @@
 # Pronouns
 
 
-| Portuguese Pronoun | Portuguese IPA | English Equivalent | English (USA) IPA | Spanish Equivalent | Spanish IPA (Latin American) | No. |
-| ------------------ | --------------- | ----------------- | ----------------- | ----------------- | -------------------------- | -- |
-| **Personal Pronouns** |  |  |  |  |  |  |
-| eu (1st person singular) | /ˈew/ | I | /aɪ/ | yo | /ʝo/ |  |
-| tu (2nd person singular) | /ˈtu/ | you (informal) | /ju/ | tú | /tu/ |  |
-| ele (3rd person singular, masc.) | /ˈɛ.lɨ/ | he | /hi/ | él | /el/ |  |
-| ela (3rd person singular, fem.) | /ˈɛ.lɐ/ | she | /ʃi/ | ella | /e.ʎa/ |  |
-| nós (1st person plural) | /ˈnɔs/ | we | /wi/ | nosotros | /noˈsotɾos/ |  |
-| vós (2nd person plural, formal) | /ˈvɔs/ | you (formal, rarely used) | /ju/ | vosotros | /boˈso.tɾos/ |  |
-| eles (3rd person plural, masc.) | /ˈe.lɨʃ/ | they (masculine) | /ðeɪ/ | ellos | /ˈe.ʎos/ |  |
-| elas (3rd person plural, fem.) | /ˈɛ.lɐʃ/ | they (feminine) | /ðeɪ/ | ellas | /ˈe.ʎas/ |  |
-| **Possessive Pronouns** |  |  |  |  |  |  |
-| meu (1st person singular) | /ˈme.w/ | my | /maɪ/ | mi | /mi/ |  |
-| teu (2nd person singular) | /ˈtew/ | your (informal) | /jʊr/ | tu | /tu/ |  |
-| seu (3rd person singular) | /ˈse.w/ | his/her/its | /hɪz/hɜr/ɪts | su | /su/ |  |
-| nosso (1st person plural) | /ˈnɔs.wu/ | our | /aʊr/ | nuestro | /nuesˈtɾo/ |  |
-| vosso (2nd person plural, formal) | /ˈvɔs.su/ | your (formal, rarely used) | /jʊr/ | vuestro | /bwesˈtɾo/ |  |
-| seu (3rd person plural) | /ˈse.w/ | their | /ðɛr/ | su | /su/ |  |
-| **Reflexive Pronouns** |  |  |  |  |  |  |
-| me | /ˈme/ | myself | /maɪˈsɛlf/ | me | /me/ |  |
-| te | /ˈte/ | yourself | /jɔrˈsɛlf/ | te | /te/ |  |
-| se | /ˈse/ | himself/herself/itself | /hɪmˈsɛlf/hɜrˈsɛlf/ɪtˈsɛlf | se | /se/ |  |
-| nos | /ˈnɔs/ | ourselves | /aʊrˈsɛlvz/ | nos | /nos/ |  |
-| vos | /ˈvɔs/ | yourselves | /jɔrˈsɛlvz/ | vos | /bos/ |  |
-| se | /ˈse/ | themselves | /ðɛmˈsɛlvz/ | se | /se/ |  |
+| Pronome | Pessoa | IPA em Português | Equivalente em Inglês | IPA em Inglês (EUA) | Equivalente em Espanhol | IPA em Espanhol (América Latina) | Nº |
+| ------- | ------ | ---------------- | --------------------- | ------------------- | ---------------------- | ----------------------------- | - |
+| **Pronomes Pessoais** | | | | | | | |
+| eu | 1ª pessoa | /ˈew/ | I | /aɪ/ | yo | /ʝo/ | |
+| tu | 2ª pessoa | /ˈtu/ | you (informal) | /ju/ | tú | /tu/ | |
+| ele | 3ª pessoa (masc.) | /ˈɛ.lɨ/ | he | /hi/ | él | /el/ | |
+| ela | 3ª pessoa (fem.) | /ˈɛ.lɐ/ | she | /ʃi/ | ella | /e.ʎa/ | |
+| nós | 1ª pessoa | /ˈnɔs/ | we | /wi/ | nosotros | /noˈsotɾos/ | |
+| vós | 2ª pessoa (formal) | /ˈvɔs/ | you (formal, raramente usado) | /ju/ | vosotros | /boˈso.tɾos/ | |
+| eles | 3ª pessoa (masc.) | /ˈe.lɨʃ/ | they (masculino) | /ðeɪ/ | ellos | /ˈe.ʎos/ | |
+| elas | 3ª pessoa (fem.) | /ˈɛ.lɐʃ/ | they (feminino) | /ðeɪ/ | ellas | /ˈe.ʎas/ | |
+| **Pronomes Possessivos** | | | | | | | |
+| meu | 1ª pessoa | /ˈme.w/ | my | /maɪ/ | mi | /mi/ | |
+| teu | 2ª pessoa | /ˈtew/ | your (informal) | /jʊr/ | tu | /tu/ | |
+| seu | 3ª pessoa | /ˈse.w/ | his/her/its | /hɪz/hɜr/ɪts | su | /su/ | |
+| nosso | 1ª pessoa | /ˈnɔs.wu/ | our | /aʊr/ | nuestro | /nuesˈtɾo/ | |
+| vosso | 2ª pessoa (formal) | /ˈvɔs.su/ | your (formal, raramente usado) | /jʊr/ | vuestro | /bwesˈtɾo/ | |
+| seu | 3ª pessoa | /ˈse.w/ | their | /ðɛr/ | su | /su/ | |
+| **Pronomes Reflexivos** | | | | | | | |
+| me | 1ª pessoa | /ˈme/ | myself | /maɪˈsɛlf/ | me | /me/ | |
+| te | 2ª pessoa | /ˈte/ | yourself | /jɔrˈsɛlf/ | te | /te/ | |
+| se | 3ª pessoa | /ˈse/ | himself/herself/itself | /hɪmˈsɛlf/hɜrˈsɛlf/ɪtˈsɛlf | se | /se/ | |
+| nos | 1ª pessoa | /ˈnɔs/ | ourselves | /aʊrˈsɛlvz/ | nos | /nos/ | |
+| vos | 2ª pessoa | /ˈvɔs/ | yourselves | /jɔrˈsɛlvz/ | vos | /bos/ | |
+| se | 3ª pessoa | /ˈse/ | themselves | /ðɛmˈsɛlvz/ | se | /se/ | |
 
 
 

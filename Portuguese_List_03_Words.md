@@ -5,15 +5,15 @@ Tomadas de esta URL: https://www.dicio.com.br/lista-de-palavras/
 
 | Portuguese Word | Part of Speech (Gender) | Portuguese IPA | Equivalent English Word | English IPA (USA) | Equivalent Spanish Word | Spanish IPA (Latin American) | Word No. |
 |-----------------|-------------------------|----------------|------------------------|------------------|-------------------------|-----------------------------|----------|
-| paz             | substantivo (fem)      | /'paʒ/         | peace                  | /piːs/           | paz                     | /pas/                       |          |
-| não             | advérbio                 | /'nɐ̃w/         | not                    | /nɑt/            | no                      | /no/                        |          |
+| paz             | substantivo (fem)      | /'paʒ/         | peace      | /piːs/      | paz     | /pas/    |  2002   |
+| não             | advérbio               | /'nɐ̃w/         | not        | /nɑt/       | no      | /no/     |  2003   |
 | fel             | substantivo (masc)     | /'fɛw/         | happiness              | /'hæpi.nɪs/     | felicidad              | /fe.li.siˈðað/             |          |
-| céu             | substantivo (masc)     | /'sew/         | sky                    | /skaɪ/           | cielo                   | /ˈsjelo/                    |          |
+| céu             | substantivo (masc)     | /'sew/         | sky         | /skaɪ/   | cielo        | /ˈsjelo/          |  2001 |
 | ser             | verbo                   | /seʁ/          | to be                  | /tu bi/          | ser                     | /ser/                       |          |
 | vil             | adjetivo (masc)        | /'vil/         | vile                   | /vaɪl/           | vil                     | /bil/                       |          |
 | sob             | preposição              | /soβ/          | under                  | /ˈʌn.dər/       | bajo                    | /ˈba.xo/                    |          |
 | mal             | substantivo (masc)     | /'maw/         | evil                   | /ˈiː.vəl/        | mal                     | /mal/                       |          |
-| mãe             | substantivo (fem)      | /'mɐ̃j/         | mother                 | /'mʌðər/         | madre                   | /ˈmaðɾe/                     |          |
+| mãe             | substantivo (fem)  | /'mɐ̃j/         | mother     | /'mʌðər/   | madre   | /ˈmaðɾe/     |2004|
 | ver             | verbo                   | /veʁ/          | to see                 | /tu si/          | ver                     | /ber/                       |          |
 | ter             | verbo                   | /teʁ/          | to have                | /tu hæv/         | tener                   | /teˈner/                     |          |
 | ego             | substantivo (masc)     | /'eɡu/         | ego                    | /ˈiː.ɡoʊ/       | ego                     | /ˈeɡo/                       |          |

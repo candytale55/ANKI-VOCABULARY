@@ -1,3 +1,35 @@
+
+# Pronouns
+
+| Portuguese Pronoun | Portuguese IPA | English Equivalent | English (USA) IPA | Spanish Equivalent | Spanish IPA (Latin American) | No. |
+| ------------------ | --------------- | ----------------- | ----------------- | ----------------- | -------------------------- | -- |
+| **Personal Pronouns** |  |  |  |  |  |  |
+| Eu (1st person singular) | /ˈew/ | I | /aɪ/ | Yo | /ʝo/ |  |
+| Tu (2nd person singular) | /ˈtu/ | You (informal) | /ju/ | Tú | /tu/ |  |
+| Ele (3rd person singular, masc.) | /ˈɛ.lɨ/ | He | /hi/ | Él | /el/ |  |
+| Ela (3rd person singular, fem.) | /ˈɛ.lɐ/ | She | /ʃi/ | Ella | /e.ʎa/ |  |
+| Nós (1st person plural) | /ˈnɔs/ | We | /wi/ | Nosotros | /noˈsotɾos/ |  |
+| Vós (2nd person plural, formal) | /ˈvɔs/ | You (formal, rarely used) | /ju/ | Vosotros | /boˈso.tɾos/ |  |
+| Eles (3rd person plural, masc.) | /ˈe.lɨʃ/ | They (masculine) | /ðeɪ/ | Ellos | /ˈe.ʎos/ |  |
+| Elas (3rd person plural, fem.) | /ˈɛ.lɐʃ/ | They (feminine) | /ðeɪ/ | Ellas | /ˈe.ʎas/ |  |
+| **Possessive Pronouns** |  |  |  |  |  |  |
+| Meu (1st person singular) | /ˈme.w/ | My | /maɪ/ | Mi | /mi/ |  |
+| Teu (2nd person singular) | /ˈtew/ | Your (informal) | /jʊr/ | Tu | /tu/ |  |
+| Seu (3rd person singular) | /ˈse.w/ | His/Her/Its | /hɪz/hɜr/ɪts | Su | /su/ |  |
+| Nosso (1st person plural) | /ˈnɔs.wu/ | Our | /aʊr/ | Nuestro | /nuesˈtɾo/ |  |
+| Vosso (2nd person plural, formal) | /ˈvɔs.su/ | Your (formal, rarely used) | /jʊr/ | Vuestro | /bwesˈtɾo/ |  |
+| Seu (3rd person plural) | /ˈse.w/ | Their | /ðɛr/ | Su | /su/ |  |
+| **Reflexive Pronouns** |  |  |  |  |  |  |
+| Me | /ˈme/ | Myself | /maɪˈsɛlf/ | Me | /me/ |  |
+| Te | /ˈte/ | Yourself | /jɔrˈsɛlf/ | Te | /te/ |  |
+| Se | /ˈse/ | Himself/Herself/Itself | /hɪmˈsɛlf/hɜrˈsɛlf/ɪtˈsɛlf | Se | /se/ |  |
+| Nos | /ˈnɔs/ | Ourselves | /aʊrˈsɛlvz/ | Nos | /nos/ |  |
+| Vos | /ˈvɔs/ | Yourselves | /jɔrˈsɛlvz/ | Vos | /bos/ |  |
+| Se | /ˈse/ | Themselves | /ðɛmˈsɛlvz/ | Se | /se/ |  |
+
+
+
+
 ## TRES LETRAS
 
 | Portuguese Word | Part of Speech (Gender) | Portuguese IPA | Equivalent English Word | English IPA (USA) | Equivalent Spanish Word | Spanish IPA (Latin American) | Word No. |

@@ -48,7 +48,7 @@ Tomadas de esta URL: https://www.dicio.com.br/lista-de-palavras/
 | amar            | verbo                   | /a'maɾ/         | love                   | /lʌv/            | amar                    | /a'mar/                      |          |
 | coxo            | adjetivo (masc)         | /ˈko.ʃu/        | lame                   | /leɪm/           | cojo                    | /'ko.xo/                     |          |
 | cota            | substantivo (fem)      | /ˈko.tɐ/        | quote                  | /kwoʊt/          | cuota                   | /'kw.o.ta/                   |          |
-| para            | preposição              | /ˈpa.ɾɐ/        | for                    | /fɔr/            | para                    | /'pa.ɾa/                     |          |
+| para            | preposição              | /ˈpa.ɾɐ/        | for        | /fɔr/    | para     | /'pa.ɾa/     |  2005    |
 | soar            | verbo                   | /so'aɾ/         | sound                  | /saʊnd/          | sonar                   | /so'nar/                     |          |
 | ater            | verbo                   | /ɐ'tɛɾ/         | land                   | /lænd/           | aterrizar               | /a.te.ri'θar/                |          |
 | fase            | substantivo (fem)      | /ˈfa.zɨ/        | phase                  | /feɪz/           | fase                    | /'fa.se/                     |          |

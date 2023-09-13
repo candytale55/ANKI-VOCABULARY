@@ -7,7 +7,7 @@
 | **Pronomes Pessoais** | | | | | | | |
 | eu | 1ª pessoa | /ˈew/ | I | /aɪ/ | yo | /ʝo/ |1001 |
 | tu | 2ª pessoa | /ˈtu/ | you (informal) | /ju/ | tú | /tu/ | |
-| ele | 3ª pessoa (masc.) | /ˈɛ.lɨ/ | he | /hi/ | él | /el/ | |
+| ele | 3ª pessoa (masc.) | /ˈɛ.lɨ/ | he | /hi/ | él | /el/ | 1004|
 | ela | 3ª pessoa (fem.) | /ˈɛ.lɐ/ | she | /ʃi/ | ella | /e.ʎa/ | |
 | nós | 1ª pessoa | /ˈnɔs/ | we | /wi/ | nosotros | /noˈsotɾos/ | |
 | vós | 2ª pessoa (formal) | /ˈvɔs/ | you (formal, raramente usado) | /ju/ | vosotros | /boˈso.tɾos/ | |

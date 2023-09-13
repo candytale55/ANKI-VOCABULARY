@@ -5,7 +5,7 @@
 | Pronome | Pessoa | IPA em Português | Equivalente em Inglês | IPA em Inglês (EUA) | Equivalente em Espanhol | IPA em Espanhol (América Latina) | Nº |
 | ------- | ------ | ---------------- | --------------------- | ------------------- | ---------------------- | ----------------------------- | - |
 | **Pronomes Pessoais** | | | | | | | |
-| eu | 1ª pessoa | /ˈew/ | I | /aɪ/ | yo | /ʝo/ | |
+| eu | 1ª pessoa | /ˈew/ | I | /aɪ/ | yo | /ʝo/ |1001 |
 | tu | 2ª pessoa | /ˈtu/ | you (informal) | /ju/ | tú | /tu/ | |
 | ele | 3ª pessoa (masc.) | /ˈɛ.lɨ/ | he | /hi/ | él | /el/ | |
 | ela | 3ª pessoa (fem.) | /ˈɛ.lɐ/ | she | /ʃi/ | ella | /e.ʎa/ | |

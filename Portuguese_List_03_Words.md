@@ -14,8 +14,8 @@ Tomadas de esta URL: https://www.dicio.com.br/lista-de-palavras/
 | sob             | preposição              | /soβ/          | under                  | /ˈʌn.dər/       | bajo                    | /ˈba.xo/                    |          |
 | mal             | substantivo (masc)     | /'maw/         | evil                   | /ˈiː.vəl/        | mal                     | /mal/                       |          |
 | mãe             | substantivo (fem)  | /'mɐ̃j/         | mother     | /'mʌðər/   | madre   | /ˈmaðɾe/     |2004|
-| ver             | verbo                   | /veʁ/          | to see                 | /tu si/          | ver                     | /ber/                       |          |
-| ter             | verbo                   | /teʁ/          | to have                | /tu hæv/         | tener                   | /teˈner/                     |          |
+| ver             | verbo       | /veʁ/          | to see                 | /tu si/          | ver    |/ber/   | 2006 |
+| ter             | verbo       | /teʁ/          | to have                | /tu hæv/         | tener        | /teˈner/    | 2007|
 | ego             | substantivo (masc)     | /'eɡu/         | ego                    | /ˈiː.ɡoʊ/       | ego                     | /ˈeɡo/                       |          |
 | bem             | substantivo (masc)     | /'bẽj/         | good                   | /ɡʊd/            | bien                    | /ˈbjen/                      |          |
 | mas             | conjunção               | /'maʃ/         | but                    | /bət/            | pero                    | /ˈpe.ɾo/                     |          |

@@ -1,31 +1,32 @@
 
 # Pronouns
 
+
 | Portuguese Pronoun | Portuguese IPA | English Equivalent | English (USA) IPA | Spanish Equivalent | Spanish IPA (Latin American) | No. |
 | ------------------ | --------------- | ----------------- | ----------------- | ----------------- | -------------------------- | -- |
 | **Personal Pronouns** |  |  |  |  |  |  |
-| Eu (1st person singular) | /ˈew/ | I | /aɪ/ | Yo | /ʝo/ |  |
-| Tu (2nd person singular) | /ˈtu/ | You (informal) | /ju/ | Tú | /tu/ |  |
-| Ele (3rd person singular, masc.) | /ˈɛ.lɨ/ | He | /hi/ | Él | /el/ |  |
-| Ela (3rd person singular, fem.) | /ˈɛ.lɐ/ | She | /ʃi/ | Ella | /e.ʎa/ |  |
-| Nós (1st person plural) | /ˈnɔs/ | We | /wi/ | Nosotros | /noˈsotɾos/ |  |
-| Vós (2nd person plural, formal) | /ˈvɔs/ | You (formal, rarely used) | /ju/ | Vosotros | /boˈso.tɾos/ |  |
-| Eles (3rd person plural, masc.) | /ˈe.lɨʃ/ | They (masculine) | /ðeɪ/ | Ellos | /ˈe.ʎos/ |  |
-| Elas (3rd person plural, fem.) | /ˈɛ.lɐʃ/ | They (feminine) | /ðeɪ/ | Ellas | /ˈe.ʎas/ |  |
+| eu (1st person singular) | /ˈew/ | I | /aɪ/ | yo | /ʝo/ |  |
+| tu (2nd person singular) | /ˈtu/ | you (informal) | /ju/ | tú | /tu/ |  |
+| ele (3rd person singular, masc.) | /ˈɛ.lɨ/ | he | /hi/ | él | /el/ |  |
+| ela (3rd person singular, fem.) | /ˈɛ.lɐ/ | she | /ʃi/ | ella | /e.ʎa/ |  |
+| nós (1st person plural) | /ˈnɔs/ | we | /wi/ | nosotros | /noˈsotɾos/ |  |
+| vós (2nd person plural, formal) | /ˈvɔs/ | you (formal, rarely used) | /ju/ | vosotros | /boˈso.tɾos/ |  |
+| eles (3rd person plural, masc.) | /ˈe.lɨʃ/ | they (masculine) | /ðeɪ/ | ellos | /ˈe.ʎos/ |  |
+| elas (3rd person plural, fem.) | /ˈɛ.lɐʃ/ | they (feminine) | /ðeɪ/ | ellas | /ˈe.ʎas/ |  |
 | **Possessive Pronouns** |  |  |  |  |  |  |
-| Meu (1st person singular) | /ˈme.w/ | My | /maɪ/ | Mi | /mi/ |  |
-| Teu (2nd person singular) | /ˈtew/ | Your (informal) | /jʊr/ | Tu | /tu/ |  |
-| Seu (3rd person singular) | /ˈse.w/ | His/Her/Its | /hɪz/hɜr/ɪts | Su | /su/ |  |
-| Nosso (1st person plural) | /ˈnɔs.wu/ | Our | /aʊr/ | Nuestro | /nuesˈtɾo/ |  |
-| Vosso (2nd person plural, formal) | /ˈvɔs.su/ | Your (formal, rarely used) | /jʊr/ | Vuestro | /bwesˈtɾo/ |  |
-| Seu (3rd person plural) | /ˈse.w/ | Their | /ðɛr/ | Su | /su/ |  |
+| meu (1st person singular) | /ˈme.w/ | my | /maɪ/ | mi | /mi/ |  |
+| teu (2nd person singular) | /ˈtew/ | your (informal) | /jʊr/ | tu | /tu/ |  |
+| seu (3rd person singular) | /ˈse.w/ | his/her/its | /hɪz/hɜr/ɪts | su | /su/ |  |
+| nosso (1st person plural) | /ˈnɔs.wu/ | our | /aʊr/ | nuestro | /nuesˈtɾo/ |  |
+| vosso (2nd person plural, formal) | /ˈvɔs.su/ | your (formal, rarely used) | /jʊr/ | vuestro | /bwesˈtɾo/ |  |
+| seu (3rd person plural) | /ˈse.w/ | their | /ðɛr/ | su | /su/ |  |
 | **Reflexive Pronouns** |  |  |  |  |  |  |
-| Me | /ˈme/ | Myself | /maɪˈsɛlf/ | Me | /me/ |  |
-| Te | /ˈte/ | Yourself | /jɔrˈsɛlf/ | Te | /te/ |  |
-| Se | /ˈse/ | Himself/Herself/Itself | /hɪmˈsɛlf/hɜrˈsɛlf/ɪtˈsɛlf | Se | /se/ |  |
-| Nos | /ˈnɔs/ | Ourselves | /aʊrˈsɛlvz/ | Nos | /nos/ |  |
-| Vos | /ˈvɔs/ | Yourselves | /jɔrˈsɛlvz/ | Vos | /bos/ |  |
-| Se | /ˈse/ | Themselves | /ðɛmˈsɛlvz/ | Se | /se/ |  |
+| me | /ˈme/ | myself | /maɪˈsɛlf/ | me | /me/ |  |
+| te | /ˈte/ | yourself | /jɔrˈsɛlf/ | te | /te/ |  |
+| se | /ˈse/ | himself/herself/itself | /hɪmˈsɛlf/hɜrˈsɛlf/ɪtˈsɛlf | se | /se/ |  |
+| nos | /ˈnɔs/ | ourselves | /aʊrˈsɛlvz/ | nos | /nos/ |  |
+| vos | /ˈvɔs/ | yourselves | /jɔrˈsɛlvz/ | vos | /bos/ |  |
+| se | /ˈse/ | themselves | /ðɛmˈsɛlvz/ | se | /se/ |  |
 
 
 

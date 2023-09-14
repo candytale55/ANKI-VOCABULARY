@@ -27,7 +27,7 @@ Tomadas de esta URL: https://www.dicio.com.br/lista-de-palavras/
 | dar             | verbo                   | /dɐɾ/          | to give                | /tu ɡɪv/         | dar                     | /dar/                       |          |
 | são             | adjetivo (masc)        | /sɐ̃w/          | are                    | /ɑr/             | son                     | /son/                       |          |
 | ora             | advérbio                 | /'ɔɾɐ/         | now                    | /naʊ/            | ora                    | /ˈo.ɾa/                     |          |
-| que             | conjunção               | /'ke/          | that                   | /ðæt/            | que                     | /ke/                        |          |
+| que             | conjunção               | /'ke/          | that                   | /ðæt/            | que       | /ke/    |2013 |
 | era             | substantivo (fem)      | /'ɛɾɐ/         | era                    | /'ɪr.ə/          | era                     | /'e.ɾa/                     |          |
 | elo             | substantivo (masc)     | /'ɛ.lu/         | eloquence              | /'ɛl.əkwəns/     | elocuencia              | /e.lo.kwen'θi.a/            |          |
 | luz             | substantivo (fem)      | /'luʃ/         | light                  | /laɪt/           | luz                     | /lus/                       |          |

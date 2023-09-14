@@ -33,7 +33,7 @@ Tomadas de esta URL: https://www.dicio.com.br/lista-de-palavras/
 | luz             | substantivo (fem)      | /'luʃ/         | light                  | /laɪt/           | luz                     | /lus/                       |          |
 | réu             | substantivo (masc)     | /'ɾew/         | defendant              | /dɪˈfɛn.dənt/     | reo                     | /'re.o/                     |          |
 | nós             | pronome pessoal (mas)  | /nɔʃ/          | we                     | /wi/             | nosotros                | /noˈsotɾos/                  |          |
-| com             | preposição              | /kõw/          | with                   | /wɪθ/            | con                     | /kon/                       |          |
+| com             | preposição   | /kõw/   | with    | /wɪθ/     | con      | /kon/      |  1011   |
 | seu             | pronome possessivo (mas) | /sew/         | your/his/her           | /jʊr/            | su                      | /su/                        |          |
 | tal             | adjetivo (masc)        | /taw/          | such                   | /sʌtʃ/           | tal                     | /tal/                       |          |
 | rol             | substantivo (masc)     | /'ɾɔw/         | roll                   | /roʊl/           | rol                     | /rol/                       |          |

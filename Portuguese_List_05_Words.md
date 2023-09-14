@@ -104,7 +104,9 @@ Tomadas de esta URL: https://www.dicio.com.br/lista-de-palavras/
 | valha           | interjeição             | /ˈva.ʎɐ/      | well, may it be        | /wɛl, meɪ ɪt bi/ | ¡vaya!                  | /'ba.ʝa/                    |          |
 | cozer           | verbo                   | /ˈko.zɨɾ/      | to cook                | /tu kʊk/          | cocer                   | /ko'seɾ/                    |          |
 | denso           | adjetivo (masc)         | /ˈdẽ.su/       | dense                  | /dɛns/            | denso                   | /'den.so/                   |          |
+| turma           | substantivo (fem)  | /ˈtuɾ.mɐ/  | class/group   | /klæs/    | grupo/clase      | /ˈɡɾupo/      |  2008  |
 
+Please note that the word "turma" in Portuguese primarily functions as a noun to refer to a class or group, as explained in the previous response.
 Please note that some words, like "égide," "tange," and "dengo," might not have direct equivalents in English, and the translations provided are approximate.
 
 Please note that the translation of "xibiu" is slang and is marked as such in the table.

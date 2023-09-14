@@ -43,7 +43,7 @@ Tomadas de esta URL: https://www.dicio.com.br/lista-de-palavras/
 | lua             | substantivo (fem)      | /'lu.ɐ/        | moon                   | /mun/            | luna                    | /'lu.na/                     |          |
 | até             | preposição              | /'a.tɛ/         | until                  | /ʌn'tɪl/         | hasta                   | /'as.ta/                    |          |
 | hum             | adjetivo (masc)        | /'ũ/           | a/an                   | /ə/              | uno                     | /'u.no/                      |          |
-| por             | preposição              | /pɔʁ/          | by/for                 | /baɪ/fɔr/        | por                     | /por/                       |          |
+| por      | preposição     | /pɔʁ/          | by/for                 | /baɪ/fɔr/        | por                     | /por/         | 2012 |
 | vis             | adjetivo (masc)        | /'vis/         | obvious                | /'ɑb.vi.əs/      | vis                     | /bis/                       |          |
 | pós             | preposição              | /pɔs/          | after                  | /'æf.tɚ/         | post                    | /post/                      |          |
 | dor             | substantivo (fem)      | /dɔʁ/          | pain                   | /peɪn/           | dolor                   | /do'lor/                    |          |

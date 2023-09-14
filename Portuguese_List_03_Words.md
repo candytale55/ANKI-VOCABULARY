@@ -18,7 +18,7 @@ Tomadas de esta URL: https://www.dicio.com.br/lista-de-palavras/
 | ter             | verbo       | /teʁ/          | to have                | /tu hæv/         | tener        | /teˈner/    | 2007|
 | ego             | substantivo (masc)     | /'eɡu/         | ego                    | /ˈiː.ɡoʊ/       | ego                     | /ˈeɡo/                       |          |
 | bem     | substantivo (masc) | /'bẽj/   | good   | /ɡʊd/ | bien   | /ˈbjen/     | 20101|
-
+| bem | adverb | /'bẽj/ | well, good | /wɛl, ɡʊd/ | bien | /bjɛn/ |2010 |
 | mas             | conjunção               | /'maʃ/         | but                    | /bət/            | pero                    | /ˈpe.ɾo/                     |          |
 | bom             | adjetivo (masc)        | /bõw/          | good                   | /ɡʊd/            | bueno                   | /ˈbwe.no/                    |          |
 | dom             | substantivo (masc)     | /dõw/          | gift                   | /ɡɪft/           | don                     | /don/                       |          |

@@ -6,7 +6,7 @@ Tomadas de esta URL: https://www.dicio.com.br/lista-de-palavras/
 |-----------------|-------------------------|----------------|------------------------|------------------|-------------------------|-----------------------------|----------|
 | sagaz           | adjetivo (masc)         | /sa.ˈɡaʒ/      | shrewd, astute         | /ʃruːd, əˈstuːt/ | sagaz                   | /sa'ɣas/                     |          |
 | âmago           | substantivo (masc)      | /ˈa.ma.ɡu/     | core, essence          | /kɔr, ˈɛsəns/    | esencia                 | /e'sen.sja/                  |          |
-| negro           | adjetivo (masc)         | /ˈnɛ.ɡɾu/      | black                  | /blæk/           | negro                   | /'ne.ɣɾo/                    |          |
+| negro           | adjetivo (masc)         | /ˈnɛ.ɡɾu/      | black                  | /blæk/           | negro | /'ne.ɣɾo/   |  2009 |
 | êxito           | substantivo (masc)      | /ˈɛ.ʃi.tu/     | success                | /səkˈsɛs/        | éxito                   | /'ek.si.to/                  |          |
 | termo           | substantivo (masc)      | /ˈtɛɾ.mu/      | term, word             | /tɜrm, wɜrd/     | término                 | /'ter.mi.no/                 |          |
 | mexer           | verbo                   | /mɛ.ˈʃɛɾ/      | to move, to stir       | /tuː muːv, tuː stɜr/ | mover                   | /mo'βer/                     |          |

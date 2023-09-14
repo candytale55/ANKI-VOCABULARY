@@ -25,7 +25,9 @@ Tomadas de esta URL: https://www.dicio.com.br/lista-de-palavras/
 | vir             | verbo                   | /'viʁ/         | to come                | /tu kʌm/         | venir                   | /biˈneɾ/                     |          |
 | vão             | adjetivo (masc)        | /'vɐ̃w/         | vain                   | /veɪn/           | vano                    | /'bano/                      |          |
 | dar             | verbo                   | /dɐɾ/          | to give                | /tu ɡɪv/         | dar                     | /dar/                       |          |
-| são             | adjetivo (masc)        | /sɐ̃w/          | are                    | /ɑr/             | son                     | /son/                       |          |
+| são    | verbo | /sɐ̃w/          | are       | /ɑr/             | son                     | /son/                       |  2016  |
+| são   | adjetivo | /sɐ̃w/ | healthy/sound | /ˈhɛlθi/ | sano/saludable | /ˈsano/ | 20161 |
+| são | substantivo (masc) | /sɐ̃w/ | saint | /seɪnt/ | santo/santa | /ˈsanto/ | 20162 |
 | ora             | advérbio                 | /'ɔɾɐ/         | now                    | /naʊ/            | ora                    | /ˈo.ɾa/                     |          |
 | que             | conjunção               | /'ke/          | that                   | /ðæt/            | que       | /ke/    |2013 |
 | era             | substantivo (fem)      | /'ɛɾɐ/         | era                    | /'ɪr.ə/          | era                     | /'e.ɾa/                     |          |
@@ -37,7 +39,7 @@ Tomadas de esta URL: https://www.dicio.com.br/lista-de-palavras/
 | seu             | pronome possessivo (mas) | /sew/         | your/his/her           | /jʊr/            | su                      | /su/                        |          |
 | tal             | adjetivo (masc)        | /taw/          | such                   | /sʌtʃ/           | tal                     | /tal/                       |          |
 | rol             | substantivo (masc)     | /'ɾɔw/         | roll                   | /roʊl/           | rol                     | /rol/                       |          |
-| foi             | verbo                   | /'foj/         | was                    | /wəz/            | fue                     | /fwe/                       |          |
+| foi             | verbo   | /'foj/         | was                    | /wəz/            | fue                     | /fwe/         | 2014 |
 | mim             | pronome pessoal (masc)  | /mĩj/          | me                     | /mi/             | mí                      | /mi/                        |          |
 | uma             | artigo (fem)           | /'umɐ/         | a/an                   | /eɪ/             | una                     | /'u.na/                      |          |
 | lua             | substantivo (fem)      | /'lu.ɐ/        | moon                   | /mun/            | luna                    | /'lu.na/                     |          |

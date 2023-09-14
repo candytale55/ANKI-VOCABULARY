@@ -20,7 +20,7 @@ Tomadas de esta URL: https://www.dicio.com.br/lista-de-palavras/
 | bem     | substantivo (masc) | /'bẽj/   | good   | /ɡʊd/ | bien   | /ˈbjen/     | 20101|
 | bem | adverb | /'bẽj/ | well, good | /wɛl, ɡʊd/ | bien | /bjɛn/ |2010 |
 | mas             | conjunção               | /'maʃ/         | but                    | /bət/            | pero                    | /ˈpe.ɾo/                     |          |
-| bom             | adjetivo (masc)        | /bõw/          | good                   | /ɡʊd/            | bueno                   | /ˈbwe.no/                    |          |
+| bom   | adjetivo  | /bõw/   | good                   | /ɡʊd/            | bueno   | /ˈbwe.no/                    |2011|
 | dom             | substantivo (masc)     | /dõw/          | gift                   | /ɡɪft/           | don                     | /don/                       |          |
 | vir             | verbo                   | /'viʁ/         | to come                | /tu kʌm/         | venir                   | /biˈneɾ/                     |          |
 | vão             | adjetivo (masc)        | /'vɐ̃w/         | vain                   | /veɪn/           | vano                    | /'bano/                      |          |

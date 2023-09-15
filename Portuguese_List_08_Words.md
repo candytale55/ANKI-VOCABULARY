@@ -14,7 +14,7 @@ Las palabras han salido de: https://www.dicio.com.br/lista-de-palavras/
 | ter             | verb           | /teɾ/          | to have                | /təˈhæv/         | tener                   | /teˈneɾ/                    |          |
 | ir              | verb           | /iɾ/           | to go                  | /toʊ ɡoʊ/        | ir                      | /iɾ/                        |          |
 | estar           | verb           | /isˈtaɾ/       | to be (temporary)      | /toʊ bi/         | estar                   | /esˈtaɾ/                    |          |
-| fazer           | verb           | /faˈzeɾ/       | to do/make             | /tuː du/          | hacer                   | /aˈseɾ/                     |          |
+| fazer           | verb           | /faˈzeɾ/       | to do/make             | /tuː du/          | hacer       | /aˈseɾ/         | 2066 |
 | haver           | verb           | /aˈveɾ/        | to have                | /təˈhæv/         | haber                   | /aˈβeɾ/                     |          |
 | poder           | verb           | /poˈdeɾ/       | to be able to          | /tuː bi ˈeɪbəl tu/| poder                   | /poˈdeɾ/                    |          |
 | ver             | verb           | /ˈveɾ/         | to see                 | /tuː si/          | ver                     | /ˈbeɾ/                       |          |

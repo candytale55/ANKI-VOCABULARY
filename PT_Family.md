@@ -18,10 +18,6 @@
 | avó          | substantivo (fem)  | /ɐ'vɔ/    | grandmother | /ˈɡrændˌmʌðər/ | abuela | /aˈβwe.la/  |     |
 | primo        | substantivo (masc) | /'primu/  | cousin (male) | /'kʌzən/ (male) | primo | /'pɾimo/ (male) |     |
 | prima        | substantivo (fem)  | /'primɐ/  | cousin (female) | /'kʌzən/ (female) | prima | /'pɾima/ (female) |     |
-| cunhado      | substantivo (masc) | /ku'njadu/ | brother-in-law | /'brʌðər ɪn lɔ/ | cuñado | /kuˈɲaðo/ |     |
-| cunhada      | substantivo (fem)  | /ku'ɲada/ | sister-in-law | /'sɪstər ɪn lɔ/ | cuñada | /kuˈɲaða/ |     |
-| sogro        | substantivo (masc) | /'sɔɡɾu/  | father-in-law | /'fɑðər ɪn lɔ/ | suegro  | /'swe.ɡɾo/ |     |
-| sogra        | substantivo (fem)  | /'sɔɡɾɐ/ | mother-in-law | /'mʌðər ɪn lɔ/ | suegra  | /'swe.ɡɾa/ |     |
 | neto         | substantivo (masc) | /'netu/   | grandson  | /'ɡrænsʌn/ | nieto   | /'njeto/ |     |
 | neta         | substantivo (fem)  | /'netɐ/   | granddaughter | /ˌɡrændˈdɔtər/ | nieta | /'njeta/ |     |
 | netos        | substantivo (masc) | /'netus/  | grandsons | /'ɡrændˌsʌnz/ | nietos | /'njetos/ |     |

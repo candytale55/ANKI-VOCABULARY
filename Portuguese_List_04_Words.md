@@ -20,7 +20,7 @@ Tomadas de esta URL: https://www.dicio.com.br/lista-de-palavras/
 | sede            | substantivo (fem)      | /ˈse.dɨ/        | thirst                 | /θɜrst/          | sed                     | /sed/                        |          |
 | pois            | conjunção               | /pojʃ/          | because                | /bɪˈkɑz/         | porque                  | /por'ke/                     |          |
 | vida            | substantivo (fem)      | /ˈvi.dɐ/        | life                   | /laɪf/           | vida                    | /'bi.ða/                     |          |
-| casa            | substantivo (fem)      | /ˈkazɐ/         | house                  | /haʊs/           | casa                    | /'ka.sa/                     |          |
+| casa     | substantivo (fem)      | /ˈkazɐ/         | house                  | /haʊs/           | casa      | /'ka.sa/        | 2039 |
 | auge            | substantivo (masc)     | /ˈawʒi/         | peak                   | /pik/            | auge                    | /'aw.xe/                     |          |
 | saga            | substantivo (fem)      | /ˈsa.ɡɐ/        | saga                   | /ˈsæɡə/          | saga                    | /'sa.ɣa/                     |          |
 | medo            | substantivo (masc)     | /ˈme.du/        | fear                   | /fɪr/            | miedo                   | /'mje.ðo/                    |          |
@@ -32,7 +32,7 @@ Tomadas de esta URL: https://www.dicio.com.br/lista-de-palavras/
 | idem            | advérbio                 | /i'dẽj/         | same                   | /seɪm/           | ídem                    | /'i.ðem/                     |          |
 | tolo            | substantivo (masc)     | /ˈto.lu/        | fool                   | /ful/            | tonto                   | /'ton.to/                    |          |
 | além            | preposição              | /a'wẽj/         | beyond                 | /bɪˈjɑnd/        | además                 | /a'de.mas/                   |          |
-| sina            | substantivo (fem)      | /'si.nɐ/        | sign                   | /saɪn/           | señal                   | /se'ɲal/                     |          |
+| sina            | substantivo (fem)      | /'si.nɐ/        | sign      | /saɪn/           | señal           | /se'ɲal/        | 2040   |
 | urge            | verbo (3rd person)      | /'uʁʒɨ/         | urges                  | /ɜrdʒɪz/         | urge                    | /'ur.xe/                     |          |
 | crer            | verbo                   | /kɾeɾ/          | believe                | /bɪˈliːv/        | creer                   | /kɾe'el/                     |          |
 | apto            | adjetivo (masc)         | /ˈap.tu/        | capable                | /ˈkeɪpəbəl/      | apto                    | /'ap.to/                     |          |
@@ -45,7 +45,7 @@ Tomadas de esta URL: https://www.dicio.com.br/lista-de-palavras/
 | ruim            | adjetivo (masc)         | /ˈʁwĩ/          | bad                    | /bæd/            | mal                     | /mal/                        |          |
 | rude            | adjetivo (masc)         | /ˈʁu.dɨ/        | rude                   | /ruːd/           | rudo                    | /'ru.do/                     |          |
 | mais            | advérbio                 | /maɪs/          | more                   | /mɔr/            | más                     | /mas/                        |          |
-| amar            | verbo                   | /a'maɾ/         | love                   | /lʌv/            | amar                    | /a'mar/                      |          |
+| amar            | verbo                   | /a'maɾ/         | love     | /lʌv/            | amar        | /a'mar/          | 2041 |
 | coxo            | adjetivo (masc)         | /ˈko.ʃu/        | lame                   | /leɪm/           | cojo                    | /'ko.xo/                     |          |
 | cota            | substantivo (fem)      | /ˈko.tɐ/        | quote                  | /kwoʊt/          | cuota                   | /'kw.o.ta/                   |          |
 | para     | preposição              | /ˈpa.ɾɐ/        | for        | /fɔr/    | para     | /'pa.ɾa/                    |  2005 |
@@ -77,7 +77,7 @@ Tomadas de esta URL: https://www.dicio.com.br/lista-de-palavras/
 | numa            | preposição              | /ˈnumɐ/         | in a                   | /ɪn ə/           | en una                  | /en 'u.na/                    |          |
 | cela            | substantivo (fem)      | /ˈsɛ.lu/        | cell                   | /sɛl/            | celda                   | /'sel.da/                    |          |
 | teor            | substantivo (masc)     | /ˈtɛ.ɔɾ/        | content, theme         | /ˈkɒn.tɛnt, θim/| contenido, tema        | /kon.ten.'i.ðo, 'te.ma/     |          |
-| face            | substantivo (fem)      | /ˈfa.sɨ/        | face                   | /feɪs/           | cara                    | /'ka.ɾa/                     |          |
+| face            | substantivo (fem)      | /ˈfa.sɨ/        | face                   | /feɪs/           | cara       | /'ka.ɾa/   |2042 |
 | nojo            | substantivo (masc)     | /ˈno.ʒu/        | disgust                | /dɪsˈɡʌst/       | asco                    | /'as.ko/                     |          |
 | noia            | substantivo (fem)      | /ˈnɔ.jɐ/        | anxiety                | /æŋˈzaɪəti/      | nerviosidad             | /ner.bjo.si.'ðad/             |          |
 | sido            | verbo                   | /ˈsi.du/        | been                   | /bɪn/            | sido                    | /'si.ðo/                     |          |

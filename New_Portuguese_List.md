@@ -96,33 +96,33 @@
 
 | Portuguese Word | Part of Speech (Gender) | Portuguese IPA | Equivalent English Word | English IPA (USA) | Equivalent Spanish Word | Spanish IPA (Latin American) | Word No. |
 |-----------------|-------------------------|----------------|-------------------------|-------------------|-------------------------|-----------------------------|----------|
-| boa             | adj. (fem)    | /ˈbo.ɐ/       | good        | /ɡʊd/         | buena      | /ˈbwe.na/         |        |
-| bom             | adj. (mas)    | /bõ/          | good        | /ɡʊd/         | bueno      | /ˈbweno/          |        |
-| grande          | adj.          | /ˈɡɾɐ̃.d(ɨ)/   | big, large  | /bɪɡ, lɑːrdʒ/ | grande     | /ˈɡɾande/         |        |
-| melhor          | adj.          | /mɨˈʎoɾ/      | better      | /ˈbɛtər/      | mejor      | /meˈxoɾ/          |        |
+| boa             | adj. (fem)    | /ˈbo.ɐ/       | good        | /ɡʊd/         | buena      | /ˈbwe.na/         | 2055 |
+| bom             | adj. (mas)    | /bõ/          | good        | /ɡʊd/         | bueno      | /ˈbweno/          | 2055  |
+| grande          | adj.          | /ˈɡɾɐ̃.d(ɨ)/   | big, large  | /bɪɡ, lɑːrdʒ/ | grande     | /ˈɡɾande/         | 2056 |
+| melhor          | adj.          | /mɨˈʎoɾ/      | better      | /ˈbɛtər/      | mejor      | /meˈxoɾ/          |   |
 | própria         | adj. (fem)    | /ˈpɾɔ.pɾjɐ/   | own         | /oʊn/         | propia     | /ˈpɾopja/         |        |
 | próprio         | adj. (mas)    | /ˈpɾɔ.pɾju/   | own         | /oʊn/         | propio     | /ˈpɾopjo/         |        |
-| velha           | adj. (fem)    | /ˈvɛ.ʎɐ/      | old         | /oʊld/        | vieja      | /ˈbje.xa/         |        |
-| velho           | adj. (mas)    | /ˈvɛ.ʎu/      | old         | /oʊld/        | viejo      | /ˈbje.xo/         |        |
+| velha           | adj. (fem)    | /ˈvɛ.ʎɐ/      | old         | /oʊld/        | vieja      | /ˈbje.xa/         | 2054 |
+| velho           | adj. (mas)    | /ˈvɛ.ʎu/      | old         | /oʊld/        | viejo      | /ˈbje.xo/         | 2054 |
 | certa           | adj. (fem)    | /ˈsɛɾ.tɐ/     | right, certain  | /raɪt, ˈsɜːrtn/  | cierta  | /ˈθjerta/     |        |
 | certo           | adj. (mas)    | /ˈsɛɾ.tu/     | right, certain  | /raɪt, ˈsɜːrtn/  | cierto  | /ˈθjerto/     |        |
 | última          | adj. (fem)    | /ˈuɫ.timɐ/    | last        | /læst/        | última     | /ˈul.tima/        |        |
 | último          | adj. (mas)    | /ˈuɫ.timu/    | last        | /læst/        | último     | /ˈul.timo/        |        |
-| longa           | adj. (fem)    | /ˈɫõ.ɡɐ/      | long        | /lɔŋ/         | larga      | /ˈlaɾɡa/          |        |
-| longo           | adj. (mas)    | /ˈɫõ.ɡu/      | long        | /lɔŋ/         | largo      | /ˈlaɾɣo/          |        |
-| nova            | adj. (fem)    | /ˈno.vɐ/      | new         | /nuː/         | nueva      | /ˈnwe.βa/         |        |
-| novo            | adj. (mas)    | /ˈno.vu/      | new         | /nuː/         | nuevo      | /ˈnwe.βo/         |        |
+| longa           | adj. (fem)    | /ˈɫõ.ɡɐ/      | long        | /lɔŋ/         | larga      | /ˈlaɾɡa/          | 2053 |
+| longo           | adj. (mas)    | /ˈɫõ.ɡu/      | long        | /lɔŋ/         | largo      | /ˈlaɾɣo/          | 2053 |
+| nova            | adj. (fem)    | /ˈno.vɐ/      | new         | /nuː/         | nueva      | /ˈnwe.βa/         | 2052 |
+| novo            | adj. (mas)    | /ˈno.vu/      | new         | /nuː/         | nuevo      | /ˈnwe.βo/         | 2052 |
 | única           | adj. (fem)    | /ˈu.ni.kɐ/    | unique      | /juːˈniːk/    | única      | /ˈu.ni.ka/        |        |
 | único           | adj. (mas)    | /ˈu.ni.ku/    | unique      | /juːˈniːk/    | único      | /ˈu.ni.ko/        |        |
 | antiga          | adj. (fem)    | /ɐ̃ˈti.ɡɐ/     | old, ancient| /oʊld, ˈeɪn.ʃənt/| antigua | /anˈtiɣwa/        |        |
 | antigo          | adj. (mas)    | /ɐ̃ˈti.ɡu/     | old, ancient| /oʊld, ˈeɪn.ʃənt/| antiguo | /anˈtiɣwo/        |        |
-| belo            | adj. (mas)    | /ˈbe.lu/      | beautiful   | /ˈbjuː.tɪ.fəl/   | bello   | /ˈbeʎo/           |        |
-| bela            | adj. (fem)    | /ˈbe.lɐ/      | beautiful   | /ˈbjuː.tɪ.fəl/   | bella   | /ˈbe.ʎa/          |        |
+| belo            | adj. (mas)    | /ˈbe.lu/      | beautiful   | /ˈbjuː.tɪ.fəl/   | bello   | /ˈbeʎo/           | 2051 |
+| bela            | adj. (fem)    | /ˈbe.lɐ/      | beautiful   | /ˈbjuː.tɪ.fəl/   | bella   | /ˈbe.ʎa/          | 2051 |
 | seguinte        | adj.          | /ˈse.ɡʊin.t(ɨ)/ | following, next   | /ˈfɑː.loʊ.ɪŋ, nɛkst/ | siguiente | /siˈɣjente/  |        |
 | preciso         | adj. (mas)    | /ˈpɾɛ.si.zu/  | necessary, precise| /ˈnɛs.əˌsɛri, prɪˈsaɪs/| preciso | /ˈpɾesi.so/  |       |
 | precisa         | adj. (fem)    | /ˈpɾɛ.zi.dɐ/  | necessary, precise| /ˈnɛs.əˌsɛri, prɪˈsaɪs/| precisa | /ˈpɾesiða/   |       |
-| meia            | adj. (fem)    | /ˈme.jɐ/      | half        | /hæf/          | media     | /ˈmeðja/           |        |
-| meio            | adj. (mas)    | /ˈme.ju/      | half        | /hæf/          | medio     | /ˈme.ðjo/          |        |
+| meia            | adj. (fem)    | /ˈme.jɐ/      | half        | /hæf/          | media     | /ˈmeðja/           | 2050  |
+| meio            | adj. (mas)    | /ˈme.ju/      | half        | /hæf/          | medio     | /ˈme.ðjo/          | 2050  |
 | natural         | adj.          | /nɐ.tuˈɾaɫ/   | natural     | /ˈnætʃ.ərəl/   | natural   | /naˈtuɾal/         |        |
 | maior           | adj.          | /majˈoɾ/      | bigger, greater | /ˈbɪɡər, ˈɡreɪtər/ | mayor | /maˈʝoɾ/       |        |
 | triste          | adj.          | /ˈtɾiʃ.t(ɨ)/  | sad         | /sæd/          | triste    | /ˈtɾiste/          |        |
@@ -137,16 +137,16 @@
 | alegre          | adj.          | /aˈlɛ.ɡɾ(ɨ)/  | happy       | /ˈhæp.i/       | alegre    | /aˈleɣɾe/          |        |
 | política        | adj. (fem)    | /poˈli.tikɐ/  | political   | /pəˈlɪtɪkəl/   | política  | /poˈlitika/        |        |
 | político        | adj. (mas)    | /poˈli.tiku/  | political   | /pəˈlɪtɪkəl/   | político  | /poˈlitiko/        |        |
-| alta            | adj. (fem)    | /ˈaɫ.tɐ/      | tall, high  | /tɔːl, haɪ/    | alta      | /ˈalta/            |        |
-| alto            | adj. (mas)    | /ˈaɫ.tu/      | tall, high  | /tɔːl, haɪ/    | alto      | /ˈalto/            |        |
+| alta            | adj. (fem)    | /ˈaɫ.tɐ/      | tall, high  | /tɔːl, haɪ/    | alta      | /ˈalta/            | 2049      |
+| alto            | adj. (mas)    | /ˈaɫ.tu/      | tall, high  | /tɔːl, haɪ/    | alto      | /ˈalto/            | 2049      |
 | pública         | adj. (fem)    | /ˈpu.bli.kɐ/  | public      | /ˈpʌblɪk/      | pública   | /ˈpu.βli.ka/       |        |
 | público         | adj. (mas)    | /ˈpu.bli.ku/  | public      | /ˈpʌblɪk/      | público   | /ˈpu.βli.ko/       |        |
 | grave           | adj.          | /ˈɡɾa.vɨ/     | serious, grave| /ˈsɪə.riəs, ɡreɪv/| grave| /ˈɡɾa.βe/          |        |
-| viva            | adj. (fem)    | /ˈvi.vɐ/      | alive       | /əˈlaɪv/       | viva      | /ˈbi.βa/           |        |
-| vivo            | adj. (mas)    | /ˈvi.vu/      | alive       | /əˈlaɪv/       | vivo      | /ˈbi.βo/           |        |
+| viva            | adj. (fem)    | /ˈvi.vɐ/      | alive       | /əˈlaɪv/       | viva      | /ˈbi.βa/           | 2048      |
+| vivo            | adj. (mas)    | /ˈvi.vu/      | alive       | /əˈlaɪv/       | vivo      | /ˈbi.βo/           | 2048      |
 | cheia           | adj. (fem)    | /ˈʃɛ.jɐ/      | full        | /fʊl/          | llena     | /ˈʎena/            |        |
 | cheio           | adj. (mas)    | /ˈʃɛ.ju/      | full        | /fʊl/          | lleno     | /ˈʎeno/            |        |
-| feliz           | adj. (mas)    | /ˈfɛ.liz/     | happy       | /ˈhæp.i/       | feliz     | /feˈlis/           |        |
+| feliz           | adj.     | /ˈfɛ.liz/     | happy       | /ˈhæp.i/       | feliz     | /feˈlis/           | 2047      |
 | possível        | adj.          | /ˈpo.si.vɛl/  | possible    | /ˈpɑː.sə.bəl/  | posible   | /poˈsi.ble/        |        |
 | rara            | adj. (fem)    | /ˈɾa.ɾɐ/      | rare        | /rɛər/         | rara      | /ˈraɾa/            |        |
 | raro            | adj. (mas)    | /ˈɾa.ɾu/      | rare        | /rɛər/         | raro      | /ˈraɾo/            |        |
@@ -154,10 +154,10 @@
 | claro           | adj. (mas)    | /ˈkla.ɾu/     | clear       | /klɪr/         | claro     | /ˈklaɾo/           |        |
 | necessária      | adj. (fem)    | /nɛ.sɛˈsa.ɾiɐ/| necessary   | /ˈnɛs.əˌsɛri/  | necesaria | /neθe.saˈɾja/      |        |
 | necessário      | adj. (mas)    | /nɛ.sɛˈsa.ɾju/| necessary   | /ˈnɛs.əˌsɛri/  | necesario | /ne.saˈsjo.ɾjo/    |        |
-| pequena         | adj. (fem)    | /ˈpɛ.kwɛ.nɐ/  | small       | /smɔːl/        | pequeña   | /peˈkeɲa/          |        |
-| pequeno         | adj. (mas)    | /ˈpe.kw(ɨ).nu/| small       | /smɔːl/        | pequeño   | /peˈkeɲo/          |        |
+| pequena         | adj. (fem)    | /ˈpɛ.kwɛ.nɐ/  | small       | /smɔːl/        | pequeña   | /peˈkeɲa/          | 2046       |
+| pequeno         | adj. (mas)    | /ˈpe.kw(ɨ).nu/| small       | /smɔːl/        | pequeño   | /peˈkeɲo/          | 2046       |
 | igual           | adj. (mas)    | /i.ˈɡwaɫ/     | equal       | /ˈiːkwəl/      | igual     | /iˈɣwal/           |        |
 | fina            | adj. (fem)    | /ˈfi.nɐ/      | thin, fine  | /θɪn, faɪn/    | fina      | /ˈfina/            |        |
 | fino            | adj. (mas)    | /ˈfi.nu/      | thin, fine  | /θɪn, faɪn/    | fino      | /ˈfino/            |        |
 | impossível      | adj.          | /ĩ.po.ˈsi.vɛw/| impossible  | /ɪmˈpɑː.sə.bəl/| imposible | /im.poˈsi.ble/     |        |
-| pobre           | adj.          | /ˈpɔ.bɾ(ɨ)/   | poor        | /pʊr/          | pobre     | /ˈpo.βɾe/          |        |
+| pobre           | adj.          | /ˈpɔ.bɾ(ɨ)/   | poor        | /pʊr/          | pobre     | /ˈpo.βɾe/          | 2045       |

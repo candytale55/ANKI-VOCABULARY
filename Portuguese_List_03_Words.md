@@ -53,8 +53,8 @@ Tomadas de esta URL: https://www.dicio.com.br/lista-de-palavras/
 | ato             | substantivo (masc)     | /'a.tu/         | act                    | /ækt/            | acto                    | /'ak.to/                     |          |
 | sol             | substantivo (masc)     | /'sɔw/         | sun                    | /sʌn/            | sol                     | /sol/                       |          |
 | sem             | preposição              | /sẽw/          | without                | /wɪð'aʊt/       | sin                     | /sin/                       |          |
-| dia             | substantivo (masc)     | /'di.ɐ/        | day                    | /deɪ/            | día                     | /'di.a/                      |          |
-| pai             | substantivo (masc)     | /'pa.i/         | father                 | /'fɑð.ɚ/         | padre                   | /'pa.ðɾe/                     |          |
+| dia       | substantivo (masc)     | /'di.ɐ/        | day                    | /deɪ/            | día                     | /'di.a/                      |          |
+| pai             | substantivo (masc)     | /'pa.i/     | father       | /'fɑð.ɚ/   | padre      | /'pa.ðɾe/              | 2017 |
 | dou             | verbo                   | /dow/          | I give                 | /aɪ ɡɪv/        | doy                     | /doi/                       |          |
 | vez             | substantivo (fem)      | /'vɛz/         | time                   | /taɪm/           | vez                     | /bes/                       |          |
 | pro             | preposição              | /'pɾo/          | for                    | /fɔr/            | para                    | /'pa.ɾa/                     |          |

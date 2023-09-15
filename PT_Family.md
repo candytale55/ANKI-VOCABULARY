@@ -4,14 +4,14 @@ Certainly, here are the corrected tables with the last column as "No." with blan
 
 **Family Members:**
 
-| Portuguese   | Tipo de Palavra  | IPA            | English   | IPA (USA) | Spanish | Spanish IPA (Latin American) | No. |
-|--------------|------------------|----------------|-----------|-----------|---------|-----------------------------|-----|
-| pai          | substantivo (masc) | /paɪ/          | father    | /ˈfɑðər/   | padre   | /ˈpaðɾe/                 | 2017 |
-| mãe          | substantivo (fem)  | /'mɐ̃j/         | mother    | /ˈmʌðər/   | madre   | /ˈmaðɾe/                 | 2004 |
-| filho        | substantivo (masc) | /'fiʎu/        | son       | /sʌn/     | hijo    | /ˈixo/                    | 2018 |
-| filha        | substantivo (fem)  | /'fiʎɐ/        | daughter  | /ˈdɔtər/   | hija    | /ˈixa/                   | 2020 |
-| irmão        | substantivo (masc) | /ir'mɐ̃w̃/      | brother   | /ˈbrʌðər/  | hermano | /eɾˈmano/                 | 2019 |
-| irmã         | substantivo (fem)  | /ir'mɐ̃/       | sister    | /ˈsɪstər/  | hermana | /eɾˈmana/                 | 2021 |
+| Portuguese   | Tipo de Palavra  | IPA            | English   | IPA (USA) | Spanish | Spanish IPA    | No. |
+|--------------|------------------|----------------|-----------|-----------|---------|----------------|-----|
+| pai          | substantivo (masc) | /paɪ/          | father    | /ˈfɑðər/   | padre   | /ˈpaðɾe/    | 2017 |
+| mãe          | substantivo (fem)  | /'mɐ̃j/         | mother    | /ˈmʌðər/   | madre   | /ˈmaðɾe/    | 2004 |
+| filho        | substantivo (masc) | /'fiʎu/        | son       | /sʌn/     | hijo    | /ˈixo/       | 2018 |
+| filha        | substantivo (fem)  | /'fiʎɐ/        | daughter  | /ˈdɔtər/   | hija    | /ˈixa/      | 2020 |
+| irmão        | substantivo (masc) | /ir'mɐ̃w̃/      | brother   | /ˈbrʌðər/  | hermano | /eɾˈmano/    | 2019 |
+| irmã         | substantivo (fem)  | /ir'mɐ̃/       | sister    | /ˈsɪstər/  | hermana | /eɾˈmana/    | 2021 |
 
 
 **Family Situations:**

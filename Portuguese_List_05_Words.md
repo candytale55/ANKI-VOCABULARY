@@ -18,7 +18,7 @@ Tomadas de esta URL: https://www.dicio.com.br/lista-de-palavras/
 | plena           | adjetivo (fem)          | /ˈple.nɐ/      | full                   | /fʊl/            | plena                   | /'ple.na/                    |          |
 | mútua           | adjetivo (fem)          | /ˈmu.twa/      | mutual                 | /ˈmjuː.tʃu.əl/   | mutua                   | /'mu.twa/                    |          |
 | tênue           | adjetivo (fem)          | /ˈtɛ.nw/       | tenuous                | /ˈtɛnju.əs/      | tenue                   | /te.'nwe/                    |          |
-| fazer           | verbo                   | /fa.ˈzɛɾ/      | to do, to make         | /tuː duː, tuː meɪk/ | hacer                   | /a'θer/                      |          |
+| fazer           | verbo                   | /fa.ˈzɛɾ/      | to do, to make         | /tuː duː, tuː meɪk/ | hacer     | /a'θer/          | 2066 |
 | assim           | advérbio                | /a.ˈsim/       | so, like this          | /soʊ, laɪk ðɪs/  | así                     | /a'si/                       |          |
 | sutil           | adjetivo (fem)          | /su.ˈtil/      | subtle                 | /ˈsʌtəl/         | sutil                   | /su'til/                     |          |
 | vigor           | substantivo (masc)      | /vi.ˈɡɔɾ/     | vigor                  | /ˈvɪɡər/         | vigor                   | /bi.'ɣor/                    |          |
@@ -40,21 +40,21 @@ Tomadas de esta URL: https://www.dicio.com.br/lista-de-palavras/
 | honra           | substantivo (fem)       | /ˈõ.na.ɾɐ/     | honor, dignity         | /ˈɒnər, ˈdɪɡnəti/ | honra                   | /'on.ɾa/                     |          |
 | torpe           | adjetivo (masc)         | /ˈtoɾ.pɨ/      | clumsy, awkward        | /ˈklʌmzi, ˈɔkwərd/ | torpe                   | /'toɾ.pe/                    |          |
 | quiçá           | advérbio                | /ki.ˈza/       | perhaps, maybe         | /pɚˈhæps, ˈmeɪbi/ | quizá                   | /ki'θa/                      |          |
-| sonho           | substantivo (masc)      | /ˈsõ.ɲu/       | dream                  | /drim/           | sueño                   | /'swe.ɲo/                    |          |
+| sonho           | substantivo (masc)      | /ˈsõ.ɲu/       | dream       | /drim/           | sueño      | /'swe.ɲo/                    | 2067 |
 | fútil           | adjetivo (masc)         | /ˈfu.tiɫ/      | futile                 | /ˈfjuː.taɪl/     | fútil                   | /'fu.til/                    |          |
 | razão           | substantivo (fem)       | /ʁa.ˈzɐ̃w/     | reason                 | /ˈriː.zən/       | razón                   | /ra'θon/                     |          |
 | ícone           | substantivo (masc)      | /ˈi.ko.ni/     | icon                   | /ˈaɪ.kɑn/         | icono                   | /i'ko.no/                    |          |
 | etnia           | substantivo (fem)       | /ˈɛt.ni.ɐ/     | ethnicity              | /ɛθˈnɪs.ə.ti/   | etnia                   | /'et.nja/                    |          |
 | anexo           | substantivo (masc)      | /a.ˈne.ʃu/     | attachment, annex      | /əˈtætʃ.mənt, ˈæ.neks/ | anexo                   | /a'ne.ksɔ/                   |          |
-| amigo           | substantivo (masc)      | /a.ˈmi.ɡu/     | friend                 | /frɛnd/          | amigo                   | /a'mi.ɣo/                    |          |
-| égide           | substantivo (fem)       | /ˈe.ɡi.dʒi/    | aegis                  | /ˈiː.dʒɪs/       | égida                   | /'e.xi.ða/                   |          |
-| tange           | verbo                   | /ˈtɐ̃.ʒi/      | touch, concern         | /tʌʧ, kənˈsɝn/   | tocar                   | /to'kaɾ/                     |          |
+| amigo           | substantivo (masc)      | /a.ˈmi.ɡu/     | friend                 | /frɛnd/          | amigo     | /a'mi.ɣo/       | 2058  |
+| égide           | substantivo (fem)       | /ˈe.ɡi.dʒi/    | aegis                  | /ˈiː.dʒɪs/       | égida       | /'e.xi.ða/                   |          |
+| tange           | verbo                   | /ˈtɐ̃.ʒi/      | touch, concern         | /tʌʧ, kənˈsɝn/   | tocar        | /to'kaɾ/                     |          |
 | lapso           | substantivo (masc)      | /ˈlap.su/      | lapse                  | /læps/           | lapsus                  | /'lap.sus/                   |          |
 | expor           | verbo                   | /iʃ.ˈpoɾ/      | to expose, to exhibit  | /tu ɪkˈspoʊz, tu ɪɡˈzɪbɪt/ | exponer                 | /ekspo'neɾ/                  |          |
 | haver           | verbo                   | /a.ˈveɾ/       | to have                | /tu ˈhæv/        | haber                   | /a'βeɾ/                      |          |
 | mútuo           | adjetivo (masc)         | /ˈmu.tu/       | mutual                 | /ˈmjuː.tʃuəl/    | mutuo                   | /'mu.two/                    |          |
 | dengo           | substantivo (masc)      | /ˈdẽ.ɡu/      | affection              | /əˈfɛk.ʃən/      | mimo                    | /'mi.mo/                     |          |
-| tempo           | substantivo (masc)      | /ˈtẽ.pu/       | time                   | /taɪm/           | tiempo                  | /'tjɛm.po/                   |          |
+| tempo           | substantivo (masc)      | /ˈtẽ.pu/       | time      | /taɪm/           | tiempo     | /'tjɛm.po/    | 2060 |
 | casal           | substantivo (masc)      | /ka.ˈsaɫ/      | couple, pair           | /ˈkʌpəl, pɛr/    | pareja                  | /pa'ɾe.xa/                   |          |
 | hábil           | adjetivo (masc)         | /ˈa.biɫ/       | skillful               | /ˈskɪl.fəl/      | hábil                   | /'a.βil/                     |          |
 | então           | advérbio                | /ẽ.ˈtɐ̃w/      | then                   | /ðɛn/            | entonces                | /en'ton.ses/                 |          |

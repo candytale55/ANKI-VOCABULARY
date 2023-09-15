@@ -55,13 +55,13 @@
 | ano             | noun (mas)             | /ˈɐ.nu/        | year                   | /jɪr/             | año                     | /aˈɲo/                       |          |
 | mão             | noun (fem)             | /ˈmɐ̃w̃/        | hand                   | /hænd/            | mano                    | /ˈmano/                      |          |
 | palavra         | noun (fem)             | /pɐˈla.βɾɐ/    | word                   | /wɜrd/            | palabra                 | /palˈaβɾa/                   |          |
-| filho           | noun (mas)             | /ˈfi.ʎu/       | son                    | /sʌn/             | hijo                    | /ˈixo/                       |          |
-| filha           | noun (fem)             | /ˈfi.ʎɐ/       | daughter               | /ˈdɔː.tər/        | hija                    | /ˈixa/                       |          |
-| noite           | noun (fem)             | /ˈnɔj.tɨ/      | night                  | /naɪt/            | noche                   | /ˈno.tʃe/                    |          |
-| noute           | noun (fem)             | /ˈnɔw.tɨ/      | night                  | /naɪt/            | noche                   | /ˈno.tʃe/                    |          |
-| carta           | noun (fem)             | /ˈkaɾ.tɐ/      | letter                 | /ˈlɛtər/          | carta                   | /ˈkaɾ.ta/                    |          |
-| amigo           | noun (mas)             | /ɐˈmi.ɡu/      | friend (male)          | /frɛnd/           | amigo                   | /aˈmiɣo/                     |          |
-| amiga           | noun (fem)             | /ɐˈmi.ɡɐ/      | friend (female)        | /frɛnd/           | amiga                   | /aˈmiɣa/                     |          |
+| filho           | noun (mas)             | /ˈfi.ʎu/       | son       | /sʌn/             | hijo     | /ˈixo/               | 2018  |
+| filha           | noun (fem)             | /ˈfi.ʎɐ/       | daughter     | /ˈdɔː.tər/        | hija      | /ˈixa/           | 2020  |
+| noite           | noun (fem)             | /ˈnɔj.tɨ/      | night          | /naɪt/         | noche                   | /ˈno.tʃe/                    |          |
+| noute           | noun (fem)             | /ˈnɔw.tɨ/      | night        | /naɪt/            | noche                   | /ˈno.tʃe/                    |          |
+| carta    | noun (fem)   | /ˈkaɾ.tɐ/      | letter     | /ˈlɛtər/          | carta         | /ˈkaɾ.ta/       | 2057   |
+| amigo    | noun (mas)             | /ɐˈmi.ɡu/      | friend (male)  | /frɛnd/     | amigo                   | /aˈmiɣo/      | 2058 |
+| amiga    | noun (fem)             | /ɐˈmi.ɡɐ/      | friend (female)  | /frɛnd/           | amiga     | /aˈmiɣa/            | 2058 |
 | bem             | noun (mas)             | /ˈbẽj/         | good/well              | /ɡʊd/wɛl/         | bien                    | /ˈbjen/                      |          |
 | rua             | noun (fem)             | /ˈru.ɐ/        | street                 | /strit/           | calle                   | /ˈkaʎe/                      |          |
 | vida            | noun (fem)             | /ˈvi.dɐ/       | life                   | /laɪf/            | vida                    | /ˈbiða/                      |          |

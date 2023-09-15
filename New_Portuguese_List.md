@@ -40,21 +40,21 @@
 
 | Portuguese Word | Part of Speech (Gender) | Portuguese IPA | Equivalent English Word | English IPA (USA) | Equivalent Spanish Word | Spanish IPA (Latin American) | Word No. |
 |-----------------|------------------------|----------------|------------------------|-------------------|-------------------------|-----------------------------|----------|
-| cousa           | noun (fem)(archaic)    | /ˈko.wzɐ/      | thing                  | /θɪŋ/             | cosa                    | /ˈkosa/                     |          |
-| coisa           | noun (fem)             | /ˈkoj.zɐ/      | thing                  | /θɪŋ/             | cosa                    | /ˈkosa/                     |          |
+| cousa           | noun (fem)(archaic)    | /ˈko.wzɐ/      | thing       | /θɪŋ/             | cosa        | /ˈkosa/         |   |
+| coisa           | noun (fem)             | /ˈkoj.zɐ/      | thing                  | /θɪŋ/             | cosa  | /ˈkosa/    |   2059  |
 | casa            | noun (fem)             | /ˈka.zɐ/       | house                  | /haʊs/            | casa                    | /ˈkasa/                     |          |
-| tempo           | noun (mas)             | /ˈtẽ.pu/       | time                   | /taɪm/            | tiempo                  | /ˈtjempo/                   |          |
+| tempo           | noun (mas)             | /ˈtẽ.pu/       | time      | /taɪm/            | tiempo     | /ˈtjempo/     | 2060 |
 | vez             | noun (fem)             | /ˈvɛz/         | time/turn              | /taɪm/tɜrn/       | vez                     | /ˈbes/                      |          |
 | olho            | noun (mas)             | /ˈo.ʎu/        | eye                    | /aɪ/              | ojo                     | /ˈoxo/                      |          |
-| dia             | noun (mas)             | /ˈdi.ɐ/        | day                    | /deɪ/             | día                     | /ˈdia/                      |          |
-| homem           | noun (mas)             | /ˈɔ.mẽ/        | man                    | /mæn/             | hombre                  | /ˈombre/                    |          |
+| dia             | noun (mas)             | /ˈdi.ɐ/        | day    | /deɪ/             | día       | /ˈdia/                      | 2061 |
+| homem       | noun (mas)             | /ˈɔ.mẽ/        | man                    | /mæn/             | hombre     | /ˈombre/        | 2062 |
 | moço            | noun (mas)             | /ˈmo.su/       | young man              | /jʌŋ mæn/         | joven                   | /xoˈβen/                     |          |
 | moça            | noun (fem)             | /ˈmo.sɐ/       | young woman            | /jʌŋ ˈwʊmən/      | joven                   | /xoˈβen/                     |          |
 | senhor          | noun (mas)             | /sɛˈɲɔɾ/       | sir/mister             | /sɜr ˈmɪs.tər/   | señor                   | /seˈɲor/                     |          |
 | senhora         | noun (fem)             | /sɛˈɲo.ɾɐ/     | lady/mrs.              | /ˈleɪ.di/         | señora                  | /seˈɲora/                    |          |
-| ano             | noun (mas)             | /ˈɐ.nu/        | year                   | /jɪr/             | año                     | /aˈɲo/                       |          |
-| mão             | noun (fem)             | /ˈmɐ̃w̃/        | hand                   | /hænd/            | mano                    | /ˈmano/                      |          |
-| palavra         | noun (fem)             | /pɐˈla.βɾɐ/    | word                   | /wɜrd/            | palabra                 | /palˈaβɾa/                   |          |
+| ano             | noun (mas)             | /ˈɐ.nu/        | year    | /jɪr/             | año          | /aˈɲo/           | 2063 |
+| mão             | noun (fem)             | /ˈmɐ̃w̃/        | hand                   | /hænd/            | mano    | /ˈmano/          | 2064  |
+| palavra         | noun (fem)             | /pɐˈla.βɾɐ/    | word        | /wɜrd/            | palabra       | /palˈaβɾa/                   |          |
 | filho           | noun (mas)             | /ˈfi.ʎu/       | son       | /sʌn/             | hijo     | /ˈixo/               | 2018  |
 | filha           | noun (fem)             | /ˈfi.ʎɐ/       | daughter     | /ˈdɔː.tər/        | hija      | /ˈixa/           | 2020  |
 | noite           | noun (fem)             | /ˈnɔj.tɨ/      | night          | /naɪt/         | noche                   | /ˈno.tʃe/                    |          |

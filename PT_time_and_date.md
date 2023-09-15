@@ -15,12 +15,12 @@
 
 ## Meses do ano 
 
-| Portuguese          | Tipo de Palavra  | IPA         | English     | IPA (USA)  | Spanish       | Spanish IPA (Latin America) | No. |
-|---------------------|------------------|-------------|-------------|------------|---------------|-----------------------------|-----|
-| janeiro             | substantivo (masc) | /ʒɐˈnejɾu/  | January     | /ˈdʒænjuəri/| enero         | /ˈeneɾo/                    |     |
-| fevereiro           | substantivo (masc) | /feveˈɾejɾu/ | February    | /ˈfɛbruəri/ | febrero       | /ˈfeβɾeɾo/                  |     |
-| março               | substantivo (masc) | /ˈmaɾsu/    | March       | /mɑːrtʃ/   | marzo         | /ˈmaɾθo/                    |     |
-| abril               | substantivo (masc) | /ɐˈbɾiɫ/    | April       | /ˈeɪprəl/  | abril         | /aˈβɾil/                    |     |
+| Portuguese          | Tipo de Palavra  | IPA         | English     | IPA (USA)  | Spanish       | Spanish IPA (Latin America) | No.  |
+|---------------------|------------------|-------------|-------------|------------|---------------|-----------------------------|------|
+| janeiro             | substantivo (masc) | /ʒɐˈnejɾu/  | January     | /ˈdʒænjuəri/| enero         | /ˈeneɾo/                 | 2081 |
+| fevereiro           | substantivo (masc) | /feveˈɾejɾu/ | February    | /ˈfɛbruəri/ | febrero       | /ˈfeβɾeɾo/              | 2082 |
+| março               | substantivo (masc) | /ˈmaɾsu/    | March       | /mɑːrtʃ/   | marzo         | /ˈmaɾθo/                  | 2083 |
+| abril               | substantivo (masc) | /ɐˈbɾiɫ/    | April       | /ˈeɪprəl/  | abril         | /aˈβɾil/                  |     |
 | maio                | substantivo (masc) | /ˈmaju/     | May         | /meɪ/       | mayo          | /ˈmaʝo/                     |     |
 | junho               | substantivo (masc) | /ˈʒuɲu/     | June        | /dʒuːn/    | junio         | /ˈxunjo/                    |     |
 | julho               | substantivo (masc) | /ˈʒuʎu/     | July        | /dʒuˈlaɪ/  | julio         | /ˈxuljo/                    |     |

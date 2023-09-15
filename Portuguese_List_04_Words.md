@@ -11,7 +11,7 @@ Tomadas de esta URL: https://www.dicio.com.br/lista-de-palavras/
 | viés            | substantivo (masc)     | /ˈvi.ɛs/        | bias                   | /baɪəs/          | sesgo                   | /'ses.ɣo/                    |          |
 | você            | pronome                 | /vo'se/         | you                    | /ju/             | usted                   | /us'ted/                     |          |
 | caos            | substantivo (masc)     | /kaˈoʃ/         | chaos                  | /ˈkeɪ.ɒs/        | caos                    | /'ka.os/                     |          |
-| como            | advérbio                 | /ˈkɔ.mu/        | like/as                | /laɪk, æz/       | como                    | /'ko.mo/                     |          |
+| como     | advérbio   | /ˈkɔ.mu/        | like/as                | /laɪk, æz/       | como                    | /'ko.mo/                     | 2038 |
 | esmo            | substantivo (masc)     | /ˈez.mu/        | fervor                 | /ˈfɜrvər/        | celo                    | /'se.lo/                     |          |
 | brio            | substantivo (masc)     | /ˈbɾi.u/        | pride                  | /praɪd/          | brío                    | /'bri.o/                     |          |
 | vide            | substantivo (masc)     | /ˈvi.dɨ/        | see                    | /si/             | véase                   | /'be.a.se/                   |          |

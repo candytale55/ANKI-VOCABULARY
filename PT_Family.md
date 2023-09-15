@@ -12,13 +12,13 @@
 | filha        | substantivo (fem)  | /'fiʎɐ/        | daughter  | /ˈdɔtər/   | hija    | /ˈixa/      | 2020 |
 | irmão        | substantivo (masc) | /ir'mɐ̃w̃/      | brother   | /ˈbrʌðər/  | hermano | /eɾˈmano/    | 2019 |
 | irmã         | substantivo (fem)  | /ir'mɐ̃/       | sister    | /ˈsɪstər/  | hermana | /eɾˈmana/    | 2021 |
-| tio          | substantivo (masc) | /'tiu/    | uncle     | /'ʌŋkəl/   | tío      | /'ti.o/     |     |
-| tia          | substantivo (fem)  | /'tiɐ/    | aunt      | /ɑnt/       | tía      | /'ti.a/     |     |
-| avô          | substantivo (masc) | /ɐ'vɔ/    | grandfather | /ˈɡrændˌfɑðər/ | abuelo | /aˈβwe.lo/  |     |
-| avó          | substantivo (fem)  | /ɐ'vɔ/    | grandmother | /ˈɡrændˌmʌðər/ | abuela | /aˈβwe.la/  |     |
-| primo        | substantivo (masc) | /'primu/  | cousin (male) | /'kʌzən/ (male) | primo | /'pɾimo/ (male) |     |
-| prima        | substantivo (fem)  | /'primɐ/  | cousin (female) | /'kʌzən/ (female) | prima | /'pɾima/ (female) |     |
-| neto         | substantivo (masc) | /'netu/   | grandson  | /'ɡrænsʌn/ | nieto   | /'njeto/ |     |
+| tio          | substantivo (masc) | /'tiu/    | uncle     | /'ʌŋkəl/   | tío      | /'ti.o/         | 2026 |
+| tia          | substantivo (fem)  | /'tiɐ/    | aunt      | /ɑnt/       | tía      | /'ti.a/        | 2027 |
+| avô          | substantivo (masc) | /ɐ'vɔ/    | grandfather | /ˈɡrændˌfɑðər/ | abuelo | /aˈβwe.lo/  | 2028 |
+| avó          | substantivo (fem)  | /ɐ'vɔ/    | grandmother | /ˈɡrændˌmʌðər/ | abuela | /aˈβwe.la/  | 2029 |
+| primo        | substantivo (masc) | /'primu/  | cousin (male) | /'kʌzən/  | primo | /'pɾimo/  | 2030 |
+| prima        | substantivo (fem)  | /'primɐ/  | cousin (female) | /'kʌzən/  | prima | /'pɾima/  | 2030 |
+| neto         | substantivo (masc) | /'netu/   | grandson  | /'ɡrænsʌn/ | nieto   | /'njeto/ | 2031 |
 | neta         | substantivo (fem)  | /'netɐ/   | granddaughter | /ˌɡrændˈdɔtər/ | nieta | /'njeta/ |     |
 | netos        | substantivo (masc) | /'netus/  | grandsons | /'ɡrændˌsʌnz/ | nietos | /'njetos/ |     |
 | netas        | substantivo (fem)  | /'netɐs/  | granddaughters | /ˌɡrændˈdɔtərz/ | nietas | /'njetas/ |     |

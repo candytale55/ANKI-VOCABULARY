@@ -42,7 +42,7 @@ Tomadas de esta URL: https://www.dicio.com.br/lista-de-palavras/
 | foi             | verbo   | /'foj/         | was                    | /wəz/            | fue                     | /fwe/         | 2014 |
 | mim             | pronome pessoal (masc)  | /mĩj/          | me                     | /mi/             | mí                      | /mi/                        |          |
 | uma             | artigo (fem)           | /'umɐ/         | a/an                   | /eɪ/             | una                     | /'u.na/                      |          |
-| lua             | substantivo (fem)      | /'lu.ɐ/        | moon                   | /mun/            | luna                    | /'lu.na/                     |          |
+| lua     | substantivo (fem)      | /'lu.ɐ/        | moon       | /mun/            | luna          | /'lu.na/       | 2043 |
 | até             | preposição              | /'a.tɛ/         | until                  | /ʌn'tɪl/         | hasta                   | /'as.ta/                    |          |
 | hum             | adjetivo (masc)        | /'ũ/           | a/an                   | /ə/              | uno                     | /'u.no/                      |          |
 | por      | preposição     | /pɔʁ/          | by/for                 | /baɪ/fɔr/        | por                     | /por/         | 2012 |

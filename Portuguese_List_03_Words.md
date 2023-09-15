@@ -80,7 +80,7 @@ Tomadas de esta URL: https://www.dicio.com.br/lista-de-palavras/
 | pôr             | verbo                   | /'poɾ/          | to put                 | /tu pʊt/         | poner                   | /po'ner/                    |          |
 | afã             | substantivo (masc)     | /ɐ'fɐ̃w/       | effort                 | /ˈɛ.fərt/        | esfuerzo                | /es'fwer.θo/                |          |
 | for             | verbo                   | /'foɾ/          | I go                   | /aɪ ɡoʊ/        | voy                     | /boi/                       |          |
-| rio             | substantivo (masc)     | /'ʁi.u/         | river                  | /ˈrɪvər/         | río                     | /'ri.o/                      |          |
+| rio       | substantivo (masc)     | /'ʁi.u/         | river     | /ˈrɪvər/         | río                     | /'ri.o/        |  2044  |
 | daí             | advérbio                 | /daj/          | hence                  | /hɛns/           | de ahí                  | /de a'i/                     |          |
 | cia             | substantivo (fem)      | /'si.ɐ/        | company                | /ˈkʌmpəni/       | compañía               | /kum.pa'ni.a/               |          |
 | olá             | interjeição             | /o'la/         | hello                  | /hə'loʊ/         | hola                    | /o'la/                      |          |

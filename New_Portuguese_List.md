@@ -125,7 +125,7 @@
 | meio            | adj. (mas)    | /ˈme.ju/      | half        | /hæf/          | medio     | /ˈme.ðjo/          | 2050  |
 | natural         | adj.          | /nɐ.tuˈɾaɫ/   | natural     | /ˈnætʃ.ərəl/   | natural   | /naˈtuɾal/         |        |
 | maior           | adj.          | /majˈoɾ/      | bigger, greater | /ˈbɪɡər, ˈɡreɪtər/ | mayor | /maˈʝoɾ/       |        |
-| triste          | adj.          | /ˈtɾiʃ.t(ɨ)/  | sad         | /sæd/          | triste    | /ˈtɾiste/          |        |
+| triste          | adj.          | /ˈtɾiʃ.t(ɨ)/  | sad         | /sæd/          | triste    | /ˈtɾiste/          | 2065 |
 | bonita          | adj. (fem)    | /boˈni.tɐ/    | beautiful   | /ˈbjuː.tɪ.fəl/ | bonita    | /boˈnita/          |        |
 | bonito          | adj. (mas)    | /bo.ˈni.tu/   | beautiful   | /ˈbjuː.tɪ.fəl/ | bonito    | /boˈnito/          |        |
 | só              | adj.          | /ˈso/         | alone, only | /əˈloʊn, ˈoʊnli/ | solo    | /ˈso.lo/           |        |

@@ -12,6 +12,30 @@
 | filha        | substantivo (fem)  | /'fiʎɐ/        | daughter  | /ˈdɔtər/   | hija    | /ˈixa/      | 2020 |
 | irmão        | substantivo (masc) | /ir'mɐ̃w̃/      | brother   | /ˈbrʌðər/  | hermano | /eɾˈmano/    | 2019 |
 | irmã         | substantivo (fem)  | /ir'mɐ̃/       | sister    | /ˈsɪstər/  | hermana | /eɾˈmana/    | 2021 |
+| tio          | substantivo (masc) | /'tiu/    | uncle     | /'ʌŋkəl/   | tío      | /'ti.o/     |     |
+| tia          | substantivo (fem)  | /'tiɐ/    | aunt      | /ɑnt/       | tía      | /'ti.a/     |     |
+| avô          | substantivo (masc) | /ɐ'vɔ/    | grandfather | /ˈɡrændˌfɑðər/ | abuelo | /aˈβwe.lo/  |     |
+| avó          | substantivo (fem)  | /ɐ'vɔ/    | grandmother | /ˈɡrændˌmʌðər/ | abuela | /aˈβwe.la/  |     |
+| primo        | substantivo (masc) | /'primu/  | cousin (male) | /'kʌzən/ (male) | primo | /'pɾimo/ (male) |     |
+| prima        | substantivo (fem)  | /'primɐ/  | cousin (female) | /'kʌzən/ (female) | prima | /'pɾima/ (female) |     |
+| cunhado      | substantivo (masc) | /ku'njadu/ | brother-in-law | /'brʌðər ɪn lɔ/ | cuñado | /kuˈɲaðo/ |     |
+| cunhada      | substantivo (fem)  | /ku'ɲada/ | sister-in-law | /'sɪstər ɪn lɔ/ | cuñada | /kuˈɲaða/ |     |
+| sogro        | substantivo (masc) | /'sɔɡɾu/  | father-in-law | /'fɑðər ɪn lɔ/ | suegro  | /'swe.ɡɾo/ |     |
+| sogra        | substantivo (fem)  | /'sɔɡɾɐ/ | mother-in-law | /'mʌðər ɪn lɔ/ | suegra  | /'swe.ɡɾa/ |     |
+| neto         | substantivo (masc) | /'netu/   | grandson  | /'ɡrænsʌn/ | nieto   | /'njeto/ |     |
+| neta         | substantivo (fem)  | /'netɐ/   | granddaughter | /ˌɡrændˈdɔtər/ | nieta | /'njeta/ |     |
+| netos        | substantivo (masc) | /'netus/  | grandsons | /'ɡrændˌsʌnz/ | nietos | /'njetos/ |     |
+| netas        | substantivo (fem)  | /'netɐs/  | granddaughters | /ˌɡrændˈdɔtərz/ | nietas | /'njetas/ |     |
+
+**In-Laws:**
+
+| Portuguese   | Tipo de palavra     | IPA       | English   | English IPA | Spanish  | Spanish IPA | No. |
+|--------------|---------------------|-----------|-----------|-------------|----------|-------------|-----|
+| sogro        | substantivo (masc) | /'sɔɡɾu/  | father-in-law | /'fɑðər ɪn lɔ/ | suegro  | /'swe.ɡɾo/ |     |
+| sogra        | substantivo (fem)  | /'sɔɡɾɐ/ | mother-in-law | /'mʌðər ɪn lɔ/ | suegra  | /'swe.ɡɾa/ |     |
+| cunhado      | substantivo (masc) | /ku'njadu/ | brother-in-law | /'brʌðər ɪn lɔ/ | cuñado | /kuˈɲaðo/ |     |
+| cunhada      | substantivo (fem)  | /ku'ɲada/ | sister-in-law | /'sɪstər ɪn lɔ/ | cuñada | /kuˈɲaða/ |     |
+
 
 
 **Family Status:**

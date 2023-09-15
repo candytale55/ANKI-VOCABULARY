@@ -16,15 +16,15 @@
 
 **Family Status:**
 
-| Portuguese   | Tipo de Palavra  | IPA             | English        | IPA (USA)  | Spanish          | Spanish IPA (Latin American) | No. |
-|--------------|------------------|-----------------|----------------|------------|------------------|-----------------------------|-----|
-| solteiro     | adjetivo (masc) | /sol'tejɾu/     | single         | /ˈsɪŋɡəl/  | soltero          | /solˈteɾo/                   |     |
-| solteira     | adjetivo (fem)  | /sol'tejɾɐ/     | single (fem)   | /ˈsɪŋɡəl/  | soltera          | /solˈteɾa/                   |     |
-| casado       | adjetivo (masc) | /kɐ'zaðu/       | married        | /ˈmærɪd/   | casado           | /kaˈsaðo/                    |     |
-| casada       | adjetivo (fem)  | /kɐ'zaðɐ/       | married (fem)  | /ˈmærɪd/   | casada           | /kaˈsaða/                    |     |
-| viúvo        | adjetivo (masc) | /'vi.u.vo/       | widowed        | /ˈwɪdoʊd/  | viudo            | /ˈbwido/                     |     |
-| viúva        | adjetivo (fem)  | /'vi.u.vɐ/      | widowed (fem)  | /ˈwɪdoʊd/  | viuda            | /ˈbwida/                     |     |
-| órfão        | substantivo (masc) | /'ɔɾfɐ̃w̃/     | orphan         | /ˈɔrfən/   | huérfano         | /ˈw̃eɾfano/                   |     |
-| órfã         | substantivo (fem)  | /'ɔɾfɐ̃/        | orphan (fem)   | /ˈɔrfən/   | huérfana         | /ˈw̃eɾfana/                   |     |
+| Portuguese   | Tipo de Palavra  | IPA             | English        | IPA (USA)  | Spanish          | Spanish IPA  | No. |
+|--------------|------------------|-----------------|----------------|------------|------------------|--------------|-----|
+| solteiro     | adjetivo (masc) | /sol'tejɾu/     | single         | /ˈsɪŋɡəl/  | soltero          | /solˈteɾo/    | 2022 |
+| solteira     | adjetivo (fem)  | /sol'tejɾɐ/     | single (fem)   | /ˈsɪŋɡəl/  | soltera          | /solˈteɾa/    | 2022 |
+| casado       | adjetivo (masc) | /kɐ'zaðu/       | married        | /ˈmærɪd/   | casado           | /kaˈsaðo/     | 2023 |
+| casada       | adjetivo (fem)  | /kɐ'zaðɐ/       | married (fem)  | /ˈmærɪd/   | casada           | /kaˈsaða/     | 2023 |
+| viúvo        | adjetivo (masc) | /'vi.u.vo/       | widowed        | /ˈwɪdoʊd/  | viudo            | /ˈbwido/     | 2024 |
+| viúva        | adjetivo (fem)  | /'vi.u.vɐ/      | widowed (fem)  | /ˈwɪdoʊd/  | viuda            | /ˈbwida/      | 2024 |
+| órfão        | substantivo (masc) | /'ɔɾfɐ̃w̃/     | orphan         | /ˈɔrfən/   | huérfano         | /ˈw̃eɾfano/    | 2025 |
+| órfã         | substantivo (fem)  | /'ɔɾfɐ̃/        | orphan (fem)   | /ˈɔrfən/   | huérfana         | /ˈw̃eɾfana/  | 2025 |
 | divorciado   | adjetivo (masc) | /di.vɔɾsi'adu/  | divorced       | /dɪˈvɔrst/  | divorciado       | /di.voɾˈθjaðo/                |     |
 | divorciada   | adjetivo (fem)  | /di.vɔɾsi'adɐ/  | divorced (fem) | /dɪˈvɔrst/  | divorciada       | /di.voɾˈθjaða/                |     |

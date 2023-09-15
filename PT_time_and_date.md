@@ -2,7 +2,7 @@
 
 ##  Dias da semana 
 
-| Portuguese          | Tipo de Palavra  | IPA         | English     | IPA (USA)  | Spanish       | Spanish IPA (Latin America) | No.  |
+| Portuguese          | Tipo de Palavra  | IPA         | English     | IPA (USA)  | Spanish       | Spanish IPA | No.  |
 |---------------------|------------------|-------------|-------------|------------|---------------|-----------------------------|------|
 | domingo             | substantivo (masc) | /doˈmĩgu/   | Sunday      | /ˈsʌndeɪ/  | domingo       | /doˈmiŋɡo/                | 2074 |
 | segunda-feira       | substantivo (fem)  | /seˌgũdɐ ˈfeɪ.ɾɐ/ | Monday  | /ˈmʌndeɪ/  | lunes         | /ˈlunes/                | 2075 |
@@ -15,7 +15,7 @@
 
 ## Meses do ano 
 
-| Portuguese          | Tipo de Palavra  | IPA         | English     | IPA (USA)  | Spanish       | Spanish IPA (Latin America) | No.  |
+| Portuguese          | Tipo de Palavra  | IPA         | English     | IPA (USA)  | Spanish       | Spanish IPA  | No.  |
 |---------------------|------------------|-------------|-------------|------------|---------------|-----------------------------|------|
 | janeiro             | substantivo (masc) | /ʒɐˈnejɾu/  | January     | /ˈdʒænjuəri/| enero         | /ˈeneɾo/                 | 2081 |
 | fevereiro           | substantivo (masc) | /feveˈɾejɾu/ | February    | /ˈfɛbruəri/ | febrero       | /ˈfeβɾeɾo/              | 2082 |
@@ -23,12 +23,12 @@
 | abril               | substantivo (masc) | /ɐˈbɾiɫ/    | April       | /ˈeɪprəl/  | abril         | /aˈβɾil/                  | 2084 |
 | maio                | substantivo (masc) | /ˈmaju/     | May         | /meɪ/       | mayo          | /ˈmaʝo/                  | 2085 |
 | junho               | substantivo (masc) | /ˈʒuɲu/     | June        | /dʒuːn/    | junio         | /ˈxunjo/                  | 2086 |
-| julho               | substantivo (masc) | /ˈʒuʎu/     | July        | /dʒuˈlaɪ/  | julio         | /ˈxuljo/                    |     |
-| agosto              | substantivo (masc) | /ɐˈɡoʃtu/   | August      | /ɑːˈɡʌst/  | agosto        | /aˈɣosto/                   |     |
-| setembro            | substantivo (masc) | /seˈtẽbɾu/  | September   | /sɛpˈtɛmbər/ | septiembre   | /septjemˈbɾe/               |     |
-| outubro             | substantivo (masc) | /owˈtubɾu/  | October     | /ɑkˈtoʊbər/ | octubre      | /okˈtuβɾe/                  |     |
-| novembro            | substantivo (masc) | /noˈvẽbɾu/  | November    | /noʊˈvɛmbər/| noviembre    | /noβjemˈbɾe/                |     |
-| dezembro            | substantivo (masc) | /deˈzẽbɾu/  | December    | /dɪˈsɛmbər/ | diciembre    | /diθjemˈbɾe/                |     |
+| julho               | substantivo (masc) | /ˈʒuʎu/     | July        | /dʒuˈlaɪ/  | julio         | /ˈxuljo/                  | 2087 |
+| agosto              | substantivo (masc) | /ɐˈɡoʃtu/   | August      | /ɑːˈɡʌst/  | agosto        | /aˈɣosto/                 | 2088 |
+| setembro            | substantivo (masc) | /seˈtẽbɾu/  | September   | /sɛpˈtɛmbər/ | septiembre   | /septjemˈbɾe/            | 2089 |
+| outubro             | substantivo (masc) | /owˈtubɾu/  | October     | /ɑkˈtoʊbər/ | octubre      | /okˈtuβɾe/                | 2090 |
+| novembro            | substantivo (masc) | /noˈvẽbɾu/  | November    | /noʊˈvɛmbər/| noviembre    | /noβjemˈbɾe/              | 2091 |
+| dezembro            | substantivo (masc) | /deˈzẽbɾu/  | December    | /dɪˈsɛmbər/ | diciembre    | /diθjemˈbɾe/              | 2092 |
 
 
 ## Palavras para medir o tempo

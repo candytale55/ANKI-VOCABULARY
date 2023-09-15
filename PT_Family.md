@@ -16,21 +16,21 @@
 | tia          | substantivo (fem)  | /'tiɐ/    | aunt      | /ɑnt/       | tía      | /'ti.a/        | 2027 |
 | avô          | substantivo (masc) | /ɐ'vɔ/    | grandfather | /ˈɡrændˌfɑðər/ | abuelo | /aˈβwe.lo/  | 2028 |
 | avó          | substantivo (fem)  | /ɐ'vɔ/    | grandmother | /ˈɡrændˌmʌðər/ | abuela | /aˈβwe.la/  | 2029 |
-| primo        | substantivo (masc) | /'primu/  | cousin (male) | /'kʌzən/  | primo | /'pɾimo/  | 2030 |
-| prima        | substantivo (fem)  | /'primɐ/  | cousin (female) | /'kʌzən/  | prima | /'pɾima/  | 2030 |
-| neto         | substantivo (masc) | /'netu/   | grandson  | /'ɡrænsʌn/ | nieto   | /'njeto/ | 2031 |
-| neta         | substantivo (fem)  | /'netɐ/   | granddaughter | /ˌɡrændˈdɔtər/ | nieta | /'njeta/ |     |
-| netos        | substantivo (masc) | /'netus/  | grandsons | /'ɡrændˌsʌnz/ | nietos | /'njetos/ |     |
-| netas        | substantivo (fem)  | /'netɐs/  | granddaughters | /ˌɡrændˈdɔtərz/ | nietas | /'njetas/ |     |
+| primo        | substantivo (masc) | /'primu/  | cousin (male) | /'kʌzən/  | primo | /'pɾimo/        | 2030 |
+| prima        | substantivo (fem)  | /'primɐ/  | cousin (female) | /'kʌzən/  | prima | /'pɾima/      | 2030 |
+| neto         | substantivo (masc) | /'netu/   | grandson  | /'ɡrænsʌn/ | nieto   | /'njeto/         | 2031 |
+| neta         | substantivo (fem)  | /'netɐ/   | granddaughter | /ˌɡrændˈdɔtər/ | nieta | /'njeta/   | 2032 |
+| netos        | substantivo (masc) | /'netus/  | grandsons | /'ɡrændˌsʌnz/ | nietos | /'njetos/        |    |
+| netas        | substantivo (fem)  | /'netɐs/  | granddaughters | /ˌɡrændˈdɔtərz/ | nietas | /'njetas/ |    |
 
 **In-Laws:**
 
 | Portuguese   | Tipo de palavra     | IPA       | English   | English IPA | Spanish  | Spanish IPA | No. |
 |--------------|---------------------|-----------|-----------|-------------|----------|-------------|-----|
-| sogro        | substantivo (masc) | /'sɔɡɾu/  | father-in-law | /'fɑðər ɪn lɔ/ | suegro  | /'swe.ɡɾo/ |     |
-| sogra        | substantivo (fem)  | /'sɔɡɾɐ/ | mother-in-law | /'mʌðər ɪn lɔ/ | suegra  | /'swe.ɡɾa/ |     |
-| cunhado      | substantivo (masc) | /ku'njadu/ | brother-in-law | /'brʌðər ɪn lɔ/ | cuñado | /kuˈɲaðo/ |     |
-| cunhada      | substantivo (fem)  | /ku'ɲada/ | sister-in-law | /'sɪstər ɪn lɔ/ | cuñada | /kuˈɲaða/ |     |
+| sogro        | substantivo (masc) | /'sɔɡɾu/  | father-in-law | /'fɑðər ɪn lɔ/ | suegro  | /'swe.ɡɾo/   | 2033 |
+| sogra        | substantivo (fem)  | /'sɔɡɾɐ/ | mother-in-law | /'mʌðər ɪn lɔ/ | suegra  | /'swe.ɡɾa/    | 2034 |
+| cunhado      | substantivo (masc) | /ku'njadu/ | brother-in-law | /'brʌðər ɪn lɔ/ | cuñado | /kuˈɲaðo/  | 2035 |
+| cunhada      | substantivo (fem)  | /ku'ɲada/ | sister-in-law | /'sɪstər ɪn lɔ/ | cuñada | /kuˈɲaða/    | 2036 |
 
 
 
@@ -46,5 +46,5 @@
 | viúva        | adjetivo (fem)  | /'vi.u.vɐ/      | widowed (fem)  | /ˈwɪdoʊd/  | viuda            | /ˈbwida/      | 2024 |
 | órfão        | substantivo (masc) | /'ɔɾfɐ̃w̃/     | orphan         | /ˈɔrfən/   | huérfano         | /ˈw̃eɾfano/    | 2025 |
 | órfã         | substantivo (fem)  | /'ɔɾfɐ̃/        | orphan (fem)   | /ˈɔrfən/   | huérfana         | /ˈw̃eɾfana/  | 2025 |
-| divorciado   | adjetivo (masc) | /di.vɔɾsi'adu/  | divorced       | /dɪˈvɔrst/  | divorciado       | /di.voɾˈθjaðo/                |     |
-| divorciada   | adjetivo (fem)  | /di.vɔɾsi'adɐ/  | divorced (fem) | /dɪˈvɔrst/  | divorciada       | /di.voɾˈθjaða/                |     |
+| divorciado   | adjetivo (masc) | /di.vɔɾsi'adu/  | divorced       | /dɪˈvɔrst/  | divorciado       | /di.voɾˈθjaðo/  | 2037 |
+| divorciada   | adjetivo (fem)  | /di.vɔɾsi'adɐ/  | divorced (fem) | /dɪˈvɔrst/  | divorciada       | /di.voɾˈθjaða/  | 2037 |

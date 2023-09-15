@@ -1,6 +1,6 @@
 # Family and Family situations
 
-Certainly, here are the corrected tables with the last column as "No." with blank values:
+
 
 **Family Members:**
 
@@ -14,7 +14,7 @@ Certainly, here are the corrected tables with the last column as "No." with blan
 | irmã         | substantivo (fem)  | /ir'mɐ̃/       | sister    | /ˈsɪstər/  | hermana | /eɾˈmana/    | 2021 |
 
 
-**Family Situations:**
+**Family Status:**
 
 | Portuguese   | Tipo de Palavra  | IPA             | English        | IPA (USA)  | Spanish          | Spanish IPA (Latin American) | No. |
 |--------------|------------------|-----------------|----------------|------------|------------------|-----------------------------|-----|

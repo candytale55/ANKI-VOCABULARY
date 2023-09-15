@@ -1,9 +1,9 @@
 # Words used for time and date
 
+##  Dias da semana 
 
 | Portuguese          | Tipo de Palavra  | IPA         | English     | IPA (USA)  | Spanish       | Spanish IPA (Latin America) | No. |
 |---------------------|------------------|-------------|-------------|------------|---------------|-----------------------------|-----|
-| Dias da semana     |                  |             |             |            |               |                             |     |
 | domingo             | substantivo (masc) | /doˈmĩgu/   | Sunday      | /ˈsʌndeɪ/  | domingo       | /doˈmiŋɡo/                   |     |
 | segunda-feira       | substantivo (fem)  | /seˌgũdɐ ˈfeɪ.ɾɐ/ | Monday  | /ˈmʌndeɪ/  | lunes         | /ˈlunes/                    |     |
 | terça-feira         | substantivo (fem)  | /ˌteɾ.sɐ ˈfeɪ.ɾɐ/ | Tuesday | /ˈtuːzdeɪ/ | martes        | /ˈmartes/                   |     |
@@ -12,7 +12,11 @@
 | sexta-feira         | substantivo (fem)  | /ˌseʃtɐ ˈfeɪ.ɾɐ/ | Friday    | /ˈfraɪdeɪ/ | viernes       | /ˈbjernes/                  |     |
 | sábado              | substantivo (masc) | /ˈsɐbɐdu/   | Saturday   | /ˈsætərdeɪ/| sábado        | /ˈsabado/                   |     |
 
-| Meses do ano        |                  |             |             |            |               |                             |     |
+
+## Meses do ano 
+
+| Portuguese          | Tipo de Palavra  | IPA         | English     | IPA (USA)  | Spanish       | Spanish IPA (Latin America) | No. |
+|---------------------|------------------|-------------|-------------|------------|---------------|-----------------------------|-----|
 | janeiro             | substantivo (masc) | /ʒɐˈnejɾu/  | January     | /ˈdʒænjuəri/| enero         | /ˈeneɾo/                    |     |
 | fevereiro           | substantivo (masc) | /feveˈɾejɾu/ | February    | /ˈfɛbruəri/ | febrero       | /ˈfeβɾeɾo/                  |     |
 | março               | substantivo (masc) | /ˈmaɾsu/    | March       | /mɑːrtʃ/   | marzo         | /ˈmaɾθo/                    |     |
@@ -26,7 +30,10 @@
 | novembro            | substantivo (masc) | /noˈvẽbɾu/  | November    | /noʊˈvɛmbər/| noviembre    | /noβjemˈbɾe/                |     |
 | dezembro            | substantivo (masc) | /deˈzẽbɾu/  | December    | /dɪˈsɛmbər/ | diciembre    | /diθjemˈbɾe/                |     |
 
-| Palavras para medir o tempo |        |             |             |            |               |                             |     |
+
+## Palavras para medir o tempo
+| Portuguese          | Tipo de Palavra  | IPA         | English     | IPA (USA)  | Spanish       | Spanish IPA (Latin America) | No. |
+|---------------------|------------------|-------------|-------------|------------|---------------|-----------------------------|-----|
 | segundo             | substantivo (masc) | /seˈɡũdu/  | second      | /ˈsɛkənd/  | segundo       | /seˈɡundo/                  |     |
 | minuto              | substantivo (masc) | /miˈnutu/   | minute      | /ˈmɪnət/   | minuto        | /miˈnuto/                   |     |
 | hora                | substantivo (fem)  | /ˈoɾɐ/      | hour        | /aʊər/     | hora          | /ˈoɾa/                      |     |

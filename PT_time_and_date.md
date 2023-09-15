@@ -32,13 +32,13 @@
 
 
 ## Palavras para medir o tempo
-| Portuguese          | Tipo de Palavra  | IPA         | English     | IPA (USA)  | Spanish       | Spanish IPA (Latin America) | No. |
+| Portuguese          | Tipo de Palavra  | IPA         | English     | IPA (USA)  | Spanish       | Spanish IPA   | No. |
 |---------------------|------------------|-------------|-------------|------------|---------------|-----------------------------|-----|
-| segundo             | substantivo (masc) | /seˈɡũdu/  | second      | /ˈsɛkənd/  | segundo       | /seˈɡundo/                  |     |
-| minuto              | substantivo (masc) | /miˈnutu/   | minute      | /ˈmɪnət/   | minuto        | /miˈnuto/                   |     |
-| hora                | substantivo (fem)  | /ˈoɾɐ/      | hour        | /aʊər/     | hora          | /ˈoɾa/                      |     |
-| dia                 | substantivo (masc) | /ˈdiɐ/      | day         | /deɪ/      | día           | /ˈdi.a/                     |     |
-| ano                 | substantivo (masc) | /ˈɐnu/      | year        | /jɪr/      | año           | /ˈaɲo/                      |     |
-| século              | substantivo (masc) | /ˈseku.lu/  | century     | /ˈsɛnʧəri/ | siglo         | /ˈsiɣlo/                    |     |
-| milênio             | substantivo (masc) | /miˈle.nju/ | millennium  | /mɪˈlɛnɪəm/| milenio       | /miˈlenjo/                   |     |
+| segundo             | substantivo (masc) | /seˈɡũdu/  | second      | /ˈsɛkənd/  | segundo       | /seˈɡundo/                  | 2094 |
+| minuto              | substantivo (masc) | /miˈnutu/   | minute      | /ˈmɪnət/   | minuto        | /miˈnuto/                  | 2093 |
+| hora                | substantivo (fem)  | /ˈoɾɐ/      | hour        | /aʊər/     | hora          | /ˈoɾa/                     | 2095 |
+| dia                 | substantivo (masc) | /ˈdiɐ/      | day         | /deɪ/      | día           | /ˈdi.a/                    | 2096 |
+| ano                 | substantivo (masc) | /ˈɐnu/      | year        | /jɪr/      | año           | /ˈaɲo/                     | 2063 |
+| século              | substantivo (masc) | /ˈseku.lu/  | century     | /ˈsɛnʧəri/ | siglo         | /ˈsiɣlo/                   | 2097 |
+| milênio             | substantivo (masc) | /miˈle.nju/ | millennium  | /mɪˈlɛnɪəm/| milenio       | /miˈlenjo/                 | 2098 |
 

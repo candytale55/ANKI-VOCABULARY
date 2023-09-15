@@ -20,9 +20,9 @@
 | janeiro             | substantivo (masc) | /ʒɐˈnejɾu/  | January     | /ˈdʒænjuəri/| enero         | /ˈeneɾo/                 | 2081 |
 | fevereiro           | substantivo (masc) | /feveˈɾejɾu/ | February    | /ˈfɛbruəri/ | febrero       | /ˈfeβɾeɾo/              | 2082 |
 | março               | substantivo (masc) | /ˈmaɾsu/    | March       | /mɑːrtʃ/   | marzo         | /ˈmaɾθo/                  | 2083 |
-| abril               | substantivo (masc) | /ɐˈbɾiɫ/    | April       | /ˈeɪprəl/  | abril         | /aˈβɾil/                  |     |
-| maio                | substantivo (masc) | /ˈmaju/     | May         | /meɪ/       | mayo          | /ˈmaʝo/                     |     |
-| junho               | substantivo (masc) | /ˈʒuɲu/     | June        | /dʒuːn/    | junio         | /ˈxunjo/                    |     |
+| abril               | substantivo (masc) | /ɐˈbɾiɫ/    | April       | /ˈeɪprəl/  | abril         | /aˈβɾil/                  | 2084 |
+| maio                | substantivo (masc) | /ˈmaju/     | May         | /meɪ/       | mayo          | /ˈmaʝo/                  | 2085 |
+| junho               | substantivo (masc) | /ˈʒuɲu/     | June        | /dʒuːn/    | junio         | /ˈxunjo/                  | 2086 |
 | julho               | substantivo (masc) | /ˈʒuʎu/     | July        | /dʒuˈlaɪ/  | julio         | /ˈxuljo/                    |     |
 | agosto              | substantivo (masc) | /ɐˈɡoʃtu/   | August      | /ɑːˈɡʌst/  | agosto        | /aˈɣosto/                   |     |
 | setembro            | substantivo (masc) | /seˈtẽbɾu/  | September   | /sɛpˈtɛmbər/ | septiembre   | /septjemˈbɾe/               |     |

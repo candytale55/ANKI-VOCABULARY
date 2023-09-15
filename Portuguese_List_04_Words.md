@@ -93,7 +93,7 @@ Tomadas de esta URL: https://www.dicio.com.br/lista-de-palavras/
 | agir            | verbo                   | /a.ˈʒiɾ/        | to act                 | /tu ækt/         | actuar                  | /ak'twaɾ/                    |          |
 | ódio            | substantivo (masc)     | /ˈɔ.di.u/       | hatred                 | /ˈheɪ.trɪd/      | odio                    | /'o.djo/                     |          |
 | todo            | pronome, adjetivo (masc)| /ˈto.du/        | all, every             | /ɔl, ˈɛv.ri/     | todo                    | /'to.ðo/                     |          |
-| alto            | adjetivo (masc)         | /ˈaw.tu/        | tall, high             | /tɔl, haɪ/       | alto                    | /'al.to/                     |          |
+| alto            | adjetivo (masc)         | /ˈaw.tu/        | tall, high             | /tɔl, haɪ/       | alto     | /'al.to/     | 2049 |
 | ócio            | substantivo (masc)     | /ˈɔ.sju/        | leisure, idleness      | /ˈliʒər, ˈaɪdəlnəs/ | ocio                    | /'o.sjo/                     |          |
 | rito            | substantivo (masc)     | /ˈɾi.tu/        | rite                   | /raɪt/           | rito                    | /'ri.to/                     |          |
 | eita            | interjeição             | /ˈej.tɐ/        | wow, oh my              | /waʊ, oʊ maɪ/    | ¡wow, oh cielos!       | /'wow, o 'sjelos/            |          |

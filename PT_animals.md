@@ -33,3 +33,35 @@ Sure, here's a list of common animals in Portuguese:
 2. **Cão:** This word is a bit more formal and is often used in written or formal contexts. It's equivalent to "canine" or "canid" in English. You might encounter it in scientific or technical discussions about dogs, or in a more literary style of writing. For example:
    - "O cão é um animal doméstico de quatro patas." (The canine is a domestic four-legged animal.)
    - "Os cães desempenham um papel importante na sociedade." (Dogs play an important role in society.)
+
+## Environments. 
+
+
+| Portuguese      | Tipo de Palavra | IPA          | English       | IPA (USA)  | Spanish      | Spanish IPA | No. |
+|-----------------|-----------------|--------------|---------------|------------|--------------|------------|-----|
+| selva           | substantivo     | /ˈsɛlvə/     | jungle        | /ˈdʒʌŋɡəl/ | selva        | /ˈselva/   |     |
+| floresta   *    | substantivo     | /floˈɾɛʃtə/  | forest        | /ˈfɔrɪst/   | bosque       | /ˈboske/   |     |
+| zoológico       | substantivo     | /zo.oˈlɔʒiku/| zoo           | /zu/       | zoológico    | /θo.oˈloxi̯ko/ |     |
+| fazenda         | substantivo     | /faˈzẽdɐ/    | farm          | /fɑrm/     | granja       | /ˈɡɾaŋxa/  |     |
+| bosque      *   | substantivo     | /ˈboʃki/     | woods         | /wʊdz/     | bosque       | /ˈboske/   |     |
+| tundra          | substantivo     | /ˈtʌndrə/    | tundra        | /ˈtʌndrə/  | tundra       | /ˈtundɾa/  |     |
+| deserto         | substantivo     | /deˈzɛɾtu/   | desert        | /ˈdɛzərt/  | desierto     | /deˈsjerto/|     |
+| oceano          | substantivo     | /oˈseɐ̃w/    | ocean         | /ˈoʊʃən/  | océano       | /oˈθe̯ano/  |     |
+| lago            | substantivo     | /ˈlɐɡu/      | lake          | /leɪk/     | lago         | /ˈlaɣo/    |     |
+| rio             | substantivo     | /ˈʁi.u/      | river         | /ˈrɪvər/   | río          | /ˈri.o/    |     |
+| montanha        | substantivo     | /mõˈtɐ̃ɲɐ/   | mountain      | /ˈmaʊntən/ | montaña      | /monˈtaɲa/  |     |
+
+
+
+"Floresta" and "bosque" both refer to wooded or forested areas, but there are some differences in their usage and connotations.
+
+1. **Floresta (Forest):**
+   - **Size:** "Floresta" typically refers to larger, more extensive forests, often with a greater variety of flora and fauna. It can be used to describe vast forested regions or dense woodlands.
+   - **Connotation:** "Floresta" carries a more formal and grandiose connotation. It is often used in a scientific or environmental context when discussing large-scale ecosystems.
+   - **Example:** The Amazon Rainforest is called "A Floresta Amazônica" in Portuguese.
+
+2. **Bosque (Grove or Wooded Area):**
+   - **Size:** "Bosque" is usually a smaller wooded area or grove. It might refer to a small cluster of trees or a wooded area within a park.
+   - **Connotation:** "Bosque" has a more casual and everyday connotation. It is often used to describe smaller, local wooded areas where people can go for a walk or enjoy nature.
+   - **Example:** A city park with a small forested area might be called "Bosque Municipal."
+

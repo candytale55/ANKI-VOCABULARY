@@ -50,6 +50,10 @@
 
 
 
+## Example phrases:
+
+
+
 1. **Meu pai se chama [Nome do Pai]** - My father's name is [Father's Name].
    - IPA: /mu paɪ se ʃa'ma [No'me du paɪ]/
 

@@ -2,10 +2,10 @@ Sure, here's a list of common animals in Portuguese:
 
 | Portuguese    | Tipo de Palavra  | IPA            | English    | IPA (USA) | Spanish       | Spanish IPA (Latin America) | No. |
 |---------------|------------------|----------------|------------|-----------|---------------|---------------------------|-----|
-| leão          | substantivo (masc) | /leˈɐ̃w/       | lion       | /ˈlaɪən/  | león          | /leˈon/                    |     |
-| cachorro *    | substantivo (masc) | /kaˈʃɔ.ɾu/    | dog        | /dɔɡ/     | perro         | /ˈpero/                    |     |
-| gato          | substantivo (masc) | /ˈɡa.tu/       | cat        | /kæt/     | gato          | /ˈɡato/                    |     |
-| pássaro       | substantivo (masc) | /ˈpa.sa.ɾu/    | bird       | /bɜrd/    | pájaro        | /ˈpaxaɾo/                  |     |
+| leão          | substantivo (masc) | /leˈɐ̃w/       | lion       | /ˈlaɪən/  | león          | /leˈon/                  | 2099 |
+| cachorro *    | substantivo (masc) | /kaˈʃɔ.ɾu/    | dog        | /dɔɡ/     | perro         | /ˈpero/                  | 2100 |
+| gato          | substantivo (masc) | /ˈɡa.tu/       | cat        | /kæt/     | gato          | /ˈɡato/                 | 2101 |
+| pássaro       | substantivo (masc) | /ˈpa.sa.ɾu/    | bird       | /bɜrd/    | pájaro        | /ˈpaxaɾo/               | 2102 |
 | elefante      | substantivo (masc) | /e.leˈfɐ̃.tɨ/ | elephant   | /ˈɛlɪfənt/| elefante      | /eleˈfante/                |     |
 | girafa        | substantivo (fem)  | /ʒiˈɾa.fa/     | giraffe    | /dʒɪˈræf/ | jirafa        | /xiˈɾafa/                  |     |
 | tigre         | substantivo (masc) | /ˈti.ɡɾi/      | tiger      | /ˈtaɪɡɚ/  | tigre         | /ˈtiɡɾe/                   |     |

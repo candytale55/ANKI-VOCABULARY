@@ -111,9 +111,11 @@
 19. **Nossa família é muito unida** - Our family is very close-knit.
     - IPA: /'nosa fa'miʎɐ e 'mjwto u'nidu/
 
+20. **Meus pais são divorciados** - My parents are divorced.
+   - IPA: /mews paɪs sɐ̃w di.vɔɾ.si'adus/
 
-
-
+21. **Meu avô faleceu no ano passado** - My grandfather passed away last year.
+   - IPA: /mu a'vo fa.lɪ'seʊ nu ˈa.nu pa'sa.du/
 
 
 

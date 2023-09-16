@@ -39,9 +39,9 @@ When you meet someone new in Portuguese-speaking countries, it's helpful to have
 35. **Eu já visitei...** - I have been to...
 
 
-With IPA:
+## Help with pronunciation: 
 
-Certainly! Here are the phrases with IPA equivalents included:
+ Here are the phrases with IPA equivalents included:
 
 1. **Olá** - Hello
    - IPA: /oˈla/

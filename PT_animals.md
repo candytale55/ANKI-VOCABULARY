@@ -6,13 +6,13 @@ Sure, here's a list of common animals in Portuguese:
 | cachorro *    | substantivo (masc) | /kaˈʃɔ.ɾu/    | dog        | /dɔɡ/     | perro         | /ˈpero/                  | 2100 |
 | gato          | substantivo (masc) | /ˈɡa.tu/       | cat        | /kæt/     | gato          | /ˈɡato/                 | 2101 |
 | pássaro       | substantivo (masc) | /ˈpa.sa.ɾu/    | bird       | /bɜrd/    | pájaro        | /ˈpaxaɾo/               | 2102 |
-| elefante      | substantivo (masc) | /e.leˈfɐ̃.tɨ/ | elephant   | /ˈɛlɪfənt/| elefante      | /eleˈfante/                |     |
-| girafa        | substantivo (fem)  | /ʒiˈɾa.fa/     | giraffe    | /dʒɪˈræf/ | jirafa        | /xiˈɾafa/                  |     |
-| tigre         | substantivo (masc) | /ˈti.ɡɾi/      | tiger      | /ˈtaɪɡɚ/  | tigre         | /ˈtiɡɾe/                   |     |
-| zebra         | substantivo (fem)  | /ˈze.bɾɐ/      | zebra      | /ˈziːbrə/ | cebra         | /ˈsebɾa/                   |     |
+| elefante      | substantivo (masc) | /e.leˈfɐ̃.tɨ/ | elephant   | /ˈɛlɪfənt/| elefante      | /eleˈfante/               | 2104 |
+| girafa        | substantivo (fem)  | /ʒiˈɾa.fa/     | giraffe    | /dʒɪˈræf/ | jirafa        | /xiˈɾafa/               | 2105 |
+| tigre         | substantivo (masc) | /ˈti.ɡɾi/      | tiger      | /ˈtaɪɡɚ/  | tigre         | /ˈtiɡɾe/                | 2106 |
+| zebra         | substantivo (fem)  | /ˈze.bɾɐ/      | zebra      | /ˈziːbrə/ | cebra         | /ˈsebɾa/                | 2107 |
 | rinoceronte   | substantivo (masc) | /ri.no.se.ˈɾõ.tɨ/ | rhinoceros | /raɪˈnɑsəˌrəs/ | rinoceronte   | /rinoseˈɾonte/             |     |
 | macaco        | substantivo (masc) | /maˈka.ku/     | monkey     | /ˈmʌŋki/  | mono          | /ˈmono/                    |     |
-| cavalo        | substantivo (masc) | /kaˈva.lu/     | horse      | /hɔrs/    | caballo       | /kaˈbaʎo/                  |     |
+| cavalo        | substantivo (masc) | /kaˈva.lu/     | horse      | /hɔrs/    | caballo       | /kaˈbaʎo/                | 2103 |
 | vaca          | substantivo (fem)  | /ˈva.kɐ/       | cow        | /kaʊ/     | vaca          | /ˈbaka/                    |     |
 | porco         | substantivo (masc) | /ˈpoɾ.ku/      | pig        | /pɪɡ/     | cerdo         | /ˈseɾdo/                    |     |
 | ovelha        | substantivo (fem)  | /oˈve.ʎɐ/      | sheep      | /ʃip/     | oveja         | /oˈβexa/                   |     |

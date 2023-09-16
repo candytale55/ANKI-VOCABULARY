@@ -128,9 +128,7 @@ Certainly! Here are the phrases with IPA equivalents included:
     - IPA: /kwaw ˈe u ˈsew ˈʊːbi/
 
 29. **Eu gosto de esportes, música, leitura, etc.** - I like sports, music, reading, etc.
-    - IPA:
-
- /ɛw ˈɡɔs.tʊ̃ dʒi ɛsˈpoɾ.tɨʃ, ˈmu.zi.kɐ, lejˈtu.ɾɐ, ɛtˈse.te.ɾɐ/
+    - IPA:  /ɛw ˈɡɔs.tʊ̃ dʒi ɛsˈpoɾ.tɨʃ, ˈmu.zi.kɐ, lejˈtu.ɾɐ, ɛtˈse.te.ɾɐ/
 
 30. **Você tem irmãos ou irmãs?** - Do you have brothers or sisters?
     - IPA: /ˈve.ju tẽ jɪɾˈmɐ̃w̃z u ɪɾˈmɐ̃s/

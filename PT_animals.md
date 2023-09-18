@@ -38,21 +38,19 @@ Sure, here's a list of common animals in Portuguese:
 
 ## Environments. 
 
-
-| Portuguese      | Tipo de Palavra | IPA          | English       | IPA (USA)  | Spanish      | Spanish IPA | No. |
-|-----------------|-----------------|--------------|---------------|------------|--------------|------------|-----|
-| selva           | substantivo     | /ˈsɛlvə/     | jungle        | /ˈdʒʌŋɡəl/ | selva        | /ˈselva/   |     |
-| floresta   *    | substantivo     | /floˈɾɛʃtə/  | forest        | /ˈfɔrɪst/   | bosque       | /ˈboske/   |     |
-| zoológico       | substantivo     | /zo.oˈlɔʒiku/| zoo           | /zu/       | zoológico    | /θo.oˈloxi̯ko/ |     |
-| fazenda         | substantivo     | /faˈzẽdɐ/    | farm          | /fɑrm/     | granja       | /ˈɡɾaŋxa/  |     |
-| bosque      *   | substantivo     | /ˈboʃki/     | woods         | /wʊdz/     | bosque       | /ˈboske/   |     |
-| tundra          | substantivo     | /ˈtʌndrə/    | tundra        | /ˈtʌndrə/  | tundra       | /ˈtundɾa/  |     |
-| deserto         | substantivo     | /deˈzɛɾtu/   | desert        | /ˈdɛzərt/  | desierto     | /deˈsjerto/|     |
-| oceano          | substantivo     | /oˈseɐ̃w/    | ocean         | /ˈoʊʃən/  | océano       | /oˈθe̯ano/  |     |
-| lago            | substantivo     | /ˈlɐɡu/      | lake          | /leɪk/     | lago         | /ˈlaɣo/    |     |
-| rio             | substantivo     | /ˈʁi.u/      | river         | /ˈrɪvər/   | río          | /ˈri.o/    |     |
-| montanha        | substantivo     | /mõˈtɐ̃ɲɐ/   | mountain      | /ˈmaʊntən/ | montaña      | /monˈtaɲa/  |     |
-
+| Portuguese   | Tipo de Palavra (fem/masc)  | IPA            | English       | IPA (USA)   | Spanish       | Spanish IPA    | No. |
+|--------------|-----------------------------|----------------|---------------|-------------|---------------|----------------|-----|
+| selva        | substantivo (fem)           | /ˈsɛlvə/       | jungle        | /ˈdʒʌŋɡəl/  | selva         | /ˈselva/       | 2119 |
+| floresta     | substantivo (fem)           | /floˈɾɛʃtə/    | forest        | /ˈfɔrɪst/    | bosque        | /ˈboske/       |     |
+| zoológico    | substantivo (masc)          | /zo.oˈlɔʒiku/  | zoo           | /zu/        | zoológico     | /θo.oˈloxi̯ko/ |     |
+| fazenda      | substantivo (fem)           | /faˈzẽdɐ/      | farm          | /fɑrm/      | granja        | /ˈɡɾaŋxa/      |     |
+| bosque       | substantivo (masc)          | /ˈboʃki/       | woods         | /wʊdz/      | bosque        | /ˈboske/       |     |
+| tundra       | substantivo (fem)           | /ˈtʌndrə/      | tundra        | /ˈtʌndrə/   | tundra        | /ˈtundɾa/      |     |
+| deserto      | substantivo (masc)          | /deˈzɛɾtu/     | desert        | /ˈdɛzərt/   | desierto      | /deˈsjerto/    |     |
+| oceano       | substantivo (masc)          | /oˈseɐ̃w/      | ocean         | /ˈoʊʃən/    | océano        | /oˈθe̯ano/     |     |
+| lago         | substantivo (masc)          | /ˈlɐɡu/        | lake          | /leɪk/      | lago          | /ˈlaɣo/       |     |
+| rio          | substantivo (masc)          | /ˈʁi.u/        | river         | /ˈrɪvər/    | río           | /ˈri.o/       |     |
+| montanha     | substantivo (fem)           | /mõˈtɐ̃ɲɐ/     | mountain      | /ˈmaʊntən/  | montaña       | /monˈtaɲa/     |     |
 
 
 "Floresta" and "bosque" both refer to wooded or forested areas, but there are some differences in their usage and connotations.

@@ -19,9 +19,9 @@ Sure, here's a list of common animals in Portuguese:
 | cobra         | substantivo (fem)  | /ˈko.bɾɐ/      | snake      | /sneɪk/   | serpiente     | /serˈpjente/            | 2113 |
 | tubarão       | substantivo (masc) | /tu.baˈɾɐ̃w̃/  | shark      | /ʃɑrk/    | tiburón       | /tiβuˈɾon/                | 2114 |
 | peixe         | substantivo (masc) | /ˈpejʃɨ/       | fish       | /fɪʃ/     | pez           | /pes/                   | 2115 |
-| golfinho      | substantivo (masc) | /ɡowˈfi.ɲu/   | dolphin    | /ˈdɑlfɪn/ | delfín        | /delˈfin/                | |
-| tartaruga     | substantivo (fem)  | /tar.taˈɾu.ɡɐ/ | turtle     | /ˈtɜrtl/  | tortuga       | /torˈtuɣa/              |     |
-| leopardo      | substantivo (masc) | /le.oˈpaɾ.du/  | leopard    | /ˈlɛpərd/ | leopardo      | /leoˈpaɾðo/             |     |
+| golfinho      | substantivo (masc) | /ɡowˈfi.ɲu/   | dolphin    | /ˈdɑlfɪn/ | delfín        | /delˈfin/                | 2116 |
+| tartaruga     | substantivo (fem)  | /tar.taˈɾu.ɡɐ/ | turtle     | /ˈtɜrtl/  | tortuga       | /torˈtuɣa/              | 2117 |
+| leopardo      | substantivo (masc) | /le.oˈpaɾ.du/  | leopard    | /ˈlɛpərd/ | leopardo      | /leoˈpaɾðo/             | 2118 |
 
 
 * In Portuguese, "cachorro" and "cão" both refer to a dog, but they are used slightly differently:

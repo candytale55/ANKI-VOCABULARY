@@ -10,7 +10,7 @@ Sure, here's a list of common animals in Portuguese:
 | girafa        | substantivo (fem)  | /ʒiˈɾa.fa/     | giraffe    | /dʒɪˈræf/ | jirafa        | /xiˈɾafa/               | 2105 |
 | tigre         | substantivo (masc) | /ˈti.ɡɾi/      | tiger      | /ˈtaɪɡɚ/  | tigre         | /ˈtiɡɾe/                | 2106 |
 | zebra         | substantivo (fem)  | /ˈze.bɾɐ/      | zebra      | /ˈziːbrə/ | cebra         | /ˈsebɾa/                | 2107 |
-| rinoceronte   | substantivo (masc) | /ri.no.se.ˈɾõ.tɨ/ | rhinoceros | /raɪˈnɑsəˌrəs/ | rinoceronte   | /rinoseˈɾonte/             |     |
+| rinoceronte   | substantivo (masc) | /ri.no.se.ˈɾõ.tɨ/ | rhinoceros | /raɪˈnɑsəˌrəs/ | rinoceronte   | /rinoseˈɾonte/  | 2108 |
 | macaco        | substantivo (masc) | /maˈka.ku/     | monkey     | /ˈmʌŋki/  | mono          | /ˈmono/                    |     |
 | cavalo        | substantivo (masc) | /kaˈva.lu/     | horse      | /hɔrs/    | caballo       | /kaˈbaʎo/                | 2103 |
 | vaca          | substantivo (fem)  | /ˈva.kɐ/       | cow        | /kaʊ/     | vaca          | /ˈbaka/                    |     |

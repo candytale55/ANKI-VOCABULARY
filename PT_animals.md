@@ -41,8 +41,8 @@ Sure, here's a list of common animals in Portuguese:
 | Portuguese   | Tipo de Palavra (fem/masc)  | IPA            | English       | IPA (USA)   | Spanish       | Spanish IPA    | No. |
 |--------------|-----------------------------|----------------|---------------|-------------|---------------|----------------|-----|
 | selva        | substantivo (fem)           | /ˈsɛlvə/       | jungle        | /ˈdʒʌŋɡəl/  | selva         | /ˈselva/       | 2119 |
-| floresta     | substantivo (fem)           | /floˈɾɛʃtə/    | forest        | /ˈfɔrɪst/    | bosque        | /ˈboske/       |     |
-| zoológico    | substantivo (masc)          | /zo.oˈlɔʒiku/  | zoo           | /zu/        | zoológico     | /θo.oˈloxi̯ko/ |     |
+| floresta     | substantivo (fem)           | /floˈɾɛʃtə/    | forest        | /ˈfɔrɪst/    | bosque        | /ˈboske/      | 2120 |
+| zoológico    | substantivo (masc)          | /zo.oˈlɔʒiku/  | zoo           | /zu/        | zoológico     | /θo.oˈloxi̯ko/  | 2121 |
 | fazenda      | substantivo (fem)           | /faˈzẽdɐ/      | farm          | /fɑrm/      | granja        | /ˈɡɾaŋxa/      |     |
 | bosque       | substantivo (masc)          | /ˈboʃki/       | woods         | /wʊdz/      | bosque        | /ˈboske/       |     |
 | tundra       | substantivo (fem)           | /ˈtʌndrə/      | tundra        | /ˈtʌndrə/   | tundra        | /ˈtundɾa/      |     |

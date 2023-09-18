@@ -11,17 +11,17 @@ Sure, here's a list of common animals in Portuguese:
 | tigre         | substantivo (masc) | /ˈti.ɡɾi/      | tiger      | /ˈtaɪɡɚ/  | tigre         | /ˈtiɡɾe/                | 2106 |
 | zebra         | substantivo (fem)  | /ˈze.bɾɐ/      | zebra      | /ˈziːbrə/ | cebra         | /ˈsebɾa/                | 2107 |
 | rinoceronte   | substantivo (masc) | /ri.no.se.ˈɾõ.tɨ/ | rhinoceros | /raɪˈnɑsəˌrəs/ | rinoceronte   | /rinoseˈɾonte/  | 2108 |
-| macaco        | substantivo (masc) | /maˈka.ku/     | monkey     | /ˈmʌŋki/  | mono          | /ˈmono/                    |     |
-| cavalo        | substantivo (masc) | /kaˈva.lu/     | horse      | /hɔrs/    | caballo       | /kaˈbaʎo/                | 2103 |
-| vaca          | substantivo (fem)  | /ˈva.kɐ/       | cow        | /kaʊ/     | vaca          | /ˈbaka/                    |     |
-| porco         | substantivo (masc) | /ˈpoɾ.ku/      | pig        | /pɪɡ/     | cerdo         | /ˈseɾdo/                    |     |
-| ovelha        | substantivo (fem)  | /oˈve.ʎɐ/      | sheep      | /ʃip/     | oveja         | /oˈβexa/                   |     |
-| cobra         | substantivo (fem)  | /ˈko.bɾɐ/      | snake      | /sneɪk/   | serpiente     | /serˈpjente/               |     |
-| tubarão       | substantivo (masc) | /tu.baˈɾɐ̃w̃/  | shark      | /ʃɑrk/    | tiburón       | /tiβuˈɾon/                 |     |
-| peixe         | substantivo (masc) | /ˈpejʃɨ/       | fish       | /fɪʃ/     | pez           | /pes/                      |     |
-| golfinho      | substantivo (masc) | /ɡowˈfi.ɲu/   | dolphin    | /ˈdɑlfɪn/ | delfín        | /delˈfin/                  |     |
-| tartaruga     | substantivo (fem)  | /tar.taˈɾu.ɡɐ/ | turtle     | /ˈtɜrtl/  | tortuga       | /torˈtuɣa/                 |     |
-| leopardo      | substantivo (masc) | /le.oˈpaɾ.du/  | leopard    | /ˈlɛpərd/ | leopardo      | /leoˈpaɾðo/                |     |
+| macaco        | substantivo (masc) | /maˈka.ku/     | monkey     | /ˈmʌŋki/  | mono          | /ˈmono/                 | 2109 |
+| cavalo        | substantivo (masc) | /kaˈva.lu/     | horse      | /hɔrs/    | caballo       | /kaˈbaʎo/               | 2103 |
+| vaca          | substantivo (fem)  | /ˈva.kɐ/       | cow        | /kaʊ/     | vaca          | /ˈbaka/                 | 2110 |
+| porco         | substantivo (masc) | /ˈpoɾ.ku/      | pig        | /pɪɡ/     | cerdo         | /ˈseɾdo/                | 2112 |
+| ovelha        | substantivo (fem)  | /oˈve.ʎɐ/      | sheep      | /ʃip/     | oveja         | /oˈβexa/                | 2111 |
+| cobra         | substantivo (fem)  | /ˈko.bɾɐ/      | snake      | /sneɪk/   | serpiente     | /serˈpjente/            | 2113 |
+| tubarão       | substantivo (masc) | /tu.baˈɾɐ̃w̃/  | shark      | /ʃɑrk/    | tiburón       | /tiβuˈɾon/                | 2114 |
+| peixe         | substantivo (masc) | /ˈpejʃɨ/       | fish       | /fɪʃ/     | pez           | /pes/                   | 2115 |
+| golfinho      | substantivo (masc) | /ɡowˈfi.ɲu/   | dolphin    | /ˈdɑlfɪn/ | delfín        | /delˈfin/                | |
+| tartaruga     | substantivo (fem)  | /tar.taˈɾu.ɡɐ/ | turtle     | /ˈtɜrtl/  | tortuga       | /torˈtuɣa/              |     |
+| leopardo      | substantivo (masc) | /le.oˈpaɾ.du/  | leopard    | /ˈlɛpərd/ | leopardo      | /leoˈpaɾðo/             |     |
 
 
 * In Portuguese, "cachorro" and "cão" both refer to a dog, but they are used slightly differently:
@@ -33,6 +33,8 @@ Sure, here's a list of common animals in Portuguese:
 2. **Cão:** This word is a bit more formal and is often used in written or formal contexts. It's equivalent to "canine" or "canid" in English. You might encounter it in scientific or technical discussions about dogs, or in a more literary style of writing. For example:
    - "O cão é um animal doméstico de quatro patas." (The canine is a domestic four-legged animal.)
    - "Os cães desempenham um papel importante na sociedade." (Dogs play an important role in society.)
+  
+
 
 ## Environments. 
 

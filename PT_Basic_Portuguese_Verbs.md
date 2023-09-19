@@ -1,5 +1,7 @@
 
 ## Ser (to be)
+(used for permanent characteristics)
+
 
 | Present | Past | Future |
 | --- | --- | --- |
@@ -9,6 +11,19 @@
 | **Nós somos** uma equipe. | **Nós fomos** ao cinema na semana passada. | **Nós seremos** felizes juntos. |
 | **Vocês são** estudantes. | **Vocês foram** ao concerto na sexta-feira. | **Vocês serão** líderes. |
 | **Eles são** artistas talentosos. | **Eles foram** ao museu de arte ontem. | **Eles serão** famosos um dia. |
+
+
+## Estar (to be) 
+(used for temporary states)
+
+| Present | Past | Future |
+| --- | --- | --- |
+| **Eu estou** cansado hoje. | **Eu estive** no cinema ontem. | **Eu estarei** em casa à noite. |
+| **Tu estás** ocupado agora. | **Tu estiveste** na escola ontem. | **Tu estarás** na festa amanhã. |
+| **Você está** feliz hoje. | **Você esteve** no trabalho ontem. | **Você estará** de férias em breve. |
+| **Nós estamos** no parque. | **Nós estivemos** no restaurante ontem. | **Nós estaremos** prontos amanhã. |
+| **Vocês estão** ocupados. | **Vocês estiveram** na reunião ontem. | **Vocês estarão** no evento na sexta-feira. |
+| **Eles estão** com fome. | **Eles estiveram** no museu de arte ontem. | **Eles estarão** na festa de aniversário. |
 
 
 

@@ -47,10 +47,10 @@ Sure, here's a list of common animals in Portuguese:
 | bosque       | substantivo (masc)          | /ˈboʃki/       | woods         | /wʊdz/      | bosque        | /ˈboske/       | 2123 |
 | tundra       | substantivo (fem)           | /ˈtʌndrə/      | tundra        | /ˈtʌndrə/   | tundra        | /ˈtundɾa/      | 2124 |
 | deserto      | substantivo (masc)          | /deˈzɛɾtu/     | desert        | /ˈdɛzərt/   | desierto      | /deˈsjerto/    | 2125 |
-| oceano       | substantivo (masc)          | /oˈseɐ̃w/      | ocean         | /ˈoʊʃən/    | océano        | /oˈθe̯ano/     |     |
-| lago         | substantivo (masc)          | /ˈlɐɡu/        | lake          | /leɪk/      | lago          | /ˈlaɣo/       |     |
-| rio          | substantivo (masc)          | /ˈʁi.u/        | river         | /ˈrɪvər/    | río           | /ˈri.o/       |     |
-| montanha     | substantivo (fem)           | /mõˈtɐ̃ɲɐ/     | mountain      | /ˈmaʊntən/  | montaña       | /monˈtaɲa/     |     |
+| oceano       | substantivo (masc)          | /oˈseɐ̃w/      | ocean         | /ˈoʊʃən/    | océano        | /oˈθe̯ano/       | 2126 |
+| lago         | substantivo (masc)          | /ˈlɐɡu/        | lake          | /leɪk/      | lago          | /ˈlaɣo/        | 2127 |
+| rio          | substantivo (masc)          | /ˈʁi.u/        | river         | /ˈrɪvər/    | río           | /ˈri.o/        | 2044 |
+| montanha     | substantivo (fem)           | /mõˈtɐ̃ɲɐ/     | mountain      | /ˈmaʊntən/  | montaña       | /monˈtaɲa/      | 2128 |
 
 
 "Floresta" and "bosque" both refer to wooded or forested areas, but there are some differences in their usage and connotations.

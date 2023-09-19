@@ -65,3 +65,9 @@ Sure, here's a list of common animals in Portuguese:
    - **Connotation:** "Bosque" has a more casual and everyday connotation. It is often used to describe smaller, local wooded areas where people can go for a walk or enjoy nature.
    - **Example:** A city park with a small forested area might be called "Bosque Municipal."
 
+
+The same happens in English:
+
+**Forest:** A "forest" typically denotes a large, dense area covered with trees, often with a formal or official connotation. Forests are expansive natural areas associated with significant ecological and conservation value, such as the Amazon Rainforest or the Black Forest in
+
+**Woods:** "Woods" refer to smaller, less dense areas covered with trees, often used in a more informal context. It commonly describes smaller, local wooded areas or patches of trees, like a neighborhood woods or a nearby forested area. "Woods" are usually used for recreational purposes, like hiking or birdwatching, and may be found closer to urban or suburban areas. While forests are substantial natural reserves, woods are more intimate, often serving as peaceful retreats within or near communities.

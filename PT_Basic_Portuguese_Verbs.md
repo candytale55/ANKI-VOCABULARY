@@ -26,9 +26,20 @@
 | **Eles estão** com fome. | **Eles estiveram** no museu de arte ontem. | **Eles estarão** na festa de aniversário. |
 
 
+## Ter (to have)
+
+| Present | Past | Future |
+| --- | --- | --- |
+| **Eu tenho** um carro novo. | **Eu tive** uma ideia brilhante ontem. | **Eu terei** um ótimo dia amanhã. |
+| **Tu tens** um bom gosto. | **Tu tiveste** uma infância incrível. | **Tu terás** muito sucesso. |
+| **Você tem** um compromisso hoje. | **Você teve** uma reunião importante ontem. | **Você terá** uma entrevista amanhã. |
+| **Nós temos** uma família amorosa. | **Nós tivemos** um final de semana divertido. | **Nós teremos** uma festa em casa. |
+| **Vocês têm** muitos amigos. | **Vocês tiveram** uma viagem incrível. | **Vocês terão** uma viagem de férias. |
+| **Eles têm** uma casa bonita. | **Eles tiveram** um jantar delicioso. | **Eles terão** um novo negócio.
 
 
-## It (to go)
+
+## Ir (to go)
 
 | Present | Past  | Future  |
 | ------- | ----- | ------- |
@@ -42,8 +53,6 @@
 
 
 
-
-
 ## Fazer (to do/make)
 
 | Present | Past | Future |
@@ -54,3 +63,40 @@
 | **Nós fazemos** um churrasco no sábado. | **Nós fizemos** um filme ontem. | **Nós faremos** uma viagem no próximo mês. |
 | **Vocês fazem** exercícios juntos. | **Vocês fizeram** um curso ontem. | **Vocês farão** uma festa na sexta-feira. |
 | **Eles fazem** arte nas aulas. | **Eles fizeram** um acordo ontem. | **Eles farão** uma surpresa de aniversário. |
+
+
+## Vir (to come)
+
+| Present | Past | Future |
+| --- | --- | --- |
+| **Eu venho** de casa todos os dias. | **Eu vim** à festa ontem. | **Eu virei** à reunião no próximo fim de semana. |
+| **Tu vens** ao trabalho de manhã. | **Tu vieste** ao cinema ontem. | **Tu virás** à aula amanhã. |
+| **Você vem** ao mercado agora. | **Você veio** à minha casa ontem. | **Você virá** ao concerto mais tarde. |
+| **Nós vimos** da escola. | **Nós viemos** ao parque no fim de semana passado. | **Nós viremos** à praia amanhã. |
+| **Vocês vêm** à festa no sábado. | **Vocês vieram** à reunião na semana passada. | **Vocês virão** ao teatro na sexta-feira. |
+| **Eles vêm** ao museu de arte. | **Eles vieram** ao restaurante na sexta-feira. | **Eles virão** à festa de aniversário. |
+
+
+## Ver (to see)
+
+| Present | Past | Future |
+| --- | --- | --- |
+| **Eu vejo** um filme toda noite. | **Eu vi** aquela série ontem. | **Eu verei** o pôr do sol amanhã. |
+| **Tu vês** muitos programas de TV. | **Tu viste** esse show na TV? | **Tu verás** o resultado em breve. |
+| **Você vê** o mar daqui. | **Você viu** as fotos que enviei? | **Você verá** o novo filme? |
+| **Nós vemos** nossos amigos todo fim de semana. | **Nós vimos** um ótimo concerto na semana passada. | **Nós veremos** o jogo no estádio. |
+| **Vocês veem** bem de perto. | **Vocês viram** o eclipse? | **Vocês verão** as estrelas à noite. |
+| **Eles veem** as aves voando. | **Eles viram** um cometa raro. | **Eles verão** o eclipse solar. |
+
+
+## Poder (can / to be able)
+
+| Present | Past | Future |
+| --- | --- | --- |
+| **Eu posso** ajudar você. | **Eu pude** resolver o problema. | **Eu poderei** te acompanhar amanhã. |
+| **Tu podes** aprender rápido. | **Tu pudeste** vencer o desafio. | **Tu poderás** alcançar seus objetivos. |
+| **Você pode** fazer isso. | **Você pôde** concluir o projeto. | **Você poderá** ter sucesso. |
+| **Nós podemos** trabalhar juntos. | **Nós pudemos** superar as dificuldades. | **Nós poderemos** realizar grandes coisas. |
+| **Vocês podem** participar também. | **Vocês puderam** comparecer à reunião. | **Vocês poderão** contribuir com suas ideias. |
+| **Eles podem** resolver o problema. | **Eles puderam** encontrar a solução. | **Eles poderão** colaborar no projeto. |
+

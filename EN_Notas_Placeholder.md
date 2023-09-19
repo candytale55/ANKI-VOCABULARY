@@ -60,11 +60,9 @@ Certainly! Here's a list of some of the most basic and commonly used verbs in Po
 These verbs are fundamental for everyday communication in Portuguese. They cover a wide range of actions and are essential for building sentences and expressing yourself in various situations.
 
 
+## PROMPT FOR VERBS
 
-Certainly! Here's a sample prompt for creating a verb conjugation table for the verb "Ir" (to go) in Portuguese:
-
-
-I would like to create a table that displays verb conjugations in Portuguese for the verb "Fazer" (to do / make). The table should include three columns: Present, Past, and Future. Each cell within these columns should contain a complete sentence in Portuguese. The pronoun and verb form should be bold. Here's an example of what I'm looking for using the verb Ir (to go):
+I would like to create a table that displays verb conjugations in Portuguese for the verb "poder" (can/to be able to). The table should include three columns: Present, Past, and Future. Each cell within these columns should contain a complete sentence in Portuguese. The pronoun and verb form should be bold. Here's an example of what I'm looking for using the verb Ir (to go):
 
 | Present | Past | Future |
 | --- | --- | --- |
@@ -75,7 +73,7 @@ I would like to create a table that displays verb conjugations in Portuguese for
 | **Vocês vão** à praia no verão. | **Vocês foram** ao concerto na semana passada. | **Vocês irão** ao teatro na sexta-feira. |
 | **Eles vão** ao museu de arte. | **Eles foram** ao restaurante na sexta-feira. | **Eles irão** à festa de aniversário. |
 
-Please use this format to create the table for the verb "fazer." Change the sentences examples to sentence commonly used in Brazilian Portuguese.  Thank you!
+Please use this format to create the table for the verb "poder." Change the sentences examples to sentence commonly used in Brazilian Portuguese.  Thank you!
 
 
 

@@ -1,4 +1,17 @@
 
+## Ser (to be)
+
+| Present | Past | Future |
+| --- | --- | --- |
+| **Eu sou** brasileiro. | **Eu fui** ao mercado ontem. | **Eu serei** médico no futuro. |
+| **Tu és** meu amigo. | **Tu foste** muito gentil ontem. | **Tu serás** um grande escritor. |
+| **Você é** inteligente. | **Você foi** à escola hoje cedo. | **Você será** bem-sucedido. |
+| **Nós somos** uma equipe. | **Nós fomos** ao cinema na semana passada. | **Nós seremos** felizes juntos. |
+| **Vocês são** estudantes. | **Vocês foram** ao concerto na sexta-feira. | **Vocês serão** líderes. |
+| **Eles são** artistas talentosos. | **Eles foram** ao museu de arte ontem. | **Eles serão** famosos um dia. |
+
+
+
 
 ## It (to go)
 

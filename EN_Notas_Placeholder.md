@@ -61,8 +61,8 @@ These verbs are fundamental for everyday communication in Portuguese. They cover
 
 
 ## PROMPT FOR VERBS
-
-I would like to create a table that displays verb conjugations in Portuguese for the verb "poder" (can/to be able to). The table should include three columns: Present, Past, and Future. Each cell within these columns should contain a complete sentence in Portuguese. The pronoun and verb form should be bold. Here's an example of what I'm looking for using the verb Ir (to go):
+´´´
+I would like to create a table that displays verb conjugations in Portuguese for the verb "trabalhar" (to work). The table should include three columns: Present, Past, and Future. Each cell within these columns should contain a complete sentence in Portuguese. The pronoun and verb form should be bold. Here's an example of what I'm looking for using the verb Ir (to go):
 
 | Present | Past | Future |
 | --- | --- | --- |
@@ -73,9 +73,9 @@ I would like to create a table that displays verb conjugations in Portuguese for
 | **Vocês vão** à praia no verão. | **Vocês foram** ao concerto na semana passada. | **Vocês irão** ao teatro na sexta-feira. |
 | **Eles vão** ao museu de arte. | **Eles foram** ao restaurante na sexta-feira. | **Eles irão** à festa de aniversário. |
 
-Please use this format to create the table for the verb "poder." Change the sentences examples to sentence commonly used in Brazilian Portuguese.  Thank you!
+Please use this format to create the table for the verb "trabalhar." Change the sentences examples to sentence commonly used in Brazilian Portuguese.  Thank you!
 
-
+´´´
 
 
 You can use this prompt as a template for requesting similar tables for other verbs, just make sure to replace "Ir" with the verb you want to conjugate.

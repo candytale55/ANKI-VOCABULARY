@@ -123,3 +123,27 @@
 | **Nós queremos** um novo carro. | **Nós quisemos** sair cedo. | **Nós quereremos** estudar mais. |
 | **Vocês querem** conhecer o Brasil. | **Vocês quiseram** experimentar a comida. | **Vocês quererão** visitar as praias. |
 | **Eles querem** sucesso na vida. | **Eles quiseram** uma resposta rápida. | **Eles quererão** descansar amanhã. |
+
+
+## Gostar (to like)
+
+| Present | Past | Future |
+| --- | --- | --- |
+| **Eu gosto** de música brasileira. | **Eu gostei** do filme ontem. | **Eu gostarei** do show no sábado. |
+| **Tu gostas** de ler. | **Tu gostaste** da comida no restaurante. | **Tu gostarás** do livro que vou te dar. |
+| **Você gosta** de praia. | **Você gostou** da festa de aniversário. | **Você gostará** do passeio. |
+| **Nós gostamos** de viajar. | **Nós gostamos** da viagem na semana passada. | **Nós gostaremos** do concerto. |
+| **Vocês gostam** de futebol. | **Vocês gostaram** da exposição de arte. | **Vocês gostarão** do parque. |
+| **Eles gostam** de estudar. | **Eles gostaram** das aulas de música. | **Eles gostarão** do museu. |
+
+
+## Comer (to eat)
+
+| Present | Past | Future |
+| --- | --- | --- |
+| **Eu como** pizza no almoço. | **Eu comi** um sanduíche ontem. | **Eu comerei** sushi amanhã. |
+| **Tu comes** frutas de manhã. | **Tu comeste** carne no jantar. | **Tu comerás** um bolo mais tarde. |
+| **Você come** salada no almoço. | **Você comeu** peixe no restaurante. | **Você comerá** uma sobremesa depois. |
+| **Nós comemos** comida caseira. | **Nós comemos** um prato típico na viagem. | **Nós comeremos** na churrascaria. |
+| **Vocês comem** lanches à noite. | **Vocês comeram** no novo restaurante. | **Vocês comerão** no café da manhã. |
+| **Eles comem** churrasco aos domingos. | **Eles comeram** comida japonesa ontem. | **Eles comerão** na festa de aniversário. |

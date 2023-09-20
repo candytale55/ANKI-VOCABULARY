@@ -147,3 +147,28 @@
 | **Nós comemos** comida caseira. | **Nós comemos** um prato típico na viagem. | **Nós comeremos** na churrascaria. |
 | **Vocês comem** lanches à noite. | **Vocês comeram** no novo restaurante. | **Vocês comerão** no café da manhã. |
 | **Eles comem** churrasco aos domingos. | **Eles comeram** comida japonesa ontem. | **Eles comerão** na festa de aniversário. |
+
+
+## Beber (to drink)
+
+| Present | Past | Future |
+| --- | --- | --- |
+| **Eu bebo** água todos os dias. | **Eu bebi** um suco de laranja ontem. | **Eu beberei** um refrigerante amanhã. |
+| **Tu bebes** café de manhã. | **Tu bebeste** um coquetel na festa. | **Tu beberás** um chá mais tarde. |
+| **Você bebe** um copo de leite à noite. | **Você bebeu** um vinho no jantar. | **Você beberá** um shake no lanche. |
+| **Nós bebemos** cerveja no bar. | **Nós bebemos** água mineral na praia. | **Nós beberemos** um coque no parque. |
+| **Vocês bebem** refrigerante no verão. | **Vocês beberam** um drinque na balada. | **Vocês beberão** um smoothie na academia. |
+| **Eles bebem** sucos naturais. | **Eles beberam** um chopp no happy hour. | **Eles beberão** um café no trabalho. |
+
+
+## Dizer (to say)
+
+| Present | Past | Future |
+| --- | --- | --- |
+| **Eu digo** a verdade sempre. | **Eu disse** que ia chegar cedo. | **Eu direi** o que penso no futuro. |
+| **Tu dizes** coisas interessantes. | **Tu disseste** que gostavas de viajar. | **Tu dirás** algo importante amanhã. |
+| **Você diz** palavras sábias. | **Você disse** que estava ocupado. | **Você dirá** algo bonito no discurso. |
+| **Nós dizemos** que te apoiamos. | **Nós dissemos** que estaríamos lá. | **Nós diremos** o que decidirmos. |
+| **Vocês dizem** histórias engraçadas. | **Vocês disseram** que viriam nos visitar. | **Vocês dirão** como se sentem. |
+| **Eles dizem** piadas engraçadas. | **Eles disseram** que gostaram do filme. | **Eles dirão** a verdade no interrogatório. |
+

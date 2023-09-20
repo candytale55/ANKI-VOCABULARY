@@ -172,3 +172,72 @@
 | **Vocês dizem** histórias engraçadas. | **Vocês disseram** que viriam nos visitar. | **Vocês dirão** como se sentem. |
 | **Eles dizem** piadas engraçadas. | **Eles disseram** que gostaram do filme. | **Eles dirão** a verdade no interrogatório. |
 
+## Ouvir (to hear)
+
+| Present | Past | Future |
+| --- | --- | --- |
+| **Eu ouço** música todos os dias. | **Eu ouvi** um barulho estranho ontem. | **Eu ouvirei** a rádio mais tarde. |
+| **Tu ouves** o que ele diz? | **Tu ouviste** a notícia? | **Tu ouvirás** a entrevista amanhã. |
+| **Você ouve** bem com esses fones? | **Você ouviu** a campainha? | **Você ouvirá** o anúncio em breve. |
+| **Nós ouvimos** as ondas do mar. | **Nós ouvimos** uma bela canção. | **Nós ouviremos** o discurso do presidente. |
+| **Vocês ouvem** o som da chuva? | **Vocês ouviram** as sirenes? | **Vocês ouvirão** o concerto no sábado. |
+| **Eles ouvem** o professor atentamente. | **Eles ouviram** uma história emocionante. | **Eles ouvirão** o relatório do projeto. |
+
+## Chegar (to arrive)
+
+| Present | Past | Future |
+| --- | --- | --- |
+| **Eu chego** cedo ao trabalho todos os dias. | **Eu cheguei** à festa ontem. | **Eu chegarei** ao aeroporto no próximo fim de semana. |
+| **Tu chegas** à escola de manhã cedo. | **Tu chegaste** à reunião a tempo. | **Tu chegarás** ao evento amanhã. |
+| **Você chega** à estação de trem agora. | **Você chegou** à praia ontem à tarde. | **Você chegará** ao hotel mais tarde. |
+| **Nós chegamos** ao restaurante antes das 8. | **Nós chegamos** ao teatro na sexta-feira passada. | **Nós chegaremos** ao parque amanhã. |
+| **Vocês chegam** à cidade no verão. | **Vocês chegaram** ao museu na semana passada. | **Vocês chegarão** à festa de aniversário no sábado. |
+| **Eles chegam** à estação de ônibus. | **Eles chegaram** ao escritório na segunda-feira. | **Eles chegarão** ao museu de arte. |
+
+
+## Partir (to leave/depart)
+
+| Present | Past | Future |
+| --- | --- | --- |
+| **Eu parto** cedo para o trabalho todos os dias. | **Eu parti** da festa ontem. | **Eu partirei** para a praia no próximo fim de semana. |
+| **Tu partes** da escola de manhã. | **Tu partiste** do cinema ontem. | **Tu partirás** para o parque amanhã. |
+| **Você parte** para a reunião agora. | **Você partiu** da festa ontem. | **Você partirá** para o mercado mais tarde. |
+| **Nós partimos** para o mercado juntos. | **Nós partimos** do parque no fim de semana passado. | **Nós partiremos** para o restaurante amanhã. |
+| **Vocês partem** para a praia no verão. | **Vocês partiram** do concerto na semana passada. | **Vocês partirão** para o teatro na sexta-feira. |
+| **Eles partem** do museu de arte. | **Eles partiram** do restaurante na sexta-feira. | **Eles partirão** para a festa de aniversário. |
+
+
+## Andar (to walk)
+
+| Present | Past | Future |
+| --- | --- | --- |
+| **Eu ando** até o trabalho todos os dias. | **Eu andei** até o parque ontem. | **Eu irei** até a praia no próximo fim de semana. |
+| **Tu andas** até a escola de manhã. | **Tu andaste** até o mercado ontem. | **Tu irás** até o parque amanhã. |
+| **Você anda** até a reunião agora. | **Você andou** até a festa ontem. | **Você irá** até o mercado mais tarde. |
+| **Nós andamos** até o mercado juntos. | **Nós andamos** até o museu no fim de semana passado. | **Nós iremos** até o restaurante amanhã. |
+| **Vocês andam** até a praia no verão. | **Vocês andaram** até o concerto na semana passada. | **Vocês irão** até o teatro na sexta-feira. |
+| **Eles andam** até o centro da cidade. | **Eles andaram** até o restaurante na sexta-feira. | **Eles irão** até a festa de aniversário. |
+
+
+## Correr (to run)
+
+| Present | Past | Future |
+| --- | --- | --- |
+| **Eu corro** no parque todas as manhãs. | **Eu corri** na corrida de ontem. | **Eu correrei** na maratona no próximo mês. |
+| **Tu corres** muito rápido. | **Tu correste** no campeonato ontem. | **Tu correrás** na pista amanhã. |
+| **Você corre** todos os dias. | **Você correu** na praia ontem. | **Você correrá** na trilha mais tarde. |
+| **Nós corremos** juntos no parque. | **Nós corremos** na maratona no fim de semana passado. | **Nós correremos** na corrida de caridade amanhã. |
+| **Vocês correm** no clube de corrida. | **Vocês correram** na pista na semana passada. | **Vocês correrão** na competição no sábado. |
+| **Eles correm** no parque todos os dias. | **Eles correram** na corrida beneficente na sexta-feira. | **Eles correrão** na meia-maratona no próximo mês. |
+
+
+## Trabalhar (to work)
+
+| Presente | Passado | Futuro |
+| --- | --- | --- |
+| **Eu trabalho** no escritório todos os dias. | **Eu trabalhei** até tarde ontem. | **Eu trabalharei** no projeto na próxima semana. |
+| **Tu trabalhas** com computadores. | **Tu trabalhaste** muito na semana passada. | **Tu trabalharás** no novo projeto amanhã. |
+| **Você trabalha** em uma empresa multinacional. | **Você trabalhou** no projeto importante ontem. | **Você trabalhará** no escritório até mais tarde. |
+| **Nós trabalhamos** juntos na mesma equipe. | **Nós trabalhamos** na startup no ano passado. | **Nós trabalharemos** no relatório na próxima segunda-feira. |
+| **Vocês trabalham** muito para alcançar seus objetivos. | **Vocês trabalharam** duro na última semana. | **Vocês trabalharão** no novo projeto da empresa. |
+| **Eles trabalham** em diferentes setores. | **Eles trabalharam** até tarde ontem. | **Eles trabalharão** no evento amanhã. |

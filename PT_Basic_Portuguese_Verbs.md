@@ -111,3 +111,15 @@
 | **Nós sabemos** tocar violão. | **Nós soubemos** a história completa. | **Nós saberemos** a hora exata. |
 | **Vocês sabem** dançar salsa. | **Vocês souberam** a notícia. | **Vocês saberão** a decisão em breve. |
 | **Eles sabem** tudo sobre tecnologia. | **Eles souberam** da festa. | **Eles saberão** as regras do jogo. |
+
+
+## Querer (to want)
+
+| Present | Past | Future |
+| --- | --- | --- |
+| **Eu quero** um café agora. | **Eu quis** um bolo ontem. | **Eu quererei** um sorvete depois. |
+| **Tu queres** aprender português. | **Tu quiseste** um presente no Natal. | **Tu quererás** uma pizza mais tarde. |
+| **Você quer** assistir ao filme. | **Você quis** ir à festa. | **Você quererá** viajar pelo mundo. |
+| **Nós queremos** um novo carro. | **Nós quisemos** sair cedo. | **Nós quereremos** estudar mais. |
+| **Vocês querem** conhecer o Brasil. | **Vocês quiseram** experimentar a comida. | **Vocês quererão** visitar as praias. |
+| **Eles querem** sucesso na vida. | **Eles quiseram** uma resposta rápida. | **Eles quererão** descansar amanhã. |

@@ -100,3 +100,14 @@
 | **Vocês podem** participar também. | **Vocês puderam** comparecer à reunião. | **Vocês poderão** contribuir com suas ideias. |
 | **Eles podem** resolver o problema. | **Eles puderam** encontrar a solução. | **Eles poderão** colaborar no projeto. |
 
+
+## Saber (to know)
+
+| Present | Past | Future |
+| --- | --- | --- |
+| **Eu sei** falar inglês. | **Eu soube** a resposta na escola. | **Eu saberei** a resposta amanhã. |
+| **Tu sabes** nadar muito bem. | **Tu soubeste** a verdade mais cedo. | **Tu saberás** mais no futuro. |
+| **Você sabe** cozinhar pratos deliciosos. | **Você soube** do evento ontem. | **Você saberá** o resultado em breve. |
+| **Nós sabemos** tocar violão. | **Nós soubemos** a história completa. | **Nós saberemos** a hora exata. |
+| **Vocês sabem** dançar salsa. | **Vocês souberam** a notícia. | **Vocês saberão** a decisão em breve. |
+| **Eles sabem** tudo sobre tecnologia. | **Eles souberam** da festa. | **Eles saberão** as regras do jogo. |

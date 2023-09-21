@@ -42,3 +42,28 @@
 | século              | substantivo (masc) | /ˈseku.lu/  | century     | /ˈsɛnʧəri/ | siglo         | /ˈsiɣlo/                   | 2097 |
 | milênio             | substantivo (masc) | /miˈle.nju/ | millennium  | /mɪˈlɛnɪəm/| milenio       | /miˈlenjo/                 | 2098 |
 
+
+
+| Portuguese        | Tipo de Palavra  | IPA        | English         | IPA (USA)   | Spanish       | Spanish IPA  | No. |
+|-------------------|------------------|------------|-----------------|-------------|---------------|-------------|-----|
+| ontem             | advérbio         | /õʃˈtẽ/   | yesterday      | /ˈjɛstərˌdeɪ/ | ayer          | /aˈʝeɾ/      |     |
+| hoje              | advérbio         | /ˈoʒi/     | today           | /təˈdeɪ/     | hoy           | /oɪ/         |     |
+| amanhã            | advérbio         | /ɐˈmɐɲ.ʊ/  | tomorrow        | /təˈmɑˌroʊ/ | mañana        | /maˈɲana/    |     |
+| cedo              | advérbio         | /ˈse.ðu/   | early           | /ˈɜrli/      | temprano      | /temˈpɾano/  |     |
+| tarde             | substantivo (fem)| /ˈtaɾ.dɪ/  | late (afternoon)| /leɪt/       | tarde         | /ˈtarde/     |     |
+| tarde             | advérbio         | /ˈtaɾ.dɪ/  | late (evening)  | /leɪt/       | tarde         | /ˈtarde/     |     |
+| tarde             | advérbio         | /ˈtaɾ.dɪ/  | late (late)     | /leɪt/       | tarde         | /ˈtarde/     |     |
+| manhã             | substantivo (fem)| /mɐˈɲɐ̃/  | morning         | /ˈmɔrnɪŋ/   | mañana        | /maˈɲana/    |     |
+| noite             | substantivo (fem)| /ˈnɔɪ.tɪ/  | night           | /naɪt/       | noche         | /ˈnoʧe/      |     |
+| noite             | advérbio         | /ˈnɔɪ.tɪ/  | at night        | /æt naɪt/    | de noche      | /de ˈnoʧe/   |     |
+| noite             | advérbio         | /ˈnɔɪ.tɪ/  | in the evening  | /ɪn ðə ˈivnɪŋ/ | por la tarde | /poɾ la ˈtarde/ |     |
+| noite             | advérbio         | /ˈnɔɪ.tɪ/  | at night (late) | /æt naɪt/    | de noche      | /de ˈnoʧe/   |     |
+| noite             | advérbio         | /ˈnɔɪ.tɪ/  | at night (early)| /æt naɪt/    | de noche      | /de ˈnoʧe/   |     |
+| noite             | advérbio         | /ˈnɔɪ.tɪ/  | at night (all night) | /æt naɪt/ | toda la noche | /ˈtoða la ˈnoʧe/ |     |
+| hora              | substantivo (fem)| /ˈɔɾɐ/     | hour            | /aʊər/      | hora          | /ˈoɾa/       |     |
+| relógio           | substantivo (masc)| /ʁɨˈlɔ.ʒi.u/ | watch (wrist)  | /wɑtʃ/      | reloj         | /reˈlox/     |     |
+| relógio           | substantivo (masc)| /ʁɨˈlɔ.ʒi.u/ | clock           | /klɑk/      | reloj         | /reˈlox/     |     |
+| passado           | substantivo (masc)| /pɐˈsa.du/  | past            | /pæst/      | pasado        | /paˈsaðo/    |     |
+| futuro            | substantivo (masc)| /fuˈtu.ɾu/  | future          | /ˈfjuːtʃər/ | futuro        | /fuˈtuɾo/    |     |
+| presente          | substantivo (masc)| /pɾeˈzẽ.tɪ/ | present         | /ˈprɛzənt/  | presente       |/preˈsente/  |     |
+

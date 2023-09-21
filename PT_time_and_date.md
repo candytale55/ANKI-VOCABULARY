@@ -84,3 +84,15 @@ In Portuguese, "manhã" and "amanhã" are two words that are related to time, bu
    - **Example Sentences**:
      - "Vamos sair para jantar amanhã." (We're going out to dinner tomorrow.)
      - "A prova será realizada amanhã cedo." (The exam will take place tomorrow morning.)
+
+
+
+1. **Tarde (Afternoon)**:
+   - "Tarde" means "afternoon." It typically refers to the time of day that begins after noon and extends until evening or sunset.
+     - "Eu vou ao mercado de tarde." (I'm going to the market in the afternoon.)
+     - "Eles chegam à escola à tarde." (They arrive at school in the afternoon.)
+
+2. **Noite (Night)**:
+   - "Noite" means "night." It refers to the time of day that starts after sunset and continues until dawn the next day.
+     - "Vamos ao cinema à noite." (We're going to the movies at night.)
+     - "Eu gosto de ler à noite." (I like to read at night.)

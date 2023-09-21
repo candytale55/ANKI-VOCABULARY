@@ -50,12 +50,12 @@
 |-------------------|------------------|------------|-----------------|-------------|---------------|-------------|-----|
 | ontem             | advérbio         | /õʃˈtẽ/   | yesterday      | /ˈjɛstərˌdeɪ/ | ayer          | /aˈʝeɾ/      |     |
 | hoje              | advérbio         | /ˈoʒi/     | today           | /təˈdeɪ/     | hoy           | /oɪ/         |     |
-| amanhã            | advérbio         | /ɐˈmɐɲ.ʊ/  | tomorrow        | /təˈmɑˌroʊ/ | mañana        | /maˈɲana/    |     |
+| amanhã   *         | advérbio         | /ɐˈmɐɲ.ʊ/  | tomorrow        | /təˈmɑˌroʊ/ | mañana        | /maˈɲana/    |     |
 | cedo              | advérbio         | /ˈse.ðu/   | early           | /ˈɜrli/      | temprano      | /temˈpɾano/  |     |
 | tarde             | substantivo (fem)| /ˈtaɾ.dɪ/  | late (afternoon)| /leɪt/       | tarde         | /ˈtarde/     |     |
 | tarde             | advérbio         | /ˈtaɾ.dɪ/  | late (evening)  | /leɪt/       | tarde         | /ˈtarde/     |     |
 | tarde             | advérbio         | /ˈtaɾ.dɪ/  | late (late)     | /leɪt/       | tarde         | /ˈtarde/     |     |
-| manhã             | substantivo (fem)| /mɐˈɲɐ̃/  | morning         | /ˈmɔrnɪŋ/   | mañana        | /maˈɲana/    |     |
+| manhã   *          | substantivo (fem)| /mɐˈɲɐ̃/  | morning         | /ˈmɔrnɪŋ/   | mañana        | /maˈɲana/    |     |
 | noite             | substantivo (fem)| /ˈnɔɪ.tɪ/  | night           | /naɪt/       | noche         | /ˈnoʧe/      |     |
 | noite             | advérbio         | /ˈnɔɪ.tɪ/  | at night        | /æt naɪt/    | de noche      | /de ˈnoʧe/   |     |
 | noite             | advérbio         | /ˈnɔɪ.tɪ/  | in the evening  | /ɪn ðə ˈivnɪŋ/ | por la tarde | /poɾ la ˈtarde/ |     |
@@ -69,3 +69,18 @@
 | futuro            | substantivo (masc)| /fuˈtu.ɾu/  | future          | /ˈfjuːtʃər/ | futuro        | /fuˈtuɾo/    |     |
 | presente          | substantivo (masc)| /pɾeˈzẽ.tɪ/ | present         | /ˈprɛzənt/  | presente       |/preˈsente/  |     |
 
+
+
+In Portuguese, "manhã" and "amanhã" are two words that are related to time, but they have distinct meanings and uses:
+
+1. **Manhã (Morning)**:
+   - **Definition**: "Manhã" means "morning." It refers to the part of the day that begins after dawn and extends until noon or early afternoon.
+   - **Example Sentences**:
+     - "Eu gosto de tomar café da manhã." (I like to have breakfast in the morning.)
+     - "A reunião está marcada para amanhã de manhã." (The meeting is scheduled for tomorrow morning.)
+
+2. **Amanhã (Tomorrow)**:
+   - **Definition**: "Amanhã" means "tomorrow." It refers to the day that follows the current day.
+   - **Example Sentences**:
+     - "Vamos sair para jantar amanhã." (We're going out to dinner tomorrow.)
+     - "A prova será realizada amanhã cedo." (The exam will take place tomorrow morning.)

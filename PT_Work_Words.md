@@ -39,3 +39,28 @@
 | agricultor        | substantivo (masc) | /a.ɡri.kulˈtoɾ/  | farmer               | /ˈfɑːrmər/    | agricultor    | /aɡriˈkultoɾ/  | 33  |
 | música            | substantivo (fem)  | /ˈmu.zi.kɐ/      | music                | /ˈmjuːzɪk/    | música        | /ˈmusika/       | 34  |
 | músico            | substantivo (masc) | /ˈmu.zi.ku/      | musician             | /mjuˈzɪʃən/   | músico        | /ˈmusiko/       | 35  |
+
+
+
+I understand your request. Here's a combined list of common professions, indicating whether they are masculine (masc) or feminine (fem) when gendered:
+
+| Portuguese      | Tipo de Palavra  | IPA             | English            | IPA (USA)    | Spanish       | Spanish IPA      | No. |
+|-----------------|------------------|-----------------|--------------------|-------------|---------------|------------------|-----|
+| professor (masc)| substantivo (masc) | /pɾuˈfɛ.soɾ/  | teacher (male)    | /ˈtiː.tʃər/ | profesor (masc)| /pɾo.feˈsoɾ/ |     |
+| professora (fem)| substantivo (fem) | /pɾuˈfɛ.so.ɾɐ/ | teacher (female)  | /ˈtiː.tʃər/ | profesora (fem)| /pɾo.feˈso.ɾa/ |     |
+| médico (masc)   | substantivo (masc) | /ˈme.di.ku/     | doctor (male)     | /ˈdɑktər/   | médico (masc)  | /ˈmeðiko/      |     |
+| médica (fem)    | substantivo (fem) | /ˈme.di.kɐ/     | doctor (female)   | /ˈdɑktər/   | médica (fem)   | /ˈmeðika/      |     |
+| enfermeiro (masc)| substantivo (masc) | /ẽ.ferˈmej.ɾu/ | nurse (male)      | /nɜːrs/     | enfermero (masc)| /enfeɾˈmeɾo/   |     |
+| enfermeira (fem)| substantivo (fem) | /ẽ.ferˈmej.ɾɐ/ | nurse (female)    | /nɜːrs/     | enfermera (fem)| /enfeɾˈmeɾa/   |     |
+| arquiteto (masc)| substantivo (masc) | /aɾ.kiˈtɛ.tu/  | architect (male)  | /ˈɑːr.kɪˌtɛkt/ | arquitecto (masc)| /ar.kiˈtek.to/ |     |
+| arquiteta (fem)| substantivo (fem) | /aɾ.kiˈtɛ.tɐ/  | architect (female)| /ˈɑːr.kɪˌtɛkt/ | arquitecta (fem)| /ar.kiˈtek.ta/ |     |
+| engenheiro (masc)| substantivo (masc) | /ẽ.ʒẽˈɲej.ɾu/ | engineer (male)   | /ˌɛn.dʒɪˈnɪr/ | ingeniero (masc)| /in.xeˈnjeɾo/  |     |
+| engenheira (fem)| substantivo (fem) | /ẽ.ʒẽˈɲej.ɾɐ/ | engineer (female) | /ˌɛn.dʒɪˈnɪr/ | ingeniera (fem)| /in.xeˈnjeɾa/  |     |
+| advogado (masc) | substantivo (masc) | /ɐd.voˈɡa.du/  | lawyer (male)     | /ˈlɔɪ.ər/   | abogado (masc) | /a.boˈɣa.ðo/   |     |
+| advogada (fem)  | substantivo (fem) | /ɐd.voˈɡa.dɐ/  | lawyer (female)   | /ˈlɔɪ.ər/   | abogada (fem)  | /a.boˈɣa.ða/   |     |
+| dentista (masc) | substantivo (masc) | /dẽˈtis.tu/    | dentist (male)    | /ˈdɛn.tɪst/ | dentista (masc)| /denˈtista/    |     |
+| dentista (fem)  | substantivo (fem) | /dẽˈtis.tɐ/    | dentist (female)  | /ˈdɛn.tɪst/ | dentista (fem) | /denˈtista/    |     |
+| policial (masc) | substantivo (masc) | /po.liˈsi.al/  | police officer (male) | /pəˈliːs ˈɔfəsər/ | policía (fem) | /po.liˈsia/ | |
+| policial (fem)  | substantivo (fem) | /po.liˈsi.al/  | police officer (female) | /pəˈliːs ˈɔfəsər/ | policía (fem) | /po.liˈsia/ | |
+| artista (masc)  | substantivo (masc) | /ɐɾˈtiʃ.tu/    | artist (male)     | /ˈɑr.tɪst/   | artista (masc) | /arˈtista/     |     |
+| artista (fem)   | substantivo (fem) | /ɐɾˈtiʃ.tɐ/    | artist (female)   | /ˈɑr.tɪst/   | artista (fem)  | /arˈtista/     |     |

@@ -48,9 +48,9 @@
 
 | Portuguese        | Tipo de Palavra  | IPA        | English         | IPA (USA)   | Spanish       | Spanish IPA  | No. |
 |-------------------|------------------|------------|-----------------|-------------|---------------|-------------|-----|
-| ontem             | advérbio         | /õʃˈtẽ/   | yesterday      | /ˈjɛstərˌdeɪ/ | ayer          | /aˈʝeɾ/      |     |
-| hoje              | advérbio         | /ˈoʒi/     | today           | /təˈdeɪ/     | hoy           | /oɪ/         |     |
-| amanhã   *         | advérbio         | /ɐˈmɐɲ.ʊ/  | tomorrow        | /təˈmɑˌroʊ/ | mañana        | /maˈɲana/    |     |
+| ontem             | advérbio         | /õʃˈtẽ/   | yesterday      | /ˈjɛstərˌdeɪ/ | ayer          | /aˈʝeɾ/       | 2129|
+| hoje              | advérbio         | /ˈoʒi/     | today           | /təˈdeɪ/     | hoy           | /oɪ/         | 2130|
+| amanhã   *         | advérbio         | /ɐˈmɐɲ.ʊ/  | tomorrow        | /təˈmɑˌroʊ/ | mañana        | /maˈɲana/    | 2131 |
 | cedo              | advérbio         | /ˈse.ðu/   | early           | /ˈɜrli/      | temprano      | /temˈpɾano/  |     |
 | tarde             | substantivo (fem)| /ˈtaɾ.dɪ/  | late (afternoon)| /leɪt/       | tarde         | /ˈtarde/     |     |
 | tarde             | advérbio         | /ˈtaɾ.dɪ/  | late (evening)  | /leɪt/       | tarde         | /ˈtarde/     |     |

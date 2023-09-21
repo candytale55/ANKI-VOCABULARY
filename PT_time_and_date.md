@@ -51,8 +51,9 @@
 | ontem             | advérbio         | /õʃˈtẽ/   | yesterday      | /ˈjɛstərˌdeɪ/ | ayer          | /aˈʝeɾ/       | 2129|
 | hoje              | advérbio         | /ˈoʒi/     | today           | /təˈdeɪ/     | hoy           | /oɪ/         | 2130|
 | amanhã   *         | advérbio         | /ɐˈmɐɲ.ʊ/  | tomorrow        | /təˈmɑˌroʊ/ | mañana        | /maˈɲana/    | 2131 |
-| cedo              | advérbio         | /ˈse.ðu/   | early           | /ˈɜrli/      | temprano      | /temˈpɾano/  |     |
-| tarde             | substantivo (fem)| /ˈtaɾ.dɪ/  | late (afternoon)| /leɪt/       | tarde         | /ˈtarde/     |     |
+| cedo              | advérbio         | /ˈse.ðu/   | early           | /ˈɜrli/      | temprano      | /temˈpɾano/  | 2132 |
+| tarde             | substantivo (fem)| /ˈtaɾ.dɪ/  | late (afternoon)| /leɪt/       | tarde         | /ˈtarde/     ||
+| tarde             | advérbio         | /ˈtaɾ.dɪ/  | at the end of ...  |       | tarde         | /ˈtarde/     |2133|
 | tarde             | advérbio         | /ˈtaɾ.dɪ/  | late (evening)  | /leɪt/       | tarde         | /ˈtarde/     |     |
 | tarde             | advérbio         | /ˈtaɾ.dɪ/  | late (late)     | /leɪt/       | tarde         | /ˈtarde/     |     |
 | manhã   *          | substantivo (fem)| /mɐˈɲɐ̃/  | morning         | /ˈmɔrnɪŋ/   | mañana        | /maˈɲana/    |     |
@@ -68,6 +69,8 @@
 | passado           | substantivo (masc)| /pɐˈsa.du/  | past            | /pæst/      | pasado        | /paˈsaðo/    |     |
 | futuro            | substantivo (masc)| /fuˈtu.ɾu/  | future          | /ˈfjuːtʃər/ | futuro        | /fuˈtuɾo/    |     |
 | presente          | substantivo (masc)| /pɾeˈzẽ.tɪ/ | present         | /ˈprɛzənt/  | presente       |/preˈsente/  |     |
+| nunca      | advérbio        | /ˈnũ.ka/ | never   | /ˈnɛvər/  | nunca    | /ˈnuŋka/    | 2134 |
+| para sempre| locução adverbial | /ˌpa.ɾɐ ˈsẽ.pɾi/ | forever | /fəˈrɛvər/ | para siempre | /paɾa ˈsjempre/ |  |
 
 
 

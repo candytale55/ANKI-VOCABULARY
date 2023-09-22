@@ -6,23 +6,25 @@
 |-------------|--------------------|------------------|----------------------|---------------|---------------|--------------------|-----|
 | trabalho   *| substantivo (masc) | /traˈbaʎu/      | work                 | /wɜːrk/       | trabajo       | /traˈba.xo/     |2136|
 | emprego     | substantivo (masc) | /emˈpɾeɡu/      | job                  | /dʒɑb/        | empleo        | /emˈpleo/       |2137|
-| profissão         | substantivo (fem)  | /pɾuˈfi.sɐ̃w̃/   | profession           | /prəˈfɛʃən/   | profesión     | /pɾofeˈsjon/    | 3   |
-| empresa           | substantivo (fem)  | /ẽˈpɾe.zɐ/      | company              | /ˈkʌmpəni/    | empresa       | /emˈpɾesa/      | 4   |
-| chefe             | substantivo (masc) | /ˈʃɛ.fɨ/        | boss                 | /bɔs/         | jefe          | /ˈxefe/         | 5   |
+| profissão   | substantivo (fem)  | /pɾuˈfi.sɐ̃w̃/   | profession           | /prəˈfɛʃən/   | profesión     | /pɾofeˈsjon/     |2138|
+| empresa     | substantivo (fem)  | /ẽˈpɾe.zɐ/     | company              | /ˈkʌmpəni/    | empresa       | /emˈpɾesa/       |2139|
+| chefe       | substantivo (masc) | /ˈʃɛ.fɨ/        | boss                 | /bɔs/        | jefe, jefa    | /ˈxefe/, /ˈxefa/ |2140|
 | colega de trabalho| substantivo (masc/fem) | /koˈle.ɡɐ dɨ traˈbaʎu/ | coworker         | /ˈkoʊˌwɜːrkər/| colega de trabajo | /koˈleɣa ðe traˈba.xo/ | 6   |
 | salário           | substantivo (masc) | /saˈla.ɾju/     | salary               | /ˈsæləri/     | salario       | /saˈlaɾjo/      | 7   |
 | horário de trabalho| substantivo (masc) | /oˈɾa.ɾju dɨ traˈbaʎu/ | work schedule   | /wɜːrk ˈʃɛdjuːl/ | horario de trabajo | /oˈɾaɾjo ðe traˈba.xo/ | 8   |
 | empregado   | substantivo (masc) | /emˈpɾe.ɡa.du/   | employee (masc.)  | /ɪmˈplɔɪi/    | empleado (masc.)  | /emˈpleaðo/      |2135|
 | empregada   | substantivo (fem)  | /emˈpɾe.ɡa.dɐ/   | employee (fem.)   | /ɪmˈplɔɪi/    | empleada (fem.)   | /emˈpleaða/      |2135|
 | cliente      | substantivo (masc) | /kliˈẽ.tɨ/      | client/customer      | /ˈklaɪənt/    | cliente       | /klienˈte/     | 10  |
-| escritório        | substantivo (masc) | /es.kɾiʃˈto.ɾju/ | office               | /ˈɔfɪs/       | oficina       | /oˈfiθina/      | 11  |
-| reunião           | substantivo (fem)  | /re.uˈni.ɐ̃w̃/   | meeting              | /ˈmiːtɪŋ/      | reunión       | /reuˈnjon/      | 12  |
-| contrato          | substantivo (masc) | /kõ.ˈtɾa.tu/     | contract             | /ˈkɒntrækt/   | contrato      | /konˈtɾato/     | 13  |
-| carreira          | substantivo (fem)  | /kaˈɾɛ.jɾɐ/     | career               | /kəˈrɪər/     | carrera       | /kaˈreɾa/       | 14  |
-| folga             | substantivo (fem)  | /ˈfoɫ.ɡɐ/       | day off              | /deɪ ɒf/       | día libre     | /ˈdia ˈliβɾe/  | 15  |
-| escola            | substantivo (fem)  | /isˈko.ɫɐ/      | school               | /skuːl/       | escuela       | /esˈkwela/      | 16  |
-| professor         | substantivo (masc) | /pɾuˈfe.sɔɾ/     | teacher (professor) | /ˈtiːtʃər/    | profesor      | /pɾoˈfesor/     | 17  |
-| aluno             | substantivo (masc) | /ɐˈlu.nu/        | student              | /ˈstuːdənt/   | alumno        | /alˈumno/       | 18  |
+| escritório   | substantivo (masc) | /es.kɾiʃˈto.ɾju/ | office               | /ˈɔfɪs/       | oficina       | /oˈfiθina/      |2141|
+| reunião      | substantivo (fem)  | /re.uˈni.ɐ̃w̃/   | meeting              | /ˈmiːtɪŋ/      | reunión       | /reuˈnjon/       |w|
+| contrato     | substantivo (masc) | /kõ.ˈtɾa.tu/     | contract             | /ˈkɒntrækt/   | contrato      | /konˈtɾato/     |2142|
+| carreira     | substantivo (fem)  | /kaˈɾɛ.jɾɐ/     | career               | /kəˈrɪər/     | carrera       | /kaˈreɾa/       | 14  |
+| folga        | substantivo (fem)  | /ˈfoɫ.ɡɐ/       | day off              | /deɪ ɒf/       | día libre     | /ˈdia ˈliβɾe/  | 15  |
+| escola       | substantivo (fem)  | /isˈko.ɫɐ/      | school    | /skuːl/       | escuela       | /esˈkwela/  |2143|
+| professor    | substantivo (masc) | /pɾuˈfe.sɔɾ/     | teacher (professor) | /ˈtiːtʃər/    | profesor      | /pɾoˈfesor/     | 17  |
+| estudante | substantivo (masc/fem) | /es.tuˈdɐ̃.tɨ/ | student | /ˈstuː.dənt/ | estudiante | /es.tuˈdjan.te/ |2144|
+| aluno   | substantivo (masc) | /ɐˈlu.nu/        | student (male) | /ˈstuːdənt/   | alumno   | /alˈumno/   |2145|
+| aluna | substantivo (fem) | /aˈlu.nɐ/ | student (female) | /ˈstuː.dənt/ | alumna | /es.tuˈdjan.te/ |2145|
 | médico            | substantivo (masc) | /ˈme.di.ku/      | doctor (physician)  | /ˈdɑktər/     | médico        | /ˈmeðiko/       | 19  |
 | enfermeiro        | substantivo (masc) | /ẽ.ferˈmej.ɾu/  | nurse                | /nɜːrs/       | enfermero     | /enfeɾˈmeɾo/    | 20  |
 | hospital          | substantivo (masc) | /oˈspi.tɐw̃/     | hospital             | /ˈhɒspɪtl̩/   | hospital      | /ospiˈtal/      | 21  |

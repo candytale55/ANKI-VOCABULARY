@@ -4,14 +4,14 @@
 
 | Portuguese  | Tipo de Palavra    | IPA              | English              | IPA (USA)      | Spanish       | Spanish IPA        | No. |
 |-------------|--------------------|------------------|----------------------|---------------|---------------|--------------------|-----|
-| trabalho   *| substantivo (masc) | /traˈbaʎu/      | work                 | /wɜːrk/       | trabajo       | /traˈba.xo/     |2136|
-| emprego     | substantivo (masc) | /emˈpɾeɡu/      | job                  | /dʒɑb/        | empleo        | /emˈpleo/       |2137|
-| profissão   | substantivo (fem)  | /pɾuˈfi.sɐ̃w̃/   | profession           | /prəˈfɛʃən/   | profesión     | /pɾofeˈsjon/     |2138|
-| empresa     | substantivo (fem)  | /ẽˈpɾe.zɐ/     | company              | /ˈkʌmpəni/    | empresa       | /emˈpɾesa/       |2139|
-| chefe       | substantivo (masc) | /ˈʃɛ.fɨ/        | boss   | /bɔs/        | jefe, jefa    | /ˈxefe/, /ˈxefa/ |2140|
+| trabalho   *| substantivo (masc) | /traˈbaʎu/ | work | /wɜːrk/       | trabajo       | /traˈba.xo/     |2136|
+| emprego     | substantivo (masc) | /emˈpɾeɡu/ | job   | /dʒɑb/       | empleo        | /emˈpleo/       |2137|
+| profissão   | substantivo (fem)  | /pɾuˈfi.sɐ̃w̃/   | profession  | /prəˈfɛʃən/ | profesión| /pɾofeˈsjon/ |2138|
+| empresa     | substantivo (fem)  | /ẽˈpɾe.zɐ/     | company   | /ˈkʌmpəni/    | empresa  | /emˈpɾesa/   |2139|
+| chefe       | substantivo (masc) | /ˈʃɛ.fɨ/   | boss   | /bɔs/     | jefe, jefa    | /ˈxefe/, /ˈxefa/    |2140|
 | colega de trabalho| substantivo (masc/fem) | /koˈle.ɡɐ dɨ traˈbaʎu/ | coworker | /ˈkoʊˌwɜːrkər/| colega de trabajo | /koˈleɣa ðe traˈba.xo/ |2159|
 | salário | substantivo (masc) | /saˈla.ɾju/  | salary  | /ˈsæləri/     | salario       | /saˈlaɾjo/      |2158|
-| horário de trabalho| substantivo (masc) | /oˈɾa.ɾju dɨ traˈbaʎu/ | work schedule   | /wɜːrk ˈʃɛdjuːl/ | horario de trabajo | /oˈɾaɾjo ðe traˈba.xo/ | 8   |
+| horário de trabalho| substantivo (masc) | /oˈɾa.ɾju dɨ traˈbaʎu/ | work schedule| /wɜːrk ˈʃɛdjuːl/ | horario de trabajo | /oˈɾaɾjo ðe traˈba.xo/ |2159|
 | empregado | substantivo (masc) | /emˈpɾe.ɡa.du/   | employee| /ɪmˈplɔɪi/ | empleado (masc.)  | /emˈpleaðo/  |2135|
 | empregada   | substantivo (fem)  | /emˈpɾe.ɡa.dɐ/   | employee | /ɪmˈplɔɪi/ | empleada | /emˈpleaða/      |2135|
 | cliente      | substantivo  | /kliˈẽ.tɨ/ | client/customer| /ˈklaɪənt/ | cliente | /klienˈte/             |2155|

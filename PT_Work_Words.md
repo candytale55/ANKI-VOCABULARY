@@ -21,9 +21,6 @@
 | carreira     | substantivo (fem)  | /kaˈɾɛ.jɾɐ/     | career               | /kəˈrɪər/     | carrera       | /kaˈreɾa/       | 14  |
 | folga        | substantivo (fem)  | /ˈfoɫ.ɡɐ/       | day off              | /deɪ ɒf/       | día libre     | /ˈdia ˈliβɾe/  | 15  |
 | escola       | substantivo (fem)  | /isˈko.ɫɐ/      | school    | /skuːl/       | escuela       | /esˈkwela/  |2143|
-| professor    | substantivo (masc) | /pɾuˈfe.sɔɾ/     | teacher (professor) | /ˈtiːtʃər/    | maestro | /maˈestɾo/ |2146|
-| professora | substantivo (fem) | /pɾuˈfe.so.ɾɐ/ | teacher (professor) | /ˈtiːtʃər/ | maestra | /maˈestɾa/ |2146|
-| estudante | substantivo (masc/fem) | /es.tuˈdɐ̃.tɨ/ | student | /ˈstuː.dənt/ | estudiante | /es.tuˈdjan.te/ |2144|
 | médico            | substantivo (masc) | /ˈme.di.ku/      | doctor (physician)  | /ˈdɑktər/     | médico        | /ˈmeðiko/       | 19  |
 | enfermeiro        | substantivo (masc) | /ẽ.ferˈmej.ɾu/  | nurse                | /nɜːrs/       | enfermero     | /enfeɾˈmeɾo/    | 20  |
 | hospital          | substantivo (masc) | /oˈspi.tɐw̃/     | hospital             | /ˈhɒspɪtl̩/   | hospital      | /ospiˈtal/      | 21  |
@@ -57,8 +54,11 @@ In Portuguese, "trabalho" and "emprego" are related but have different meanings:
 
 | Portuguese      | Tipo de Palavra  | IPA             | English            | IPA (USA)    | Spanish       | Spanish IPA      | No. |
 |-----------------|------------------|-----------------|--------------------|-------------|---------------|------------------|-----|
-| professor (masc)| substantivo (masc) | /pɾuˈfɛ.soɾ/  | teacher (male)    | /ˈtiː.tʃər/ | profesor (masc)| /pɾo.feˈsoɾ/ |     |
-| professora (fem)| substantivo (fem) | /pɾuˈfɛ.so.ɾɐ/ | teacher (female)  | /ˈtiː.tʃər/ | profesora (fem)| /pɾo.feˈso.ɾa/ |     |
+| professor    | substantivo (masc) | /pɾuˈfe.sɔɾ/     | teacher (professor) | /ˈtiːtʃər/    | maestro | /maˈestɾo/ |2146|
+| professora | substantivo (fem) | /pɾuˈfe.so.ɾɐ/ | teacher (professor) | /ˈtiːtʃər/ | maestra | /maˈestɾa/ |2146|
+| estudante | substantivo (masc/fem) | /es.tuˈdɐ̃.tɨ/ | student | /ˈstuː.dənt/ | estudiante | /es.tuˈdjan.te/ |2144|
+| professor (masc)| substantivo (masc) | /pɾuˈfɛ.soɾ/  | professor (male)    |  /prəˈfɛsər/ | profesor (masc)| /pɾo.feˈsoɾ/ |2146|
+| professora (fem)| substantivo (fem) | /pɾuˈfɛ.so.ɾɐ/ | professor (female)  |  /prəˈfɛsər/ | profesora (fem)| /pɾo.feˈso.ɾa/ |2146|
 | médico (masc)   | substantivo (masc) | /ˈme.di.ku/     | doctor (male)     | /ˈdɑktər/   | médico (masc)  | /ˈmeðiko/      |     |
 | médica (fem)    | substantivo (fem) | /ˈme.di.kɐ/     | doctor (female)   | /ˈdɑktər/   | médica (fem)   | /ˈmeðika/      |     |
 | enfermeiro (masc)| substantivo (masc) | /ẽ.ferˈmej.ɾu/ | nurse (male)      | /nɜːrs/     | enfermero (masc)| /enfeɾˈmeɾo/   |     |

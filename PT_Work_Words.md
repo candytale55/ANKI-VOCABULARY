@@ -14,7 +14,6 @@
 | horário de trabalho| substantivo (masc) | /oˈɾa.ɾju dɨ traˈbaʎu/ | work schedule   | /wɜːrk ˈʃɛdjuːl/ | horario de trabajo | /oˈɾaɾjo ðe traˈba.xo/ | 8   |
 | empregado   | substantivo (masc) | /emˈpɾe.ɡa.du/   | employee (masc.)  | /ɪmˈplɔɪi/    | empleado (masc.)  | /emˈpleaðo/      |2135|
 | empregada   | substantivo (fem)  | /emˈpɾe.ɡa.dɐ/   | employee (fem.)   | /ɪmˈplɔɪi/    | empleada (fem.)   | /emˈpleaða/      |2135|
-
 | cliente           | substantivo (masc) | /kliˈẽ.tɨ/      | client/customer      | /ˈklaɪənt/    | cliente       | /klienˈte/     | 10  |
 | escritório        | substantivo (masc) | /es.kɾiʃˈto.ɾju/ | office               | /ˈɔfɪs/       | oficina       | /oˈfiθina/      | 11  |
 | reunião           | substantivo (fem)  | /re.uˈni.ɐ̃w̃/   | meeting              | /ˈmiːtɪŋ/      | reunión       | /reuˈnjon/      | 12  |

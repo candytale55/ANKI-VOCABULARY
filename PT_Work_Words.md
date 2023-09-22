@@ -21,10 +21,9 @@
 | carreira     | substantivo (fem)  | /kaˈɾɛ.jɾɐ/     | career               | /kəˈrɪər/     | carrera       | /kaˈreɾa/       | 14  |
 | folga        | substantivo (fem)  | /ˈfoɫ.ɡɐ/       | day off              | /deɪ ɒf/       | día libre     | /ˈdia ˈliβɾe/  | 15  |
 | escola       | substantivo (fem)  | /isˈko.ɫɐ/      | school    | /skuːl/       | escuela       | /esˈkwela/  |2143|
-| professor    | substantivo (masc) | /pɾuˈfe.sɔɾ/     | teacher (professor) | /ˈtiːtʃər/    | profesor      | /pɾoˈfesor/     | 17  |
+| professor    | substantivo (masc) | /pɾuˈfe.sɔɾ/     | teacher (professor) | /ˈtiːtʃər/    | maestro | /maˈestɾo/ |2146|
+| professora | substantivo (fem) | /pɾuˈfe.so.ɾɐ/ | teacher (professor) | /ˈtiːtʃər/ | maestra | /maˈestɾa/ |2146|
 | estudante | substantivo (masc/fem) | /es.tuˈdɐ̃.tɨ/ | student | /ˈstuː.dənt/ | estudiante | /es.tuˈdjan.te/ |2144|
-| aluno   | substantivo (masc) | /ɐˈlu.nu/        | student (male) | /ˈstuːdənt/   | alumno   | /alˈumno/   |2145|
-| aluna | substantivo (fem) | /aˈlu.nɐ/ | student (female) | /ˈstuː.dənt/ | alumna | /es.tuˈdjan.te/ |2145|
 | médico            | substantivo (masc) | /ˈme.di.ku/      | doctor (physician)  | /ˈdɑktər/     | médico        | /ˈmeðiko/       | 19  |
 | enfermeiro        | substantivo (masc) | /ẽ.ferˈmej.ɾu/  | nurse                | /nɜːrs/       | enfermero     | /enfeɾˈmeɾo/    | 20  |
 | hospital          | substantivo (masc) | /oˈspi.tɐw̃/     | hospital             | /ˈhɒspɪtl̩/   | hospital      | /ospiˈtal/      | 21  |

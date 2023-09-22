@@ -5,7 +5,7 @@
 | Portuguese  | Tipo de Palavra    | IPA              | English              | IPA (USA)      | Spanish       | Spanish IPA        | No. |
 |-------------|--------------------|------------------|----------------------|---------------|---------------|--------------------|-----|
 | trabalho   *| substantivo (masc) | /traˈbaʎu/      | work                 | /wɜːrk/       | trabajo       | /traˈba.xo/     |2136|
-| emprego           | substantivo (masc) | /emˈpɾeɡu/      | job                  | /dʒɑb/        | empleo        | /emˈpleo/       | 2   |
+| emprego     | substantivo (masc) | /emˈpɾeɡu/      | job                  | /dʒɑb/        | empleo        | /emˈpleo/       |2137|
 | profissão         | substantivo (fem)  | /pɾuˈfi.sɐ̃w̃/   | profession           | /prəˈfɛʃən/   | profesión     | /pɾofeˈsjon/    | 3   |
 | empresa           | substantivo (fem)  | /ẽˈpɾe.zɐ/      | company              | /ˈkʌmpəni/    | empresa       | /emˈpɾesa/      | 4   |
 | chefe             | substantivo (masc) | /ˈʃɛ.fɨ/        | boss                 | /bɔs/         | jefe          | /ˈxefe/         | 5   |
@@ -41,19 +41,17 @@
 | música            | substantivo (fem)  | /ˈmu.zi.kɐ/      | music                | /ˈmjuːzɪk/    | música        | /ˈmusika/       | 34  |
 | músico            | substantivo (masc) | /ˈmu.zi.ku/      | musician             | /mjuˈzɪʃən/   | músico        | /ˈmusiko/       | 35  |
 
+In Portuguese, "trabalho" and "emprego" are related but have different meanings:
 
-In English, "work" and "job" are related terms, but they have slightly different meanings:
+1. **Trabalho:**
+   - "Trabalho" is a broader term that refers to work or labor in a general sense. It encompasses all types of activities, whether they are related to paid employment, household chores, creative pursuits, or volunteer work.
+   - It can refer to any kind of productive or constructive activity that requires effort and time.
+   - For example, "Eu tenho muito trabalho para fazer" (I have a lot of work to do) could refer to various tasks, including those related to a job and other responsibilities.
 
-1. **Job:**
-   - A "job" typically refers to a specific position of employment or work that a person holds within an organization or as part of their occupation.
-   - It often involves a set of tasks, responsibilities, and duties performed in exchange for compensation, such as a salary or wage.
-   - For example, someone might say, "I have a job as a teacher," meaning they are employed in a teaching position.
-
-2. **Work:**
-   - "Work" is a broader term that encompasses all types of activities and tasks that people engage in to accomplish something or produce results.
-   - It doesn't necessarily refer to a specific position or employment but can encompass any productive or constructive activity.
-   - "Work" can include both paid employment (job) and unpaid activities, such as housework, volunteer work, or creative work.
-   - For example, "I have a lot of work to do" could refer to tasks both related to one's job and other responsibilities.
+2. **Emprego:**
+   - "Emprego" specifically refers to employment or a job. It is a narrower term that relates to a formal, paid position of work within an organization or company.
+   - When someone says they have an "emprego," it means they are formally employed and typically receive compensation, such as a salary or wage, in exchange for their services.
+   - For example, "Eu tenho um emprego como professor" (I have a job as a teacher) refers to a specific position within the field of education.
 
 
 | Portuguese      | Tipo de Palavra  | IPA             | English            | IPA (USA)    | Spanish       | Spanish IPA      | No. |

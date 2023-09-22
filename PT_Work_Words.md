@@ -2,9 +2,9 @@
 # Talking about work
 
 
-| Portuguese        | Tipo de Palavra    | IPA              | English              | IPA (USA)      | Spanish       | Spanish IPA        | No. |
-|-------------------|--------------------|------------------|----------------------|---------------|---------------|--------------------|-----|
-| trabalho          | substantivo (masc) | /traˈbaʎu/      | work                 | /wɜːrk/       | trabajo       | /traˈba.xo/     | 1   |
+| Portuguese  | Tipo de Palavra    | IPA              | English              | IPA (USA)      | Spanish       | Spanish IPA        | No. |
+|-------------|--------------------|------------------|----------------------|---------------|---------------|--------------------|-----|
+| trabalho   *| substantivo (masc) | /traˈbaʎu/      | work                 | /wɜːrk/       | trabajo       | /traˈba.xo/     |2136|
 | emprego           | substantivo (masc) | /emˈpɾeɡu/      | job                  | /dʒɑb/        | empleo        | /emˈpleo/       | 2   |
 | profissão         | substantivo (fem)  | /pɾuˈfi.sɐ̃w̃/   | profession           | /prəˈfɛʃən/   | profesión     | /pɾofeˈsjon/    | 3   |
 | empresa           | substantivo (fem)  | /ẽˈpɾe.zɐ/      | company              | /ˈkʌmpəni/    | empresa       | /emˈpɾesa/      | 4   |
@@ -12,7 +12,9 @@
 | colega de trabalho| substantivo (masc/fem) | /koˈle.ɡɐ dɨ traˈbaʎu/ | coworker         | /ˈkoʊˌwɜːrkər/| colega de trabajo | /koˈleɣa ðe traˈba.xo/ | 6   |
 | salário           | substantivo (masc) | /saˈla.ɾju/     | salary               | /ˈsæləri/     | salario       | /saˈlaɾjo/      | 7   |
 | horário de trabalho| substantivo (masc) | /oˈɾa.ɾju dɨ traˈbaʎu/ | work schedule   | /wɜːrk ˈʃɛdjuːl/ | horario de trabajo | /oˈɾaɾjo ðe traˈba.xo/ | 8   |
-| empregado         | substantivo (masc) | /emˈpɾe.ɡa.du/  | employee             | /ɪmˈplɔɪi/    | empleado      | /emˈpleaðo/     | 9   |
+| empregado   | substantivo (masc) | /emˈpɾe.ɡa.du/   | employee (masc.)  | /ɪmˈplɔɪi/    | empleado (masc.)  | /emˈpleaðo/      |2135|
+| empregada   | substantivo (fem)  | /emˈpɾe.ɡa.dɐ/   | employee (fem.)   | /ɪmˈplɔɪi/    | empleada (fem.)   | /emˈpleaða/      |2135|
+
 | cliente           | substantivo (masc) | /kliˈẽ.tɨ/      | client/customer      | /ˈklaɪənt/    | cliente       | /klienˈte/     | 10  |
 | escritório        | substantivo (masc) | /es.kɾiʃˈto.ɾju/ | office               | /ˈɔfɪs/       | oficina       | /oˈfiθina/      | 11  |
 | reunião           | substantivo (fem)  | /re.uˈni.ɐ̃w̃/   | meeting              | /ˈmiːtɪŋ/      | reunión       | /reuˈnjon/      | 12  |
@@ -41,8 +43,19 @@
 | músico            | substantivo (masc) | /ˈmu.zi.ku/      | musician             | /mjuˈzɪʃən/   | músico        | /ˈmusiko/       | 35  |
 
 
+In English, "work" and "job" are related terms, but they have slightly different meanings:
 
-I understand your request. Here's a combined list of common professions, indicating whether they are masculine (masc) or feminine (fem) when gendered:
+1. **Job:**
+   - A "job" typically refers to a specific position of employment or work that a person holds within an organization or as part of their occupation.
+   - It often involves a set of tasks, responsibilities, and duties performed in exchange for compensation, such as a salary or wage.
+   - For example, someone might say, "I have a job as a teacher," meaning they are employed in a teaching position.
+
+2. **Work:**
+   - "Work" is a broader term that encompasses all types of activities and tasks that people engage in to accomplish something or produce results.
+   - It doesn't necessarily refer to a specific position or employment but can encompass any productive or constructive activity.
+   - "Work" can include both paid employment (job) and unpaid activities, such as housework, volunteer work, or creative work.
+   - For example, "I have a lot of work to do" could refer to tasks both related to one's job and other responsibilities.
+
 
 | Portuguese      | Tipo de Palavra  | IPA             | English            | IPA (USA)    | Spanish       | Spanish IPA      | No. |
 |-----------------|------------------|-----------------|--------------------|-------------|---------------|------------------|-----|

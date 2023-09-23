@@ -32,6 +32,92 @@
 
 
 
+**Eu** me levanto cedo todas as manhãs. 
+_I_ get up early every morning.
+
+**Eu** gosto de ler livros nas horas vagas. 
+_I_ enjoy reading books in my free time.
+
+**Tu** vais ao cinema esta noite? 
+_Are_ you going to the cinema tonight?
+
+**Tu** te cuidas muito bem. 
+_You_ take good care of yourself.
+
+**Você** pode me dar uma carona? 
+_Can_ you give me a ride?
+
+**Ele** se olha no espelho. 
+_He_ looks at himself in the mirror.
+
+**Ela** se maquia antes de sair. 
+_She_ puts on makeup before going out.
+
+**Ele** está estudando para a prova. 
+_He_ is studying for the test.
+
+**Ela** trabalha como professora de inglês. 
+_She_ works as an English teacher.
+
+
+
+**Nós** nos divertimos na festa. 
+_We_ had fun at the party.
+
+**Nós** vamos ao parque todos os domingos. 
+_We_ go to the park every Sunday.
+
+**Vós** vos preocupais demais. 
+_You_ worry too much.
+
+**Vós** sois os convidados de honra nesta festa. 
+_You_ are the guests of honor at this party.
+
+**Vocês** se ajudam muito no trabalho. 
+_You all_ help each other a lot at work.
+
+**Vocês** se divertem nas festas. 
+_You all_ have fun at parties.
+
+**Vocês** são os anfitriões desta festa. 
+_You all_ are the hosts of this party.
+
+
+**Eles** estão planejando uma viagem para o exterior. 
+_They_ are planning a trip abroad.
+
+**Elas** são colegas de trabalho. 
+_They_ are coworkers.
+
+**Eles** se cumprimentam com um aperto de mão. 
+_They_ greet each other with a handshake.
+
+**Elas** se esqueceram das chaves. 
+_They_ forgot the keys.
+
+
+
+
+
+
+**Meu** carro é vermelho. 
+_My_ car is red.
+
+**Teu** celular é moderno. 
+_Your_ cellphone is modern.
+
+**Seu** livro está na mesa. 
+_His/Her/Its_ book is on the table.
+
+**Nosso** time ganhou o campeonato. 
+_Our_ team won the championship.
+
+**Vosso** projeto foi bem-sucedido. 
+_Your_ project was successful.
+
+**Seu** carro está sujo. 
+_Their_ car is dirty.
+
 
 
 ## NOUNS

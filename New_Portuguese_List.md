@@ -47,6 +47,12 @@ _You_ take good care of yourself.
 **Você** pode me dar uma carona? 
 _Can_ you give me a ride?
 
+**Você** pode trazer o seu laptop para a reunião. 
+_You_ can bring your laptop to the meeting.
+
+**Você** deve cuidar dos seus pertences pessoais. 
+_You_ should take care of your personal belongings.
+
 **Ele** se olha no espelho. 
 _He_ looks at himself in the mirror.
 

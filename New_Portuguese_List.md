@@ -16,10 +16,12 @@
 | elas | 3ª pessoa (fem.) | /ˈɛ.lɐʃ/ | they (feminino) | /ðeɪ/ | ellas | /ˈe.ʎas/ | 1009|
 | vocês | 2ª pessoa (formal) | /ˈvo.seʃ/ | you all (formal) | /ju ɔl/ | ustedes | /usˈteðes/ |1010 |
 | **Pronomes Possessivos** | | | | | | | |
-| meu | 1ª pessoa | /ˈme.w/ | my | /maɪ/ | mi | /mi/ | |
-| teu | 2ª pessoa | /ˈtew/ | your (informal) | /jʊr/ | tu | /tu/ | |
-| seu | 3ª pessoa | /ˈse.w/ | his/her/its | /hɪz/hɜr/ɪts | su | /su/ | |
-| nosso | 1ª pessoa | /ˈnɔs.wu/ | our | /aʊr/ | nuestro | /nuesˈtɾo/ | |
+| meu | 1ª pessoa | /ˈme.w/ | my | /maɪ/ | mi | /mi/                                       |1012|
+| teu | 2ª pessoa | /ˈtew/ | your | /jʊr/ | tu | /tu/                                      |1013|
+| seu | 3ª pessoa | /ˈse.w/ | his/her/its (maculine possession) | /hɪz/hɜr/ɪts | su | /su/ |1014|
+| sua | 3ª pessoa | /ˈsu.w/ | his/her/its (feminine possession) | /hɪz/hɜr/ɪts | su | /su/ |1015|
+| nosso | 1ª pessoa | /ˈnɔs.wu/ | our (masculine possession)| /aʊr/ | nuestro | /nuesˈtɾo/ |1016|
+  | nossa | 1ª pessoa | /ˈnɔ.sɐ/ | our (feminine possession) | /aʊr/ | nuestra | /nuesˈtɾa/  |1016|
 | vosso | 2ª pessoa (formal) | /ˈvɔs.su/ | your (formal, raramente usado) | /jʊr/ | vuestro | /bwesˈtɾo/ | |
 | seu | 3ª pessoa | /ˈse.w/ | their | /ðɛr/ | su | /su/ | |
 | **Pronomes Reflexivos** | | | | | | | |
@@ -117,6 +119,22 @@ _His/Her/Its_ book is on the table.
 
 **Nosso** time ganhou o campeonato. 
 _Our_ team won the championship.
+
+**Nosso** time ganhou o campeonato.
+_Our_ team won the championship.
+
+Precisamos melhorar **nosso** desempenho no trabalho.
+We need to improve _our_ performance at work.
+
+**Nossa** festa de aniversário será no próximo sábado. 
+_Our_ birthday party will be next Saturday.
+
+Precisamos organizar **nossa** agenda para a próxima semana. 
+_We_ need to organize our schedule for next week.
+
+Adoramos **nossa** casa nova.
+_We_ love our new house.
+
 
 **Vosso** projeto foi bem-sucedido. 
 _Your_ project was successful.

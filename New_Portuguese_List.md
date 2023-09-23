@@ -18,19 +18,19 @@
 | **Pronomes Possessivos** | | | | | | | |
 | meu | 1ª pessoa | /ˈme.w/ | my | /maɪ/ | mi | /mi/                                       |1012|
 | teu | 2ª pessoa | /ˈtew/ | your | /jʊr/ | tu | /tu/                                      |1013|
-| seu | 3ª pessoa | /ˈse.w/ | his/her/its (maculine possession) | /hɪz/hɜr/ɪts | su | /su/ |1014|
+| seu | 3ª pessoa | /ˈse.w/ | his/her/its (maculine possession) | /hɪz/hɜr/ɪts | su | /su/ |1015|
 | sua | 3ª pessoa | /ˈsu.w/ | his/her/its (feminine possession) | /hɪz/hɜr/ɪts | su | /su/ |1015|
 | nosso | 1ª pessoa | /ˈnɔs.wu/ | our (masculine possession)| /aʊr/ | nuestro | /nuesˈtɾo/ |1016|
-  | nossa | 1ª pessoa | /ˈnɔ.sɐ/ | our (feminine possession) | /aʊr/ | nuestra | /nuesˈtɾa/  |1016|
-| vosso | 2ª pessoa (formal) | /ˈvɔs.su/ | your (formal, raramente usado) | /jʊr/ | vuestro | /bwesˈtɾo/ | |
-| seu | 3ª pessoa | /ˈse.w/ | their | /ðɛr/ | su | /su/ | |
+| nossa | 1ª pessoa | /ˈnɔ.sɐ/ | our (feminine possession) | /aʊr/ | nuestra | /nuesˈtɾa/  |1016|
+| vosso | 2ª pessoa (formal) | /ˈvɔs.su/ | your (formal, raramente usado) | /jʊr/ | vuestro | /bwesˈtɾo/ ||
+| seu | 3ª pessoa | /ˈse.w/ | their | /ðɛr/ | su | /su/                                     |1014|
 | **Pronomes Reflexivos** | | | | | | | |
-| me | 1ª pessoa | /ˈme/ | myself | /maɪˈsɛlf/ | me | /me/ | |
-| te | 2ª pessoa | /ˈte/ | yourself | /jɔrˈsɛlf/ | te | /te/ | |
+| me | 1ª pessoa | /ˈme/ | myself | /maɪˈsɛlf/ | me | /me/                                 |1017|
+| te | 2ª pessoa | /ˈte/ | yourself | /jɔrˈsɛlf/ | te | /te/                               | |
 | se | 3ª pessoa | /ˈse/ | himself/herself/itself | /hɪmˈsɛlf/hɜrˈsɛlf/ɪtˈsɛlf | se | /se/ | |
-| nos | 1ª pessoa | /ˈnɔs/ | ourselves | /aʊrˈsɛlvz/ | nos | /nos/ | |
-| vos | 2ª pessoa | /ˈvɔs/ | yourselves | /jɔrˈsɛlvz/ | vos | /bos/ | |
-| se | 3ª pessoa | /ˈse/ | themselves | /ðɛmˈsɛlvz/ | se | /se/ | |
+| nos | 1ª pessoa | /ˈnɔs/ | ourselves | /aʊrˈsɛlvz/ | nos | /nos/                         | |
+| vos | 2ª pessoa | /ˈvɔs/ | yourselves | /jɔrˈsɛlvz/ | vos | /bos/                        | |
+| se | 3ª pessoa | /ˈse/ | themselves | /ðɛmˈsɛlvz/ | se | /se/                            | |
 
 
 

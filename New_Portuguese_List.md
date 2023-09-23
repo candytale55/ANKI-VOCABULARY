@@ -26,11 +26,11 @@
 | seu | 3ª pessoa | /ˈse.w/ | their | /ðɛr/ | su | /su/                                     |1014|
 | **Pronomes Reflexivos** | | | | | | | |
 | me | 1ª pessoa | /ˈme/ | myself | /maɪˈsɛlf/ | me | /me/                                 |1017|
-| te | 2ª pessoa | /ˈte/ | yourself | /jɔrˈsɛlf/ | te | /te/                               | |
-| se | 3ª pessoa | /ˈse/ | himself/herself/itself | /hɪmˈsɛlf/hɜrˈsɛlf/ɪtˈsɛlf | se | /se/ | |
-| nos | 1ª pessoa | /ˈnɔs/ | ourselves | /aʊrˈsɛlvz/ | nos | /nos/                         | |
-| vos | 2ª pessoa | /ˈvɔs/ | yourselves | /jɔrˈsɛlvz/ | vos | /bos/                        | |
-| se | 3ª pessoa | /ˈse/ | themselves | /ðɛmˈsɛlvz/ | se | /se/                            | |
+| te | 2ª pessoa | /ˈte/ | yourself | /jɔrˈsɛlf/ | te | /te/                               |1018|
+| se | 3ª pessoa | /ˈse/ | himself/herself/itself | /hɪmˈsɛlf/hɜrˈsɛlf/ɪtˈsɛlf | se | /se/ |1019|
+| nos | 1ª pessoa | /ˈnɔs/ | ourselves | /aʊrˈsɛlvz/ | nos | /nos/                         |1020|
+| vos | 2ª pessoa | /ˈvɔs/ | yourselves | /jɔrˈsɛlvz/ | vos | /bos/                        |1021|
+| se | 3ª pessoa | /ˈse/ | themselves | /ðɛmˈsɛlvz/ | se | /se/                            |1019|
 
 
 
@@ -142,6 +142,63 @@ _Your_ project was successful.
 **Seu** carro está sujo. 
 _Their_ car is dirty.
 
+
+
+Certainly, here are the sentences in the requested format:
+
+_Eu_ **me** levanto cedo todas as manhãs.
+_I_ get up early every morning.
+
+_Eu_ **me** esqueci das chaves em casa.
+_I_ forgot the keys at home.
+
+_Eu_ **me** cuido fazendo exercícios regularmente.
+_I_ take care of myself by exercising regularly.
+
+_Tu_ **te** preparas bem para os exames.
+_You_ prepare well for exams.
+
+_Tu_ **te** lembras do nosso encontro de amanhã?
+_Do_ you remember our meeting tomorrow?
+
+_Tu_ **te** sentes feliz hoje?
+_Are_ you feeling happy today?
+
+_Ele_ **se** olha no espelho antes de sair.
+_He_ looks at himself in the mirror before going out.
+
+_Ela_ **se** sente cansada depois do trabalho.
+_She_ feels tired after work.
+
+_Eles_ **se** divertiram muito na festa.
+_They_ had a lot of fun at the party.
+
+_Nós_ **nos** encontramos no parque.
+_We_ meet at the park.
+
+_Nós_ **nos** ajudamos nos momentos difíceis.
+_We_ help each other in tough times.
+
+_Nós_ **nos** divertimos na viagem de férias.
+_We_ had fun on the vacation trip.
+
+_Vós_ **vos** preocupais com o meio ambiente.
+_You_ care about the environment.
+
+_Vós_ **vos** comunicais bem em diferentes idiomas.
+_You_ communicate well in different languages.
+
+_Vós_ **vos** esforçais para alcançar vossos objetivos.
+_You_ make an effort to achieve your goals.
+
+_Eles_ **se** reúnem todos os domingos.
+_They_ meet every Sunday.
+
+_Elas_ **se** dedicam à carreira artística.
+_They_ are dedicated to their artistic careers.
+
+_Eles_ **se** despediram com tristeza.
+_They_ said goodbye with sadness.
 
 
 ## NOUNS

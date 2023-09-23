@@ -11,7 +11,7 @@
 | ela | 3ª pessoa (fem.) | /ˈɛ.lɐ/ | she | /ʃi/ | ella | /e.ʎa/ |1005 |
 | você | 2ª pessoa (formal) | /ˈvo.se/ | you (formal) | /ju/ | usted | /usˈteð/ | 1003|
 | nós | 1ª pessoa | /ˈnɔs/ | we | /wi/ | nosotros | /noˈsotɾos/ |1006 |
-| vós | 2ª pessoa (formal) | /ˈvɔs/ | you (formal, raramente usado) | /ju/ | vosotros | /boˈso.tɾos/ |1007 |
+| vós | 2ª pessoa (formal) | /ˈvɔs/ | you (formal, raramente usado) | /ju/ | vosotros | /boˈso.tɾos/ ||
 | eles | 3ª pessoa (masc.) | /ˈe.lɨʃ/ | they (masculino) | /ðeɪ/ | ellos | /ˈe.ʎos/ |1008 |
 | elas | 3ª pessoa (fem.) | /ˈɛ.lɐʃ/ | they (feminino) | /ðeɪ/ | ellas | /ˈe.ʎas/ | 1009|
 | vocês | 2ª pessoa (formal) | /ˈvo.seʃ/ | you all (formal) | /ju ɔl/ | ustedes | /usˈteðes/ |1010 |

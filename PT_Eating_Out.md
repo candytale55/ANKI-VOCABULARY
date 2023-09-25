@@ -21,9 +21,13 @@ Common Portuguese words and phrases you might need when going out to eat breakfa
 | ovo                    | substantivo (masc)| /ˈɔ.vu/             | egg                    | /ɛɡ/           | huevo               | /ˈwebo/        |     |
 | bacon                   | substantivo (masc)| /ˈba.kõ/            | bacon                  | /ˈbeɪkən/     | bacon               | /ˈbeikon/      |     |
 | iogurte                 | substantivo (masc)| /jo.ˈɡuʁ.tɨ/       | yogurt                 | /ˈjoʊɡərt/    | yogur               | /ʝoˈɣur/       |     |
-| fruta                   | substantivo (fem) | /ˈfɾu.tɐ/           | fruit                  | /fruːt/        | fruta               | /ˈf
-
-
+| fruta                   | substantivo (fem) | /ˈfɾu.tɐ/           | fruit                  | /fruːt/        | fruta               | /ˈfɾuta/       |     |
+| salada de frutas        | substantivo (fem) | /sa.ˈla.dɐ dʒi ˈfru.tɐs/ | fruit salad         | /fruːt ˈsæləd/ | ensalada de frutas  | /ensalaˈða ðe ˈfɾutas/ |     |
+| cereais                | substantivo (masc)| /se.ɾe.ˈajs/       | cereal                 | /ˈsɪriəl/      | cereales            | /θeɾeˈales/     |     |
+| leite                   | substantivo (masc)| /ˈlej.tɨ/           | milk                   | /mɪlk/         | leche               | /ˈletʃe/       |     |
+| queijo                 | substantivo (masc)| /ˈkej.ʒu/          | cheese                 | /ʧiz/          | queso               | /ˈkeso/        |     |
+| presunto               | substantivo (masc)| /pɾɨ.ˈzũ.tu/       | ham                    | /hæm/          | jamón               | /xaˈmon/       |     |
+| sobremesa          | substantivo (fem) | /su.ˈbɾe.mɐ.sɐ/ | dessert                | /dɪˈzɜrt/      | postre              | /ˈpostɾe/      |     |
 
 | Portuguese              | Tipo de Palavra   | IPA               | English              | IPA (USA)      | Spanish            | Spanish IPA     | No. |
 |-------------------------|-------------------|-------------------|----------------------|---------------|--------------------|-----------------|-----|
@@ -50,4 +54,17 @@ Common Portuguese words and phrases you might need when going out to eat breakfa
 | carne                  | substantivo (fem) | /ˈkaɾ.nɨ/          | meat                 | /miːt/         | carne               | /ˈkaɾne/        |     |
 | frango                 | substantivo (masc)| /ˈfɾɐ̃.ɡu/          | chicken              | /ˈʧɪkɪn/      | pollo               | /ˈpoʎo/         |     |
 | peixe                  | substantivo (masc)| /ˈpej.ʃɨ/           | fish                 | /fɪʃ/          | pescado             | /peˈskaðo/     |     |
-| vegetariano            | adjetivo          | /ˌvɛ.dʒɪˈtɛ.ɾi.ˈɐ.nu/ | vegetarian           | /ˌvɛdʒəˈtɛriən/| vegetariano         | /βeʝetaˈɾjano/ |     |
+| vegetariano            | adjetivo          | /ˌvɛ.dʒɪˈtɛ.ɾi.ˈɐ.nu/ | vegetarian           | /ˌvɛdʒəˈtɛriən/| 
+vegetariano         | /βeʝetaˈɾjano/ |     |
+| alface                  | substantivo (fem) | /al.ˈfa.sɨ/        | lettuce                | /ˈlɛtɪs/       | lechuga             | /leˈʧuɣa/      |     |
+| tomate                | substantivo (masc)| /to.ˈma.tɨ/       | tomato                 | /təˈmeɪtoʊ/   | tomate              | /toˈmate/      |     |
+| cebola                | substantivo (fem) | /se.ˈbo.lɐ/        | onion                  | /ˈʌnjən/       | cebolla             | /θeˈboʎa/      |     |
+| batata                | substantivo (fem) | /ba.ˈta.tɐ/        | potato                 | /pəˈteɪtoʊ/   | patata              | /paˈtata/      |     |
+| arroz                   | substantivo (masc)| /a.ˈhoʊʃ/         | rice                    | /raɪs/          | arroz               | /aˈros/        |     |
+| feijão                | substantivo (masc)| /fe.ʒɐ̃w/           | beans                  | /binz/         | frijoles            | /friˈxoles/    |     |
+| massa                | substantivo (fem) | /ˈma.sɐ/           | pasta/noodles          | /ˈpæstə/       | pasta               | /ˈpasta/       |     |
+| molho                  | substantivo (masc)| /ˈmo.ʎu/           | sauce                  | /sɔs/          | salsa               | /ˈsalsa/       |     |
+| ketchup               | substantivo (masc)| /ˈkɛʧ.əp/         | ketchup                | /ˈkɛtʃəp/     | kétchup            | /ˈketʃup/      |     |
+| mostarda             | substantivo (fem) | /moʃ.ˈtaɾ.dɐ/     | mustard                | /ˈmʌstərd/    | mostaza             | /mosˈtasa/     |     |
+| pimenta               | substantivo (fem) | /pi.ˈmẽ.tɐ/        | pepper                 | /ˈpɛpər/       | pimienta            | /piˈmjenta/    |     |
+| sobremesa          | substantivo (fem) | /su.ˈbɾe.mɐ.sɐ/ | dessert                | /dɪˈzɜrt/      | postre              | /ˈpostɾe/      |     |

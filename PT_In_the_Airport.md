@@ -1,4 +1,6 @@
-Certainly, here's a list of common Portuguese words and phrases that you might need when going to the airport:
+# In the Airport
+
+List of common Portuguese words and phrases that you might need when going to the airport:
 
 | Portuguese               | Tipo de Palavra         | IPA              | English                 | IPA (USA)      | Spanish                    | Spanish IPA          | No. |
 |--------------------------|-------------------------|------------------|-------------------------|---------------|----------------------------|----------------------|-----|
@@ -18,9 +20,7 @@ Certainly, here's a list of common Portuguese words and phrases that you might n
 | horário de partida       | substantivo (masc)      | /o.ˈɾa.ɾju ðe paɾ.ˈti.ðɐ/ | departure time  | /dɪˈpɑrtʃər taɪm/ | hora de salida           | /ˈora ðe saˈliða/ |     |
 | horário de chegada       | substantivo (masc)      | /o.ˈɾa.ɾju ðe ʃe.ˈɡa.dɐ/ | arrival time    | /əˈraɪvəl taɪm/ | hora de llegada           | /ˈora ðe ʝeˈɣaða/ |     |
 | voo                      | substantivo (masc)      | /ˈvo.ʊ/           | flight                   | /flaɪt/        | vuelo                      | /ˈbwelo/              |     |
-| portão de embarque       | substantivo (masc)      | /poɾˈtɐ̃w ðe ɐ̃.baɾ.ˈke/ | departure gate | /dɪˈpɑrtʃər ɡ
-
-eɪt/ | puerta de embarque        | /ˈpwerta ðe emˈbaɾke/ |     |
+| portão de embarque       | substantivo (masc)      | /poɾˈtɐ̃w ðe ɐ̃.baɾ.ˈke/ | departure gate | /dɪˈpɑrtʃər ɡeɪt/ | puerta de embarque        | /ˈpwerta ðe emˈbaɾke/ |     |
 | bilhete de embarque      | substantivo (masc)      | /bi.ˈʎɛ.tɨ ðe ɐ̃.baɾ.ˈke/ | boarding pass  | /ˈbɔrdɪŋ pæs/ | tarjeta de embarque       | /tarˈxeta ðe emˈbaɾke/ |     |
 | segurança                | substantivo (fem)       | /sɨ.ɡuˈɾɐ̃s.jɐ/   | security                 | /sɪˈkjʊrəti/   | seguridad                  | /seɡuɾiˈðað/           |     |
 | controle de segurança    | substantivo (masc)      | /kõ.tɾo.ˈle ðe sɨ.ɡuˈɾɐ̃s.jɐ/ | security check | /sɪˈkjʊrəti ʧɛk/ | control de seguridad      | /konˈtɾole ðe seɡuɾiˈðað/ |     |
@@ -32,9 +32,7 @@ eɪt/ | puerta de embarque        | /ˈpwerta ðe emˈbaɾke/ |     |
 | piloto                   | substantivo (masc)      | /pi.ˈlo.to/        | pilot                   | /ˈpaɪlət/      | piloto                     | /piˈloto/             |     |
 | comissário de bordo      | substantivo (masc)      | /ko.mi.sɐ.ˈɾju ðɨ ˈboɾ.du/ | flight attendant | /flaɪt əˈtɛndənt/ | auxiliar de vuelo          | /awˈksiljaɾ ðe ˈbwelo/ |     |
 | bagagem de mão          | substantivo (fem)       | /bɐ.ˈɡa.ʒẽw ðɨ ˈmɐ̃w/ | carry-on baggage  | /ˈkæri ɔn ˈbæɡɪdʒ/ | equipaje de mano          | /e.kiˈpaχe ðe ˈma.no/  |     |
-| esteira de bagagem       | substantivo (fem)       | /isˈtɐj.ɾɐ ðɨ bɐ.ˈɡa.ʒẽw/ | baggage carousel | /ˈbæɡɪdʒ 
-
-ˈkærəˌsɛl/ | cinta transportadora de equipaje | /ˈsinta tɾanspoɾtaˈðoɾa ðe e.kiˈpaχe/ |     |
+| esteira de bagagem       | substantivo (fem)       | /isˈtɐj.ɾɐ ðɨ bɐ.ˈɡa.ʒẽw/ | baggage carousel | /ˈbæɡɪdʒ ˈkærəˌsɛl/ | cinta transportadora de equipaje | /ˈsinta tɾanspoɾtaˈðoɾa ðe e.kiˈpaχe/ |     |
 | voo direto              | substantivo (masc)      | /ˈvoʊ diˈrɛk.tu/  | direct flight           | /dɪˈrɛkt flaɪt/ | vuelo directo              | /ˈbwelo ðiˈɾekto/    |     |
 | escala                   | substantivo (fem)       | /ɨsˈka.lɐ/        | layover, stopover       | /ˈleɪoʊvər/    | escala                     | /esˈkala/             |     |
 | cartão de embarque       | substantivo (masc)      | /ˈkaɾ.tɐ̃w ðe ɐ̃.baɾ.ˈke/ | boarding pass   | /ˈbɔrdɪŋ pæs/ | tarjeta de embarque        | /tarˈxeta ðe emˈbaɾke/ |     |
@@ -45,4 +43,3 @@ eɪt/ | puerta de embarque        | /ˈpwerta ðe emˈbaɾke/ |     |
 | partida                  | substantivo (fem)       | /pɐɾ.ˈti.dɐ/       | departure               | /dɪˈpɑrtʃər/    | salida                     | /saˈliða/              |     |
 | chegada                  | substantivo (fem)       | /ʃi.ˈɡa.dɐ/        | arrival                 | /əˈraɪvəl/     | llegada                    | /ʝeˈɣaða/              |     |
 
-These words and phrases should be useful when traveling through airports in Portuguese-speaking countries.

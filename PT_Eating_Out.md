@@ -97,3 +97,24 @@ vegetariano         | /βeʝetaˈɾjano/ |     |
 | chá                     | substantivo (masc)| /ʃa/                 | tea                    | /ti/               | té                   | /te/               |     |
 | suco de fruta          | substantivo (masc)| /ˈsu.ku dʒi ˈfɾu.tɐ/  | fruit juice           | /fruːt ʤuːs/  | zumo de fruta    | /ˈθumo ðe ˈfɾuta/    |     |
 | fruta                   | substantivo (fem) | /ˈfɾu.tɐ/            | fruit                   | /fruːt/            | fruta                | /ˈfɾutɐ/          |     |
+
+
+
+| Portuguese             | Tipo de Palavra   | IPA                   | English              | IPA (USA)      | Spanish            | Spanish IPA     | No. |
+|------------------------|-------------------|-----------------------|----------------------|---------------|--------------------|-----------------|-----|
+| arroz                  | substantivo (masc)| /a.ˈʁɔz/             | rice                 | /raɪs/        | arroz               | /aˈroθ/       |     |
+| feijão                 | substantivo (masc)| /fej.ˈʒɐ̃w/         | beans                | /biːnz/       | frijoles            | /fɾiˈxoles/    |     |
+| carne                  | substantivo (fem) | /ˈkaɾ.nɨ/            | meat                 | /miːt/        | carne               | /ˈkaɾne/       |     |
+| frango                 | substantivo (masc)| /ˈfɾɐ̃.ɡu/           | chicken              | /ˈʧɪkən/     | pollo                | /ˈpoʎo/        |     |
+| peixe                  | substantivo (masc)| /ˈpej.ʃɨ/            | fish                 | /fɪʃ/         | pescado            | /pesˈkaðo/    |     |
+| carne de porco         | substantivo (fem) | /ˈkaɾ.nɨ dɨ ˈpoɾ.ku/  | pork                 | /pɔrk/        | carne de cerdo    | /ˈkaɾne ðe ˈθeɾðo/ |     |
+| linguiça               | substantivo (fem) | /liŋ.ˈɡwis.ɐ/       | sausage              | /ˈsɔsɪdʒ/     | salchicha          | /salˈʧitʃa/   |     |
+| sopa                   | substantivo (fem) | /ˈso.pɐ/             | soup                 | /suːp/        | sopa                | /ˈsopa/        |     |
+| salada                 | substantivo (fem) | /sa.ˈla.dɐ/          | salad                | /ˈsæləd/      | ensalada           | /ensalaˈða/   |     |
+| pão de queijo          | substantivo (masc)| /ˈpɐ̃w dʒi ˈkej.ʒu/ | cheese bread         | /ʧiz brɛd/    | pan de queso       | /pan de ˈkeso/ |     |
+| coxinha                | substantivo (fem) | /ko.ˈʃi.ɲɐ/          | coxinha (snack)     | /kəˈʃiːnjə/   | coxinha             | /koˈʃinja/     |     |
+| acarajé                | substantivo (masc)| /a.ka.ˈɾa.ʒɪ/       | acarajé (snack)     | /əˌkɑːrəˈʒeɪ/ | acarajé             | /akaraˈxe/     |     |
+| açaí                   | substantivo (masc)| /a.ˌsa.ˈi/           | açaí                 | /əˌsaɪiː/     | açaí                | /aˈsa.i/       |     |
+| moqueca                | substantivo (fem) | /moˈke.kɐ/           | moqueca (stew)      | /moʊˈkeɪkə/   | moqueca             | /moˈkeka/      |     |
+| acarajé                | substantivo (masc)| /a.ka.ˈɾa.ʒɪ/       | acarajé (snack)     | /əˌkɑːrəˈʒeɪ/ | acarajé             | /akaraˈxe/     |     |
+

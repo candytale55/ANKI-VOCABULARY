@@ -29,6 +29,8 @@ Common Portuguese words and phrases you might need when going out to eat breakfa
 | presunto               | substantivo (masc)| /pɾɨ.ˈzũ.tu/       | ham                    | /hæm/          | jamón               | /xaˈmon/       |     |
 | sobremesa          | substantivo (fem) | /su.ˈbɾe.mɐ.sɐ/ | dessert                | /dɪˈzɜrt/      | postre              | /ˈpostɾe/      |     |
 
+## Lunch
+
 | Portuguese              | Tipo de Palavra   | IPA               | English              | IPA (USA)      | Spanish            | Spanish IPA     | No. |
 |-------------------------|-------------------|-------------------|----------------------|---------------|--------------------|-----------------|-----|
 | restaurante             | substantivo (masc)| /ʁɛs.taw.ɾɐ̃ˈtɨ/   | restaurant           | /ˈrɛs.təˌrɑnt/| restaurante         | /restawˈɾante/ |     |
@@ -68,3 +70,30 @@ vegetariano         | /βeʝetaˈɾjano/ |     |
 | mostarda             | substantivo (fem) | /moʃ.ˈtaɾ.dɐ/     | mustard                | /ˈmʌstərd/    | mostaza             | /mosˈtasa/     |     |
 | pimenta               | substantivo (fem) | /pi.ˈmẽ.tɐ/        | pepper                 | /ˈpɛpər/       | pimienta            | /piˈmjenta/    |     |
 | sobremesa          | substantivo (fem) | /su.ˈbɾe.mɐ.sɐ/ | dessert                | /dɪˈzɜrt/      | postre              | /ˈpostɾe/      |     |
+
+
+## Dinner
+
+| Portuguese              | Tipo de Palavra   | IPA               | English                | IPA (USA)      | Spanish            | Spanish IPA     | No. |
+|-------------------------|-------------------|-------------------|------------------------|---------------|--------------------|-----------------|-----|
+| jantar                   | substantivo (masc)| /ʒɐ̃ˈtaɾ/            | dinner                 | /ˈdɪnər/       | cena               | /ˈθena/       |     |
+| restaurante             | substantivo (masc)| /ʁɛs.taw.ɾɐ̃ˈtɨ/   | restaurant             | /ˈrɛs.təˌrɑnt/| restaurante         | /restawˈɾante/ |     |
+| mesa                    | substantivo (fem) | /ˈme.zɐ/          | table                  | /ˈteɪbəl/     | mesa                | /ˈmesa/        |     |
+| cadeira                 | substantivo (fem) | /kaˈdej.ɾɐ/       | chair                  | /ʧɛr/          | silla               | /ˈsiʎa/        |     |
+| garçom                  | substantivo (masc)| /ɡaʁˈsɔ̃/          | waiter                 | /ˈweɪtər/     | camarero           | /kamaˈɾeɾo/   |     |
+| garçonete              | substantivo (fem) | /ɡaʁ.sa.ˈnɛt/     | waitress               | /ˈweɪ.trəs/   | camarera           | /kamaˈɾeɾa/   |     |
+| cardápio               | substantivo (masc)| /karˈda.pi.u/      | menu                   | /ˈmɛnjuː/     | carta de menú      | /ˈkaɾta ðe ˈmen.u/ |     |
+| pedido                 | substantivo (masc)| /ˈpe.ʤu/           | order                  | /ˈɔrdər/      | pedido              | /peˈðiðo/      |     |
+| vinho                   | substantivo (masc)| /ˈvi.ɲu/            | wine                   | /waɪn/         | vino                | /ˈbino/        |     |
+| cerveja                | substantivo (fem) | /sɛɾ.ˈve.ʒɐ/       | beer                   | /bɪr/          | cerveza             | /θeɾˈβeθa/     |     |
+| água                   | substantivo (fem) | /ˈa.ɡwɐ/           | water                  | /ˈwɔtər/      | agua                | /ˈaɣwa/        |     |
+| refrigerante          | substantivo (masc)| /ˌre.fɾi.ʒe.ɾɐ̃.ˈtɨ/ | soft drink            | /sɔft drɪŋk/ | refresco           | /ɾefˈɾesko/   |     |
+| entrada                | substantivo (fem) | /ẽˈtɾa.dɐ/        | appetizer              | /ˈæpəˌtaɪzər/ | entrada             | /enˈtɾaða/     |     |
+| prato principal        | substantivo (masc)| /ˈpra.tu prin.si.ˈpaw/  | main course       | /meɪn kɔrs/   | plato principal     | /ˈplato prin.siˈpal/  |     |
+| sobremesa              | substantivo (fem) | /su.ˈbɾe.mɐ.sɐ/  | dessert                | /dɪˈzɜrt/      | postre              | /ˈpostɾe/      |     |
+| bolo                      | substantivo (masc)| /ˈbo.lu/             | cake                    | /keɪk/          | pastel              | /pasˈtel/      |     |
+| sorvete                 | substantivo (masc)| /soɾ.ˈve.tɨ/        | ice cream             | /aɪs krim/     | helado              | /eˈlaðo/       |     |
+| café                    | substantivo (masc)| /ˈka.fe/              | coffee                 | /ˈkɒfi/         | café                 | /ˈkafe/         |     |
+| chá                     | substantivo (masc)| /ʃa/                 | tea                    | /ti/               | té                   | /te/               |     |
+| suco de fruta          | substantivo (masc)| /ˈsu.ku dʒi ˈfɾu.tɐ/  | fruit juice           | /fruːt ʤuːs/  | zumo de fruta    | /ˈθumo ðe ˈfɾuta/    |     |
+| fruta                   | substantivo (fem) | /ˈfɾu.tɐ/            | fruit                   | /fruːt/            | fruta                | /ˈfɾutɐ/          |     |

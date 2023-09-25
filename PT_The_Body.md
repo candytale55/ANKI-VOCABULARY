@@ -1,4 +1,4 @@
-Certainly, here are the markdown lists for body parts as requested:
+
 
 **General Body Parts:**
 
@@ -32,15 +32,24 @@ Certainly, here are the markdown lists for body parts as requested:
 
 | Portuguese    | Tipo de Palavra    | IPA             | English     | IPA (USA) | Spanish       | Spanish IPA | No. |
 |---------------|--------------------|-----------------|-------------|-----------|---------------|------------|-----|
-| pés           | substantivo (masc) | /ˈ
-
-peʃ/          | feet        | /fiːt/    | pies          | /ˈpies/    |     |
+| pés           | substantivo (masc) | /ˈpeʃ/          | feet        | /fiːt/    | pies          | /ˈpies/    |     |
 | dedos dos pés | substantivo (masc) | /ˈde.dus dus ˈpeʃ/| toes      | /toʊz/    | dedos de los pies | /ˈdeðos de los ˈpies/ |     |
 | tornozelos    | substantivo (masc) | /toɾ.noˈze.luʃ/  | ankles      | /ˈæŋ.kəlz/| tobillos      | /toˈbiʎos/ |     |
 | mãos          | substantivo (fem)  | /ˈmɐ̃.us/        | hands       | /hændz/   | manos         | /ˈmanos/   |     |
 | dedos das mãos| substantivo (masc) | /ˈde.dus dus ˈmɐ̃.us/| fingers   | /ˈfɪŋ.ɡərz/| dedos de las manos | /ˈdeðos de las ˈmanos/|     |
-| dedos das mãos| substantivo (masc) | /ˈde.dus dus ˈmɐ̃.us/| fingers   | /ˈfɪŋ.ɡərz/| dedos de las manos | /ˈdeðos de las ˈmanos/|     |
 | joelhos       | substantivo (masc) | /ʒuˈeʎ.uz/      | knees       | /niːz/    | rodillas      | /roˈðiʎas/ |     |
 | quadris       | substantivo (masc) | /ˈkwad.ɾis/     | hips        | /hɪps/    | caderas       | /kaˈðeɾas/ |     |
 
-I've included general body parts, face parts, and feet/hands-related terms in the respective lists. Let me know if you need any more terms or if you have any other requests!
+
+Certainly, here's a list of finger and toe-related terms in Portuguese:
+
+**Fingers:**
+
+| Portuguese        | Tipo de Palavra    | IPA             | English           | IPA (USA)      | Spanish           | Spanish IPA | No. |
+|-------------------|--------------------|-----------------|-------------------|---------------|-------------------|------------|-----|
+| polegar           | substantivo (masc) | /poˈle.ɡaɾ/     | thumb             | /θʌm/         | pulgar            | /ˈpul.ɡar/ |     |
+| dedo indicador    | substantivo (masc) | /ˈde.du ˌin.di.ˈka.doɾ/| index finger   | /ˈɪn.dɛks ˈfɪŋ.ɡər/ | dedo índice    | /ˈde.ðo ˈin.ði.se/ |     |
+| dedo médio        | substantivo (masc) | /ˈde.du ˈme.dju/| middle finger     | /ˈmɪd.l ˈfɪŋ.ɡər/ | dedo medio    | /ˈde.ðo ˈme.ðjo/ |     |
+| dedo anelar       | substantivo (masc) | /ˈde.du a.ne.ˈlaɾ/| ring finger     | /rɪŋ ˈfɪŋ.ɡər/ | dedo anular   | /ˈde.ðo aˈnu.lar/ |     |
+| dedo mínimo       | substantivo (masc) | /ˈde.du ˈmi.ni.mu/| little finger    | /ˈlɪt.l ˈfɪŋ.ɡər/ | dedo meñique  | /ˈde.ðo meˈɲi.ke/ |     |
+| dedão do pé       | substantivo (masc) | /deˈdɐ̃w du ˈpe/| big toe           | /bɪɡ toʊ/     | dedo gordo del pie | /ˈdeðo ˈɡoɾðo del ˈpje/ |     |

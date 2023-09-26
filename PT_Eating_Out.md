@@ -34,7 +34,7 @@ Common Portuguese words and phrases you might need when going out to eat breakfa
 | Portuguese              | Tipo de Palavra   | IPA               | English              | IPA (USA)      | Spanish            | Spanish IPA     | No. |
 |-------------------------|-------------------|-------------------|----------------------|---------------|--------------------|-----------------|-----|
 | restaurante  | substantivo (masc)| /ʁɛs.taw.ɾɐ̃ˈtɨ/   | restaurant  | /ˈrɛs.təˌrɑnt/| restaurante | /restawˈɾante/ |2157|
-| prato  | substantivo (masc)| /ˈpra.tu/  | plate   | /pleɪt/  | plato    | /ˈplato/       |2174|
+| prato  | substantivo (masc)| /ˈpra.tu/  | plate , dish  | /pleɪt/, /dɪʃ/  | plato    | /ˈplato/       |2174|
 | garçom                  | substantivo (masc)| /ɡaʁˈsɔ̃/          | waiter               | /ˈweɪtər/     | camarero           | /kamaˈɾeɾo/   |     |
 | garçonete              | substantivo (fem) | /ɡaʁ.sa.ˈnɛt/     | waitress             | /ˈweɪ.trəs/   | camarera           | /kamaˈɾeɾa/   |     |
 | entrada                | substantivo (fem) | /ẽ.ˈtɾa.dɐ/        | appetizer/starter    | /ˈæp.ɪ.taɪzər/ | entrada             | /enˈtɾaða/     |     |
@@ -113,4 +113,11 @@ vegetariano         | /βeʝetaˈɾjano/ |     |
 | açaí                   | substantivo (masc)| /a.ˌsa.ˈi/           | açaí                 | /əˌsaɪiː/     | açaí                | /aˈsa.i/       |     |
 | moqueca                | substantivo (fem) | /moˈke.kɐ/           | moqueca (stew)      | /moʊˈkeɪkə/   | moqueca             | /moˈkeka/      |     |
 | acarajé                | substantivo (masc)| /a.ka.ˈɾa.ʒɪ/       | acarajé (snack)     | /əˌkɑːrəˈʒeɪ/ | acarajé             | /akaraˈxe/     |     |
+
+
+
+
+1. **Plate:** A "plate" typically refers to a flat, shallow, and round or oval dish that is used to serve individual portions of food. It is the standard item on which a main course or a portion of a meal is placed. Plates are usually made of various materials, such as ceramic, porcelain, glass, or plastic.
+
+2. **Dish:** "Dish" is a broader term that encompasses any container or vessel used for serving or holding food. It includes plates but can also refer to bowls, platters, serving dishes, and even cookware like casseroles or baking dishes. "Dish" is a more general term that covers a wider range of food-serving containers.
 

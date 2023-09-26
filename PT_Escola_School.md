@@ -9,7 +9,7 @@ This table includes words about school materials, subjects, and school life.
 | aluno | substantivo (masc) | /ɐˈlu.nu/| student (male) | /ˈstuːdənt/   | alumno   | /alˈumno/   |2145|
 | aluna | substantivo (fem) | /aˈlu.nɐ/ | student (female) | /ˈstuː.dənt/ | alumna | /aˈlumna/ |2145|
 | mochila          | substantivo (fem)  | /moˈʃi.lɐ/      | backpack           | /ˈbæk.pæk/ | mochila          | /moˈtʃila/ |     |
-| lápis            | substantivo (masc) | /ˈla.pis/        | pencil             | /ˈpɛn.səl/ | lápiz            | /ˈla.piθ/ |     |
+| lápis | substantivo (masc) | /ˈla.pis/        | pencil     | /ˈpɛn.səl/ | lápiz            | /ˈla.piθ/    |2161|
 | caneta           | substantivo (fem)  | /kaˈnɛ.tɐ/      | pen                | /pɛn/      | bolígrafo        | /boˈliɣɾa.fo/ | |
 | borracha         | substantivo (fem)  | /boˈra.ʃɐ/      | eraser             | /ɪˈreɪsər/  | goma de borrar   | /ˈɡoma ðe boˈraɾ/ | |
 | computador       | substantivo (masc) | /kom.pu.taˈdoɾ/  | computer           | /kəmˈpjuː.tər/| computadora      | /kompuˈtaðoɾa/ | |

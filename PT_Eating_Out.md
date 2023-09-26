@@ -2,30 +2,30 @@
 
 Common Portuguese words and phrases you might need when going out to eat breakfast with someone:
 
-| Portuguese              | Tipo de Palavra   | IPA               | English                | IPA (USA)      | Spanish            | Spanish IPA     | No. |
-|-------------------------|-------------------|-------------------|------------------------|---------------|--------------------|-----------------|-----|
-| café da manhã           | substantivo (masc)| /ˈka.fe dɐ maˈɲɐ̃/ | breakfast              | /ˈbrɛkfəst/   | desayuno           | /desaˈʝuno/    |     |
-| restaurante             | substantivo (masc)| /ʁɛs.taw.ɾɐ̃ˈtɨ/   | restaurant             | /ˈrɛs.təˌrɑnt/| restaurante         | /restawˈɾante/ |     |
-| mesa                    | substantivo (fem) | /ˈme.zɐ/          | table                  | /ˈteɪbəl/     | mesa                | /ˈmesa/        |     |
-| cadeira                 | substantivo (fem) | /kaˈdej.ɾɐ/       | chair                  | /ʧɛr/          | silla               | /ˈsiʎa/        |     |
+| Portuguese  | Tipo de Palavra   | IPA  | English     | IPA (USA)      | Spanish      | Spanish IPA     | No. |
+|-------------|-------------------|-------|-------------|---------------|--------------|-----------------|-----|
+| café da manhã   | substantivo (masc)| /ˈka.fe dɐ maˈɲɐ̃/ | breakfast | /ˈbrɛkfəst/ | desayuno  | /desaˈʝuno/ |2165|
+| restaurante  | substantivo (masc)| /ʁɛs.taw.ɾɐ̃ˈtɨ/   | restaurant  | /ˈrɛs.təˌrɑnt/| restaurante | /restawˈɾante/ |2157|
+| mesa | substantivo (fem) | /ˈme.zɐ/| table  | /ˈteɪbəl/     | mesa | /ˈmesa/                            |2166|
+| cadeira     | substantivo (fem) | /kaˈdej.ɾɐ/ | chair   | /ʧɛr/          | silla      | /ˈsiʎa/        |2167 |
 | garçom                  | substantivo (masc)| /ɡaʁˈsɔ̃/          | waiter                 | /ˈweɪtər/     | camarero           | /kamaˈɾeɾo/   |     |
 | garçonete              | substantivo (fem) | /ɡaʁ.sa.ˈnɛt/     | waitress               | /ˈweɪ.trəs/   | camarera           | /kamaˈɾeɾa/   |     |
 | cardápio               | substantivo (masc)| /karˈda.pi.u/      | menu                   | /ˈmɛnjuː/     | carta de menú      | /ˈkaɾta ðe ˈmen.u/ |     |
 | pedido                 | substantivo (masc)| /ˈpe.ʤu/           | order                  | /ˈɔrdər/      | pedido              | /peˈðiðo/      |     |
-| café                    | substantivo (masc)| /ˈka.fe/            | coffee                 | /ˈkɒfi/       | café                | /ˈkafe/        |     |
-| chá                     | substantivo (masc)| /ʃa/               | tea                    | /ti/           | té                  | /te/           |     |
-| suco de laranja        | substantivo (masc)| /ˈsu.ku dʒi la.ˈɾɐ̃.ʒɐ/ | orange juice           | /ˈɔrɪndʒ ʤuːs/| zumo de naranja    | /ˈθumo ðe naˈɾanxa/ |     |
-| pão                     | substantivo (masc)| /ˈpɐ̃w/             | bread                  | /brɛd/         | pan                 | /pan/          |     |
-| manteiga               | substantivo (fem) | /mɐ̃.ˈtɐj.ɡɐ/      | butter                 | /ˈbʌtər/      | mantequilla        | /manteˈkiʎa/   |     |
+| café    | substantivo (masc)| /ˈka.fe/ | coffee   | /ˈkɒfi/       | café      | /ˈkafe/        |2168|
+| chá    | substantivo (masc)| /ʃa/    | tea       | /ti/           | té                  | /te/           |     |
+| suco de laranja  | substantivo (masc)| /ˈsu.ku dʒi la.ˈɾɐ̃.ʒɐ/ | orange juice           | /ˈɔrɪndʒ ʤuːs/| zumo de naranja    | /ˈθumo ðe naˈɾanxa/ |     |
+| pão  | substantivo (masc)| /ˈpɐ̃w/   | bread   | /brɛd/   | pan    | /pan/          |2170|
+| manteiga | substantivo (fem) | /mɐ̃.ˈtɐj.ɡɐ/      | butter     | /ˈbʌtər/      | mantequilla        | /manteˈkiʎa/   |     |
 | geleia                  | substantivo (fem) | /ʒe.ˈle.jɐ/        | jam                    | /ʤæm/          | mermelada          | /meɾmeˈlaða/   |     |
-| ovo                    | substantivo (masc)| /ˈɔ.vu/             | egg                    | /ɛɡ/           | huevo               | /ˈwebo/        |     |
-| bacon                   | substantivo (masc)| /ˈba.kõ/            | bacon                  | /ˈbeɪkən/     | bacon               | /ˈbeikon/      |     |
+| ovo   | substantivo (masc)| /ˈɔ.vu/  | egg     | /ɛɡ/           | huevo        | /ˈwebo/        |2171|
+| bacon  | substantivo (masc)| /ˈba.kõ/            | bacon                  | /ˈbeɪkən/     | bacon               | /ˈbeikon/      |     |
 | iogurte                 | substantivo (masc)| /jo.ˈɡuʁ.tɨ/       | yogurt                 | /ˈjoʊɡərt/    | yogur               | /ʝoˈɣur/       |     |
 | fruta                   | substantivo (fem) | /ˈfɾu.tɐ/           | fruit                  | /fruːt/        | fruta               | /ˈfɾuta/       |     |
 | salada de frutas        | substantivo (fem) | /sa.ˈla.dɐ dʒi ˈfru.tɐs/ | fruit salad         | /fruːt ˈsæləd/ | ensalada de frutas  | /ensalaˈða ðe ˈfɾutas/ |     |
 | cereais                | substantivo (masc)| /se.ɾe.ˈajs/       | cereal                 | /ˈsɪriəl/      | cereales            | /θeɾeˈales/     |     |
-| leite                   | substantivo (masc)| /ˈlej.tɨ/           | milk                   | /mɪlk/         | leche               | /ˈletʃe/       |     |
-| queijo                 | substantivo (masc)| /ˈkej.ʒu/          | cheese                 | /ʧiz/          | queso               | /ˈkeso/        |     |
+| leite   | substantivo (masc)| /ˈlej.tɨ/   | milk  | /mɪlk/         | leche               | /ˈletʃe/       |     |
+| queijo     | substantivo (masc)| /ˈkej.ʒu/ | cheese      | /ʧiz/     | queso     | /ˈkeso/        |2172|
 | presunto               | substantivo (masc)| /pɾɨ.ˈzũ.tu/       | ham                    | /hæm/          | jamón               | /xaˈmon/       |     |
 | sobremesa          | substantivo (fem) | /su.ˈbɾe.mɐ.sɐ/ | dessert                | /dɪˈzɜrt/      | postre              | /ˈpostɾe/      |     |
 
@@ -33,12 +33,8 @@ Common Portuguese words and phrases you might need when going out to eat breakfa
 
 | Portuguese              | Tipo de Palavra   | IPA               | English              | IPA (USA)      | Spanish            | Spanish IPA     | No. |
 |-------------------------|-------------------|-------------------|----------------------|---------------|--------------------|-----------------|-----|
-| restaurante             | substantivo (masc)| /ʁɛs.taw.ɾɐ̃ˈtɨ/   | restaurant           | /ˈrɛs.təˌrɑnt/| restaurante         | /restawˈɾante/ |     |
-| mesa                    | substantivo (fem) | /ˈme.zɐ/          | table                | /ˈteɪbəl/     | mesa                | /ˈmesa/        |     |
-| cadeira                 | substantivo (fem) | /kaˈdej.ɾɐ/       | chair                | /ʧɛr/          | silla               | /ˈsiʎa/        |     |
-| cardápio               | substantivo (masc)| /karˈda.pi.u/      | menu                 | /ˈmɛnjuː/     | carta de menú      | /ˈkaɾta ðe ˈmen.u/ |     |
-| pedido                 | substantivo (masc)| /ˈpe.ʤu/           | order                | /ˈɔrdər/      | pedido              | /peˈðiðo/      |     |
-| prato                   | substantivo (masc)| /ˈpra.tu/          | dish/plate           | /dɪʃ/          | plato               | /ˈplato/       |     |
+| restaurante  | substantivo (masc)| /ʁɛs.taw.ɾɐ̃ˈtɨ/   | restaurant  | /ˈrɛs.təˌrɑnt/| restaurante | /restawˈɾante/ |2157|
+| prato  | substantivo (masc)| /ˈpra.tu/  | plate   | /pleɪt/  | plato    | /ˈplato/       |2174|
 | garçom                  | substantivo (masc)| /ɡaʁˈsɔ̃/          | waiter               | /ˈweɪtər/     | camarero           | /kamaˈɾeɾo/   |     |
 | garçonete              | substantivo (fem) | /ɡaʁ.sa.ˈnɛt/     | waitress             | /ˈweɪ.trəs/   | camarera           | /kamaˈɾeɾa/   |     |
 | entrada                | substantivo (fem) | /ẽ.ˈtɾa.dɐ/        | appetizer/starter    | /ˈæp.ɪ.taɪzər/ | entrada             | /enˈtɾaða/     |     |

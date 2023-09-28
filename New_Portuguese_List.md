@@ -201,6 +201,54 @@ _Eles_ **se** despediram com tristeza.
 _They_ said goodbye with sadness.
 
 
+## Prepositions
+
+| Portuguese  | Tipo de Palavra   | IPA  | English     | IPA (USA)      | Spanish      | Spanish IPA     | No. |
+|-------------|-------------------|-------|-------------|---------------|--------------|-----------------|-----|
+| de | preposição  | /dʒi/   | of, from | /ʌv, frʌm/ | de | /de/ ||
+| em | preposição  | /ẽj̃/  | in, on, at | /ɪn, ɒn, æt/ | en | /en/ ||
+| com | preposição  | /kõ/  | with | /wɪð/ | con | /kon/ ||
+| para | preposição  | /ˈpa.ɾɐ/  | for, to | /fɔr, tu/ | para | /paɾa/ ||
+| por | preposição  | /puʁ/  | by, for | /baɪ, fɔr/ | por | /por/ ||
+| até | preposição  | /ˈa.tɛ/   | until, up to | /ʌnˈtɪl, ʌp tu/ | hasta | /ˈasta/ ||
+| sobre | preposição  | /ˈso.bɾɨ/  | on, about, over | /ɒn, əˈbaʊt, ˈoʊ.vɚ/ | sobre | /ˈsoβɾe/ ||
+| entre | preposição  | /ˈẽtɾɨ/   | between | /bɪˈtwin/ | entre | /ˈentɾe/ ||
+
+**De** (of, from):
+- Ela é a irmã **de** João. _She is John's sister._
+- Este livro é **de** ficção. _This book is of fiction._
+
+**Em** (in, on, at):
+- O gato está **em** cima da mesa. _The cat is on the table._
+- Vou viajar **em** junho. _I will travel in June._
+
+**Com** (with):
+- Gosto de café **com** açúcar. _I like coffee with sugar._
+- Ele foi ao parque **com** seus amigos. _He went to the park with his friends._
+
+**Para** (for, to):
+- Comprei um presente **para** ela. _I bought a gift for her._
+- Estamos indo **para** a praia. _We are going to the beach._
+
+**Por** (by, for):
+- Este livro foi escrito **por** um autor famoso. _This book was written by a famous author._
+- Fiz isso **por** você. _I did this for you._
+
+**Até** (until, up to):
+- Vou trabalhar **até** tarde hoje. _I will work until late today._
+- Caminharemos **até** a montanha. _We will walk up to the mountain._
+
+**Sobre** (on, about, over):
+- Temos que conversar **sobre** esse assunto. _We need to talk about this matter._
+- O avião voa **sobre** as nuvens. _The plane flies over the clouds._
+
+**Entre** (between):
+- O parque fica **entre** a escola e o shopping. _The park is between the school and the mall._
+- A decisão está **entre** vocês dois. _The decision is between the two of you._
+
+
+
+
 ## NOUNS
 
 

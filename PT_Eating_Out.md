@@ -44,8 +44,8 @@ Common Portuguese words and phrases you might need when going out to eat breakfa
 | água                   | substantivo (fem) | /ˈa.ɡwɐ/           | water                | /ˈwɔtər/      | agua                | /ˈaɣwa/        |     |
 | suco                   | substantivo (masc)| /ˈsu.ku/            | juice                | /dʒus/         | zumo                | /ˈθumo/        |     |
 | refrigerante          | substantivo (masc)| /ˌʁɛ.fɾi.ʒe.ɾɐ̃ˈtɨ/ | soft drink           | /sɔft drɪŋk/  | refresco            | /refˈɾesko/    |     |
-| cerveja               | substantivo (fem) | /sɛɾˈve.ʒɐ/        | beer                 | /bɪr/          | cerveza             | /θeɾˈβeθa/     |     |
-| vinho                  | substantivo (masc)| /ˈvi.ɲu/           | wine                 | /waɪn/         | vino                | /ˈbino/        |     |
+| cerveja  | substantivo (fem) | /sɛɾˈve.ʒɐ/    | beer    | /bɪr/     | cerveza    | /θeɾˈβeθa/     |2175|
+| vinho    | substantivo (masc)| /ˈvi.ɲu/           | wine                 | /waɪn/         | vino                | /ˈbino/        |2176|
 | tábua de queijos | substantivo (fem) | /ˈtab.wɐ dʒi kej.ˈʒɔs/ | cheese board       | /ʧiz bɔrd/    | tabla de quesos     | /ˈtabla ðe ˈkesos/ |     |
 | salada                 | substantivo (fem) | /sa.ˈla.dɐ/        | salad                | /ˈsæləd/       | ensalada            | /ensalaˈða/    |     |
 | sanduíche            | substantivo (masc)| /sɐ̃.duˈi.ʃi/       | sandwich             | /ˈsændwɪʧ/    | bocadillo           | /bokaˈðiʎo/    |     |

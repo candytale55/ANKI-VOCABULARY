@@ -248,6 +248,78 @@ _They_ said goodbye with sadness.
 
 
 
+## Adverbs
+
+| Portuguese  | Tipo de Palavra   | IPA  | English     | IPA (USA)      | Spanish      | Spanish IPA     | No. |
+|-------------|-------------------|-------|-------------|---------------|--------------|-----------------|-----|
+| hoje | advérbio  | /ˈo.ʒi/   | today | /təˈdeɪ/ | hoy | /oi/ ||
+| amanhã | advérbio  | /aˈmɐ.ɲɐ̃/   | tomorrow | /təˈmɑroʊ/ | mañana | /maˈɲana/ ||
+| ontem | advérbio  | /ˈõ.tẽ/   | yesterday | /ˈjɛstərdeɪ/ | ayer | /aˈʝer/ ||
+| agora | advérbio  | /aˈɡo.ɾɐ/   | now | /naʊ/ | ahora | /aˈora/ ||
+| sempre | advérbio  | /ˈsẽ.pɾi/   | always | /ˈɔlweɪz/ | siempre | /ˈsjempre/ ||
+| nunca | advérbio  | /ˈnũ.kɐ/   | never | /ˈnɛvər/ | nunca | /ˈnuŋka/ ||
+| logo | advérbio  | /ˈlo.ɡu/   | soon | /sun/ | pronto | /ˈpronto/ ||
+| hoje em dia | locução adverbial  | /ˈo.ʒi ẽ̞ ˈdi.ɐ/   | nowadays | /ˈnaʊəˌdez/ | hoy en día | /oi en ˈdia/ ||
+
+
+
+**Sobre** (on, about, over):
+
+- Temos que conversar **sobre** esse assunto. _We need to talk **about** this matter._
+- O avião voa **sobre** as nuvens. _The plane flies **over** the clouds._
+
+**Em** (in, on, at):
+
+- Estou **em** casa agora. _I'm **at** home now._
+- Ela está estudando **em** sua mesa. _She is studying **at** her desk._
+
+**Com** (with):
+
+- Gosto de sair **com** meus amigos. _I like to go out **with** my friends._
+- Você pode me ajudar **com** isso? _Can you help me **with** this?_
+
+**Para** (for, to):
+
+- Comprei flores **para** minha mãe. _I bought flowers **for** my mother._
+- Vou **para** o trabalho de ônibus. _I go **to** work by bus._
+
+**Depois de** (after):
+
+- Saímos para jantar **depois do** cinema. _We went out for dinner **after** the cinema._
+- Ele sempre lê um livro **depois de** acordar. _He always reads a book **after** waking up._
+
+**Antes de** (before):
+
+- Lave suas mãos **antes de** comer. _Wash your hands **before** eating._
+- Precisamos sair **antes do** anoitecer. _We need to leave **before** nightfall._
+
+**Durante** (during):
+
+- Fique quieto **durante** a reunião. _Stay quiet **during** the meeting._
+- Eles cantaram **durante** o concerto. _They sang **during** the concert._
+
+**Atrás de** (behind):
+
+- O cachorro está **atrás da** casa. _The dog is **behind the** house._
+- Encontrei minhas chaves **atrás do** sofá. _I found my keys **behind the** sofa._
+
+**Frente a** (in front of):
+
+- Estacionei o carro **frente a** loja. _I parked the car **in front of** the store._
+- Ela estava **frente ao** palco durante o show. _She was **in front of the** stage during the show._
+
+**Sob** (under, beneath):
+
+- O gato se esconde **sob a** cama. _The cat hides **under the** bed._
+- Encontrei meu livro **sob** a pilha de papéis. _I found my book **beneath the** stack of papers._
+
+**Dentro de** (inside, within):
+
+- A chave está **dentro do** armário. _The key is **inside the** cabinet._
+- Eles estão **dentro da** sala de aula. _They are **within the** classroom._
+
+
+
 
 ## NOUNS
 

@@ -39,11 +39,6 @@ Certainly, here's the updated table with both Portuguese from Portugal IPA and P
 | agricultor       | agricultor       | substantivo (masc) | /a.ɡri.kulˈtoɾ/        | /a.ɡri.kulˈtoɾ/        | farmer               | agricultor         | 33  |
 | música           | música           | substantivo (fem)  | /ˈmu.zi.kɐ/            | /ˈmu.zi.kɐ/            | music                | música             | 34  |
 | músico           | músico           | substantivo (masc) | /ˈmu.zi.ku/            | /ˈmu.zi.ku/            | musician             | músico             | 35  |
-
-Certainly, here's the updated list with Portuguese IPA for Portugal and Brazilian Portuguese, following the format you provided:
-
-| Portuguese (PT)  | Portuguese (BR) | Tipo de Palavra    | IPA (PT)             | IPA (BR)             | English              | Spanish            | No. |
-|------------------|------------------|--------------------|----------------------|----------------------|----------------------|--------------------|-----|
 | professor    | professor    | substantivo (masc) | /pɾuˈfe.sɔɾ/         | /pɾuˈfe.sɔʁ/         | teacher (professor) | maestro |2146|
 | professora | professora | substantivo (fem)  | /pɾuˈfe.so.ɾɐ/       | /pɾuˈfe.so.ɾɐ/       | teacher (professor) | maestra |2146|
 | estudante | estudante | substantivo (masc/fem) | /es.tuˈdɐ̃.tɨ/ | /es.tuˈdɐ̃.tʃi/ | student | estudiante |2144|

@@ -28,13 +28,13 @@ Certainly, here's the updated table with both Portuguese from Portugal IPA and P
 | hospital         | hospital         | substantivo (masc) | /oˈspi.tɐw̃/      | /ospiˈtɐw̃/      | hospital | hospital          |2156|
 | engenheiro       | engenheiro       | substantivo (masc) | /ẽ.ʒeˈɲej.ɾu/    | /ẽ.ʒeˈɲej.ɾu/   | engineer | ingeniero         |2178|
 | engenheira       | engenheira        | substantivo (fem) | /ẽ.ʒẽˈɲej.ɾɐ/    | /ẽ.ʒẽˈɲej.ɾɐ/   | engineer | ingeniera         |2178|
-| designer         | designer         | substantivo (masc) | /de.ziˈɲeɾ/            | /de.ziˈɲe.ɾu/          | designer             | diseñador          | 24  |
-| restaurante      | restaurante      | substantivo (masc) | /ʁes.tawˈɾɐ̃.tɨ/     | /ʁes.tawˈɾɐ̃.tʃi/     | restaurant            | restaurante        | 2157|
-| arte             | arte             | substantivo (fem)  | /ˈaɾ.tɨ/               | /ˈaʁ.tʃi/              | art                  | arte               | 26  |
-| construção       | construção       | substantivo (fem)  | /kõʃ.tɾuˈsɐ̃w̃/         | /koʃ.tɾuˈsɐ̃w̃/         | construction         | construcción       | 28  |
-| criativo         | criativo         | adjetivo           | /kɾiˈa.ti.vu/          | /kɾiˈa.ti.vu/          | creative             | creativo           | 29  |
-| negócio          | negócio          | substantivo (masc) | /neˈɡɔ.sju/            | /neˈɡɔ.sju/            | business             | negocio            | 30  |
-| empresário       | empresário       | substantivo (masc) | /ẽ.pre.zɐˈɾju/        | /ẽ.pre.zɐˈɾju/        | businessman          | empresario         | 31  |
+| designer         | designer         | substantivo        | /de.ziˈɲeɾ/      | /de.ziˈɲe.ɾu/   | designer | diseñador         |2179|
+| restaurante      | restaurante      | substantivo (masc) | /ʁes.tawˈɾɐ̃.tɨ/     | /ʁes.tawˈɾɐ̃.tʃi/     | restaurant    | restaurante        | 2157|
+| arte             | arte             | substantivo (fem)  | /ˈaɾ.tɨ/          | /ˈaʁ.tʃi/      | art      | arte               |2180|
+| construção       | construção       | substantivo (fem)  | /kõʃ.tɾuˈsɐ̃w̃/     | /koʃ.tɾuˈsɐ̃w̃/  | construction | construcción   |2181|
+| negócio          | negócio          | substantivo (masc) | /neˈɡɔ.sju/       | /neˈɡɔ.sju/    | business  | negocio           |2182|
+| empresário       | empresário       | substantivo (masc) | /ẽ.pre.zɐ.ˈɾju/   |  /ẽ.pre.zɐ.ˈɾju/ | businessman  | empresario     |2183|
+| empresária       | empresária       | substantivo (fem) | /ẽ.pre.zɐ.ˈɾi.ɐ/ | /ẽ.pre.zɐ.ˈɾi.ɐ/ | businesswoman | empresaria |2183|
 | agricultura      | agricultura      | substantivo (fem)  | /a.ɡri.kulˈtu.ɾɐ/      | /a.ɡri.kulˈtu.ɾɐ/      | agriculture          | agricultura        | 32  |
 | agricultor       | agricultor       | substantivo (masc) | /a.ɡri.kulˈtoɾ/        | /a.ɡri.kulˈtoɾ/        | farmer               | agricultor         | 33  |
 | música           | música           | substantivo (fem)  | /ˈmu.zi.kɐ/            | /ˈmu.zi.kɐ/            | music                | música             | 34  |
@@ -51,8 +51,6 @@ Certainly, here's the updated list with Portuguese IPA for Portugal and Brazilia
 | professora | professora | substantivo (fem) | /pɾuˈfɛ.so.ɾɐ/ | /pɾuˈfɛ.soʁɐ/ | professor | profesora (fem)|2149|
 | médico  | médico  | substantivo (masc) | /ˈme.di.ku/           | /ˈme.dʒi.ku/         | doctor     | médico, doctor  |2147|
 | médica | médica | substantivo (fem)  | /ˈme.di.kɐ/           | /ˈme.dʒi.kɐ/           | doctor   | médica, doctora |2147|
-| enfermeiro (masc)| enfermeiro (masc)| substantivo (masc) | /ẽ.ferˈmej.ɾu/     | /ẽ.ferˈmej.ɾu/     | nurse (male)      | enfermero (masc)|     |
-| enfermeira (fem)| enfermeira (fem)| substantivo (fem) | /ẽ.ferˈmej.ɾɐ/     | /ẽ.ferˈmej.ɾɐ/     | nurse (female)    | enfermera (fem)|     |
 | arquiteto (masc)| arquiteto (masc)| substantivo (masc) | /aɾ.kiˈtɛ.tu/          | /aɾ.kiˈtɛ.tu/          | architect (male)  | arquitecto (masc)|     |
 | arquiteta (fem)| arquiteta (fem)| substantivo (fem)  | /aɾ.kiˈtɛ.tɐ/         | /aɾ.kiˈtɛ.tɐ/         | architect (female)| arquitecta (fem)|     |
 | engenheiro (masc)| engenheiro (masc)| substantivo (masc) | /ẽ.ʒẽˈɲej.ɾu/     | /ẽ.ʒẽˈɲej.ɾu/     | engineer (male)   | ingeniero (masc)|     |
@@ -69,12 +67,6 @@ Now you can easily append this list to your existing one while maintaining the f
 
 | Portuguese  | Tipo de Palavra    | IPA              | English              | IPA (USA)      | Spanish       | Spanish IPA        | No. |
 |-------------|--------------------|------------------|----------------------|---------------|---------------|--------------------|-----|
-| designer          | substantivo (masc) | /de.ziˈɲeɾ/      | designer             | /dɪˈzaɪnər/   | diseñador     | /disseˈɲaðor/   | 24|
-| arte              | substantivo (fem)  | /ˈaɾ.tɨ/         | art                  | /ɑrt/         | arte          | /ˈarte/         | 26|
-| construção        | substantivo (fem)  | /kõʃ.tɾuˈsɐ̃w̃/ | construction         | /kənˈstrʌkʃən/| construcción  | /konˈstɾukθjon/ | 28  |
-| criativo          | adjetivo           | /kɾiˈa.ti.vu/    | creative             | /kriˈeɪtɪv/   | creativo      | /kɾeaˈtivo/     | 29|
-| negócio           | substantivo (masc) | /neˈɡɔ.sju/      | business             | /ˈbɪznɪs/     | negocio       | /neˈɣoθjo/      | 30|
-| empresário        | substantivo (masc) | /ẽ.pre.zɐˈɾju/  | businessman          | /ˈbɪznɪsˌmæn/ | empresario    | /emprezaˈɾjo/  | 31  |
 | agricultura       | substantivo (fem)  | /a.ɡri.kulˈtu.ɾɐ/| agriculture          | /ˈæɡrɪˌkʌltʃər/| agricultura   | /aɡriˈkultuɾa/ | 32|
 | agricultor        | substantivo (masc) | /a.ɡri.kulˈtoɾ/  | farmer               | /ˈfɑːrmər/    | agricultor    | /aɡriˈkultoɾ/  | 33 |
 | música            | substantivo (fem)  | /ˈmu.zi.kɐ/      | music                | /ˈmjuːzɪk/    | música        | /ˈmusika/       | 34|
@@ -102,8 +94,6 @@ In Portuguese, "trabalho" and "emprego" are related but have different meanings:
 | professora | substantivo (fem) | /pɾuˈfɛ.so.ɾɐ/ | professor |  /prəˈfɛsər/ | profesora (fem)| /pɾo.feˈso.ɾa/ |2149|
 | médico  | substantivo (masc) | /ˈme.di.ku/ | doctor     | /ˈdɑktər/   | médico, doctor  | /ˈmeðiko/ |2147|
 | médica | substantivo (fem) | /ˈme.di.kɐ/     | doctor   | /ˈdɑktər/   | médica, doctora | /ˈmeðika/ |2147|
-| enfermeiro (masc)| substantivo (masc) | /ẽ.ferˈmej.ɾu/ | nurse (male)      | /nɜːrs/     | enfermero (masc)| /enfeɾˈmeɾo/   |     |
-| enfermeira (fem)| substantivo (fem) | /ẽ.ferˈmej.ɾɐ/ | nurse (female)    | /nɜːrs/     | enfermera (fem)| /enfeɾˈmeɾa/   |     |
 | arquiteto (masc)| substantivo (masc) | /aɾ.kiˈtɛ.tu/  | architect (male)  | /ˈɑːr.kɪˌtɛkt/ | arquitecto (masc)| /ar.kiˈtek.to/ |     |
 | arquiteta (fem)| substantivo (fem) | /aɾ.kiˈtɛ.tɐ/  | architect (female)| /ˈɑːr.kɪˌtɛkt/ | arquitecta (fem)| /ar.kiˈtek.ta/ |     |
 | advogado| substantivo (masc) | /ɐd.voˈɡa.du/  | lawyer | /ˈlɔɪ.ər/   | abogado| /a.boˈɣa.ðo/   |2148|

@@ -23,10 +23,11 @@ Certainly, here's the updated table with both Portuguese from Portugal IPA and P
 | carreira         | carreira         | substantivo (fem)  | /kaˈɾɛ.jɾɐ/           | /kaˈɾej.ɾɐ/           | career               | carrera            | 2153|
 | folga            | folga            | substantivo (fem)  | /ˈfoɫ.ɡɐ/             | /ˈfoɫ.ɡɐ/             | day off              | día libre          | 2154|
 | escola           | escola           | substantivo (fem)  | /isˈko.ɫɐ/            | /isˈko.ɫɐ/            | school               | escuela            | 2143|
-| enfermeiro       | enfermeiro       | substantivo (masc) | /ẽ.ferˈmej.ɾu/        | /ẽ.ferˈmej.ɾu/        | nurse                | enfermero          | 2177|
-
-| hospital         | hospital         | substantivo (masc) | /oˈspi.tɐw̃/           | /ospiˈtɐw̃/           | hospital             | hospital           | 2156|
-| engenheiro       | engenheiro       | substantivo (masc) | /ẽ.ʒeˈɲej.ɾu/         | /ẽ.ʒeˈɲej.ɾu/         | engineer             | ingeniero          | 22  |
+| enfermeiro       | enfermeiro       | substantivo (masc) | /ẽ.ferˈmej.ɾu/   | /ẽ.ferˈmej.ɾu/  | nurse    | enfermero         |2177|
+| enfermeira       | enfermeira       | substantivo (fem) | /ẽ.ferˈmej.ɾɐ/    | /ẽ.ferˈmej.ɾɐ/  | nurse    | enfermera         |2177|
+| hospital         | hospital         | substantivo (masc) | /oˈspi.tɐw̃/      | /ospiˈtɐw̃/      | hospital | hospital          |2156|
+| engenheiro       | engenheiro       | substantivo (masc) | /ẽ.ʒeˈɲej.ɾu/    | /ẽ.ʒeˈɲej.ɾu/   | engineer | ingeniero         |2178|
+| engenheira       | engenheira        | substantivo (fem) | /ẽ.ʒẽˈɲej.ɾɐ/    | /ẽ.ʒẽˈɲej.ɾɐ/   | engineer | ingeniera         |2178|
 | designer         | designer         | substantivo (masc) | /de.ziˈɲeɾ/            | /de.ziˈɲe.ɾu/          | designer             | diseñador          | 24  |
 | restaurante      | restaurante      | substantivo (masc) | /ʁes.tawˈɾɐ̃.tɨ/     | /ʁes.tawˈɾɐ̃.tʃi/     | restaurant            | restaurante        | 2157|
 | arte             | arte             | substantivo (fem)  | /ˈaɾ.tɨ/               | /ˈaʁ.tʃi/              | art                  | arte               | 26  |
@@ -39,12 +40,35 @@ Certainly, here's the updated table with both Portuguese from Portugal IPA and P
 | música           | música           | substantivo (fem)  | /ˈmu.zi.kɐ/            | /ˈmu.zi.kɐ/            | music                | música             | 34  |
 | músico           | músico           | substantivo (masc) | /ˈmu.zi.ku/            | /ˈmu.zi.ku/            | musician             | músico             | 35  |
 
+Certainly, here's the updated list with Portuguese IPA for Portugal and Brazilian Portuguese, following the format you provided:
+
+| Portuguese (PT)  | Portuguese (BR) | Tipo de Palavra    | IPA (PT)             | IPA (BR)             | English              | Spanish            | No. |
+|------------------|------------------|--------------------|----------------------|----------------------|----------------------|--------------------|-----|
+| professor    | professor    | substantivo (masc) | /pɾuˈfe.sɔɾ/         | /pɾuˈfe.sɔʁ/         | teacher (professor) | maestro |2146|
+| professora | professora | substantivo (fem)  | /pɾuˈfe.so.ɾɐ/       | /pɾuˈfe.so.ɾɐ/       | teacher (professor) | maestra |2146|
+| estudante | estudante | substantivo (masc/fem) | /es.tuˈdɐ̃.tɨ/ | /es.tuˈdɐ̃.tʃi/ | student | estudiante |2144|
+| professor | professor | substantivo (masc) | /pɾuˈfɛ.soɾ/       | /pɾuˈfɛ.soʁ/       | professor  | profesor (masc)|2149|
+| professora | professora | substantivo (fem) | /pɾuˈfɛ.so.ɾɐ/ | /pɾuˈfɛ.soʁɐ/ | professor | profesora (fem)|2149|
+| médico  | médico  | substantivo (masc) | /ˈme.di.ku/           | /ˈme.dʒi.ku/         | doctor     | médico, doctor  |2147|
+| médica | médica | substantivo (fem)  | /ˈme.di.kɐ/           | /ˈme.dʒi.kɐ/           | doctor   | médica, doctora |2147|
+| enfermeiro (masc)| enfermeiro (masc)| substantivo (masc) | /ẽ.ferˈmej.ɾu/     | /ẽ.ferˈmej.ɾu/     | nurse (male)      | enfermero (masc)|     |
+| enfermeira (fem)| enfermeira (fem)| substantivo (fem) | /ẽ.ferˈmej.ɾɐ/     | /ẽ.ferˈmej.ɾɐ/     | nurse (female)    | enfermera (fem)|     |
+| arquiteto (masc)| arquiteto (masc)| substantivo (masc) | /aɾ.kiˈtɛ.tu/          | /aɾ.kiˈtɛ.tu/          | architect (male)  | arquitecto (masc)|     |
+| arquiteta (fem)| arquiteta (fem)| substantivo (fem)  | /aɾ.kiˈtɛ.tɐ/         | /aɾ.kiˈtɛ.tɐ/         | architect (female)| arquitecta (fem)|     |
+| engenheiro (masc)| engenheiro (masc)| substantivo (masc) | /ẽ.ʒẽˈɲej.ɾu/     | /ẽ.ʒẽˈɲej.ɾu/     | engineer (male)   | ingeniero (masc)|     |
+| advogado| advogado| substantivo (masc) | /ɐd.voˈɡa.du/       | /ɐd.voˈɡa.du/       | lawyer | abogado|2148|
+| advogada| advogada| substantivo (fem) | /ɐd.voˈɡa.dɐ/       | /ɐd.voˈɡa.dɐ/       | lawyer  | abogada |2148|
+| dentista (masc)| dentista (masc)| substantivo (masc) | /dẽˈtis.tu/           | /dẽˈtis.tu/           | dentist (male)    | dentista (masc)|     |
+| dentista (fem)| dentista (fem)| substantivo (fem) | /dẽˈtis.tɐ/           | /dẽˈtis.tɐ/           | dentist (female)  | dentista (fem)|     |
+| policial| policial| substantivo| /po.liˈsi.al/             | /po.liˈsi.al/             | police officer | policía |2150|
+| artista | artista | substantivo| /ɐɾˈtiʃ.tu/               | /aɾˈtiʃ.tu/               | artist    | artista (masc) |2151|
+
+Now you can easily append this list to your existing one while maintaining the format and columns.
+
 
 
 | Portuguese  | Tipo de Palavra    | IPA              | English              | IPA (USA)      | Spanish       | Spanish IPA        | No. |
 |-------------|--------------------|------------------|----------------------|---------------|---------------|--------------------|-----|
-| enfermeiro        | substantivo (masc) | /ẽ.ferˈmej.ɾu/  | nurse    | /nɜːrs/       | enfermero     | /enfeɾˈmeɾo/    | 20  |
-| engenheiro        | substantivo (masc) | /ẽ.ʒeˈɲej.ɾu/   | engineer             | /ˌɛndʒɪˈnɪr/  | ingeniero     | /iŋxeˈnjero/    | 22 |
 | designer          | substantivo (masc) | /de.ziˈɲeɾ/      | designer             | /dɪˈzaɪnər/   | diseñador     | /disseˈɲaðor/   | 24|
 | arte              | substantivo (fem)  | /ˈaɾ.tɨ/         | art                  | /ɑrt/         | arte          | /ˈarte/         | 26|
 | construção        | substantivo (fem)  | /kõʃ.tɾuˈsɐ̃w̃/ | construction         | /kənˈstrʌkʃən/| construcción  | /konˈstɾukθjon/ | 28  |
@@ -82,8 +106,6 @@ In Portuguese, "trabalho" and "emprego" are related but have different meanings:
 | enfermeira (fem)| substantivo (fem) | /ẽ.ferˈmej.ɾɐ/ | nurse (female)    | /nɜːrs/     | enfermera (fem)| /enfeɾˈmeɾa/   |     |
 | arquiteto (masc)| substantivo (masc) | /aɾ.kiˈtɛ.tu/  | architect (male)  | /ˈɑːr.kɪˌtɛkt/ | arquitecto (masc)| /ar.kiˈtek.to/ |     |
 | arquiteta (fem)| substantivo (fem) | /aɾ.kiˈtɛ.tɐ/  | architect (female)| /ˈɑːr.kɪˌtɛkt/ | arquitecta (fem)| /ar.kiˈtek.ta/ |     |
-| engenheiro (masc)| substantivo (masc) | /ẽ.ʒẽˈɲej.ɾu/ | engineer (male)   | /ˌɛn.dʒɪˈnɪr/ | ingeniero (masc)| /in.xeˈnjeɾo/  |     |
-| engenheira (fem)| substantivo (fem) | /ẽ.ʒẽˈɲej.ɾɐ/ | engineer (female) | /ˌɛn.dʒɪˈnɪr/ | ingeniera (fem)| /in.xeˈnjeɾa/  |     |
 | advogado| substantivo (masc) | /ɐd.voˈɡa.du/  | lawyer | /ˈlɔɪ.ər/   | abogado| /a.boˈɣa.ðo/   |2148|
 | advogada| substantivo (fem) | /ɐd.voˈɡa.dɐ/  | lawyer  | /ˈlɔɪ.ər/   | abogada | /a.boˈɣa.ða/   |2148|
 | dentista (masc) | substantivo (masc) | /dẽˈtis.tu/    | dentist (male)    | /ˈdɛn.tɪst/ | dentista (masc)| /denˈtista/    |     |

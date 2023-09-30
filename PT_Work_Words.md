@@ -6,8 +6,8 @@ Certainly, here's the updated table with both Portuguese from Portugal IPA and P
 
 | Portuguese (PT)  | Portuguese (BR) | Tipo de Palavra    | IPA (PT)             | IPA (BR)             | English              | Spanish            | No. |
 |------------------|------------------|--------------------|----------------------|----------------------|----------------------|--------------------|-----|
-| trabalho         | trabalho         | substantivo (masc) | /traˈbaʎu/           | /traˈbaʎu/           | work                 | trabajo            | 2136|
-| emprego          | emprego          | substantivo (masc) | /emˈpɾeɡu/           | /ẽˈpɾeɡu/            | job                  | empleo             | 2137|
+| trabalho   | trabalho    | substantivo (masc) | /traˈbaʎu/           | /traˈbaʎu/           | work     | trabajo            | 2136|
+| emprego   | emprego          | substantivo (masc) | /emˈpɾeɡu/   | /ẽˈpɾeɡu/            | job                | empleo       | 2137|
 | profissão        | profissão        | substantivo (fem)  | /pɾuˈfi.sɐ̃w̃/         | /pɾuˈfi.sɐ̃w̃/         | profession           | profesión          | 2138|
 | empresa          | empresa          | substantivo (fem)  | /ẽˈpɾe.zɐ/           | /ẽˈpɾe.zɐ/           | company              | empresa            | 2139|
 | chefe            | chefe            | substantivo (masc) | /ˈʃɛ.fɨ/             | /ˈʃɛ.fɪ/             | boss                 | jefe, jefa         | 2140|
@@ -18,12 +18,13 @@ Certainly, here's the updated table with both Portuguese from Portugal IPA and P
 | empregada        | empregada        | substantivo (fem)  | /emˈpɾe.ɡa.dɐ/         | /ẽˈpɾe.ɡa.dɐ/         | employee             | empleada           | 2135|
 | cliente          | cliente          | substantivo         | /kliˈẽ.tɨ/            | /kliˈẽ.tʃi/           | client/customer      | cliente            | 2155|
 | escritório       | escritório       | substantivo (masc) | /es.kɾiʃˈto.ɾju/       | /es.kɾiʃˈto.ɾi.u/       | office               | oficina            | 2141|
-| reunião          | reunião          | substantivo (fem)  | /re.uˈni.ɐ̃w̃/         | /ʁe.uˈni.ɐ̃w̃/         | meeting              | reunión            | 2152|
+| reunião          | reunião          | substantivo (fem)  | /re.uˈni.ɐ̃w̃/         | /ʁe.uˈni.ɐ̃w̃/   | meeting  | reunión    | 2152|
 | contrato         | contrato         | substantivo (masc) | /kõ.ˈtɾa.tu/           | /kõ.ˈtɾa.tu/           | contract             | contrato           | 2142|
 | carreira         | carreira         | substantivo (fem)  | /kaˈɾɛ.jɾɐ/           | /kaˈɾej.ɾɐ/           | career               | carrera            | 2153|
 | folga            | folga            | substantivo (fem)  | /ˈfoɫ.ɡɐ/             | /ˈfoɫ.ɡɐ/             | day off              | día libre          | 2154|
 | escola           | escola           | substantivo (fem)  | /isˈko.ɫɐ/            | /isˈko.ɫɐ/            | school               | escuela            | 2143|
-| enfermeiro       | enfermeiro       | substantivo (masc) | /ẽ.ferˈmej.ɾu/        | /ẽ.ferˈmej.ɾu/        | nurse                | enfermero          | 20  |
+| enfermeiro       | enfermeiro       | substantivo (masc) | /ẽ.ferˈmej.ɾu/        | /ẽ.ferˈmej.ɾu/        | nurse                | enfermero          | 2177|
+
 | hospital         | hospital         | substantivo (masc) | /oˈspi.tɐw̃/           | /ospiˈtɐw̃/           | hospital             | hospital           | 2156|
 | engenheiro       | engenheiro       | substantivo (masc) | /ẽ.ʒeˈɲej.ɾu/         | /ẽ.ʒeˈɲej.ɾu/         | engineer             | ingeniero          | 22  |
 | designer         | designer         | substantivo (masc) | /de.ziˈɲeɾ/            | /de.ziˈɲe.ɾu/          | designer             | diseñador          | 24  |

@@ -42,37 +42,18 @@ Certainly, here's the updated table with both Portuguese from Portugal IPA and P
 
 | Portuguese  | Tipo de Palavra    | IPA              | English              | IPA (USA)      | Spanish       | Spanish IPA        | No. |
 |-------------|--------------------|------------------|----------------------|---------------|---------------|--------------------|-----|
-| trabalho   *| substantivo (masc) | /traˈbaʎu/ | work | /wɜːrk/       | trabajo       | /traˈba.xo/     |2136|
-| emprego     | substantivo (masc) | /emˈpɾeɡu/ | job   | /dʒɑb/       | empleo        | /emˈpleo/       |2137|
-| profissão   | substantivo (fem)  | /pɾuˈfi.sɐ̃w̃/   | profession  | /prəˈfɛʃən/ | profesión| /pɾofeˈsjon/ |2138|
-| empresa     | substantivo (fem)  | /ẽˈpɾe.zɐ/     | company   | /ˈkʌmpəni/    | empresa  | /emˈpɾesa/   |2139|
-| chefe       | substantivo (masc) | /ˈʃɛ.fɨ/   | boss   | /bɔs/     | jefe, jefa    | /ˈxefe/, /ˈxefa/    |2140|
-| colega de trabalho| substantivo (masc/fem) | /koˈle.ɡɐ dɨ traˈbaʎu/ | coworker | /ˈkoʊˌwɜːrkər/| colega de trabajo | /koˈleɣa ðe traˈba.xo/ |2159|
-| salário | substantivo (masc) | /saˈla.ɾju/  | salary  | /ˈsæləri/     | salario       | /saˈlaɾjo/      |2158|
-| horário de trabalho| substantivo (masc) | /oˈɾa.ɾju dɨ traˈbaʎu/ | work schedule| /wɜːrk ˈʃɛdjuːl/ | horario de trabajo | /oˈɾaɾjo ðe traˈba.xo/ |2159|
-| empregado | substantivo (masc) | /emˈpɾe.ɡa.du/   | employee| /ɪmˈplɔɪi/ | empleado (masc.)  | /emˈpleaðo/  |2135|
-| empregada   | substantivo (fem)  | /emˈpɾe.ɡa.dɐ/   | employee | /ɪmˈplɔɪi/ | empleada | /emˈpleaða/      |2135|
-| cliente      | substantivo  | /kliˈẽ.tɨ/ | client/customer| /ˈklaɪənt/ | cliente | /klienˈte/             |2155|
-| escritório   | substantivo (masc) | /es.kɾiʃˈto.ɾju/ | office| /ˈɔfɪs/       | oficina       | /oˈfiθina/ |2141|
-| reunião      | substantivo (fem)  | /re.uˈni.ɐ̃w̃/   | meeting   | /ˈmiːtɪŋ/  | reunión  | /reuˈnjon/       |2152|
-| contrato     | substantivo (masc) | /kõ.ˈtɾa.tu/ | contract | /ˈkɒntrækt/   | contrato      | /konˈtɾato/ |2142|
-| carreira | substantivo (fem)  | /kaˈɾɛ.jɾɐ/ | career  | /kəˈrɪər/ | carrera  | /kaˈreɾa/                  |2153|
-| folga | substantivo (fem) | /ˈfoɫ.ɡɐ/  | day off  | /deɪ ɒf/ | día libre   | /ˈdia ˈliβɾe/                |2154|
-| escola       | substantivo (fem)  | /isˈko.ɫɐ/      | school    | /skuːl/   | escuela       | /esˈkwela/  |2143|
 | enfermeiro        | substantivo (masc) | /ẽ.ferˈmej.ɾu/  | nurse    | /nɜːrs/       | enfermero     | /enfeɾˈmeɾo/    | 20  |
-| hospital  | substantivo (masc) | /oˈspi.tɐw̃/ | hospital  | /ˈhɒspɪtl̩/   | hospital      | /ospiˈtal/      |2156|
-| engenheiro        | substantivo (masc) | /ẽ.ʒeˈɲej.ɾu/   | engineer             | /ˌɛndʒɪˈnɪr/  | ingeniero     | /iŋxeˈnjero/    | 22  |
-| designer          | substantivo (masc) | /de.ziˈɲeɾ/      | designer             | /dɪˈzaɪnər/   | diseñador     | /disseˈɲaðor/   | 24  |
-| restaurante | substantivo (masc) | /ʁes.tawˈɾɐ̃.tɨ/ | restaurant | /ˈrɛstərɒnt/  | restaurante| /restauˈɾante/ |2157|
-| arte              | substantivo (fem)  | /ˈaɾ.tɨ/         | art                  | /ɑrt/         | arte          | /ˈarte/         | 26  |
+| engenheiro        | substantivo (masc) | /ẽ.ʒeˈɲej.ɾu/   | engineer             | /ˌɛndʒɪˈnɪr/  | ingeniero     | /iŋxeˈnjero/    | 22 |
+| designer          | substantivo (masc) | /de.ziˈɲeɾ/      | designer             | /dɪˈzaɪnər/   | diseñador     | /disseˈɲaðor/   | 24|
+| arte              | substantivo (fem)  | /ˈaɾ.tɨ/         | art                  | /ɑrt/         | arte          | /ˈarte/         | 26|
 | construção        | substantivo (fem)  | /kõʃ.tɾuˈsɐ̃w̃/ | construction         | /kənˈstrʌkʃən/| construcción  | /konˈstɾukθjon/ | 28  |
-| criativo          | adjetivo           | /kɾiˈa.ti.vu/    | creative             | /kriˈeɪtɪv/   | creativo      | /kɾeaˈtivo/     | 29  |
-| negócio           | substantivo (masc) | /neˈɡɔ.sju/      | business             | /ˈbɪznɪs/     | negocio       | /neˈɣoθjo/      | 30  |
+| criativo          | adjetivo           | /kɾiˈa.ti.vu/    | creative             | /kriˈeɪtɪv/   | creativo      | /kɾeaˈtivo/     | 29|
+| negócio           | substantivo (masc) | /neˈɡɔ.sju/      | business             | /ˈbɪznɪs/     | negocio       | /neˈɣoθjo/      | 30|
 | empresário        | substantivo (masc) | /ẽ.pre.zɐˈɾju/  | businessman          | /ˈbɪznɪsˌmæn/ | empresario    | /emprezaˈɾjo/  | 31  |
-| agricultura       | substantivo (fem)  | /a.ɡri.kulˈtu.ɾɐ/| agriculture          | /ˈæɡrɪˌkʌltʃər/| agricultura   | /aɡriˈkultuɾa/ | 32  |
-| agricultor        | substantivo (masc) | /a.ɡri.kulˈtoɾ/  | farmer               | /ˈfɑːrmər/    | agricultor    | /aɡriˈkultoɾ/  | 33  |
-| música            | substantivo (fem)  | /ˈmu.zi.kɐ/      | music                | /ˈmjuːzɪk/    | música        | /ˈmusika/       | 34  |
-| músico            | substantivo (masc) | /ˈmu.zi.ku/      | musician             | /mjuˈzɪʃən/   | músico        | /ˈmusiko/       | 35  |
+| agricultura       | substantivo (fem)  | /a.ɡri.kulˈtu.ɾɐ/| agriculture          | /ˈæɡrɪˌkʌltʃər/| agricultura   | /aɡriˈkultuɾa/ | 32|
+| agricultor        | substantivo (masc) | /a.ɡri.kulˈtoɾ/  | farmer               | /ˈfɑːrmər/    | agricultor    | /aɡriˈkultoɾ/  | 33 |
+| música            | substantivo (fem)  | /ˈmu.zi.kɐ/      | music                | /ˈmjuːzɪk/    | música        | /ˈmusika/       | 34|
+| músico            | substantivo (masc) | /ˈmu.zi.ku/      | musician             | /mjuˈzɪʃən/   | músico        | /ˈmusiko/       | 35|
 
 In Portuguese, "trabalho" and "emprego" are related but have different meanings:
 

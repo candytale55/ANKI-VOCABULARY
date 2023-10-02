@@ -1,57 +1,87 @@
 
-| Portuguese (PT)  | Portuguese (BR) | Tipo de Palavra         | IPA (PT)           | IPA (BR)            | English           | Spanish            | No. |
-|------------------|------------------|-------------------------|--------------------|---------------------|-------------------|--------------------|-----|
-| lápis            | lápis            | substantivo (masc)      | /ˈla.pɨʃ/          | **/ˈla.pis/**      | pencil            | lápiz              |     |
-| canetas          | canetas          | substantivo (fem, pl)   | /kɐ.ˈnɛ.tɐʃ/       | **/ka.ˈne.tas/**   | pens (fem, pl)   | bolígrafos (fem, pl)|     |
-| borracha         | borracha         | substantivo (fem)       | /bo.ˈʁa.ʃɐ/        | **/bo.ˈʁa.ʃɐ/**     | eraser            | goma de borrar      |     |
-| livros           | livros           | substantivo (masc, pl)  | /ˈli.vɾuʃ/         | **/ˈli.vɾus/**     | books (masc, pl) | libros (masc, pl)   |     |
-| pasta            | pasta            | substantivo (fem)       | /ˈpaʃ.tɐ/          | /ˈpaʃ.tɐ/           | folder            | carpeta             |     |
-| cadeiras         | cadeiras         | substantivo (fem, pl)   | /kɐ.ˈdɐj.ɾɐʃ/      | **/ka.ˈdej.ɾas/**   | chairs (fem, pl) | sillas (fem, pl)    |     |
-| mesa             | mesa             | substantivo (fem)       | /ˈmɛ.zɐ/           | /ˈme.zɐ/            | table             | mesa                |     |
-| quadro           | quadro           | substantivo (masc)      | /ˈkwɐ.dɾu/         | /ˈkwɐ.dɾu/          | board             | pizarra             |     |
-| janelas          | janelas          | substantivo (fem, pl)   | /ʒɐ.ˈnɛ.lɐʃ/       | **/ʒɐ.ˈne.las/**    | windows (fem, pl)| ventanas (fem, pl)  |     |
-| porta            | porta            | substantivo (fem)       | /ˈpoɾ.tɐ/          | /ˈpoɾ.tɐ/           | door              | puerta              |     |
-| homem            | homem            | substantivo (masc)      | /ˈɔ.mẽj/           | **/ˈɔ.mẽj/**       | man               | hombre              |     |
-| mulher           | mulher           | substantivo (fem)       | /mu.ˈʎɛɾ/          | **/mu.ˈlheʁ/**     | woman             | mujer               |     |
-| senhor           | senhor           | substantivo (masc)      | /sɨ.ˈɲoɾ/          | **/se.ˈɲoʁ/**      | sir               | señor               |     |
-| senhora          | senhora          | substantivo (fem)       | /sɨ.ˈɲɔ.ɾɐ/        | **/se.ˈɲoɾɐ/**     | lady              | señora              |     |
-| rapaz            | rapaz            | substantivo (masc)      | /rɐ.ˈpaʃ/          | **/ʁa.ˈpaz/**      | boy               | chico               |     |
-| rapariga         | rapariga         | substantivo (fem)       | /rɐ.ˈpa.ɾi.ɡɐ/     | **/ʁa.ˈpa.ʁi.ɡa/**  | girl              | chica               |     |
-| menino           | menino           | substantivo (masc)      | /mɨ.ˈni.nu/         | **/me.ˈni.nu/**     | boy               | niño                |     |
-| menina           | menina           | substantivo (fem)       | /mɨ.ˈni.nɐ/         | **/me.ˈni.nɐ/**     | girl              | niña                |     |
-| amigo            | amigo            | substantivo (masc)      | /ɐ.ˈmi.ɡu/          | /ɐ.ˈmi.ɡu/           | friend (masc)    | amigo               |     |
-| amiga            | amiga            | substantivo (fem)       | /ɐ.ˈmi.ɡɐ/          | /ɐ.ˈmi.ɡɐ/           | friend (fem)     | amiga               |     |
-| pai              | pai              | substantivo (masc)      | /ˈpaɪ̯/             | /ˈpaɪ̯/              | father            | padre               |     |
-| mãe              | mãe              | substantivo (fem)       | /ˈmɐɪ̯/             | /ˈmɐɪ̯/              | mother            | madre               |     |
-| filho            | filho            | substantivo (masc)      | /ˈfiʎu/             | /ˈfiʎu/              | son               | hijo                |     |
-| filha            | filha            | substantivo (fem)       | /ˈfiʎɐ/             | /ˈfiʎɐ/              | daughter          | hija                |     |
-| irmão            | irmão            | substantivo (masc)      | /ir.ˈmɐ̃w̃/          | /ir.ˈmɐ̃w̃/           | brother           | hermano             |     |
-| irmã             | irmã             | substantivo (fem)       | /ir.ˈmɐ̃/            | /ir.ˈmɐ̃/             | sister            | hermana             |     |
-| tio              | tio              | substantivo (masc)      | /ˈti.u/             | **/ˈti.u/**         | uncle             | tío                 |     |
-| tia              | tia              | substantivo (fem)       | /ˈti.ɐ/             | /ˈti.ɐ/              | aunt              | tía                 |     |
-| avô              | avô              | substantivo (masc)      | /ɐ.ˈvo/             | /ɐ.ˈvo/              | grandfather       | abuelo              |     |
-| avó              | avó              | substantivo (fem)       | /ɐ.ˈvɔ/             | /ɐ.ˈvɔ/              | grandmother       | abuela              |     |
-| calças           | calças           | substantivo (fem, pl)   | /ˈkaɫ.sɐʃ/          | **/kaɫ.sas/**       | trousers (fem, pl)| pantalones (masc, pl)|     |
-| casaco           | casaco           | substantivo (masc)      | /kɐ.ˈza.ku/         | **/ka.ˈza.ku/**     | jacket (masc)    | chaqueta (fem)      |     |
-| saia             | saia             | substantivo (fem)       | /ˈsaj.ɐ/            | /ˈsaj.ɐ/             | skirt (fem)      | falda               |     |
-| vestido          | vestido          | substantivo (masc)      | /vɨʃ.ˈti.du/        | **/ves.ˈti.du/**    | dress (masc)     | vestido (masc)      |     |
-| camisa           | camisa           | substantivo (fem)       | /kɐ.ˈmi.zɐ/         | /ka.ˈmi.za/          | shirt (fem)      | camisa (fem)        |     |
-| sapatos          | sapatos          | substantivo (masc, pl)  | /sɐ.ˈpa.tuʃ/        | **/sa.ˈpa.tus/**    | shoes (masc, pl) | zapatos (masc, pl)  |     |
-| blusa            | blusa            | substantivo (fem)       | /ˈblu.zɐ/           | /ˈblu.zɐ/            | blouse (fem)     | blusa (fem)         |     |
-| lenço            | lenço            | substantivo (masc)      | /ˈlẽ.su/            | **/lẽ.su/**        | handkerchief (masc)| pañuelo (masc)      |     |
-| gravata          | gravata          | substantivo (fem)       | /ɡɾɐ.ˈva.tɐ/        | /ɡɾɐ.ˈva.ta/         | tie (fem)        | corbata (fem)       |     |
-| cinto            | cinto            | substantivo (masc)      | /ˈsĩ.tu/            | /ˈsĩ.tu/             | belt (masc)      | cinturón (masc)     |     |
-| árvore           | árvore           | substantivo (fem)       | /ˈaɾ.vo.ɾɨ/         | /ˈaɾ.vo.ɾi/          | tree (fem)       | árbol (masc)        |     |
-| rua              | rua              | substantivo (fem)       | /ˈru.ɐ/             | /ˈru.ɐ/              | street (fem)     | calle (fem)         |     |
-| carro            | carro            | substantivo (masc)      | /ˈka.ʁu/            | **/ˈka.ʁu/**        | car (masc)       | coche (masc)        |     |
-| novo             | novo             | adjetivo                | /ˈno.vu/            | /ˈno.vu/              | new               | nuevo               |     |
-| nova             | nova             | adjetivo                | /ˈno.vɐ/            | /ˈno.vɐ/              | new (fem)         | nueva               |     |
-| sistema          | sistema          | substantivo (masc)      | /si.ˈʃtɛ.mɐ/        | /si.ˈs.tɛ.mɐ/         | system (masc)    | sistema (masc)      |     |
-| navegação        | navegação        | substantivo (fem)       | /nɐ.vi.ɡɐ.ˈsɐ̃w̃/   | /na.vi.ɡɐ.ˈsɐ̃w̃/     | navigation (fem) | navegación (fem)   |     |
-| estante          | estante          | substantivo (fem)       | /iʃ.ˈtɐ̃.tɨ/        | **/is.ˈtɐ̃.tʃi/**    | bookshelf (fem)  | estante (fem)       |     |
-| cinema           | cinema           | substantivo (masc)      | /ˈsi.nɨ.mɐ/         | /ˈsi.nɪ.mɐ/          | cinema (masc)    | cine (masc)         |     |
-| óculos           | óculos           | substantivo (masc, pl)  | /ˈɔ.ku.ɫuʃ/         | /ˈɔ.ku.ɫuʃ/          | glasses (masc, pl)| gafas (fem, pl)     |     |
-| flores           | flores           | substantivo (fem, pl)   | /ˈflo.ɾɨʃ/         | **/ˈflo.ɾɪʃ/**      | flowers (fem, pl)| flores (fem, pl)   |     |
+| Portuguese (PT) | Portuguese (BR) | Tipo de Palavra      | IPA (PT)  | IPA (BR)         | English     | English IPA | Spanish    | Spanish IPA | No. |
+|------------------|------------------|----------------------|-----------|------------------|------------|-------------|------------|------------|-----|
+| lápis            | lápis            | sub. (masc)          | /ˈla.pɨʃ/ | **/ˈla.pis/**   | pencil     | /ˈpɛnsəl/   | lápiz      | /ˈla.piθ/  |     |
+| canetas          | canetas          | sub. (fem, pl)       | /kɐ.ˈnɛ.tɐʃ/ | **/ka.ˈne.tas/** | pens       | /ˈpɛnz/     | bolígrafos | /boˈli.ɣɾa.fo/ |     |
+| borracha         | borracha         | sub. (fem)           | /bo.ˈʁa.ʃɐ/ | /bo.ˈʁa.ʃɐ/    | eraser     | /ɪˈreɪsər/   | goma de borrar | /ˈɡoma ðe boˈraɾ/ |     |
+| livros           | livros           | sub. (masc, pl)      | /ˈli.vɾuʃ/ | /ˈli.vɾus/      | books      | /bʊks/      | libros     | /ˈli.bɾos/  |     |
+| pasta            | pasta            | sub. (fem)           | /ˈpaʃ.tɐ/  | /ˈpaʃ.tɐ/      | folder     | /ˈfoʊldər/  | carpeta    | /karˈpeta/ |     |
+| cadeiras         | cadeiras         | sub. (fem, pl)       | /kɐ.ˈdɐj.ɾɐʃ/ | /ka.ˈdaj.ɾas/    | chairs     | /ʧɛrz/      | sillas     | /ˈsi.ʎas/  |     |
+| mesa             | mesa             | sub. (fem)           | /ˈme.zɐ/   | /ˈme.zɐ/       | table      | /ˈteɪbəl/   | mesa       | /ˈmesa/    |     |
+| quadro           | quadro           | sub. (masc)          | /ˈkwa.dɾu/ | /ˈkwa.dɾu/      | board      | /bɔrd/      | pizarra    | /piˈθara/  |     |
+| janelas          | janelas          | sub. (fem, pl)       | /ʒɐ.ˈnɛ.lɐʃ/ | /ʒa.ˈne.las/    | windows    | /ˈwɪndoʊz/  | ventanas   | /benˈtanas/ |     |
+| porta            | porta            | sub. (fem)           | /ˈpoɾ.tɐ/  | /ˈpoɾ.ta/       | door       | /dɔr/       | puerta     | /ˈpwɛrta/  |     |
+| homem            | homem            | sub. (masc)          | /ˈɔ.mɐ̃j/  | /ˈɔ.mẽj/       | man        | /mæn/       | hombre     | /ˈom.bɾe/  |     |
+| mulher           | mulher           | sub. (fem)           | /mu.ˈʎeɾ/  | /mu.ˈʎeɾ/       | woman      | /ˈwʊmən/    | mujer      | /muˈheɾ/   |     |
+| senhor           | senhor           | sub. (masc)          | /sɛ.ˈɲoɾ/  | /se.ˈɲoʁ/       | gentleman  | /ˈʤɛntlˌmən/ | caballero  | /ka.baˈʎe.ɾo/ |     |
+| senhora          | senhora          | sub. (fem)           | /sɛ.ˈɲo.ɾɐ/ | /se.ˈɲo.ɾɐ/     | lady       | /ˈleɪdi/    | señora     | /seˈɲoɾa/  |     |
+| rapaz            | rapaz            | sub. (masc)          | /ʁɐ.ˈpaʃ/  | /ʁɐ.ˈpaʒ/      | boy        | /bɔɪ/       | chico      | /ˈʧiko/   |     |
+| rapariga         | rapariga         | sub. (fem)           | /ʁɐ.ˈpa.ɾi.ɡɐ/ | /ʁɐ.ˈpa.ʁi.ɡɐ/ | girl       | /ɡɜrl/      | chica      | /ˈʧika/   |     |
+| menino           | menino           | sub. (masc)          | /mɨ.ˈni.nu/ | /me.ˈni.nu/     | boy        | /bɔɪ/       | niño       | /ˈniɲo/    |     |
+| menina           | menina           | sub. (fem)           | /mɨ.ˈni.nɐ/ | /me.ˈni.nɐ/     | girl       | /ɡɜrl/      | niña       | /ˈniɲa/    |     |
+| amigo            | amigo            | sub. (masc)          | /ɐ.ˈmi.ɡu/  | /ɐ.ˈmi.ɡu/      | friend     | /frɛnd/     | amigo      | /a.ˈmi.ɣo/  |     |
+| amiga            | amiga            | sub. (fem)           | /ɐ.ˈmi.ɡɐ/  | /ɐ.ˈmi.ɡɐ/      | friend     | /frɛnd/     | amiga      | /ɐ.ˈmi.ɣɐ/  |     |
+| pai              | pai              | sub. (masc)          | /paɪ̯/      | /paɪ̯/          | father     | /ˈfɑðər/    | padre      | /ˈpadre/   |     |
+| mãe              | mãe              | sub. (fem)           | /mɐ̃j/      | /mɐ̃j/          | mother     | /ˈmʌðər/    | madre      | /ˈmaðre/   |     |
+| filho            | filho            | sub. (masc)          | /ˈfi.ʎu/   | /ˈfi.ʎu/       | son        | /sʌn/       | hijo       | /ˈixo/     |     |
+| filha            | filha            | sub. (fem)           | /ˈfi.ʎɐ/   | /ˈfi.ʎɐ/       | daughter   | /ˈdɔtər/    | hija       | /ˈixa/     |     |
+| irmão            | irmão            | sub. (masc)          | /iɾ.ˈmɐ̃w̃/  | /iɾ.ˈmɐ̃w̃/      | brother    | /ˈbrʌðər/   | hermano    | /eɾˈmano/  |     |
+| irmã             | irmã             | sub. (fem)           | /iɾ.ˈmɐ̃/   | /iɾ.ˈmɐ̃/       | sister     | /ˈsɪstər/   | hermana    | /eɾˈmana/  |     |
+| tio              | tio              | sub. (masc)          | /ˈti.u/     | /ˈti.u/         | uncle      | /ʌŋkl̩/     | tío        | /ˈti.o/    |     |
+| tia              | tia              | sub. (fem)           | /ˈti.ɐ/     | /ˈti.ɐ/         | aunt       | /ænt/       | tía        | /ˈti.a/    |     |
+| avô              | avô              | sub. (masc)          | /ɐ.ˈvu/     | /ɐ.ˈvo/         | grandfather| /ˈɡrændˌfɑðər/ | abuelo     | /a.ˈbwelo/  |     |
+| avó              | avó              | sub. (fem)           | /ɐ.ˈvo/     | /ɐ.ˈvu/         | grandmother| /ˈɡrændˌmʌðər/ | abuela     | /a.ˈbwela/  |     |
+| calças           | calças           | sub. (fem, pl)       | /ˈkaɫ.sɐʃ/ | /ˈkaɫ.sɐʃ/     | pants      | /pænts/     | pantalones | /pantaloˈnes/ |     |
+| casaco           | casaco           | sub. (masc)          | /kɐ.ˈza.ku/ | /ka.ˈza.ku/     | jacket     | /ˈʤækɪt/    | chaqueta   | /ʧaˈketa/  |     |
+| saia             | saia             | sub. (fem)           | /ˈsa.jɐ/    | /ˈsa.jɐ/        | skirt      | /skɜrt/     | falda      | /ˈfalda/   |     |
+| vestido          | vestido          | sub. (masc)          | /vɨʃ.ˈti.ðu/| /veʃ.ˈti.ðu/    | dress      | /drɛs/      | vestido    | /besˈtiðo/ |     |
+| camisa           | camisa           | sub. (fem)           | /kɐ.ˈmi.zɐ/ | /ka.ˈmi.zɐ/     | shirt      | /ʃɜrt/      | camisa     | /kaˈmisa/  |     |
+| sapatos          | sapatos          | sub. (masc, pl)      | /sɐ.ˈpa.tuʃ/ | /sa.ˈpa.tus/    | shoes      | /ʃuz/       | zapatos    | /θaˈpatos/ |     |
+| blusa            | blusa            | sub. (fem)           | /ˈblu.zɐ/   | /ˈblu.zɐ/       | blouse     | /blaʊs/     | blusa      | /ˈblusa/   |     |
+| lenço            | lenço            | sub. (masc)          | /ˈlẽ.su/   | /ˈlẽ.su/       | handkerchief| /ˈhæŋkərˌʧɪf/ | pañuelo    | /paˈɲwelo/ |     |
+| gravata          | gravata          | sub. (fem)           | /ɡɾɐ.ˈva.tɐ/| /ɡɾɐ.ˈva.tɐ/    | tie        | /taɪ/       | corbata    | /korˈβata/ |     |
+| cinto            | cinto            | sub. (masc)          | /ˈsĩ.tu/    | /ˈsĩ.tu/        | belt       | /bɛlt/      | cinturón   | /sin.tuˈɾon/ |     |
+| árvore           | árvore           | sub. (fem)           | /ˈaɾ.vɔ.ɾɨ/ | /ˈaɾ.vo.ɾʃi/    | tree       | /tri/       | árbol      | /ˈarbol/   |     |
+| rua              | rua              | sub. (fem)           | /ˈru.ɐ/     | /ˈʁu.ɐ/         | street     | /strit/     | calle      | /ˈkaʎe/    |     |
+| carro            | carro            | sub. (masc)          | /ˈka.ʁu/    | **/ˈka.ʁu/**     | car        | /kɑr/       | coche      | /ˈkoʧe/    |     |
+| casa             | casa             | sub. (fem)           | /ˈka.zɐ/    | /ˈka.zɐ/        | house      | /haʊs/      | casa       | /ˈkasa/    |     |
+| apartamento      | apartamento      | sub. (masc)          | /ɐ.pɐɾ.tɐˈmẽ.tu/ | /a.paʁ.taˈmẽ.tu/ | apartment  | /əˈpɑrtmənt/ | apartamento| /apartaˈmento/ |     |
+| vivenda          | vivenda          | sub. (fem)           | /viˈvẽ.dɐ/  | /viˈvẽ.dɐ/      | dwelling   | /ˈdwɛlɪŋ/   | vivienda   | /biˈbjenda/ |     |
+| país             | país             | sub. (masc)          | /paˈiʃ/     | /paˈis/          | country    | /ˈkʌntri/   | país       | /paˈis/    |     |
+| cidade vila      | cidade vila      | sub. (fem)           | /si.ˈda.ðɨ/ | /si.ˈda.ðʒi/    | town       | /taʊn/      | ciudad villa| /θjuˈðad ˈbiʎa/ |     |
+| viagem           | viagem           | sub. (fem)           | /ˈvjajʒẽ/   | /ˈvi.ɐʒẽ/       | trip       | /trɪp/      | viaje      | /ˈbjahe/   |     |
+| passeio          | passeio          | sub. (masc)          | /pɐ.ˈsɛ.ʊ/  | /pa.ˈse.ʊ/      | stroll     | /stroʊl/    | paseo      | /paˈse.o/  |     |
+| férias           | férias           | sub. (fem, pl)       | /ˈfe.ɾi.ɐʃ/ | /ˈfe.ɾi.ɐʃ/     | vacation   | /vəˈkeɪʃən/ | vacaciones | /bakaˈsjones/ |     |
+| Carnaval         | Carnaval         | sub. (masc)          | /kɐɾ.nɐˈval/| /kaʁ.naˈval/    | Carnival   | /ˈkɑrnɪvəl/ | Carnaval   | /kaɾnaˈβal/ |     |
+| informação       | informação       | sub. (fem)           | /ĩ.fuɾ.mɐ.ˈsɐ̃w̃/ | /ĩ.foʁ.mɐ.ˈsɐ̃w̃/ | information| /ˌɪnfərˈmeɪʃən/ | información| /infomaˈθjon/ |     |
+| amigos           | amigos           | sub. (masc, pl)      | /ɐ.ˈmi.ɡuʃ/ | /ɐ.ˈmi.ɡuʃ/     | friends    | /frɛndz/    | amigos     | /a.ˈmi.ɣos/ |     |
+| amigas           | amigas           | sub. (fem, pl)       | /ɐ.ˈmi.ɡɐʃ/ | /ɐ.ˈmi.ɡɐʃ/     | friends    | /frɛndz/    | amigas     | /a.ˈmi.ɣɐs/ |     |
+| mensagem         | mensagem         | sub. (fem)           | /mẽ.ˈza.ʒẽ/ | /mẽ.ˈsa.ʒẽ/     | message    | /ˈmɛsɪdʒ/    | mensaje    | /maˈχe/    |     |
+| ainda            | ainda            | adv.                 | /ˈĩ.dɐ/     | /ˈĩ.dɐ/         | still      | /stɪl/      | todavía    | /toðaˈβi.a/ |     |
+| saldos           | saldos           | sub. (masc, pl)      | /ˈsaɫ.duʃ/  | /ˈsaɫ.duʃ/      | sales      | /seɪlz/     | saldos     | /ˈsaldos/  |     |
+| filhos           | filhos           | sub. (masc, pl)      | /ˈfi.ʎuʃ/  | /ˈfi.ʎuʃ/      | sons       | /sʌnz/      | hijos      | /ˈixos/    |     |
+| filhas           | filhas           | sub. (fem, pl)       | /ˈfi.ʎɐʃ/  | /ˈfi.ʎɐʃ/      | daughters  | /ˈdɔtərz/   | hijas      | /ˈixas/    |     |
+| café             | café             | sub. (masc)          | /ˈka.fɨ/    | /ˈka.fe/         | coffee     | /ˈkɔfi/     | café       | /ˈkafe/    |     |
+| estações do ano  | estações do ano  | s. (fem, pl)         | /ɨʃ.tɐ.ˈsõj̃ʊʃ du ɐ.ˈnu/ | /iʃ.ta.ˈsɔj̃j̃ʊʃ du ɐ.ˈnʊ/ | seasons   | /ˈsizənz/   | estaciones del año | /estasjones del ˈaɲo/ |     |
+| datas festivas   | datas festivas   | s. (fem, pl)         | /ˈda.tɐʃ fɨʃ.ˈti.vɐʃ/ | /ˈda.tɐʃ fɨʃ.ˈti.vɐʃ/ | holidays  | /ˈhɑləˌdeɪz/ | festivos   | /fesˈtiβos/ |     |
+| continentes      | continentes      | s. (masc, pl)        | /kõ.ti.ˈnẽtʃ/ | /kõ.ti.ˈnẽtʃʃ/ | continents | /ˈkɑntəˌnənts/ | continentes| /kontiˈnentes/ |     |
+| nomes de países  | nomes de países  | s. (masc, pl)        | /ˈnɔ.mɨʒ dɨ pa.ˈiʃ/ | /ˈnɔ.mis dʒi pa.ˈis/ | country names | /ˈkəntri neɪmz/ | nombres de países | /nomˈbɾes ðe paˈiθes/ |     |
+| países           | países           | sub. (masc, pl)      | /ˈpa.iz/    | /ˈpa.is/         | countries  | /ˈkʌntriz/  | países     | /paˈis/    |     |
+| alguns           | alguns           | pron. indef. (pl)    | /ˈaw̃.ʒũj̃/  | /ˈaw̃.ʒũj̃/      | some       | /sʌm/       | algunos    | /alˈɡunos/ |     |
+| cidades          | cidades          | sub. (fem, pl)       | /si.ˈda.dɨʃ/ | /si.ˈda.dʒiʃ/    | cities     | /ˈsɪtiz/     | ciudades  | /θjuˈðaðes/ |     |
+| meses            | meses            | sub. (masc, pl)      | /ˈmɛ.zɨʃ/  | /ˈme.ziʃ/      | months     | /mʌnθs/     | meses      | /ˈmeses/   |     |
+| datas            | datas            | sub. (fem, pl)       | /ˈda.tɐʃ/   | /ˈda.tɐʃ/       | dates      | /deɪts/     | fechas     | /ˈfetʃas/  |     |
+| nomes            | nomes            | sub. (masc, pl)      | /ˈnɔ.mɨʃ/   | /ˈnɔ.mis/       | names      | /neɪmz/     | nombres    | /nomˈbɾes/ |     |
+| carro            | carro            | sub. (masc)          | /ˈka.ʁu/    | **/ˈka.ʁu/**     | car        | /kɑr/       | coche      | /ˈkoʧe/    |     |
+| novo             | novo             | adj. (masc, sing)    | /ˈno.vu/    | /ˈno.vu/         | new        | /nju/       | nuevo      | /ˈnweβo/   |     |
+| nova             | nova             | adj. (fem, sing)     | /ˈno.vɐ/    | /ˈno.vɐ/         | new        | /nju/       | nueva      | /ˈnweβa/   |     |
+| sistema          | sistema          | sub. (masc)          | /siʃ.ˈtɛ.mɐ/ | /sis.ˈtɛ.mɐ/     | system     | /ˈsɪstəm/   | sistema    | /sisˈtema/ |     |
+| navegação        | navegação        | sub. (fem)           | /nɐ.vɨ.ɡɐ.ˈw̃/ | /na.ve.ɡa.ˈw̃/     | navigation | /ˌnævɪˈɡeɪʃən/ | navegación | /naveɣaˈθjon/ |     |
+| estante          | estante          | sub. (fem)           | /ɨʃ.ˈtɐ̃.tɨ/ | /is.ˈtɐ̃tɨ/      | shelf      | /ʃɛlf/      | estante    | /esˈtante/ |     |
+| cinema           | cinema           | sub. (masc)          | /ˈsi.nɨ.mɐ/  | /ˈsi.nɨ.mɐ/      | cinema     | /ˈsɪnəmə/   | cine       | /ˈsine/    |     |
+| óculos           | óculos           | sub. (masc, pl)      | /ˈɔ.ku.luʃ/  | /ˈɔ.ku.luʃ/      | glasses    | /ˈɡlæsɪz/   | gafas      | /ˈɡafas/   |     |
+| flores           | flores           | sub. (fem, pl)       | /ˈflo.ɾɨʃ/  | /ˈflo.ɾiʃ/      | flowers    | /ˈflaʊərz/  | flores     | /ˈfloɾes/  |     |
+
 
 
 

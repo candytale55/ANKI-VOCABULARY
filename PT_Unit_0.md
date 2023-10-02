@@ -1,10 +1,10 @@
 
 | Portuguese (PT) | Portuguese (BR) | Tipo de Palavra      | IPA (PT)  | IPA (BR)         | English     | English IPA | Spanish    | Spanish IPA | No. |
 |------------------|------------------|----------------------|-----------|------------------|------------|-------------|------------|------------|-----|
-| lápis            | lápis            | sub. (masc)          | /ˈla.pɨʃ/ | **/ˈla.pis/**   | pencil     | /ˈpɛnsəl/   | lápiz      | /ˈla.piθ/  |     |
-| canetas          | canetas          | sub. (fem, pl)       | /kɐ.ˈnɛ.tɐʃ/ | **/ka.ˈne.tas/** | pens       | /ˈpɛnz/     | bolígrafos | /boˈli.ɣɾa.fo/ |     |
-| borracha         | borracha         | sub. (fem)           | /bo.ˈʁa.ʃɐ/ | /bo.ˈʁa.ʃɐ/    | eraser     | /ɪˈreɪsər/   | goma de borrar | /ˈɡoma ðe boˈraɾ/ |     |
-| livros           | livros           | sub. (masc, pl)      | /ˈli.vɾuʃ/ | /ˈli.vɾus/      | books      | /bʊks/      | libros     | /ˈli.bɾos/  |     |
+| lápis            | lápis            | sub. (masc)          | /ˈla.pɨʃ/ | **/ˈla.pis/**   | pencil     | /ˈpɛnsəl/   | lápiz      | /ˈla.piθ/  |2161|
+| canetas          | canetas          | sub. (fem, pl)       | /kɐ.ˈnɛ.tɐʃ/ | **/ka.ˈne.tas/** | pens       | /ˈpɛnz/     | bolígrafos | /boˈli.ɣɾa.fo/ | 2162|
+| borracha         | borracha         | sub. (fem)           | /bo.ˈʁa.ʃɐ/ | /bo.ˈʁa.ʃɐ/    | eraser     | /ɪˈreɪsər/   | goma de borrar | /ˈɡoma ðe boˈraɾ/ |2184|
+| livros           | livros           | sub. (masc, pl)      | /ˈli.vɾuʃ/ | **/ˈli.vɾus/**      | books      | /bʊks/      | libros     | /ˈli.bɾos/  |2185|
 | pasta            | pasta            | sub. (fem)           | /ˈpaʃ.tɐ/  | /ˈpaʃ.tɐ/      | folder     | /ˈfoʊldər/  | carpeta    | /karˈpeta/ |     |
 | cadeiras         | cadeiras         | sub. (fem, pl)       | /kɐ.ˈdɐj.ɾɐʃ/ | /ka.ˈdaj.ɾas/    | chairs     | /ʧɛrz/      | sillas     | /ˈsi.ʎas/  |     |
 | mesa             | mesa             | sub. (fem)           | /ˈme.zɐ/   | /ˈme.zɐ/       | table      | /ˈteɪbəl/   | mesa       | /ˈmesa/    |     |

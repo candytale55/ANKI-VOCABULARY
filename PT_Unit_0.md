@@ -83,11 +83,9 @@
 | flores           | flores           | sub. (fem, pl)       | /ˈflo.ɾɨʃ/  | /ˈflo.ɾiʃ/      | flowers    | /ˈflaʊərz/  | flores     | /ˈfloɾes/  |     |
 
 
+## Otra
 
 
-I apologize for the oversight. Here's the updated list with the English IPA and Iberian Spanish IPA columns filled in:
-
-```
 | Portuguese (PT)  | Portuguese (BR) | Tipo de Palavra         | IPA (PT)           | IPA (BR)            | English              | English IPA     | Spanish            | Spanish IPA      | No. |
 |------------------|------------------|-------------------------|--------------------|---------------------|----------------------|-----------------|--------------------|------------------|-----|
 | lápis            | lápis            | substantivo (masc)      | /ˈla.pɨʃ/          | **/ˈla.pis/**      | pencil               | /ˈpɛnsəl/       | lápiz              | /ˈla.piθ/        |     |
@@ -108,9 +106,7 @@ I apologize for the oversight. Here's the updated list with the English IPA and 
 | rapariga         | rapariga         | substantivo (fem)       | /rɐ.ˈpa.ɾi.ɡɐ/     | **/ʁa.ˈpa.ʁi.ɡa/**  | girl                 | /ɡɜrl/           | chica               | /ˈtʃika/         |     |
 | menino           | menino           | substantivo (masc)      | /mɨ.ˈni.nu/         | **/me.ˈni.nu/**     | boy                  | /bɔɪ/            | niño                | /ˈniɲo/          |     |
 | menina           | menina           | substantivo (fem)       | /mɨ.ˈni.nɐ/         | **/me.ˈni.nɐ/**     | girl                 | /ɡɜrl/           | niña                | /ˈniɲa/          |     |
-| amigo            | amigo            | substantivo (masc)      | /ɐ.ˈmi.ɡu/          | /ɐ.
-
-ˈmi.ɡu/           | friend (masc)      | /frɛnd/          | amigo               | /a.ˈmi.ɣo/        |     |
+| amigo            | amigo            | substantivo (masc)      | /ɐ.ˈmi.ɡu/          | /ɐ.ˈmi.ɡu/           | friend (masc)      | /frɛnd/          | amigo               | /a.ˈmi.ɣo/        |     |
 | amiga            | amiga            | substantivo (fem)       | /ɐ.ˈmi.ɡɐ/          | /ɐ.ˈmi.ɡɐ/           | friend (fem)       | /frɛnd/          | amiga               | /a.ˈmi.ɣa/        |     |
 | pai              | pai              | substantivo (masc)      | /paɪ/               | /paɪ/                | father (dad)       | /ˈfɑðər/         | padre               | /ˈpaðɾe/         |     |
 | mãe              | mãe              | substantivo (fem)       | /mɑm/               | /mɐj/                | mother (mom)       | /ˈmʌðər/         | madre               | /ˈmaðɾe/         |     |

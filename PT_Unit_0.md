@@ -1,6 +1,6 @@
 | Portuguese (PT)  | Portuguese (BR) | Tipo de Palavra         | IPA (PT)           | IPA (BR)           | English           | Spanish            | No. |
 |------------------|------------------|-------------------------|--------------------|--------------------|-------------------|--------------------|-----|
-| lápis            | lápis            | substantivo (masc)      | /ˈla.pɨʃ/          | /ˈla.pis/ **        | pencil            | lápiz              |     |
+| lápis            | lápis            | substantivo (masc)      | /ˈla.pɨʃ/          | **/ˈla.pis/ **        | pencil            | lápiz              |     |
 | canetas          | canetas          | substantivo (fem, pl)   | /kɐ.ˈnɛ.tɐʃ/       | /ka.ˈne.tas/ **    | pens (fem, pl)   | bolígrafos (fem, pl)|     |
 | borracha         | borracha         | substantivo (fem)       | /bo.ˈʁa.ʃɐ/        | /bo.ˈʁa.ʃɐ/        | eraser            | goma de borrar      |     |
 | livros           | livros           | substantivo (masc, pl)  | /ˈli.vɾuʃ/         | /ˈli.vɾus/ **      | books (masc, pl) | libros (masc, pl)   |     |

@@ -6,19 +6,19 @@
 | borracha         | borracha         | sub. (fem)           | /bo.ˈʁa.ʃɐ/ | /bo.ˈʁa.ʃɐ/    | eraser     | /ɪˈreɪsər/   | goma de borrar | /ˈɡoma ðe boˈraɾ/ |2184|
 | livros           | livros           | sub. (masc, pl)      | /ˈli.vɾuʃ/ | **/ˈli.vɾus/**      | books      | /bʊks/      | libros     | /ˈli.bɾos/  |2185|
 | pasta            | pasta            | sub. (fem)           | /ˈpaʃ.tɐ/  | /ˈpaʃ.tɐ/      | folder     | /ˈfoʊldər/  | carpeta    | /karˈpeta/ |     |
-| cadeiras         | cadeiras         | sub. (fem, pl)       | /kɐ.ˈdɐj.ɾɐʃ/ | /ka.ˈdaj.ɾas/    | chairs     | /ʧɛrz/      | sillas     | /ˈsi.ʎas/  |     |
+| cadeiras         | cadeiras         | sub. (fem, pl)       | /kɐ.ˈdɐj.ɾɐʃ/ | **/ka.ˈdaj.ɾas/**    | chairs     | /ʧɛrz/      | sillas     | /ˈsi.ʎas/  |     |
 | mesa             | mesa             | sub. (fem)           | /ˈme.zɐ/   | /ˈme.zɐ/       | table      | /ˈteɪbəl/   | mesa       | /ˈmesa/    |     |
 | quadro           | quadro           | sub. (masc)          | /ˈkwa.dɾu/ | /ˈkwa.dɾu/      | board      | /bɔrd/      | pizarra    | /piˈθara/  |     |
-| janelas          | janelas          | sub. (fem, pl)       | /ʒɐ.ˈnɛ.lɐʃ/ | /ʒa.ˈne.las/    | windows    | /ˈwɪndoʊz/  | ventanas   | /benˈtanas/ |     |
+| janelas          | janelas          | sub. (fem, pl)       | /ʒɐ.ˈnɛ.lɐʃ/ | **/ʒa.ˈne.las/**    | windows    | /ˈwɪndoʊz/  | ventanas   | /benˈtanas/ |     |
 | porta            | porta            | sub. (fem)           | /ˈpoɾ.tɐ/  | /ˈpoɾ.ta/       | door       | /dɔr/       | puerta     | /ˈpwɛrta/  |     |
-| homem            | homem            | sub. (masc)          | /ˈɔ.mɐ̃j/  | /ˈɔ.mẽj/       | man        | /mæn/       | hombre     | /ˈom.bɾe/  |     |
+| homem            | homem            | sub. (masc)          | /ˈɔ.mɐ̃j/  | **/ˈɔ.mẽj/**       | man        | /mæn/       | hombre     | /ˈom.bɾe/  |     |
 | mulher           | mulher           | sub. (fem)           | /mu.ˈʎeɾ/  | /mu.ˈʎeɾ/       | woman      | /ˈwʊmən/    | mujer      | /muˈheɾ/   |     |
-| senhor           | senhor           | sub. (masc)          | /sɛ.ˈɲoɾ/  | /se.ˈɲoʁ/       | gentleman  | /ˈʤɛntlˌmən/ | caballero  | /ka.baˈʎe.ɾo/ |     |
+| senhor           | senhor           | sub. (masc)          | /sɛ.ˈɲoɾ/  | **/se.ˈɲoʁ/**       | gentleman  | /ˈʤɛntlˌmən/ | caballero  | /ka.baˈʎe.ɾo/ |     |
 | senhora          | senhora          | sub. (fem)           | /sɛ.ˈɲo.ɾɐ/ | /se.ˈɲo.ɾɐ/     | lady       | /ˈleɪdi/    | señora     | /seˈɲoɾa/  |     |
-| rapaz            | rapaz            | sub. (masc)          | /ʁɐ.ˈpaʃ/  | /ʁɐ.ˈpaʒ/      | boy        | /bɔɪ/       | chico      | /ˈʧiko/   |     |
-| rapariga         | rapariga         | sub. (fem)           | /ʁɐ.ˈpa.ɾi.ɡɐ/ | /ʁɐ.ˈpa.ʁi.ɡɐ/ | girl       | /ɡɜrl/      | chica      | /ˈʧika/   |     |
-| menino           | menino           | sub. (masc)          | /mɨ.ˈni.nu/ | /me.ˈni.nu/     | boy        | /bɔɪ/       | niño       | /ˈniɲo/    |     |
-| menina           | menina           | sub. (fem)           | /mɨ.ˈni.nɐ/ | /me.ˈni.nɐ/     | girl       | /ɡɜrl/      | niña       | /ˈniɲa/    |     |
+| rapaz            | rapaz            | sub. (masc)          | /ʁɐ.ˈpaʃ/  | **/ʁɐ.ˈpaʒ/**      | boy        | /bɔɪ/       | chico      | /ˈʧiko/   |     |
+| rapariga         | rapariga         | sub. (fem)           | /ʁɐ.ˈpa.ɾi.ɡɐ/ | **/ʁɐ.ˈpa.ʁi.ɡɐ/** | girl       | /ɡɜrl/      | chica      | /ˈʧika/   |     |
+| menino           | menino           | sub. (masc)          | /mɨ.ˈni.nu/ | **/me.ˈni.nu/**     | boy        | /bɔɪ/       | niño       | /ˈniɲo/    |     |
+| menina           | menina           | sub. (fem)           | /mɨ.ˈni.nɐ/ | **/me.ˈni.nɐ/**     | girl       | /ɡɜrl/      | niña       | /ˈniɲa/    |     |
 | amigo            | amigo            | sub. (masc)          | /ɐ.ˈmi.ɡu/  | /ɐ.ˈmi.ɡu/      | friend     | /frɛnd/     | amigo      | /a.ˈmi.ɣo/  |     |
 | amiga            | amiga            | sub. (fem)           | /ɐ.ˈmi.ɡɐ/  | /ɐ.ˈmi.ɡɐ/      | friend     | /frɛnd/     | amiga      | /ɐ.ˈmi.ɣɐ/  |     |
 | pai              | pai              | sub. (masc)          | /paɪ̯/      | /paɪ̯/          | father     | /ˈfɑðər/    | padre      | /ˈpadre/   |     |
@@ -34,50 +34,50 @@
 | calças           | calças           | sub. (fem, pl)       | /ˈkaɫ.sɐʃ/ | /ˈkaɫ.sɐʃ/     | pants      | /pænts/     | pantalones | /pantaloˈnes/ |     |
 | casaco           | casaco           | sub. (masc)          | /kɐ.ˈza.ku/ | /ka.ˈza.ku/     | jacket     | /ˈʤækɪt/    | chaqueta   | /ʧaˈketa/  |     |
 | saia             | saia             | sub. (fem)           | /ˈsa.jɐ/    | /ˈsa.jɐ/        | skirt      | /skɜrt/     | falda      | /ˈfalda/   |     |
-| vestido          | vestido          | sub. (masc)          | /vɨʃ.ˈti.ðu/| /veʃ.ˈti.ðu/    | dress      | /drɛs/      | vestido    | /besˈtiðo/ |     |
-| camisa           | camisa           | sub. (fem)           | /kɐ.ˈmi.zɐ/ | /ka.ˈmi.zɐ/     | shirt      | /ʃɜrt/      | camisa     | /kaˈmisa/  |     |
-| sapatos          | sapatos          | sub. (masc, pl)      | /sɐ.ˈpa.tuʃ/ | /sa.ˈpa.tus/    | shoes      | /ʃuz/       | zapatos    | /θaˈpatos/ |     |
+| vestido          | vestido          | sub. (masc)          | /vɨʃ.ˈti.ðu/| **/veʃ.ˈti.ðu/**    | dress      | /drɛs/      | vestido    | /besˈtiðo/ |     |
+| camisa           | camisa           | sub. (fem)           | /kɐ.ˈmi.zɐ/ | **/ka.ˈmi.zɐ/**     | shirt      | /ʃɜrt/      | camisa     | /kaˈmisa/  |     |
+| sapatos          | sapatos          | sub. (masc, pl)      | /sɐ.ˈpa.tuʃ/ | **/sa.ˈpa.tus/**    | shoes      | /ʃuz/       | zapatos    | /θaˈpatos/ |     |
 | blusa            | blusa            | sub. (fem)           | /ˈblu.zɐ/   | /ˈblu.zɐ/       | blouse     | /blaʊs/     | blusa      | /ˈblusa/   |     |
 | lenço            | lenço            | sub. (masc)          | /ˈlẽ.su/   | /ˈlẽ.su/       | handkerchief| /ˈhæŋkərˌʧɪf/ | pañuelo    | /paˈɲwelo/ |     |
 | gravata          | gravata          | sub. (fem)           | /ɡɾɐ.ˈva.tɐ/| /ɡɾɐ.ˈva.tɐ/    | tie        | /taɪ/       | corbata    | /korˈβata/ |     |
 | cinto            | cinto            | sub. (masc)          | /ˈsĩ.tu/    | /ˈsĩ.tu/        | belt       | /bɛlt/      | cinturón   | /sin.tuˈɾon/ |     |
-| árvore           | árvore           | sub. (fem)           | /ˈaɾ.vɔ.ɾɨ/ | /ˈaɾ.vo.ɾʃi/    | tree       | /tri/       | árbol      | /ˈarbol/   |     |
-| rua              | rua              | sub. (fem)           | /ˈru.ɐ/     | /ˈʁu.ɐ/         | street     | /strit/     | calle      | /ˈkaʎe/    |     |
-| carro            | carro            | sub. (masc)          | /ˈka.ʁu/    | **/ˈka.ʁu/**     | car        | /kɑr/       | coche      | /ˈkoʧe/    |     |
+| árvore           | árvore           | sub. (fem)           | /ˈaɾ.vɔ.ɾɨ/ | **/ˈaɾ.vo.ɾʃi/**    | tree       | /tri/       | árbol      | /ˈarbol/   |     |
+| rua              | rua              | sub. (fem)           | /ˈru.ɐ/     | **/ˈʁu.ɐ/**         | street     | /strit/     | calle      | /ˈkaʎe/    |     |
+| carro            | carro            | sub. (masc)          | /ˈka.ʁu/    | /ˈka.ʁu/     | car        | /kɑr/       | coche      | /ˈkoʧe/    |     |
 | casa             | casa             | sub. (fem)           | /ˈka.zɐ/    | /ˈka.zɐ/        | house      | /haʊs/      | casa       | /ˈkasa/    |     |
-| apartamento      | apartamento      | sub. (masc)          | /ɐ.pɐɾ.tɐˈmẽ.tu/ | /a.paʁ.taˈmẽ.tu/ | apartment  | /əˈpɑrtmənt/ | apartamento| /apartaˈmento/ |     |
+| apartamento      | apartamento      | sub. (masc)          | /ɐ.pɐɾ.tɐˈmẽ.tu/ | **/a.paʁ.taˈmẽ.tu/** | apartment  | /əˈpɑrtmənt/ | apartamento| /apartaˈmento/ |     |
 | vivenda          | vivenda          | sub. (fem)           | /viˈvẽ.dɐ/  | /viˈvẽ.dɐ/      | dwelling   | /ˈdwɛlɪŋ/   | vivienda   | /biˈbjenda/ |     |
-| país             | país             | sub. (masc)          | /paˈiʃ/     | /paˈis/          | country    | /ˈkʌntri/   | país       | /paˈis/    |     |
-| cidade vila      | cidade vila      | sub. (fem)           | /si.ˈda.ðɨ/ | /si.ˈda.ðʒi/    | town       | /taʊn/      | ciudad villa| /θjuˈðad ˈbiʎa/ |     |
-| viagem           | viagem           | sub. (fem)           | /ˈvjajʒẽ/   | /ˈvi.ɐʒẽ/       | trip       | /trɪp/      | viaje      | /ˈbjahe/   |     |
-| passeio          | passeio          | sub. (masc)          | /pɐ.ˈsɛ.ʊ/  | /pa.ˈse.ʊ/      | stroll     | /stroʊl/    | paseo      | /paˈse.o/  |     |
+| país             | país             | sub. (masc)          | /paˈiʃ/     | **/paˈis/**          | country    | /ˈkʌntri/   | país       | /paˈis/    |     |
+| cidade vila      | cidade vila      | sub. (fem)           | /si.ˈda.ðɨ/ | **/si.ˈda.ðʒi/**    | town       | /taʊn/      | ciudad villa| /θjuˈðad ˈbiʎa/ |     |
+| viagem           | viagem           | sub. (fem)           | /ˈvjajʒẽ/   | **/ˈvi.ɐʒẽ/**       | trip       | /trɪp/      | viaje      | /ˈbjahe/   |     |
+| passeio          | passeio          | sub. (masc)          | /pɐ.ˈsɛ.ʊ/  | **/pa.ˈse.ʊ/**      | stroll     | /stroʊl/    | paseo      | /paˈse.o/  |     |
 | férias           | férias           | sub. (fem, pl)       | /ˈfe.ɾi.ɐʃ/ | /ˈfe.ɾi.ɐʃ/     | vacation   | /vəˈkeɪʃən/ | vacaciones | /bakaˈsjones/ |     |
-| Carnaval         | Carnaval         | sub. (masc)          | /kɐɾ.nɐˈval/| /kaʁ.naˈval/    | Carnival   | /ˈkɑrnɪvəl/ | Carnaval   | /kaɾnaˈβal/ |     |
-| informação       | informação       | sub. (fem)           | /ĩ.fuɾ.mɐ.ˈsɐ̃w̃/ | /ĩ.foʁ.mɐ.ˈsɐ̃w̃/ | information| /ˌɪnfərˈmeɪʃən/ | información| /infomaˈθjon/ |     |
+| Carnaval         | Carnaval         | sub. (masc)          | /kɐɾ.nɐˈval/| **/kaʁ.naˈval/**    | Carnival   | /ˈkɑrnɪvəl/ | Carnaval   | /kaɾnaˈβal/ |     |
+| informação       | informação       | sub. (fem)           | /ĩ.fuɾ.mɐ.ˈsɐ̃w̃/ | **/ĩ.foʁ.mɐ.ˈsɐ̃w̃/** | information| /ˌɪnfərˈmeɪʃən/ | información| /infomaˈθjon/ |     |
 | amigos           | amigos           | sub. (masc, pl)      | /ɐ.ˈmi.ɡuʃ/ | /ɐ.ˈmi.ɡuʃ/     | friends    | /frɛndz/    | amigos     | /a.ˈmi.ɣos/ |     |
 | amigas           | amigas           | sub. (fem, pl)       | /ɐ.ˈmi.ɡɐʃ/ | /ɐ.ˈmi.ɡɐʃ/     | friends    | /frɛndz/    | amigas     | /a.ˈmi.ɣɐs/ |     |
-| mensagem         | mensagem         | sub. (fem)           | /mẽ.ˈza.ʒẽ/ | /mẽ.ˈsa.ʒẽ/     | message    | /ˈmɛsɪdʒ/    | mensaje    | /maˈχe/    |     |
+| mensagem         | mensagem         | sub. (fem)           | /mẽ.ˈza.ʒẽ/ | **/mẽ.ˈsa.ʒẽ/**     | message    | /ˈmɛsɪdʒ/    | mensaje    | /maˈχe/    |     |
 | ainda            | ainda            | adv.                 | /ˈĩ.dɐ/     | /ˈĩ.dɐ/         | still      | /stɪl/      | todavía    | /toðaˈβi.a/ |     |
 | saldos           | saldos           | sub. (masc, pl)      | /ˈsaɫ.duʃ/  | /ˈsaɫ.duʃ/      | sales      | /seɪlz/     | saldos     | /ˈsaldos/  |     |
 | filhos           | filhos           | sub. (masc, pl)      | /ˈfi.ʎuʃ/  | /ˈfi.ʎuʃ/      | sons       | /sʌnz/      | hijos      | /ˈixos/    |     |
 | filhas           | filhas           | sub. (fem, pl)       | /ˈfi.ʎɐʃ/  | /ˈfi.ʎɐʃ/      | daughters  | /ˈdɔtərz/   | hijas      | /ˈixas/    |     |
-| café             | café             | sub. (masc)          | /ˈka.fɨ/    | /ˈka.fe/         | coffee     | /ˈkɔfi/     | café       | /ˈkafe/    |     |
-| estações do ano  | estações do ano  | s. (fem, pl)         | /ɨʃ.tɐ.ˈsõj̃ʊʃ du ɐ.ˈnu/ | /iʃ.ta.ˈsɔj̃j̃ʊʃ du ɐ.ˈnʊ/ | seasons   | /ˈsizənz/   | estaciones del año | /estasjones del ˈaɲo/ |     |
-| datas festivas   | datas festivas   | s. (fem, pl)         | /ˈda.tɐʃ fɨʃ.ˈti.vɐʃ/ | /ˈda.tɐʃ fɨʃ.ˈti.vɐʃ/ | holidays  | /ˈhɑləˌdeɪz/ | festivos   | /fesˈtiβos/ |     |
-| continentes      | continentes      | s. (masc, pl)        | /kõ.ti.ˈnẽtʃ/ | /kõ.ti.ˈnẽtʃʃ/ | continents | /ˈkɑntəˌnənts/ | continentes| /kontiˈnentes/ |     |
-| nomes de países  | nomes de países  | s. (masc, pl)        | /ˈnɔ.mɨʒ dɨ pa.ˈiʃ/ | /ˈnɔ.mis dʒi pa.ˈis/ | country names | /ˈkəntri neɪmz/ | nombres de países | /nomˈbɾes ðe paˈiθes/ |     |
-| países           | países           | sub. (masc, pl)      | /ˈpa.iz/    | /ˈpa.is/         | countries  | /ˈkʌntriz/  | países     | /paˈis/    |     |
+| café             | café             | sub. (masc)          | /ˈka.fɨ/    | **/ˈka.fe/**         | coffee     | /ˈkɔfi/     | café       | /ˈkafe/    |     |
+| estações do ano  | estações do ano  | s. (fem, pl)         | /ɨʃ.tɐ.ˈsõj̃ʊʃ du ɐ.ˈnu/ | **/iʃ.ta.ˈsɔj̃j̃ʊʃ du ɐ.ˈnʊ/** | seasons   | /ˈsizənz/   | estaciones del año | /estasjones del ˈaɲo/ |     |
+| datas festivas   | datas festivas   | s. (fem, pl)         | /ˈda.tɐʃ fɨʃ.ˈti.vɐʃ/ | /ˈda.tɐʃ fɨʃ.ˈti.vɐʃ/| holidays  | /ˈhɑləˌdeɪz/ | festivos   | /fesˈtiβos/ |     |
+| continentes      | continentes      | s. (masc, pl)        | /kõ.ti.ˈnẽtʃ/ | /kõ.ti.ˈnẽtʃ/ | continents | /ˈkɑntəˌnənts/ | continentes| /kontiˈnentes/ |     |
+| nomes de países  | nomes de países  | s. (masc, pl)        | /ˈnɔ.mɨʒ dɨ pa.ˈiʃ/ | **/ˈnɔ.mis dʒi pa.ˈis/** | country names | /ˈkəntri neɪmz/ | nombres de países | /nomˈbɾes ðe paˈiθes/ |     |
+| países           | países           | sub. (masc, pl)      | /ˈpa.iz/    | **/ˈpa.is/**         | countries  | /ˈkʌntriz/  | países     | /paˈis/    |     |
 | alguns           | alguns           | pron. indef. (pl)    | /ˈaw̃.ʒũj̃/  | /ˈaw̃.ʒũj̃/      | some       | /sʌm/       | algunos    | /alˈɡunos/ |     |
-| cidades          | cidades          | sub. (fem, pl)       | /si.ˈda.dɨʃ/ | /si.ˈda.dʒiʃ/    | cities     | /ˈsɪtiz/     | ciudades  | /θjuˈðaðes/ |     |
-| meses            | meses            | sub. (masc, pl)      | /ˈmɛ.zɨʃ/  | /ˈme.ziʃ/      | months     | /mʌnθs/     | meses      | /ˈmeses/   |     |
+| cidades          | cidades          | sub. (fem, pl)       | /si.ˈda.dɨʃ/ | **/si.ˈda.dʒiʃ/**    | cities     | /ˈsɪtiz/     | ciudades  | /θjuˈðaðes/ |     |
+| meses            | meses            | sub. (masc, pl)      | /ˈmɛ.zɨʃ/  | **/ˈme.ziʃ/**      | months     | /mʌnθs/     | meses      | /ˈmeses/   |     |
 | datas            | datas            | sub. (fem, pl)       | /ˈda.tɐʃ/   | /ˈda.tɐʃ/       | dates      | /deɪts/     | fechas     | /ˈfetʃas/  |     |
-| nomes            | nomes            | sub. (masc, pl)      | /ˈnɔ.mɨʃ/   | /ˈnɔ.mis/       | names      | /neɪmz/     | nombres    | /nomˈbɾes/ |     |
-| carro            | carro            | sub. (masc)          | /ˈka.ʁu/    | **/ˈka.ʁu/**     | car        | /kɑr/       | coche      | /ˈkoʧe/    |     |
+| nomes            | nomes            | sub. (masc, pl)      | /ˈnɔ.mɨʃ/   | **/ˈnɔ.mis/**       | names      | /neɪmz/     | nombres    | /nomˈbɾes/ |     |
+| carro            | carro            | sub. (masc)          | /ˈka.ʁu/    | /ˈka.ʁu/     | car        | /kɑr/       | coche      | /ˈkoʧe/    |     |
 | novo             | novo             | adj. (masc, sing)    | /ˈno.vu/    | /ˈno.vu/         | new        | /nju/       | nuevo      | /ˈnweβo/   |     |
 | nova             | nova             | adj. (fem, sing)     | /ˈno.vɐ/    | /ˈno.vɐ/         | new        | /nju/       | nueva      | /ˈnweβa/   |     |
-| sistema          | sistema          | sub. (masc)          | /siʃ.ˈtɛ.mɐ/ | /sis.ˈtɛ.mɐ/     | system     | /ˈsɪstəm/   | sistema    | /sisˈtema/ |     |
-| navegação        | navegação        | sub. (fem)           | /nɐ.vɨ.ɡɐ.ˈw̃/ | /na.ve.ɡa.ˈw̃/     | navigation | /ˌnævɪˈɡeɪʃən/ | navegación | /naveɣaˈθjon/ |     |
-| estante          | estante          | sub. (fem)           | /ɨʃ.ˈtɐ̃.tɨ/ | /is.ˈtɐ̃tɨ/      | shelf      | /ʃɛlf/      | estante    | /esˈtante/ |     |
+| sistema          | sistema          | sub. (masc)          | /siʃ.ˈtɛ.mɐ/ | **/sis.ˈtɛ.mɐ/**     | system     | /ˈsɪstəm/   | sistema    | /sisˈtema/ |     |
+| navegação        | navegação        | sub. (fem)           | /nɐ.vɨ.ɡɐ.ˈw̃/ | **/na.ve.ɡa.ˈw̃/**     | navigation | /ˌnævɪˈɡeɪʃən/ | navegación | /naveɣaˈθjon/ |     |
+| estante          | estante          | sub. (fem)           | /ɨʃ.ˈtɐ̃.tɨ/ | **/is.ˈtɐ̃tɨ/**      | shelf      | /ʃɛlf/      | estante    | /esˈtante/ |     |
 | cinema           | cinema           | sub. (masc)          | /ˈsi.nɨ.mɐ/  | /ˈsi.nɨ.mɐ/      | cinema     | /ˈsɪnəmə/   | cine       | /ˈsine/    |     |
 | óculos           | óculos           | sub. (masc, pl)      | /ˈɔ.ku.luʃ/  | /ˈɔ.ku.luʃ/      | glasses    | /ˈɡlæsɪz/   | gafas      | /ˈɡafas/   |     |
 | flores           | flores           | sub. (fem, pl)       | /ˈflo.ɾɨʃ/  | /ˈflo.ɾiʃ/      | flowers    | /ˈflaʊərz/  | flores     | /ˈfloɾes/  |     |

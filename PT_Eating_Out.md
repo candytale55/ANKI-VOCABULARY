@@ -16,12 +16,12 @@ Common Portuguese words and phrases you might need when going out to eat breakfa
 | chá    | substantivo (masc)| /ʃa/    | tea       | /ti/           | té                  | /te/           |     |
 | suco de laranja  | substantivo (masc)| /ˈsu.ku dʒi la.ˈɾɐ̃.ʒɐ/ | orange juice           | /ˈɔrɪndʒ ʤuːs/| zumo de naranja    | /ˈθumo ðe naˈɾanxa/ |     |
 | pão  | substantivo (masc)| /ˈpɐ̃w/   | bread   | /brɛd/   | pan    | /pan/          |2170|
-| manteiga | substantivo (fem) | /mɐ̃.ˈtɐj.ɡɐ/      | butter     | /ˈbʌtər/      | mantequilla        | /manteˈkiʎa/   |     |
+| manteiga | substantivo (fem) | /mɐ̃.ˈtɐj.ɡɐ/      | butter     | /ˈbʌtər/      | mantequilla        | /manteˈkiʎa/   |8117|
 | geleia                  | substantivo (fem) | /ʒe.ˈle.jɐ/        | jam                    | /ʤæm/          | mermelada          | /meɾmeˈlaða/   |     |
 | ovo   | substantivo (masc)| /ˈɔ.vu/  | egg     | /ɛɡ/           | huevo        | /ˈwebo/        |2171|
 | bacon  | substantivo (masc)| /ˈba.kõ/            | bacon                  | /ˈbeɪkən/     | bacon               | /ˈbeikon/      |     |
 | iogurte                 | substantivo (masc)| /jo.ˈɡuʁ.tɨ/       | yogurt                 | /ˈjoʊɡərt/    | yogur               | /ʝoˈɣur/       |     |
-| fruta                   | substantivo (fem) | /ˈfɾu.tɐ/           | fruit                  | /fruːt/        | fruta               | /ˈfɾuta/       |     |
+| fruta     | substantivo (fem) | /ˈfɾu.tɐ/ | fruit                  | /fruːt/        | fruta               | /ˈfɾuta/       |8118|
 | salada de frutas        | substantivo (fem) | /sa.ˈla.dɐ dʒi ˈfru.tɐs/ | fruit salad         | /fruːt ˈsæləd/ | ensalada de frutas  | /ensalaˈða ðe ˈfɾutas/ |     |
 | cereais                | substantivo (masc)| /se.ɾe.ˈajs/       | cereal                 | /ˈsɪriəl/      | cereales            | /θeɾeˈales/     |     |
 | leite   | substantivo (masc)| /ˈlej.tɨ/   | milk  | /mɪlk/         | leche               | /ˈletʃe/       |     |
@@ -50,7 +50,7 @@ Common Portuguese words and phrases you might need when going out to eat breakfa
 | salada                 | substantivo (fem) | /sa.ˈla.dɐ/        | salad                | /ˈsæləd/       | ensalada            | /ensalaˈða/    |     |
 | sanduíche            | substantivo (masc)| /sɐ̃.duˈi.ʃi/       | sandwich             | /ˈsændwɪʧ/    | bocadillo           | /bokaˈðiʎo/    |     |
 | carne                  | substantivo (fem) | /ˈkaɾ.nɨ/          | meat                 | /miːt/         | carne               | /ˈkaɾne/        |     |
-| frango                 | substantivo (masc)| /ˈfɾɐ̃.ɡu/          | chicken              | /ˈʧɪkɪn/      | pollo               | /ˈpoʎo/         |     |
+| frango | substantivo (masc)| /ˈfɾɐ̃.ɡu/          | chicken              | /ˈʧɪkɪn/      | pollo               | /ˈpoʎo/         |8119|
 | peixe                  | substantivo (masc)| /ˈpej.ʃɨ/           | fish                 | /fɪʃ/          | pescado             | /peˈskaðo/     |     |
 | vegetariano            | adjetivo          | /ˌvɛ.dʒɪˈtɛ.ɾi.ˈɐ.nu/ | vegetarian           | /ˌvɛdʒəˈtɛriən/| 
 vegetariano         | /βeʝetaˈɾjano/ |     |

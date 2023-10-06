@@ -105,3 +105,19 @@ Certainly, here's a list of finger and toe-related terms in Portuguese:
 | dedo anelar       | substantivo (masc) | /ˈde.du a.ne.ˈlaɾ/| ring finger     | /rɪŋ ˈfɪŋ.ɡər/ | dedo anular   | /ˈde.ðo aˈnu.lar/ |     |
 | dedo mínimo       | substantivo (masc) | /ˈde.du ˈmi.ni.mu/| little finger    | /ˈlɪt.l ˈfɪŋ.ɡər/ | dedo meñique  | /ˈde.ðo meˈɲi.ke/ |     |
 | dedão do pé       | substantivo (masc) | /deˈdɐ̃w du ˈpe/| big toe           | /bɪɡ toʊ/     | dedo gordo del pie | /ˈdeðo ˈɡoɾðo del ˈpje/ |     |
+
+
+Más específico
+
+## Sistema urinário
+
+| Portuguese        | Tipo de Palavra | IPA (PT)               | IPA (BR)              | English          | English IPA     | Spanish        | Spanish IPA  | No. |
+|-------------------|-----------------|------------------------|-----------------------|------------------|-----------------|----------------|-------------|-----|
+| sistema urinário  | s. m.           | /si.ˈs.tɛ.mə u.ɾi.na.ˈɾi.u/ | **/si.ˈs.tɛ.mɐ u.ɾi.ˈna.ɾiu/** | urinary system  | /ˈjʊrənɛri ˈsɪstəm/ | sistema urinario | /sisˈtema uɾiˈnaɾjo/ |     |
+| rins       | s. m. p.    | /ˈɾĩʃ/          | /ˈɾĩʃ/         | kidneys      | /ˈkɪdniz/       | riñones        | /ˈriɲones/   |     |
+| uretra     | s. f.       | /uˈrɛ.tɾɐ/      | **/uˈɾet.ɾɐ/** | urethra      | /jʊˈriːθrə/    | uretra         | /uˈɾetɾa/    |     |
+| bexiga     | s. f.       | /bɛ.ˈʃi.ɡɐ/     | **/be.ˈʃi.ɡɐ/**| bladder      | /ˈblædər/       | vejiga         | /beˈxiɣa/    |     |
+| ureteres   | s. m. p.    | /uˈɾɛ.tɨɾ/ɨʃ/   | **/uˈɾɛtɚz/** | ureters      | /ˈjuːrətərz/    | uréteres       | /uˈɾeteɾes/   |     |
+| urina      | s. f.       | /u.ˈɾi.nɐ/      | **/uˈɾinɐ/**  | urine        | /ˈjʊraɪn/       | orina          | /oˈɾina/      |     |
+| próstata   | s. f.       | /ˈpɾɔs.tɐ.tɐ/   | **/ˈpɾɔs.tɛtɐ/** | prostate  | /ˈprɑːˌsteɪt/   | próstata       | /ˈpɾostata/  |     |
+

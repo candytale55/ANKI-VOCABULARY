@@ -60,7 +60,8 @@
 | dentes        | substantivo (masc) | /ˈdẽ.tis/       | teeth       | /tiːθ/    | dientes       | /ˈdjentes/ |     |
 | sobrancelhas  | substantivo (fem)  | /so.bɾɐ̃.ˈse.ʎɐs/| eyebrows   | /ˈaɪ.braʊz/ | cejas         | /ˈexas/    |     |
 | cílios        | substantivo (masc) | /ˈsi.ʎus/       | eyelashes   | /ˈaɪˌlæʃɪz/| pestañas      | /pesˈtaɲas/|     |
-| orelha | substantivo (fem) | /o.ˈɾe.ʎɐ/ | ear | /ɪr/ | oreja | /oˈɾexa/ | 8115 |
+| orelha | substantivo (fem) | /o.ˈɾe.ʎɐ/ | ear | /ɪr/ | oreja | /oˈɾexa/ | 81151 |
+| orelhas | substantivo (fem, pl) | /o.ˈɾe.ʎɐʃ/ | ears | /ɪrz/ | orejas | /oˈɾexas/ ||
 
 **Feet and Hands:**
 
@@ -71,7 +72,7 @@
 | tornozelos    | substantivo (masc) | /toɾ.noˈze.luʃ/  | ankles      | /ˈæŋ.kəlz/| tobillos      | /toˈbiʎos/ |     |
 | mãos          | substantivo (fem)  | /ˈmɐ̃.us/        | hands       | /hændz/   | manos         | /ˈmanos/   |21641|
 | dedos das mãos| substantivo (masc) | /ˈde.dus dus ˈmɐ̃.us/| fingers   | /ˈfɪŋ.ɡərz/| dedos de las manos | /ˈdeðos de las ˈmanos/|     |
-| joelhos       | substantivo (masc) | /ʒuˈeʎ.uz/      | knees       | /niːz/    | rodillas      | /roˈðiʎas/ |     |
+| joelhos       | substantivo (masc) | /ʒuˈeʎ.uz/      | knees       | /niːz/    | rodillas      | /roˈðiʎas/ |8103|
 | quadris       | substantivo (masc) | /ˈkwad.ɾis/     | hips        | /hɪps/    | caderas       | /kaˈðeɾas/ |     |
 
 
@@ -81,7 +82,7 @@ Certainly, here's a list of finger and toe-related terms in Portuguese:
 
 | Portuguese        | Tipo de Palavra    | IPA             | English           | IPA (USA)      | Spanish           | Spanish IPA | No. |
 |-------------------|--------------------|-----------------|-------------------|---------------|-------------------|------------|-----|
-| polegar           | substantivo (masc) | /poˈle.ɡaɾ/     | thumb             | /θʌm/         | pulgar            | /ˈpul.ɡar/ |     |
+| polegar           | substantivo (masc) | /poˈle.ɡaɾ/     | thumb             | /θʌm/         | pulgar            | /ˈpul.ɡar/ |8116|
 | dedo indicador    | substantivo (masc) | /ˈde.du ˌin.di.ˈka.doɾ/| index finger   | /ˈɪn.dɛks ˈfɪŋ.ɡər/ | dedo índice    | /ˈde.ðo ˈin.ði.se/ |     |
 | dedo médio        | substantivo (masc) | /ˈde.du ˈme.dju/| middle finger     | /ˈmɪd.l ˈfɪŋ.ɡər/ | dedo medio    | /ˈde.ðo ˈme.ðjo/ |     |
 | dedo anelar       | substantivo (masc) | /ˈde.du a.ne.ˈlaɾ/| ring finger     | /rɪŋ ˈfɪŋ.ɡər/ | dedo anular   | /ˈde.ðo aˈnu.lar/ |     |

@@ -18,25 +18,6 @@
 
 
 
-
-| Portuguese (PT) | Portuguese (BR) | Tipo de Palavra | IPA (PT) | IPA (BR) | English     | English IPA | Spanish       | Spanish IPA | No. |
-|------------------|------------------|-----------------|----------|---------|-------------|------------|---------------|------------|-----|
-| pés   | pés | sub. (masc)     | /ˈpeʃ/   | /ˈpeʃ/  | feet        | /fiːt/     | pies          | /ˈpies/    | 8101|
-| pernas | pernas | sub. (fem)  | /ˈpɛɾ.nɐs/ | /ˈpeɾ.ɡɐs/ | legs        | /lɛɡz/     | piernas       | /ˈpjeɾnas/  |8102|
-| joelhos | joelhos | sub. (masc)     | /ʒuˈeʎ.uz/ | /ʒuˈeʎ.uz/ | knees       | /niːz/     | rodillas      | /roˈðiʎas/ | 8103 |
-| quadris          | quadris          | sub. (masc)     | /ˈkwad.ɾis/| /ˈkwad.ɾis/| hips        | /hɪps/     | caderas       | /kaˈðeɾas/ |     |
-| braços   | braços     | sub. (masc)     | /ˈbɾa.sus/ | /ˈbɾa.sus/ | arms   | /ɑːrmz/    | brazos  | /ˈbɾasos/  |8104|
-| cabeça   | cabeça     | sub. (fem)      | /kaˈbe.sɐ/ | /kaˈbe.sɐ/ | head  | /hɛd/      | cabeza   | /kaˈβeθa/  |8107|
-| pescoço  | pescoço   | sub. (masc)     | /ˈpɛs.ko.su/| /ˈpɛs.ko.su/| neck        | /nɛk/      | cuello    | /ˈkwelo/   |8106|
-| ombros   | ombros    | sub. (masc.pl)     | /ˈõ.bɾuʃ/  | /ˈõ.bɾuʃ/  | shoulders   | /ˈʃoʊldərz/| hombros       | /ˈombɾos/  |8108|
-| costas    | costas   | sub. (fem)      | /ˈkoʃ.tɐs/ | /ˈkoʃ.tɐs/ | back        | /bæk/      | espalda       | /esˈpalda/ |8105|
-| nádegas          | nádegas          | sub. (fem)      | /ˈna.de.ɡɐs/| /ˈna.de.ɡɐs/| buttocks    | /ˈbʌtəks/  | nalgas        | /ˈnalɡas/  |     |
-| barriga  | barriga          | sub. (fem)      | /baˈri.ɡɐ/ | /baˈri.ɡɐ/ | belly       | /ˈbɛli/    | barriga       | /baˈriɣa/  |8109|
-
-
-
-
-
 **Face Parts:**
 
 | Portuguese    | Tipo de Palavra    | IPA             | English     | IPA (USA) | Spanish       | Spanish IPA | No. |

@@ -71,6 +71,50 @@ Other list:
 
 
 
+| Portuguese         | Tipo de Palavra    | IPA (PT)       | IPA (BR)        | English          | English IPA      | Spanish        | Spanish IPA   | No. |
+|--------------------|--------------------|----------------|-----------------|------------------|------------------|----------------|---------------|-----|
+| dedos dos pés     | s. m. p            | /ˈde.duʃ duʃ ˈpeʃ/ | **/ˈde.duʃ dus ˈpeʃ/**  | toes             | /toʊz/           | dedos de los pies | /ˈðeðos ðe los ˈpiez/ |     |
+| pé                 | s. m.              | /ˈpe/           | /ˈpe/            | foot             | /fʊt/            | pie            | /ˈpje/        |     |
+| pés                | s. m. p            | /ˈpeʃ/          | **/ˈpeʃ/**        | feet             | /fiːt/           | pies           | /ˈpjes/       |     |
+| tornozelo          | s. m.              | /tor.noˈze.lu/   | **/tor.noˈze.lu/**  | ankle            | /ˈæŋ.kəl/        | tobillo        | /toˈbiʎo/     |     |
+| tornozelos         | s. m. p            | /tor.noˈze.luʃ/  | **/tor.noˈze.luʃ/** | ankles           | /ˈæŋ.kəlz/       | tobillos       | /toˈbiʎos/    |     |
+| panturrilha        | s. f.              | /pan.tuˈri.ʎɐ/  | **/pan.tuˈri.ʎɐ/** | calf (of leg)    | /kæf/            | pantorrilla    | /pantoˈriʎa/  |     |
+| panturrilhas       | s. f. p            | /pan.tuˈri.ʎɐʃ/ | **/pan.tuˈri.ʎɐs/** | calves (of legs) | /kælvz/           | pantorrillas   | /pantoˈriʎas/ |     |
+| canela             | s. f.              | /kaˈnɛ.lɐ/      | **/kaˈnɛ.lɐ/**    | shin             | /ʃɪn/            | espinilla      | /espiˈniʎa/   |     |
+| canelas            | s. f. p            | /kaˈnɛ.lɐʃ/     | **/kaˈnɛ.lɐs/**   | shins            | /ʃɪnz/           | espinillas     | /espiˈniʎas/  |     |
+| joelho             | s. m.              | /ʒoˈeʎu/        | **/ʒoˈeʎu/**     | knee             | /ni/             | rodilla        | /roˈðiʎa/     |     |
+| joelhos            | s. m. p            | /ʒoˈeʎuʃ/       | **/ʒoˈeʎuʃ/**     | knees            | /niːz/           | rodillas       | /roˈðiʎas/    |     |
+| coxa               | s. f.              | /ˈkoʃɐ/         | **/ˈkoʃɐ/**       | thigh            | /θaɪ/            | muslo          | /ˈmuslo/      |     |
+| coxas              | s. f. p            | /ˈkoʃɐʃ/        | **/ˈkoʃɐs/**      | thighs           | /θaɪz/           | muslos         | /ˈmuslos/     |     |
+| perna              | s. f.              | /ˈpɛɾ.nɐ/       | **/ˈpɛɾ.nɐ/**     | leg              | /lɛɡ/            | pierna         | /ˈpjɛɾna/     |     |
+| pernas             | s. f. p            | /ˈpɛɾ.nɐʃ/      | **/ˈpɛɾ.nɐs/**    | legs             | /lɛɡz/           | piernas        | /ˈpjɛɾnas/    |     |
+| nádega             | s. f.              | /ˈnadɨɡɐ/       | **/ˈnadɨɡɐ/**     | buttock          | /ˈbʌtək/         | nalga          | /ˈnalɡa/      |     |
+| nádegas            | s. f. p            | /ˈnadɨɡɐʃ/      | **/ˈnadɨɡɐs/**    | buttocks         | /ˈbʌtəks/        | nalgas         | /ˈnalɡas/     |     |
+
+
+
+| Portuguese         | Tipo de Palavra    | IPA (PT)       | IPA (BR)        | English          | English IPA      | Spanish        | Spanish IPA   | No. |
+|--------------------|--------------------|----------------|-----------------|------------------|------------------|----------------|---------------|-----|
+| mão                | s. f.              | /mɐ̃w̃/           | /mɐ̃w̃/            | hand             | /hænd/           | mano           | /ˈmano/       |     |
+| mãos               | s. f. p            | /mɐ̃w̃ʃ/          | /mɐ̃w̃ʃ/           | hands            | /hændz/          | manos          | /ˈmanos/      |     |
+| dedo               | s. m.              | /ˈde.du/        | /ˈde.du/         | finger           | /ˈfɪŋɡər/        | dedo           | /ˈdeðo/       |     |
+| dedos das mãos    | s. m. p            | /ˈde.duʃ dɐʃ ˈmɐ̃w̃ʊʃ/ | **/ˈde.duʃ das ˈmɐ̃w̃ʊʃ/** | fingers of the hands | /ˈfɪŋɡərz əv ðə hændz/ | dedos de las manos | /ˈðeðos ðe las ˈmanos/ |     |
+| braço              | s. m.              | /ˈbɾa.su/        | **/ˈbɾa.su/**     | arm              | /ɑrm/            | brazo          | /ˈbraθo/      |     |
+| braços             | s. m. p            | /ˈbɾa.ʃʊʃ/       | **/ˈbɾa.ʃʊs/**     | arms             | /ɑrmz/           | brazos         | /ˈbraθos/     |     |
+| cotovelo          | s. m.              | /ko.toˈvɛ.lu/    | **/ko.toˈvɛ.lu/** | elbow            | /ˈɛl.boʊ/        | codo           | /ˈkodo/       |     |
+| cotovelos         | s. m. p            | /ko.toˈvɛ.luʃ/   | **/ko.toˈvɛ.luʃ/** | elbows           | /ˈɛl.boʊz/       | codos          | /ˈkodos/      |     |
+| ombro              | s. m.              | /ˈõ.bɾu/         | **/ˈõ.bɾu/**      | shoulder         | /ˈʃoʊldər/       | hombro         | /ˈombɾo/      |     |
+| ombros             | s. m. p            | /ˈõ.bɾuʃ/        | **/ˈõ.bɾuʃ/**     | shoulders        | /ˈʃoʊldərz/      | hombros        | /ˈombɾos/     |     |
+| costa              | s. f.              | /ˈkoʃ.tɐ/        | **/ˈkoʃ.tɐ/**     | back             | /bæk/            | espalda        | /esˈpalda/    |     |
+| costas             | s. f. p            | /ˈkoʃ.tɐʃ/       | **/ˈkoʃ.tɐs/**    | backs            | /bæks/           | espaldas       | /esˈpaldas/   |     |
+| quadril            | s. m.              | /kwɐˈdɾiɫ/       | **/kwɐˈdɾiɫ/**    | hip              | /hɪp/            | cadera         | /kaˈðeɾa/     |     |
+| quadris            | s. m. p            | /kwɐˈdɾiʃ/       | **/kwɐˈdɾiʃ/**    | hips             | /hɪps/           | caderas        | /kaˈðeɾas/    |     |
+
+
+
+
+
+
 
 Certainly, here's a list of finger and toe-related terms in Portuguese:
 

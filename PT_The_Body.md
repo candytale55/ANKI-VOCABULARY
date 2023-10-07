@@ -22,37 +22,39 @@
 
 | Portuguese    | Tipo de Palavra    | IPA             | English     | IPA (USA) | Spanish       | Spanish IPA | No. |
 |---------------|--------------------|-----------------|-------------|-----------|---------------|------------|-----|
+| rosto         | s. m.            | /ˈɾoʃ.to/       | face            | /feɪs/        | rostro        | /ˈrostɾo/  | 8111-8112 |
 | olhos         | substantivo (m.p.) | /ˈo.ʎus/        | eyes        | /aɪz/     | ojos          | /ˈoxos/    | 8110 |
 | rosto         | substantivo (masc) | /ˈɾoʃ.to/       | face        | /feɪs/    | rostro        | /ˈrostɾo/  | 8111-8112 |
 | nariz         | substantivo (masc) | /naˈɾiʃ/        | nose        | /noʊz/    | nariz         | /naˈɾiθ/   | 8113 |
 | boca          | substantivo (fem)  | /ˈbo.kɐ/        | mouth       | /maʊθ/    | boca          | /ˈboka/    | 8114 |
 | dentes        | substantivo (masc) | /ˈdẽ.tis/       | teeth       | /tiːθ/    | dientes       | /ˈdjentes/ |     |
-| sobrancelhas  | substantivo (fem)  | /so.bɾɐ̃.ˈse.ʎɐs/| eyebrows    | /ˈaɪ.braʊz/ | cejas       | /ˈexas/    |     |
+| sobrancelhas  | substantivo (fem)  | /so.bɾɐ̃.ˈse.ʎɐs/| eyebrows    | /ˈaɪ.braʊz/ | cejas       | /ˈexas/    | 8125|
 | cílios        | substantivo (masc) | /ˈsi.ʎus/       | eyelashes   | /ˈaɪˌlæʃɪz/| pestañas     | /pesˈtaɲas/|     |
-| orelha | substantivo (fem) | /o.ˈɾe.ʎɐ/ | ear | /ɪr/ | oreja | /oˈɾexa/ | 81151 |
-| orelhas | substantivo (fem, pl) | /o.ˈɾe.ʎɐʃ/ | ears | /ɪrz/ | orejas | /oˈɾexas/ ||
+
+Other list:
+
 
 | Portuguese    | Tipo de Palavra  | IPA (PT)        | IPA (BR)        | English       | English IPA    | Spanish        | Spanish IPA   | No. |
-|---------------|------------------|-----------------|-----------------|---------------|----------------|----------------|---------------|-----|
-| olho          | s. m.            | /ˈoʎu/          | **/ˈoʎu/**      | eye           | /aɪ/           | ojo            | /ˈoxo/        |     |
-| olhos         | s. m. p          | /ˈoʎuʃ/         | **/ˈoʎuʃ/**     | eyes          | /aɪz/          | ojos           | /ˈoxos/       |     |
-| nariz         | s. m.            | /nɐˈɾiʃ/        | **/naˈɾis/**    | nose          | /noʊz/         | nariz          | /naˈɾiθ/      |     |
-| boca          | s. f.            | /ˈbɔ.kɐ/        | **/ˈbɔ.kɐ/**    | mouth         | /maʊθ/         | boca           | /ˈboka/       |     |
-| dente         | s. m.            | /ˈdẽ.tɨ/        | **/ˈdẽ.ti/**    | tooth         | /tuːθ/         | diente         | /ˈdjente/     |     |
-| dentes        | s. m. p          | /ˈdẽ.tɨʃ/       | **/ˈdẽ.tiʃ/**    | teeth         | /tiːθ/         | dientes        | /ˈdjentes/    |     |
-| sobrancelha  | s. f.            | /su.bɾɐ̃ˈse.ʎɐ/ | **/su.bɾɐ̃ˈse.ʎɐ/** | eyebrow       | /ˈaɪˌbraʊ/     | ceja           | /ˈexa/        |     |
-| sobrancelhas | s. f. p          | /su.bɾɐ̃ˈse.ʎɐʃ/| **/su.bɾɐ̃ˈse.ʎɐs/** | eyebrows      | /ˈaɪˌbraʊnz/   | cejas          | /ˈexas/       |     |
-| pálpebra     | s. f.            | /ˈpaɫ.pɛ.brɐ/   | **/ˈpaɫ.pɛ.bɾɐ/** | eyelid        | /ˈaɪˌlɪd/      | párpado        | /ˈparpaðo/    |     |
-| pálpebras    | s. f. p          | /ˈpaɫ.pɛ.bɾɐʃ/  | **/ˈpaɫ.pɛ.bɾɐs/** | eyelids       | /ˈaɪˌlɪdz/     | párpados       | /ˈparpaðos/   |     |
-| cílio         | s. m.            | /ˈsi.ʎu/        | **/ˈsi.ʎu/**      | eyelash       | /ˈaɪˌlæʃ/      | pestaña        | /pesˈtaɲa/    |     |
-| cílios        | s. m. p          | /ˈsi.ʎuʃ/       | **/ˈsi.ʎuʃ/**     | eyelashes     | /ˈaɪˌlæʃɪz/    | pestañas       | /pesˈtaɲas/   |     |
-| orelha        | s. f.            | /oˈɾe.ʎɐ/       | **/oˈɾe.ʎɐ/**     | ear           | /ɪr/           | oreja          | /oˈɾexa/       |     |
-| orelhas       | s. f. p          | /oˈɾe.ʎɐʃ/      | **/oˈɾe.ʎɐs/**    | ears          | /ɪrz/          | orejas         | /oˈɾexas/      |     |
-| bochecha      | s. f.            | /boˈʃɛ.ʃɐ/      | **/boˈʃɛ.ʃɐ/**    | cheek         | /ʧik/          | mejilla        | /meˈxiʎa/     |     |
-| bochechas     | s. f. p          | /boˈʃɛ.ʃɐʃ/     | **/boˈʃɛ.ʃɐs/**   | cheeks        | /ʧiks/         | mejillas       | /meˈxiʎas/    |     |
-| queixo        | s. m.            | /ˈkei.ʃu/       | **/ˈkei.ʃu/**     | chin          | /ʧɪn/          | barbilla       | /barˈbiʎa/    |     |
-| frente        | s. f.            | /ˈfɾẽ.tɨ/       | **/ˈfɾẽ.ti/**     | forehead      | /ˈfɔrɪd/       | frente         | /ˈfɾente/     |     |
-| maçã do rosto | s. f.            | /ˈma.sɐ du ˈɾɔs.tu/| **/ˈmasɐ du ˈɾɔstu/**| cheekbone     | /ˈʧikˌboʊn/   | pómulo         | /ˈpomulo/     |     |
+|---------|--------------|-----------------|-----------------|---------------|----------------|----------------|---------------|-----|
+| olho    | s. m.        | /ˈoʎu/          | /ˈoʎu/          | eye           | /aɪ/           | ojo            | /ˈoxo/        | 8110 |
+| olhos   | s. m. p      | /ˈo.ʎus/        | /ˈo.ʎus/        | eyes          | /aɪz/          | ojos           | /ˈoxos/       | 81101|
+| nariz   | s. m.        | /nɐˈɾiʃ/        | **/naˈɾis/**    | nose          | /noʊz/         | nariz          | /naˈɾiθ/      | 8113 |
+| boca    | s. f.        | /ˈbɔ.kɐ/        | /ˈbɔ.kɐ/        | mouth         | /maʊθ/         | boca           | /ˈboka/       | 8114 |
+| dente   | s. m.        | /ˈdẽ.tɨ/        | **/ˈdẽ.ti/**    | tooth         | /tuːθ/         | diente         | /ˈdjente/     | 8126 |
+| dentes  | s. m. p      | /ˈdẽ.tɨʃ/       | **/ˈdẽ.tiʃ/**   | teeth         | /tiːθ/         | dientes        | /ˈdjentes/    | 81261|
+| sobrancelha  | s. f.   | /su.bɾɐ̃ˈse.ʎɐ/  | /su.bɾɐ̃ˈse.ʎɐ/  | eyebrow       | /ˈaɪˌbraʊ/   | ceja    | /ˈθexa/, /ˈse.xa/ (LA) | 8125|
+| sobrancelhas | s. f. p | /su.bɾɐ̃ˈse.ʎɐʃ/ | **/su.bɾɐ̃ˈse.ʎɐs/** | eyebrows  | /ˈaɪˌbraʊnz/ | cejas  | /ˈθexas/, /ˈse.xas/ (LA)| 8125|
+| pálpebra     | s. f.   | /ˈpaɫ.pɛ.brɐ/   | **/ˈpaɫ.pɛ.bɾɐ/** | eyelid      | /ˈaɪˌlɪd/      | párpado        | /ˈparpaðo/    |     |
+| pálpebras    | s. f. p | /ˈpaɫ.pɛ.bɾɐʃ/  | **/ˈpaɫ.pɛ.bɾɐs/** | eyelids    | /ˈaɪˌlɪdz/     | párpados       | /ˈparpaðos/   |     |
+| cílio        | s. m.   | /ˈsi.ʎu/        | **/ˈsi.ʎu/**      | eyelash     | /ˈaɪˌlæʃ/      | pestaña        | /pesˈtaɲa/    |     |
+| cílios       | s. m. p | /ˈsi.ʎuʃ/       | **/ˈsi.ʎuʃ/**     | eyelashes   | /ˈaɪˌlæʃɪz/    | pestañas       | /pesˈtaɲas/   |     |
+| orelha       | s. f.   | /oˈɾe.ʎɐ/       | /oˈɾe.ʎɐ/         | ear         | /ɪr/           | oreja          | /oˈɾexa/      | 81151|
+| orelhas      | s. f. p | /oˈɾe.ʎɐʃ/      | **/oˈɾe.ʎɐs/**    | ears        | /ɪrz/          | orejas         | /oˈɾexas/     | 8115|
+| bochecha     | s. f.    | /boˈʃɛ.ʃɐ/     | /boˈʃɛ.ʃɐ/        | cheek       | /ʧik/          | mejilla        | /meˈxiʎa/     | 8127 |
+| bochechas    | s. f. p  | /boˈʃɛ.ʃɐʃ/    | **/boˈʃɛ.ʃɐs/**   | cheeks      | /ʧiks/         | mejillas       | /meˈxiʎas/    | 81271 |
+| queixo       | s. m.    | /ˈkei.ʃu/      | **/ˈkei.ʃu/**     | chin        | /ʧɪn/          | barbilla       | /barˈbiʎa/    |     |
+| frente       | s. f.    | /ˈfɾẽ.tɨ/      | **/ˈfɾẽ.ti/**     | forehead    | /ˈfɔrɪd/       | frente         | /ˈfɾente/     |     |
+| maçã do rosto | s. f.   | /ˈma.sɐ du ˈɾɔs.tu/| **/ˈmasɐ du ˈɾɔstu/**| cheekbone     | /ˈʧikˌboʊn/   | pómulo         | /ˈpomulo/     |     |
 
 
 **Feet and Hands:**

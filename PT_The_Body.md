@@ -28,7 +28,7 @@
 | nariz         | substantivo (masc) | /naˈɾiʃ/        | nose        | /noʊz/    | nariz         | /naˈɾiθ/   | 8113 |
 | boca          | substantivo (fem)  | /ˈbo.kɐ/        | mouth       | /maʊθ/    | boca          | /ˈboka/    | 8114 |
 | dentes        | substantivo (masc) | /ˈdẽ.tis/       | teeth       | /tiːθ/    | dientes       | /ˈdjentes/ |     |
-| sobrancelhas  | substantivo (fem)  | /so.bɾɐ̃.ˈse.ʎɐs/| eyebrows    | /ˈaɪ.braʊz/ | cejas       | /ˈexas/    | 8125|
+| sobrancelhas  | substantivo (fem)  | /so.bɾɐ̃.ˈse.ʎɐs/| eyebrows    | /ˈaɪ.braʊz/ | cejas       | /ˈθexas/   | 8125|
 | cílios        | substantivo (masc) | /ˈsi.ʎus/       | eyelashes   | /ˈaɪˌlæʃɪz/| pestañas     | /pesˈtaɲas/|     |
 
 Other list:

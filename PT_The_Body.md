@@ -46,10 +46,10 @@ Other list:
 | sobrancelhas | s. f. p | /su.bɾɐ̃ˈse.ʎɐʃ/ | **/su.bɾɐ̃ˈse.ʎɐs/** | eyebrows  | /ˈaɪˌbraʊnz/ | cejas  | /ˈθexas/, /ˈse.xas/ (LA)| 8125|
 | pálpebra     | s. f.   | /ˈpaɫ.pɛ.brɐ/   | **/ˈpaɫ.pɛ.bɾɐ/** | eyelid      | /ˈaɪˌlɪd/      | párpado        | /ˈparpaðo/    |     |
 | pálpebras    | s. f. p | /ˈpaɫ.pɛ.bɾɐʃ/  | **/ˈpaɫ.pɛ.bɾɐs/** | eyelids    | /ˈaɪˌlɪdz/     | párpados       | /ˈparpaðos/   |     |
-| cílio        | s. m.   | /ˈsi.ʎu/        | **/ˈsi.ʎu/**      | eyelash     | /ˈaɪˌlæʃ/      | pestaña        | /pesˈtaɲa/    |     |
-| cílios       | s. m. p | /ˈsi.ʎuʃ/       | **/ˈsi.ʎuʃ/**     | eyelashes   | /ˈaɪˌlæʃɪz/    | pestañas       | /pesˈtaɲas/   |     |
+| cílio        | s. m.   | /ˈsi.ʎu/        | /ˈsi.ʎu/      | eyelash     | /ˈaɪˌlæʃ/      | pestaña        | /pesˈtaɲa/    |     |
+| cílios       | s. m. p | /ˈsi.ʎuʃ/       | /ˈsi.ʎuʃ/     | eyelashes   | /ˈaɪˌlæʃɪz/    | pestañas       | /pesˈtaɲas/   |     |
 | orelha       | s. f.   | /oˈɾe.ʎɐ/       | /oˈɾe.ʎɐ/         | ear         | /ɪr/           | oreja          | /oˈɾexa/      | 81151|
-| orelhas      | s. f. p | /oˈɾe.ʎɐʃ/      | **/oˈɾe.ʎɐs/**    | ears        | /ɪrz/          | orejas         | /oˈɾexas/     | 8115|
+| orelhas      | s. f. p | /oˈɾe.ʎɐʃ/      | /oˈɾe.ʎɐs/    | ears        | /ɪrz/          | orejas         | /oˈɾexas/     | 8115|
 | bochecha     | s. f.    | /boˈʃɛ.ʃɐ/     | /boˈʃɛ.ʃɐ/        | cheek       | /ʧik/          | mejilla        | /meˈxiʎa/     | 8127 |
 | bochechas    | s. f. p  | /boˈʃɛ.ʃɐʃ/    | **/boˈʃɛ.ʃɐs/**   | cheeks      | /ʧiks/         | mejillas       | /meˈxiʎas/    | 81271 |
 | queixo       | s. m.    | /ˈkei.ʃu/      | **/ˈkei.ʃu/**     | chin        | /ʧɪn/          | barbilla       | /barˈbiʎa/    |     |

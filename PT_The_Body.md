@@ -4,30 +4,18 @@
 
 | Portuguese    | Tipo de Palavra    | IPA             | English     | IPA (USA) | Spanish       | Spanish IPA | No. |
 |---------------|--------------------|-----------------|-------------|-----------|---------------|------------|-----|
-| pés           | substantivo (masc) | /ˈpeʃ/          | feet        | /fiːt/    | pies          | /ˈpjes/    | 8101    |
-| pernas        | substantivo (fem)  | /ˈpeɾ.ɡɐs/      | legs        | /lɛɡz/    | piernas       | /ˈpjɛɾnas/ | 8102    |
-| joelhos       | substantivo (masc) | /ʒuˈeʎ.uz/      | knees       | /niːz/    | rodillas      | /roˈðiʎas/ | 8103    |
-| quadris       | substantivo (masc) | /ˈkwad.ɾis/     | hips        | /hɪps/    | caderas       | /kaˈðeɾas/ |     |
-| braços        | substantivo (masc) | /ˈbɾa.sus/      | arms        | /ɑːrmz/   | brazos        | /ˈbɾasos/  | 8104 |
-| cabeça        | substantivo (fem)  | /kaˈbe.sɐ/      | head        | /hɛd/     | cabeza        | /kaˈβeθa/  | 8107|
-| pescoço       | substantivo (masc) | /ˈpɛs.ko.su/    | neck        | /nɛk/     | cuello        | /ˈkweʝo/   |8106|
-| ombros        | substantivo (masc) | /ˈõ.bɾuʃ/       | shoulders   | /ˈʃoʊldərz/ | hombros       | /ˈombɾos/  |8108|
-| costas        | substantivo (fem)  | /ˈkoʃ.tɐs/      | back        | /bæk/     | espalda       | /esˈpalda/ |8105 |
-| nádegas       | substantivo (fem)  | /ˈna.de.ɡɐs/   | buttocks    | /ˈbʌtəks/ | nalgas        | /ˈnalɡas/  |     |
-| barriga       | substantivo (fem)  | /baˈri.ɡɐ/     | belly       | /ˈbɛli/    | barriga       | /baˈriɣa/  |8109|
+| pés           | s.m.p. | /ˈpeʃ/          | feet        | /fiːt/    | pies          | /ˈpjes/    | 8101 |
+| pernas        | s.f.p  | /ˈpeɾ.ɡɐs/      | legs        | /lɛɡz/    | piernas       | /ˈpjɛɾnas/ | 8102 |
+| joelhos       | s.m.p. | /ʒuˈeʎ.uz/      | knees       | /niːz/    | rodillas      | /roˈðiʎas/ | 8103 |
+| quadris       | s.m.   | /ˈkwad.ɾis/     | hips        | /hɪps/    | caderas       | /kaˈðeɾas/ | 8120 |
+| braços        | s.m.p. | /ˈbɾa.sus/      | arms        | /ɑːrmz/   | brazos        | /ˈbɾasos/  | 8104 |
+| cabeça        | s.f.   | /kaˈbe.sɐ/      | head        | /hɛd/     | cabeza        | /kaˈβeθa/  | 8107 |
+| pescoço       | s.m.   | /ˈpɛs.ko.su/    | neck        | /nɛk/     | cuello        | /ˈkweʝo/   | 8106 |
+| ombros        | s.m.p. | /ˈõ.bɾuʃ/       | shoulders   | /ˈʃoʊldərz/ | hombros     | /ˈombɾos/  | 8108 |
+| costas        | s.f.p. | /ˈkoʃ.tɐs/      | back        | /bæk/     | espalda       | /esˈpalda/ | 8105 |
+| nádegas       | s.f.p. | /ˈna.de.ɡɐs/    | buttocks    | /ˈbʌtəks/ | nalgas        | /ˈnalɡas/  | 8121 |
+| barriga       | s.f.   | /baˈri.ɡɐ/     | belly       | /ˈbɛli/    | barriga       | /baˈriɣa/  | 8109 |
 
-| Portuguese (PT) | Portuguese (BR) | Tipo de Palavra | IPA (PT) | IPA (BR)         | No. |
-|-----------------|-----------------|-----------------|----------|------------------|-----|
-| pés             | pés             | sub. (masc)     | /peʃ/    | /ˈpeʃ/            | 8101|
-| pernas          | pernas          | sub. (fem, pl)  | /ˈpɛɾ.nɐs/ | /ˈpɛɾ.nɐs/      | 8102|
-| joelhos         | joelhos         | sub. (masc)     | /ʒuˈeʎ.uz/ | /ˈʒwɛʎ.uz/      |8103     |
-| quadris         | quadris         | sub. (masc)     | /ˈkwad.ɾis/ | /ˈkwad.ɾis/      |     |
-| braços          | braços          | sub. (masc)     | /ˈbɾa.sus/ | /ˈbɾa.sus/      |8104      |
-| cabeça          | cabeça          | sub. (fem)      | /kaˈbe.sɐ/ | /kaˈbe.sɐ/      |8107|
-| ombros          | ombros          | sub. (masc)     | /ˈõ.bɾus/ | /ˈõ.bɾus/       |8108|
-| costas          | costas          | sub. (fem)      | /ˈkoʃ.tɐs/ | /ˈkoʃ.tɐs/      |8105     |
-| nádegas         | nádegas         | sub. (fem)      | /ˈna.de.ɡɐs/ | /ˈna.de.ɡɐs/    |     |
-| barriga         | barriga         | sub. (fem)      | /baˈri.ɡɐ/ | /baˈri.ɡɐ/      |8109|
 
 
 

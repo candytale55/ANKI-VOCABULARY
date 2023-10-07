@@ -26,7 +26,7 @@
 | rabanete     | s. m.            | /ʁɐbɐˈnɛt(ɨ)/ | **/ʁaˈba.nɛtʃi/** | radish     | /ˈrædɪʃ/      | rábano      | /ˈraβano/    |     |
 | rabanetes    | s. m. p          | /ʁɐbɐˈnɛt(ɨ)ʃ/ | **/ʁaˈba.nɛtʃiʃ/** | radishes   | /ˈrædɪʃɪz/    | rábanos     | /ˈraβanos/   |     |
 | pepino       | s. m.            | /pɨˈpi.nu/      | **/peˈpi.nu/**    | cucumber   | /ˈkjuːˌkʌmbər/ | pepino      | /peˈpino/    |     |
-| pepinos      | s. m. p          | /pɨˈpi.nuʃ/     | **/peˈpi.nuʃ/**   | cucumbers  | /ˈkjuːˌkʌmbərz/ | pepinos     | /peˈpinos/   |     |
+| pepinos      | s. m. p          | /pɨˈpi.nuʃ/     | **/peˈpi.nuʃ/**   | cucumbers  | /ˈkjuːˌkʌmbərz/ | pepinos     | /peˈpinos/   |    |
 | alho         | s. m.            | /ˈaʎu/          | /ˈaʎu/        | garlic     | /ˈɡɑrlɪk/     | ajo         | /ˈaxo/       |     |
 | beringela    | s. f.            | /bɨɾĩˈʒɛɫɐ/    | **/beɾĩˈʒɛɫɐ/**   | eggplant   | /ˈɛɡˌplænt/   | berenjena   | /beɾenˈxena/ |     |
 | berinjela    | s. f. (Brasil)   | /bɨɾĩˈʒɛɫɐ/   | **/beɾĩˈʒɛɫɐ/**   | eggplant   | /ˈɛɡˌplænt/   | berenjena   | /beɾenˈxena/ |     |

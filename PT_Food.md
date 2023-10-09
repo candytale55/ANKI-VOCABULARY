@@ -38,3 +38,58 @@
 | abobrinha    | s. f.            | /ɐboˈbɾi.ɲɐ/   | **/abuˈbɾi.ɲɐ/**  | zucchini   | /zuːˈkiːni/   | calabacín   | /kalaβaˈθin/ |     |
 | espargos     | s. m. p          | /ɨʃˈpaɾ.ɡuʃ/   | **/isˈpaʁ.ɡus/**  | asparagus  | /əˈspærəɡəs/ | espárragos  | /esˈparagos/ |     |
 | aspargos     | s. m. (Brasil)   | /isˈpaʁ.ɡus/   | /isˈpaʁ.ɡus/  | asparagus  | /əˈspærəɡəs/ | espárragos  | /esˈparagos/ |      |
+
+
+
+## Fruits
+
+apple - maçã
+banana - banana
+orange - laranja
+grape - uva
+strawberry - morango
+watermelon - melancia
+pineapple - abacaxi (Brasil) / ananás (Portugal)
+mango - manga
+lemon - limão
+lime - lima
+peach - pêssego
+pear - pêra
+cherry - cereja
+blueberry - mirtilo (Brasil) / arando (Portugal)
+raspberry - framboesa
+blackberry - amora
+kiwi - kiwi
+plum - ameixa
+avocado - abacate
+papaya - mamão
+cranberry - cranberry
+coconut - coco
+fig - figo
+guava - goiaba
+grapefruit - toranja (Portugal) / grapefruit (Brasil)
+apricot - damasco
+pomegranate - romã
+passion fruit - maracujá
+cantaloupe - melão cantalupo (Portugal) / melão (Brasil)
+dragon fruit - pitaya
+tangerine - tangerina
+nectarine - nectarina
+lychee - lichia
+date - tâmara
+elderberry - sabugueiro
+currant - groselha
+boysenberry - boysenberry
+persimmon - caqui (Brasil) / dióspiro (Portugal)
+mulberry - amora
+gooseberry - groselha
+starfruit - carambola
+kumquat - kumquat (Brasil) / quivi (Portugal)
+feijoa - feijoa
+quince - marmelo
+pawpaw - mamão-papaia
+jackfruit - jaca
+rambutan - rambutan
+soursop - graviola
+longan - longan
+plantain - banana-da-terra (Brasil) / banana-pão (Portugal)

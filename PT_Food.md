@@ -1,4 +1,3 @@
-
 # Food
 
 ## Vegetais (Vegetables)
@@ -63,9 +62,7 @@ Here's the table for the list of fruits you provided:
 | cereja        | s. f.            | /seˈɾe.ʒɐ/      | **/seˈɾe.ʒɐ/**  | cherry            | /ˈʧɛri/        | cereza            | /θeˈɾeθa/     |     |
 | mirtilo (Brasil) | s. m.          | /miʁˈti.lu/      | **/miʁˈti.lu/**  | blueberry         | /ˈbluːˌbɛri/   | arándano          | /aˈɾandano/    |     |
 | arando        | s. m.            | /ɐˈɾɐ̃.du/       | /ɐˈɾɐ̃.du/       | cranberry         | /ˈkrænˌbɛri/   | arándano          | /aˈɾandano/    |     |
-| framboesa     | s. f.            | /fɾɐ̃ˈbo.e.zɐ/   | /fɾɐ̃ˈbo.e.zɐ/   | raspberry         | /ˈræz
-
-ˌbɛri/   | frambuesa         | /fɾambuˈesa/  |     |
+| framboesa     | s. f.            | /fɾɐ̃ˈbo.e.zɐ/   | /fɾɐ̃ˈbo.e.zɐ/   | raspberry         | /ˈræzˌbɛri/   | frambuesa         | /fɾambuˈesa/  |     |
 | amora         | s. f.            | /ɐˈmo.ɾɐ/       | /ɐˈmo.ɾɐ/       | blackberry        | /ˈblækˌbɛri/  | mora              | /ˈmoɾa/        |     |
 | kiwi          | s. m.            | /ˈki.wi/         | /ˈki.wi/         | kiwi              | /ˈkiwi/        | kiwi              | /ˈkiwi/       |     |
 | ameixa        | s. f.            | /ɐˈmej.ʃɐ/      | /ɐˈmej.ʃɐ/      | plum              | /plʌm/         | ciruela           | /θiˈɾwela/    |     |

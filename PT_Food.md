@@ -84,9 +84,7 @@ Here's the table for the list of fruits you provided:
 | melão (Brasil) | s. m.         | /meˈlɐ̃w̃/        | /meˈlɐ̃w̃/        | cantaloupe melon | /ˈkæntəˌluːp ˈmɛlən/ | melón            | /meˈlon/       |     |
 | pitaya        | s. f.            | /piˈtaɪ.jə/      | /piˈtaj.jɐ/      | dragon fruit      | /ˈdræɡən ˌfruːt/ | pitaya            | /piˈtaʝa/      |     |
 | tangerina     | s. f.            | /tɐ̃ʒɨˈɾinɐ/    | /tɐ̃ʒeˈɾinɐ/    | tangerine         | /ˌtændʒəˈriːn/ | mandarina         | /mandariˈna/  |     |
-| nectarina     | s. f.            | /nɛktɐˈɾinɐ/    | /nɛktɐˈɾinɐ/    | nectarine         | /ˈnɛktəˌrin/  | nectarina         | /
-
-nɛktaˈrina/  |     |
+| nectarina     | s. f.            | /nɛktɐˈɾinɐ/    | /nɛktɐˈɾinɐ/    | nectarine         | /ˈnɛktəˌrin/  | nectarina         | /nɛktaˈrina/  |     |
 | lichia        | s. f.            | /liˈʃi.ɐ/       | /liˈʃi.ɐ/       | lychee            | /ˈliːʧi/       | lichi             | /ˈliʧi/       |     |
 | tâmara        | s. f.            | /ˈtɐ.mɐ.ɾɐ/     | /ˈtɐ.mɐ.ɾɐ/     | date              | /deɪt/         | dátil             | /ˈdatil/      |     |
 | sabugueiro    | s. m.            | /sɐbuˈɡɐj.ɾu/   | /sɐbuˈɡɐj.ɾu/   | elderberry        | /ˈɛldərˌbɛri/ | saúco             | /ˈsawku/      |     |

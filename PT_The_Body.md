@@ -18,21 +18,23 @@
 
 
 
-**Face Parts:**
+## Face Parts:
+
+## Short List - Face Parts:
 
 | Portuguese    | Tipo de Palavra    | IPA             | English     | IPA (USA) | Spanish       | Spanish IPA | No. |
 |---------------|--------------------|-----------------|-------------|-----------|---------------|------------|-----|
-| rosto         | s. m.            | /ˈɾoʃ.to/       | face            | /feɪs/        | rostro        | /ˈrostɾo/  | 8111-8112 |
 | olhos         | substantivo (m.p.) | /ˈo.ʎus/        | eyes        | /aɪz/     | ojos          | /ˈoxos/    | 8110 |
 | rosto         | substantivo (masc) | /ˈɾoʃ.to/       | face        | /feɪs/    | rostro        | /ˈrostɾo/  | 8111-8112 |
 | nariz         | substantivo (masc) | /naˈɾiʃ/        | nose        | /noʊz/    | nariz         | /naˈɾiθ/   | 8113 |
 | boca          | substantivo (fem)  | /ˈbo.kɐ/        | mouth       | /maʊθ/    | boca          | /ˈboka/    | 8114 |
-| dentes        | substantivo (masc) | /ˈdẽ.tis/       | teeth       | /tiːθ/    | dientes       | /ˈdjentes/ |     |
+| dentes        | substantivo (masc) | /ˈdẽ.tis/       | teeth       | /tiːθ/    | dientes       | /ˈdjentes/ | 81261|
 | sobrancelhas  | substantivo (fem)  | /so.bɾɐ̃.ˈse.ʎɐs/| eyebrows    | /ˈaɪ.braʊz/ | cejas       | /ˈθexas/   | 8125|
 | cílios        | substantivo (masc) | /ˈsi.ʎus/       | eyelashes   | /ˈaɪˌlæʃɪz/| pestañas     | /pesˈtaɲas/|     |
 
-Other list:
 
+
+### Long list - Face Parts
 
 | Portuguese    | Tipo de Palavra  | IPA (PT)        | IPA (BR)        | English       | English IPA    | Spanish        | Spanish IPA   | No. |
 |---------|--------------|-----------------|-----------------|---------------|----------------|----------------|---------------|-----|
@@ -49,7 +51,7 @@ Other list:
 | cílio        | s. m.   | /ˈsi.ʎu/        | /ˈsi.ʎu/      | eyelash     | /ˈaɪˌlæʃ/      | pestaña        | /pesˈtaɲa/    |     |
 | cílios       | s. m. p | /ˈsi.ʎuʃ/       | /ˈsi.ʎuʃ/     | eyelashes   | /ˈaɪˌlæʃɪz/    | pestañas       | /pesˈtaɲas/   |     |
 | orelha       | s. f.   | /oˈɾe.ʎɐ/       | /oˈɾe.ʎɐ/         | ear         | /ɪr/           | oreja          | /oˈɾexa/      | 81151|
-| orelhas      | s. f. p | /oˈɾe.ʎɐʃ/      | /oˈɾe.ʎɐs/    | ears        | /ɪrz/          | orejas         | /oˈɾexas/     | 8115|
+| orelhas      | s. f. p | /oˈɾe.ʎɐʃ/      | /oˈɾe.ʎɐs/        | ears        | /ɪrz/          | orejas         | /oˈɾexas/     | 8115|
 | bochecha     | s. f.    | /boˈʃɛ.ʃɐ/     | /boˈʃɛ.ʃɐ/        | cheek       | /ʧik/          | mejilla        | /meˈxiʎa/     | 8127 |
 | bochechas    | s. f. p  | /boˈʃɛ.ʃɐʃ/    | **/boˈʃɛ.ʃɐs/**   | cheeks      | /ʧiks/         | mejillas       | /meˈxiʎas/    | 81271 |
 | queixo       | s. m.    | /ˈkei.ʃu/      | **/ˈkei.ʃu/**     | chin        | /ʧɪn/          | barbilla       | /barˈbiʎa/    |     |
@@ -86,7 +88,7 @@ Other list:
 | joelhos   | s. m. p   | /ʒoˈeʎuʃ/       | /ʒoˈeʎuʃ/     | knees            | /niːz/           | rodillas  | /roˈðiʎas/    |8103|
 | coxa      | s. f.              | /ˈkoʃɐ/         | **/ˈkoʃɐ/**       | thigh            | /θaɪ/            | muslo          | /ˈmuslo/      |     |
 | coxas     | s. f. p            | /ˈkoʃɐʃ/        | **/ˈkoʃɐs/**      | thighs           | /θaɪz/           | muslos         | /ˈmuslos/     |     |
-| perna       | s. f.  | /ˈpɛɾ.nɐ/       | **/ˈpɛɾ.nɐ/**     | leg              | /lɛɡ/            | pierna         | /ˈpjɛɾna/     |8129|
+| perna       | s. f.  | /ˈpɛɾ.nɐ/       | /ˈpɛɾ.nɐ/     | leg              | /lɛɡ/            | pierna         | /ˈpjɛɾna/     |8129|
 | pernas             | s. f. p            | /ˈpɛɾ.nɐʃ/      | **/ˈpɛɾ.nɐs/**    | legs             | /lɛɡz/           | piernas        | /ˈpjɛɾnas/    |8102|
 | nádega             | s. f.              | /ˈnadɨɡɐ/       | **/ˈnadɨɡɐ/**     | buttock          | /ˈbʌtək/         | nalga          | /ˈnalɡa/      |     |
 | nádegas            | s. f. p            | /ˈnadɨɡɐʃ/      | **/ˈnadɨɡɐs/**    | buttocks         | /ˈbʌtəks/        | nalgas         | /ˈnalɡas/     |8121|

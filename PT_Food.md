@@ -46,10 +46,10 @@ Here's the table for the list of fruits you provided:
 
 | Portuguese    | Tipo de Palavra  | IPA (PT)        | IPA (BR)        | English           | English IPA    | Spanish           | Spanish IPA    | No. |
 |---------------|------------------|-----------------|-----------------|-------------------|----------------|-------------------|----------------|-----|
-| maçã          | s. f.            | /maˈsɐ/         | /maˈsɐ/         | apple             | /ˈæpəl/        | manzana           | /manˈsana/    |     |
-| banana        | s. f.            | /baˈna.nɐ/      | /baˈna.nɐ/      | banana            | /bəˈnænə/      | plátano           | /ˈplɑtano/    |     |
-| laranja       | s. f.            | /lɐˈɾɐ̃ʒɐ/      | **/laˈɾɐ̃ʒɐ/**  | orange            | /ˈɔrɪndʒ/      | naranja           | /naˈɾanja/    |     |
-| uva           | s. f.            | /ˈu.vɐ/         | /ˈu.vɐ/         | grape             | /ɡreɪp/        | uva               | /ˈuβa/        |     |
+| maçã          | s. f.   | /maˈsɐ/    | /maˈsɐ/    | apple             | /ˈæpəl/        | manzana           | /manˈsana/    | 8139 |
+| banana        | s. f.   | /baˈna.nɐ/ | /baˈna.nɐ/ | banana            | /bəˈnænə/      | plátano           | /ˈplɑtano/    | 8140 |
+| laranja       | s. f.   | /lɐˈɾɐ̃ʒɐ/  | **/laˈɾɐ̃ʒɐ/**  | orange        | /ˈɔrɪndʒ/      | naranja           | /naˈɾanja/    | 8141 |
+| uva           | s. f.   | /ˈu.vɐ/    | /ˈu.vɐ/    | grape             | /ɡreɪp/        | uva               | /ˈuβa/        | 8142 |
 | morango       | s. m.            | /moˈɾɐ̃.ɡu/     | /moˈɾɐ̃.ɡu/     | strawberry        | /ˈstrɔːˌbɛri/ | fresa             | /ˈfɾesa/      |     |
 | melancia      | s. f.            | /melɐ̃ˈsi.ɐ/    | /meˈlɐ̃.si.ɐ/    | watermelon        | /ˈwɔːtərˌmɛlən/ | sandía            | /sanˈdia/     |     |
 | abacaxi (Brasil) | s. m.          | /abaˈka.ʃi/     | /abaˈka.ʃi/     | pineapple         | /ˈpaɪnˌæpl̩/    | piña (ananas)     | /ˈpiɲa/        |     |

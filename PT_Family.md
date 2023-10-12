@@ -20,8 +20,8 @@
 | prima        | substantivo (fem)  | /'primɐ/  | cousin (female) | /'kʌzən/  | prima | /'pɾima/      | 2030 |
 | neto         | substantivo (masc) | /'netu/   | grandson  | /'ɡrænsʌn/ | nieto   | /'njeto/         | 2031 |
 | neta         | substantivo (fem)  | /'netɐ/   | granddaughter | /ˌɡrændˈdɔtər/ | nieta | /'njeta/   | 2032 |
-| netos        | substantivo (masc) | /'netus/  | grandsons | /'ɡrændˌsʌnz/ | nietos | /'njetos/        |    |
-| netas        | substantivo (fem)  | /'netɐs/  | granddaughters | /ˌɡrændˈdɔtərz/ | nietas | /'njetas/ |    |
+| netos        | substantivo (masc) | /'netus/  | grandsons | /'ɡrændˌsʌnz/ | nietos | /'njetos/        | 2031 |
+| netas        | substantivo (fem)  | /'netɐs/  | granddaughters | /ˌɡrændˈdɔtərz/ | nietas | /'njetas/ | 2031 |
 
 **In-Laws:**
 

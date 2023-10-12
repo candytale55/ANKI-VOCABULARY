@@ -50,40 +50,40 @@ Here's the table for the list of fruits you provided:
 | banana        | s. f.   | /baˈna.nɐ/ | /baˈna.nɐ/ | banana            | /bəˈnænə/      | plátano           | /ˈplɑtano/    | 8140 |
 | laranja       | s. f.   | /lɐˈɾɐ̃ʒɐ/  | **/laˈɾɐ̃ʒɐ/**  | orange        | /ˈɔrɪndʒ/      | naranja           | /naˈɾanja/    | 8141 |
 | uva           | s. f.   | /ˈu.vɐ/    | /ˈu.vɐ/    | grape             | /ɡreɪp/        | uva               | /ˈuβa/        | 8142 |
-| morango       | s. m.            | /moˈɾɐ̃.ɡu/     | /moˈɾɐ̃.ɡu/     | strawberry        | /ˈstrɔːˌbɛri/ | fresa             | /ˈfɾesa/      |     |
-| melancia      | s. f.            | /melɐ̃ˈsi.ɐ/    | /meˈlɐ̃.si.ɐ/    | watermelon        | /ˈwɔːtərˌmɛlən/ | sandía            | /sanˈdia/     |     |
+| morango       | s. m.   | /moˈɾɐ̃.ɡu/ | /moˈɾɐ̃.ɡu/ | strawberry        | /ˈstrɔːˌbɛri/  | fresa             | /ˈfɾesa/      | 8143 |
+| melancia      | s. f.   | /melɐ̃ˈsi.ɐ/    | /meˈlɐ̃.si.ɐ/    | watermelon        | /ˈwɔːtərˌmɛlən/ | sandía            | /sanˈdia/     |     |
 | abacaxi (Brasil) | s. m.          | /abaˈka.ʃi/     | /abaˈka.ʃi/     | pineapple         | /ˈpaɪnˌæpl̩/    | piña (ananas)     | /ˈpiɲa/        |     |
 | ananás        | s. m.            | /ɐnɐˈnaʃ/       | /ɐnɐˈnaʃ/       | pineapple         | /ˈpaɪnˌæpl̩/    | piña (ananas)     | /ˈpiɲa/        |     |
 | manga         | s. f.            | /ˈmɐ̃.ɡɐ/       | /ˈmɐ̃.ɡɐ/       | mango             | /ˈmæŋɡoʊ/      | mango             | /ˈmaŋɡo/      |     |
-| limão         | s. m.            | /liˈmɐ̃w̃/       | /liˈmɐ̃w̃/       | lemon             | /ˈlɛmən/       | limón             | /liˈmon/      |     |
+| limão   | s. m.   | /liˈmɐ̃w̃/   | /liˈmɐ̃w̃/   | lemon    | /ˈlɛmən/       | limón     | /liˈmon/      | 8144 |
 | lima          | s. f.            | /ˈli.mɐ/        | /ˈli.mɐ/        | lime              | /laɪm/         | lima              | /ˈlima/       |     |
-| pêssego       | s. m.            | /ˈpe.se.ɡu/     | /ˈpe.se.ɡu/     | peach             | /piːʧ/         | melocotón         | /melokoˈton/  |     |
-| pêra          | s. f.            | /ˈpe.ɾɐ/        | /ˈpe.ɾɐ/        | pear              | /pɛr/          | pera              | /ˈpera/       |     |
-| cereja        | s. f.            | /seˈɾe.ʒɐ/      | **/seˈɾe.ʒɐ/**  | cherry            | /ˈʧɛri/        | cereza            | /θeˈɾeθa/     |     |
+| pêssego   | s. m.     | /ˈpe.se.ɡu/     | /ˈpe.se.ɡu/     | peach    | /piːʧ/    | melocotón | /melokoˈton/ | 8145 |
+| pêra      | s. f.     | /ˈpe.ɾɐ/        | /ˈpe.ɾɐ/        | pear     | /pɛr/     | pera      | /ˈpera/      | 8146 |
+| cereja    | s. f.     | /seˈɾe.ʒɐ/      | /seˈɾe.ʒɐ/      | cherry   | /ˈʧɛri/   | cereza    | /θeˈɾeθa/    | 8147 |
 | mirtilo (Brasil) | s. m.          | /miʁˈti.lu/      | **/miʁˈti.lu/**  | blueberry         | /ˈbluːˌbɛri/   | arándano          | /aˈɾandano/    |     |
 | arando        | s. m.            | /ɐˈɾɐ̃.du/       | /ɐˈɾɐ̃.du/       | cranberry         | /ˈkrænˌbɛri/   | arándano          | /aˈɾandano/    |     |
 | framboesa     | s. f.            | /fɾɐ̃ˈbo.e.zɐ/   | /fɾɐ̃ˈbo.e.zɐ/   | raspberry         | /ˈræzˌbɛri/   | frambuesa         | /fɾambuˈesa/  |     |
-| amora         | s. f.            | /ɐˈmo.ɾɐ/       | /ɐˈmo.ɾɐ/       | blackberry        | /ˈblækˌbɛri/  | mora              | /ˈmoɾa/        |     |
-| kiwi          | s. m.            | /ˈki.wi/         | /ˈki.wi/         | kiwi              | /ˈkiwi/        | kiwi              | /ˈkiwi/       |     |
-| ameixa        | s. f.            | /ɐˈmej.ʃɐ/      | /ɐˈmej.ʃɐ/      | plum              | /plʌm/         | ciruela           | /θiˈɾwela/    |     |
+| amora    | s. f.            | /ɐˈmo.ɾɐ/       | /ɐˈmo.ɾɐ/       | blackberry        | /ˈblækˌbɛri/  | mora              | /ˈmoɾa/        |     |
+| kiwi     | s. m.            | /ˈki.wi/         | /ˈki.wi/         | kiwi              | /ˈkiwi/        | kiwi              | /ˈkiwi/       |     |
+| ameixa   | s. f.   | /ɐˈmej.ʃɐ/   | /ɐˈmej.ʃɐ/  | plum   | /plʌm/  | ciruela      | /θiˈɾwela/    | 8148 |
 | abacate       | s. m.            | /abaˈka.tɨ/      | /abaˈka.tɨ/      | avocado           | /ˈævəˌkɑːdoʊ/ | aguacate          | /aɡwaˈkate/   |     |
-| mamão         | s. m.            | /maˈmɐ̃w̃/       | /maˈmɐ̃w̃/       | papaya            | /pəˈpaɪə/      | papaya            | /paˈpaʝa/     |     |
+| mamão    | s. m.            | /maˈmɐ̃w̃/       | /maˈmɐ̃w̃/       | papaya            | /pəˈpaɪə/      | papaya            | /paˈpaʝa/     |     |
 | cranberry     | s. m.            | /ˈkɹænbəɹi/     | /ˈkɾɐ̃.ber.ri/   | cranberry         | /ˈkrænˌbɛri/   | arándano          | /aˈɾandano/    |     |
-| coco          | s. m.            | /ˈko.ku/         | /ˈko.ku/         | coconut           | /ˈkoʊkənʌt/    | coco              | /ˈkoko/       |     |
-| figo          | s. m.            | /ˈfi.ɡu/         | /ˈfi.ɡu/         | fig               | /fɪɡ/          | higo              | /ˈiɡo/        |     |
-| goiaba        | s. f.            | /ɡoˈja.bɐ/      | /ɡoˈja.bɐ/      | guava             | /ˈɡwɑvə/      | guayaba           | /ɡwaˈʝaba/    |     |
-| toranja       | s. f.            | /toˈɾɐ̃.ʒɐ/      | **/toˈɾɐ̃.ʒɐ/**  | grapefruit        | /ˈɡreɪpˌfruːt/ | pomelo (toronja)  | /poˈmelo/     |     |
+| coco     | s. m.            | /ˈko.ku/         | /ˈko.ku/         | coconut           | /ˈkoʊkənʌt/    | coco              | /ˈkoko/       |     |
+| figo     | s. m.            | /ˈfi.ɡu/         | /ˈfi.ɡu/         | fig               | /fɪɡ/          | higo              | /ˈiɡo/        |     |
+| goiaba   | s. f.            | /ɡoˈja.bɐ/      | /ɡoˈja.bɐ/      | guava             | /ˈɡwɑvə/      | guayaba           | /ɡwaˈʝaba/    |     |
+| toranja  | s. f.            | /toˈɾɐ̃.ʒɐ/      | **/toˈɾɐ̃.ʒɐ/**  | grapefruit        | /ˈɡreɪpˌfruːt/ | pomelo (toronja)  | /poˈmelo/     |     |
 | grapefruit (Brasil) | s. m.      | /ɡreɪpˈfruːt/   | /ɡɾɐ̃jˈfɾut/    | grapefruit        | /ˈɡreɪpˌfruːt/ | pomelo (toronja)  | /poˈmelo/     |     |
-| damasco       | s. m.            | /dɐˈmaʃ.ku/      | /dɐˈmaʃ.ku/      | apricot           | /ˈæprɪˌkɑːt/  | albaricoque       | /albaɾiˈkoke/ |     |
-| romã          | s. f.            | /ɾoˈmɐ̃/         | /ɾoˈmɐ̃/         | pomegranate       | /ˈpɑmˌɡrænət/ | granada           | /ɡɾaˈnaða/    |     |
-| maracujá      | s. m.            | /maɾɐˈku.ʒɐ/    | /maɾɐˈku.ʒɐ/    | passion fruit     | /ˈpæʃən ˌfruːt/ | maracuyá (parcha) | /maɾakuˈʝa/   |     |
+| damasco  | s. m.            | /dɐˈmaʃ.ku/      | /dɐˈmaʃ.ku/      | apricot           | /ˈæprɪˌkɑːt/  | albaricoque       | /albaɾiˈkoke/ |     |
+| romã     | s. f.            | /ɾoˈmɐ̃/         | /ɾoˈmɐ̃/         | pomegranate       | /ˈpɑmˌɡrænət/ | granada           | /ɡɾaˈnaða/    |     |
+| maracujá | s. m.            | /maɾɐˈku.ʒɐ/    | /maɾɐˈku.ʒɐ/    | passion fruit     | /ˈpæʃən ˌfruːt/ | maracuyá (parcha) | /maɾakuˈʝa/   |     |
 | melão cantalupo (Portugal) | s. m.  | /mɛˈlɐ̃w̃ kɐ̃tɐˈlu.po/ | /meˈlɐ̃w̃ kãtɐˈlu.po/ | cantaloupe melon | /ˈkæntəˌluːp ˈmɛlən/ | melón cantalupo | /meˈlon kantaˈlupo/ |     |
-| melão (Brasil) | s. m.         | /meˈlɐ̃w̃/        | /meˈlɐ̃w̃/        | cantaloupe melon | /ˈkæntəˌluːp ˈmɛlən/ | melón            | /meˈlon/       |     |
-| pitaya        | s. f.            | /piˈtaɪ.jə/      | /piˈtaj.jɐ/      | dragon fruit      | /ˈdræɡən ˌfruːt/ | pitaya            | /piˈtaʝa/      |     |
-| tangerina     | s. f.            | /tɐ̃ʒɨˈɾinɐ/    | /tɐ̃ʒeˈɾinɐ/    | tangerine         | /ˌtændʒəˈriːn/ | mandarina         | /mandariˈna/  |     |
-| nectarina     | s. f.            | /nɛktɐˈɾinɐ/    | /nɛktɐˈɾinɐ/    | nectarine         | /ˈnɛktəˌrin/  | nectarina         | /nɛktaˈrina/  |     |
-| lichia        | s. f.            | /liˈʃi.ɐ/       | /liˈʃi.ɐ/       | lychee            | /ˈliːʧi/       | lichi             | /ˈliʧi/       |     |
-| tâmara        | s. f.            | /ˈtɐ.mɐ.ɾɐ/     | /ˈtɐ.mɐ.ɾɐ/     | date              | /deɪt/         | dátil             | /ˈdatil/      |     |
+| melão (Brasil) | s. m.         | /meˈlɐ̃w̃/        | /meˈlɐ̃w̃/        | cantaloupe melon | /ˈkæntəˌluːp ˈmɛlən/ | melón      | /meˈlon/       |     |
+| pitaya   | s. f.            | /piˈtaɪ.jə/      | /piˈtaj.jɐ/      | dragon fruit      | /ˈdræɡən ˌfruːt/ | pitaya            | /piˈtaʝa/      |     |
+| tangerina | s. f.            | /tɐ̃ʒɨˈɾinɐ/    | /tɐ̃ʒeˈɾinɐ/    | tangerine         | /ˌtændʒəˈriːn/ | mandarina         | /mandariˈna/  |     |
+| nectarina | s. f.            | /nɛktɐˈɾinɐ/    | /nɛktɐˈɾinɐ/    | nectarine         | /ˈnɛktəˌrin/  | nectarina         | /nɛktaˈrina/  |     |
+| lichia    | s. f.            | /liˈʃi.ɐ/       | /liˈʃi.ɐ/       | lychee            | /ˈliːʧi/       | lichi             | /ˈliʧi/       |     |
+| tâmara    | s. f.            | /ˈtɐ.mɐ.ɾɐ/     | /ˈtɐ.mɐ.ɾɐ/     | date              | /deɪt/         | dátil             | /ˈdatil/      |     |
 | sabugueiro    | s. m.            | /sɐbuˈɡɐj.ɾu/   | /sɐbuˈɡɐj.ɾu/   | elderberry        | /ˈɛldərˌbɛri/ | saúco             | /ˈsawku/      |     |
 | groselha      | s. f.            | /ɡɾuˈzɛ.ʎɐ/     | /ɡɾuˈzɛ.ʎɐ/     | currant           | /ˈkʌrənt/      | grosella          | /ɡɾoˈseʎa/    |     |
 | boysenberry   | s. m.            | /ˈbɔɪzənˌbɛri/  | /ˈbɔɪzənˌbɛri/  | boysenberry       | /ˈbɔɪzənˌbɛri/ | boysenberry       | /ˈbɔɪzənˌbɛri/ |     |

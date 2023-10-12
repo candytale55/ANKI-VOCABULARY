@@ -23,12 +23,12 @@ This table includes words about school materials, subjects, and school life.
 | Inglês           | substantivo (masc) | /ˈĩɡ.leʃ/        | English (subject)  | /ˈɪŋɡlɪʃ/  |  Inglés           | /iŋˈɡles/ |     |
 | Português        | substantivo (masc) | /poɾ.tuˈɡeʃ/     | Portuguese (subject)| /ˌpɔːr.tʃəˈɡiːz/| Portugués     | /poɾtuˈɣes/ |     |
 | difícil          | adjetivo (masc/fem)| /ˈdifɪsəl/       | difficult          | /ˈdɪfɪkəlt/| difícil          | /ˈdifisil/ |     |
-| fácil            | adjetivo (masc/fem)| /ˈfa.siɫ/        | easy               | /ˈizi/     | fácil            | /ˈfasiɫ/ |     |
+| fácil   | adjetivo (masc/fem)| /ˈfa.siɫ/   | easy     | /ˈizi/     | fácil            | /ˈfasiɫ/ | 8149|
 | divertido        | adjetivo (masc)    | /di.vɨɾˈti.du/   | fun                | /fʌn/      | divertido        | /diβerˈtiðo/ |   |
 | exigente         | adjetivo (masc/fem)| /iʃiˈʒẽ.ti/     | demanding           | /dɪˈmændɪŋ/| exigente         | /e.xiˈxente/ | |
-| mochila          | substantivo (fem)  | /moˈʃi.lɐ/      | backpack           | /ˈbæk.pæk/ | mochila          | /moˈtʃila/ |     |
-| caderno          | substantivo (masc) | /kaˈdɛɾ.nu/      | notebook            | /ˈnoʊtˌbʊk/ | cuaderno        | /kwaˈðeɾno/ |  |
-| papel  | substantivo (masc) | /paˈpɛɫ/  | paper    | /ˈpeɪpər/   | papel           | /paˈpel/           |2164|
+| mochila  | substantivo (fem)  | /moˈʃi.lɐ/      | backpack           | /ˈbæk.pæk/ | mochila          | /moˈtʃila/ |     |
+| caderno   | sm | /kaˈdɛɾ.nu/   | notebook  | /ˈnoʊtˌbʊk/ | cuaderno   | /kwaˈðeɾno/        | 8150 |
+| papel     | sm | /paˈpɛɫ/  | paper         | /ˈpeɪpər/   | papel      | /paˈpel/           | 2164 |
 | quadro-negro     | substantivo (masc) | /ˌkwɑː.droʊˈneɪɡ.roʊ/ | blackboard      | /ˈblækˌbɔrd/ | pizarra     | /piˈθara/ |  |
 | projetor         | substantivo (masc) | /proʊˈdʒɛk.tər/ | projector           | /prəˈdʒɛktər/| proyector       | /pɾoʝekˈtoɾ/ | |
 | giz              | substantivo (masc) | /ɡɪz/           | chalk               | /tʃɔːk/     | tiza            | /ˈtisa/     |  |

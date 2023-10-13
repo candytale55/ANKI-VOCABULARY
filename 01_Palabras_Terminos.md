@@ -13,6 +13,22 @@
 
 ## Codes:
 
+|               | noun          | pronoun       | adjective     | adverb        | verb          | preposition   | conjunction   | interjection  |
+|---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|
+| English     | noun          | pronoun       | adjective     | adverb        | verb          | preposition   | conjunction   | interjection  |
+| Portuguese    | pt_substantivo| pt_pronome    | pt_adjetivo   | pt_advérbio   | pt_verbo      | pt_preposição | pt_conjunção  | pt_interjeição|
+| Spanish       | es_sustantivo | es_pronombre  | es_adjetivo   | es_adverbio   | es_verbo      | es_preposición| es_conjunción | es_interjección|
+| Valencian     | val_substantiu| val_pronom    | val_adjectiu  | val_adverbi   | val_verb      | val_preposició| val_conjunció | val_interjecció|
+| Catalan       | cat_substantiu| cat_pronom    | cat_adjectiu  | cat_adverbi   | cat_verb      | cat_preposició| cat_conjunció | cat_interjecció|
+| French        | fr_nom        | fr_pronomen   | fr_adjectif   | fr_adverbe    | fr_verbe      | fr_préposition| fr_conjonction| fr_interjection|
+| German        | de_Nomen      | de_Pronomen   | de_Adjektiv   | de_Adverb     | de_Verb       | de_Preposition| de_Konjunktion| de_Interjektion|
+| Italian       | it_nome       | it_pronome    | it_aggettivo  | it_avverbio   | it_verbo      | it_preposizione| it_congiunzione| it_esclamazione|
+| Romanian      | ro_substantiv | ro_pronume    | ro_adjectiv   | ro_adverb     | ro_verb       | ro_prepoziție | ro_conjuncție | ro_interjecție|
+
+
+
+## Other format
+
 | English Word | Portuguese Word | Spanish Word | Valencian Word | Catalan Word | French Word | German Word | Italian Word | Romanian Word | No. |
 |--------------|-----------------|--------------|----------------|--------------|-------------|-------------|--------------|---------------|-----|
 | noun         | pt_substantivo  | es_sustantivo| val_substantiu | cat_substantiu| fr_nom      | de_Nomen    | it_nome      | ro_substantiv |     |

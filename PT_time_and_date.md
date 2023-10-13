@@ -107,7 +107,7 @@ In Portuguese, "manhã" and "amanhã" are two words that are related to time, bu
 
 | English Word | French Word | French IPA | German Word | German IPA | Catalan Word | Catalan IPA | Valencian Word | Valencian IPA | No |
 |-------------|------------|-----------|------------|-----------|-------------|------------|---------------|--------------|---|
-| Monday      | lundi      | /lœ̃di/   | Montag     | /ˈmontaɡ/ | dilluns     | /diˈʎuns/  | dilluns       | /diˈʎuns/  |   |
+| Monday      | lundi      | /lœ̃di/   | Montag     | /ˈmontaɡ/ | dilluns     | /diˈʎuns/  | dilluns       | /diˈʎuns/  |2075|
 | Tuesday     | mardi      | /maʁdi/   | Dienstag   | /ˈdiːnstaːk/ | dimarts     | /diˈmaɾts/ | dimarts       | /diˈmaɾts/ |   |
 | Wednesday   | mercredi   | /mɛʁkʁədi/ | Mittwoch  | /ˈmɪtvox/  | dimecres    | /diˈməkɾəs/ | dimecres      | /diˈməkɾəs/ |   |
 | Thursday    | jeudi      | /ʒœdi/    | Donnerstag | /ˈdɔnɐʁʃtaːk/ | dijous      | /ʤiˈɔws/  | dijous        | /ʤiˈɔws/  |   |
@@ -121,7 +121,7 @@ Here's a table with the days of the week in English, Italian, and Romanian:
 
 | English Word | Italian Word | Italian IPA | Romanian Word | Romanian IPA | No |
 |-------------|-------------|------------|--------------|-------------|---|
-| Monday      | lunedì      | /luˈnɛdi/  | luni         | /ˈlu.ni/   |   |
+| Monday      | lunedì      | /luˈnɛdi/  | luni         | /ˈlu.ni/   | 2075|
 | Tuesday     | martedì     | /marˈte.di/ | marți        | /ˈmar.tsʲ/ |   |
 | Wednesday   | mercoledì  | /mer.koˈlɛ.di/ | miercuri    | /mjerkuˈri/ |   |
 | Thursday    | giovedì    | /ʤoˈve.di/ | joi          | /ʒoj/      |   |

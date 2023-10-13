@@ -63,7 +63,7 @@
 | noite             | advérbio         | /ˈnɔɪ.tɪ/  | at night (late) | /æt naɪt/    | de noche      | /de ˈnoʧe/   |     |
 | noite             | advérbio         | /ˈnɔɪ.tɪ/  | at night (early)| /æt naɪt/    | de noche      | /de ˈnoʧe/   |     |
 | noite             | advérbio         | /ˈnɔɪ.tɪ/  | at night (all night) | /æt naɪt/ | toda la noche | /ˈtoða la ˈnoʧe/ |     |
-| hora              | substantivo (fem)| /ˈɔɾɐ/     | hour            | /aʊər/      | hora          | /ˈoɾa/       |     |
+| hora              | substantivo (fem)| /ˈɔɾɐ/     | hour            | /aʊər/      | hora     | /ˈoɾa/    | 2095 |
 | relógio           | substantivo (masc)| /ʁɨˈlɔ.ʒi.u/ | watch (wrist)  | /wɑtʃ/      | reloj         | /reˈlox/     |     |
 | relógio           | substantivo (masc)| /ʁɨˈlɔ.ʒi.u/ | clock           | /klɑk/      | reloj         | /reˈlox/     |     |
 | passado           | substantivo (masc)| /pɐˈsa.du/  | past            | /pæst/      | pasado        | /paˈsaðo/    |     |

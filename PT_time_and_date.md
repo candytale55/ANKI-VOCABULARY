@@ -108,23 +108,23 @@ In Portuguese, "manhã" and "amanhã" are two words that are related to time, bu
 | English Word | French Word | French IPA | German Word | German IPA | Catalan Word | Catalan IPA | Valencian Word | Valencian IPA | No |
 |-------------|------------|-----------|------------|-----------|-------------|------------|---------------|--------------|---|
 | Monday      | lundi      | /lœ̃di/   | Montag     | /ˈmontaɡ/ | dilluns     | /diˈʎuns/  | dilluns       | /diˈʎuns/  |2075|
-| Tuesday     | mardi      | /maʁdi/   | Dienstag   | /ˈdiːnstaːk/ | dimarts     | /diˈmaɾts/ | dimarts       | /diˈmaɾts/ |   |
-| Wednesday   | mercredi   | /mɛʁkʁədi/ | Mittwoch  | /ˈmɪtvox/  | dimecres    | /diˈməkɾəs/ | dimecres      | /diˈməkɾəs/ |   |
-| Thursday    | jeudi      | /ʒœdi/    | Donnerstag | /ˈdɔnɐʁʃtaːk/ | dijous      | /ʤiˈɔws/  | dijous        | /ʤiˈɔws/  |   |
-| Friday      | vendredi   | /vɑ̃dʁədi/ | Freitag   | /ˈfʁaɪ̯taɡ/ | divendres   | /diˈvɛndɾəs/ | divendres     | /diˈvɛndɾəs/ |   |
-| Saturday    | samedi     | /samdi/   | Samstag    | /ˈzamʃtaːk/ | dissabte    | /disˈsabtə/ | dissabte      | /disˈsabtə/ |   |
-| Sunday      | dimanche   | /dimɑ̃ʃ/  | Sonntag    | /ˈzɔntaːk/ | diumenge    | /di.uˈmɛɲʤə/ | diumenge      | /di.uˈmɛɲʤə/ |   |
+| Tuesday     | mardi      | /maʁdi/   | Dienstag   | /ˈdiːnstaːk/ | dimarts     | /diˈmaɾts/ | dimarts       | /diˈmaɾts/ |2076|
+| Wednesday   | mercredi   | /mɛʁkʁədi/ | Mittwoch  | /ˈmɪtvox/  | dimecres    | /diˈməkɾəs/ | dimecres      | /diˈməkɾəs/ | 2077 |
+| Thursday    | jeudi      | /ʒœdi/    | Donnerstag | /ˈdɔnɐʁʃtaːk/ | dijous      | /ʤiˈɔws/  | dijous        | /ʤiˈɔws/  | 2078 |
+| Friday      | vendredi   | /vɑ̃dʁədi/ | Freitag   | /ˈfʁaɪ̯taɡ/ | divendres   | /diˈvɛndɾəs/ | divendres     | /diˈvɛndɾəs/ | 2079 |
+| Saturday    | samedi     | /samdi/   | Samstag    | /ˈzamʃtaːk/ | dissabte    | /disˈsabtə/ | dissabte      | /disˈsabtə/ | 2080 |
+| Sunday      | dimanche   | /dimɑ̃ʃ/  | Sonntag    | /ˈzɔntaːk/ | diumenge    | /di.uˈmɛɲʤə/ | diumenge      | /di.uˈmɛɲʤə/ | 2074 |
 
 
 
 Here's a table with the days of the week in English, Italian, and Romanian:
 
-| English Word | Italian Word | Italian IPA | Romanian Word | Romanian IPA | No |
-|-------------|-------------|------------|--------------|-------------|---|
-| Monday      | lunedì      | /luˈnɛdi/  | luni         | /ˈlu.ni/   | 2075|
-| Tuesday     | martedì     | /marˈte.di/ | marți        | /ˈmar.tsʲ/ |   |
-| Wednesday   | mercoledì  | /mer.koˈlɛ.di/ | miercuri    | /mjerkuˈri/ |   |
-| Thursday    | giovedì    | /ʤoˈve.di/ | joi          | /ʒoj/      |   |
-| Friday      | venerdì    | /veˈnɛr.di/ | vineri       | /ˈvi.ne.ri/ |   |
-| Saturday    | sabato     | /saˈba.to/ | sâmbătă      | /sɨmˈbə.tə/ |   |
-| Sunday      | domenica   | /doˈmɛː.ni.ka/ | duminică    | /du.miˈni.kə/ |   |
+| English Word | Italian Word | Italian IPA | Romanian Word | Romanian IPA  | No   |
+|-------------|-------------|----------------|--------------|---------------|------|
+| Monday      | lunedì      | /luˈnɛdi/      | luni         | /ˈlu.ni/      | 2075 |
+| Tuesday     | martedì     | /marˈte.di/    | marți        | /ˈmar.tsʲ/    | 2076 |
+| Wednesday   | mercoledì   | /mer.koˈlɛ.di/ | miercuri     | /mjerkuˈri/   | 2077 |
+| Thursday    | giovedì     | /ʤoˈve.di/     | joi          | /ʒoj/         | 2078 |
+| Friday      | venerdì     | /veˈnɛr.di/    | vineri       | /ˈvi.ne.ri/   | 2079 |
+| Saturday    | sabato      | /saˈba.to/     | sâmbătă      | /sɨmˈbə.tə/   | 2080 |
+| Sunday      | domenica    | /doˈmɛː.ni.ka/ | duminică     | /du.miˈni.kə/ | 2074 |

@@ -52,11 +52,11 @@
 | hoje              | advérbio         | /ˈoʒi/     | today           | /təˈdeɪ/     | hoy           | /oɪ/         | 2130|
 | amanhã   *         | advérbio         | /ɐˈmɐɲ.ʊ/  | tomorrow        | /təˈmɑˌroʊ/ | mañana        | /maˈɲana/    | 2131 |
 | cedo              | advérbio         | /ˈse.ðu/   | early           | /ˈɜrli/      | temprano      | /temˈpɾano/  | 2132 |
-| tarde             | substantivo (fem)| /ˈtaɾ.dɪ/  | late (afternoon)| /leɪt/       | tarde         | /ˈtarde/     ||
+| tarde             | substantivo (fem)| /ˈtaɾ.dɪ/  | afternoon | /ˌæf.təˈnuːn/      | tarde      | /ˈtarde/   |8154|
 | tarde             | advérbio         | /ˈtaɾ.dɪ/  | at the end of ...  |       | tarde         | /ˈtarde/     |2133|
 | tarde             | advérbio         | /ˈtaɾ.dɪ/  | late (evening)  | /leɪt/       | tarde         | /ˈtarde/     |     |
 | tarde             | advérbio         | /ˈtaɾ.dɪ/  | late (late)     | /leɪt/       | tarde         | /ˈtarde/     |     |
-| manhã   *          | substantivo (fem)| /mɐˈɲɐ̃/  | morning         | /ˈmɔrnɪŋ/   | mañana        | /maˈɲana/    |     |
+| manhã   *          | substantivo (fem)| /mɐˈɲɐ̃/  | morning         | /ˈmɔrnɪŋ/   | mañana    | /maˈɲana/    | 8155|
 | noite             | substantivo (fem)| /ˈnɔɪ.tɪ/  | night           | /naɪt/       | noche         | /ˈnoʧe/      |     |
 | noite             | advérbio         | /ˈnɔɪ.tɪ/  | at night        | /æt naɪt/    | de noche      | /de ˈnoʧe/   |     |
 | noite             | advérbio         | /ˈnɔɪ.tɪ/  | in the evening  | /ɪn ðə ˈivnɪŋ/ | por la tarde | /poɾ la ˈtarde/ |     |

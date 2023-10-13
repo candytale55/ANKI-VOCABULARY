@@ -104,11 +104,27 @@ In Portuguese, "manhã" and "amanhã" are two words that are related to time, bu
 
 ## Other languages
 
+
 | English Word | French Word | French IPA | German Word | German IPA | Catalan Word | Catalan IPA | Valencian Word | Valencian IPA | No |
-|-------------|-------------|------------|------------|------------|-------------|------------|---------------|--------------|----|
-| Monday      | Lundi       | /lœ̃di/    | Montag     | /ˈmon.taɡ/ | dilluns     | /diˈʎuns/  | dilluns       | /diˈʎuns/ |    |
-| Tuesday     | Mardi       | /maʁdi/    | Dienstag   | /ˈdiːnʃtaːk/ | dimarts     | /diˈmaɾts/  | dimarts       | /diˈmaɾts/ |    |
-| Wednesday   | Mercredi    | /mɛʁkʁədi/ | Mittwoch   | /ˈmɪt.voːχ/ | dimecres    | /diˈmɛkɾəs/ | dimecres      | /diˈmɛkɾes/ |    |
-| Thursday    | Jeudi       | /ʒødi/    | Donnerstag | /ˈdɔnɐʁʃtaːk/ | dijous      | /diˈʒɔws/  | dijous        | /diˈʒɔws/ |    |
-| Saturday    | Samedi      | /sa.mɛ.di/ | Samstag    | /ˈzamʃtaːɡ/ | dissabte    | /disˈap.tə/ | dissabte      | /disˈap.te/ |    |
-| Sunday      | Dimanche    | /di.mɑ̃ʃ/  | Sonntag    | /ˈzɔn.taːk/ | diumenge    | /di.uˈmɛɲʒ/ | diumenge      | /di.uˈmɛɲʒ/ |    |
+|-------------|------------|-----------|------------|-----------|-------------|------------|---------------|--------------|---|
+| Monday      | lundi      | /lœ̃di/   | Montag     | /ˈmontaɡ/ | dilluns     | /diˈʎuns/  | dilluns       | /diˈʎuns/  |   |
+| Tuesday     | mardi      | /maʁdi/   | Dienstag   | /ˈdiːnstaːk/ | dimarts     | /diˈmaɾts/ | dimarts       | /diˈmaɾts/ |   |
+| Wednesday   | mercredi   | /mɛʁkʁədi/ | Mittwoch  | /ˈmɪtvox/  | dimecres    | /diˈməkɾəs/ | dimecres      | /diˈməkɾəs/ |   |
+| Thursday    | jeudi      | /ʒœdi/    | Donnerstag | /ˈdɔnɐʁʃtaːk/ | dijous      | /ʤiˈɔws/  | dijous        | /ʤiˈɔws/  |   |
+| Friday      | vendredi   | /vɑ̃dʁədi/ | Freitag   | /ˈfʁaɪ̯taɡ/ | divendres   | /diˈvɛndɾəs/ | divendres     | /diˈvɛndɾəs/ |   |
+| Saturday    | samedi     | /samdi/   | Samstag    | /ˈzamʃtaːk/ | dissabte    | /disˈsabtə/ | dissabte      | /disˈsabtə/ |   |
+| Sunday      | dimanche   | /dimɑ̃ʃ/  | Sonntag    | /ˈzɔntaːk/ | diumenge    | /di.uˈmɛɲʤə/ | diumenge      | /di.uˈmɛɲʤə/ |   |
+
+
+
+Here's a table with the days of the week in English, Italian, and Romanian:
+
+| English Word | Italian Word | Italian IPA | Romanian Word | Romanian IPA | No |
+|-------------|-------------|------------|--------------|-------------|---|
+| Monday      | lunedì      | /luˈnɛdi/  | luni         | /ˈlu.ni/   |   |
+| Tuesday     | martedì     | /marˈte.di/ | marți        | /ˈmar.tsʲ/ |   |
+| Wednesday   | mercoledì  | /mer.koˈlɛ.di/ | miercuri    | /mjerkuˈri/ |   |
+| Thursday    | giovedì    | /ʤoˈve.di/ | joi          | /ʒoj/      |   |
+| Friday      | venerdì    | /veˈnɛr.di/ | vineri       | /ˈvi.ne.ri/ |   |
+| Saturday    | sabato     | /saˈba.to/ | sâmbătă      | /sɨmˈbə.tə/ |   |
+| Sunday      | domenica   | /doˈmɛː.ni.ka/ | duminică    | /du.miˈni.kə/ |   |

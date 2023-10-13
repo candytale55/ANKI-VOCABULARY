@@ -99,3 +99,16 @@ In Portuguese, "manhã" and "amanhã" are two words that are related to time, bu
    - "Noite" means "night." It refers to the time of day that starts after sunset and continues until dawn the next day.
      - "Vamos ao cinema à noite." (We're going to the movies at night.)
      - "Eu gosto de ler à noite." (I like to read at night.)
+
+
+
+## Other languages
+
+| English Word | French Word | French IPA | German Word | German IPA | Catalan Word | Catalan IPA | Valencian Word | Valencian IPA | No |
+|-------------|-------------|------------|------------|------------|-------------|------------|---------------|--------------|----|
+| Monday      | Lundi       | /lœ̃di/    | Montag     | /ˈmon.taɡ/ | dilluns     | /diˈʎuns/  | dilluns       | /diˈʎuns/ |    |
+| Tuesday     | Mardi       | /maʁdi/    | Dienstag   | /ˈdiːnʃtaːk/ | dimarts     | /diˈmaɾts/  | dimarts       | /diˈmaɾts/ |    |
+| Wednesday   | Mercredi    | /mɛʁkʁədi/ | Mittwoch   | /ˈmɪt.voːχ/ | dimecres    | /diˈmɛkɾəs/ | dimecres      | /diˈmɛkɾes/ |    |
+| Thursday    | Jeudi       | /ʒødi/    | Donnerstag | /ˈdɔnɐʁʃtaːk/ | dijous      | /diˈʒɔws/  | dijous        | /diˈʒɔws/ |    |
+| Saturday    | Samedi      | /sa.mɛ.di/ | Samstag    | /ˈzamʃtaːɡ/ | dissabte    | /disˈap.tə/ | dissabte      | /disˈap.te/ |    |
+| Sunday      | Dimanche    | /di.mɑ̃ʃ/  | Sonntag    | /ˈzɔn.taːk/ | diumenge    | /di.uˈmɛɲʒ/ | diumenge      | /di.uˈmɛɲʒ/ |    |

@@ -15,7 +15,7 @@
 
 |               | noun          | pronoun       | adjective     | adverb        | verb          | preposition   | conjunction   | interjection  |
 |---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|
-| English     | noun          | pronoun       | adjective     | adverb        | verb          | preposition   | conjunction   | interjection  |
+| English       | noun          | pronoun       | adjective     | adverb        | verb          | preposition   | conjunction   | interjection  |
 | Portuguese    | pt_substantivo| pt_pronome    | pt_adjetivo   | pt_advérbio   | pt_verbo      | pt_preposição | pt_conjunção  | pt_interjeição|
 | Spanish       | es_sustantivo | es_pronombre  | es_adjetivo   | es_adverbio   | es_verbo      | es_preposición| es_conjunción | es_interjección|
 | Valencian     | val_substantiu| val_pronom    | val_adjectiu  | val_adverbi   | val_verb      | val_preposició| val_conjunció | val_interjecció|
@@ -27,7 +27,8 @@
 
 
 
-## Other format
+
+## Other format to copy in ANKI tag section
 
 | English Word | Portuguese Word | Spanish Word | Valencian Word | Catalan Word | French Word | German Word | Italian Word | Romanian Word | No. |
 |--------------|-----------------|--------------|----------------|--------------|-------------|-------------|--------------|---------------|-----|

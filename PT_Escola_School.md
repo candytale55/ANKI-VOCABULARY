@@ -29,12 +29,11 @@ This table includes words about school materials, subjects, and school life.
 | mochila  | substantivo (fem)  | /moˈʃi.lɐ/      | backpack           | /ˈbæk.pæk/ | mochila          | /moˈtʃila/ |     |
 | caderno   | sm | /kaˈdɛɾ.nu/   | notebook  | /ˈnoʊtˌbʊk/ | cuaderno   | /kwaˈðeɾno/        | 8150 |
 | papel     | sm | /paˈpɛɫ/  | paper         | /ˈpeɪpər/   | papel      | /paˈpel/           | 2164 |
-| quadro-negro     | substantivo (masc) | /ˌkwɑː.droʊˈneɪɡ.roʊ/ | blackboard      | /ˈblækˌbɔrd/ | pizarra     | /piˈθara/ |  |
+| quadro-negro | sm | /ˌkwɑː.droʊˈneɪɡ.roʊ/ | blackboard      | /ˈblækˌbɔrd/ | pizarra     | /piˈθara/ |8157|
 | projetor         | substantivo (masc) | /proʊˈdʒɛk.tər/ | projector           | /prəˈdʒɛktər/| proyector       | /pɾoʝekˈtoɾ/ | |
-| giz              | substantivo (masc) | /ɡɪz/           | chalk               | /tʃɔːk/     | tiza            | /ˈtisa/     |  |
+| giz   | substantivo (masc) | /ɡɪz/           | chalk               | /tʃɔːk/     | tiza            | /ˈtisa/     |  |
 | apagador | substantivo (masc) | /əˈpæ.ɡeɪ.dər/  | blackboard eraser   | /ˈblækˌbɔrd ɪˈreɪsər/| borrador | /boˈraðoɾ/ | |
 | Geometria | substantivo (fem)  | /dʒi.oʊˈmɛ.tri.ə/ | Geometry           | /dʒiˈɑːmətri/ | Geometría       | /xemoˈtɾi.a/ | |
 | compasso  | substantivo (masc) | /kəmˈpæsoʊ/      | compass            | /ˈkəmˌpæs/  | compás           | /komˈpas/   | |
 | Aula de Arte  | substantivo (fem)  | /ˈaʊlə də ɑrt/   | Art class          | /ɑːrt klæs/ | Clase de Arte   | /ˈklase ðe ˈaɾte/ | |
 | rascunho | substantivo (masc) | /ˈræsˌtuːnjoʊ/  | draft              | /dræft/     | borrador         | /boˈɾaðoɾ/ |     |
-

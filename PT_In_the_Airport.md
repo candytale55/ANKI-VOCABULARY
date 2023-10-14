@@ -4,8 +4,8 @@ List of common Portuguese words and phrases that you might need when going to th
 
 | Portuguese               | Tipo de Palavra         | IPA              | English                 | IPA (USA)      | Spanish                    | Spanish IPA          | No. |
 |--------------------------|-------------------------|------------------|-------------------------|---------------|----------------------------|----------------------|-----|
-| aeroporto                | substantivo (masc)      | /a.e.ɾoˈpoɾ.tu/  | airport                 | /ˈɛrˌpɔrt/    | aeropuerto                 | /aeɾoˈpweɾto/        |     |
-| avião                    | substantivo (masc)      | /ɐˈvi.ɐ̃w/       | airplane                | /ˈɛrˌpleɪn/   | avión                      | /aˈbjon/              |     |
+| aeroporto | sm  | /a.e.ɾoˈpoɾ.tu/  | airport  | /ˈɛrˌpɔrt/    | aeropuerto   | /aeɾoˈpweɾto/  |8158|
+| avião     | sm  | /ɐˈvi.ɐ̃w/        | airplane | /ˈɛrˌpleɪn/   | avión        | /aˈbjon/       |8159|
 | passagem                 | substantivo (fem)       | /paˈsaʒẽw/       | ticket                   | /ˈtɪkɪt/      | boleto de avión            | /boˈleto ðe aˈbjon/  |     |
 | reserva                  | substantivo (fem)       | /re.ˈzeɾ.vɐ/     | reservation              | /ˌrɛzərˈveɪʃən/ | reserva                    | /reˈseɾβa/           |     |
 | bagagem                  | substantivo (fem)       | /bɐ.ˈɡa.ʒẽw/    | luggage                  | /ˈlʌɡɪdʒ/     | equipaje                   | /e.kiˈpaχe/          |     |
@@ -37,7 +37,7 @@ List of common Portuguese words and phrases that you might need when going to th
 | escala                   | substantivo (fem)       | /ɨsˈka.lɐ/        | layover, stopover       | /ˈleɪoʊvər/    | escala                     | /esˈkala/             |     |
 | cartão de embarque       | substantivo (masc)      | /ˈkaɾ.tɐ̃w ðe ɐ̃.baɾ.ˈke/ | boarding pass   | /ˈbɔrdɪŋ pæs/ | tarjeta de embarque        | /tarˈxeta ðe emˈbaɾke/ |     |
 | viajar                   | verbo                   | /vi.ɐˈʒaɾ/        | to travel               | /trævəl/       | viajar                     | /bjaˈxaɾ/              |     |
-| voar                     | verbo                   | /ˈvo.ɐɾ/          | to fly                  | /flaɪ/         | volar                      | /boˈlaɾ/               |     |
+| voar  | verbo  | /ˈvo.ɐɾ/  | to fly   | /flaɪ/         | volar    | /boˈlaɾ/               |8160|
 | atrasado                 | adjetivo                | /ɐ.tra.ˈza.du/     | delayed                 | /dɪˈleɪd/      | retrasado                  | /re.tɾaˈsaðo/          |     |
 | cancelado                | adjetivo                | /kɐ̃.se.ˈɫa.du/    | canceled                | /ˈkænsəld/     | cancelado                  | /kanθeˈlaðo/          |     |
 | partida                  | substantivo (fem)       | /pɐɾ.ˈti.dɐ/       | departure               | /dɪˈpɑrtʃər/    | salida                     | /saˈliða/              |     |

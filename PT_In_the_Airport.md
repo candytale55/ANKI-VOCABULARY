@@ -40,6 +40,6 @@ List of common Portuguese words and phrases that you might need when going to th
 | voar  | verbo  | /ˈvo.ɐɾ/  | to fly   | /flaɪ/         | volar    | /boˈlaɾ/               |8160|
 | atrasado                 | adjetivo                | /ɐ.tra.ˈza.du/     | delayed                 | /dɪˈleɪd/      | retrasado                  | /re.tɾaˈsaðo/          |     |
 | cancelado                | adjetivo                | /kɐ̃.se.ˈɫa.du/    | canceled                | /ˈkænsəld/     | cancelado                  | /kanθeˈlaðo/          |     |
-| partida                  | substantivo (fem)       | /pɐɾ.ˈti.dɐ/       | departure               | /dɪˈpɑrtʃər/    | salida                     | /saˈliða/              |     |
-| chegada                  | substantivo (fem)       | /ʃi.ˈɡa.dɐ/        | arrival                 | /əˈraɪvəl/     | llegada                    | /ʝeˈɣaða/              |     |
+| partida  | sf | /pɐɾ.ˈti.dɐ/    | departure     | /dɪˈpɑrtʃər/   | salida     | /saˈliða/              |8161|
+| chegada  | sf | /ʃi.ˈɡa.dɐ/        | arrival    | /əˈraɪvəl/     | llegada    | /ʝeˈɣaða/              |8162|
 

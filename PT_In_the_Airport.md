@@ -25,21 +25,20 @@ List of common Portuguese words and phrases that you might need when going to th
 | segurança                | substantivo (fem)       | /sɨ.ɡuˈɾɐ̃s.jɐ/   | security                 | /sɪˈkjʊrəti/   | seguridad                  | /seɡuɾiˈðað/           |     |
 | controle de segurança    | substantivo (masc)      | /kõ.tɾo.ˈle ðe sɨ.ɡuˈɾɐ̃s.jɐ/ | security check | /sɪˈkjʊrəti ʧɛk/ | control de seguridad      | /konˈtɾole ðe seɡuɾiˈðað/ |     |
 | sala de espera           | substantivo (fem)       | /ˈsa.lɐ ðe ʃa.ˈpe.ɾɐ/ | waiting area           | /ˈweɪtɪŋ ˈɛriə/ | sala de espera            | /ˈsala ðe esˈpeɾa/  |     |
-| companhia aérea          | substantivo (fem)       | /kũ.pɐˈɲi.ɐ ˌaj.ˈɾi.ɐ/ | airline          | /ˈɛrˌlaɪn/    | aerolínea                 | /aeɾoˈlinea/          |     |
+| companhia aérea  | substantivo (fem)       | /kũ.pɐˈɲi.ɐ ˌaj.ˈɾi.ɐ/ | airline          | /ˈɛrˌlaɪn/    | aerolínea                 | /aeɾoˈlinea/          |     |
 | balcão de check-in       | substantivo (masc)      | /bɐw.ˈkɐ̃w ðe ʃɛk ˈin/ | check-in counter  | /ˈʧɛkˌɪn ˈkaʊntər/ | mostrador de check-in      | /mosˈtɾaðoɾ ðe ʧekˈin/ |     |
-| embarque                | substantivo (masc)      | /ɐ̃.ˈbaɾ.ˌke/     | boarding                | /ˈbɔrdɪŋ/     | embarque                   | /emˈbaɾke/            |     |
-| desembarque             | substantivo (masc)      | /dez.ˈɐ̃bɐɾ.ˌke/  | deplaning               | /dɪˈplænɪŋ/    | desembarque                | /desemˈbaɾke/         |     |
-| piloto                   | substantivo (masc)      | /pi.ˈlo.to/        | pilot                   | /ˈpaɪlət/      | piloto                     | /piˈloto/             |     |
+| embarque    | substantivo (masc)      | /ɐ̃.ˈbaɾ.ˌke/     | boarding                | /ˈbɔrdɪŋ/     | embarque                   | /emˈbaɾke/            |     |
+| desembarque  | substantivo (masc)      | /dez.ˈɐ̃bɐɾ.ˌke/  | deplaning               | /dɪˈplænɪŋ/    | desembarque                | /desemˈbaɾke/         |     |
+| piloto    | sm | /pi.ˈlo.to/        | pilot    | /ˈpaɪlət/      | piloto   | /piˈloto/             |8164|
 | comissário de bordo      | substantivo (masc)      | /ko.mi.sɐ.ˈɾju ðɨ ˈboɾ.du/ | flight attendant | /flaɪt əˈtɛndənt/ | auxiliar de vuelo          | /awˈksiljaɾ ðe ˈbwelo/ |     |
-| bagagem de mão          | substantivo (fem)       | /bɐ.ˈɡa.ʒẽw ðɨ ˈmɐ̃w/ | carry-on baggage  | /ˈkæri ɔn ˈbæɡɪdʒ/ | equipaje de mano          | /e.kiˈpaχe ðe ˈma.no/  |     |
+| bagagem de mão | substantivo (fem)       | /bɐ.ˈɡa.ʒẽw ðɨ ˈmɐ̃w/ | carry-on baggage  | /ˈkæri ɔn ˈbæɡɪdʒ/ | equipaje de mano          | /e.kiˈpaχe ðe ˈma.no/  |     |
 | esteira de bagagem       | substantivo (fem)       | /isˈtɐj.ɾɐ ðɨ bɐ.ˈɡa.ʒẽw/ | baggage carousel | /ˈbæɡɪdʒ ˈkærəˌsɛl/ | cinta transportadora de equipaje | /ˈsinta tɾanspoɾtaˈðoɾa ðe e.kiˈpaχe/ |     |
-| voo direto              | substantivo (masc)      | /ˈvoʊ diˈrɛk.tu/  | direct flight           | /dɪˈrɛkt flaɪt/ | vuelo directo              | /ˈbwelo ðiˈɾekto/    |     |
-| escala                   | substantivo (fem)       | /ɨsˈka.lɐ/        | layover, stopover       | /ˈleɪoʊvər/    | escala                     | /esˈkala/             |     |
+| voo direto   | substantivo (masc)      | /ˈvoʊ diˈrɛk.tu/  | direct flight           | /dɪˈrɛkt flaɪt/ | vuelo directo              | /ˈbwelo ðiˈɾekto/    |     |
+| escala      | substantivo (fem)       | /ɨsˈka.lɐ/        | layover, stopover       | /ˈleɪoʊvər/    | escala                     | /esˈkala/             |     |
 | cartão de embarque       | substantivo (masc)      | /ˈkaɾ.tɐ̃w ðe ɐ̃.baɾ.ˈke/ | boarding pass   | /ˈbɔrdɪŋ pæs/ | tarjeta de embarque        | /tarˈxeta ðe emˈbaɾke/ |     |
-| viajar                   | verbo                   | /vi.ɐˈʒaɾ/        | to travel               | /trævəl/       | viajar                     | /bjaˈxaɾ/              |     |
+| viajar    | verbo      | /vi.ɐˈʒaɾ/        | to travel    | /trævəl/       | viajar    | /bjaˈxaɾ/       |8163|
 | voar  | verbo  | /ˈvo.ɐɾ/  | to fly   | /flaɪ/         | volar    | /boˈlaɾ/               |8160|
 | atrasado                 | adjetivo                | /ɐ.tra.ˈza.du/     | delayed                 | /dɪˈleɪd/      | retrasado                  | /re.tɾaˈsaðo/          |     |
 | cancelado                | adjetivo                | /kɐ̃.se.ˈɫa.du/    | canceled                | /ˈkænsəld/     | cancelado                  | /kanθeˈlaðo/          |     |
 | partida  | sf | /pɐɾ.ˈti.dɐ/    | departure     | /dɪˈpɑrtʃər/   | salida     | /saˈliða/              |8161|
 | chegada  | sf | /ʃi.ˈɡa.dɐ/        | arrival    | /əˈraɪvəl/     | llegada    | /ʝeˈɣaða/              |8162|
-

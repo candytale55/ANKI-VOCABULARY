@@ -250,16 +250,16 @@ _They_ said goodbye with sadness.
 
 ## Adverbs
 
-| Portuguese  | Tipo de Palavra   | IPA  | English     | IPA (USA)      | Spanish      | Spanish IPA     | No. |
-|-------------|-------------------|-------|-------------|---------------|--------------|-----------------|-----|
-| hoje | advérbio  | /ˈo.ʒi/   | today | /təˈdeɪ/ | hoy | /oi/ |2130|
-| amanhã | advérbio  | /aˈmɐ.ɲɐ̃/   | tomorrow | /təˈmɑroʊ/ | mañana | /maˈɲana/ |2131|
-| ontem | advérbio  | /ˈõ.tẽ/   | yesterday | /ˈjɛstərdeɪ/ | ayer | /aˈʝer/ |2129|
-| agora | advérbio  | /aˈɡo.ɾɐ/   | now | /naʊ/ | ahora | /aˈora/ |8166|
-| sempre | advérbio  | /ˈsẽ.pɾi/   | always | /ˈɔlweɪz/ | siempre | /ˈsjempre/ |8167|
-| nunca | advérbio  | /ˈnũ.kɐ/   | never | /ˈnɛvər/ | nunca | /ˈnuŋka/ |2134|
-| logo | advérbio  | /ˈlo.ɡu/   | soon | /sun/ | pronto | /ˈpronto/ |8165|
-| hoje em dia | locução adverbial  | /ˈo.ʒi ẽ̞ ˈdi.ɐ/   | nowadays | /ˈnaʊəˌdez/ | hoy en día | /oi en ˈdia/ ||
+| Portuguese  | Tipo de Palavra       | IPA       | English   | IPA (USA)    | Spanish      | Spanish IPA     | No. |
+|-------------|-----------------------|-----------|-----------|--------------|--------------|-----------------|-----|
+| hoje        | advérbio              | /ˈo.ʒi/   | today     | /təˈdeɪ/     | hoy          | /oi/            | 2130|
+| amanhã      | advérbio              | /aˈmɐ.ɲɐ̃/ | tomorrow  | /təˈmɑroʊ/   | mañana       | /maˈɲana/       | 2131|
+| ontem       | advérbio              | /ˈõ.tẽ/   | yesterday | /ˈjɛstərdeɪ/ | ayer         | /aˈʝer/         | 2129|
+| agora       | advérbio              | /aˈɡo.ɾɐ/ | now       | /naʊ/        | ahora        | /aˈora/         | 8166|
+| sempre      | advérbio              | /ˈsẽ.pɾi/ | always    | /ˈɔlweɪz/    | siempre      | /ˈsjempre/      | 8167|
+| nunca       | advérbio              | /ˈnũ.kɐ/  | never     | /ˈnɛvər/     | nunca        | /ˈnuŋka/        | 2134|
+| logo        | advérbio              | /ˈlo.ɡu/  | soon      | /sun/        | pronto       | /ˈpronto/       | 8165|
+| hoje em dia | locução adverbial     | /ˈo.ʒi ẽ̞ ˈdi.ɐ/   | nowadays | /ˈnaʊəˌdez/  | hoy en día | /oi en ˈdia/ ||
 
 
 

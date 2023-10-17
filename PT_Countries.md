@@ -20,4 +20,4 @@
 
 | Portuguese      | IPA (PT)      | IPA (BR)    | English           | English IPA     | Spanish           | Spanish IPA | No. |
 |-----------------|---------------|-------------|-------------------|-----------------|-------------------|---------------|-----|
-| Equatorial Guinea *| /ɡiˈne ewɐtoɾiˈal/| /ɡiˈne ewɐtoɾiˈal/ | Equatorial Guinea | /ˌɛkwəˈtɔːriəl ɡɪˈniː/ | Guinea Ecuatorial | /ɡiˈnea e.kwatoɾiˈal/ | 7007 |
+| Equatorial Guinea | /ɡiˈne ewɐtoɾiˈal/| /ɡiˈne ewɐtoɾiˈal/ | Equatorial Guinea | /ˌɛkwəˈtɔːriəl ɡɪˈniː/ | Guinea Ecuatorial | /ɡiˈnea e.kwatoɾiˈal/ | 7007 |

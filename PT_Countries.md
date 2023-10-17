@@ -37,9 +37,9 @@ Certainly! Here is the regenerated table with the adjustments you requested:
 | a Croácia      | nf, sg | /kɾuˈasi.ɐ/ | /kɾuˈasjɐ/ | Croatia               | /kroʊˈeɪʃə/ | Croacia            | /kɾo.aθi.a/ |     |
 | a Grécia       | nf, sg | /ˈɡɾɛ.si.ɐ/ | /ˈɡɾɛ.si.ɐ/ | Greece                | /ɡriːs/     | Grecia             | /ˈɡɾeθja/  |     |
 | a Itália       | nf, sg | /iˈta.li.ɐ/ | /iˈta.li.ɐ/ | Italy                 | /ˈɪtəli/    | Italia             | /iˈta.lja/  |     |
-| a Malta        | nf, sg | /ˈmaɫ.tɐ/  | /ˈmaɫ.tɐ/  | Malta                 | /ˈmɔːltə/   | Malta              | /ˈmal.ta/   |     |
-| o Portugal     | nm, sg | /puɾtuˈɣal/ | /puɾtuˈɡaw/ | Portugal              | /ˈpɔːtʃəɡəl/ | Portugal           | /poɾtuˈɣal/ |     |
-| a Roménia      | nf, sg | /ʁuˈmɛ.ni.ɐ/ | /roˈme.ni.ɐ/ | Romania               | /roʊˈmeɪni.ə/ | Rumania            | /ruˈme.ni.a/ |     |
+| a Malta        | nf     | /ˈmaɫ.tɐ/     | /ˈmaɫ.tɐ/      | Malta           | /ˈmɔːltə/       | Malta              | /ˈmal.ta/   |     |
+| Portugal       | nm     | /puɾtuˈɣal/   | /puɾtuˈɡaw/    | Portugal        | /ˈpɔːtʃəɡəl/    | Portugal           | /poɾtuˈɣal/  |7001|
+| a Roménia      | nf, sg | /ʁuˈmɛ.ni.ɐ/  | /roˈme.ni.ɐ/   | Romania         | /roʊˈmeɪni.ə/   | Rumania            | /ruˈme.ni.a/ |     |
 | São Marino   | nm, sg | /sɐ̃w mɐˈɾi.nu/ | /sɐ̃w maˈɾi.nu/ | San Marino         | /sæn məˈriːnoʊ/ | San Marino         | /san maˈɾi.no/ |     |
 | a Eslovénia    | nf, sg | /ɨs.lɔˈvɛ.njɐ/ | /iz.lɔˈvɛ.njɐ/ | Slovenia              | /sləʊˈviːniə/ | Eslovenia          | /es.loˈβe.nja/ |     |
 | a Espanha      | nf, sg | /iʃˈpa.ɲɐ/ | /isˈpa.ɲɐ/ | Spain                 | /speɪn/     | España             | /esˈpa.ɲa/  |     |

@@ -11,8 +11,8 @@
 | Angola          | /ɐ̃ˈɡɔla/      | /ɐ̃ˈɡɔlɐ/    | Angola            | /æŋˈɡələ/       | Angola            | /anˈɡola/     | 7003 |
 | Mozambique      | /muzɐ̃ˈbik/    | /mozɐ̃ˈbik/  | Mozambique        | /ˌmoʊzæmˈbiːk/  | Mozambique        | /moθɐ̃ˈbik/    | 7004 |
 | **a** Guiné-Bissau  | /ɐ ɡiˈnɛ bɨˈsaw/ | /ɐ ɡiˈnɛ biˈsaw/ | Guinea-Bissau | /ˌɡɪni bɪˈsaʊ/ | Guinéa-Bissau | /ɡiˈnea biˈsaw/ | 7005|
-| Timor-Leste  | /ti'moɾ 'lɛʃtɨ/   | /ti'mɔʁ 'lɛʃtʃi/   | East Timor   | /ˌiːst ˈtiːmɔr/ | Timor Oriental    | /ˈtimor oɾjenˈtal/ | 7006|
-| Cabo Verde      | /ˈkabu ˈveɾdɨ/ | /ˈkabu ˈveɾdʒi/ | Cape Verde      | /ˌkeɪp ˈvɜːrd/ | Cabo Verde        | /ˈkaβo ˈβeɾðe/ | 7008|
+| Timor-Leste  | /ti'moɾ 'lɛʃtɨ/   | /ti'mɔʁ 'lɛʃtʃi/   | East Timor   | /ˌiːst ˈtiːmɔr/ | Timor Oriental  | /ˈtimor oɾjenˈtal/ | 7006|
+| Cabo Verde      | /ˈkabu ˈveɾdɨ/ | /ˈkabu ˈveɾdʒi/ | Cape Verde      | /ˌkeɪp ˈvɜːrd/ | Cabo Verde       | /ˈkaβo ˈβeɾðe/ | 7008|
 | São Tomé and Príncipe | /sɐ̃w tuˈmɛ i ˈpɾĩsɨpɨ/ | /sɐ̃w toˈme i ˈpɾĩsɨpɨ/ | São Tomé and Príncipe | /ˌsaʊn təˈmeɪ ənd ˈpɹɪnsɪpə/ | Santo Tomé y Príncipe | /ˈsanto toˈme i ˈpɾinsipe/ |7009|
 
 
@@ -45,9 +45,7 @@ Certainly! Here is the regenerated table with the adjustments you requested:
 | a Espanha      | nf, sg | /iʃˈpa.ɲɐ/ | /isˈpa.ɲɐ/ | Spain                 | /speɪn/     | España             | /esˈpa.ɲa/  |     |
 | a Macedónia do Norte | nf, sp | /mɐsɨˈðɔni.ɐ du ˈnɔɾ.tɨ/ | /masɨˈðɔni.ɐ du ˈnɔɾ.tʃi/ | North Macedonia | /nɔrθ mæsɪˈdoʊniə/ | Macedonia del Norte | /maθeðoˈnia ðel ˈnorte/ |     |
 | a Sérvia       | nf, sg | /ˈsɛɾ.vjɐ/  | /ˈseɾ.vjɐ/  | Serbia                | /ˈsɜːrbiə/  | Serbia             | /ˈseɾβja/   |     |
-| o Chipre       | nm, sg | /ˈʃi.pɾi/  | /ˈʃi.pɾi/  | Cyprus                | /ˈsaɪprəs/  | Chipre             | /
-
-ˈt͡ʃipɾe/  |     |
+| o Chipre       | nm, sg | /ˈʃi.pɾi/  | /ˈʃi.pɾi/  | Cyprus                | /ˈsaɪprəs/  | Chipre             | /ˈt͡ʃipɾe/  |     |
 | a Turquia      | nf, sg | /tuɾˈki.ɐ/ | /tuɾˈki.ɐ/ | Turkey                | /ˈtɜːrki/   | Turquía            | /tuɾˈkja/   |     |
 | a Malta        | nf, sg | /ˈmaɫ.tɐ/  | /ˈmaɫ.tɐ/  | Malta                 | /ˈmɔːltə/   | Malta              | /ˈmal.ta/   |     |
 | o Mónaco       | nm, sg | /ˈmɔ.nɐ.ku/ | /ˈmɔ.nɐ.ku/ | Monaco                | /ˈmɒnəkoʊ/  | Monaco             | /ˈmonako/  |     |

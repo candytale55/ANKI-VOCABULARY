@@ -20,6 +20,8 @@
 
 | Portuguese      | IPA (PT)      | IPA (BR)    | English           | English IPA     | Spanish           | Spanish IPA | No. |
 |-----------------|---------------|-------------|-------------------|-----------------|-------------------|---------------|-----|
+| **o** México       | sm  | /ˈmɛ.ʃi.ku/    | /ˈmɛ.ʃi.ku/    | Mexico      | /ˈmɛksɪkoʊ/     | México       | /ˈmexiko/       |8198|
+| **a** Guatemala    | sf  | /ɡwɐ.te.mɐ.lɐ/ | /ɡwa.te.ˈma.lɐ/ | Guatemala  | /ˌɡwɑːtəˈmɑːlə/ | Guatemala    | /ɡwa.te.ˈma.la/ |8199|
 | Equatorial Guinea | /ɡiˈne ewɐtoɾiˈal/| /ɡiˈne ewɐtoɾiˈal/ | Equatorial Guinea | /ˌɛkwəˈtɔːriəl ɡɪˈniː/ | Guinea Ecuatorial | /ɡiˈnea e.kwatoɾiˈal/ | 7007 |
 | **a** Espanha    | /iʃˈpa.ɲɐ/   | /isˈpa.ɲɐ/       | Spain      | /speɪn/      | España          | /esˈpa.ɲa/   |8189|
 
@@ -60,9 +62,9 @@
 
 | Portuguese       | Tipo de Palavra | IPA (PT)       | IPA (BR)       | English               | English IPA   | Spanish                 | Spanish IPA  | No.  |
 |------------------|----------------|----------------|----------------|-----------------------|--------------|-------------------------|--------------|------|
-| **o** México       | sm             | /ˈmɛ.ʃi.ku/    | /ˈmɛ.ʃi.ku/    | Mexico                | /ˈmɛksɪkoʊ/ | México                  | /ˈmeksiko/   |      |
-| **a** Guatemala    | sf             | /ɡwɐ.te.mɐ.lɐ/ | /ɡwa.te.ˈma.lɐ/ | Guatemala             | /ˌɡwɑːtəˈmɑːlə/ | Guatemala               | /ɡwa.te.ˈma.la/ |      |
-| Honduras         | sm             | /õˈdu.ɾɐs/     | /õˈdo.ɾɐs/     | Honduras              | /hɒnˈdʊərəs/ | Honduras                | /onˈduɾas/   |      |
+| **o** México       | sm  | /ˈmɛ.ʃi.ku/    | /ˈmɛ.ʃi.ku/    | Mexico      | /ˈmɛksɪkoʊ/     | México       | /ˈmexiko/       |8198|
+| **a** Guatemala    | sf  | /ɡwɐ.te.mɐ.lɐ/ | /ɡwa.te.ˈma.lɐ/ | Guatemala  | /ˌɡwɑːtəˈmɑːlə/ | Guatemala    | /ɡwa.te.ˈma.la/ |8199|
+| Honduras           | sm             | /õˈdu.ɾɐs/     | /õˈdo.ɾɐs/     | Honduras              | /hɒnˈdʊərəs/ | Honduras                | /onˈduɾas/   |      |
 | **o** El Salvador | sm             | /ɛɫ sɐɫ.vɐ.ˈdoɾ/ | /ɛɫ sɐɫ.va.ˈdoɾ/ | El Salvador           | /ɛl ˈsælvədɔːr/ | El Salvador             | /el salβaˈðoɾ/ |      |
 | **a** Nicarágua   | sf             | /ni.kɐ.ˈɾa.ɡwɐ/ | /ni.ka.ˈɾa.ɡwa/ | Nicaragua             | /ˌnɪkəˈrɑːɡwə/ | Nicaragua               | /nikaˈɾaɣwa/ |      |
 | **a** Costa Rica  | sf             | /ˈkɔʃ.tɐ ˈʁi.kɐ/ | /ˈkɔs.tɐ ˈɾi.kɐ/ | Costa Rica            | /ˈkoʊstə ˈriːkə/ | Costa Rica              | /ˈkosta ˈrika/ |      |

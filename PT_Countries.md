@@ -23,8 +23,8 @@
 | **o** México       | /ˈmɛ.ʃi.ku/    | /ˈmɛ.ʃi.ku/    | Mexico      | /ˈmɛksɪkoʊ/     | México       | /ˈmexiko/       |8198|
 | **o** Porto Rico   | /ˈpoɾ.tu ˈʁi.ku/ | /ˈpoɾ.tu ˈhi.ku/ | Puerto Rico  | /ˈpwɛərtə ˈriːkoʊ/ | Puerto Rico | /ˈpwerto ˈriko/ |8200|
 | **a** Guatemala    | /ɡwɐ.te.mɐ.lɐ/ | /ɡwa.te.ˈma.lɐ/ | Guatemala  | /ˌɡwɑːtəˈmɑːlə/ | Guatemala    | /ɡwa.te.ˈma.la/ |8199|
-| Equatorial Guinea | /ɡiˈne ewɐtoɾiˈal/| /ɡiˈne ewɐtoɾiˈal/ | Equatorial Guinea | /ˌɛkwəˈtɔːriəl ɡɪˈniː/ | Guinea Ecuatorial | /ɡiˈnea e.kwatoɾiˈal/ | 7007 |
 | **a** Espanha    | /iʃˈpa.ɲɐ/   | /isˈpa.ɲɐ/       | Spain      | /speɪn/      | España          | /esˈpa.ɲa/   |8189|
+| Equatorial Guinea | /ɡiˈne ewɐtoɾiˈal/| /ɡiˈne ewɐtoɾiˈal/ | Equatorial Guinea | /ˌɛkwəˈtɔːriəl ɡɪˈniː/ | Guinea Ecuatorial | /ɡiˈnea e.kwatoɾiˈal/ | 7007 |
 
 
 ## Southern Europe Countries

@@ -31,6 +31,25 @@ While "Muitas felicidades!" focuses more on the overall well-being and happiness
 **"As melhoras!"** - This phrase is used to wish someone a quick recovery when they are feeling unwell or are in poor health. It translates to "Get well soon!" in English.
 
 
+------------------------
+
+Here are the translations in Portuguese:
+
+"Boas entradas!" - Esta frase é usada durante o período de Ano Novo para desejar a alguém um bom começo de ano.
+
+"Feliz Natal!" - Esta frase é usada para desejar a alguém um Feliz Natal durante a época festiva de Natal.
+
+"Muitos parabéns!" - Esta expressão é usada para felicitar alguém por uma conquista ou por uma ocasião especial, como um aniversário, uma formatura ou uma promoção no trabalho. 
+
+"Muitas felicidades!" é usada para desejar felicidade e bem-estar a alguém, especialmente no contexto de ocasiões especiais como casamentos, aniversários ou outros eventos significativos na vida. É comumente usada para desejar a alguém uma vida feliz e realizada no futuro.
+
+Enquanto "Muitas felicidades!" foca mais no bem-estar geral e na felicidade do indivíduo, "Muitos parabéns!" é dirigido especificamente ao reconhecimento e celebração de uma conquista ou marco específico.
+
+"Boa sorte!" - Esta expressão é usada para desejar a alguém boa sorte.
+
+"As melhoras!" - Esta frase é usada para desejar a alguém uma rápida recuperação quando se sente mal ou está com a saúde debilitada.
+
+
 
 
 

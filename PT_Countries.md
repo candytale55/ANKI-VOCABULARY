@@ -26,7 +26,7 @@
 
 ## Southern Europe Countries
 
-Certainly! Here is the regenerated table with the adjustments you requested:
+
 
 | Portuguese   | Gênero/Número | IPA (PT) | IPA (BR)  | English               | English IPA | Spanish            | Spanish IPA | No. |
 |--------------|---------------|----------|-----------|-----------------------|-------------|--------------------|-------------|-----|

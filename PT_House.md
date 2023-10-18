@@ -26,7 +26,7 @@
 | **o** teto             | sm              | /ˈtɛ.tu/        | /ˈtɛ.tu/       | ceiling          | /ˈsiːlɪŋ/      | techo              | /ˈtetʃo/     |     |
 | **o** chão             | sm              | /ʃɐ̃w/          | /ʃɐ̃w/         | floor            | /flɔːr/        | suelo              | /ˈswelo/     |     |
 | **o** piso             | sm              | /ˈpi.zu/        | /ˈpi.zu/       | floor            | /flɔːr/        | piso               | /ˈpiso/      |     |
-| **a** janela           | sf              | /ʒɐ.ˈnɛ.lɐ/     | /ʒa.ˈnɛ.lɐ/    | window           | /ˈwɪndoʊ/      | ventana            | /benˈtana/   |     |
+| **a** janela    | sf  | /ʒɐ.ˈnɛ.lɐ/     | /ʒa.ˈnɛ.lɐ/    | window           | /ˈwɪndoʊ/      | ventana  | /benˈtana/   |8223|
 | **a** porta            | sf              | /ˈpoɾ.tɐ/       | /ˈpoɾ.tɐ/      | door             | /dɔːr/         | puerta             | /ˈpweɾta/    |     |
 | **a** chaminé          | sf              | /ʃɐ.mi.ˈnɛ/     | /ʃa.mi.ˈnɛ/    | chimney          | /ˈtʃɪmni/      | chimenea           | /tʃi.me.ˈnea/ |     |
 | **o** armário          | sm              | /ɐɾ.ˈma.ɾju/     | /aɾ.ˈma.ɾju/    | closet           | /ˈklɒzɪt/      | armario            | /arˈmaɾjo/    |     |
@@ -36,4 +36,4 @@
 | **a** lavanderia       | sf              | /lɐ.vɐ̃.ˈde.ɾi.ɐ/ | /la.vɐ̃.ˈde.ɾi.ɐ/ | laundry room | /ˈlɔːndri ruːm/ | lavandería         | /laβandeˈɾia/ |     |
 | **o** alpendre         | sm              | /ɐɾ.ˈpẽ.dɾɨ/     | /aɾ.ˈpẽ.dɾi/    | porch            | /pɔːrtʃ/       | porche             | /ˈpoɾtʃe/    |     |
 | **a** varanda          | sf              | /vɐ.ˈɾɐ̃dɐ/     | /va.ˈɾɐ̃dɐ/    | balcony          | /ˈbælkəni/     | balcón             | /balˈkon/    |     |
-| **a** cerca            | sf              | /ˈsɛɾ.kɐ/       | /ˈsɛɾ.kɐ/      | fence            | /fɛns/         | cerca              | /ˈθeɾka/     |     |
+| **a** cerca | sf | /ˈsɛɾ.kɐ/  | /ˈsɛɾ.kɐ/ | fence   | /fɛns/         | cerca              | /ˈθeɾka/     |8222|

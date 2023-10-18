@@ -28,14 +28,14 @@
 
 Certainly! Here is the regenerated table with the adjustments you requested:
 
-| Portuguese   | Gênero/Número | IPA (PT)  | IPA (BR)  | English               | English IPA | Spanish            | Spanish IPA | No. |
-|--------------|---------------|-----------|-----------|-----------------------|-------------|--------------------|-------------|-----|
-| a Albânia      | nf, sp | /alˈbɐni.ɐ/ | /awˈbɐni.ɐ/ | Albania               | /ælˈbeɪni.ə/ | Albania            | /alˈβa.ni.a/ |     |
-| Andorra      | nf, sg | /ɐ̃ˈdoʁ.ɐ/ | /ɐ̃ˈdoʁ.ɐ/ | Andorra               | /ænˈdɔːrə/  | Andorra            | /anˈdor.a/  |     |
-| a Bósnia e Herzegovina | nf, sp | /ˈbɔz.njɐ i ˌxɛɾ.tsi.no.vɐ/ | /ˈbɔz.ni.ɐ i xeɾˌt͡si.no.ˈvɐ.nɐ/ | Bosnia and Herzegovina | /ˈbɒzniə ənd ˌhɜːrtsəɡoʊˈviːnə/ | Bosnia y Herzegovina | /ˈbosnja i eɾˈt͡sjenoβina/ |     |
-| a Bulgária     | nf, sp | /b(u)uˈɫɡɐ.ɾi.ɐ/ | /buwˈɡaɾi.ɐ/ | Bulgaria              | /bʌlˈɡɛəriə/ | Bulgaria           | /bulˈɡa.ɾja/ |     |
-| a Croácia      | nf, sg | /kɾuˈasi.ɐ/ | /kɾuˈasjɐ/ | Croatia               | /kroʊˈeɪʃə/ | Croacia            | /kɾo.aθi.a/ |     |
-| a Grécia       | nf, sg | /ˈɡɾɛ.si.ɐ/ | /ˈɡɾɛ.si.ɐ/ | Greece                | /ɡriːs/     | Grecia             | /ˈɡɾeθja/  |     |
+| Portuguese   | Gênero/Número | IPA (PT) | IPA (BR)  | English               | English IPA | Spanish            | Spanish IPA | No. |
+|--------------|---------------|----------|-----------|-----------------------|-------------|--------------------|-------------|-----|
+| **a** Albânia    | sf   | /alˈbɐni.ɐ/   | /awˈbɐni.ɐ/   | Albania     | /ælˈbeɪni.ə/      | Albania    | /alˈβa.ni.a/ |8178|
+| Andorra          | sf   | /ɐ̃ˈdoʁ.ɐ/     | /ɐ̃ˈdoʁ.ɐ/     | Andorra     | /ænˈdɔːrə/        | Andorra    | /anˈdor.a/   |8179|
+| a Bósnia e Herzegovina | sf | /ˈbɔz.njɐ i ˌxɛɾ.tsi.no.vɐ/ | /ˈbɔz.ni.ɐ i xeɾˌt͡si.no.ˈvɐ.nɐ/ | Bosnia and Herzegovina | /ˈbɒzniə ənd ˌhɜːrtsəɡoʊˈviːnə/ | Bosnia y Herzegovina | /ˈbosnja i eɾˈt͡sjenoβina/ |8180|
+| **a** Bulgária   | sf  | /b(u)uˈɫɡɐ.ɾi.ɐ/ | /buwˈɡaɾi.ɐ/ | Bulgaria   | /bʌlˈɡɛəriə/ | Bulgaria        | /bulˈɡa.ɾja/ |8181|
+| **a** Croácia    | sf  | /kɾuˈasi.ɐ/    | /kɾuˈasjɐ/     | Croatia    | /kroʊˈeɪʃə/ | Croacia          | /kɾo.aθi.a/  |8182|
+| **a** Grécia       | nf, sg | /ˈɡɾɛ.si.ɐ/ | /ˈɡɾɛ.si.ɐ/ | Greece                | /ɡriːs/     | Grecia             | /ˈɡɾeθja/  |     |
 | a Itália       | nf, sg | /iˈta.li.ɐ/ | /iˈta.li.ɐ/ | Italy                 | /ˈɪtəli/    | Italia             | /iˈta.lja/  |     |
 | a Malta        | nf     | /ˈmaɫ.tɐ/     | /ˈmaɫ.tɐ/      | Malta           | /ˈmɔːltə/       | Malta              | /ˈmal.ta/   |     |
 | Portugal       | nm     | /puɾtuˈɣal/   | /puɾtuˈɡaw/    | Portugal        | /ˈpɔːtʃəɡəl/    | Portugal           | /poɾtuˈɣal/  |7001|

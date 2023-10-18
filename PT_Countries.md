@@ -57,28 +57,27 @@
 
 ## Latin American Countries:
 
-Certainly, here is the table for the list of countries you provided:
 
-| Portuguese    | IPA (PT)       | IPA (BR)       | English               | English IPA   | Spanish                 | Spanish IPA  | No. |
-|---------------|----------------|----------------|-----------------------|--------------|-------------------------|--------------|-----|
-| México        | /ˈmɛ.ʃi.ku/    | /ˈmɛ.ʃi.ku/    | Mexico                | /ˈmɛksɪkoʊ/ | México                  | /ˈmeksiko/   |     |
-| Guatemala     | /ɡwɐ.te.mɐ.lɐ/ | /ɡwa.te.ˈma.lɐ/ | Guatemala             | /ˌɡwɑːtəˈmɑːlə/ | Guatemala               | /ɡwa.te.ˈma.la/ |     |
-| Honduras      | /õˈdu.ɾɐs/     | /õˈdo.ɾɐs/     | Honduras              | /hɒnˈdʊərəs/ | Honduras                | /onˈduɾas/   |     |
-| El Salvador   | /ɛɫ sɐɫ.vɐ.ˈdoɾ/ | /ɛɫ sɐɫ.va.ˈdoɾ/ | El Salvador           | /ɛl ˈsælvədɔːr/ | El Salvador             | /el salβaˈðoɾ/ |     |
-| Nicarágua     | /ni.kɐ.ˈɾa.ɡwɐ/ | /ni.ka.ˈɾa.ɡwa/ | Nicaragua             | /ˌnɪkəˈrɑːɡwə/ | Nicaragua               | /nikaˈɾaɣwa/ |     |
-| Costa Rica    | /ˈkɔʃ.tɐ ˈʁi.kɐ/ | /ˈkɔs.tɐ ˈɾi.kɐ/ | Costa Rica            | /ˈkoʊstə ˈriːkə/ | Costa Rica              | /ˈkosta ˈrika/ |     |
-| Panamá        | /pɐ.nɐˈmɐ/     | /pɐ.nɐˈmɐ/     | Panama                | /ˈpænəmɑː/ | Panamá                  | /paˈnama/    |     |
-| Colômbia      | /kuˈlõ.bjɐ/    | /koˈlõ.bi.ɐ/   | Colombia              | /kəˈlʌmbiə/ | Colombia                | /koˈlom.bja/ |     |
-| Venezuela     | /vɨ.nɨ.ˈzwe.lɐ/ | /vɨ.nɨ.ˈzwe.lɐ/ | Venezuela             | /ˌvɛnɪˈzweɪlə/ | Venezuela               | /be.neˈswela/ |     |
-| Equador       | /i.kwɐ.ˈdoɾ/   | /i.kwa.ˈdoʁ/   | Ecuador               | /ˈɛkwədɔːr/ | Ecuador                 | /ekwaˈðoɾ/   |     |
-| Peru          | /ˈpe.ɾu/       | /ˈpe.ɾu/       | Peru                  | /pəˈruː/    | Perú                    | /peˈɾu/      |     |
-| Bolívia       | /bo.ˈli.vi.ɐ/  | /bo.ˈli.vi.ɐ/  | Bolivia               | /bəˈlɪviə/  | Bolivia                 | /boˈliβja/   |     |
-| **o** Brasil    | /o bɾaˈziw/   | /o bɾaˈziw/ | Brazil            | /brəˈzɪl/       | Brasil            | /bɾaˈsil/     | 7002 |
-| Paraguai      | /pɐ.ɾɐ.ˈɡwaj/  | /pa.ɾa.ˈɡwaj/  | Paraguay              | /ˈpærəɡwaɪ/ | Paraguay                | /paɾaˈɣwaj/  |     |
-| Chile         | /ˈʃi.li/       | /ˈʃi.li/       | Chile                 | /ˈtʃɪli/    | Chile                   | /ˈtʃile/    |     |
-| Argentina     | /ɐɾ.ʒẽ.ˈtʃi.nɐ/ | /aɾ.xẽ.ˈti.nɐ/ | Argentina             | /ˌɑːrdʒənˈtiːnə/ | Argentina               | /aɾxenˈtina/ |     |
-| Uruguai       | /u.ɾu.ˈɡwaj/   | /u.ɾu.ˈɡwaj/   | Uruguay               | /ˈjʊərəɡwaɪ/ | Uruguay                 | /uɾuˈɣwai/   |     |
-| Cuba          | /ˈku.bɐ/       | /ˈku.bɐ/       | Cuba                  | /ˈkjuːbə/   | Cuba                    | /ˈkuβa/     |     |
-| Haiti         | /ˈa.i.ti/      | /ˈaj.ti/       | Haiti                 | /ˈheɪti/    | Haití                   | /aˈiti/     |     |
-| República Dominicana | /ʁɛ.ˈpu.βli.kɐ du.mu.mi.ˈni.kɐ/ | /ʁɛ.ˈpub.li.kɐ do.mu.mi.ˈni.kɐ/ | Dominican Republic | /dəˌmɪnɪkən rɪˈpʌblɪk/ | República Dominicana | /reˈpuβlika ðoˌminiˈkana/ |     |
-| Porto Rico    | /ˈpoɾ.tu ˈʁi.ku/ | /ˈpoɾ.tu ˈhi.ku/ | Puerto Rico           | /ˈpwɛərtə ˈriːkoʊ/ | Puerto Rico             | /ˈpwerto ˈriko/ |     |
+| Portuguese       | Tipo de Palavra | IPA (PT)       | IPA (BR)       | English               | English IPA   | Spanish                 | Spanish IPA  | No.  |
+|------------------|----------------|----------------|----------------|-----------------------|--------------|-------------------------|--------------|------|
+| **o** México       | sm             | /ˈmɛ.ʃi.ku/    | /ˈmɛ.ʃi.ku/    | Mexico                | /ˈmɛksɪkoʊ/ | México                  | /ˈmeksiko/   |      |
+| **a** Guatemala    | sf             | /ɡwɐ.te.mɐ.lɐ/ | /ɡwa.te.ˈma.lɐ/ | Guatemala             | /ˌɡwɑːtəˈmɑːlə/ | Guatemala               | /ɡwa.te.ˈma.la/ |      |
+| Honduras         | sm             | /õˈdu.ɾɐs/     | /õˈdo.ɾɐs/     | Honduras              | /hɒnˈdʊərəs/ | Honduras                | /onˈduɾas/   |      |
+| **o** El Salvador | sm             | /ɛɫ sɐɫ.vɐ.ˈdoɾ/ | /ɛɫ sɐɫ.va.ˈdoɾ/ | El Salvador           | /ɛl ˈsælvədɔːr/ | El Salvador             | /el salβaˈðoɾ/ |      |
+| **a** Nicarágua   | sf             | /ni.kɐ.ˈɾa.ɡwɐ/ | /ni.ka.ˈɾa.ɡwa/ | Nicaragua             | /ˌnɪkəˈrɑːɡwə/ | Nicaragua               | /nikaˈɾaɣwa/ |      |
+| **a** Costa Rica  | sf             | /ˈkɔʃ.tɐ ˈʁi.kɐ/ | /ˈkɔs.tɐ ˈɾi.kɐ/ | Costa Rica            | /ˈkoʊstə ˈriːkə/ | Costa Rica              | /ˈkosta ˈrika/ |      |
+| **o** Panamá      | sm             | /pɐ.nɐˈmɐ/     | /pɐ.nɐˈmɐ/     | Panama                | /ˈpænəmɑː/ | Panamá                  | /paˈnama/    |      |
+| **a** Colômbia    | sf             | /kuˈlõ.bjɐ/    | /koˈlõ.bi.ɐ/   | Colombia              | /kəˈlʌmbiə/ | Colombia                | /koˈlom.bja/ |      |
+| **a** Venezuela   | sf             | /vɨ.nɨ.ˈzwe.lɐ/ | /vɨ.nɨ.ˈzwe.lɐ/ | Venezuela             | /ˌvɛnɪˈzweɪlə/ | Venezuela               | /be.neˈswela/ |      |
+| **o** Equador     | sm             | /i.kwɐ.ˈdoɾ/   | /i.kwa.ˈdoʁ/   | Ecuador               | /ˈɛkwədɔːr/ | Ecuador                 | /ekwaˈðoɾ/   |      |
+| **o** Peru        | sm             | /ˈpe.ɾu/       | /ˈpe.ɾu/       | Peru                  | /pəˈruː/    | Perú                    | /peˈɾu/      |      |
+| **a** Bolívia     | sf             | /bo.ˈli.vi.ɐ/  | /bo.ˈli.vi.ɐ/  | Bolivia               | /bəˈlɪviə/  | Bolivia                 | /boˈliβja/   |      |
+| **o** Brasil      | sm             | /o bɾaˈziw/    | /o bɾaˈziw/    | Brazil                | /brəˈzɪl/      | Brasil            | /bɾaˈsil/    | 7002 |
+| **o** Paraguai    | sm             | /pɐ.ɾɐ.ˈɡwaj/  | /pa.ɾa.ˈɡwaj/  | Paraguay              | /ˈpærəɡwaɪ/ | Paraguay                | /paɾaˈɣwaj/  |      |
+| **o** Chile       | sm             | /ˈʃi.li/       | /ˈʃi.li/       | Chile                 | /ˈtʃɪli/    | Chile                   | /ˈtʃile/    |      |
+| **a** Argentina   | sf             | /ɐɾ.ʒẽ.ˈtʃi.nɐ/ | /aɾ.xẽ.ˈti.nɐ/ | Argentina             | /ˌɑːrdʒənˈtiːnə/ | Argentina               | /aɾxenˈtina/ |      |
+| **o** Uruguai     | sm             | /u.ɾu.ˈɡwaj/   | /u.ɾu.ˈɡwaj/   | Uruguay               | /ˈjʊərəɡwaɪ/ | Uruguay                 | /uɾuˈɣwai/   |      |
+| **a** Cuba        | sf             | /ˈku.bɐ/       | /ˈku.bɐ/       | Cuba                  | /ˈkjuːbə/   | Cuba                    | /ˈkuβa/     |      |
+| **o** Haiti       | sm             | /ˈa.i.ti/      | /ˈaj.ti/       | Haiti                 | /ˈheɪti/    | Haití                   | /aˈiti/     |      |
+| **a** República Dominicana | sf    | /ʁɛ.ˈpu.βli.kɐ du.mu.mi.ˈni.kɐ/ | /ʁɛ.ˈpub.li.kɐ do.mu.mi.ˈni.kɐ/ | Dominican Republic | /dəˌmɪnɪkən rɪˈpʌblɪk/ | República Dominicana | /reˈpuβlika ðoˌminiˈkana/ |      |
+| **o** Porto Rico  | sm             | /ˈpoɾ.tu ˈʁi.ku/ | /ˈpoɾ.tu ˈhi.ku/ | Puerto Rico           | /ˈpwɛərtə ˈriːkoʊ/ | Puerto Rico             | /ˈpwerto ˈriko/ |      |

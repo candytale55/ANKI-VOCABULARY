@@ -44,6 +44,14 @@
 | Equatorial Guinea  | /ɡiˈne ewɐtoɾiˈal/| /ɡiˈne ewɐtoɾiˈal/ | Equatorial Guinea | /ˌɛkwəˈtɔːriəl ɡɪˈniː/ | Guinea Ecuatorial | /ɡiˈnea e.kwatoɾiˈal/ | 7007 |
 
 
+## French Speaking Countries:
+
+| Portuguese   | Gênero/Número | IPA (PT) | IPA (BR)  | English               | English IPA | Spanish            | Spanish IPA | No. |
+|--------------|---------------|----------|-----------|-----------------------|-------------|--------------------|-------------|-----|
+| **o** Haiti        | sm | /ˈa.i.ti/        | /ˈaj.ti/         | Haiti       | /ˈheɪti/        | Haití        | /aˈiti/         |8221|
+
+
+
 ## Southern Europe Countries
 
 

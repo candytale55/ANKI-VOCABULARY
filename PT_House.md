@@ -3,11 +3,12 @@
 
 | Portuguese       | Tipo de Palavra | IPA (PT)        | IPA (BR)       | English          | English IPA    | Spanish            | Spanish IPA   | No. |
 |------------------|-----------------|-----------------|----------------|------------------|----------------|--------------------|--------------|-----|
-| **a** cozinha          | sf              | /ko.ˈzi.ɲɐ/     | /ko.ˈzi.ɲɐ/    | kitchen          | /ˈkɪtʃɪn/      | cocina             | /ko.ˈθina/   |     |
-| **o** quarto           | sm              | /ˈkwaɾ.tu/      | /ˈkwaɾ.tu/     | bedroom          | /ˈbɛdruːm/     | habitación         | /a.bi.taˈθjon/ |     |
-| **a** casa de banho    | sf              | /ˈka.zɐ dɨ ˈbɐ.ɲu/ | /ˈkazɐ dʒi ˈbɐɲu/ | bathroom         | /ˈbɑːθruːm/   | baño               | /ˈbaɲo/       |     |
-| **o** banheiro         | sm              | /bɐ.ɲe.ˈjɾu/   | /ba.ɲe.ˈjɾu/  | bathroom         | /ˈbɑːθruːm/   | baño               | /ˈbaɲo/       |     |
-| **a** sala de estar    | sf              | /ˈsa.lɐ ðɨ is.ˈtaɾ/ | /ˈsa.lɐ dʒi is.ˈtaɾ/ | living room     | /ˈlɪvɪŋ ˈruːm/ | sala de estar      | /ˈsala ðe esˈtaɾ/ |     |
+| **a** cozinha          | sf  | /ko.ˈzi.ɲɐ/     | /ko.ˈzi.ɲɐ/    | kitchen  | /ˈkɪtʃɪn/      | cocina      | /ko.ˈθina/     |8202|
+| **o** quarto           | sm  | /ˈkwaɾ.tu/      | /ˈkwaɾ.tu/     | room     | /ruːm/    | habitación       | /a.bi.taˈθjon/ |8203|
+| **o** quarto           | sm  | /ˈkwaɾ.tu/      | /ˈkwaɾ.tu/     | bedroom  | /ˈbɛdruːm/     | cuarto      | /ˈkwarto/      |8204|
+| **a** casa de banho (PT)| sf | /ˈka.zɐ dɨ ˈbɐ.ɲu/ | /ˈkazɐ dʒi ˈbɐɲu/ | bathroom  | /ˈbɑːθruːm/   | baño | /ˈbaɲo/       |8201|
+| **o** banheiro  (BR)    | sm | /bɐ.ɲe.ˈjɾu/   | /ba.ɲe.ˈjɾu/  | bathroom         | /ˈbɑːθruːm/   | baño | /ˈbaɲo/       |8201|
+| **a** sala de estar    | sf  | /ˈsa.lɐ ðɨ is.ˈtaɾ/ | /ˈsa.lɐ dʒi is.ˈtaɾ/ | living room     | /ˈlɪvɪŋ ˈruːm/ | sala de estar      | /ˈsala ðe esˈtaɾ/ |     |
 | **a** sala             | sf              | /ˈsa.lɐ/       | /ˈsa.lɐ/      | living room      | /ˈlɪvɪŋ ˈruːm/ | sala               | /ˈsala/       |     |
 | **a** sala de jantar   | sf              | /ˈsa.lɐ dɨ ʒɐ̃n.ˈtaɾ/ | /ˈsa.lɐ dʒi ʒɐ̃n.ˈtaɾ/ | dining room | /ˈdaɪnɪŋ ˈruːm/ | comedor            | /ko.meˈðoɾ/   |     |
 | **a** sala de refeições | sf            | /ˈsa.lɐ dɨ ʁɨ.fɐj.ˈsɔ̃jʃ/ | /ˈsa.lɐ dʒi ʁi.fɐj.ˈsɔ̃jʃ/ | dining room | /ˈdaɪnɪŋ ˈruːm/ | comedor            | /ko.meˈðoɾ/   |     |

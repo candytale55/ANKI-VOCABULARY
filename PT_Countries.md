@@ -20,8 +20,8 @@
 
 | Portuguese      | IPA (PT)      | IPA (BR)    | English           | English IPA     | Spanish           | Spanish IPA | No. |
 |-----------------|---------------|-------------|-------------------|-----------------|-------------------|---------------|-----|
-| **o** México       | sm  | /ˈmɛ.ʃi.ku/    | /ˈmɛ.ʃi.ku/    | Mexico      | /ˈmɛksɪkoʊ/     | México       | /ˈmexiko/       |8198|
-| **a** Guatemala    | sf  | /ɡwɐ.te.mɐ.lɐ/ | /ɡwa.te.ˈma.lɐ/ | Guatemala  | /ˌɡwɑːtəˈmɑːlə/ | Guatemala    | /ɡwa.te.ˈma.la/ |8199|
+| **o** México       | /ˈmɛ.ʃi.ku/    | /ˈmɛ.ʃi.ku/    | Mexico      | /ˈmɛksɪkoʊ/     | México       | /ˈmexiko/       |8198|
+| **a** Guatemala    | /ɡwɐ.te.mɐ.lɐ/ | /ɡwa.te.ˈma.lɐ/ | Guatemala  | /ˌɡwɑːtəˈmɑːlə/ | Guatemala    | /ɡwa.te.ˈma.la/ |8199|
 | Equatorial Guinea | /ɡiˈne ewɐtoɾiˈal/| /ɡiˈne ewɐtoɾiˈal/ | Equatorial Guinea | /ˌɛkwəˈtɔːriəl ɡɪˈniː/ | Guinea Ecuatorial | /ɡiˈnea e.kwatoɾiˈal/ | 7007 |
 | **a** Espanha    | /iʃˈpa.ɲɐ/   | /isˈpa.ɲɐ/       | Spain      | /speɪn/      | España          | /esˈpa.ɲa/   |8189|
 

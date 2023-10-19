@@ -12,9 +12,9 @@
 | designer         | sm/f           | /de.ziˈɲeɾ/     | /de.ziˈɲe.ɾu/  | designer     | /dɪˈzaɪnər/ | diseñador         | /desiɲaˈdoɾ/ |2179|
 | o empresário | sm             | /ẽ.pre.zɐ.ˈɾju/ | /ẽ.pre.zɐ.ˈɾju/ | businessman | /ˈbɪznɪsˌman/ | empresario        | /em.pɾe.saˈɾjo/ |2183|
 | a empresária | sf             | /ẽ.pre.zɐ.ˈɾi.ɐ/ | /ẽ.pre.zɐ.ˈɾi.ɐ/ | businesswoman | /ˈbɪznɪsˌwʊmən/ | empresaria       | /em.pɾe.saˈɾja/ |2183|
-| o agricultor | sm             | /a.ɡri.kulˈtoɾ/ | /a.ɡri.kulˈtoɾ/ | farmer       | /ˈfɑːmər/ | agricultor       | /aɡɾi.kulˈtoɾ/ | 33  |
-| a música     | sf             | /ˈmu.zi.kɐ/     | /ˈmu.zi.kɐ/     | musician     | /mjuːˈzɪʃən/ | música           | /ˈmusika/ | 34  |
-| o músico     | sm             | /ˈmu.zi.ku/     | /ˈmu.zi.ku/     | musician     | /mjuːˈzɪʃən/ | músico           | /ˈmusiko/ | 35  |
+| o agricultor | sm             | /a.ɡri.kulˈtoɾ/ | /a.ɡri.kulˈtoɾ/ | farmer       | /ˈfɑːmər/ | agricultor       | /aɡɾi.kulˈtoɾ/ | 2317  |
+| a música     | sf             | /ˈmu.zi.kɐ/     | /ˈmu.zi.kɐ/     | musician     | /mjuːˈzɪʃən/ | música           | /ˈmusika/ | 3100 |
+| o músico     | sm             | /ˈmu.zi.ku/     | /ˈmu.zi.ku/     | musician     | /mjuːˈzɪʃən/ | músico           | /ˈmusiko/ | 3100  |
 | o professor  | sm             | /pɾuˈfe.sɔɾ/   | /pɾuˈfe.sɔʁ/   | teacher      | /ˈtiːtʃər/ | maestro          | /maˈestɾo/ |2146|
 | a professora | sf             | /pɾuˈfe.so.ɾɐ/  | /pɾuˈfe.so.ɾɐ/  | teacher      | /prəˈfesər/ | maestra          | /maˈestɾa/ |2146|
 | o estudante | sm/f           | /es.tuˈdɐ̃.tɨ/ | /es.tuˈdɐ̃.tʃi/ | student      | /ˈstjuːdnt/ | estudiante       | /estuˈðjante/ |2144|

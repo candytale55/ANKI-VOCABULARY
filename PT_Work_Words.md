@@ -1,6 +1,51 @@
 
 # Talking about work
 
+| Portuguese (PT)  | Tipo de Palavra | IPA (PT)        | IPA (BR)       | English      | English IPA | Spanish          | Spanish IPA | No. |
+|------------------|------------------|-----------------|----------------|-----------------|-------------|--------------------|-------------|-----|
+| o empregado  | sm             | /emˈpɾe.ɡa.du/  | /ẽˈpɾe.ɡa.du/ | employee     | /ɪmˈplɔɪiː/ | empleado          | /emˈpleaðo/ | 2135|
+| a empregada  | sf             | /emˈpɾe.ɡa.dɐ/  | /ẽˈpɾe.ɡa.dɐ/ | employee     | /ɪmˈplɔɪiː/ | empleada          | /emˈpleaða/ | 2135|
+| o enfermeiro | sm             | /ẽ.ferˈmej.ɾu/ | /ẽ.ferˈmej.ɾu/ | nurse        | /nɜːrs/ | enfermero         | /emfeɾˈmeɾo/ |2177|
+| a enfermeira | sf             | /ẽ.ferˈmej.ɾɐ/ | /ẽ.ferˈmej.ɾɐ/ | nurse        | /nɜːrs/ | enfermera         | /emfeɾˈmeɾa/ |2177|
+| o engenheiro | sm             | /ẽ.ʒeˈɲej.ɾu/ | /ẽ.ʒeˈɲej.ɾu/ | engineer     | /ˌɛndʒɪˈnɪər/ | ingeniero         | /inxeɾˈnjeɾo/ |2178|
+| a engenheira | sf             | /ẽ.ʒẽˈɲej.ɾɐ/ | /ẽ.ʒẽˈɲej.ɾɐ/ | engineer     | /ˌɛndʒɪˈnɪər/ | ingeniera         | /inxeɾˈnjeɾa/ |2178|
+| designer         | sm/f           | /de.ziˈɲeɾ/     | /de.ziˈɲe.ɾu/  | designer     | /dɪˈzaɪnər/ | diseñador         | /desiɲaˈdoɾ/ |2179|
+| o empresário | sm             | /ẽ.pre.zɐ.ˈɾju/ | /ẽ.pre.zɐ.ˈɾju/ | businessman | /ˈbɪznɪsˌman/ | empresario        | /em.pɾe.saˈɾjo/ |2183|
+| a empresária | sf             | /ẽ.pre.zɐ.ˈɾi.ɐ/ | /ẽ.pre.zɐ.ˈɾi.ɐ/ | businesswoman | /ˈbɪznɪsˌwʊmən/ | empresaria       | /em.pɾe.saˈɾja/ |2183|
+| o agricultor | sm             | /a.ɡri.kulˈtoɾ/ | /a.ɡri.kulˈtoɾ/ | farmer       | /ˈfɑːmər/ | agricultor       | /aɡɾi.kulˈtoɾ/ | 33  |
+| a música     | sf             | /ˈmu.zi.kɐ/     | /ˈmu.zi.kɐ/     | musician     | /mjuːˈzɪʃən/ | música           | /ˈmusika/ | 34  |
+| o músico     | sm             | /ˈmu.zi.ku/     | /ˈmu.zi.ku/     | musician     | /mjuːˈzɪʃən/ | músico           | /ˈmusiko/ | 35  |
+| o professor  | sm             | /pɾuˈfe.sɔɾ/   | /pɾuˈfe.sɔʁ/   | teacher      | /ˈtiːtʃər/ | maestro          | /maˈestɾo/ |2146|
+| a professora | sf             | /pɾuˈfe.so.ɾɐ/  | /pɾuˈfe.so.ɾɐ/  | teacher      | /prəˈfesər/ | maestra          | /maˈestɾa/ |2146|
+| o estudante | sm/f           | /es.tuˈdɐ̃.tɨ/ | /es.tuˈdɐ̃.tʃi/ | student      | /ˈstjuːdnt/ | estudiante       | /estuˈðjante/ |2144|
+| o professor  | sm             | /pɾuˈfɛ.soɾ/   | /pɾuˈfɛ.soʁ/   | professor    | /prəˈfɛsər/ | profesor (masc)  | /pɾofeˈsoɾ/ |2149|
+| a professora | sf             | /pɾuˈfɛ.so.ɾɐ/ | /pɾuˈfɛ.soʁɐ/ | professor    | /prəˈfesər/ | profesora (fem)  | /pɾofeˈsoɾa/ |2149|
+| o médico     | sm             | /ˈme.di.ku/     | /ˈme.dʒi.ku/   | doctor       | /ˈdɒktər/ | médico, doctor   | /ˈmediko, ˈdɒktər/ |2147|
+| a médica     | sf             | /ˈme.di.kɐ/     | /ˈme.dʒi.kɐ/   | doctor       | /ˈdɒktər/ | médica, doctora | /ˈmedika, ˈdɒktərɐ/ |2147|
+| o arquiteto  | sm             | /aɾ.kiˈtɛ.tu/   | /aɾ.kiˈtɛ.tu/   | architect    | /ˈɑːkɪtɛkt/ | arquitecto (masc)| /aɾkitekˈto/ |     |
+| a arquiteta  | sf             | /aɾ.kiˈtɛ.tɐ/   | /aɾ.kiˈtɛ.tɐ/   | architect    | /ˈɑːkɪtɛkt/ | arquitecta (fem)| /aɾkitekˈta/ |     |
+| o advogado   | sm             | /ɐd.voˈɡa.du/   | /ɐd.voˈɡa.du/   | lawyer       | /ˈlɔɪər/ | abogado          | /aβoˈɣaðo/ |2148|
+| a advogada   | sf             | /ɐd.voˈɡa.dɐ/   | /ɐd.voˈɡa.dɐ/   | lawyer       | /ˈlɔɪər/ | abogada          | /aβoˈɣaða/ |2148|
+| o dentista   | sm             | /dẽˈtis.tu/     | /dẽˈtis.tu/     | dentist      | /ˈdɛntɪst/ | dentista (masc)  | /denˈtista/ |     |
+| o policial   | sm             | /po.liˈsi.al/   | /po.liˈsi.al/   | police officer | /pəˈliːs ˈɒfɪsər/ | policía        | /po.liˈθi.a/ |2150|
+| o artista    | sm             | /ɐɾˈtiʃ.tu/     | /aɾˈtiʃ.tu/     | artist       | /ˈɑːtɪst/ | artista (masc) | /aɾˈtista/ |2151|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Certainly, here's the updated table with both Portuguese from Portugal IPA and Portuguese from Brazil IPA for the Portuguese word, as requested:
 

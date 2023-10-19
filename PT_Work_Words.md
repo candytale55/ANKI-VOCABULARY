@@ -27,7 +27,7 @@
 | o advogado   | sm             | /ɐd.voˈɡa.du/   | /ɐd.voˈɡa.du/   | lawyer       | /ˈlɔɪər/ | abogado          | /aβoˈɣaðo/ |2148|
 | a advogada   | sf             | /ɐd.voˈɡa.dɐ/   | /ɐd.voˈɡa.dɐ/   | lawyer       | /ˈlɔɪər/ | abogada          | /aβoˈɣaða/ |2148|
 | o dentista   | sm             | /dẽˈtis.tu/     | /dẽˈtis.tu/     | dentist      | /ˈdɛntɪst/ | dentista (masc)  | /denˈtista/ |     |
-| o policial   | sm             | /po.liˈsi.al/   | /po.liˈsi.al/   | police officer | /pəˈliːs ˈɒfɪsər/ | policía        | /po.liˈθi.a/ |2150|
+| o/a policial   | sm/f             | /po.liˈsi.al/   | /po.liˈsi.al/   | police officer | /pəˈliːs ˈɒfɪsər/ | policía        | /po.liˈθi.a/ |2150|
 | o artista    | sm             | /ɐɾˈtiʃ.tu/     | /aɾˈtiʃ.tu/     | artist       | /ˈɑːtɪst/ | artista (masc) | /aɾˈtista/ |2151|
 
 

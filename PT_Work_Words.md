@@ -17,7 +17,7 @@
 | o músico     | sm             | /ˈmu.zi.ku/     | /ˈmu.zi.ku/     | musician     | /mjuːˈzɪʃən/ | músico           | /ˈmusiko/ | 3100  |
 | o professor  | sm             | /pɾuˈfe.sɔɾ/   | /pɾuˈfe.sɔʁ/   | teacher      | /ˈtiːtʃər/ | maestro          | /maˈestɾo/ |2146|
 | a professora | sf             | /pɾuˈfe.so.ɾɐ/  | /pɾuˈfe.so.ɾɐ/  | teacher      | /prəˈfesər/ | maestra          | /maˈestɾa/ |2146|
-| o estudante | sm/f           | /es.tuˈdɐ̃.tɨ/ | /es.tuˈdɐ̃.tʃi/ | student      | /ˈstjuːdnt/ | estudiante       | /estuˈðjante/ |2144|
+| o/a estudante | sm/f           | /es.tuˈdɐ̃.tɨ/ | /es.tuˈdɐ̃.tʃi/ | student      | /ˈstjuːdnt/ | estudiante       | /estuˈðjante/ |2144|
 | o professor  | sm             | /pɾuˈfɛ.soɾ/   | /pɾuˈfɛ.soʁ/   | professor    | /prəˈfɛsər/ | profesor (masc)  | /pɾofeˈsoɾ/ |2149|
 | a professora | sf             | /pɾuˈfɛ.so.ɾɐ/ | /pɾuˈfɛ.soʁɐ/ | professor    | /prəˈfesər/ | profesora (fem)  | /pɾofeˈsoɾa/ |2149|
 | o médico     | sm             | /ˈme.di.ku/     | /ˈme.dʒi.ku/   | doctor       | /ˈdɒktər/ | médico, doctor   | /ˈmediko, ˈdɒktər/ |2147|
@@ -75,8 +75,6 @@ Certainly, here's the updated table with both Portuguese from Portugal IPA and P
 | colega de trabalho | colega de trabalho | substantivo (masc/fem) | /koˈle.ɡɐ dɨ traˈbaʎu/ | /koˈle.ɡɐ dʒi traˈbaʎu/ | coworker        | colega de trabajo  | 2159|
 | salário          | salário          | substantivo (masc) | /saˈla.ɾju/           | /saˈla.ɾju/           | salary               | salario            | 2158|
 | horário de trabalho | horário de trabalho | substantivo (masc) | /oˈɾa.ɾju dɨ traˈbaʎu/ | /oˈɾa.ɾju dʒi traˈbaʎu/ | work schedule | horario de trabajo | 2159|
-| empregado        | empregado        | substantivo (masc) | /emˈpɾe.ɡa.du/         | /ẽˈpɾe.ɡa.du/         | employee             | empleado           | 2135|
-| empregada        | empregada        | substantivo (fem)  | /emˈpɾe.ɡa.dɐ/         | /ẽˈpɾe.ɡa.dɐ/         | employee             | empleada           | 2135|
 | cliente          | cliente          | substantivo         | /kliˈẽ.tɨ/            | /kliˈẽ.tʃi/           | client/customer      | cliente            | 2155|
 | escritório       | escritório       | substantivo (masc) | /es.kɾiʃˈto.ɾju/       | /es.kɾiʃˈto.ɾi.u/       | office               | oficina            | 2141|
 | reunião          | reunião          | substantivo (fem)  | /re.uˈni.ɐ̃w̃/         | /ʁe.uˈni.ɐ̃w̃/   | meeting  | reunión    | 2152|
@@ -84,40 +82,14 @@ Certainly, here's the updated table with both Portuguese from Portugal IPA and P
 | carreira         | carreira         | substantivo (fem)  | /kaˈɾɛ.jɾɐ/           | /kaˈɾej.ɾɐ/           | career               | carrera            | 2153|
 | folga            | folga            | substantivo (fem)  | /ˈfoɫ.ɡɐ/             | /ˈfoɫ.ɡɐ/             | day off              | día libre          | 2154|
 | escola           | escola           | substantivo (fem)  | /isˈko.ɫɐ/            | /isˈko.ɫɐ/            | school               | escuela            | 2143|
-| enfermeiro       | enfermeiro       | substantivo (masc) | /ẽ.ferˈmej.ɾu/   | /ẽ.ferˈmej.ɾu/  | nurse    | enfermero         |2177|
-| enfermeira       | enfermeira       | substantivo (fem) | /ẽ.ferˈmej.ɾɐ/    | /ẽ.ferˈmej.ɾɐ/  | nurse    | enfermera         |2177|
 | hospital         | hospital         | substantivo (masc) | /oˈspi.tɐw̃/      | /ospiˈtɐw̃/      | hospital | hospital          |2156|
-| engenheiro       | engenheiro       | substantivo (masc) | /ẽ.ʒeˈɲej.ɾu/    | /ẽ.ʒeˈɲej.ɾu/   | engineer | ingeniero         |2178|
-| engenheira       | engenheira        | substantivo (fem) | /ẽ.ʒẽˈɲej.ɾɐ/    | /ẽ.ʒẽˈɲej.ɾɐ/   | engineer | ingeniera         |2178|
-| designer         | designer         | substantivo        | /de.ziˈɲeɾ/      | /de.ziˈɲe.ɾu/   | designer | diseñador         |2179|
 | restaurante      | restaurante      | substantivo (masc) | /ʁes.tawˈɾɐ̃.tɨ/     | /ʁes.tawˈɾɐ̃.tʃi/     | restaurant    | restaurante        | 2157|
 | arte             | arte             | substantivo (fem)  | /ˈaɾ.tɨ/          | /ˈaʁ.tʃi/      | art      | arte               |2180|
 | construção       | construção       | substantivo (fem)  | /kõʃ.tɾuˈsɐ̃w̃/     | /koʃ.tɾuˈsɐ̃w̃/  | construction | construcción   |2181|
 | negócio          | negócio          | substantivo (masc) | /neˈɡɔ.sju/       | /neˈɡɔ.sju/    | business  | negocio           |2182|
-| empresário       | empresário       | substantivo (masc) | /ẽ.pre.zɐ.ˈɾju/   |  /ẽ.pre.zɐ.ˈɾju/ | businessman  | empresario     |2183|
-| empresária       | empresária       | substantivo (fem) | /ẽ.pre.zɐ.ˈɾi.ɐ/ | /ẽ.pre.zɐ.ˈɾi.ɐ/ | businesswoman | empresaria |2183|
 | agricultura      | agricultura      | substantivo (fem)  | /a.ɡri.kulˈtu.ɾɐ/      | /a.ɡri.kulˈtu.ɾɐ/      | agriculture          | agricultura        | 32  |
-| agricultor       | agricultor       | substantivo (masc) | /a.ɡri.kulˈtoɾ/        | /a.ɡri.kulˈtoɾ/        | farmer               | agricultor         | 33  |
-| música           | música           | substantivo (fem)  | /ˈmu.zi.kɐ/            | /ˈmu.zi.kɐ/            | music                | música             | 34  |
-| músico           | músico           | substantivo (masc) | /ˈmu.zi.ku/            | /ˈmu.zi.ku/            | musician             | músico             | 35  |
-| professor    | professor    | substantivo (masc) | /pɾuˈfe.sɔɾ/         | /pɾuˈfe.sɔʁ/         | teacher (professor) | maestro |2146|
-| professora | professora | substantivo (fem)  | /pɾuˈfe.so.ɾɐ/       | /pɾuˈfe.so.ɾɐ/       | teacher (professor) | maestra |2146|
-| estudante | estudante | substantivo (masc/fem) | /es.tuˈdɐ̃.tɨ/ | /es.tuˈdɐ̃.tʃi/ | student | estudiante |2144|
-| professor | professor | substantivo (masc) | /pɾuˈfɛ.soɾ/       | /pɾuˈfɛ.soʁ/       | professor  | profesor (masc)|2149|
-| professora | professora | substantivo (fem) | /pɾuˈfɛ.so.ɾɐ/ | /pɾuˈfɛ.soʁɐ/ | professor | profesora (fem)|2149|
-| médico  | médico  | substantivo (masc) | /ˈme.di.ku/           | /ˈme.dʒi.ku/         | doctor     | médico, doctor  |2147|
-| médica | médica | substantivo (fem)  | /ˈme.di.kɐ/           | /ˈme.dʒi.kɐ/           | doctor   | médica, doctora |2147|
-| arquiteto (masc)| arquiteto (masc)| substantivo (masc) | /aɾ.kiˈtɛ.tu/          | /aɾ.kiˈtɛ.tu/          | architect (male)  | arquitecto (masc)|     |
-| arquiteta (fem)| arquiteta (fem)| substantivo (fem)  | /aɾ.kiˈtɛ.tɐ/         | /aɾ.kiˈtɛ.tɐ/         | architect (female)| arquitecta (fem)|     |
-| engenheiro (masc)| engenheiro (masc)| substantivo (masc) | /ẽ.ʒẽˈɲej.ɾu/     | /ẽ.ʒẽˈɲej.ɾu/     | engineer (male)   | ingeniero (masc)|     |
-| advogado| advogado| substantivo (masc) | /ɐd.voˈɡa.du/       | /ɐd.voˈɡa.du/       | lawyer | abogado|2148|
-| advogada| advogada| substantivo (fem) | /ɐd.voˈɡa.dɐ/       | /ɐd.voˈɡa.dɐ/       | lawyer  | abogada |2148|
-| dentista (masc)| dentista (masc)| substantivo (masc) | /dẽˈtis.tu/           | /dẽˈtis.tu/           | dentist (male)    | dentista (masc)|     |
-| dentista (fem)| dentista (fem)| substantivo (fem) | /dẽˈtis.tɐ/           | /dẽˈtis.tɐ/           | dentist (female)  | dentista (fem)|     |
-| policial| policial| substantivo| /po.liˈsi.al/             | /po.liˈsi.al/             | police officer | policía |2150|
-| artista | artista | substantivo| /ɐɾˈtiʃ.tu/               | /aɾˈtiʃ.tu/               | artist    | artista (masc) |2151|
 
-Now you can easily append this list to your existing one while maintaining the format and columns.
+
 
 
 

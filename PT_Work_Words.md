@@ -38,12 +38,12 @@
 | a instrutora de ioga   | sf               | /ĩʃ.tɾu.ˈto.ɾɐ dɨ iˈo.ɡɐ/ | /ĩʃ.tɾu.ˈto.ɾɐ dɨ iˈo.ɡɐ/ | yoga instructor | /ˈjoʊ.ɡə ˌɪnˈstrʌktər/ | instructora de yoga | /instɾukˈtoɾa ðe ˈʝoɣa/ |     |
 | o instrutor de ioga    | sm               | /ĩʃ.tɾu.ˈtoɾ dɨ iˈo.ɡɐ/ | /ĩʃ.tɾu.ˈtoɾ dɨ iˈo.ɡɐ/ | yoga instructor | /ˈjoʊ.ɡə ˌɪnˈstrʌktər/ | instructor de yoga | /instɾukˈtoɾ ðe ˈʝoɣa/ |     |
 | o/a pianista           | sm/f             | /pi.ɐ.ˈniʃ.tɐ/   | /pi.ɐ.ˈniʃ.tɐ/   | pianist      | /piˈænɪst/ | pianista            | /pjaˈnista/ |     |
-| o/a empregado de mesa  | sm               | /ẽ.pɾe.ˈɡa.du dɨ ˈme.zɐ/ | /ẽ.pɾe.ˈɡa.du dɨ ˈme.zɐ/ | waiter       | /ˈweɪ.tər/ | camarero            | /kamaˈɾeɾo/ |     |
-| o/a empregada de mesa  | sf               | /ẽ.pɾe.ˈɡa.dɐ dɨ ˈme.zɐ/ | /ẽ.pɾe.ˈɡa.dɐ dɨ ˈme.zɐ/ | waitress     | /ˈweɪ.trɪs/ | camarera            | /kamaˈɾeɾa/ |     |
+| o empregado de mesa  | sm               | /ẽ.pɾe.ˈɡa.du dɨ ˈme.zɐ/ | /ẽ.pɾe.ˈɡa.du dɨ ˈme.zɐ/ | waiter       | /ˈweɪ.tər/ | camarero            | /kamaˈɾeɾo/ |     |
+| a empregada de mesa  | sf               | /ẽ.pɾe.ˈɡa.dɐ dɨ ˈme.zɐ/ | /ẽ.pɾe.ˈɡa.dɐ dɨ ˈme.zɐ/ | waitress     | /ˈweɪ.trɪs/ | camarera            | /kamaˈɾeɾa/ |     |
 | o garçom               | sm               | /gaɾˈsõ/         | /gaʁˈsõ/         | waiter       | /ˈweɪtər/ | camarero            | /kamaˈɾeɾo/ |     |
 | a garçonete            | sf               | /gaɾ.soˈnɛ.tɨ/    | /gaʁ.soˈnɛ.tʃi/  | waitress     | /ˈweɪ.trɪs/ | camarera            | /kamaˈɾeɾa/ |     |
-| o/a engenheiro informático | sm         | /ẽ.ʒeˈɲej.ɾu ĩ.fɔɾ.mɐˈtiku/ | /ẽ.ʒẽˈɲej.ɾu ĩ.fɔɾˈmatʃiku/ | computer engineer | /kəmˈpjuː.tər ˌɛndʒɪˈnɪər/ | ingeniero informático | /inxeɾˈnjeɾo inforˈmatiko/ |     |
-| o/a engenheira informática | sf         | /ẽ.ʒẽˈɲej.ɾɐ ĩ.fɔɾ.mɐˈtikɐ/ | /ẽ.ʒẽˈɲej.ɾɐ ĩ.fɔɾˈmatʃikɐ/ | computer engineer | /kəmˈpjuː.tər ˌɛndʒɪˈnɪər/ | ingeniera informática | /inxeɾˈnjeɾa inforˈmatika/ |     |
+| o engenheiro informático | sm         | /ẽ.ʒeˈɲej.ɾu ĩ.fɔɾ.mɐˈtiku/ | /ẽ.ʒẽˈɲej.ɾu ĩ.fɔɾˈmatʃiku/ | computer engineer | /kəmˈpjuː.tər ˌɛndʒɪˈnɪər/ | ingeniero informático | /inxeɾˈnjeɾo inforˈmatiko/ |     |
+| a engenheira informática | sf         | /ẽ.ʒẽˈɲej.ɾɐ ĩ.fɔɾ.mɐˈtikɐ/ | /ẽ.ʒẽˈɲej.ɾɐ ĩ.fɔɾˈmatʃikɐ/ | computer engineer | /kəmˈpjuː.tər ˌɛndʒɪˈnɪər/ | ingeniera informática | /inxeɾˈnjeɾa inforˈmatika/ |     |
 | a cozinheira           | sf               | /ko.zi.ˈɲej.ɾɐ/  | /ko.zi.ˈɲej.ɾɐ/  | cook         | /kʊk/      | cocinera            | /koθiˈneɾa/ |     |
 | o cozinheiro           | sm               | /ko.zi.ˈɲej.ɾu/  | /ko.zi.ˈɲej.ɾu/  | cook         | /kʊk/      | cocinero            | /koθiˈneɾo/ |     |
 | o/a florista           | sm/f             | /flo.ˈɾiʃ.tɐ/    | /flo.ˈɾiʃ.tɐ/    | florist      | /ˈflɔrɪst/ | florista            | /floˈɾista/ |     |

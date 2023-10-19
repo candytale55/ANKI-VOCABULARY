@@ -22,16 +22,13 @@
 | a professora | sf             | /pɾuˈfɛ.so.ɾɐ/ | /pɾuˈfɛ.soʁɐ/ | professor    | /prəˈfesər/ | profesora (fem)  | /pɾofeˈsoɾa/ |2149|
 | o médico     | sm             | /ˈme.di.ku/     | /ˈme.dʒi.ku/   | doctor       | /ˈdɒktər/ | médico, doctor   | /ˈmediko, ˈdɒktər/ |2147|
 | a médica     | sf             | /ˈme.di.kɐ/     | /ˈme.dʒi.kɐ/   | doctor       | /ˈdɒktər/ | médica, doctora | /ˈmedika, ˈdɒktərɐ/ |2147|
-| o arquiteto  | sm             | /aɾ.kiˈtɛ.tu/   | /aɾ.kiˈtɛ.tu/   | architect    | /ˈɑːkɪtɛkt/ | arquitecto (masc)| /aɾkitekˈto/ |     |
-| a arquiteta  | sf             | /aɾ.kiˈtɛ.tɐ/   | /aɾ.kiˈtɛ.tɐ/   | architect    | /ˈɑːkɪtɛkt/ | arquitecta (fem)| /aɾkitekˈta/ |     |
+| o arquiteto  | sm             | /aɾ.kiˈtɛ.tu/   | /aɾ.kiˈtɛ.tu/   | architect    | /ˈɑːkɪtɛkt/ | arquitecto | /aɾkitekˈto/ |3729|
+| a arquiteta  | sf             | /aɾ.kiˈtɛ.tɐ/   | /aɾ.kiˈtɛ.tɐ/   | architect    | /ˈɑːkɪtɛkt/ | arquitecta | /aɾkitekˈta/ |3729|
 | o advogado   | sm             | /ɐd.voˈɡa.du/   | /ɐd.voˈɡa.du/   | lawyer       | /ˈlɔɪər/ | abogado          | /aβoˈɣaðo/ |2148|
 | a advogada   | sf             | /ɐd.voˈɡa.dɐ/   | /ɐd.voˈɡa.dɐ/   | lawyer       | /ˈlɔɪər/ | abogada          | /aβoˈɣaða/ |2148|
 | o dentista   | sm             | /dẽˈtis.tu/     | /dẽˈtis.tu/     | dentist      | /ˈdɛntɪst/ | dentista (masc)  | /denˈtista/ |     |
 | o policial   | sm             | /po.liˈsi.al/   | /po.liˈsi.al/   | police officer | /pəˈliːs ˈɒfɪsər/ | policía        | /po.liˈθi.a/ |2150|
 | o artista    | sm             | /ɐɾˈtiʃ.tu/     | /aɾˈtiʃ.tu/     | artist       | /ˈɑːtɪst/ | artista (masc) | /aɾˈtista/ |2151|
-
-
-
 
 
 

@@ -67,8 +67,8 @@
 
 Certainly! Here's the updated table with the articles in bold for each word:
 
-| Portuguese (PT)  | Tipo de Palavra    | IPA (PT)             | IPA (BR)             | English              | Spanish            | No. |
-|------------------|------------------|--------------------|----------------------|----------------------|----------------------|--------------------|-----|
+| Portuguese (PT)  | Tipo | IPA (PT)  | IPA (BR)    | English              | Spanish            | No. |
+|------------------|------|-----------|-------------|----------------------|--------------------|-----|
 | **o** trabalho   | sm  | /traˈbaʎu/           | /traˈbaʎu/           | work     | trabajo            | 2136|
 | **o** emprego    | sm  | /emˈpɾeɡu/   | /ẽˈpɾeɡu/            | job                | empleo       | 2137|
 | **a** profissão  | sf  | /pɾuˈfi.sɐ̃w̃/         | /pɾuˈfi.sɐ̃w̃/         | profession           | profesión          | 2138|

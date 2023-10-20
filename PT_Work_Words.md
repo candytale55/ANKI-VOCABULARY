@@ -67,30 +67,38 @@
 
 | Portuguese (PT)  | Portuguese (BR) | Tipo de Palavra    | IPA (PT)             | IPA (BR)             | English              | Spanish            | No. |
 |------------------|------------------|--------------------|----------------------|----------------------|----------------------|--------------------|-----|
-| trabalho   | trabalho    | substantivo (masc) | /traˈbaʎu/           | /traˈbaʎu/           | work     | trabajo            | 2136|
-| emprego   | emprego          | substantivo (masc) | /emˈpɾeɡu/   | /ẽˈpɾeɡu/            | job                | empleo       | 2137|
-| profissão        | profissão        | substantivo (fem)  | /pɾuˈfi.sɐ̃w̃/         | /pɾuˈfi.sɐ̃w̃/         | profession           | profesión          | 2138|
-| empresa          | empresa          | substantivo (fem)  | /ẽˈpɾe.zɐ/           | /ẽˈpɾe.zɐ/           | company              | empresa            | 2139|
-| chefe            | chefe            | substantivo (masc) | /ˈʃɛ.fɨ/             | /ˈʃɛ.fɪ/             | boss                 | jefe, jefa         | 2140|
+| trabalho   | trabalho    | sm  | /traˈbaʎu/           | /traˈbaʎu/           | work     | trabajo            | 2136|
+| emprego    | emprego          | sm  | /emˈpɾeɡu/   | /ẽˈpɾeɡu/            | job                | empleo       | 2137|
+| profissão  | profissão        |  sf    | /pɾuˈfi.sɐ̃w̃/         | /pɾuˈfi.sɐ̃w̃/         | profession           | profesión          | 2138|
+| empresa    | empresa          |  sf  | /ẽˈpɾe.zɐ/           | /ẽˈpɾe.zɐ/           | company              | empresa            | 2139|
+| chefe      | chefe            | sm  | /ˈʃɛ.fɨ/             | /ˈʃɛ.fɪ/             | boss                 | jefe, jefa         | 2140|
 | colega de trabalho | colega de trabalho | substantivo (masc/fem) | /koˈle.ɡɐ dɨ traˈbaʎu/ | /koˈle.ɡɐ dʒi traˈbaʎu/ | coworker        | colega de trabajo  | 2159|
-| salário          | salário          | substantivo (masc) | /saˈla.ɾju/           | /saˈla.ɾju/           | salary               | salario            | 2158|
+| salário    | salário          | sm  | /saˈla.ɾju/           | /saˈla.ɾju/           | salary               | salario            | 2158|
 | horário de trabalho | horário de trabalho | substantivo (masc) | /oˈɾa.ɾju dɨ traˈbaʎu/ | /oˈɾa.ɾju dʒi traˈbaʎu/ | work schedule | horario de trabajo | 2159|
-| cliente          | cliente          | substantivo         | /kliˈẽ.tɨ/            | /kliˈẽ.tʃi/           | client/customer      | cliente            | 2155|
-| escritório       | escritório       | substantivo (masc) | /es.kɾiʃˈto.ɾju/       | /es.kɾiʃˈto.ɾi.u/       | office               | oficina            | 2141|
-| reunião          | reunião          | substantivo (fem)  | /re.uˈni.ɐ̃w̃/         | /ʁe.uˈni.ɐ̃w̃/   | meeting  | reunión    | 2152|
-| contrato         | contrato         | substantivo (masc) | /kõ.ˈtɾa.tu/           | /kõ.ˈtɾa.tu/           | contract             | contrato           | 2142|
-| carreira         | carreira         | substantivo (fem)  | /kaˈɾɛ.jɾɐ/           | /kaˈɾej.ɾɐ/           | career               | carrera            | 2153|
-| folga            | folga            | substantivo (fem)  | /ˈfoɫ.ɡɐ/             | /ˈfoɫ.ɡɐ/             | day off              | día libre          | 2154|
-| escola           | escola           | substantivo (fem)  | /isˈko.ɫɐ/            | /isˈko.ɫɐ/            | school               | escuela            | 2143|
-| hospital         | hospital         | substantivo (masc) | /oˈspi.tɐw̃/      | /ospiˈtɐw̃/      | hospital | hospital          |2156|
-| restaurante      | restaurante      | substantivo (masc) | /ʁes.tawˈɾɐ̃.tɨ/     | /ʁes.tawˈɾɐ̃.tʃi/     | restaurant    | restaurante        | 2157|
-| arte             | arte             | substantivo (fem)  | /ˈaɾ.tɨ/          | /ˈaʁ.tʃi/      | art      | arte               |2180|
-| construção       | construção       | substantivo (fem)  | /kõʃ.tɾuˈsɐ̃w̃/     | /koʃ.tɾuˈsɐ̃w̃/  | construction | construcción   |2181|
-| negócio          | negócio          | substantivo (masc) | /neˈɡɔ.sju/       | /neˈɡɔ.sju/    | business  | negocio           |2182|
-| agricultura      | agricultura      | substantivo (fem)  | /a.ɡri.kulˈtu.ɾɐ/      | /a.ɡri.kulˈtu.ɾɐ/      | agriculture          | agricultura        | 32  |
+| cliente    | cliente          |  sm/f  | /kliˈẽ.tɨ/            | /kliˈẽ.tʃi/           | client/customer      | cliente            | 2155|
+| escritório | escritório       |  sm  | /es.kɾiʃˈto.ɾju/       | /es.kɾiʃˈto.ɾi.u/       | office               | oficina      | 2141|
+| reunião    | reunião          |  sf   | /re.uˈni.ɐ̃w̃/         | /ʁe.uˈni.ɐ̃w̃/   | meeting  | reunión    | 2152|
+| contrato   | contrato         |  sm  | /kõ.ˈtɾa.tu/           | /kõ.ˈtɾa.tu/           | contract             | contrato           | 2142|
+| carreira   | carreira         |  sf  | /kaˈɾɛ.jɾɐ/           | /kaˈɾej.ɾɐ/           | career               | carrera            | 2153|
+| folga      | folga            | sf  | /ˈfoɫ.ɡɐ/             | /ˈfoɫ.ɡɐ/             | day off              | día libre          | 2154|
+| escola     | escola           | sf  | /isˈko.ɫɐ/            | /isˈko.ɫɐ/            | school               | escuela            | 2143|
+| hospital   | hospital         |  sm   | /oˈspi.tɐw̃/      | /ospiˈtɐw̃/      | hospital | hospital          |2156|
+| restaurante      | restaurante      | sm  | /ʁes.tawˈɾɐ̃.tɨ/     | /ʁes.tawˈɾɐ̃.tʃi/     | restaurant    | restaurante        | 2157|
+| arte       | arte             |  sf  | /ˈaɾ.tɨ/          | /ˈaʁ.tʃi/      | art      | arte               |2180|
+| construção | construção       | sf  | /kõʃ.tɾuˈsɐ̃w̃/     | /koʃ.tɾuˈsɐ̃w̃/  | construction | construcción   |2181|
+| negócio    | negócio          | sm  | /neˈɡɔ.sju/       | /neˈɡɔ.sju/    | business  | negocio           |2182|
+| agricultura| agricultura      | sf  | /a.ɡri.kulˈtu.ɾɐ/      | /a.ɡri.kulˈtu.ɾɐ/      | agriculture          | agricultura        | 32  |
 
 
 
+
+
+| Portuguese  | Tipo de Palavra    | IPA              | English              | IPA (USA)      | Spanish       | Spanish IPA        | No. |
+|-------------|--------------------|------------------|----------------------|---------------|---------------|--------------------|-----|
+| agricultura       | substantivo (fem)  | /a.ɡri.kulˈtu.ɾɐ/| agriculture          | /ˈæɡrɪˌkʌltʃər/| agricultura   | /aɡriˈkultuɾa/ | 32|
+| agricultor        | substantivo (masc) | /a.ɡri.kulˈtoɾ/  | farmer               | /ˈfɑːrmər/    | agricultor    | /aɡriˈkultoɾ/  | 33 |
+| música            | substantivo (fem)  | /ˈmu.zi.kɐ/      | music                | /ˈmjuːzɪk/    | música        | /ˈmusika/       | 34|
+| músico            | substantivo (masc) | /ˈmu.zi.ku/      | musician             | /mjuˈzɪʃən/   | músico        | /ˈmusiko/       | 35|
 
 In Portuguese, "trabalho" and "emprego" are related but have different meanings:
 

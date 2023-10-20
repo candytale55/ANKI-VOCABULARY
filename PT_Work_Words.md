@@ -65,30 +65,31 @@
 ## General Words
 
 
+Certainly! Here's the updated table with the articles in bold for each word:
+
 | Portuguese (PT)  | Portuguese (BR) | Tipo de Palavra    | IPA (PT)             | IPA (BR)             | English              | Spanish            | No. |
 |------------------|------------------|--------------------|----------------------|----------------------|----------------------|--------------------|-----|
-| trabalho   | trabalho    | sm  | /traˈbaʎu/           | /traˈbaʎu/           | work     | trabajo            | 2136|
-| emprego    | emprego          | sm  | /emˈpɾeɡu/   | /ẽˈpɾeɡu/            | job                | empleo       | 2137|
-| profissão  | profissão        |  sf    | /pɾuˈfi.sɐ̃w̃/         | /pɾuˈfi.sɐ̃w̃/         | profession           | profesión          | 2138|
-| empresa    | empresa          |  sf  | /ẽˈpɾe.zɐ/           | /ẽˈpɾe.zɐ/           | company              | empresa            | 2139|
-| chefe      | chefe            | sm  | /ˈʃɛ.fɨ/             | /ˈʃɛ.fɪ/             | boss                 | jefe, jefa         | 2140|
-| colega de trabalho | colega de trabalho | substantivo (masc/fem) | /koˈle.ɡɐ dɨ traˈbaʎu/ | /koˈle.ɡɐ dʒi traˈbaʎu/ | coworker        | colega de trabajo  | 2159|
-| salário    | salário          | sm  | /saˈla.ɾju/           | /saˈla.ɾju/           | salary               | salario            | 2158|
-| horário de trabalho | horário de trabalho | substantivo (masc) | /oˈɾa.ɾju dɨ traˈbaʎu/ | /oˈɾa.ɾju dʒi traˈbaʎu/ | work schedule | horario de trabajo | 2159|
-| cliente    | cliente          |  sm/f  | /kliˈẽ.tɨ/            | /kliˈẽ.tʃi/           | client/customer      | cliente            | 2155|
-| escritório | escritório       |  sm  | /es.kɾiʃˈto.ɾju/       | /es.kɾiʃˈto.ɾi.u/       | office               | oficina      | 2141|
-| reunião    | reunião          |  sf   | /re.uˈni.ɐ̃w̃/         | /ʁe.uˈni.ɐ̃w̃/   | meeting  | reunión    | 2152|
-| contrato   | contrato         |  sm  | /kõ.ˈtɾa.tu/           | /kõ.ˈtɾa.tu/           | contract             | contrato           | 2142|
-| carreira   | carreira         |  sf  | /kaˈɾɛ.jɾɐ/           | /kaˈɾej.ɾɐ/           | career               | carrera            | 2153|
-| folga      | folga            | sf  | /ˈfoɫ.ɡɐ/             | /ˈfoɫ.ɡɐ/             | day off              | día libre          | 2154|
-| escola     | escola           | sf  | /isˈko.ɫɐ/            | /isˈko.ɫɐ/            | school               | escuela            | 2143|
-| hospital   | hospital         |  sm   | /oˈspi.tɐw̃/      | /ospiˈtɐw̃/      | hospital | hospital          |2156|
-| restaurante      | restaurante      | sm  | /ʁes.tawˈɾɐ̃.tɨ/     | /ʁes.tawˈɾɐ̃.tʃi/     | restaurant    | restaurante        | 2157|
-| arte       | arte             |  sf  | /ˈaɾ.tɨ/          | /ˈaʁ.tʃi/      | art      | arte               |2180|
-| construção | construção       | sf  | /kõʃ.tɾuˈsɐ̃w̃/     | /koʃ.tɾuˈsɐ̃w̃/  | construction | construcción   |2181|
-| negócio    | negócio          | sm  | /neˈɡɔ.sju/       | /neˈɡɔ.sju/    | business  | negocio           |2182|
-| agricultura| agricultura      | sf  | /a.ɡri.kulˈtu.ɾɐ/      | /a.ɡri.kulˈtu.ɾɐ/      | agriculture          | agricultura        | 32  |
-
+| **o** trabalho   | trabalho    | sm  | /traˈbaʎu/           | /traˈbaʎu/           | work     | trabajo            | 2136|
+| **o** emprego    | emprego          | sm  | /emˈpɾeɡu/   | /ẽˈpɾeɡu/            | job                | empleo       | 2137|
+| **a** profissão  | profissão        |  sf    | /pɾuˈfi.sɐ̃w̃/         | /pɾuˈfi.sɐ̃w̃/         | profession           | profesión          | 2138|
+| **a** empresa    | empresa          |  sf  | /ẽˈpɾe.zɐ/           | /ẽˈpɾe.zɐ/           | company              | empresa            | 2139|
+| **o** chefe      | chefe            | sm  | /ˈʃɛ.fɨ/             | /ˈʃɛ.fɪ/             | boss                 | jefe, jefa         | 2140|
+| **o** colega de trabalho | colega de trabalho | substantivo (masc/fem) | /koˈle.ɡɐ dɨ traˈbaʎu/ | /koˈle.ɡɐ dʒi traˈbaʎu/ | coworker        | colega de trabajo  | 2159|
+| **o** salário    | salário          | sm  | /saˈla.ɾju/           | /saˈla.ɾju/           | salary               | salario            | 2158|
+| **o** horário de trabalho | horário de trabalho | substantivo (masc) | /oˈɾa.ɾju dɨ traˈbaʎu/ | /oˈɾa.ɾju dʒi traˈbaʎu/ | work schedule | horario de trabajo | 2159|
+| **o** cliente    | cliente          |  sm/f  | /kliˈẽ.tɨ/            | /kliˈẽ.tʃi/           | client/customer      | cliente            | 2155|
+| **o** escritório | escritório       |  sm  | /es.kɾiʃˈto.ɾju/       | /es.kɾiʃˈto.ɾi.u/       | office               | oficina      | 2141|
+| **a** reunião    | reunião          |  sf   | /re.uˈni.ɐ̃w̃/         | /ʁe.uˈni.ɐ̃w̃/   | meeting  | reunión    | 2152|
+| **o** contrato   | contrato         |  sm  | /kõ.ˈtɾa.tu/           | /kõ.ˈtɾa.tu/           | contract             | contrato           | 2142|
+| **a** carreira   | carreira         |  sf  | /kaˈɾɛ.jɾɐ/           | /kaˈɾej.ɾɐ/           | career               | carrera            | 2153|
+| **a** folga      | folga            | sf  | /ˈfoɫ.ɡɐ/             | /ˈfoɫ.ɡɐ/             | day off              | día libre          | 2154|
+| **a** escola     | escola           | sf  | /isˈko.ɫɐ/            | /isˈko.ɫɐ/            | school               | escuela            | 2143|
+| **o** hospital   | hospital         |  sm   | /oˈspi.tɐw̃/      | /ospiˈtɐw̃/      | hospital | hospital          |2156|
+| **o** restaurante      | restaurante      | sm  | /ʁes.tawˈɾɐ̃.tɨ/     | /ʁes.tawˈɾɐ̃.tʃi/     | restaurant    | restaurante        | 2157|
+| **a** arte       | arte             |  sf  | /ˈaɾ.tɨ/          | /ˈaʁ.tʃi/      | art      | arte               |2180|
+| **a** construção | construção       | sf  | /kõʃ.tɾuˈsɐ̃w̃/     | /koʃ.tɾuˈsɐ̃w̃/  | construction | construcción   |2181|
+| **o** negócio    | negócio          | sm  | /neˈɡɔ.sju/       | /neˈɡɔ.sju/    | business  | negocio           |2182|
+| **a** agricultura| agricultura      | sf  | /a.ɡri.kulˈtu.ɾɐ/      | /a.ɡri.kulˈtu.ɾɐ/      | agriculture          | agricultura        | 32  |
 
 
 

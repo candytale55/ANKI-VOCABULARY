@@ -46,7 +46,7 @@
 
 ## French Speaking Countries:
 
-| Portuguese   | Gênero/Número | IPA (PT) | IPA (BR)  | English               | English IPA | Spanish            | Spanish IPA | No. |
+| Portuguese   | Gênero| IPA (PT) | IPA (BR)  | English               | English IPA | Spanish            | Spanish IPA | No. |
 |--------------|---------------|----------|-----------|-----------------------|-------------|--------------------|-------------|-----|
 | **o** Haiti        | sm | /ˈa.i.ti/        | /ˈaj.ti/         | Haiti       | /ˈheɪti/        | Haití        | /aˈiti/         |8221|
 
@@ -56,7 +56,7 @@
 
 
 
-| Portuguese   | Gênero/Número | IPA (PT) | IPA (BR)  | English               | English IPA | Spanish            | Spanish IPA | No. |
+| Portuguese   | Gênero | IPA (PT) | IPA (BR)  | English               | English IPA | Spanish            | Spanish IPA | No. |
 |--------------|---------------|----------|-----------|-----------------------|-------------|--------------------|-------------|-----|
 | **a** Albânia    | sf   | /alˈbɐni.ɐ/   | /awˈbɐni.ɐ/   | Albania     | /ælˈbeɪni.ə/      | Albania    | /alˈβa.ni.a/ |8178|
 | Andorra          | sf   | /ɐ̃ˈdoʁ.ɐ/     | /ɐ̃ˈdoʁ.ɐ/     | Andorra     | /ænˈdɔːrə/        | Andorra    | /anˈdor.a/   |8179|
@@ -84,7 +84,7 @@
 
 ## North American Countries
 
-| Portuguese | Tipo de Palavra | IPA (PT) | IPA (BR)      | English     | English IPA     | Spanish      | Spanish IPA | No. |
+| Portuguese | Gênero | IPA (PT) | IPA (BR)      | English     | English IPA     | Spanish      | Spanish IPA | No. |
 |------------|-----------------|----------|---------------|-------------|-----------------|--------------|-------------|-----|
 | **o** Canadá           | sm  | /kɐ.nɐˈdɐ/           | /kɐ.nɐˈdɐ/       | Canada      | /ˈkænədə/       | Canadá       | /ka.naˈða/ |      |
 | **os** Estados Unidos  | smp | /is.tɐˈðuʒ u.niˈduʃ/ | /is.tɐˈdus u.niˈdus/ | United States | /juˈnaɪ.tɪd steɪts/ | Estados Unidos | /esˈta.ðos u.niˈðos/ |      |
@@ -94,7 +94,7 @@
 ## Latin American Countries:
 
 
-| Portuguese       | Tipo de Palavra | IPA (PT)       | IPA (BR)       | English               | English IPA   | Spanish                 | Spanish IPA  | No.  |
+| Portuguese       | Gênero | IPA (PT)       | IPA (BR)       | English               | English IPA   | Spanish                 | Spanish IPA  | No.  |
 |------------------|----------------|----------------|----------------|-----------------------|--------------|-------------------------|--------------|------|
 | **o** México       | sm | /ˈmɛ.ʃi.ku/      | /ˈmɛ.ʃi.ku/      | Mexico      | /ˈmɛksɪkoʊ/     | México       | /ˈmexiko/       |8198|
 | **a** Guatemala    | sf | /ɡwɐ.te.mɐ.lɐ/   | /ɡwa.te.ˈma.lɐ/  | Guatemala   | /ˌɡwɑːtəˈmɑːlə/ | Guatemala    | /ɡwa.te.ˈma.la/ |8199|

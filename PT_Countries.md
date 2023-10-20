@@ -88,8 +88,8 @@
 
 | Portuguese | Gênero | IPA (PT) | IPA (BR)      | English     | English IPA     | Spanish      | Spanish IPA | No. |
 |------------|--------|----------|---------------|-------------|-----------------|--------------|-------------|-----|
-| **o** Canadá   | sm  | /kɐ.nɐˈdɐ/           | /kɐ.nɐˈdɐ/       | Canada      | /ˈkænədə/       | Canadá       | /ka.naˈða/ |      |
-| **os** Estados Unidos  | smp | /is.tɐˈðuʒ u.niˈduʃ/ | /is.tɐˈdus u.niˈdus/ | United States | /juˈnaɪ.tɪd steɪts/ | Estados Unidos | /esˈta.ðos u.niˈðos/ | |
+| **o** Canadá   | sm  | /kɐ.nɐˈdɐ/           | /kɐ.nɐˈdɐ/       | Canada      | /ˈkænədə/       | Canadá       | /ka.naˈða/ |8235|
+| **os** Estados Unidos  | smp | /is.tɐˈðuʒ u.niˈduʃ/ | /is.tɐˈdus u.niˈdus/ | United States | /juˈnaɪ.tɪd steɪts/ | Estados Unidos | /esˈta.ðos u.niˈðos/ |8234|
 | **o** México   | sm  | /ˈmɛ.ʃi.ku/          | /ˈmɛ.ʃi.ku/      | Mexico      | /ˈmɛksɪkoʊ/     | México       | /ˈmexiko/       |8198|
 
 

@@ -113,21 +113,4 @@ In Portuguese, "trabalho" and "emprego" are related but have different meanings:
    - For example, "Eu tenho um emprego como professor" (I have a job as a teacher) refers to a specific position within the field of education.
 
 
-| Portuguese      | Tipo de Palavra  | IPA             | English            | IPA (USA)    | Spanish       | Spanish IPA      | No. |
-|-----------------|------------------|-----------------|--------------------|-------------|---------------|------------------|-----|
-| professor    | substantivo (masc) | /pɾuˈfe.sɔɾ/     | teacher (professor) | /ˈtiːtʃər/    | maestro | /maˈestɾo/ |2146|
-| professora | substantivo (fem) | /pɾuˈfe.so.ɾɐ/ | teacher (professor) | /ˈtiːtʃər/ | maestra | /maˈestɾa/ |2146|
-| estudante | substantivo (masc/fem) | /es.tuˈdɐ̃.tɨ/ | student | /ˈstuː.dənt/ | estudiante | /es.tuˈdjan.te/ |2144|
-| professor | substantivo (masc) | /pɾuˈfɛ.soɾ/  | professor  |  /prəˈfɛsər/ | profesor (masc)| /pɾo.feˈsoɾ/ |2149|
-| professora | substantivo (fem) | /pɾuˈfɛ.so.ɾɐ/ | professor |  /prəˈfɛsər/ | profesora (fem)| /pɾo.feˈso.ɾa/ |2149|
-| médico  | substantivo (masc) | /ˈme.di.ku/ | doctor     | /ˈdɑktər/   | médico, doctor  | /ˈmeðiko/ |2147|
-| médica | substantivo (fem) | /ˈme.di.kɐ/     | doctor   | /ˈdɑktər/   | médica, doctora | /ˈmeðika/ |2147|
-| arquiteto (masc)| substantivo (masc) | /aɾ.kiˈtɛ.tu/  | architect (male)  | /ˈɑːr.kɪˌtɛkt/ | arquitecto (masc)| /ar.kiˈtek.to/ |     |
-| arquiteta (fem)| substantivo (fem) | /aɾ.kiˈtɛ.tɐ/  | architect (female)| /ˈɑːr.kɪˌtɛkt/ | arquitecta (fem)| /ar.kiˈtek.ta/ |     |
-| advogado| substantivo (masc) | /ɐd.voˈɡa.du/  | lawyer | /ˈlɔɪ.ər/   | abogado| /a.boˈɣa.ðo/   |2148|
-| advogada| substantivo (fem) | /ɐd.voˈɡa.dɐ/  | lawyer  | /ˈlɔɪ.ər/   | abogada | /a.boˈɣa.ða/   |2148|
-| dentista (masc) | substantivo (masc) | /dẽˈtis.tu/    | dentist (male)    | /ˈdɛn.tɪst/ | dentista (masc)| /denˈtista/    |     |
-| dentista (fem)  | substantivo (fem) | /dẽˈtis.tɐ/    | dentist (female)  | /ˈdɛn.tɪst/ | dentista (fem) | /denˈtista/    |     |
-| policial| substantivo| /po.liˈsi.al/  | police officer | /pəˈliːs ˈɔfəsər/ | policía | /po.liˈsia/ |2150|
-| artista | substantivo| /ɐɾˈtiʃ.tu/    | artist    | /ˈɑr.tɪst/   | artista (masc) | /arˈtista/     |2151|
 

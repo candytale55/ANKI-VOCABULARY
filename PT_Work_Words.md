@@ -27,13 +27,12 @@
 | a arquiteta  | sf    | /aɾ.kiˈtɛ.tɐ/   | /aɾ.kiˈtɛ.tɐ/   | architect    | /ˈɑːkɪtɛkt/ | arquitecta | /aɾkitekˈta/ |3729|
 | o advogado   | sm    | /ɐd.voˈɡa.du/   | /ɐd.voˈɡa.du/   | lawyer       | /ˈlɔɪər/ | abogado          | /aβoˈɣaðo/ |2148|
 | a advogada   | sf    | /ɐd.voˈɡa.dɐ/   | /ɐd.voˈɡa.dɐ/   | lawyer       | /ˈlɔɪər/ | abogada          | /aβoˈɣaða/ |2148|
-| o dentista   | sm    | /dẽˈtis.tu/     | /dẽˈtis.tu/     | dentist      | /ˈdɛntɪst/ | dentista (masc)  | /denˈtista/ |     |
 | o/a policial | sm/f| /po.liˈsi.al/   | /po.liˈsi.al/   | police officer | /pəˈliːs ˈɒfɪsər/ | policía        | /po.liˈθi.a/ |2150|
 | o/a artista  | sm/f| /ɐɾˈtiʃ.tu/     | /aɾˈtiʃ.tu/     | artist       | /ˈɑːtɪst/ | artista (masc) | /aɾˈtista/ |2151|
 | o/a motorista| sm/f  | /mu.to.ˈɾiʃ.tɐ/  | /mu.to.ˈɾiʃ.tɐ/  | driver       | /ˈdraɪvər/ | conductor           | /kon.dukˈtoɾ/ |     |
 | o escritor   | sm    | /ɨʃ.kɾiʃˈtoɾ/   | /es.kɾiʃˈtoɾ/    | writer       | /ˈraɪtər/  | escritor            | /es.kɾiˈtoɾ/ |     |
 | a escritora  | sf    | /ɨʃ.kɾiʃˈto.ɾɐ/ | /es.kɾiʃˈto.ɾɐ/  | writer       | /ˈraɪtər/  | escritora            | /es.kɾiˈtoɾa/ |     |
-| o/a dentista | sm               | /dẽˈtis.tɐ/      | /dẽˈtis.tɐ/      | dentist      | /ˈdɛntɪst/ | dentista            | /denˈtista/ |     |
+| o/a dentista | sm               | /dẽˈtis.tɐ/      | /dẽˈtis.tɐ/      | dentist      | /ˈdɛntɪst/ | dentista            | /denˈtista/ |8231|
 | a cabeleireira | sf  | /ka.bɨ.lej.ˈɾej.ɾɐ/ | /ka.be.lej.ˈɾej.ɾɐ/ | hairdresser | /ˈhɛrˌdresər/ | peluquera           | /peluˈkeɾa/ |     |
 | o cabeleireiro | sm  | /ka.bɨ.lej.ˈɾej.ɾu/ | /ka.be.lej.ˈɾej.ɾu/ | hairdresser | /ˈhɛrˌdresər/ | peluquero           | /peluˈkeɾo/ |     |
 | a instrutora de ioga   | sf               | /ĩʃ.tɾu.ˈto.ɾɐ dɨ iˈo.ɡɐ/ | /ĩʃ.tɾu.ˈto.ɾɐ dɨ iˈo.ɡɐ/ | yoga instructor | /ˈjoʊ.ɡə ˌɪnˈstrʌktər/ | instructora de yoga | /instɾukˈtoɾa ðe ˈʝoɣa/ |     |

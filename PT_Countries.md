@@ -82,6 +82,14 @@
 | **o** Vaticano   | sm | /va.tiˈka.nu/ | /va.tiˈka.nu/    | Vatican City| /ˈvætɪkən ˈsɪti/ | Ciudad del Vaticano | /θjuˈðað ðel βatiˈkano/ |8197|
 
 
+## North American Countries
+
+| Portuguese  | IPA (PT) | IPA (BR) | English | English IPA | Spanish | Spanish IPA | No. |
+|-------------|-----------------|----------|----------|---------|-------------|---------|-------------|-----|
+| **o** Canadá | /kɐ.nɐˈdɐ/ | /kɐ.nɐˈdɐ/ | Canada | /ˈkænədə/ | Canadá | /ka.naˈða/ |      |
+| **os** Estados Unidos | /is.tɐˈðuʒ u.niˈduʃ/ | /is.tɐˈdus u.niˈdus/ | United States | /juˈnaɪ.tɪd steɪts/ | Estados Unidos | /esˈta.ðos u.niˈðos/ |      |
+| **o** México       | sm | /ˈmɛ.ʃi.ku/      | /ˈmɛ.ʃi.ku/      | Mexico      | /ˈmɛksɪkoʊ/     | México       | /ˈmexiko/       |8198|
+
 
 ## Latin American Countries:
 

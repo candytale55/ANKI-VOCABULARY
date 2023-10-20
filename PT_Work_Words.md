@@ -3,51 +3,51 @@
 
 | Portuguese (PT)  | Tipo de Palavra | IPA (PT)        | IPA (BR)       | English      | English IPA | Spanish          | Spanish IPA | No. |
 |------------------|------------------|-----------------|----------------|-----------------|-------------|--------------------|-------------|-----|
-| o empregado  | sm             | /emˈpɾe.ɡa.du/  | /ẽˈpɾe.ɡa.du/ | employee     | /ɪmˈplɔɪiː/ | empleado          | /emˈpleaðo/ | 2135|
-| a empregada  | sf             | /emˈpɾe.ɡa.dɐ/  | /ẽˈpɾe.ɡa.dɐ/ | employee     | /ɪmˈplɔɪiː/ | empleada          | /emˈpleaða/ | 2135|
-| o enfermeiro | sm             | /ẽ.ferˈmej.ɾu/ | /ẽ.ferˈmej.ɾu/ | nurse        | /nɜːrs/ | enfermero         | /emfeɾˈmeɾo/ |2177|
-| a enfermeira | sf             | /ẽ.ferˈmej.ɾɐ/ | /ẽ.ferˈmej.ɾɐ/ | nurse        | /nɜːrs/ | enfermera         | /emfeɾˈmeɾa/ |2177|
-| o engenheiro | sm             | /ẽ.ʒeˈɲej.ɾu/ | /ẽ.ʒeˈɲej.ɾu/ | engineer     | /ˌɛndʒɪˈnɪər/ | ingeniero         | /inxeɾˈnjeɾo/ |2178|
-| a engenheira | sf             | /ẽ.ʒẽˈɲej.ɾɐ/ | /ẽ.ʒẽˈɲej.ɾɐ/ | engineer     | /ˌɛndʒɪˈnɪər/ | ingeniera         | /inxeɾˈnjeɾa/ |2178|
-| designer         | sm/f           | /de.ziˈɲeɾ/     | /de.ziˈɲe.ɾu/  | designer     | /dɪˈzaɪnər/ | diseñador         | /desiɲaˈdoɾ/ |2179|
-| o empresário | sm             | /ẽ.pre.zɐ.ˈɾju/ | /ẽ.pre.zɐ.ˈɾju/ | businessman | /ˈbɪznɪsˌman/ | empresario        | /em.pɾe.saˈɾjo/ |2183|
-| a empresária | sf             | /ẽ.pre.zɐ.ˈɾi.ɐ/ | /ẽ.pre.zɐ.ˈɾi.ɐ/ | businesswoman | /ˈbɪznɪsˌwʊmən/ | empresaria       | /em.pɾe.saˈɾja/ |2183|
-| o agricultor | sm   | /a.ɡri.kulˈtoɾ/ | /a.ɡri.kulˈtoɾ/ | farmer       | /ˈfɑːmər/ | agricultor       | /aɡɾi.kulˈtoɾ/ | 2317|
-| a agricultora          | sf               | /a.gɾi.kulˈto.ɾɐ/ | /a.ɡɾi.kulˈto.ɾɐ/ | farmer       | /ˈfɑːmər/ | agricultora         | /aɡɾi.kulˈtoɾa/ |2317|
-| a música     | sf             | /ˈmu.zi.kɐ/     | /ˈmu.zi.kɐ/     | musician     | /mjuːˈzɪʃən/ | música           | /ˈmusika/ | 3100 |
-| o músico     | sm             | /ˈmu.zi.ku/     | /ˈmu.zi.ku/     | musician     | /mjuːˈzɪʃən/ | músico           | /ˈmusiko/ | 3100  |
-| o professor  | sm             | /pɾuˈfe.sɔɾ/   | /pɾuˈfe.sɔʁ/   | teacher      | /ˈtiːtʃər/ | maestro          | /maˈestɾo/ |2146|
-| a professora | sf             | /pɾuˈfe.so.ɾɐ/  | /pɾuˈfe.so.ɾɐ/  | teacher      | /prəˈfesər/ | maestra          | /maˈestɾa/ |2146|
-| o/a estudante | sm/f           | /es.tuˈdɐ̃.tɨ/ | /es.tuˈdɐ̃.tʃi/ | student      | /ˈstjuːdnt/ | estudiante       | /estuˈðjante/ |2144|
-| o professor  | sm             | /pɾuˈfɛ.soɾ/   | /pɾuˈfɛ.soʁ/   | professor    | /prəˈfɛsər/ | profesor (masc)  | /pɾofeˈsoɾ/ |2149|
-| a professora | sf             | /pɾuˈfɛ.so.ɾɐ/ | /pɾuˈfɛ.soʁɐ/ | professor    | /prəˈfesər/ | profesora (fem)  | /pɾofeˈsoɾa/ |2149|
-| o médico     | sm             | /ˈme.di.ku/     | /ˈme.dʒi.ku/   | doctor       | /ˈdɒktər/ | médico, doctor   | /ˈmediko, ˈdɒktər/ |2147|
-| a médica     | sf             | /ˈme.di.kɐ/     | /ˈme.dʒi.kɐ/   | doctor       | /ˈdɒktər/ | médica, doctora | /ˈmedika, ˈdɒktərɐ/ |2147|
-| o arquiteto  | sm             | /aɾ.kiˈtɛ.tu/   | /aɾ.kiˈtɛ.tu/   | architect    | /ˈɑːkɪtɛkt/ | arquitecto | /aɾkitekˈto/ |3729|
-| a arquiteta  | sf             | /aɾ.kiˈtɛ.tɐ/   | /aɾ.kiˈtɛ.tɐ/   | architect    | /ˈɑːkɪtɛkt/ | arquitecta | /aɾkitekˈta/ |3729|
-| o advogado   | sm             | /ɐd.voˈɡa.du/   | /ɐd.voˈɡa.du/   | lawyer       | /ˈlɔɪər/ | abogado          | /aβoˈɣaðo/ |2148|
-| a advogada   | sf             | /ɐd.voˈɡa.dɐ/   | /ɐd.voˈɡa.dɐ/   | lawyer       | /ˈlɔɪər/ | abogada          | /aβoˈɣaða/ |2148|
-| o dentista   | sm             | /dẽˈtis.tu/     | /dẽˈtis.tu/     | dentist      | /ˈdɛntɪst/ | dentista (masc)  | /denˈtista/ |     |
-| o/a policial   | sm/f             | /po.liˈsi.al/   | /po.liˈsi.al/   | police officer | /pəˈliːs ˈɒfɪsər/ | policía        | /po.liˈθi.a/ |2150|
-| o/a artista    | sm/f             | /ɐɾˈtiʃ.tu/     | /aɾˈtiʃ.tu/     | artist       | /ˈɑːtɪst/ | artista (masc) | /aɾˈtista/ |2151|
-| o/a motorista          | sm/f             | /mu.to.ˈɾiʃ.tɐ/  | /mu.to.ˈɾiʃ.tɐ/  | driver       | /ˈdraɪvər/ | conductor           | /kon.dukˈtoɾ/ |     |
-| o escritor             | sm               | /ɨʃ.kɾiʃˈtoɾ/   | /es.kɾiʃˈtoɾ/    | writer       | /ˈraɪtər/  | escritor            | /es.kɾiˈtoɾ/ |     |
-| a escritora            | sf               | /ɨʃ.kɾiʃˈto.ɾɐ/ | /es.kɾiʃˈto.ɾɐ/  | writer       | /ˈraɪtər/  | escritora            | /es.kɾiˈtoɾa/ |     |
-| o/a dentista           | sm               | /dẽˈtis.tɐ/      | /dẽˈtis.tɐ/      | dentist      | /ˈdɛntɪst/ | dentista            | /denˈtista/ |     |
-| a cabeleireira         | sf               | /ka.bɨ.lej.ˈɾej.ɾɐ/ | /ka.be.lej.ˈɾej.ɾɐ/ | hairdresser | /ˈhɛrˌdresər/ | peluquera           | /peluˈkeɾa/ |     |
-| o cabeleireiro         | sm               | /ka.bɨ.lej.ˈɾej.ɾu/ | /ka.be.lej.ˈɾej.ɾu/ | hairdresser | /ˈhɛrˌdresər/ | peluquero           | /peluˈkeɾo/ |     |
+| o empregado  | sm    | /emˈpɾe.ɡa.du/  | /ẽˈpɾe.ɡa.du/ | employee     | /ɪmˈplɔɪiː/ | empleado          | /emˈpleaðo/ | 2135|
+| a empregada  | sf    | /emˈpɾe.ɡa.dɐ/  | /ẽˈpɾe.ɡa.dɐ/ | employee     | /ɪmˈplɔɪiː/ | empleada          | /emˈpleaða/ | 2135|
+| o enfermeiro | sm    | /ẽ.ferˈmej.ɾu/ | /ẽ.ferˈmej.ɾu/ | nurse        | /nɜːrs/ | enfermero         | /emfeɾˈmeɾo/ |2177|
+| a enfermeira | sf    | /ẽ.ferˈmej.ɾɐ/ | /ẽ.ferˈmej.ɾɐ/ | nurse        | /nɜːrs/ | enfermera         | /emfeɾˈmeɾa/ |2177|
+| o engenheiro | sm    | /ẽ.ʒeˈɲej.ɾu/ | /ẽ.ʒeˈɲej.ɾu/ | engineer     | /ˌɛndʒɪˈnɪər/ | ingeniero         | /inxeɾˈnjeɾo/ |2178|
+| a engenheira | sf    | /ẽ.ʒẽˈɲej.ɾɐ/ | /ẽ.ʒẽˈɲej.ɾɐ/ | engineer     | /ˌɛndʒɪˈnɪər/ | ingeniera         | /inxeɾˈnjeɾa/ |2178|
+| designer     | sm/f  | /de.ziˈɲeɾ/     | /de.ziˈɲe.ɾu/  | designer     | /dɪˈzaɪnər/ | diseñador         | /desiɲaˈdoɾ/ |2179|
+| o empresário | sm    | /ẽ.pre.zɐ.ˈɾju/ | /ẽ.pre.zɐ.ˈɾju/ | businessman | /ˈbɪznɪsˌman/ | empresario        | /em.pɾe.saˈɾjo/ |2183|
+| a empresária | sf    | /ẽ.pre.zɐ.ˈɾi.ɐ/ | /ẽ.pre.zɐ.ˈɾi.ɐ/ | businesswoman | /ˈbɪznɪsˌwʊmən/ | empresaria       | /em.pɾe.saˈɾja/ |2183|
+| o agricultor | sm    | /a.ɡri.kulˈtoɾ/ | /a.ɡri.kulˈtoɾ/ | farmer       | /ˈfɑːmər/ | agricultor       | /aɡɾi.kulˈtoɾ/ | 2317|
+| a agricultora| sf    | /a.gɾi.kulˈto.ɾɐ/ | /a.ɡɾi.kulˈto.ɾɐ/ | farmer       | /ˈfɑːmər/ | agricultora         | /aɡɾi.kulˈtoɾa/ |2317|
+| a música     | sf    | /ˈmu.zi.kɐ/     | /ˈmu.zi.kɐ/     | musician     | /mjuːˈzɪʃən/ | música           | /ˈmusika/ | 3100 |
+| o músico     | sm    | /ˈmu.zi.ku/     | /ˈmu.zi.ku/     | musician     | /mjuːˈzɪʃən/ | músico           | /ˈmusiko/ | 3100  |
+| o professor  | sm    | /pɾuˈfe.sɔɾ/   | /pɾuˈfe.sɔʁ/   | teacher      | /ˈtiːtʃər/ | maestro          | /maˈestɾo/ |2146|
+| a professora | sf    | /pɾuˈfe.so.ɾɐ/  | /pɾuˈfe.so.ɾɐ/  | teacher      | /prəˈfesər/ | maestra          | /maˈestɾa/ |2146|
+| o/a estudante | sm/f | /es.tuˈdɐ̃.tɨ/ | /es.tuˈdɐ̃.tʃi/ | student      | /ˈstjuːdnt/ | estudiante       | /estuˈðjante/ |2144|
+| o professor  | sm    | /pɾuˈfɛ.soɾ/   | /pɾuˈfɛ.soʁ/   | professor    | /prəˈfɛsər/ | profesor (masc)  | /pɾofeˈsoɾ/ |2149|
+| a professora | sf    | /pɾuˈfɛ.so.ɾɐ/ | /pɾuˈfɛ.soʁɐ/ | professor    | /prəˈfesər/ | profesora (fem)  | /pɾofeˈsoɾa/ |2149|
+| o médico     | sm    | /ˈme.di.ku/     | /ˈme.dʒi.ku/   | doctor       | /ˈdɒktər/ | médico, doctor   | /ˈmediko, ˈdɒktər/ |2147|
+| a médica     | sf    | /ˈme.di.kɐ/     | /ˈme.dʒi.kɐ/   | doctor       | /ˈdɒktər/ | médica, doctora | /ˈmedika, ˈdɒktərɐ/ |2147|
+| o arquiteto  | sm    | /aɾ.kiˈtɛ.tu/   | /aɾ.kiˈtɛ.tu/   | architect    | /ˈɑːkɪtɛkt/ | arquitecto | /aɾkitekˈto/ |3729|
+| a arquiteta  | sf    | /aɾ.kiˈtɛ.tɐ/   | /aɾ.kiˈtɛ.tɐ/   | architect    | /ˈɑːkɪtɛkt/ | arquitecta | /aɾkitekˈta/ |3729|
+| o advogado   | sm    | /ɐd.voˈɡa.du/   | /ɐd.voˈɡa.du/   | lawyer       | /ˈlɔɪər/ | abogado          | /aβoˈɣaðo/ |2148|
+| a advogada   | sf    | /ɐd.voˈɡa.dɐ/   | /ɐd.voˈɡa.dɐ/   | lawyer       | /ˈlɔɪər/ | abogada          | /aβoˈɣaða/ |2148|
+| o dentista   | sm    | /dẽˈtis.tu/     | /dẽˈtis.tu/     | dentist      | /ˈdɛntɪst/ | dentista (masc)  | /denˈtista/ |     |
+| o/a policial | sm/f| /po.liˈsi.al/   | /po.liˈsi.al/   | police officer | /pəˈliːs ˈɒfɪsər/ | policía        | /po.liˈθi.a/ |2150|
+| o/a artista  | sm/f| /ɐɾˈtiʃ.tu/     | /aɾˈtiʃ.tu/     | artist       | /ˈɑːtɪst/ | artista (masc) | /aɾˈtista/ |2151|
+| o/a motorista| sm/f  | /mu.to.ˈɾiʃ.tɐ/  | /mu.to.ˈɾiʃ.tɐ/  | driver       | /ˈdraɪvər/ | conductor           | /kon.dukˈtoɾ/ |     |
+| o escritor   | sm    | /ɨʃ.kɾiʃˈtoɾ/   | /es.kɾiʃˈtoɾ/    | writer       | /ˈraɪtər/  | escritor            | /es.kɾiˈtoɾ/ |     |
+| a escritora  | sf    | /ɨʃ.kɾiʃˈto.ɾɐ/ | /es.kɾiʃˈto.ɾɐ/  | writer       | /ˈraɪtər/  | escritora            | /es.kɾiˈtoɾa/ |     |
+| o/a dentista | sm               | /dẽˈtis.tɐ/      | /dẽˈtis.tɐ/      | dentist      | /ˈdɛntɪst/ | dentista            | /denˈtista/ |     |
+| a cabeleireira | sf  | /ka.bɨ.lej.ˈɾej.ɾɐ/ | /ka.be.lej.ˈɾej.ɾɐ/ | hairdresser | /ˈhɛrˌdresər/ | peluquera           | /peluˈkeɾa/ |     |
+| o cabeleireiro | sm  | /ka.bɨ.lej.ˈɾej.ɾu/ | /ka.be.lej.ˈɾej.ɾu/ | hairdresser | /ˈhɛrˌdresər/ | peluquero           | /peluˈkeɾo/ |     |
 | a instrutora de ioga   | sf               | /ĩʃ.tɾu.ˈto.ɾɐ dɨ iˈo.ɡɐ/ | /ĩʃ.tɾu.ˈto.ɾɐ dɨ iˈo.ɡɐ/ | yoga instructor | /ˈjoʊ.ɡə ˌɪnˈstrʌktər/ | instructora de yoga | /instɾukˈtoɾa ðe ˈʝoɣa/ |     |
 | o instrutor de ioga    | sm               | /ĩʃ.tɾu.ˈtoɾ dɨ iˈo.ɡɐ/ | /ĩʃ.tɾu.ˈtoɾ dɨ iˈo.ɡɐ/ | yoga instructor | /ˈjoʊ.ɡə ˌɪnˈstrʌktər/ | instructor de yoga | /instɾukˈtoɾ ðe ˈʝoɣa/ |     |
-| o/a pianista           | sm/f             | /pi.ɐ.ˈniʃ.tɐ/   | /pi.ɐ.ˈniʃ.tɐ/   | pianist      | /piˈænɪst/ | pianista            | /pjaˈnista/ |     |
-| o empregado de mesa (PT) | sm               | /ẽ.pɾe.ˈɡa.du dɨ ˈme.zɐ/ |/ẽ.pɾe.ˈɡa.du dɨ ˈme.zɐ/  | waiter       | /ˈweɪ.tər/ | camarero            | /kamaˈɾeɾo/ |8226|
-| a empregada de mesa (PT)  | sf               | /ẽ.pɾe.ˈɡa.dɐ dɨ ˈme.zɐ/ |/ẽ.pɾe.ˈɡa.dɐ dɨ ˈme.zɐ/  | waitress     | /ˈweɪ.trɪs/ | camarera            | /kamaˈɾeɾa/ |8227|
-| o garçom (BR)              | sm               | /gaɾˈsõ/         | /gaʁˈsõ/         | waiter       | /ˈweɪtər/ | camarero   | /kamaˈɾeɾo/ |8226|
-| a garçonete  (BR)          | sf               | /gaɾ.soˈnɛ.tɨ/    | /gaʁ.soˈnɛ.tʃi/  | waitress     | /ˈweɪ.trɪs/ | camarera            | /kamaˈɾeɾa/ |8227|
-| o engenheiro informático | sm         | /ẽ.ʒeˈɲej.ɾu ĩ.fɔɾ.mɐˈtiku/ | /ẽ.ʒẽˈɲej.ɾu ĩ.fɔɾˈmatʃiku/ | computer engineer | /kəmˈpjuː.tər ˌɛndʒɪˈnɪər/ | ingeniero informático | /inxeɾˈnjeɾo inforˈmatiko/ |     |
-| a engenheira informática | sf         | /ẽ.ʒẽˈɲej.ɾɐ ĩ.fɔɾ.mɐˈtikɐ/ | /ẽ.ʒẽˈɲej.ɾɐ ĩ.fɔɾˈmatʃikɐ/ | computer engineer | /kəmˈpjuː.tər ˌɛndʒɪˈnɪər/ | ingeniera informática | /inxeɾˈnjeɾa inforˈmatika/ |     |
-| a cozinheira           | sf               | /ko.zi.ˈɲej.ɾɐ/  | /ko.zi.ˈɲej.ɾɐ/  | cook         | /kʊk/      | cocinera            | /koθiˈneɾa/ |8225|
-| o cozinheiro | sm               | /ko.zi.ˈɲej.ɾu/  | /ko.zi.ˈɲej.ɾu/  | cook         | /kʊk/      | cocinero            | /koθiˈneɾo/ |8225|
-| o/a florista           | sm/f             | /flo.ˈɾiʃ.tɐ/    | /flo.ˈɾiʃ.tɐ/    | florist      | /ˈflɔrɪst/ | florista            | /floˈɾista/ |     |
+| o/a pianista | sm/f | /pi.ɐ.ˈniʃ.tɐ/   | /pi.ɐ.ˈniʃ.tɐ/   | pianist      | /piˈænɪst/ | pianista            | /pjaˈnista/ |8230|
+| o empregado de mesa (PT) | sm | /ẽ.pɾe.ˈɡa.du dɨ ˈme.zɐ/ |/ẽ.pɾe.ˈɡa.du dɨ ˈme.zɐ/  | waiter       | /ˈweɪ.tər/ | camarero | /kamaˈɾeɾo/ |8226|
+| a empregada de mesa (PT)  | sf| /ẽ.pɾe.ˈɡa.dɐ dɨ ˈme.zɐ/ |/ẽ.pɾe.ˈɡa.dɐ dɨ ˈme.zɐ/  | waitress     | /ˈweɪ.trɪs/ | camarera            | /kamaˈɾeɾa/ |8227|
+| o garçom (BR)     | sm  | /gaɾˈsõ/         | /gaʁˈsõ/         | waiter       | /ˈweɪtər/ | camarero   | /kamaˈɾeɾo/ |8226|
+| a garçonete  (BR) | sf | /gaɾ.soˈnɛ.tɨ/    | /gaʁ.soˈnɛ.tʃi/  | waitress     | /ˈweɪ.trɪs/ | camarera            | /kamaˈɾeɾa/ |8227|
+| o engenheiro informático | sm  | /ẽ.ʒeˈɲej.ɾu ĩ.fɔɾ.mɐˈtiku/ | /ẽ.ʒẽˈɲej.ɾu ĩ.fɔɾˈmatʃiku/ | computer engineer | /kəmˈpjuː.tər ˌɛndʒɪˈnɪər/ | ingeniero informático | /inxeɾˈnjeɾo inforˈmatiko/ |8229|
+| a engenheira informática | sf  | /ẽ.ʒẽˈɲej.ɾɐ ĩ.fɔɾ.mɐˈtikɐ/ | /ẽ.ʒẽˈɲej.ɾɐ ĩ.fɔɾˈmatʃikɐ/ | computer engineer | /kəmˈpjuː.tər ˌɛndʒɪˈnɪər/ | ingeniera informática | /inxeɾˈnjeɾa inforˈmatika/ |8229|
+| a cozinheira  | sf  | /ko.zi.ˈɲej.ɾɐ/  | /ko.zi.ˈɲej.ɾɐ/  | cook         | /kʊk/      | cocinera            | /koθiˈneɾa/ |8225|
+| o cozinheiro | sm  | /ko.zi.ˈɲej.ɾu/  | /ko.zi.ˈɲej.ɾu/  | cook         | /kʊk/      | cocinero            | /koθiˈneɾo/ |8225|
+| o/a florista | sm/f | /flo.ˈɾiʃ.tɐ/    | /flo.ˈɾiʃ.tɐ/    | florist      | /ˈflɔrɪst/ | florista  | /floˈɾista/ |8228|
 
 
 

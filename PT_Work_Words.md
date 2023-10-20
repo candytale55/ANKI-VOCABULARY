@@ -93,13 +93,6 @@
 
 
 
-| Portuguese  | Tipo de Palavra    | IPA              | English              | IPA (USA)      | Spanish       | Spanish IPA        | No. |
-|-------------|--------------------|------------------|----------------------|---------------|---------------|--------------------|-----|
-| agricultura       | substantivo (fem)  | /a.ɡri.kulˈtu.ɾɐ/| agriculture          | /ˈæɡrɪˌkʌltʃər/| agricultura   | /aɡriˈkultuɾa/ | 32|
-| agricultor        | substantivo (masc) | /a.ɡri.kulˈtoɾ/  | farmer               | /ˈfɑːrmər/    | agricultor    | /aɡriˈkultoɾ/  | 33 |
-| música            | substantivo (fem)  | /ˈmu.zi.kɐ/      | music                | /ˈmjuːzɪk/    | música        | /ˈmusika/       | 34|
-| músico            | substantivo (masc) | /ˈmu.zi.ku/      | musician             | /mjuˈzɪʃən/   | músico        | /ˈmusiko/       | 35|
-
 In Portuguese, "trabalho" and "emprego" are related but have different meanings:
 
 1. **Trabalho:**

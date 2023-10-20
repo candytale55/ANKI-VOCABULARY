@@ -142,3 +142,60 @@
 | **a** Tunísia            | /tu.ˈni.zi.ɐ/ | /tu.ˈni.zi.ɐ/ | Tunisia                 | /tuˈniʒə/   | Túnez                     | /ˈtunes/   |     |
 | **os** Emirados Árabes Unidos | /ɨ.mi.ˈɾa.dus ˈa.ɾa.bis u.ˈni.dus/ | /i.mi.ˈɾa.dus ˈa.ɾa.bis u.ˈni.dus/ | United Arab Emirates | /juːˌnaɪ.tɪd ˈærəb ˈɛmɪrɪts/ | Emiratos Árabes Unidos | /emiˈɾatos ˈaɾaβes uˈniðos/ |     |
 | **o** Iêmen              | /ˈʒɛ.mẽ/   | /ˈʒɛ.mẽ/   | Yemen                       | /ˈjɛmən/      | Yemen                     | /ˈʝemen/   |     |
+
+
+
+
+## Africa
+
+Certainly! Here is the markdown table for the provided list of countries:
+
+| Portuguese | Tipo de Palavra | IPA (PT) | IPA (BR) | English | English IPA | Spanish | Spanish IPA | No. |
+|------------|-----------------|----------|----------|---------|-------------|---------|-------------|-----|
+| **a** Argélia | sf | /ɐɾˈʒe.li.ɐ/ | /aɾˈʒe.li.ɐ/ | Algeria | /ælˈdʒɪə.riə/ | Argelia | /aɾˈxelja/ | |
+| **a** Angola | sf | /ɐ̃ˈɡɔ.lɐ/ | /ɐ̃ˈɡɔ.lɐ/ | Angola | /æŋˈɡoʊ.lə/ | Angola | /anˈɡola/ | |
+| **o** Benim | sm | /bɨˈnim/ | /bɛˈnim/ | Benin | /bɛˈnɪn/ | Benín | /beˈnin/ | |
+| **o** Botsuana | sm | /bɔ.tsuˈɐ.nɐ/ | /bɔ.tsuˈɐ.nɐ/ | Botswana | /bɒtˈswɑː.nə/ | Botsuana | /botsuˈana/ | |
+| **o** Burquina Faso | sm | /buɾˈkinɐ ˈfasu/ | /buɾˈkinɐ ˈfasu/ | Burkina Faso | /bɜːrˈkiːnə ˈfæsoʊ/ | Burkina Faso | /burˈkina ˈfaso/ | |
+| **o** Burundi | sm | /bu.ɾũˈdi/ | /bu.ɾũˈdi/ | Burundi | /bəˈrʊndi/ | Burundi | /buˈɾundi/ | |
+| **o** Cabo Verde | sm | /ˈka.bu ˈveɾ.dɨ/ | /ˈka.bu ˈveɾ.dʒi/ | Cape Verde | /ˈkeɪp ˈvɜːrd/ | Cabo Verde | /ˈkaβo ˈβeɾðe/ | |
+| **os** Camarões | smp | /kɐ.mɐˈɾõj̃ʃ/ | /kɐ.mɐˈɾõj̃ʃ/ | Cameroon | /kæməˈruːn/ | Camerún | /kameˈrun/ | |
+| **a** República Centro-Africana | sf | /ʁɛ.pubˈli.kɐ sẽ.tɾu a.fɾiˈkɐ.nɐ/ | /ʁɛ.pubˈli.kɐ sẽ.tɾu a.fɾiˈkɐ.nɐ/ | Central African Republic | /ˈsɛn.trəl ˈæfrɪkən rɪˈpʌblɪk/ | República Centroafricana | /reˈpuβlika θentɾoaˈfɾikana/ | |
+| **o** Chade | sm | /ˈʃa.dɨ/ | /ˈʃa.dʒi/ | Chad | /tʃæd/ | Chad | /tʃad/ | |
+| **as** Comores | sfp | /kuˈmo.ɾɨʃ/ | /koˈmoɾis/ | Comoros | /ˈkɒməroʊz/ | Comoras | /koˈmoɾas/ | |
+| **o** Congo | sm | /ˈkõ.ɡu/ | /ˈkõ.ɡu/ | Congo | /ˈkɒŋɡoʊ/ | Congo | /ˈkoŋɡo/ | |
+| **a** Costa do Marfim | sf | /ˈkɔʃ.tɐ ðu ˈmaɾ.fĩ/ | /ˈkɔstɐ ðu ˈmaɾ.fĩ/ | Ivory Coast | /ˈaɪv.ri koʊst/ | Costa de Marfil | /ˈkosta ðe maɾˈfil/ | |
+| **a** República Democrática do Congo | sf | /ʁɛ.pubˈli.kɐ dɨ.mu.kɾɐˈtikɐ du ˈkõ.ɡu/ | /ʁɛ.pubˈli.kɐ dɨ.mu.kɾaˈtʃi.kɐ du ˈkõ.ɡu/ | Democratic Republic of Congo | /dɪˈmɒkrətɪk rɪˈpʌblɪk əv ˈkɒŋɡoʊ/ | República Democrática del Congo | /reˈpuβlika ðemoˈkɾatika ðel ˈkoŋɡo/ | |
+| **a** Guiné Equatorial | sf | /ɡiˈnɛ ˌɛ.ki.tɔˈɾi.ɐl/ | /ɡiˈnɛ ˌɛ.ki.tɔˈɾi.ɐw/ | Equatorial Guinea | /ˌɛkwəˈtɔːriəl ˈɡɪni/ | Guinea Ecuatorial | /ɡiˈnea ekwatoˈɾjal/ | |
+| **a** Eritreia | sf | /e.ɾiˈtɾej.ɐ/ | /e.ɾiˈtɾej.ɐ/ | Eritrea | /ˌɛrɪˈtreɪə/ | Eritrea | /eˈritɾea/ | |
+| **o** Essuatíni | sm | /ɨ.swɐˈtini/ | /ɨ.swaˈtini/ | Eswatini | /ɛˈswɑːtiːni/ | eSwatini | /ɛswaˈtini/ | |
+| **a** Etiópia | sf | /e.tiˈo.pi.ɐ/ | /e.tiˈo.pi.ɐ/ | Ethiopia | /iːθiˈoʊpiə/ | Etiopía | /eˈtjopja/ | |
+| **o** Gabão | sm | /gɐˈbɐ̃w/ | /ɡaˈbɐ̃w/ | Gabon | /ɡəˈbɒn/ | Gabón | /ɡaˈbon/ | |
+| **a** Gâmbia | sf | /ˈɡɐ̃.bi.ɐ/ | /ˈɡɐ̃.bi.ɐ/ | Gambia | /ˈɡæmbiə/ | Gambia | /ˈɡambia/ | |
+| **o** Gana | sm | /ˈɡɐ.nɐ/ | /ˈɡɐ.nɐ/ | Ghana | /ˈɡɑːnə/ | Ghana | /ˈɡana/ | |
+| **a** Guiné | sf | /ɡiˈnɛ/ | /ɡiˈnɛ/ | Guinea | /ˈɡɪni/ | Guinea | /ɡiˈnea/ | |
+| **a** Guiné-Bissau | sf | /ɡiˈnɛ biˈsaw/ | /ɡiˈnɛ biˈsaw/ | Guinea-Bissau | /ˈɡɪni bɪˈsaʊ/ | Guinea-Bisáu | /ɡiˈnea biˈsaw/ | |
+| **o** Quênia | sm | /ˈkɛ.njɐ/ | /ˈkɛ.njɐ/ | Kenya | /ˈkɛnjə/ | Kenia | /ˈkenja/ | |
+| **o** Lesoto | sm | /lɨˈso.tu/ | /lɨˈsɔ.tu/ | Lesotho | /lɪˈsoʊtuː/ | Lesoto | /leˈsoto/ | |
+| **a** Libéria | sf | /liˈbɛ.ɾi.ɐ/ | /liˈbɛ.ɾi.ɐ/ | Liberia | /laɪˈbɪəriə/ | Liberia | /liˈβeɾja/ | |
+| **a** Madagascar | sf | /mɐ.dɐ.ɡasˈkaɾ/ | /mɐ.dɐ.ɡasˈkaɾ/ | Madagascar | /ˌmædəˈɡæskər/ | Madagascar | /maðaˈɣaskaɾ/ | |
+| **o** Malawi | sm | /mɐˈlɐ.wi/ | /mɐˈlɐ.wi/ | Malawi | /məˈlɑːwi/ | Malaui | /maˈlau̯i/ | |
+| **o** Mali | sm | /ˈmɐ.li/ | /ˈmɐ.li/ | Mali | /ˈmɑːli/ | Malí | /maˈli/ | |
+| **a** Mauritânia | sf | /mɐu̯ɾiˈtɐni.ɐ/ | /mawɾiˈtɐni.ɐ/ | Mauritania | /ˌmɒrɪˈteɪniə/ | Mauritania | /moɾiˈtanja/ | |
+| **a** Maurícia | sf | /mɐu̯ˈɾi.sjɐ/ | /mawˈɾisjɐ/ | Mauritius | /məˈrɪʃəs/ | Mauricio | /mau̯ˈɾiθjo/ | |
+| **o** Moçambique | sm | /musɐ̃ˈbik/ | /musɐ̃ˈbikɨ/ | Mozambique | /ˌmoʊzæmˈbiːk/ | Mozambique | /musɐ̃ˈbikɨ/ | |
+| **a** Namíbia | sf | /nɐˈmibi.ɐ/ | /nɐˈmibi.ɐ/ | Namibia | /nəˈmɪbiə/ | Namibia | /naˈmibja/ | |
+| **o** Níger | sm | /ˈni.ʒɨɾ/ | /ˈni.ʒeɾ/ | Niger | /ˈnaɪdʒər/ | Níger | /ˈni.xeɾ/ | |
+| **a** Nigéria | sf | /niˈʒɛ.ɾi.ɐ/ | /niˈʒɛ.ɾi.ɐ/ | Nigeria | /naɪˈdʒɪəriə/ | Nigeria | /niˈxeɾja/ | |
+| **o** Ruanda | sm | /huˈɐ̃.dɐ/ | /uˈɐ̃.dɐ/ | Rwanda | /ruˈændə/ | Ruanda | /ruˈanda/ | |
+| **o** São Tomé e Príncipe | sm | /sɐ̃w tuˈmɛ i ˈpɾĩ.sɨpɨ/ | /sɐ̃w toˈmɛ i ˈpɾĩ.sipi/ | São Tomé and Príncipe | /ˌsaʊn təˈmeɪ  ˈænd ˈprɪnsɪpə/ | Santo Tomé y Príncipe | /ˈsanto toˈme i ˈpɾinθipe/ | |
+| **o** Senegal | sm | /sɨ.nɨˈɡaw/ | /sɛ.nɛˈɡaw/ | Senegal | /ˌsɛnɪˈɡɔːl/ | Senegal | /seˈneɣal/ | |
+| **as** Seychelles | sfp | /sejˈʃɛ.lɨʃ/ | /sejˈʃɛliz/ | Seychelles | /seɪˈʃɛlz/ | Seychelles | /sejˈʧeles/ | |
+| **a** Serra Leoa | sf | /ˈsɛ.ʁɐ lɛ.ˈo.ɐ/ | /ˈsɛ.ʁɐ lɛ.ˈo.ɐ/ | Sierra Leone | /sɪˈɛrə lɪˈoʊn/ | Sierra Leona | /ˈsjera leˈona/ | |
+| **a** África do Sul | sf | /ˈafɾikɐ du ˈsuw/ | /ˈafɾikɐ du ˈsuw/ | South Africa | /saʊθ ˈæfrɪkə/ | Sudáfrica | /suˈðafɾika/ | |
+| **o** Sudão do Sul | sm | /suˈdɐ̃w du ˈsuw/ | /suˈdɐ̃w du ˈsuw/ | South Sudan | /saʊθ ˈsuːdæn/ | Sudán del Sur | /suˈðan ðel suɾ/ | |
+| **o** Togo | sm | /ˈto.ɡu/ | /ˈto.ɡu/ | Togo | /ˈtoʊɡoʊ/ | Togo | /ˈtoɣo/ | |
+| **o** Uganda | sm | /u.ɡɐ̃ˈdɐ/ | /u.ɡɐ̃ˈdɐ/ | Uganda | /juːˈɡændə/ | Uganda | /uɡanˈda/ | |
+| **a** República Unida da Tanzânia | sf | /ʁɛ.pubˈli.kɐ u.ˈni.ðɐ dɐ tɐ̃ˈzɐ.ni.ɐ/ | /ʁɛ.pubˈli.kɐ u.ˈni.dɐ dɐ tɐ̃ˈzɐ.ni.ɐ/ | United Republic of Tanzania | /juˈnaɪtɪd rɪˈpʌblɪk ʌv ˌtænzəˈniːə/ | República Unida de Tanzania | /reˈpuβlika uˈniða ðe tanθaˈnia/ | |
+| **a** Zâmbia | sf | /ˈzɐ̃.bɨ.ɐ/ | /ˈzɐ̃.bi.ɐ/ | Zambia | /ˈzæmbiə/ | Zambia | /ˈθambia/ | |
+| **o** Zimbábue | sm | /zĩˈbabwɨ/ | /zĩˈbabwɨ/ | Zimbabwe | /zɪmˈbɑːbweɪ/ | Zimbabue | /zimbaˈβwe/ | |

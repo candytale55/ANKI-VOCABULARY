@@ -1,6 +1,8 @@
 
 # Talking about work
 
+## Profession
+
 | Portuguese (PT)  | Tipo de Palavra | IPA (PT)        | IPA (BR)       | English      | English IPA | Spanish          | Spanish IPA | No. |
 |------------------|------------------|-----------------|----------------|-----------------|-------------|--------------------|-------------|-----|
 | o empregado  | sm    | /emˈpɾe.ɡa.du/  | /ẽˈpɾe.ɡa.du/ | employee     | /ɪmˈplɔɪiː/ | empleado          | /emˈpleaðo/ | 2135|
@@ -60,10 +62,8 @@
 
 
 
+## General Words
 
-
-
-Certainly, here's the updated table with both Portuguese from Portugal IPA and Portuguese from Brazil IPA for the Portuguese word, as requested:
 
 | Portuguese (PT)  | Portuguese (BR) | Tipo de Palavra    | IPA (PT)             | IPA (BR)             | English              | Spanish            | No. |
 |------------------|------------------|--------------------|----------------------|----------------------|----------------------|--------------------|-----|

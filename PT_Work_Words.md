@@ -68,28 +68,28 @@
 Certainly! Here's the updated table with the articles in bold for each word:
 
 | Portuguese (PT)  | Tipo | IPA (PT)  | IPA (BR)    | English              | Spanish            | No. |
-|------------------|------|-----------|-------------|----------------------|--------------------|-----|
+|------------------|-----|-----------|-------------|----------------------|--------------------|-----|
 | **o** trabalho   | sm  | /traˈbaʎu/           | /traˈbaʎu/           | work     | trabajo            | 2136|
 | **o** emprego    | sm  | /emˈpɾeɡu/   | /ẽˈpɾeɡu/            | job                | empleo       | 2137|
 | **a** profissão  | sf  | /pɾuˈfi.sɐ̃w̃/         | /pɾuˈfi.sɐ̃w̃/         | profession           | profesión          | 2138|
 | **a** empresa    | sf  | /ẽˈpɾe.zɐ/           | /ẽˈpɾe.zɐ/           | company              | empresa            | 2139|
-| **o** chefe      | sm  | /ˈʃɛ.fɨ/             | /ˈʃɛ.fɪ/             | boss                 | jefe, jefa         | 2140|
-| **o** colega de trabalho | sm/f | /koˈle.ɡɐ dɨ traˈbaʎu/ | /koˈle.ɡɐ dʒi traˈbaʎu/ | coworker        | colega de trabajo  | 2159|
+| **o/a** chefe      | sm/f  | /ˈʃɛ.fɨ/             | /ˈʃɛ.fɪ/             | boss                 | jefe, jefa         | 2140|
+| **o/a** colega de trabalho | sm/f | /koˈle.ɡɐ dɨ traˈbaʎu/ | /koˈle.ɡɐ dʒi traˈbaʎu/ | coworker        | colega de trabajo  | 2159|
 | **o** salário    | sm  | /saˈla.ɾju/           | /saˈla.ɾju/           | salary               | salario            | 2158|
 | **o** horário de trabalho | substantivo (masc) | /oˈɾa.ɾju dɨ traˈbaʎu/ | /oˈɾa.ɾju dʒi traˈbaʎu/ | work schedule | horario de trabajo | 2159|
-| **o** cliente    | sm/f  | /kliˈẽ.tɨ/            | /kliˈẽ.tʃi/           | client/customer      | cliente            | 2155|
-| **o** escritório |  sm  | /es.kɾiʃˈto.ɾju/       | /es.kɾiʃˈto.ɾi.u/       | office               | oficina      | 2141|
-| **a** reunião    |  sf   | /re.uˈni.ɐ̃w̃/         | /ʁe.uˈni.ɐ̃w̃/   | meeting  | reunión    | 2152|
-| **o** contrato   |  sm  | /kõ.ˈtɾa.tu/           | /kõ.ˈtɾa.tu/           | contract             | contrato           | 2142|
-| **a** carreira   |  sf  | /kaˈɾɛ.jɾɐ/           | /kaˈɾej.ɾɐ/           | career               | carrera            | 2153|
+| **o** cliente    | sm/f | /kliˈẽ.tɨ/            | /kliˈẽ.tʃi/           | client/customer      | cliente            | 2155|
+| **o** escritório | sm  | /es.kɾiʃˈto.ɾju/       | /es.kɾiʃˈto.ɾi.u/       | office               | oficina      | 2141|
+| **a** reunião    | sf   | /re.uˈni.ɐ̃w̃/         | /ʁe.uˈni.ɐ̃w̃/   | meeting  | reunión    | 2152|
+| **o** contrato   | sm  | /kõ.ˈtɾa.tu/           | /kõ.ˈtɾa.tu/           | contract             | contrato           | 2142|
+| **a** carreira   | sf  | /kaˈɾɛ.jɾɐ/           | /kaˈɾej.ɾɐ/           | career               | carrera            | 2153|
 | **a** folga      | sf  | /ˈfoɫ.ɡɐ/             | /ˈfoɫ.ɡɐ/             | day off              | día libre          | 2154|
 | **a** escola     | sf  | /isˈko.ɫɐ/            | /isˈko.ɫɐ/            | school               | escuela            | 2143|
-| **o** hospital   |  sm   | /oˈspi.tɐw̃/      | /ospiˈtɐw̃/      | hospital | hospital          |2156|
+| **o** hospital   | sm   | /oˈspi.tɐw̃/      | /ospiˈtɐw̃/      | hospital | hospital          |2156|
 | **o** restaurante| sm  | /ʁes.tawˈɾɐ̃.tɨ/     | /ʁes.tawˈɾɐ̃.tʃi/     | restaurant    | restaurante        | 2157|
 | **a** arte       |  sf  | /ˈaɾ.tɨ/          | /ˈaʁ.tʃi/      | art      | arte               |2180|
 | **a** construção | sf  | /kõʃ.tɾuˈsɐ̃w̃/     | /koʃ.tɾuˈsɐ̃w̃/  | construction | construcción   |2181|
 | **o** negócio    | sm  | /neˈɡɔ.sju/       | /neˈɡɔ.sju/    | business  | negocio           |2182|
-| **a** agricultura| sf  | /a.ɡri.kulˈtu.ɾɐ/      | /a.ɡri.kulˈtu.ɾɐ/      | agriculture          | agricultura        | 32  |
+| **a** agricultura| sf  | /a.ɡri.kulˈtu.ɾɐ/      | /a.ɡri.kulˈtu.ɾɐ/   | agriculture          | agricultura        |2088|
 
 
 

@@ -29,14 +29,14 @@
 | a advogada   | sf    | /ɐd.voˈɡa.dɐ/   | /ɐd.voˈɡa.dɐ/   | lawyer       | /ˈlɔɪər/ | abogada          | /aβoˈɣaða/ |2148|
 | o/a policial | sm/f| /po.liˈsi.al/   | /po.liˈsi.al/   | police officer | /pəˈliːs ˈɒfɪsər/ | policía        | /po.liˈθi.a/ |2150|
 | o/a artista  | sm/f| /ɐɾˈtiʃ.tu/     | /aɾˈtiʃ.tu/     | artist       | /ˈɑːtɪst/ | artista (masc) | /aɾˈtista/ |2151|
-| o/a motorista| sm/f  | /mu.to.ˈɾiʃ.tɐ/  | /mu.to.ˈɾiʃ.tɐ/  | driver       | /ˈdraɪvər/ | conductor           | /kon.dukˈtoɾ/ |     |
-| o escritor   | sm    | /ɨʃ.kɾiʃˈtoɾ/   | /es.kɾiʃˈtoɾ/    | writer       | /ˈraɪtər/  | escritor            | /es.kɾiˈtoɾ/ |     |
-| a escritora  | sf    | /ɨʃ.kɾiʃˈto.ɾɐ/ | /es.kɾiʃˈto.ɾɐ/  | writer       | /ˈraɪtər/  | escritora            | /es.kɾiˈtoɾa/ |     |
-| o/a dentista | sm               | /dẽˈtis.tɐ/      | /dẽˈtis.tɐ/      | dentist      | /ˈdɛntɪst/ | dentista            | /denˈtista/ |8231|
-| a cabeleireira | sf  | /ka.bɨ.lej.ˈɾej.ɾɐ/ | /ka.be.lej.ˈɾej.ɾɐ/ | hairdresser | /ˈhɛrˌdresər/ | peluquera           | /peluˈkeɾa/ |     |
-| o cabeleireiro | sm  | /ka.bɨ.lej.ˈɾej.ɾu/ | /ka.be.lej.ˈɾej.ɾu/ | hairdresser | /ˈhɛrˌdresər/ | peluquero           | /peluˈkeɾo/ |     |
-| a instrutora de ioga   | sf               | /ĩʃ.tɾu.ˈto.ɾɐ dɨ iˈo.ɡɐ/ | /ĩʃ.tɾu.ˈto.ɾɐ dɨ iˈo.ɡɐ/ | yoga instructor | /ˈjoʊ.ɡə ˌɪnˈstrʌktər/ | instructora de yoga | /instɾukˈtoɾa ðe ˈʝoɣa/ |     |
-| o instrutor de ioga    | sm               | /ĩʃ.tɾu.ˈtoɾ dɨ iˈo.ɡɐ/ | /ĩʃ.tɾu.ˈtoɾ dɨ iˈo.ɡɐ/ | yoga instructor | /ˈjoʊ.ɡə ˌɪnˈstrʌktər/ | instructor de yoga | /instɾukˈtoɾ ðe ˈʝoɣa/ |     |
+| o/a motorista| sm/f  | /mu.to.ˈɾiʃ.tɐ/  | /mu.to.ˈɾiʃ.tɐ/  | driver       | /ˈdraɪvər/ | conductor | /kon.dukˈtoɾ/ |3814|
+| o escritor   | sm    | /ɨʃ.kɾiʃˈtoɾ/   | /es.kɾiʃˈtoɾ/    | writer       | /ˈraɪtər/  | escritor   | /es.kɾiˈtoɾ/ |1738|
+| a escritora  | sf    | /ɨʃ.kɾiʃˈto.ɾɐ/ | /es.kɾiʃˈto.ɾɐ/  | writer       | /ˈraɪtər/  | escritora  | /es.kɾiˈtoɾa/ |1738|
+| o/a dentista | sm    | /dẽˈtis.tɐ/      | /dẽˈtis.tɐ/      | dentist      | /ˈdɛntɪst/ | dentista            | /denˈtista/ |8231|
+| a cabeleireira | sf  | /ka.bɨ.lej.ˈɾej.ɾɐ/ | /ka.be.lej.ˈɾej.ɾɐ/ | hairdresser | /ˈhɛrˌdresər/ | peluquera   | /peluˈkeɾa/ |8232|
+| o cabeleireiro | sm  | /ka.bɨ.lej.ˈɾej.ɾu/ | /ka.be.lej.ˈɾej.ɾu/ | hairdresser | /ˈhɛrˌdresər/ | peluquero   | /peluˈkeɾo/ |8232|
+| a instrutora de ioga | sf | /ĩʃ.tɾu.ˈto.ɾɐ dɨ iˈo.ɡɐ/ | /ĩʃ.tɾu.ˈto.ɾɐ dɨ iˈo.ɡɐ/ | yoga instructor | /ˈjoʊ.ɡə ˌɪnˈstrʌktər/ | instructora de yoga | /instɾukˈtoɾa ðe ˈʝoɣa/ |8233|
+| o instrutor de ioga  | sm  | /ĩʃ.tɾu.ˈtoɾ dɨ iˈo.ɡɐ/ | /ĩʃ.tɾu.ˈtoɾ dɨ iˈo.ɡɐ/ | yoga instructor | /ˈjoʊ.ɡə ˌɪnˈstrʌktər/ | instructor de yoga | /instɾukˈtoɾ ðe ˈʝoɣa/ |8233|
 | o/a pianista | sm/f | /pi.ɐ.ˈniʃ.tɐ/   | /pi.ɐ.ˈniʃ.tɐ/   | pianist      | /piˈænɪst/ | pianista            | /pjaˈnista/ |8230|
 | o empregado de mesa (PT) | sm | /ẽ.pɾe.ˈɡa.du dɨ ˈme.zɐ/ |/ẽ.pɾe.ˈɡa.du dɨ ˈme.zɐ/  | waiter       | /ˈweɪ.tər/ | camarero | /kamaˈɾeɾo/ |8226|
 | a empregada de mesa (PT)  | sf| /ẽ.pɾe.ˈɡa.dɐ dɨ ˈme.zɐ/ |/ẽ.pɾe.ˈɡa.dɐ dɨ ˈme.zɐ/  | waitress     | /ˈweɪ.trɪs/ | camarera            | /kamaˈɾeɾa/ |8227|

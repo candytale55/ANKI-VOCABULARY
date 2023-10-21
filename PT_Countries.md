@@ -131,18 +131,18 @@
 |--------------------------|----------|----------|------------------------------|--------------|---------------------------|-------------|-----|
 | **a** Argélia            | /ɐɾˈʒe.li.ɐ/ | /aɾˈʒe.li.ɐ/ | Algeria                    | /ælˈdʒɪərɪə/ | Argelia                   | /aɾˈxelja/ |     |
 | **o** Barein             | /bɐ.ˈɾeĩ̯/ | /ba.ˈɾeĩ̯/ | Bahrain                    | /bɑːˈreɪn/   | Baréin                    | /baˈɾein/  |     |
-| **o** Egito              | /ˈɛ.ʒi.tu/ | /ˈɛ.ʒi.tu/ | Egypt                       | /ˈiːdʒɪpt/    | Egipto                    | /eˈhipto/  |     |
-| **o** Irã                | /i.ˈɾɐ̃u/  | /i.ˈɾɐ̃w/  | Iran                        | /ɪˈrɑːn/      | Irán                      | /iˈɾan/    |     |
-| **o** Iraque             | /i.ˈɾak/   | /i.ˈɾakɪ/  | Iraq                        | /ɪˈræk/       | Irak                      | /iˈɾak/    |     |
+| **o** Egito              | /ˈɛ.ʒi.tu/ | /ˈɛ.ʒi.tu/ | Egypt     | /ˈiːdʒɪpt/    | Egipto        | /eˈhipto/  |8237|
+| **o** Irã                | /i.ˈɾɐ̃u/   | /i.ˈɾɐ̃w/   | Iran      | /ɪˈrɑːn/      | Irán          | /iˈɾan/    |8236|
+| **o** Iraque             | /i.ˈɾak/   | /i.ˈɾakɪ/  | Iraq                      | /ɪˈræk/       | Irak                      | /iˈɾak/    |     |
 | **o** Israel             | /i.zɾɐˈɛw/ | /is.ɾɐˈɛw/ | Israel                      | /ˈɪzreɪl/    | Israel                    | /isɾaˈel/  |     |
-| **a** Jordânia           | /ʒuɾˈdɐ.njɐ/ | /ʒuɾˈdɐ.njɐ/ | Jordan                    | /ˈdʒɔːrdən/ | Jordania                  | /xoɾˈðanja/ |     |
-| **o** Kuwait             | /ku.ˈwajt/ | /ku.ˈwajt/ | Kuwait                      | /kʊˈweɪt/    | Kuwait                    | /kwaˈit/   |     |
-| **o** Líbano             | /ˈlibɐnu/  | /ˈlibɐnu/  | Lebanon                     | /ˈlɛbənɒn/ | Líbano                    | /ˈliβano/  |     |
-| **a** Líbia              | /ˈlibi.ɐ/ | /ˈlibi.ɐ/ | Libya                       | /ˈlɪbiə/      | Libia                     | /ˈliβja/   |     |
-| **o** Marrocos           | /mɐ.ˈʁɔ.kuʃ/ | /ma.ˈʁɔ.kus/ | Morocco                   | /məˈrɒkəʊ/  | Marruecos                 | /maˈrwekos/ |     |
+| **a** Jordânia           | /ʒuɾˈdɐ.njɐ/ | /ʒuɾˈdɐ.njɐ/  | Jordan   | /ˈdʒɔːrdən/ | Jordania      | /xoɾˈðanja/ |8238|
+| **o** Kuwait             | /ku.ˈwajt/ | /ku.ˈwajt/      | Kuwait     | /kʊˈweɪt/    | Kuwait          | /kwaˈit/   |8239|
+| **o** Líbano             | /ˈlibɐnu/  | /ˈlibɐnu/       | Lebanon   | /ˈlɛbənɒn/ | Líbano        | /ˈliβano/  |8240|
+| **a** Líbia              | /ˈlibi.ɐ/ | /ˈlibi.ɐ/        | Libya      | /ˈlɪbiə/      | Libia    | /ˈliβja/   |8241|
+| Marrocos                 | /mɐ.ˈʁɔ.kuʃ/ | /ma.ˈʁɔ.kus/ | Morocco     | /məˈrɒkəʊ/  | Marruecos  | /maˈrwekos/ |8242|
 | **o** Omã                | /oˈmɐ̃/    | /oˈmɐ̃/    | Oman                        | /oʊˈmɑːn/    | Omán                      | /oˈman/    |     |
 | **o** Território Palestino Ocupado | /tɨ.ˈɾi.to.ɾju pɐ.lɨsˈt(i).nu o.ku.ˈpa.ðu/ | /te.ˈri.to.ɾju pa.lɨsˈt(i).nu o.ku.ˈpa.ðu/ | Occupied Palestinian Territory | /ˈɒkjʊˌpaɪd pəˈlɛstɪnaɪ ˌterɪˌtɔri/ | Territorio Palestino Ocupado | /teˈri.torio pal.esˈtino o.kuˈpaðo/ |     |
-| **o** Catar              | /ka.ˈtaʁ/  | /ka.ˈtaʁ/  | Qatar                       | /ˈkɑːtɑːr/    | Qatar                     | /kaˈtaɾ/   |     |
+| **o** Catar              | /ka.ˈtaʁ/  | /ka.ˈtaʁ/  | Qatar     | /ˈkɑːtɑːr/    | Catar        | /kaˈtaɾ/   |8243|
 | **a** Arábia Saudita     | /ɐ.ˈɾa.bi.ɐ sɐw.ˈdi.tɐ/ | /a.ˈɾa.bi.ɐ saw.ˈdi.tɐ/ | Saudi Arabia | /ˌsɔːdi əˈreɪbiə/ | Arabia Saudita           | /aˈɾaβja sawˈðita/ |     |
 | **a** Síria              | /ˈsi.ɾjɐ/  | /ˈsi.ɾjɐ/  | Syria                       | /ˈsɪriə/      | Siria                     | /ˈsiɾja/   |     |
 | **a** Tunísia            | /tu.ˈni.zi.ɐ/ | /tu.ˈni.zi.ɐ/ | Tunisia                 | /tuˈniʒə/   | Túnez                     | /ˈtunes/   |     |

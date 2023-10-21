@@ -143,11 +143,11 @@
 | **o** Omã                | /oˈmɐ̃/    | /oˈmɐ̃/    | Oman                        | /oʊˈmɑːn/    | Omán                      | /oˈman/    |     |
 | **o** Território Palestino Ocupado | /tɨ.ˈɾi.to.ɾju pɐ.lɨsˈt(i).nu o.ku.ˈpa.ðu/ | /te.ˈri.to.ɾju pa.lɨsˈt(i).nu o.ku.ˈpa.ðu/ | Occupied Palestinian Territory | /ˈɒkjʊˌpaɪd pəˈlɛstɪnaɪ ˌterɪˌtɔri/ | Territorio Palestino Ocupado | /teˈri.torio pal.esˈtino o.kuˈpaðo/ |     |
 | **o** Catar              | /ka.ˈtaʁ/  | /ka.ˈtaʁ/  | Qatar     | /ˈkɑːtɑːr/    | Catar        | /kaˈtaɾ/   |8243|
-| **a** Arábia Saudita     | /ɐ.ˈɾa.bi.ɐ sɐw.ˈdi.tɐ/ | /a.ˈɾa.bi.ɐ saw.ˈdi.tɐ/ | Saudi Arabia | /ˌsɔːdi əˈreɪbiə/ | Arabia Saudita           | /aˈɾaβja sawˈðita/ |     |
-| **a** Síria              | /ˈsi.ɾjɐ/  | /ˈsi.ɾjɐ/  | Syria                       | /ˈsɪriə/      | Siria                     | /ˈsiɾja/   |     |
-| **a** Tunísia            | /tu.ˈni.zi.ɐ/ | /tu.ˈni.zi.ɐ/ | Tunisia                 | /tuˈniʒə/   | Túnez                     | /ˈtunes/   |     |
+| **a** Arábia Saudita     | /ɐ.ˈɾa.bi.ɐ sɐw.ˈdi.tɐ/ | /a.ˈɾa.bi.ɐ saw.ˈdi.tɐ/ | Saudi Arabia | /ˌsɔːdi əˈreɪbiə/ | Arabia Saudita           | /aˈɾaβja sawˈðita/ |8244|
+| **a** Síria              | /ˈsi.ɾjɐ/  | /ˈsi.ɾjɐ/  | Syria     | /ˈsɪriə/      | Siria        | /ˈsiɾja/   |8245|
+| **a** Tunísia            | /tu.ˈni.zi.ɐ/ | /tu.ˈni.zi.ɐ/ | Tunisia      | /tuˈniʒə/   | Túnez       | /ˈtunes/   |8246|
 | **os** Emirados Árabes Unidos | /ɨ.mi.ˈɾa.dus ˈa.ɾa.bis u.ˈni.dus/ | /i.mi.ˈɾa.dus ˈa.ɾa.bis u.ˈni.dus/ | United Arab Emirates | /juːˌnaɪ.tɪd ˈærəb ˈɛmɪrɪts/ | Emiratos Árabes Unidos | /emiˈɾatos ˈaɾaβes uˈniðos/ |     |
-| **o** Iêmen              | /ˈʒɛ.mẽ/   | /ˈʒɛ.mẽ/   | Yemen                       | /ˈjɛmən/      | Yemen                     | /ˈʝemen/   |     |
+| **o** Iêmen              | /ˈʒɛ.mẽ/   | /ˈʒɛ.mẽ/   | Yemen      | /ˈjɛmən/      | Yemen        | /ˈʝemen/   |8247|
 
 
 

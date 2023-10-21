@@ -199,7 +199,7 @@ Certainly! Here is the markdown table for the provided list of countries:
 | **a** África do Sul | sf | /ˈafɾikɐ du ˈsuw/ | /ˈafɾikɐ du ˈsuw/ | South Africa | /saʊθ ˈæfrɪkə/ | Sudáfrica | /suˈðafɾika/ | |
 | **o** Sudão do Sul | sm | /suˈdɐ̃w du ˈsuw/ | /suˈdɐ̃w du ˈsuw/ | South Sudan | /saʊθ ˈsuːdæn/ | Sudán del Sur | /suˈðan ðel suɾ/ | |
 | **o** Togo | sm | /ˈto.ɡu/ | /ˈto.ɡu/ | Togo | /ˈtoʊɡoʊ/ | Togo | /ˈtoɣo/ | |
-| **o** Uganda | sm | /u.ɡɐ̃ˈdɐ/ | /u.ɡɐ̃ˈdɐ/ | Uganda | /juːˈɡændə/ | Uganda | /uɡanˈda/ | |
-| **a** República Unida da Tanzânia | sf | /ʁɛ.pubˈli.kɐ u.ˈni.ðɐ dɐ tɐ̃ˈzɐ.ni.ɐ/ | /ʁɛ.pubˈli.kɐ u.ˈni.dɐ dɐ tɐ̃ˈzɐ.ni.ɐ/ | United Republic of Tanzania | /juˈnaɪtɪd rɪˈpʌblɪk ʌv ˌtænzəˈniːə/ | República Unida de Tanzania | /reˈpuβlika uˈniða ðe tanθaˈnia/ | |
-| **a** Zâmbia | sf | /ˈzɐ̃.bɨ.ɐ/ | /ˈzɐ̃.bi.ɐ/ | Zambia | /ˈzæmbiə/ | Zambia | /ˈθambia/ | |
-| **o** Zimbábue | sm | /zĩˈbabwɨ/ | /zĩˈbabwɨ/ | Zimbabwe | /zɪmˈbɑːbweɪ/ | Zimbabue | /zimbaˈβwe/ | |
+| **o** Uganda | sm | /u.ɡɐ̃ˈdɐ/ | /u.ɡɐ̃ˈdɐ/ | Uganda | /juːˈɡændə/ | Uganda | /uɡanˈda/ |8251|
+| **a** Tanzânia | sf | /tɐ̃ˈzɐ.ni.ɐ/ | /tɐ̃ˈzɐ.ni.ɐ/ | Tanzania | /tænzəˈniːə/ | Tanzania | /tanθaˈnia/ |8250|
+| **a** Zâmbia | sf | /ˈzɐ̃.bɨ.ɐ/ | /ˈzɐ̃.bi.ɐ/ | Zambia | /ˈzæmbiə/ | Zambia | /ˈθambia/ |8249|
+| **o** Zimbábue | sm | /zĩˈbabwɨ/ | /zĩˈbabwɨ/ | Zimbabwe | /zɪmˈbɑːbweɪ/ | Zimbabue | /zimbaˈβwe/ |8248|

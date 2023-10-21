@@ -60,8 +60,6 @@
 
 ## Southern Europe Countries
 
-
-
 | Portuguese   | Gênero | IPA (PT) | IPA (BR)  | English               | English IPA | Spanish            | Spanish IPA | No. |
 |--------------|---------------|----------|-----------|-----------------------|-------------|--------------------|-------------|-----|
 | **a** Albânia    | sf   | /alˈbɐni.ɐ/   | /awˈbɐni.ɐ/   | Albania     | /ælˈbeɪni.ə/      | Albania    | /alˈβa.ni.a/ |8178|
@@ -159,7 +157,7 @@ Certainly! Here is the markdown table for the provided list of countries:
 | Portuguese | Tipo de Palavra | IPA (PT) | IPA (BR) | English | English IPA | Spanish | Spanish IPA | No. |
 |------------|-----------------|----------|----------|---------|-------------|---------|-------------|-----|
 | **a** Argélia | sf | /ɐɾˈʒe.li.ɐ/ | /aɾˈʒe.li.ɐ/ | Algeria | /ælˈdʒɪə.riə/ | Argelia | /aɾˈxelja/ | |
-| **a** Angola | sf | /ɐ̃ˈɡɔ.lɐ/ | /ɐ̃ˈɡɔ.lɐ/ | Angola | /æŋˈɡoʊ.lə/ | Angola | /anˈɡola/ | |
+| **a** Angola | sf | /ɐ̃ˈɡɔ.lɐ/ | /ɐ̃ˈɡɔ.lɐ/ | Angola | /æŋˈɡoʊ.lə/ | Angola | /anˈɡola/ |7003|
 | **o** Benim | sm | /bɨˈnim/ | /bɛˈnim/ | Benin | /bɛˈnɪn/ | Benín | /beˈnin/ | |
 | **o** Botsuana | sm | /bɔ.tsuˈɐ.nɐ/ | /bɔ.tsuˈɐ.nɐ/ | Botswana | /bɒtˈswɑː.nə/ | Botsuana | /botsuˈana/ | |
 | **o** Burquina Faso | sm | /buɾˈkinɐ ˈfasu/ | /buɾˈkinɐ ˈfasu/ | Burkina Faso | /bɜːrˈkiːnə ˈfæsoʊ/ | Burkina Faso | /burˈkina ˈfaso/ | |
@@ -189,12 +187,12 @@ Certainly! Here is the markdown table for the provided list of countries:
 | **o** Mali | sm | /ˈmɐ.li/ | /ˈmɐ.li/ | Mali | /ˈmɑːli/ | Malí | /maˈli/ | |
 | **a** Mauritânia | sf | /mɐu̯ɾiˈtɐni.ɐ/ | /mawɾiˈtɐni.ɐ/ | Mauritania | /ˌmɒrɪˈteɪniə/ | Mauritania | /moɾiˈtanja/ | |
 | **a** Maurícia | sf | /mɐu̯ˈɾi.sjɐ/ | /mawˈɾisjɐ/ | Mauritius | /məˈrɪʃəs/ | Mauricio | /mau̯ˈɾiθjo/ | |
-| **o** Moçambique | sm | /musɐ̃ˈbik/ | /musɐ̃ˈbikɨ/ | Mozambique | /ˌmoʊzæmˈbiːk/ | Mozambique | /musɐ̃ˈbikɨ/ | |
+| **o** Moçambique | sm | /musɐ̃ˈbik/ | /musɐ̃ˈbikɨ/ | Mozambique | /ˌmoʊzæmˈbiːk/ | Mozambique | /musɐ̃ˈbikɨ/ |7004|
 | **a** Namíbia | sf | /nɐˈmibi.ɐ/ | /nɐˈmibi.ɐ/ | Namibia | /nəˈmɪbiə/ | Namibia | /naˈmibja/ | |
 | **o** Níger | sm | /ˈni.ʒɨɾ/ | /ˈni.ʒeɾ/ | Niger | /ˈnaɪdʒər/ | Níger | /ˈni.xeɾ/ | |
 | **a** Nigéria | sf | /niˈʒɛ.ɾi.ɐ/ | /niˈʒɛ.ɾi.ɐ/ | Nigeria | /naɪˈdʒɪəriə/ | Nigeria | /niˈxeɾja/ | |
 | **o** Ruanda | sm | /huˈɐ̃.dɐ/ | /uˈɐ̃.dɐ/ | Rwanda | /ruˈændə/ | Ruanda | /ruˈanda/ | |
-| **o** São Tomé e Príncipe | sm | /sɐ̃w tuˈmɛ i ˈpɾĩ.sɨpɨ/ | /sɐ̃w toˈmɛ i ˈpɾĩ.sipi/ | São Tomé and Príncipe | /ˌsaʊn təˈmeɪ  ˈænd ˈprɪnsɪpə/ | Santo Tomé y Príncipe | /ˈsanto toˈme i ˈpɾinθipe/ | |
+| **o** São Tomé e Príncipe | sm | /sɐ̃w tuˈmɛ i ˈpɾĩ.sɨpɨ/ | /sɐ̃w toˈmɛ i ˈpɾĩ.sipi/ | São Tomé and Príncipe | /ˌsaʊn təˈmeɪ  ˈænd ˈprɪnsɪpə/ | Santo Tomé y Príncipe | /ˈsanto toˈme i ˈpɾinθipe/ |7009|
 | **o** Senegal | sm | /sɨ.nɨˈɡaw/ | /sɛ.nɛˈɡaw/ | Senegal | /ˌsɛnɪˈɡɔːl/ | Senegal | /seˈneɣal/ | |
 | **as** Seychelles | sfp | /sejˈʃɛ.lɨʃ/ | /sejˈʃɛliz/ | Seychelles | /seɪˈʃɛlz/ | Seychelles | /sejˈʧeles/ | |
 | **a** Serra Leoa | sf | /ˈsɛ.ʁɐ lɛ.ˈo.ɐ/ | /ˈsɛ.ʁɐ lɛ.ˈo.ɐ/ | Sierra Leone | /sɪˈɛrə lɪˈoʊn/ | Sierra Leona | /ˈsjera leˈona/ | |

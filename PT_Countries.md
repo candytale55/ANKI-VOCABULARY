@@ -197,8 +197,8 @@ Certainly! Here is the markdown table for the provided list of countries:
 | **as** Seychelles | sfp | /sejˈʃɛ.lɨʃ/ | /sejˈʃɛliz/ | Seychelles | /seɪˈʃɛlz/ | Seychelles | /sejˈʧeles/ | |
 | **a** Serra Leoa | sf | /ˈsɛ.ʁɐ lɛ.ˈo.ɐ/ | /ˈsɛ.ʁɐ lɛ.ˈo.ɐ/ | Sierra Leone | /sɪˈɛrə lɪˈoʊn/ | Sierra Leona | /ˈsjera leˈona/ | |
 | **a** África do Sul | sf | /ˈafɾikɐ du ˈsuw/ | /ˈafɾikɐ du ˈsuw/ | South Africa | /saʊθ ˈæfrɪkə/ | Sudáfrica | /suˈðafɾika/ | |
-| **o** Sudão do Sul | sm | /suˈdɐ̃w du ˈsuw/ | /suˈdɐ̃w du ˈsuw/ | South Sudan | /saʊθ ˈsuːdæn/ | Sudán del Sur | /suˈðan ðel suɾ/ | |
-| **o** Togo | sm | /ˈto.ɡu/ | /ˈto.ɡu/ | Togo | /ˈtoʊɡoʊ/ | Togo | /ˈtoɣo/ | |
+| **o** Sudão do Sul | sm | /suˈdɐ̃w du ˈsuw/ | /suˈdɐ̃w du ˈsuw/ | South Sudan | /saʊθ ˈsuːdæn/ | Sudán del Sur | /suˈðan ðel suɾ/ |8253|
+| **o** Togo | sm | /ˈto.ɡu/ | /ˈto.ɡu/ | Togo | /ˈtoʊɡoʊ/ | Togo | /ˈtoɣo/ |8252|
 | **o** Uganda | sm | /u.ɡɐ̃ˈdɐ/ | /u.ɡɐ̃ˈdɐ/ | Uganda | /juːˈɡændə/ | Uganda | /uɡanˈda/ |8251|
 | **a** Tanzânia | sf | /tɐ̃ˈzɐ.ni.ɐ/ | /tɐ̃ˈzɐ.ni.ɐ/ | Tanzania | /tænzəˈniːə/ | Tanzania | /tanθaˈnia/ |8250|
 | **a** Zâmbia | sf | /ˈzɐ̃.bɨ.ɐ/ | /ˈzɐ̃.bi.ɐ/ | Zambia | /ˈzæmbiə/ | Zambia | /ˈθambia/ |8249|

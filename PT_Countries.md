@@ -167,7 +167,7 @@ Certainly! Here is the markdown table for the provided list of countries:
 | **a** República Centro-Africana | sf | /ʁɛ.pubˈli.kɐ sẽ.tɾu a.fɾiˈkɐ.nɐ/ | /ʁɛ.pubˈli.kɐ sẽ.tɾu a.fɾiˈkɐ.nɐ/ | Central African Republic | /ˈsɛn.trəl ˈæfrɪkən rɪˈpʌblɪk/ | República Centroafricana | /reˈpuβlika θentɾoaˈfɾikana/ | |
 | **o** Chade | sm | /ˈʃa.dɨ/ | /ˈʃa.dʒi/ | Chad | /tʃæd/ | Chad | /tʃad/ | |
 | **as** Comores | sfp | /kuˈmo.ɾɨʃ/ | /koˈmoɾis/ | Comoros | /ˈkɒməroʊz/ | Comoras | /koˈmoɾas/ | |
-| **o** Congo | sm | /ˈkõ.ɡu/ | /ˈkõ.ɡu/ | Congo | /ˈkɒŋɡoʊ/ | Congo | /ˈkoŋɡo/ | |
+| **o** Congo | sm | /ˈkõ.ɡu/ | /ˈkõ.ɡu/ | Congo | /ˈkɒŋɡoʊ/ | Congo | /ˈkoŋɡo/ |8254|
 | **a** Costa do Marfim | sf | /ˈkɔʃ.tɐ ðu ˈmaɾ.fĩ/ | /ˈkɔstɐ ðu ˈmaɾ.fĩ/ | Ivory Coast | /ˈaɪv.ri koʊst/ | Costa de Marfil | /ˈkosta ðe maɾˈfil/ | |
 | **a** República Democrática do Congo | sf | /ʁɛ.pubˈli.kɐ dɨ.mu.kɾɐˈtikɐ du ˈkõ.ɡu/ | /ʁɛ.pubˈli.kɐ dɨ.mu.kɾaˈtʃi.kɐ du ˈkõ.ɡu/ | Democratic Republic of Congo | /dɪˈmɒkrətɪk rɪˈpʌblɪk əv ˈkɒŋɡoʊ/ | República Democrática del Congo | /reˈpuβlika ðemoˈkɾatika ðel ˈkoŋɡo/ | |
 | **a** Guiné Equatorial | sf | /ɡiˈnɛ ˌɛ.ki.tɔˈɾi.ɐl/ | /ɡiˈnɛ ˌɛ.ki.tɔˈɾi.ɐw/ | Equatorial Guinea | /ˌɛkwəˈtɔːriəl ˈɡɪni/ | Guinea Ecuatorial | /ɡiˈnea ekwatoˈɾjal/ | |

@@ -191,7 +191,7 @@ Certainly! Here is the markdown table for the provided list of countries:
 | **a** Namíbia | sf | /nɐˈmibi.ɐ/ | /nɐˈmibi.ɐ/ | Namibia | /nəˈmɪbiə/ | Namibia | /naˈmibja/ | |
 | **o** Níger | sm | /ˈni.ʒɨɾ/ | /ˈni.ʒeɾ/ | Niger | /ˈnaɪdʒər/ | Níger | /ˈni.xeɾ/ | |
 | **a** Nigéria | sf | /niˈʒɛ.ɾi.ɐ/ | /niˈʒɛ.ɾi.ɐ/ | Nigeria | /naɪˈdʒɪəriə/ | Nigeria | /niˈxeɾja/ | |
-| **o** Ruanda | sm | /huˈɐ̃.dɐ/ | /uˈɐ̃.dɐ/ | Rwanda | /ruˈændə/ | Ruanda | /ruˈanda/ | |
+| **o** Ruanda | sm | /huˈɐ̃.dɐ/ | /uˈɐ̃.dɐ/ | Rwanda | /ruˈændə/ | Ruanda | /ruˈanda/ |8255|
 | **o** São Tomé e Príncipe | sm | /sɐ̃w tuˈmɛ i ˈpɾĩ.sɨpɨ/ | /sɐ̃w toˈmɛ i ˈpɾĩ.sipi/ | São Tomé and Príncipe | /ˌsaʊn təˈmeɪ  ˈænd ˈprɪnsɪpə/ | Santo Tomé y Príncipe | /ˈsanto toˈme i ˈpɾinθipe/ |7009|
 | **o** Senegal | sm | /sɨ.nɨˈɡaw/ | /sɛ.nɛˈɡaw/ | Senegal | /ˌsɛnɪˈɡɔːl/ | Senegal | /seˈneɣal/ | |
 | **as** Seychelles | sfp | /sejˈʃɛ.lɨʃ/ | /sejˈʃɛliz/ | Seychelles | /seɪˈʃɛlz/ | Seychelles | /sejˈʧeles/ | |

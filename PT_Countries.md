@@ -208,55 +208,55 @@ Certainly! Here is the markdown table for the provided list of countries:
 
 ## Countries in Asia
 
-| Portuguese | Tipo de Palavra | IPA (PT) | IPA (BR) | English | Spanish | No. |
-|------------|-----------------|----------|----------|---------|---------|-----|
-| **o** Afeganistão | sm | /ɐfɨɡɐ̃nisˈtɐ̃w̃/ | /afɨɡɐ̃nisˈtɐ̃w̃/ | Afghanistan | Afganistán |  |
-| **a** Armênia | sf | /ɐɾˈmɛ.ni.ɐ/ | /aɾˈmɛ.ni.ɐ/ | Armenia | Armenia |  |
-| **o** Azerbaijão | sm | /ɐz.bɨdʒiˈʒɐ̃w̃/ | /az.beʒiˈʒɐ̃w̃/ | Azerbaijan | Azerbaiyán |  |
-| **o** Bahrein | sm | /bɐ.ˈɾɛĩ̯/ | /baˈɾɛĩ̯/ | Bahrain | Baréin |  |
-| **o** Bangladesh | sm | /bɐ̃ɡlɐˈdeʃ/ | /bɐ̃ɡlɐˈdeʃ/ | Bangladesh | Bangladesh |  |
-| **o** Butão | sm | /buˈtɐ̃w̃/ | /buˈtɐ̃w̃/ | Bhutan | Bután |  |
-| **o** Brunei | sm | /bɾuˈnei/ | /bɾuˈnei/ | Brunei | Brunéi |  |
-| **o** Camboja | sm | /kɐ̃ˈbɔʒɐ/ | /kɐ̃ˈbɔʒɐ/ | Cambodia | Camboya |  |
-| **a** China | sf | /ˈʃi.nɐ/ | /ˈʃi.nɐ/ | China | China |  |
-| **o** Chipre | sm | /ˈʃi.pɾi/ | /ˈʃi.pɾi/ | Cyprus | Chipre |  |
-| **a** Geórgia | sf | /ʒiˈɔɾ.ʒi.ɐ/ | /ʒiˈɔɾ.ʒi.ɐ/ | Georgia | Georgia |  |
-| **a** Índia | sf | /ˈĩ.djɐ/ | /ˈĩ.dʒi.ɐ/ | India | India |  |
-| **a** Indonésia | sf | /ĩ.du.nɛˈzi.ɐ/ | /ĩ.du.nɛˈzi.ɐ/ | Indonesia | Indonesia |  |
-| **o** Irã | sm | /iˈɾɐ̃w̃/ | /iˈɾɐ̃w̃/ | Iran | Irán |  |
-| **o** Iraque | sm | /iˈɾɐki/ | /iˈɾaki/ | Iraq | Irak |  |
-| **o** Israel | sm | /is.ɾɐˈɛw̃/ | /is.ɾaˈɛl/ | Israel | Israel |  |
-| **o** Japão | sm | /ʒɐˈpɐ̃w̃/ | /ʒɐˈpɐ̃w̃/ | Japan | Japón |  |
-| **a** Jordânia | sf | /ʒɔɾˈdɐni.ɐ/ | /ʒɔɾˈdɐni.ɐ/ | Jordan | Jordania |  |
-| **o** Cazaquistão | sm | /kɐzɐkisˈtɐ̃w̃/ | /kazɐkisˈtɐ̃w̃/ | Kazakhstan | Kazajistán |  |
-| **o** Kuwait | sm | /kuˈwajt/ | /kʊˈwajt/ | Kuwait | Kuwait |  |
-| **o** Quirguistão | sm | /kiɾ.ɡiʃˈtɐ̃w̃/ | /kiɾ.ɡiʃˈtɐ̃w̃/ | Kyrgyzstan | Kirguistán |  |
-| **o** Laos | sm | /laˈɔʃ/ | /laˈɔʃ/ | Laos | Laos |  |
-| **o** Líbano | sm | /liˈbɐ̃w̃/ | /liˈbɐ̃w̃/ | Lebanon | Líbano |  |
-| **a** Malásia | sf | /mɐˈlazi.ɐ/ | /mɐˈlazi.ɐ/ | Malaysia | Malasia |  |
-| **as** Maldivas | sfp | /mɐɫˈdi.vɐʃ/ | /mawˈdi.vas/ | Maldives | Maldivas |  |
-| **a** Mongólia | sf | /mõˈɡɔ.li.ɐ/ | /mõˈɡɔ.li.ɐ/ | Mongolia | Mongolia |  |
-| **a** Mianmar | sf | /miˈɐ̃mɐɾ/ | /miˈɐ̃maɾ/ | Myanmar | Myanmar |  |
-| **o** Nepal | sm | /niˈpaw/ | /niˈpaw/ | Nepal | Nepal |  |
-| **a** Coreia do Norte | sf | /koˈɾejɐ du ˈnɔɾ.tɨ/ | /koˈɾejɐ du ˈnɔɾ.tʃi/ | North Korea | Corea del Norte |  |
-| **o** Omã | sm | /oˈmɐ̃w̃/ | /oˈmɐ̃w̃/ | Oman | Omán |  |
-| **o** Paquistão | sm | /pɐ.kiʃˈtɐ̃w̃/ | /pa.kiʃˈtɐ̃w̃/ | Pakistan | Pakistán |  |
-| **a** Palestina | sf | /pɐ.lɨʃˈti.nɐ/ | /pa.lɛsˈtinɐ/ | Palestine | Palestina |  |
-| **as** Filipinas | sfp | /fi.liˈpinɐʃ/ | /fi.liˈpinas/ | Philippines | Filipinas |  |
-| **o** Catar | sm | /kɐˈtaɾ/ | /kaˈtaʁ/ | Qatar | Catar |  |
-| **a** Rússia | sf | /ˈʁus.jɐ/ | /ˈʁus.jɐ/ | Russia | Rusia |  |
-| **a** Arábia Saudita | sf | /aˈɾabi.ɐ sɐwˈdi.tɐ/ | /aˈɾabjɐ sawˈdi.tɐ/ | Saudi Arabia | Arabia Saudí |  |
-| **a** Cingapura | sf | /sĩ.ɡɐˈpuɾɐ/ | /si.ɡɐˈpuɾɐ/ | Singapore | Singapur |  |
-| **a** Coreia do Sul | sf | /koˈɾejɐ du suw/ | /koˈɾejɐ du suw/ | South Korea | Corea del Sur |  |
-| **o** Sri Lanka | sm | /ˈsɾi ˈlɐ̃kɐ/ | /ˈsɾi ˈlɐ̃kɐ/ | Sri Lanka | Sri Lanka |  |
-| **a** Síria | sf | /ˈsi.ɾi.ɐ/ | /ˈsi.ɾi.ɐ/ | Syria | Siria |  |
-| **o** Taiwan | sm | /taiˈwɐ̃w̃/ | /taiˈwɐ̃w̃/ | Taiwan | Taiwán |  |
-| **o** Tajiquistão | sm | /tɐʒi.kisˈtɐ̃w̃/ | /taʒi.kisˈtɐ̃w̃/ | Tajikistan | Tayikistán |  |
-| **a** Tailândia | sf | /tɐiˈlɐ̃dʒi.ɐ/ | /taˈlɐndʒi.ɐ/ | Thailand | Tailandia |  |
-| **o** Timor-Leste | sm | /tiˈmoɾ ˈlɛʃtɨ/ | /tiˈmoɾ ˈlɛʃtʃi/ | East Timor | Timor Oriental |  |
-| **a** Turquia | sf | /tuɾˈki.ɐ/ | /tuɾˈki.ɐ/ | Turkey | Turquía |  |
-| **o** Turcomenistão | sm | /tuɾ.ko.mɨ.nisˈtɐ̃w̃/ | /tuɾ.ko.me.nisˈtɐ̃w̃/ | Turkmenistan | Turkmenistán |  |
-| **os** Emirados Árabes Unidos | smp | /ɨ.mi.ˈɾa.dus ˈa.ɾa.bis u.ni.ˈdus/ | /i.mi.ˈɾa.dus ˈa.ɾa.bis u.ni.ˈdus/ | United Arab Emirates | Emiratos Árabes Unidos |  |
-| **o** Uzbequistão | sm | /uz.bɛ.kisˈtɐ̃w̃/ | /uz.be.kisˈtɐ̃w̃/ | Uzbekistan | Uzbekistán |  |
-| **o** Vietnã | sm | /viˈɛt.nɐ̃w̃/ | /vjɛtˈna/ | Vietnam | Vietnam |  |
-| **o** Iêmen | sm | /iˈjɛmẽ/ | /iˈʒɛmẽ/ | Yemen | Yemen |  |
+| Portuguese | Tipo de Palavra | IPA (PT) | IPA (BR) | English | English IPA | Spanish | Spanish IPA | No. |
+|------------|-----------------|----------|----------|---------|------------|---------|------------|-----|
+| **o** Afeganistão | sm | /ɐfɨɡɐ̃nisˈtɐ̃w̃/ | /afɨɡɐ̃nisˈtɐ̃w̃/ | Afghanistan | /æfˈɡænɪstæn/ | Afganistán | /afɡa.nisˈtan/ |  |
+| **a** Armênia | sf | /ɐɾˈmɛ.ni.ɐ/ | /aɾˈmɛ.ni.ɐ/ | Armenia | /ɑːˈmiːniə/ | Armenia | /arˈmenja/ |  |
+| **o** Azerbaijão | sm | /ɐz.bɨdʒiˈʒɐ̃w̃/ | /az.beʒiˈʒɐ̃w̃/ | Azerbaijan | /ˌæzərbaɪˈdʒɑːn/ | Azerbaiyán | /az.βeɾˈʝan/ |  |
+| **o** Bahrein | sm | /bɐ.ˈɾɛĩ̯/ | /baˈɾɛĩ̯/ | Bahrain | /bɑːˈreɪn/ | Baréin | /baˈɾeɪn/ |  |
+| **o** Bangladesh | sm | /bɐ̃ɡlɐˈdeʃ/ | /bɐ̃ɡlɐˈdeʃ/ | Bangladesh | /ˈbændlˌdɛʃ/ | Bangladesh | /banɡlaˈdeʃ/ |  |
+| **o** Butão | sm | /buˈtɐ̃w̃/ | /buˈtɐ̃w̃/ | Bhutan | /buːˈtɑːn/ | Bután | /buˈtan/ |  |
+| **o** Brunei | sm | /bɾuˈnei/ | /bɾuˈnei/ | Brunei | /bruːˈnaɪ/ | Brunéi | /bruˈnei/ |  |
+| **o** Camboja | sm | /kɐ̃ˈbɔʒɐ/ | /kɐ̃ˈbɔʒɐ/ | Cambodia | /kæmˈboʊdiə/ | Camboya | /kamˈboʝa/ |  |
+| **a** China | sf | /ˈʃi.nɐ/ | /ˈʃi.nɐ/ | China | /ˈʧaɪ.nə/ | China | /ˈʧina/ |  |
+| **o** Chipre | sm | /ˈʃi.pɾi/ | /ˈʃi.pɾi/ | Cyprus | /ˈsaɪ.prəs/ | Chipre | /ˈʧipɾe/ |  |
+| **a** Geórgia | sf | /ʒiˈɔɾ.ʒi.ɐ/ | /ʒiˈɔɾ.ʒi.ɐ/ | Georgia | /ˈdʒɔːrdʒə/ | Georgia | /ˈxeoɾxja/ |  |
+| **a** Índia | sf | /ˈĩ.djɐ/ | /ˈĩ.dʒi.ɐ/ | India | /ˈɪndiə/ | India | /ˈindi.a/ |  |
+| **a** Indonésia | sf | /ĩ.du.nɛˈzi.ɐ/ | /ĩ.du.nɛˈzi.ɐ/ | Indonesia | /ˌɪndoʊˈniːʒə/ | Indonesia | /indoˈnesja/ |  |
+| **o** Irã | sm | /iˈɾɐ̃w̃/ | /iˈɾɐ̃w̃/ | Iran | /ɪˈrɑːn/ | Irán | /iˈɾan/ |  |
+| **o** Iraque | sm | /iˈɾɐki/ | /iˈɾaki/ | Iraq | /ɪˈræk/ | Irak | /iˈɾak/ |  |
+| **o** Israel | sm | /is.ɾɐˈɛw̃/ | /is.ɾaˈɛl/ | Israel | /ˈɪzreɪl/ | Israel | /isˈɾa.el/ |  |
+| **o** Japão | sm | /ʒɐˈpɐ̃w̃/ | /ʒɐˈpɐ̃w̃/ | Japan | /dʒəˈpæn/ | Japón | /xaˈpon/ |  |
+| **a** Jordânia | sf | /ʒɔɾˈdɐni.ɐ/ | /ʒɔɾˈdɐni.ɐ/ | Jordan | /ˈdʒɔrdən/ | Jordania | /xorˈðania/ |  |
+| **o** Cazaquistão | sm | /kɐzɐkisˈtɐ̃w̃/ | /kazɐkisˈtɐ̃w̃/ | Kazakhstan | /ˌkæzækˈstæn/ | Kazajistán | /kaza.xisˈtan/ |  |
+| **o** Kuwait | sm | /kuˈwajt/ | /kʊˈwajt/ | Kuwait | /kuːˈweɪt/ | Kuwait | /kwaɪˈet/ |  |
+| **o** Quirguistão | sm | /kiɾ.ɡiʃˈtɐ̃w̃/ | /kiɾ.ɡiʃˈtɐ̃w̃/ | Kyrgyzstan | /ˌkɜːrɡɪˈstɑːn/ | Kirguistán | /kiɾɡisˈtan/ |  |
+| **o** Laos | sm | /lɐˈɔs/ | /lɐˈɔs/ | Laos | /laʊs/ | Laos | /laos/ |  |
+| **o** Líbano | sm | /ˈli.bɐ.nu/ | /ˈli.bɐ.nu/ | Lebanon | /ˈlɛbənɒn/ | Líbano | /ˈliβano/ |  |
+| **a** Malásia | sf | /mɐˈlɐzi.ɐ/ | /mɐˈlazi.ɐ/ | Malaysia | /məˈleɪʒə/ | Malasia | /maˈlazja/ |  |
+| **as** Maldivas | sfp | /mɐw̃ˈdi.vɐʃ/ | /maw̃ˈdi.vas/ | Maldives | /ˈmɔːldaɪvz/ | Maldivas | /malˈdiβas/ |  |
+| **a** Mongólia | sf | /mõˈɡɔ.li.ɐ/ | /mõˈɡɔ.li.ɐ/ | Mongolia | /mɒŋˈɡoʊliə/ | Mongolia | /moŋˈɡolja/ |  |
+| **a** Mianmar | sf | /miˈɐ̃w̃mɐɾ/ | /miˈɐ̃w̃maɾ/ | Myanmar | /ˌmjænˈmɑːr/ | Myanmar | /mjanˈmaɾ/ |  |
+| **o** Nepal | sm | /niˈpɐw̃/ | /niˈpɐw̃/ | Nepal | /nɪˈpɔːl/ | Nepal | /neˈpal/ |  |
+| **a** Coreia do Norte | sf | /koˈɾejɐ du ˈnɔhti/ | /koˈɾejɐ du ˈnɔɾti/ | North Korea | /nɔːrθ kəˈriə/ | Corea del Norte | /koˈɾea ðel ˈnorte/ |  |
+| **o** Omã | sm | /oˈmɐ̃w̃/ | /oˈmɐ̃w̃/ | Oman | /oʊˈmɑːn/ | Omán | /oˈman/ |  |
+| **o** Paquistão | sm | /pɐ.kiʃˈtɐ̃w̃/ | /pa.kiʃˈtɐ̃w̃/ | Pakistan | /ˈpækɪstæn/ | Pakistán | /pakisˈtan/ |  |
+| **a** Palestina | sf | /pɐ.lɨʃˈti.nɐ/ | /pa.lɛsˈtinɐ/ | Palestine | /ˈpæləstaɪn/ | Palestina | /palesˈtina/ |  |
+| **as** Filipinas | sfp | /fi.liˈpinɐʃ/ | /fi.liˈpinas/ | Philippines | /ˈfɪləˌpinz/ | Filipinas | /filiˈpinas/ |  |
+| **o** Catar | sm | /kɐˈtaɾ/ | /kaˈtaʁ/ | Qatar | /ˈkɑːtɑːr/ | Catar | /kaˈtaɾ/ |  |
+| **a** Rússia | sf | /ˈʁus.jɐ/ | /ˈʁus.jɐ/ | Russia | /ˈrʌʃə/ | Rusia | /ˈrusja/ |  |
+| **a** Arábia Saudita | sf | /aˈɾabi.ɐ sɐwˈdi.tɐ/ | /aˈɾabjɐ sawˈdi.tɐ/ | Saudi Arabia | /ˌsɔːdi əˈreɪbiə/ | Arabia Saudí | /aˈɾaβja sawˈðita/ |  |
+| **a** Cingapura | sf | /sĩ.ɡɐˈpuɾɐ/ | /si.ɡɐˈpuɾɐ/ | Singapore | /ˌsɪŋəˈpɔːr/ | Singapur | /sinɡaˈpur/ |  |
+| **a** Coreia do Sul | sf | /koˈɾejɐ du suw/ | /koˈɾejɐ du suw/ | South Korea | /saʊθ kəˈriə/ | Corea del Sur | /koˈɾea ðel suɾ/ |  |
+| **o** Sri Lanka | sm | /ˈsɾi ˈlɐ̃kɐ/ | /ˈsɾi ˈlɐ̃kɐ/ | Sri Lanka | /ʃri ˈlɑːŋkə/ | Sri Lanka | /sɾi ˈlaŋka/ |  |
+| **a** Síria | sf | /ˈsi.ɾi.ɐ/ | /ˈsi.ɾi.ɐ/ | Syria | /ˈsɪriə/ | Siria | /ˈsiɾja/ |  |
+| **o** Taiwan | sm | /taiˈwɐ̃w̃/ | /taiˈwɐ̃w̃/ | Taiwan | /ˈtaɪwɑːn/ | Taiwán | /taiˈwan/ |  |
+| **o** Tajiquistão | sm | /tɐʒi.kisˈtɐ̃w̃/ | /taʒi.kisˈtɐ̃w̃/ | Tajikistan | /tɑːʒɪkɪˈstɑːn/ | Tayikistán | /tajiˈkistan/ |  |
+| **a** Tailândia | sf | /ta.iˈlɐ̃dʒi.ɐ/ | /ta.iˈlɐ̃dʒi.ɐ/ | Thailand | /ˈtaɪlænd/ | Tailandia | /tailanˈdja/ |  |
+| **o** Timor-Leste | sm | /tiˈmoɾ ˈlɛʃtɨ/ | /tiˈmoɾ ˈlɛʃtʃi/ | Timor-Leste | /ˌtiːmɔːr ˈlɛstɪ/ | Timor Oriental | /tiˈmoɾ oɾjenˈtal/ |  |
+| **a** Turquia | sf | /tuʁˈki.ɐ/ | /tuʁˈki.ɐ/ | Turkey | /ˈtɜːrki/ | Turquía | /tuɾˈkia/ |  |
+| **o** Turcomenistão | sm | /tuɾ.ko.mɛ.nisˈtɐ̃w̃/ | /tuɾ.ko.mɛ.nisˈtɐ̃w̃/ | Turkmenistan | /tɜːrkˈmɛnɪstæn/ | Turkmenistán | /tuɾkme.nisˈtan/ |  |
+| **os** Emirados Árabes Unidos | smp | /e.mi.ɾɐdus ˈa.ɾɐ.bis u.niˈdus/ | /e.mi.ɾadus ˈa.ɾabis u.niˈdus/ | United Arab Emirates | /juːˈnaɪtɪd ˈærəb ˈɛmɪrɪts/ | Emiratos Árabes Unidos | /emiˈɾatos ˈaɾaβes uˈniðos/ |  |
+| **o** Uzbequistão | sm | /uz.bɛ.kisˈtɐ̃w̃/ | /uz.bɛ.kisˈtɐ̃w̃/ | Uzbekistan | /ʊzˌbɛkɪˈstæn/ | Uzbekistán | /usβeˈkistan/ |  |
+| **o** Vietnã | sm | /vi.etˈnɐ̃/ | /vi.etˈna/ | Vietnam | /ˌviːətˈnɑːm/ | Vietnam | /bjetˈnam/ |  |
+| **o** Iêmen | sm | /iˈjɛmẽ/ | /iˈʒɛmẽ/ | Yemen | /ˈjɛmən/ | Yemen | /ˈʝeːmen/ |  |

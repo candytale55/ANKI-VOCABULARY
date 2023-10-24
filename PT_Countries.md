@@ -127,11 +127,11 @@
 
 | Portuguese               | IPA (PT) | IPA (BR) | English                      | English IPA  | Spanish                   | Spanish IPA | No. |
 |--------------------------|----------|----------|------------------------------|--------------|---------------------------|-------------|-----|
-| **a** Argélia            | /ɐɾˈʒe.li.ɐ/ | /aɾˈʒe.li.ɐ/ | Algeria                    | /ælˈdʒɪərɪə/ | Argelia                   | /aɾˈxelja/ |     |
+| **a** Argélia            | /ɐɾˈʒe.li.ɐ/ | /aɾˈʒe.li.ɐ/ | Algeria                    | /ælˈdʒɪərɪə/ | Argelia                   | /aɾˈxelja/ |8256|
 | **o** Barein             | /bɐ.ˈɾeĩ̯/ | /ba.ˈɾeĩ̯/ | Bahrain                    | /bɑːˈreɪn/   | Baréin                    | /baˈɾein/  |     |
 | **o** Egito              | /ˈɛ.ʒi.tu/ | /ˈɛ.ʒi.tu/ | Egypt     | /ˈiːdʒɪpt/    | Egipto        | /eˈhipto/  |8237|
 | **o** Irã                | /i.ˈɾɐ̃u/   | /i.ˈɾɐ̃w/   | Iran      | /ɪˈrɑːn/      | Irán          | /iˈɾan/    |8236|
-| **o** Iraque             | /i.ˈɾak/   | /i.ˈɾakɪ/  | Iraq                      | /ɪˈræk/       | Irak                      | /iˈɾak/    |     |
+| **o** Iraque             | /i.ˈɾak/   | /i.ˈɾakɪ/  | Iraq      | /ɪˈræk/       | Irak          | /iˈɾak/    |     |
 | **o** Israel             | /i.zɾɐˈɛw/ | /is.ɾɐˈɛw/ | Israel                      | /ˈɪzreɪl/    | Israel                    | /isɾaˈel/  |     |
 | **a** Jordânia           | /ʒuɾˈdɐ.njɐ/ | /ʒuɾˈdɐ.njɐ/  | Jordan   | /ˈdʒɔːrdən/ | Jordania      | /xoɾˈðanja/ |8238|
 | **o** Kuwait             | /ku.ˈwajt/ | /ku.ˈwajt/      | Kuwait     | /kʊˈweɪt/    | Kuwait          | /kwaˈit/   |8239|

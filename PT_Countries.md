@@ -156,7 +156,7 @@ Certainly! Here is the markdown table for the provided list of countries:
 
 | Portuguese | Tipo de Palavra | IPA (PT) | IPA (BR) | English | English IPA | Spanish | Spanish IPA | No. |
 |------------|-----------------|----------|----------|---------|-------------|---------|-------------|-----|
-| **a** Argélia | sf | /ɐɾˈʒe.li.ɐ/ | /aɾˈʒe.li.ɐ/ | Algeria | /ælˈdʒɪə.riə/ | Argelia | /aɾˈxelja/ | |
+| **a** Argélia | sf | /ɐɾˈʒe.li.ɐ/ | /aɾˈʒe.li.ɐ/ | Algeria | /ælˈdʒɪə.riə/ | Argelia | /aɾˈxelja/ |8256|
 | **a** Angola | sf | /ɐ̃ˈɡɔ.lɐ/ | /ɐ̃ˈɡɔ.lɐ/ | Angola | /æŋˈɡoʊ.lə/ | Angola | /anˈɡola/ |7003|
 | **o** Benim | sm | /bɨˈnim/ | /bɛˈnim/ | Benin | /bɛˈnɪn/ | Benín | /beˈnin/ | |
 | **o** Botsuana | sm | /bɔ.tsuˈɐ.nɐ/ | /bɔ.tsuˈɐ.nɐ/ | Botswana | /bɒtˈswɑː.nə/ | Botsuana | /botsuˈana/ | |

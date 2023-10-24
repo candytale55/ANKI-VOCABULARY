@@ -158,12 +158,12 @@ Certainly! Here is the markdown table for the provided list of countries:
 |------------|-----------------|----------|----------|---------|-------------|---------|-------------|-----|
 | **a** Argélia | sf | /ɐɾˈʒe.li.ɐ/ | /aɾˈʒe.li.ɐ/ | Algeria | /ælˈdʒɪə.riə/ | Argelia | /aɾˈxelja/ |8256|
 | **a** Angola | sf | /ɐ̃ˈɡɔ.lɐ/ | /ɐ̃ˈɡɔ.lɐ/ | Angola | /æŋˈɡoʊ.lə/ | Angola | /anˈɡola/ |7003|
-| **o** Benim | sm | /bɨˈnim/ | /bɛˈnim/ | Benin | /bɛˈnɪn/ | Benín | /beˈnin/ | |
-| **o** Botsuana | sm | /bɔ.tsuˈɐ.nɐ/ | /bɔ.tsuˈɐ.nɐ/ | Botswana | /bɒtˈswɑː.nə/ | Botsuana | /botsuˈana/ | |
-| **o** Burquina Faso | sm | /buɾˈkinɐ ˈfasu/ | /buɾˈkinɐ ˈfasu/ | Burkina Faso | /bɜːrˈkiːnə ˈfæsoʊ/ | Burkina Faso | /burˈkina ˈfaso/ | |
-| **o** Burundi | sm | /bu.ɾũˈdi/ | /bu.ɾũˈdi/ | Burundi | /bəˈrʊndi/ | Burundi | /buˈɾundi/ | |
-| **o** Cabo Verde | sm | /ˈka.bu ˈveɾ.dɨ/ | /ˈka.bu ˈveɾ.dʒi/ | Cape Verde | /ˈkeɪp ˈvɜːrd/ | Cabo Verde | /ˈkaβo ˈβeɾðe/ | |
-| **os** Camarões | smp | /kɐ.mɐˈɾõj̃ʃ/ | /kɐ.mɐˈɾõj̃ʃ/ | Cameroon | /kæməˈruːn/ | Camerún | /kameˈrun/ | |
+| **o** Benim | sm | /bɨˈnim/ | /bɛˈnim/ | Benin | /bɛˈnɪn/ | Benín | /beˈnin/ ||
+| **o** Botsuana | sm | /bɔ.tsuˈɐ.nɐ/ | /bɔ.tsuˈɐ.nɐ/ | Botswana | /bɒtˈswɑː.nə/ | Botsuana | /botsuˈana/ |8257|
+| **o** Burquina Faso | sm | /buɾˈkinɐ ˈfasu/ | /buɾˈkinɐ ˈfasu/ | Burkina Faso | /bɜːrˈkiːnə ˈfæsoʊ/ | Burkina Faso | /burˈkina ˈfaso/ |8258|
+| **o** Burundi | sm | /bu.ɾũˈdi/ | /bu.ɾũˈdi/ | Burundi | /bəˈrʊndi/ | Burundi | /buˈɾundi/ |8259|
+| **o** Cabo Verde | sm | /ˈka.bu ˈveɾ.dɨ/ | /ˈka.bu ˈveɾ.dʒi/ | Cape Verde | /ˈkeɪp ˈvɜːrd/ | Cabo Verde | /ˈkaβo ˈβeɾðe/ |7008|
+| **os** Camarões | smp | /kɐ.mɐˈɾõj̃ʃ/ | /kɐ.mɐˈɾõj̃ʃ/ | Cameroon | /kæməˈruːn/ | Camerún | /kameˈrun/ |8260|
 | **a** República Centro-Africana | sf | /ʁɛ.pubˈli.kɐ sẽ.tɾu a.fɾiˈkɐ.nɐ/ | /ʁɛ.pubˈli.kɐ sẽ.tɾu a.fɾiˈkɐ.nɐ/ | Central African Republic | /ˈsɛn.trəl ˈæfrɪkən rɪˈpʌblɪk/ | República Centroafricana | /reˈpuβlika θentɾoaˈfɾikana/ | |
 | **o** Chade | sm | /ˈʃa.dɨ/ | /ˈʃa.dʒi/ | Chad | /tʃæd/ | Chad | /tʃad/ | |
 | **as** Comores | sfp | /kuˈmo.ɾɨʃ/ | /koˈmoɾis/ | Comoros | /ˈkɒməroʊz/ | Comoras | /koˈmoɾas/ | |
@@ -203,3 +203,60 @@ Certainly! Here is the markdown table for the provided list of countries:
 | **a** Tanzânia | sf | /tɐ̃ˈzɐ.ni.ɐ/ | /tɐ̃ˈzɐ.ni.ɐ/ | Tanzania | /tænzəˈniːə/ | Tanzania | /tanθaˈnia/ |8250|
 | **a** Zâmbia | sf | /ˈzɐ̃.bɨ.ɐ/ | /ˈzɐ̃.bi.ɐ/ | Zambia | /ˈzæmbiə/ | Zambia | /ˈθambia/ |8249|
 | **o** Zimbábue | sm | /zĩˈbabwɨ/ | /zĩˈbabwɨ/ | Zimbabwe | /zɪmˈbɑːbweɪ/ | Zimbabue | /zimbaˈβwe/ |8248|
+
+
+
+## Countries in Asia
+
+| Portuguese | Tipo de Palavra | IPA (PT) | IPA (BR) | English | Spanish | No. |
+|------------|-----------------|----------|----------|---------|---------|-----|
+| **o** Afeganistão | sm | /ɐfɨɡɐ̃nisˈtɐ̃w̃/ | /afɨɡɐ̃nisˈtɐ̃w̃/ | Afghanistan | Afganistán |  |
+| **a** Armênia | sf | /ɐɾˈmɛ.ni.ɐ/ | /aɾˈmɛ.ni.ɐ/ | Armenia | Armenia |  |
+| **o** Azerbaijão | sm | /ɐz.bɨdʒiˈʒɐ̃w̃/ | /az.beʒiˈʒɐ̃w̃/ | Azerbaijan | Azerbaiyán |  |
+| **o** Bahrein | sm | /bɐ.ˈɾɛĩ̯/ | /baˈɾɛĩ̯/ | Bahrain | Baréin |  |
+| **o** Bangladesh | sm | /bɐ̃ɡlɐˈdeʃ/ | /bɐ̃ɡlɐˈdeʃ/ | Bangladesh | Bangladesh |  |
+| **o** Butão | sm | /buˈtɐ̃w̃/ | /buˈtɐ̃w̃/ | Bhutan | Bután |  |
+| **o** Brunei | sm | /bɾuˈnei/ | /bɾuˈnei/ | Brunei | Brunéi |  |
+| **o** Camboja | sm | /kɐ̃ˈbɔʒɐ/ | /kɐ̃ˈbɔʒɐ/ | Cambodia | Camboya |  |
+| **a** China | sf | /ˈʃi.nɐ/ | /ˈʃi.nɐ/ | China | China |  |
+| **o** Chipre | sm | /ˈʃi.pɾi/ | /ˈʃi.pɾi/ | Cyprus | Chipre |  |
+| **a** Geórgia | sf | /ʒiˈɔɾ.ʒi.ɐ/ | /ʒiˈɔɾ.ʒi.ɐ/ | Georgia | Georgia |  |
+| **a** Índia | sf | /ˈĩ.djɐ/ | /ˈĩ.dʒi.ɐ/ | India | India |  |
+| **a** Indonésia | sf | /ĩ.du.nɛˈzi.ɐ/ | /ĩ.du.nɛˈzi.ɐ/ | Indonesia | Indonesia |  |
+| **o** Irã | sm | /iˈɾɐ̃w̃/ | /iˈɾɐ̃w̃/ | Iran | Irán |  |
+| **o** Iraque | sm | /iˈɾɐki/ | /iˈɾaki/ | Iraq | Irak |  |
+| **o** Israel | sm | /is.ɾɐˈɛw̃/ | /is.ɾaˈɛl/ | Israel | Israel |  |
+| **o** Japão | sm | /ʒɐˈpɐ̃w̃/ | /ʒɐˈpɐ̃w̃/ | Japan | Japón |  |
+| **a** Jordânia | sf | /ʒɔɾˈdɐni.ɐ/ | /ʒɔɾˈdɐni.ɐ/ | Jordan | Jordania |  |
+| **o** Cazaquistão | sm | /kɐzɐkisˈtɐ̃w̃/ | /kazɐkisˈtɐ̃w̃/ | Kazakhstan | Kazajistán |  |
+| **o** Kuwait | sm | /kuˈwajt/ | /kʊˈwajt/ | Kuwait | Kuwait |  |
+| **o** Quirguistão | sm | /kiɾ.ɡiʃˈtɐ̃w̃/ | /kiɾ.ɡiʃˈtɐ̃w̃/ | Kyrgyzstan | Kirguistán |  |
+| **o** Laos | sm | /laˈɔʃ/ | /laˈɔʃ/ | Laos | Laos |  |
+| **o** Líbano | sm | /liˈbɐ̃w̃/ | /liˈbɐ̃w̃/ | Lebanon | Líbano |  |
+| **a** Malásia | sf | /mɐˈlazi.ɐ/ | /mɐˈlazi.ɐ/ | Malaysia | Malasia |  |
+| **as** Maldivas | sfp | /mɐɫˈdi.vɐʃ/ | /mawˈdi.vas/ | Maldives | Maldivas |  |
+| **a** Mongólia | sf | /mõˈɡɔ.li.ɐ/ | /mõˈɡɔ.li.ɐ/ | Mongolia | Mongolia |  |
+| **a** Mianmar | sf | /miˈɐ̃mɐɾ/ | /miˈɐ̃maɾ/ | Myanmar | Myanmar |  |
+| **o** Nepal | sm | /niˈpaw/ | /niˈpaw/ | Nepal | Nepal |  |
+| **a** Coreia do Norte | sf | /koˈɾejɐ du ˈnɔɾ.tɨ/ | /koˈɾejɐ du ˈnɔɾ.tʃi/ | North Korea | Corea del Norte |  |
+| **o** Omã | sm | /oˈmɐ̃w̃/ | /oˈmɐ̃w̃/ | Oman | Omán |  |
+| **o** Paquistão | sm | /pɐ.kiʃˈtɐ̃w̃/ | /pa.kiʃˈtɐ̃w̃/ | Pakistan | Pakistán |  |
+| **a** Palestina | sf | /pɐ.lɨʃˈti.nɐ/ | /pa.lɛsˈtinɐ/ | Palestine | Palestina |  |
+| **as** Filipinas | sfp | /fi.liˈpinɐʃ/ | /fi.liˈpinas/ | Philippines | Filipinas |  |
+| **o** Catar | sm | /kɐˈtaɾ/ | /kaˈtaʁ/ | Qatar | Catar |  |
+| **a** Rússia | sf | /ˈʁus.jɐ/ | /ˈʁus.jɐ/ | Russia | Rusia |  |
+| **a** Arábia Saudita | sf | /aˈɾabi.ɐ sɐwˈdi.tɐ/ | /aˈɾabjɐ sawˈdi.tɐ/ | Saudi Arabia | Arabia Saudí |  |
+| **a** Cingapura | sf | /sĩ.ɡɐˈpuɾɐ/ | /si.ɡɐˈpuɾɐ/ | Singapore | Singapur |  |
+| **a** Coreia do Sul | sf | /koˈɾejɐ du suw/ | /koˈɾejɐ du suw/ | South Korea | Corea del Sur |  |
+| **o** Sri Lanka | sm | /ˈsɾi ˈlɐ̃kɐ/ | /ˈsɾi ˈlɐ̃kɐ/ | Sri Lanka | Sri Lanka |  |
+| **a** Síria | sf | /ˈsi.ɾi.ɐ/ | /ˈsi.ɾi.ɐ/ | Syria | Siria |  |
+| **o** Taiwan | sm | /taiˈwɐ̃w̃/ | /taiˈwɐ̃w̃/ | Taiwan | Taiwán |  |
+| **o** Tajiquistão | sm | /tɐʒi.kisˈtɐ̃w̃/ | /taʒi.kisˈtɐ̃w̃/ | Tajikistan | Tayikistán |  |
+| **a** Tailândia | sf | /tɐiˈlɐ̃dʒi.ɐ/ | /taˈlɐndʒi.ɐ/ | Thailand | Tailandia |  |
+| **o** Timor-Leste | sm | /tiˈmoɾ ˈlɛʃtɨ/ | /tiˈmoɾ ˈlɛʃtʃi/ | East Timor | Timor Oriental |  |
+| **a** Turquia | sf | /tuɾˈki.ɐ/ | /tuɾˈki.ɐ/ | Turkey | Turquía |  |
+| **o** Turcomenistão | sm | /tuɾ.ko.mɨ.nisˈtɐ̃w̃/ | /tuɾ.ko.me.nisˈtɐ̃w̃/ | Turkmenistan | Turkmenistán |  |
+| **os** Emirados Árabes Unidos | smp | /ɨ.mi.ˈɾa.dus ˈa.ɾa.bis u.ni.ˈdus/ | /i.mi.ˈɾa.dus ˈa.ɾa.bis u.ni.ˈdus/ | United Arab Emirates | Emiratos Árabes Unidos |  |
+| **o** Uzbequistão | sm | /uz.bɛ.kisˈtɐ̃w̃/ | /uz.be.kisˈtɐ̃w̃/ | Uzbekistan | Uzbekistán |  |
+| **o** Vietnã | sm | /viˈɛt.nɐ̃w̃/ | /vjɛtˈna/ | Vietnam | Vietnam |  |
+| **o** Iêmen | sm | /iˈjɛmẽ/ | /iˈʒɛmẽ/ | Yemen | Yemen |  |

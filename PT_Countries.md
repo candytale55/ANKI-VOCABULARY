@@ -165,7 +165,7 @@ Certainly! Here is the markdown table for the provided list of countries:
 | **o** Cabo Verde | sm | /ˈka.bu ˈveɾ.dɨ/ | /ˈka.bu ˈveɾ.dʒi/ | Cape Verde | /ˈkeɪp ˈvɜːrd/ | Cabo Verde | /ˈkaβo ˈβeɾðe/ |7008|
 | **os** Camarões | smp | /kɐ.mɐˈɾõj̃ʃ/ | /kɐ.mɐˈɾõj̃ʃ/ | Cameroon | /kæməˈruːn/ | Camerún | /kameˈrun/ |8260|
 | **a** República Centro-Africana | sf | /ʁɛ.pubˈli.kɐ sẽ.tɾu a.fɾiˈkɐ.nɐ/ | /ʁɛ.pubˈli.kɐ sẽ.tɾu a.fɾiˈkɐ.nɐ/ | Central African Republic | /ˈsɛn.trəl ˈæfrɪkən rɪˈpʌblɪk/ | República Centroafricana | /reˈpuβlika θentɾoaˈfɾikana/ | |
-| **o** Chade | sm | /ˈʃa.dɨ/ | /ˈʃa.dʒi/ | Chad | /tʃæd/ | Chad | /tʃad/ | |
+| **o** Chade | sm | /ˈʃa.dɨ/ | /ˈʃa.dʒi/ | Chad | /tʃæd/ | Chad | /tʃad/ |8060|
 | **as** Comores | sfp | /kuˈmo.ɾɨʃ/ | /koˈmoɾis/ | Comoros | /ˈkɒməroʊz/ | Comoras | /koˈmoɾas/ | |
 | **o** Congo | sm | /ˈkõ.ɡu/ | /ˈkõ.ɡu/ | Congo | /ˈkɒŋɡoʊ/ | Congo | /ˈkoŋɡo/ |8254|
 | **a** Costa do Marfim | sf | /ˈkɔʃ.tɐ ðu ˈmaɾ.fĩ/ | /ˈkɔstɐ ðu ˈmaɾ.fĩ/ | Ivory Coast | /ˈaɪv.ri koʊst/ | Costa de Marfil | /ˈkosta ðe maɾˈfil/ | |

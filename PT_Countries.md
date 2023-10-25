@@ -185,7 +185,7 @@ Certainly! Here is the markdown table for the provided list of countries:
 | **a** Madagascar | sf | /mɐ.dɐ.ɡasˈkaɾ/ | /mɐ.dɐ.ɡasˈkaɾ/ | Madagascar | /ˌmædəˈɡæskər/ | Madagascar | /maðaˈɣaskaɾ/ |8271|
 | **o** Malawi | sm | /mɐˈlɐ.wi/ | /mɐˈlɐ.wi/ | Malawi | /məˈlɑːwi/ | Malaui | /maˈlau̯i/ |8272|
 | **o** Mali | sm | /ˈmɐ.li/ | /ˈmɐ.li/ | Mali | /ˈmɑːli/ | Malí | /maˈli/ |8273|
-| **a** Mauritânia | sf | /mɐu̯ɾiˈtɐni.ɐ/ | /mawɾiˈtɐni.ɐ/ | Mauritania | /ˌmɒrɪˈteɪniə/ | Mauritania | /moɾiˈtanja/ | |
+| **a** Mauritânia | sf | /mɐu̯ɾiˈtɐni.ɐ/ | /mawɾiˈtɐni.ɐ/ | Mauritania | /ˌmɒrɪˈteɪniə/ | Mauritania | /moɾiˈtanja/ |8274|
 | **a** Maurícia | sf | /mɐu̯ˈɾi.sjɐ/ | /mawˈɾisjɐ/ | Mauritius | /məˈrɪʃəs/ | Mauricio | /mau̯ˈɾiθjo/ | |
 | **o** Moçambique | sm | /musɐ̃ˈbik/ | /musɐ̃ˈbikɨ/ | Mozambique | /ˌmoʊzæmˈbiːk/ | Mozambique | /musɐ̃ˈbikɨ/ |7004|
 | **a** Namíbia | sf | /nɐˈmibi.ɐ/ | /nɐˈmibi.ɐ/ | Namibia | /nəˈmɪbiə/ | Namibia | /naˈmibja/ | |

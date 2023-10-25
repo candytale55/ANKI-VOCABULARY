@@ -176,11 +176,11 @@ Certainly! Here is the markdown table for the provided list of countries:
 | **a** Etiópia | sf | /e.tiˈo.pi.ɐ/ | /e.tiˈo.pi.ɐ/ | Ethiopia | /iːθiˈoʊpiə/ | Etiopía | /eˈtjopja/ |8263|
 | **o** Gabão | sm | /gɐˈbɐ̃w/ | /ɡaˈbɐ̃w/ | Gabon | /ɡəˈbɒn/ | Gabón | /ɡaˈbon/ |8264|
 | **a** Gâmbia | sf | /ˈɡɐ̃.bi.ɐ/ | /ˈɡɐ̃.bi.ɐ/ | Gambia | /ˈɡæmbiə/ | Gambia | /ˈɡambia/ |8265|
-| **o** Gana | sm | /ˈɡɐ.nɐ/ | /ˈɡɐ.nɐ/ | Ghana | /ˈɡɑːnə/ | Ghana | /ˈɡana/ | |
-| **a** Guiné | sf | /ɡiˈnɛ/ | /ɡiˈnɛ/ | Guinea | /ˈɡɪni/ | Guinea | /ɡiˈnea/ | |
-| **a** Guiné-Bissau | sf | /ɡiˈnɛ biˈsaw/ | /ɡiˈnɛ biˈsaw/ | Guinea-Bissau | /ˈɡɪni bɪˈsaʊ/ | Guinea-Bisáu | /ɡiˈnea biˈsaw/ | |
-| **o** Quênia | sm | /ˈkɛ.njɐ/ | /ˈkɛ.njɐ/ | Kenya | /ˈkɛnjə/ | Kenia | /ˈkenja/ | |
-| **o** Lesoto | sm | /lɨˈso.tu/ | /lɨˈsɔ.tu/ | Lesotho | /lɪˈsoʊtuː/ | Lesoto | /leˈsoto/ | |
+| **o** Gana | sm | /ˈɡɐ.nɐ/ | /ˈɡɐ.nɐ/ | Ghana | /ˈɡɑːnə/ | Ghana | /ˈɡana/ |8266|
+| **a** Guiné | sf | /ɡiˈnɛ/ | /ɡiˈnɛ/ | Guinea | /ˈɡɪni/ | Guinea | /ɡiˈnea/ |8267|
+| **a** Guiné-Bissau | sf | /ɡiˈnɛ biˈsaw/ | /ɡiˈnɛ biˈsaw/ | Guinea-Bissau | /ˈɡɪni bɪˈsaʊ/ | Guinea-Bisáu | /ɡiˈnea biˈsaw/ |7005|
+| **o** Quênia | sm | /ˈkɛ.njɐ/ | /ˈkɛ.njɐ/ | Kenya | /ˈkɛnjə/ | Kenia | /ˈkenja/ |8268|
+| **o** Lesoto | sm | /lɨˈso.tu/ | /lɨˈsɔ.tu/ | Lesotho | /lɪˈsoʊtuː/ | Lesoto | /leˈsoto/ |8269|
 | **a** Libéria | sf | /liˈbɛ.ɾi.ɐ/ | /liˈbɛ.ɾi.ɐ/ | Liberia | /laɪˈbɪəriə/ | Liberia | /liˈβeɾja/ | |
 | **a** Madagascar | sf | /mɐ.dɐ.ɡasˈkaɾ/ | /mɐ.dɐ.ɡasˈkaɾ/ | Madagascar | /ˌmædəˈɡæskər/ | Madagascar | /maðaˈɣaskaɾ/ | |
 | **o** Malawi | sm | /mɐˈlɐ.wi/ | /mɐˈlɐ.wi/ | Malawi | /məˈlɑːwi/ | Malaui | /maˈlau̯i/ | |

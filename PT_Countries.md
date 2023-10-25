@@ -181,10 +181,10 @@ Certainly! Here is the markdown table for the provided list of countries:
 | **a** Guiné-Bissau | sf | /ɡiˈnɛ biˈsaw/ | /ɡiˈnɛ biˈsaw/ | Guinea-Bissau | /ˈɡɪni bɪˈsaʊ/ | Guinea-Bisáu | /ɡiˈnea biˈsaw/ |7005|
 | **o** Quênia | sm | /ˈkɛ.njɐ/ | /ˈkɛ.njɐ/ | Kenya | /ˈkɛnjə/ | Kenia | /ˈkenja/ |8268|
 | **o** Lesoto | sm | /lɨˈso.tu/ | /lɨˈsɔ.tu/ | Lesotho | /lɪˈsoʊtuː/ | Lesoto | /leˈsoto/ |8269|
-| **a** Libéria | sf | /liˈbɛ.ɾi.ɐ/ | /liˈbɛ.ɾi.ɐ/ | Liberia | /laɪˈbɪəriə/ | Liberia | /liˈβeɾja/ | |
-| **a** Madagascar | sf | /mɐ.dɐ.ɡasˈkaɾ/ | /mɐ.dɐ.ɡasˈkaɾ/ | Madagascar | /ˌmædəˈɡæskər/ | Madagascar | /maðaˈɣaskaɾ/ | |
-| **o** Malawi | sm | /mɐˈlɐ.wi/ | /mɐˈlɐ.wi/ | Malawi | /məˈlɑːwi/ | Malaui | /maˈlau̯i/ | |
-| **o** Mali | sm | /ˈmɐ.li/ | /ˈmɐ.li/ | Mali | /ˈmɑːli/ | Malí | /maˈli/ | |
+| **a** Libéria | sf | /liˈbɛ.ɾi.ɐ/ | /liˈbɛ.ɾi.ɐ/ | Liberia | /laɪˈbɪəriə/ | Liberia | /liˈβeɾja/ |8270|
+| **a** Madagascar | sf | /mɐ.dɐ.ɡasˈkaɾ/ | /mɐ.dɐ.ɡasˈkaɾ/ | Madagascar | /ˌmædəˈɡæskər/ | Madagascar | /maðaˈɣaskaɾ/ |8271|
+| **o** Malawi | sm | /mɐˈlɐ.wi/ | /mɐˈlɐ.wi/ | Malawi | /məˈlɑːwi/ | Malaui | /maˈlau̯i/ |8272|
+| **o** Mali | sm | /ˈmɐ.li/ | /ˈmɐ.li/ | Mali | /ˈmɑːli/ | Malí | /maˈli/ |8273|
 | **a** Mauritânia | sf | /mɐu̯ɾiˈtɐni.ɐ/ | /mawɾiˈtɐni.ɐ/ | Mauritania | /ˌmɒrɪˈteɪniə/ | Mauritania | /moɾiˈtanja/ | |
 | **a** Maurícia | sf | /mɐu̯ˈɾi.sjɐ/ | /mawˈɾisjɐ/ | Mauritius | /məˈrɪʃəs/ | Mauricio | /mau̯ˈɾiθjo/ | |
 | **o** Moçambique | sm | /musɐ̃ˈbik/ | /musɐ̃ˈbikɨ/ | Mozambique | /ˌmoʊzæmˈbiːk/ | Mozambique | /musɐ̃ˈbikɨ/ |7004|

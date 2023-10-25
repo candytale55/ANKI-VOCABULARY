@@ -165,15 +165,15 @@ Certainly! Here is the markdown table for the provided list of countries:
 | **o** Cabo Verde | sm | /ˈka.bu ˈveɾ.dɨ/ | /ˈka.bu ˈveɾ.dʒi/ | Cape Verde | /ˈkeɪp ˈvɜːrd/ | Cabo Verde | /ˈkaβo ˈβeɾðe/ |7008|
 | **os** Camarões | smp | /kɐ.mɐˈɾõj̃ʃ/ | /kɐ.mɐˈɾõj̃ʃ/ | Cameroon | /kæməˈruːn/ | Camerún | /kameˈrun/ |8260|
 | **a** República Centro-Africana | sf | /ʁɛ.pubˈli.kɐ sẽ.tɾu a.fɾiˈkɐ.nɐ/ | /ʁɛ.pubˈli.kɐ sẽ.tɾu a.fɾiˈkɐ.nɐ/ | Central African Republic | /ˈsɛn.trəl ˈæfrɪkən rɪˈpʌblɪk/ | República Centroafricana | /reˈpuβlika θentɾoaˈfɾikana/ | |
-| **o** Chade | sm | /ˈʃa.dɨ/ | /ˈʃa.dʒi/ | Chad | /tʃæd/ | Chad | /tʃad/ |8060|
+| **o** Chade | sm | /ˈʃa.dɨ/ | /ˈʃa.dʒi/ | Chad | /tʃæd/ | Chad | /tʃad/ |8260|
 | **as** Comores | sfp | /kuˈmo.ɾɨʃ/ | /koˈmoɾis/ | Comoros | /ˈkɒməroʊz/ | Comoras | /koˈmoɾas/ |8061|
 | **o** Congo | sm | /ˈkõ.ɡu/ | /ˈkõ.ɡu/ | Congo | /ˈkɒŋɡoʊ/ | Congo | /ˈkoŋɡo/ |8254|
-| **a** Costa do Marfim | sf | /ˈkɔʃ.tɐ ðu ˈmaɾ.fĩ/ | /ˈkɔstɐ ðu ˈmaɾ.fĩ/ | Ivory Coast | /ˈaɪv.ri koʊst/ | Costa de Marfil | /ˈkosta ðe maɾˈfil/ |8261|
+| **a** Costa do Marfim | sf | /ˈkɔʃ.tɐ ðu ˈmaɾ.fĩ/ | /ˈkɔstɐ ðu ˈmaɾ.fĩ/ | Ivory Coast | /ˈaɪv.ri koʊst/ | Costa de Marfil | /ˈkosta ðe maɾˈfil/ |8260|
 | **a** República Democrática do Congo | sf | /ʁɛ.pubˈli.kɐ dɨ.mu.kɾɐˈtikɐ du ˈkõ.ɡu/ | /ʁɛ.pubˈli.kɐ dɨ.mu.kɾaˈtʃi.kɐ du ˈkõ.ɡu/ | Democratic Republic of Congo | /dɪˈmɒkrətɪk rɪˈpʌblɪk əv ˈkɒŋɡoʊ/ | República Democrática del Congo | /reˈpuβlika ðemoˈkɾatika ðel ˈkoŋɡo/ | |
 | **a** Guiné Equatorial | sf | /ɡiˈnɛ ˌɛ.ki.tɔˈɾi.ɐl/ | /ɡiˈnɛ ˌɛ.ki.tɔˈɾi.ɐw/ | Equatorial Guinea | /ˌɛkwəˈtɔːriəl ˈɡɪni/ | Guinea Ecuatorial | /ɡiˈnea ekwatoˈɾjal/ |7007|
-| **a** Eritreia | sf | /e.ɾiˈtɾej.ɐ/ | /e.ɾiˈtɾej.ɐ/ | Eritrea | /ˌɛrɪˈtreɪə/ | Eritrea | /eˈritɾea/ | |
-| **o** Essuatíni | sm | /ɨ.swɐˈtini/ | /ɨ.swaˈtini/ | Eswatini | /ɛˈswɑːtiːni/ | eSwatini | /ɛswaˈtini/ | |
-| **a** Etiópia | sf | /e.tiˈo.pi.ɐ/ | /e.tiˈo.pi.ɐ/ | Ethiopia | /iːθiˈoʊpiə/ | Etiopía | /eˈtjopja/ | |
+| **a** Eritreia | sf | /e.ɾiˈtɾej.ɐ/ | /e.ɾiˈtɾej.ɐ/ | Eritrea | /ˌɛrɪˈtreɪə/ | Eritrea | /eˈritɾea/ |8262|
+| **o** Essuatíni | sm | /ɨ.swɐˈtini/ | /ɨ.swaˈtini/ | Eswatini | /ɛˈswɑːtiːni/ | Eswatini | /ɛswaˈtini/ | |
+| **a** Etiópia | sf | /e.tiˈo.pi.ɐ/ | /e.tiˈo.pi.ɐ/ | Ethiopia | /iːθiˈoʊpiə/ | Etiopía | /eˈtjopja/ |8263|
 | **o** Gabão | sm | /gɐˈbɐ̃w/ | /ɡaˈbɐ̃w/ | Gabon | /ɡəˈbɒn/ | Gabón | /ɡaˈbon/ | |
 | **a** Gâmbia | sf | /ˈɡɐ̃.bi.ɐ/ | /ˈɡɐ̃.bi.ɐ/ | Gambia | /ˈɡæmbiə/ | Gambia | /ˈɡambia/ | |
 | **o** Gana | sm | /ˈɡɐ.nɐ/ | /ˈɡɐ.nɐ/ | Ghana | /ˈɡɑːnə/ | Ghana | /ˈɡana/ | |

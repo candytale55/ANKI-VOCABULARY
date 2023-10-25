@@ -174,8 +174,8 @@ Certainly! Here is the markdown table for the provided list of countries:
 | **a** Eritreia | sf | /e.ɾiˈtɾej.ɐ/ | /e.ɾiˈtɾej.ɐ/ | Eritrea | /ˌɛrɪˈtreɪə/ | Eritrea | /eˈritɾea/ |8262|
 | **o** Essuatíni | sm | /ɨ.swɐˈtini/ | /ɨ.swaˈtini/ | Eswatini | /ɛˈswɑːtiːni/ | Eswatini | /ɛswaˈtini/ | |
 | **a** Etiópia | sf | /e.tiˈo.pi.ɐ/ | /e.tiˈo.pi.ɐ/ | Ethiopia | /iːθiˈoʊpiə/ | Etiopía | /eˈtjopja/ |8263|
-| **o** Gabão | sm | /gɐˈbɐ̃w/ | /ɡaˈbɐ̃w/ | Gabon | /ɡəˈbɒn/ | Gabón | /ɡaˈbon/ | |
-| **a** Gâmbia | sf | /ˈɡɐ̃.bi.ɐ/ | /ˈɡɐ̃.bi.ɐ/ | Gambia | /ˈɡæmbiə/ | Gambia | /ˈɡambia/ | |
+| **o** Gabão | sm | /gɐˈbɐ̃w/ | /ɡaˈbɐ̃w/ | Gabon | /ɡəˈbɒn/ | Gabón | /ɡaˈbon/ |8264|
+| **a** Gâmbia | sf | /ˈɡɐ̃.bi.ɐ/ | /ˈɡɐ̃.bi.ɐ/ | Gambia | /ˈɡæmbiə/ | Gambia | /ˈɡambia/ |8265|
 | **o** Gana | sm | /ˈɡɐ.nɐ/ | /ˈɡɐ.nɐ/ | Ghana | /ˈɡɑːnə/ | Ghana | /ˈɡana/ | |
 | **a** Guiné | sf | /ɡiˈnɛ/ | /ɡiˈnɛ/ | Guinea | /ˈɡɪni/ | Guinea | /ɡiˈnea/ | |
 | **a** Guiné-Bissau | sf | /ɡiˈnɛ biˈsaw/ | /ɡiˈnɛ biˈsaw/ | Guinea-Bissau | /ˈɡɪni bɪˈsaʊ/ | Guinea-Bisáu | /ɡiˈnea biˈsaw/ | |

@@ -25,7 +25,7 @@
 | **a** República Dominicana | /ʁɛ.ˈpu.βli.kɐ du.mu.mi.ˈni.kɐ/ | /ʁɛ.ˈpub.li.kɐ do.mu.mi.ˈni.kɐ/ | Dominican Republic | /dəˌmɪnɪkən rɪˈpʌblɪk/ | República Dominicana | /reˈpuβlika ðoˌminiˈkana/ |8209|
 | **a** Cuba         | /ˈku.bɐ/         | /ˈku.bɐ/         | Cuba        | /ˈkjuːbə/       | Cuba        | /ˈkuβa/         |8208|
 | **a** Guatemala    | /ɡwɐ.te.mɐ.lɐ/   | /ɡwa.te.ˈma.lɐ/  | Guatemala   | /ˌɡwɑːtəˈmɑːlə/ | Guatemala   | /ɡwa.te.ˈma.la/ |8199|
-| Honduras           | /õˈdu.ɾɐs/       | /õˈdo.ɾɐs/       | Honduras    | /hɒnˈdʊərəs/    | Honduras    | /onˈduɾas/      |8205|
+| **as** Honduras    | /õˈdu.ɾɐs/       | /õˈdo.ɾɐs/       | Honduras    | /hɒnˈdʊərəs/    | Honduras    | /onˈduɾas/      |8205|
 | **o** El Salvador  | /ɛɫ sɐɫ.vɐ.ˈdoɾ/ | /ɛɫ sɐɫ.va.ˈdoɾ/ | El Salvador | /ɛl ˈsælvədɔːr/ | El Salvador | /el salβaˈðoɾ/  |8206|
 | **a** Nicarágua    | /ni.kɐ.ˈɾa.ɡwɐ/  | /ni.ka.ˈɾa.ɡwa/  | Nicaragua   | /ˌnɪkəˈrɑːɡwə/  | Nicaragua   | /nikaˈɾaɣwa/    |8207|
 | **a** Costa Rica   | /ˈkɔʃ.tɐ ˈʁi.kɐ/ | /ˈkɔs.tɐ ˈɾi.kɐ/ | Costa Rica  | /ˈkoʊstə ˈriːkə/| Costa Rica  | /ˈkosta ˈrika/  |8210|
@@ -102,7 +102,7 @@
 |------------------|----------------|----------------|----------------|-----------------------|--------------|-------------------------|--------------|------|
 | **o** México       | sm | /ˈmɛ.ʃi.ku/      | /ˈmɛ.ʃi.ku/      | Mexico      | /ˈmɛksɪkoʊ/     | México       | /ˈmexiko/       |8198|
 | **a** Guatemala    | sf | /ɡwɐ.te.mɐ.lɐ/   | /ɡwa.te.ˈma.lɐ/  | Guatemala   | /ˌɡwɑːtəˈmɑːlə/ | Guatemala    | /ɡwa.te.ˈma.la/ |8199|
-| Honduras           | sm | /õˈdu.ɾɐs/       | /õˈdo.ɾɐs/       | Honduras    | /hɒnˈdʊərəs/    | Honduras     | /onˈduɾas/      |8205|
+| **as** Honduras    | sfp| /õˈdu.ɾɐs/       | /õˈdo.ɾɐs/       | Honduras    | /hɒnˈdʊərəs/    | Honduras     | /onˈduɾas/      |8205|
 | **o** El Salvador  | sm | /ɛɫ sɐɫ.vɐ.ˈdoɾ/ | /ɛɫ sɐɫ.va.ˈdoɾ/ | El Salvador | /ɛl ˈsælvədɔːr/ | El Salvador  | /el salβaˈðoɾ/  |8206|
 | **a** Nicarágua    | sf | /ni.kɐ.ˈɾa.ɡwɐ/  | /ni.ka.ˈɾa.ɡwa/  | Nicaragua   | /ˌnɪkəˈrɑːɡwə/  | Nicaragua    | /nikaˈɾaɣwa/    |8207|
 | **a** Costa Rica   | sf | /ˈkɔʃ.tɐ ˈʁi.kɐ/ | /ˈkɔs.tɐ ˈɾi.kɐ/ | Costa Rica  | /ˈkoʊstə ˈriːkə/| Costa Rica   | /ˈkosta ˈrika/  |8210|

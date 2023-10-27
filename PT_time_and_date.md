@@ -2,15 +2,15 @@
 
 ##  Dias da semana 
 
-| Portuguese          | Tipo de Palavra  | IPA         | English     | IPA (USA)  | Spanish       | Spanish IPA | No.  |
-|---------------------|------------------|-------------|-------------|------------|---------------|-----------------------------|------|
-| domingo             | substantivo (masc) | /doˈmĩgu/   | Sunday      | /ˈsʌndeɪ/  | domingo       | /doˈmiŋɡo/                | 2074 |
-| segunda-feira       | substantivo (fem)  | /seˌgũdɐ ˈfeɪ.ɾɐ/ | Monday  | /ˈmʌndeɪ/  | lunes         | /ˈlunes/                | 2075 |
-| terça-feira         | substantivo (fem)  | /ˌteɾ.sɐ ˈfeɪ.ɾɐ/ | Tuesday | /ˈtuːzdeɪ/ | martes        | /ˈmartes/               | 2076 |
-| quarta-feira        | substantivo (fem)  | /kwɐɾˌtɐ ˈfeɪ.ɾɐ/ | Wednesday | /ˈwɛnzdeɪ/ | miércoles    | /ˈmjeɾkles/            | 2077 |
-| quinta-feira        | substantivo (fem)  | /ˌkĩtɐ ˈfeɪ.ɾɐ/ | Thursday  | /ˈθɜrsdeɪ/ | jueves        | /ˈxweβes/               | 2078 |
-| sexta-feira         | substantivo (fem)  | /ˌseʃtɐ ˈfeɪ.ɾɐ/ | Friday    | /ˈfraɪdeɪ/ | viernes       | /ˈbjernes/             | 2079 |
-| sábado              | substantivo (masc) | /ˈsɐbɐdu/   | Saturday   | /ˈsætərdeɪ/| sábado        | /ˈsabado/                  | 2080 |
+| Portuguese          | TP | IPA               | English     | IPA (USA)  | Spanish       | Spanish IPA   | No.  |
+|---------------------|----|-------------------|-------------|------------|---------------|---------------|------|
+| domingo             | sm | /doˈmĩgu/         | Sunday      | /ˈsʌndeɪ/  | domingo       | /doˈmiŋɡo/    | 2074 |
+| segunda-feira       | sf | /seˌgũdɐ ˈfeɪ.ɾɐ/ | Monday      | /ˈmʌndeɪ/  | lunes         | /ˈlunes/      | 2075 |
+| terça-feira         | sf | /ˌteɾ.sɐ ˈfeɪ.ɾɐ/ | Tuesday     | /ˈtuːzdeɪ/ | martes        | /ˈmartes/     | 2076 |
+| quarta-feira        | sf | /kwɐɾˌtɐ ˈfeɪ.ɾɐ/ | Wednesday   | /ˈwɛnzdeɪ/ | miércoles     | /ˈmjeɾkles/   | 2077 |
+| quinta-feira        | sf | /ˌkĩtɐ ˈfeɪ.ɾɐ/   | Thursday    | /ˈθɜrsdeɪ/ | jueves        | /ˈxweβes/     | 2078 |
+| sexta-feira         | sf | /ˌseʃtɐ ˈfeɪ.ɾɐ/  | Friday      | /ˈfraɪdeɪ/ | viernes       | /ˈbjernes/    | 2079 |
+| sábado              | sm | /ˈsɐbɐdu/         | Saturday    | /ˈsætərdeɪ/| sábado        | /ˈsabado/     | 2080 |
 
 
 ## Meses do ano 

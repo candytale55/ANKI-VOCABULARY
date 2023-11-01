@@ -3,8 +3,8 @@
 
 | No. | Portuguese | IPA (PT) | IPA (BR) | Tipo de Palavra | English Word | English IPA | Spanish Word | Spanish IPA |
 |-----|------------|----------|----------|-----------------|--------------|-------------|--------------|-------------|
-| 4299 | aposentado, aposentada | /ɐpuzẽ'tadu/, /ɐpuzẽ'tadɐ/ | /ɐpozẽ'tadu/, /ɐpozẽ'tadɐ/ | adjm , adjf | retired | /rɪ'taɪɚd/ | jubilado, jubilada | /xuβi'laðo/, /xuβi'laða/ |
-| 4298 | reformado, reformada | /ʁɨ.fuʁ'madu/, /ʁɨ.fuʁ'madɐ/ | /ʁe.foɾ'madu/, /ʁe.foɾ'madɐ/ | adjm , adjf | retired | /rɪ'taɪɚd/ | jubilado, jubilada | /xuβi'laðo/, /xuβi'laða/ |
+| 4299 | aposentado, aposentada (PT) | /ɐpuzẽ'tadu/, /ɐpuzẽ'tadɐ/ | /ɐpozẽ'tadu/, /ɐpozẽ'tadɐ/ | adjm , adjf | retired | /rɪ'taɪɚd/ | jubilado, jubilada | /xuβi'laðo/, /xuβi'laða/ |
+| 4298 | reformado, reformada (BR)| /ʁɨ.fuʁ'madu/, /ʁɨ.fuʁ'madɐ/ | /ʁe.foɾ'madu/, /ʁe.foɾ'madɐ/ | adjm , adjf | retired | /rɪ'taɪɚd/ | jubilado, jubilada | /xuβi'laðo/, /xuβi'laða/ |
 | 8289 | falador, faladora | /fɐ.lɐ'doɾ/, /fɐ.lɐ'doɾɐ/ | /fɐ.la'doɾ/, /fɐ.la'doɾɐ/ | adjm , adjf | talkative | /'tɔkətɪv/ | hablador, habladora | /aβla'ðoɾ/, /aβla'ðoɾa/ |
 | 2424 | curioso, curiosa | /kuɾju'zo/, /kuɾju'zozɐ/ | /kuɾju'zo/, /kuɾju'zozɐ/ | adjm , adjf | curious | /'kjʊriəs/ | curioso, curiosa | /kuɾjo'so/, /kuɾjo'sa/ |
 | 8290 | **o** alegre | /ɐ'lɛɡɾi/ | /ɐ'le.ɡɾi/ | adjm | happy | /ˈhæpi/ | alegre | /a'leɣɾe/ |

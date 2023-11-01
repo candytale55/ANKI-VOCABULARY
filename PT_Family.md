@@ -6,16 +6,23 @@
 
 | No. | Portuguese | IPA (PT) | IPA (BR) | Tipo de Palavra | English Word | English IPA | Spanish Word | Spanish IPA |
 |-----|------------|----------|----------|-----------------|--------------|-------------|--------------|-------------|
-| 2017 | **o** pai | /'pa.i/ |  | sm | father | /'fɑð.ɚ/ | padre | /'pa.ðɾe/ |
-| 2004 | **a** mãe | /'mɐ̃j/ |  | sf | mother | /'mʌðər/ | madre | /ˈmaðɾe/ |
-| 2018 | **o** filho | /'fiʎu/ |  | sm | son | /sʌn/ | hijo | /ˈixo/ |
-| 2020 | **a** filha | /'fiʎɐ/ |  | sf | daughter | /ˈdɔtər/ | hija | /ˈixa/ |
-| 2019 | **o** irmão | /ir'mɐ̃w̃/ |  | sm | brother | /ˈbrʌðər/ | hermano | /eɾˈmano/ |
-| 2021 | **a** irmã | /ir'mɐ̃/ |  | sf | sister | /ˈsɪstər/ | hermana | /eɾˈmana/ |
-| 2028 | **o** avô | /ɐ'vɔ/ |  | sm | grandfather | /ˈɡrændˌfɑðər/ | abuelo | /aˈβwe.lo/ |
-| 2029 | **a** avó | /ɐ'vɔ/ |  | sf | grandmother | /ˈɡrændˌmʌðər/ | abuela | /aˈβwe.la/ |
-| 2026 | **o** tio | /'tiu/, |  | sm | uncle | /'ʌŋkəl/ | tío | /'ti.o/ |
-| 2027 | **a** tia | /'tiɐ/ |  | sf | aunt | /ɑnt/ | tía | /'ti.a/ |
+| 2017 | **o** pai | /'pa.i/ | /'pa.i/ | sm | father | /'fɑð.ɚ/ | padre | /'pa.ðɾe/ |
+| 2004 | **a** mãe | /'mɐ̃j/ | /'mɐ̃j/ | sf | mother | /'mʌðər/ | madre | /ˈmaðɾe/ |
+| 2018 | **o** filho | /'fiʎu/ | /'fi'ʎu/ | sm | son | /sʌn/ | hijo | /ˈixo/ |
+| 2020 | **a** filha | /'fiʎɐ/ | /'fi'ʎɐ/ | sf | daughter | /ˈdɔtər/ | hija | /ˈixa/ |
+| 2019 | **o** irmão | /ir'mɐ̃w̃/ | /ir'mɐ̃'w̃/ | sm | brother | /ˈbrʌðər/ | hermano | /eɾˈmano/ |
+| 2021 | **a** irmã | /ir'mɐ̃/ | /ir'mɐ̃/ | sf | sister | /ˈsɪstər/ | hermana | /eɾˈmana/ |
+| 2028 | **o** avô | /ɐ'vɔ/ | /ɐ'vɔ/ | sm | grandfather | /ˈɡrændˌfɑðər/ | abuelo | /aˈβwe.lo/ |
+| 2029 | **a** avó | /ɐ'vɔ/ | /ɐ'vɔ/ | sf | grandmother | /ˈɡrændˌmʌðər/ | abuela | /aˈβwe.la/ |
+| 2035 | **o** cunhado | /ku'njadu/ | /ku'nja'du/ | sm | brother-in-law | /'brʌðər ɪn lɔ/ | cuñado | /kuˈɲaðo/ |
+| 2036 | **a** cunhada | /ku'ɲada/ | /ku'ɲa'da/ | sf | sister-in-law | /'sɪstər ɪn lɔ/ | cuñada | /kuˈɲaða/ |
+| 2022 |  solteiro,  solteira | /sol'tejɾu/, /sol'tejɾɐ/ | /sol'te'jɾu/, /sol'te'jɾɐ/ | adjetivo (masc, fem) | single | /ˈsɪŋɡəl/ | soltera, soltero | /solˈteɾa/, /solˈteɾo/ |
+| 2023 | casada, casado | /kɐ'zaðɐ/ , /kɐ'zaðu/ | /kɐ'za'da/ , /kɐ'za'du/ | adjetivo (fem, masc) | married | /ˈmærɪd/ | casada, casado | /kaˈsaða/ , /kaˈsaðo/ |
+| 2024 | viúvo , viúva | /'vi.u.vo/, /'vi.u.vɐ/ | /'vi'uvu/ , /'vi'uvɐ/ | adjetivo (masc, fem) | widowed | /ˈwɪdoʊd/ | viudo, viuda | /ˈbwido/ , /ˈbwida/ |
+| 2025 | **o** órfão **a** órfã | /'ɔɾfɐ̃w̃/, /'ɔɾfɐ̃/ | /'ɔɾ'fɐ̃w̃/, /'ɔɾ'fɐ̃/ | sm, sf | orphan | /ˈɔrfən/ | huérfano, huérfana | /ˈw̃eɾfano/ , /ˈw̃eɾfana/ |
+| 2026 | **o** tio | /'tiu/ | /'ti'u/ | sm | uncle | /'ʌŋkəl/ | tío | /'ti.o/ |
+| 2027 | **a** tia | /'tiɐ/ | /'ti'ɐ/ | sf | aunt | /ɑnt/ | tía | /'ti.a/ |
+| 2030 | **o** primo **a** prima | /'primu/ , /'primɐ/ | /'pri'mu/ , /'pri'mɐ/ | sm, sf | cousin | /'kʌzən/ | primo, prima | /'pɾimo/ , 
 | 2030 | **o** primo **a** prima | /'primu/ , /'primɐ/ |  | sm, sf | cousin | /'kʌzən/ | primo, prima | /'pɾimo/ , /'pɾima/ |
 | 2031 | **o** neto **os** netos | /'netu/, /'netus/ |  | sm, smp | grandson, granddaughter, grandsons, granddaughters | /'ɡrænsʌn/, /ˌɡrændˈdɔtər/, /'ɡrændˌsʌnz/, /ˌɡrændˈdɔtərz/ | nieto, nieta | /'njeto/, /'njeta/ |
 | 2032 | **a** neto, **a** neta, **os** netos, **as** netas | /'netɐ/, /'netɐs/ |  | sf, sfp | grandson, granddaughter, grandsons, granddaughters | /ˌɡrændˈdɔtər/ | nieta | /'njeta/ |

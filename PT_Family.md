@@ -1,6 +1,27 @@
 # Family and Family situations
 
 
+Here is the filled table with the missing values:
+
+| No. | Portuguese | IPA (PT) | IPA (BR) | Tipo de Palavra | English Word | English IPA | Spanish Word | Spanish IPA |
+|-----|------------|----------|----------|-----------------|--------------|-------------|--------------|-------------|
+| 4299 | **o** aposentado, **a** aposentada | /ɐpuzẽ'tadu/, /ɐpuzẽ'tadɐ/ | /ɐpozẽ'tadu/, /ɐpozẽ'tadɐ/ | adjm , adjf | retired | /rɪ'taɪɚd/ | jubilado, jubilada | /xuβi'laðo/, /xuβi'laða/ |
+| 4298 | **o** reformado, **a** reformada | /ʁɨ.fuʁ'madu/, /ʁɨ.fuʁ'madɐ/ | /ʁe.foɾ'madu/, /ʁe.foɾ'madɐ/ | adjm , adjf | retired | /rɪ'taɪɚd/ | jubilado, jubilada | /xuβi'laðo/, /xuβi'laða/ |
+| 8289 | **o** falador, **a** faladora | /fɐ.lɐ'doɾ/, /fɐ.lɐ'doɾɐ/ | /fɐ.la'doɾ/, /fɐ.la'doɾɐ/ | adjm , adjf | talkative | /'tɔkətɪv/ | hablador, habladora | /aβla'ðoɾ/, /aβla'ðoɾa/ |
+| 2424 | **o** curioso, **a** curiosa | /kuɾju'zo/, /kuɾju'zozɐ/ | /kuɾju'zo/, /kuɾju'zozɐ/ | adjm , adjf | curious | /'kjʊriəs/ | curioso, curiosa | /kuɾjo'so/, /kuɾjo'sa/ |
+| 8290 | **o** alegre | /ɐ'lɛɡɾi/ | /ɐ'le.ɡɾi/ | adjm | happy | /ˈhæpi/ | alegre | /a'leɣɾe/ |
+| 8291 | **o** marido | /mɐ'ɾidu/ | /ma'ɾidu/ | sm | husband | /'hʌzbənd/ | marido | /ma'ɾiðo/ |
+| 8292 | **a** mulher | /mu'ʎeɾ/ | /mu'ʎeɾ/ | sf | wife | /waɪf/ | esposa | /es'posa/ |
+| 2046 | **a** pequena, **o** pequeno | /pɨ'kɛnɐ/, /pɨ'kɛnu/ | /pe'ke.nɐ/, /pe'ke.nu/ | adjf, adjm | small | /smɔl/ | pequeño, pequeña | /pe'keɲo/, /pe'keɲa/ |
+| 8293 | **o** jardineiro, **a** jardineira | /ʒɐɾdinej'ɾu/, /ʒɐɾdinej'ɾɐ/ | /ʒaʁ.dʒi'nej.ɾu/, /ʒaʁ.dʒi'nej.ɾɐ/ | sm, sf | gardener | /'ɡɑɹdənɚ/ | jardinero, jardinera | /xaɾði'neɾo/, /xaɾði'neɾa/ |
+| 4032 | **o** contabilista | /kõtɐbi'liʃtɐ/ | /kõtabi'liʃta/ | sm | accountant | /ə'kaʊntənt/ | contable | /kon'taβle/ |
+| 8293 | **o** comerciante | /kumɨɾsi'ɐ̃tɨ/ | /komeɾsi'ɐ̃tʃi/ | sm | merchant | /'mɝtʃənt/ | comerciante | /komersi'ante/ |
+| 8294 | **o** agente de seguros | /ɐ'ʒẽtɨ dɨ sɨ'ɡuɾuʃ/ | /a'ʒẽtʃi dʒi se'ɡuɾus/ | sm | insurance agent | /ɪn'ʃʊɹəns 'eɪdʒənt/ | agente de seguros | /a'xente ðe se'ɣuɾos/ |
+| 8295 | **o** gestor, **a** gestora | /ʒɨʃ'toɾ/, /ʒɨʃ'toɾɐ/ | /ʒɛs'toɾ/, /ʒɛs'toɾɐ/ | sm, sf | manager | /'mænɪdʒɚ/ | gerente | /xe'rente/ |
+| 8296 | **o** réporter | /ʁe'poɾtɨɾ/ | /'ʁɛ.poʁ.teʁ/ | sm | reporter | /ɹɪ'pɔɹtɚ/ | reportero | /repoɾ'teɾo/ |
+| 8297 | **o** funcionario, **a** funcionaria | /funsiu'naɾiu/, /funsiu'nɐɾjɐ/ | /fũ.si.o.na'ɾi.u/, /fũ.si.o.na'ɾi.ɐ/ | sm, sf | employee | /ɪm'plɔɪ.iː/ | empleado, empleada | /em'pleaðo/, /em'pleaða/ |
+| 8298 | **a** secretária, **o** secretário | /sɨkɾi.tɐ'ɾiɐ/, /sɨkɾi'taɾju/ | /se.kɾe'ta.ɾi.ɐ/, /se.kɾe'ta.ɾi.u/ | sf, sm | secretary | /'sɛkrəˌtɛri/ | secretaria, secretario | /se.kɾe'ta.ɾja/, /se.kɾe'ta.ɾjo/ |
+
 
 **Family Members:**
 
@@ -59,6 +80,15 @@
 | órfã         | substantivo (fem)  | /'ɔɾfɐ̃/        | orphan (fem)   | /ˈɔrfən/   | huérfana         | /ˈw̃eɾfana/  | 2025 |
 | divorciado   | adjetivo (masc) | /di.vɔɾsi'adu/  | divorced       | /dɪˈvɔrst/  | divorciado       | /di.voɾˈθjaðo/  | 2037 |
 | divorciada   | adjetivo (fem)  | /di.vɔɾsi'adɐ/  | divorced (fem) | /dɪˈvɔrst/  | divorciada       | /di.voɾˈθjaða/  | 2037 |
+
+
+
+
+
+
+
+
+
 
 
 

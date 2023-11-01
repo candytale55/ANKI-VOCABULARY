@@ -34,23 +34,14 @@
 | 2036 | **a** cunhada | /ku'ɲada/ | /ku'ɲa'da/ | sf | sister-in-law | /'sɪstər ɪn lɔ/ | cuñada | /kuˈɲaða/ |
 
 
-
-| No. | Portuguese | IPA (PT) | IPA (BR) | Tipo de Palavra | English Word | English IPA | Spanish Word | Spanish IPA |
-|-----|------------|----------|----------|-----------------|--------------|-------------|--------------|-------------|
-| 2033 | **o** sogro | /'sɔɡɾu/ |  | sm | father-in-law | /'fɑðər ɪn lɔ/ | suegro | /'swe.ɡɾo/ |
-| 2034 | **a** sogra | /'sɔɡɾɐ/ |  | sf | mother-in-law | /'mʌðər ɪn lɔ/ | suegra | /'swe.ɡɾa/ |
-| 2035 | **o** cunhado | /ku'njadu/ |  | sm | brother-in-law | /'brʌðər ɪn lɔ/ | cuñado | /kuˈɲaðo/ |
-| 2036 | **a** cunhada | /ku'ɲada/ |  | sf | sister-in-law | /'sɪstər ɪn lɔ/ | cuñada | /kuˈɲaða/ |
-
-
 **Family Status:**
 
 | No. | Portuguese | IPA (PT) | IPA (BR) | Tipo de Palavra | English Word | English IPA | Spanish Word | Spanish IPA |
 |-----|------------|----------|----------|-----------------|--------------|-------------|--------------|-------------|
-| 2022 |  solteiro,  solteira | /sol'tejɾu/, /sol'tejɾɐ/ | /sol'te'jɾu/, /sol'te'jɾɐ/ | adjetivo (masc, fem) | single | /ˈsɪŋɡəl/ | soltera, soltero | /solˈteɾa/, /solˈteɾo/ |
-| 2023 | casada, casado | /kɐ'zaðɐ/ , /kɐ'zaðu/ | /kɐ'za'da/ , /kɐ'za'du/ | adjetivo (fem, masc) | married | /ˈmærɪd/ | casada, casado | /kaˈsaða/ , /kaˈsaðo/ |
-| 2024 | viúvo , viúva | /'vi.u.vo/, /'vi.u.vɐ/ | /'vi'uvu/ , /'vi'uvɐ/ | adjetivo (masc, fem) | widowed | /ˈwɪdoʊd/ | viudo, viuda | /ˈbwido/ , /ˈbwida/ |
-| 2037 |  divorciado,  divorciada | /di.vɔɾsi'adu/, /di.vɔɾsi'adɐ/ | /di.voɾsi'adu/, /di.voɾsi'adɐ/ | adjetivo (masc, fem) | divorced | /dɪˈvɔrst/ | divorciado, divorciada | /di.voɾˈθjaðo/ , /di.voɾˈθjaða/ |
+| 2022 |  solteiro,  solteira | /sol'tejɾu/, /sol'tejɾɐ/ | /sol'te'jɾu/, /sol'te'jɾɐ/ | adjm , adjf | single | /ˈsɪŋɡəl/ | soltera, soltero | /solˈteɾa/, /solˈteɾo/ |
+| 2023 | casada, casado | /kɐ'zaðɐ/ , /kɐ'zaðu/ | /kɐ'za'da/ , /kɐ'za'du/ | adjm , adjf | married | /ˈmærɪd/ | casada, casado | /kaˈsaða/ , /kaˈsaðo/ |
+| 2024 | viúvo , viúva | /'vi.u.vo/, /'vi.u.vɐ/ | /'vi'uvu/ , /'vi'uvɐ/ | adjm , adjf | widowed | /ˈwɪdoʊd/ | viudo, viuda | /ˈbwido/ , /ˈbwida/ |
+| 2037 |  divorciado,  divorciada | /di.vɔɾsi'adu/, /di.vɔɾsi'adɐ/ | /di.voɾsi'adu/, /di.voɾsi'adɐ/ | adjm , adjf | divorced | /dɪˈvɔrst/ | divorciado, divorciada | /di.voɾˈθjaðo/ , /di.voɾˈθjaða/ |
 | 2025 | **o** órfão **a** órfã | /'ɔɾfɐ̃w̃/, /'ɔɾfɐ̃/ | /'ɔɾ'fɐ̃w̃/, /'ɔɾ'fɐ̃/ | sm, sf | orphan | /ˈɔrfən/ | huérfano, huérfana | /ˈw̃eɾfano/ , /ˈw̃eɾfana/ |
 
 

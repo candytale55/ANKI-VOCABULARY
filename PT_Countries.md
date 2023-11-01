@@ -16,6 +16,26 @@
 | São Tomé and Príncipe | /sɐ̃w tuˈmɛ i ˈpɾĩsɨpɨ/ | /sɐ̃w toˈme i ˈpɾĩsɨpɨ/ | São Tomé and Príncipe | /ˌsaʊn təˈmeɪ ənd ˈpɹɪnsɪpə/ | Santo Tomé y Príncipe | /ˈsanto toˈme i ˈpɾinsipe/ |7009|
 
 
+## Nationality:
+
+| No. | Portuguese | IPA (PT) | IPA (BR) | Tipo de Palavra | English Word | English IPA | Spanish Word | Spanish IPA |
+|-----|------------|----------|----------|-----------------|--------------|-------------|--------------|-------------|
+| 70011 | português, portuguesa | /poɾtu'ɡez/, /poɾtu'ɡezɐ/ | /poɾtu'ɡez/, /poɾtu'ɡezɐ/ | adjm, adjf | Portuguese | /'pɔrtʃəˌɡiz/, /'pɔrtjəˌɡizə/ | portugués, portuguesa | /poɾtu'ɣes/, /poɾtu'ɣesa/ |
+| 70012 | portuguesa | /poɾtu'ɡezɐ/ | /poɾtu'ɡezɐ/ | adjf | Portuguese | /'pɔrtʃəˌɡizə/ | portuguesa | /poɾtu'ɣesa/ |
+| 70021 | brasileiro, brasileira | /bɾɐzi'lejɾu/, /bɾɐzi'lejɾɐ/ | /bɾɐzi'lejɾu/, /bɾɐzi'lejɾɐ/ | adjm, adjf | Brazilian | /bɹə'zɪliən/, /-jə-/ | brasileño, brasileña | /bɾazi'leɲo/, /bɾazi'leɲa/ |
+| 70022 | brasileira | /bɾɐzi'lejɾɐ/ | /bɾɐzi'lejɾɐ/ | adjf | Brazilian | /-jə-/ | brasileña | /bɾazi'leɲa/ |
+| 70031 | angolano, angolana | /ɐ̃ɡulu'ɐnu/, /ɐ̃ɡulu'nɐ/ | /ɐ̃ɡolu'ɐnu/, /ɐ̃ɡolu'nɐ/ | adjm, adjf | Angolan | /æŋ'ɡoʊlən/, /-ɑn/ | angoleño, angoleña | /aŋɡo'leɲo/, /aŋɡo'leɲa/ |
+| 70032 | angolana | /ɐ̃ɡulu'nɐ/ | /ɐ̃ɡolu'nɐ/ | adjf | Angolan | /-ɑn/ | angoleña | /aŋɡo'leɲa/ |
+| 70041 | moçambicano, moçambicana | /musɐ̃bi'kɐnu/, /musɐ̃bi'kɐnɐ/ | /musɐ̃bi'kanu/, /musɐ̃bi'kanɐ/ | adjm, adjf | Mozambican | /ˌmoʊzæmbɪ'kæn/, /-kən/ | mozambiqueño, mozambiqueña | /moθam'bikeɲo/, /moθam'bikeɲa/ |
+| 70042 | moçambicana | /musɐ̃bi'kɐnɐ/ | /musɐ̃bi'kanɐ/ | adjf | Mozambican | /-kən/ | mozambiqueña | /moθam'bikeɲa/ |
+| 70051 | guineense | /ɡĩne'ẽsi/ | /ɡi'neẽsi/ | adj | Guinean | /ɡɪˈniːən/ | guineano | /ɡi'neano/ |
+| 70052 | guineense | /ɡĩne'ẽsi/ | /ɡi'neẽsi/ | adj | Guinean | /ɡɪˈniːən/ | guineano | /ɡi'neano/ |
+| 70061 | timorense | /timu'ɾẽsi/ | /timu'ɾẽsi/ | adj | East Timorese | /ˌiːst ˌtiːmɔːˈriːz/ | timorense | /timu'ɾense/ |
+| 70062 | timorense | /timu'ɾẽsi/ | /timu'ɾẽsi/ | adj | East Timorese | /ˌiːst ˌtiːmɔːˈriːz/ | timorense | /timu'ɾense/ |
+| 70081 | são-tomense | /sɐ̃w̃ tu'mẽsi/ | /sɐ̃w̃ tu'mẽsi/ | adj | São Toméan | /ˌsaʊn təˈmeɪən/ | santomeño | /san.to'meɲo/ |
+| 70082 | são-tomense | /sɐ̃w̃ tu'mẽsi/ | /sɐ̃w̃ tu'mẽsi/ | adj | São Toméan | /ˌsaʊn təˈmeɪən/ | santomeño | /san.to'meɲo/ |
+| 70091 | cabo-verdiano, cabo-verdiana | /kabu vɨɾdi'ɐnu/, /kabu vɨɾdi'ɐnɐ/ | /'kabu veɾdi'ɐnu/, /'kabu veɾdi'ɐnɐ/ | adjm, adjf | Cape Verdean | /ˌkeɪp vɜrˈdiːən/, /-dən/ | caboverdiano, caboverdiana | /kaboβeɾˈðjano/, /kaboβeɾˈðjana/ |
+
 ## Spanish Speaking Countries:
 
 | Portuguese      | IPA (PT)      | IPA (BR)    | English           | English IPA     | Spanish           | Spanish IPA | No. |

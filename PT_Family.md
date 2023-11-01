@@ -1,8 +1,6 @@
 # Family and Family situations
 
 
-Here is the filled table with the missing values:
-
 | No. | Portuguese | IPA (PT) | IPA (BR) | Tipo de Palavra | English Word | English IPA | Spanish Word | Spanish IPA |
 |-----|------------|----------|----------|-----------------|--------------|-------------|--------------|-------------|
 | 4299 | **o** aposentado, **a** aposentada | /ɐpuzẽ'tadu/, /ɐpuzẽ'tadɐ/ | /ɐpozẽ'tadu/, /ɐpozẽ'tadɐ/ | adjm , adjf | retired | /rɪ'taɪɚd/ | jubilado, jubilada | /xuβi'laðo/, /xuβi'laða/ |

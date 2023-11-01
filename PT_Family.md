@@ -3,10 +3,10 @@
 
 | No. | Portuguese | IPA (PT) | IPA (BR) | Tipo de Palavra | English Word | English IPA | Spanish Word | Spanish IPA |
 |-----|------------|----------|----------|-----------------|--------------|-------------|--------------|-------------|
-| 4299 | **o** aposentado, **a** aposentada | /ɐpuzẽ'tadu/, /ɐpuzẽ'tadɐ/ | /ɐpozẽ'tadu/, /ɐpozẽ'tadɐ/ | adjm , adjf | retired | /rɪ'taɪɚd/ | jubilado, jubilada | /xuβi'laðo/, /xuβi'laða/ |
-| 4298 | **o** reformado, **a** reformada | /ʁɨ.fuʁ'madu/, /ʁɨ.fuʁ'madɐ/ | /ʁe.foɾ'madu/, /ʁe.foɾ'madɐ/ | adjm , adjf | retired | /rɪ'taɪɚd/ | jubilado, jubilada | /xuβi'laðo/, /xuβi'laða/ |
-| 8289 | **o** falador, **a** faladora | /fɐ.lɐ'doɾ/, /fɐ.lɐ'doɾɐ/ | /fɐ.la'doɾ/, /fɐ.la'doɾɐ/ | adjm , adjf | talkative | /'tɔkətɪv/ | hablador, habladora | /aβla'ðoɾ/, /aβla'ðoɾa/ |
-| 2424 | **o** curioso, **a** curiosa | /kuɾju'zo/, /kuɾju'zozɐ/ | /kuɾju'zo/, /kuɾju'zozɐ/ | adjm , adjf | curious | /'kjʊriəs/ | curioso, curiosa | /kuɾjo'so/, /kuɾjo'sa/ |
+| 4299 | aposentado, aposentada | /ɐpuzẽ'tadu/, /ɐpuzẽ'tadɐ/ | /ɐpozẽ'tadu/, /ɐpozẽ'tadɐ/ | adjm , adjf | retired | /rɪ'taɪɚd/ | jubilado, jubilada | /xuβi'laðo/, /xuβi'laða/ |
+| 4298 | reformado, reformada | /ʁɨ.fuʁ'madu/, /ʁɨ.fuʁ'madɐ/ | /ʁe.foɾ'madu/, /ʁe.foɾ'madɐ/ | adjm , adjf | retired | /rɪ'taɪɚd/ | jubilado, jubilada | /xuβi'laðo/, /xuβi'laða/ |
+| 8289 | falador, faladora | /fɐ.lɐ'doɾ/, /fɐ.lɐ'doɾɐ/ | /fɐ.la'doɾ/, /fɐ.la'doɾɐ/ | adjm , adjf | talkative | /'tɔkətɪv/ | hablador, habladora | /aβla'ðoɾ/, /aβla'ðoɾa/ |
+| 2424 | curioso, curiosa | /kuɾju'zo/, /kuɾju'zozɐ/ | /kuɾju'zo/, /kuɾju'zozɐ/ | adjm , adjf | curious | /'kjʊriəs/ | curioso, curiosa | /kuɾjo'so/, /kuɾjo'sa/ |
 | 8290 | **o** alegre | /ɐ'lɛɡɾi/ | /ɐ'le.ɡɾi/ | adjm | happy | /ˈhæpi/ | alegre | /a'leɣɾe/ |
 | 8291 | **o** marido | /mɐ'ɾidu/ | /ma'ɾidu/ | sm | husband | /'hʌzbənd/ | marido | /ma'ɾiðo/ |
 | 8292 | **a** mulher | /mu'ʎeɾ/ | /mu'ʎeɾ/ | sf | wife | /waɪf/ | esposa | /es'posa/ |
@@ -19,6 +19,29 @@
 | 8296 | **o** réporter | /ʁe'poɾtɨɾ/ | /'ʁɛ.poʁ.teʁ/ | sm | reporter | /ɹɪ'pɔɹtɚ/ | reportero | /repoɾ'teɾo/ |
 | 8297 | **o** funcionario, **a** funcionaria | /funsiu'naɾiu/, /funsiu'nɐɾjɐ/ | /fũ.si.o.na'ɾi.u/, /fũ.si.o.na'ɾi.ɐ/ | sm, sf | employee | /ɪm'plɔɪ.iː/ | empleado, empleada | /em'pleaðo/, /em'pleaða/ |
 | 8298 | **a** secretária, **o** secretário | /sɨkɾi.tɐ'ɾiɐ/, /sɨkɾi'taɾju/ | /se.kɾe'ta.ɾi.ɐ/, /se.kɾe'ta.ɾi.u/ | sf, sm | secretary | /'sɛkrəˌtɛri/ | secretaria, secretario | /se.kɾe'ta.ɾja/, /se.kɾe'ta.ɾjo/ |
+
+Here is the filled table with the missing values:
+
+| No. | Portuguese | IPA (PT) | IPA (BR) | Tipo de Palavra | English Word | English IPA | Spanish Word | Spanish IPA |
+|-----|------------|----------|----------|-----------------|--------------|-------------|--------------|-------------|
+| 8290 | **o** autocarro | /aw.to'kaʁu/ | /aw.to'kaʁu/ | sm | bus | /bʌs/ | autobús | /aw.to'βus/ |
+| 4235 | **o** táxi | /'taksi/ | /'taksi/ | sm | taxi | /ˈtæksi/ | taxi | /ˈtaksi/ |
+| 1336 | **o** tribunal | /tɾi.bu'naɫ/ | /tɾi.bu'naw/ | sm | court | /kɔrt/ | tribunal | /tɾi.bu'nal/ |
+| 8159 | **o** avião | /ɐ.vi'ɐ̃w̃/ | /a.vi'ɐ̃w̃/ | sm | airplane | /ˈɛrˌpleɪn/ | avión | /a'βjon/ |
+| 8291 | **o** jardim | /ʒɐɾ'dĩ/ | /ʒaʁ'dʒĩ/ | sm | garden | /'ɡɑɹdən/ | jardín | /xar'din/ |
+| 8292 | **o** restaurante | /ʁɨs.tau'ɾɐ̃tɨ/ | /ʁe.stau'ɾɐ̃tʃi/ | sm | restaurant | /ˈrɛstərɑnt/ | restaurante | /restau'ɾante/ |
+| 8293 | **o** parlamento | /paɾ.lɐ'mẽ.tu/ | /paʁ.la'mẽ.tu/ | sm | parliament | /'pɑrləmənt/ | parlamento | /paɾ.la'mento/ |
+| 4967 | **o** piano | /pi'ɐ̃w̃u/ | /pi'ɐ̃w̃u/ | sm | piano | /pi'ænoʊ/ | piano | /pi'ano/ |
+| 8294 | **o** namorado, **o** namorada | /nɐmuɾɐ'du/, /nɐmuɾɐ'dɐ/ | /nɐmuɾa'du/, /nɐmuɾa'dɐ/ | sm, sf | boyfriend, girlfriend | /'bɔɪˌfɹɛnd/, /'gɝlˌfɹɛnd/ | novio, novia | /'no.βjo/, /'no.βja/ |
+| 8295 | **o** desporto | /dɨ'spoɾtu/ | /des'poɾtu/ | sm | sport | /spɔrt/ | deporte | /de'poɾte/ |
+| 8296 | sozinho, sozinha | /su'ziɲu/, /su'ziɲɐ/ | /so'ziɲu/, /so'ziɲɐ/ | adjm, adjf | alone | /əˈloʊn/ | solo | /'so.lo/ |
+| 8296 | **as** pesoas | /pu'zow̃ʃ/ | /pe'so.as/ | sfp | people | /ˈpi.pəl/ | personas | /peɾ'sonas/ |
+| 8297 | **a** televisão | /tɨ.lɨ.vi.zɐ̃w̃/ | /te.li.vi'zãw̃/ | sf | television | /ˈtɛləˌvɪʒən/ | televisión | /te.le.bi'sjon/ |
+| 8298 | **a** fotografia | /futuɡɾɐ'fi.ɐ/ | /fo.toɡɾa'fi.ɐ/ | sf | photography | /fə'tɑɡɹəfi/ | fotografía | /fotogɾa'fia/ |
+| 8299 | **os** amigos | /ɐ'miɡuʃ/ | /ɐ'mi.ɡus/ | smp | friends | /frɛndz/ | amigos | /a'miɣos/ |
+| 8300 | sociável | /su.si'a.vɛl/ | /so.si'a'vel/ | sf | sociable | /'soʊʃəbəl/ | sociable | /so.sja'βle/ |
+
+
 
 
 **Family Members:**

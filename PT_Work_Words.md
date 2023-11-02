@@ -60,8 +60,31 @@ Certainly, here's the updated table with the articles in bold:
 | **o/a** florista | sm/f | /flo.ˈɾiʃ.tɐ/    | /flo.ˈɾiʃ.tɐ/    | florist      | /ˈflɔrɪst/ | florista  | /floˈɾista/ |8228|
 
 
-I hope this table meets your requirements. If you need any further assistance or have any more questions, please feel free to ask!
+Certainly, here is the completed table:
 
+| No. | Portuguese | IPA (PT) | IPA (BR) | Tipo de Palavra | English Word | English IPA | Spanish Word | Spanish IPA |
+|-----|------------|----------|----------|-----------------|--------------|-------------|--------------|-------------|
+| 8307 | **o** garçom (BR)| /gɐɾ'sõ/ | /ɡaɾ'sõ/ | sm | waiter | /'weɪtər/ | camarero | /kamaˈɾeɾo/ |
+| 8308 | **a** garçonete (PT)| /ɡɐɾsɔ'netɨ/ | /ɡaɾsɔ'netʃi/ | sf | waitress | /'weɪtrɪs/ | camarera | /kamaˈɾeɾa/ |
+| 8309 | **a** aeromoça, **o** aeromoço (BR)| /e̞.ɾu'mɔ.mɔ.sɐ/, /e̞.ɾu'mɔ.mɔ.su/ | /a.e̞.ɾu'mɔ.mɔ.sɐ/, /a.e̞.ɾu'mɔ.mɔ.su/ | sf, sm | flight attendant | /flaɪt ə'tɛndənt/ | azafata, azafato | /aθaˈfata/, /aθaˈfato/ |
+| 8310 | **a** hospedeira, **o** hospedeiro (PT) | /uʃpɨ'dejɾɐ/, /uʃpɨ'dejɾu/ | /ɔs.pɨ'dej.ɾɐ/, /ɔs.pɨ'dej.ɾu/ | sf, sm | stewardess, steward | /'stuːərdɪs/, /'stjuːərd/ | azafata, azafato | /aθaˈfata/, /aθaˈfato/ |
+| 8311 | **a** deputada, **o** deputado | /dɨpu'tadɐ/, /dɨpu'tadu/ | /depu'tadɐ/, /depu'tadu/ | sf, sm | congresswoman, congressman | /ˈkɑːŋɡrɛswʊmən/, /ˈkɑːŋɡrɛsmən/ | diputada, diputado | /dipuˈtaða/, /dipuˈtaðo/ |
+| 8312 | **a/o** taxista | /tɐ'ʃistɐ/, /tɐ'ʃistɐ/ | /ta'ʃistɐ/, /ta'ʃistɐ/ | sf, sm | taxi driver | /ˈtæksi ˈdraɪvər/ | taxista | /taxista/ |
+| 8313 | **o** empregado de mesa, **a** empregada de mesa (PT) | /ẽpɾɨ'ɡadu dɨ 'mɛzɐ/, /ẽpɾɨ'ɡadɐ dɨ 'mɛzɐ/ | /ẽpɾɨ'ɡadu dʒi 'meza/, /ẽpɾɨ'ɡadɐ dʒi 'meza/ | sm, sf | waiter, waitress | /ˈweɪtər/, /ˈweɪtrɪs/ | camarero, camarera | /kamaˈɾeɾo/, /kamaˈɾeɾa/ |
+| 8314 | **o** funcionário, **a** funcionária | /fũsiʊ'nariu/, /fũsiʊ'narjɐ/ | /fũsiũ'naɾiu/, /fũsiũ'naɾjɐ/ | sm, sf | employee | /ɪmˈplɔɪi/ | empleado, empleada | /emˈpleaðo/, /emˈpleaða/ |
+| 8315 | **o** funcionário público, **a** funcionária pública | /fũsiʊ'nariu 'publiku/, /fũsiʊ'narjɐ 'publikɐ/ | /fũsiũ'naɾiu 'publiku/, /fũsiũ'naɾjɐ 'publikɐ/ | sm, sf | civil servant | /ˈsɪvəl ˈsɜrvənt/ | funcionario público, funcionaria pública | /funθjoˈnaɾjo ˈpubliko/, /funθjoˈnaɾja ˈpublika/ |
+| 8316 | **o/a** paquete | /pɐ'kɛtɨ/ | /pa'kɛtʃi/ | sm, sf | waiter/waitress on a ship | /ˈweɪtər/, /ˈweɪtrɪs/ | camarero de barco, camarera de barco | /kamaˈɾeɾo ðe ˈβarko/, /kamaˈɾeɾa ðe ˈβarko/ |
+| 8317 | **o** juiz, **a** juíza | /ʒu'iʒ/, /ʒu'izɐ/ | /ʒu'iz/, /ʒu'izɐ/ | sm, sf | judge | /dʒʌdʒ/ | juez, jueza | /xweθ/, /ˈxweθa/ |
+| 8318 | **o/** caixa | /'kajʃɐ/ | /'kajʃɐ/ | sm | cashier | /ˈkæʃɪər/ | cajero | /ka'xeɾo/ |
+| 8319 | **a/o** manequim da alta costura | /mɐnɨ'kẽj̃/, /mɐnɨ'kẽj̃ dɐ 'awtɐ kɔs'tuɾɐ/ | /mɐnɨ'kẽj̃i/, /mɐnɨ'kẽj̃ dɐ 'awtɐ kɔs'tuɾɐ/ | sf, sm | fashion model | /ˈfæʃən ˈmɑdəl/ | modelo de moda | /mo'ðelo ðe 'moða/ |
+| 8320 | **o/a** desportista | /dɨʃpuɾ'tiʃtɐ/ | /dɨspuʁ'tʃistɐ/ | sm, sf | athlete | /'æθlit/ | deportista | /depoɾˈtista/ |
+| 8321 | **o/a** psicanalista | /psikɐnɐ'liʃtɐ/ | /psika'nalistɐ/ | sm, sf | psychoanalyst | /ˌsaɪkoʊˈænəlɪst/ | psicoanalista | /psikoanaˈlista/ |
+| 8322 | **o/a** piloto | /pi'lotu/ | /pi'lotu/ | sm, sf | pilot | /ˈpaɪlət/ | piloto | /piˈloto/ |
+| 8323 | **o/a** agente de seguros | /a'ʒẽtɨ dɨ sɨ'ɡuɾuʃ/ | /a'ʒẽtʃi dʒi si'ɡuɾus/ | sm, sf | insurance agent | /ɪnˈʃʊrəns 'eɪdʒənt/ | agente de seguros | /a'xente ðe 'seɣuɾos/ |
+| 8324 | **o** banqueiro, **a** banqueira | /bɐ̃'kɐjɾu/, /bɐ̃'kɐjɾɐ/ | /bɐ̃'kejɾu/, /bɐ̃'kejɾɐ/ | sm, sf | banker | /'bæŋkɚ/ | banquero, banquera | /baŋ'keɾo/, /baŋ'keɾa/ |
+| 8325 | **o** sobrinho, **a** sobrinha | /su'bɾiɲu/, /su'bɾiɲɐ/ | /so'bɾiɲu/, /so'bɾiɲɐ/ | sm, sf | nephew, niece | /ˈnɛfjuː/, /niːs/ | sobrino, sobrina | /so'βɾino/, /so'βɾina/ |
+| 8326 | **o** químico, **a** química | /'kimi.ku/, /'kimi.kɐ/ | /'kimi.ku/, /'kimi.kɐ/ | sm, sf | chemist | /'kɛmɪst/ | químico, química | /'kimiko/, /'kimika/ |
+| 8327 | **o/a** biologista | /biuluʒ'ɨʃtɐ/ | /biolodʒiʃ'tɐ/ | sm, sf | biologist | /baɪ'ɒlədʒɪst/ | biólogo, bióloga | /biˈoloɣo/, /biˈoloɣa/ |
 
 
 

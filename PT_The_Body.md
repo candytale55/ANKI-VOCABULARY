@@ -2,6 +2,38 @@
 
 **General Body Parts:**
 
+
+Here is the completed table:
+
+| No. | Portuguese | IPA (PT) | IPA (BR) | Tipo de Palavra | English Word | English IPA | Spanish Word | Spanish IPA |
+|-----|------------|----------|----------|-----------------|--------------|-------------|--------------|-------------|
+| 1990 | o cérebro | /se'bɾu/ | /se'bɾu/ | sm | brain | /breɪn/ | cerebro | /θe'reβɾo/ |
+| 8101 | os pés | /pez/ | /pez/ | smp | feet | /fiːt/ | pies | /pjes/ |
+| 8102 | as pernas | /'peɾnɐʃ/ | /'peɾnɐʃ/ | sfp | legs | /lɛɡz/ | piernas | /'pjeɾnas/ |
+| 8103 | os joelhos | /ʒu'ʒeʎuʃ/ | /ʒwe'ʎoʃ/ | smp | knees | /niːz/ | rodillas | /ro'ðiʎas/ |
+| 8104 | os braços | /'bɾasuʃ/ | /'bɾasuʃ/ | smp | arms | /ɑːrmz/ | brazos | /'bɾaθos/ |
+| 8105 | as costas | /'koʃtɐʃ/ | /'koʃtɐʃ/ | sfp | back | /bæk/ | espalda | /es'palda/ |
+| 8106 | o pescoço | /'pɛʃkuʃ/ | /'pɛskuʃ/ | sm | neck | /nɛk/ | cuello | /'kweʎo/ |
+| 8108 | os ombros | /'õbɾuʃ/ | /'õbɾuʃ/ | smp | shoulders | /ˈʃoʊldərz/ | hombros | /'ombɾos/ |
+| 8111 | o rosto | /'ʁoʃtu/ | /'ʁostu/ | sm | face | /feɪs/ | cara | /'kaɾa/ |
+| 8113 | o nariz | /nɐ'ɾiʃ/ | /nɐ'ɾis/ | sm | nose | /noʊz/ | nariz | /na'ɾiθ/ |
+| 8115 | as orelhas | /o'ɾeʎɐʃ/ | /o'ɾeʎɐʃ/ | sfp | ears | /ɪrz/ | orejas | /o'ɾexas/ |
+| 8120 | os quadris | /'kwadɾiʃ/ | /'kwadɾiʃ/ | smp | hips | /hɪps/ | caderas | /ka'ðeɾas/ |
+| 8121 | as nádegas | /'nadɨgɐʃ/ | /'nadɨɡɐʃ/ | sfp | buttocks | /'bʌtəks/ | nalgas | /'nalɣas/ |
+| 8124 | o tornozelo, os tornozelos | /tuɾnu'zɛlu/ , /tuɾnu'zɛluʃ/ | /toʁnu'zɛlu/, /toʁnu'zɛlus/ | sm , smp | ankle, ankles | /'æŋkəl/, /'æŋkəlz/ | tobillo, tobillos | /to'βiʎo/, /to'βiʎos/ |
+| 8125 | a sobrancelha, as sobrancelhas | /suβɾɐ'seʎɐ/ , /suβɾɐ'seʎɐʃ/ | /sobɾɐ'seʎɐ/ , /sobɾɐ'seʎɐʃ/ | sf , sfp | eyebrow, eyebrows | /ˈaɪˌbraʊ/, /ˈaɪˌbraʊz/ | ceja, cejas | /'θexa/, /'θexas/ |
+| 8126 | o dente | /'dẽtɨ/ | /'dẽtʃi/ | sm | tooth | /tuːθ/ | diente | /'djente/ |
+| 8129 | a perna | /'peɾnɐ/ | /'peɾnɐ/ | sf | leg | /lɛɡ/ | pierna | /'pjeɾna/ |
+| 8130 | o dedo | /'dedu/ | /'dedu/ | sm | finger | /ˈfɪŋɡɚ/ | dedo | /'ðeðo/ |
+| 8131 | o braço | /'bɾasu/ | /'bɾasu/ | sm | arm | /ɑːrm/ | brazo | /'bɾaθo/ |
+| 8132 | o cotovelo, os cotovelos | /kotu'velu/, /kotu'veluʃ/ | /kotu'velu/ , /kotu'veluʃ/ | sm , smp | elbow, elbows | /ˈɛlboʊ/ , /ˈɛlboʊz/ | codo, codos | /'koðo/, /'koðos/ |
+| 8134 | as pálpebras | /'palpebɾɐʃ/ | /'pawpebɾɐʃ/ | sfp | eyelids | /ˈaɪˌlɪdz/ | párpados | /'paɾpaðos/ |
+| 8136 | a testa | /'tɛʃtɐ/ | /'tɛʃtɐ/ | sf | forehead | /'fɔɹɪd/ | frente | /'fɾente/ |
+| 81101 | os olhos | /'oʎuʃ/ | /'oʎuʃ/ | smp | eyes | /aɪz/ | ojos | /'oxos/ |
+
+
+
+
 | Portuguese    | Tipo de Palavra    | IPA             | English     | IPA (USA) | Spanish       | Spanish IPA | No. |
 |---------------|--------------------|-----------------|-------------|-----------|---------------|------------|-----|
 | pés           | s.m.p. | /ˈpeʃ/          | feet        | /fiːt/    | pies          | /ˈpjes/    | 8101 |

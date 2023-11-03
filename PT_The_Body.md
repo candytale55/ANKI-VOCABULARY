@@ -30,7 +30,20 @@ Here is the completed table:
 | 8134 | as pálpebras | /'palpebɾɐʃ/ | /'pawpebɾɐʃ/ | sfp | eyelids | /ˈaɪˌlɪdz/ | párpados | /'paɾpaðos/ |
 | 8136 | a testa | /'tɛʃtɐ/ | /'tɛʃtɐ/ | sf | forehead | /'fɔɹɪd/ | frente | /'fɾente/ |
 | 81101 | os olhos | /'oʎuʃ/ | /'oʎuʃ/ | smp | eyes | /aɪz/ | ojos | /'oxos/ |
-
+| 2022 | a barba | /'baɾbɐ/ | /'baɾba/ | sf | beard | /bɪərd/ | barba | /'baɾβa/ |
+| 2023 | o sangue | /'sɐ̃ɡɨ/ | /'sɐ̃ɡi/ | sm | blood | /blʌd/ | sangre | /'saŋɡɾe/ |
+| 2024 | o corpo | /'koɾpu/ | /'koɾpo/ | sm | body | /ˈbɑːdi/ | cuerpo | /'kweɾpo/ |
+| 2025 | o osso | /'osu/ | /'osu/ | sm | bone | /boʊn/ | hueso | /'weso/ |
+| 2026 | o queixo | /'kejʃu/ | /'kejʃu/ | sm | chin | /tʃɪn/ | barbilla | /baɾ'βiʎa/ |
+| 2027 | o cabelo | /kɐ'be.lu/ | /kɐ'be.lu/ | sm | hair | /hɛr/ | pelo | /'pelo/ |
+| 2028 | a cabeça | /kɐ'bɛsɐ/ | /kɐ'bɛsɐ/ | sf | head | /hɛd/ | cabeza | /ka'βeθa/ |
+| 2029 | o lábio | /'la.bi.u/ | /'la.bi.u/ | sm | lip | /lɪp/ | labio | /'laβjo/ |
+| 2030 | os lábios | /'la.bjus/ | /'la.bjos/ | smp | lips | /lɪps/ | labios | /'laβjos/ |
+| 2031 | a unha | /'uɲɐ/ | /'uɲɐ/ | sf | nail | /neɪl/ | uña | /'uɲa/ |
+| 2032 | o suor | /su'ɔɾ/ | /su'ɔɾ/ | sm | sweat | /swɛt/ | sudor | /su'ðoɾ/ |
+| 2033 | a lágrima | /'laɡɾimɐ/ | /'laɡɾimɐ/ | sf | tear | /tɪər/ | lágrima | /'laɣɾima/ |
+| 2034 | o dedo do pé | /'de.du du 'pe/ | /'de.du du 'pe/ | sm | toe | /toʊ/ | dedo del pie | /'ðeðo ðel 'pje/ |
+| 2035 | a língua | /'lĩ.ɡwɐ/ | /'lĩ.ɡwa/ | sf | tongue | /tʌŋ/ | lengua | /'leŋɡwa/ |
 
 
 

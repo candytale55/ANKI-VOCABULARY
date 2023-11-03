@@ -25,3 +25,29 @@ Sure, here is the table filled with the missing values:
 | 8377 | **entre** | /'ẽtɾɨ/ | /'ẽtʃi/ | adv | between | /bɪ'twin/ | entre | /'entɾe/ |
 | 8378 | **direita** | /di'ɾɐjtɐ/ | /di'ɾajtɐ/ | adv | right | /raɪt/ | derecha | /ðe'ɾetʃa/ |
 | 8379 | **esquerda** | /ɨʃ'keɾdɐ/ | /ʃ'keɾdɐ/ | adv | left | /lɛft/ | izquierda | /iθ'kjeɾða/ |
+
+
+
+Certainly, here is the table with the missing values filled:
+
+| No. | Portuguese | IPA (PT) | IPA (BR) | Tipo de Palavra | English Word | English IPA | Spanish Word | Spanish IPA |
+|-----|------------|----------|----------|-----------------|--------------|-------------|--------------|-------------|
+| 8380 | **aqui** | /a'ki/ | /a'ki/ | adv | here | /hɪr/ | aquí | /aˈki/ |
+| 8381 | **ali** | /a'li/ | /a'li/ | adv | there | /ðɛr/ | allí | /a'ʎi/ |
+| 8382 | **abaixo** | /ɐ'bajʃu/ | /ɐ'bajʃu/ | adv | below | /bɪ'loʊ/ | debajo | /de'ba.xo/ |
+| 8383 | **acima** | /ɐ'simɐ/ | /ɐ'simɐ/ | adv | above | /ə'bʌv/ | encima | /en'θima/ |
+| 8384 | **lá** | /'la/ | /'la/ | adv | there | /ðɛr/ | allí | /a'ʎi/ |
+| 8385 | **acolá** | /ɐkɔ'lɐ/ | /ɐkɔ'lɐ/ | adv | yonder | /'jɑndɚ/ | allá | /a'ʎa/ |
+| 8386 | **perto** | /'peɾtu/ | /'pehtu/ | adv | near | /nɪr/ | cerca | /'θeɾka/ |
+| 8387 | **longe** | /'lõʒɨ/ | /'lõʒi/ | adv | far | /fɑr/ | lejos | /'lexos/ |
+| 8388 | **agora** | /ɐ'ɡɔɾɐ/ | /ɐ'ɡɔɾɐ/ | adv | now | /naʊ/ | ahora | /a'ɣoɾa/ |
+| 8389 | **já** | /ʒɐ/ | /ʒɐ/ | adv | already | /ɔl'rɛdi/ | ya | /ʝa/ |
+| 8390 | **já não** | /ʒɐ 'nɐw̃/ | /ʒɐ 'nɐw̃/ | adv | no longer | /noʊ 'lɔŋɡɚ/ | ya no | /ʝa 'no/ |
+| 8391 | **então** | /ẽ'tɐ̃w̃/ | /ẽ'tɐ̃w̃/ | adv | then | /ðɛn/ | entonces | /en'ton.ses/ |
+| 8392 | **logo** | /'loɡu/ | /'loɡu/ | adv | soon | /sun/ | pronto | /'pɾonto/ |
+| 8393 | **sempre** | /'sẽpɾɨ/ | /'sẽpɾi/ | adv | always | /'ɔl.weɪz/ | siempre | /sjem'pɾe/ |
+| 8394 | **nunca** | /'nũkɐ/ | /'nũkɐ/ | adv | never | /'nɛvɚ/ | nunca | /'ŋunka/ |
+| 8395 | **ainda** | /'ĩdɐ/ | /'ĩdɐ/ | adv | still | /stɪl/ | todavía | /toða'βi.a/ |
+| 8396 | **antes** | /'ɐ̃tɨʃ/ | /'ɐ̃tɨʃ/ | adv | before | /bɪ'fɔɹ/ | antes | /'antes/ |
+| 8397 | **dantes** | /'dɐ̃tɨʃ/ | /'dɐ̃tɨʃ/ | adv | previously | /'pri.vi.əs.li/ | antes | /'antes/ |
+| 8398 | **enfim** | /ẽ'fĩ/ | /ẽ'fĩ/ | adv | finally | /'faɪ.nə.li/ | finalmente | /finaɫ'mẽn̪t̪e/ |

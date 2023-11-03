@@ -51,3 +51,16 @@ Certainly, here is the table with the missing values filled:
 | 8396 | **antes** | /'ɐ̃tɨʃ/ | /'ɐ̃tɨʃ/ | adv | before | /bɪ'fɔɹ/ | antes | /'antes/ |
 | 8397 | **dantes** | /'dɐ̃tɨʃ/ | /'dɐ̃tɨʃ/ | adv | previously | /'pri.vi.əs.li/ | antes | /'antes/ |
 | 8398 | **enfim** | /ẽ'fĩ/ | /ẽ'fĩ/ | adv | finally | /'faɪ.nə.li/ | finalmente | /finaɫ'mẽn̪t̪e/ |
+
+
+
+
+| No. | Portuguese | IPA (PT) | IPA (BR) | Tipo de Palavra | English Word | English IPA | Spanish Word | Spanish IPA |
+|-----|------------|----------|----------|-----------------|--------------|-------------|--------------|-------------|
+| 1480 | acima | /ɐˈsimɐ/ | /ɐˈsimɐ/ | adv | above | /əˈbʌv/ | encima | /enˈθima/ |
+| 1629 | cima | /ˈsimɐ/ | /ˈsimɐ/ | sf | top | /tɒp/ | arriba | /aˈriva/ |
+| 2208 | lá em cima | /la ẽ ˈsimɐ/ | /la ẽ ˈsimɐ/ | prep | on top | /ɒn tɒp/ | arriba | /aˈriva/ |
+| 3800 | por cima | /pɔɾ ˈsimɐ/ | /pɔɾ ˈsimɐ/ | prep | over | /ˈoʊvər/ | por encima | /poɾ enˈθima/ |
+| 3965 | abaixo | /ɐˈbaʃu/ | /ɐˈbaʃu/ | adv | below | /bɪˈloʊ/ | debajo | /deˈβa.xo/ |
+| 8400 | atrás | /ɐˈtɾaʃ/ | /ɐˈtɾaʃ/ | adv | behind | /bɪˈhaɪnd/ | detrás | /deˈtɾas/ |
+| 2628 | em baixo | /ẽ ˈbajʃu/ | /ẽ ˈbaʒu/ | prep | below | /bɪˈloʊ/ | abajo | /aˈβa.xo/ |

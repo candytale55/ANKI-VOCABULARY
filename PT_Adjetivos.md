@@ -28,9 +28,7 @@ Certainly! Here is the filled-out table for the provided Portuguese words:
 | 50010 | introvertido, introvertida | /ĩtɾu.vɛɾ'tidu/, /ĩtɾu.vɛɾ'tidɐ/ | /ĩtɾow.veʁ'tidu/, /ĩtɾow.veʁ'tidɐ/ | adjm , adjf | introverted | /ˌɪntrəˈvɜrtɪd/ | introvertido, introvertida | /introβer'tiðo/, /introβer'tiða/ |
 | 50011 | novo, nova | /'novu/, /'novɐ/ | /'novu/, /'novɐ/ | adjm , adjf | new | /nuː/ | nuevo, nueva | /'nweβo/, /'nweβa/ |
 | 50012 | velho, velha | /'vɛʎu/, /'vɛʎɐ/ | /'vɛʎu/, /'vɛʎɐ/ | adjm , adjf | old | /oʊld/ | viejo, vieja | /'bje.xo/, /'bje.xa/ |
-| 50013 | louro, loura | /'lowɾu/, /'lowɾɐ/ | /'lowʁu/, /'low
-
-ʁɐ/ | adjm , adjf | blond | /blɒnd/ | rubio, rubia | /'ruβjo/, /'ruβja/ |
+| 50013 | louro, loura | /'lowɾu/, /'lowɾɐ/ | /'lowʁu/, /'lowʁɐ/ | adjm , adjf | blond | /blɒnd/ | rubio, rubia | /'ruβjo/, /'ruβja/ |
 | 50014 | ruivo, ruiva | /'ʁujvu/, /'ʁujvɐ/ | /'ʁuivu/, /'ʁuivɐ/ | adjm , adjf | red-haired | /ˈrɛdˌhɛrd/ | pelirrojo, pelirroja | /peˈli'rroxo/, /peˈli'rroxa/ |
 | 50015 | moreno, morena | /mo'ɾenu/, /mo'ɾenɐ/ | /mo'ɾenu/, /mo'ɾenɐ/ | adjm , adjf | dark-haired | /ˈdɑːrk ˈhɛrd/ | moreno, morena | /mo'ɾeno/, /mo'ɾena/ |
 | 50016 | liso, lisa | /'lizu/, /'lizɐ/ | /'lizu/, /'lizɐ/ | adjm , adjf | straight | /streɪt/ | liso, lisa | /'liso/, /'lisa/ |

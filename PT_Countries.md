@@ -280,3 +280,25 @@ Certainly! Here is the markdown table for the provided list of countries:
 | **o** Uzbequistão | sm | /uz.bɛ.kisˈtɐ̃w̃/ | /uz.bɛ.kisˈtɐ̃w̃/ | Uzbekistan | /ʊzˌbɛkɪˈstæn/ | Uzbekistán | /usβeˈkistan/ |  |
 | **o** Vietnã | sm | /vi.etˈnɐ̃/ | /vi.etˈna/ | Vietnam | /ˌviːətˈnɑːm/ | Vietnam | /bjetˈnam/ |  |
 | **o** Iêmen | sm | /iˈjɛmẽ/ | /iˈʒɛmẽ/ | Yemen | /ˈjɛmən/ | Yemen | /ˈʝeːmen/ |  |
+
+
+
+## Nationalities in Book unit 1.
+
+Certainly, here is the completed table:
+
+| No. | Portuguese | IPA (PT) | IPA (BR) | Tipo de Palavra | English Word | English IPA | Spanish Word | Spanish IPA |
+|-----|------------|----------|----------|-----------------|--------------|-------------|--------------|-------------|
+| 8328 | **a** China | /'ʃinɐ/ | /'ʃinɐ/ | sf | China | /'tʃaɪnə/ | China | /'tʃina/ |
+| 8329 | **o** Japão | /ʒɐ'pɐ̃w̃/ | /ʒɐ'pɐ̃w̃/ | sm | Japan | /dʒə'pæn/ | Japón | /xa'pon/ |
+| 8330 | **a** França | /'fɾɐ̃sɐ/ | /'fɾɐ̃sɐ/ | sf | France | /fræns/ | Francia | /'fɾanθja/ |
+| 8331 | **a** Inglaterra | /ĩɡlɐ'tɛʁɐ/ | /ĩɡla'tɛʁɐ/ | sf | England | /'ɪŋɡlənd/ | Inglaterra | /iŋɡla'tɛra/ |
+| 8332 | **a** Noruega | /nu'ɾewɡɐ/ | /no'ɾewɡɐ/ | sf | Norway | /'nɔrweɪ/ | Noruega | /no'ɾweɣa/ |
+| 8333 | **a** Rússia | /'ʁusjɐ/ | /'ʁusjɐ/ | sf | Russia | /'rʌʃə/ | Rusia | /'ru.sja/ |
+| 8334 | **a** Suécia | /swɛ'siɐ/ | /swe'siɐ/ | sf | Sweden | /swiːdən/ | Suecia | /'swet͡sja/ |
+| 8237 | **o** Egito | /'ɛʒitu/ | /'eʒitu/ | sm | Egypt | /'iːdʒɪpt/ | Egipto | /e'xipto/ |
+| 8235 | **o** Canadá | /kɐnɐ'da/ | /ka'nadɐ/ | sm | Canada | /'kænədə/ | Canadá | /ka.na'ða/ |
+| 8234 | **os** Estados Unidos | /iʃtu'duʃ u'niðus/ | /is'tadus u'ni'dus/ | smp | United States | /juːˌnaɪ.tɪd ˈsteɪts/ | Estados Unidos | /esˈtaðos uˈniðos/ |
+| 8189 | **a** Espanha | /iʃ'paɲɐ/ | /is'paɲɐ/ | sf | Spain | /speɪn/ | España | /esˈpaɲa/ |
+| 8335 | **a** Alemanha | /ɐlɨ'mɐɲɐ/ | /alɨ'mɐɲɐ/ | sf | Germany | /ˈdʒɜrməni/ | Alemania | /ale'manja/ |
+| 8336 | **a** Bélgica | /'bɛlʒikɐ/ | /'bɛlʒikɐ/ | sf | Belgium | /'bɛldʒəm/ | Bélgica | /'bel.ɣi.ka/ |

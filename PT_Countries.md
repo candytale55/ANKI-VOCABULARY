@@ -36,6 +36,30 @@
 | 70082 | são-tomense | /sɐ̃w̃ tu'mẽsi/ | /sɐ̃w̃ tu'mẽsi/ | adj | São Toméan | /ˌsaʊn təˈmeɪən/ | santomeño | /san.to'meɲo/ |
 | 70091 | cabo-verdiano, cabo-verdiana | /kabu vɨɾdi'ɐnu/, /kabu vɨɾdi'ɐnɐ/ | /'kabu veɾdi'ɐnu/, /'kabu veɾdi'ɐnɐ/ | adjm, adjf | Cape Verdean | /ˌkeɪp vɜrˈdiːən/, /-dən/ | caboverdiano, caboverdiana | /kaboβeɾˈðjano/, /kaboβeɾˈðjana/ |
 
+
+
+
+Certainly, here is the table filled with the missing values:
+
+| No. | Portuguese | IPA (PT) | IPA (BR) | Tipo de Palavra | English Word | English IPA | Spanish Word | Spanish IPA |
+|-----|------------|----------|----------|-----------------|--------------|-------------|--------------|-------------|
+| 83281 | chinês, chinesa | /ʃi'nɛʃ/, /ʃi'nɛzɐ/ | /ʃi'nɛs/, /ʃi'nɛzɐ/ | adjm , adjf | Chinese | /ˈtʃaɪˌniz/, /ˈtʃaɪˌnizə/ | chino, china | /ˈtʃino/, /ˈtʃina/ |
+| 83291 | japonês, japonesa | /ʒɐpu'nɛʃ/, /ʒɐpu'nɛzɐ/ | /ʒɐpo'nɛs/, /ʒɐpo'nɛzɐ/ | adjm , adjf | Japanese | /dʒæpəˈniːz/, /dʒæpəˈniːzə/ | japonés, japonesa | /xa.poˈnes/, /xa.poˈnesa/ |
+| 83301 | francês, francesa | /fɾɐ̃'sɛʃ/, /fɾɐ̃'sɛzɐ/ | /fɾɐ̃'ses/, /fɾɐ̃'sezɐ/ | adjm , adjf | French | /frɛntʃ/ | francés, francesa | /fɾanˈθes/, /fɾanˈθesa/ |
+| 83311 | inglês, inglesa | /ĩ'glɛʃ/, /ĩ'glɛzɐ/ | /ĩ'gles/, /ĩ'glezɐ/ | adjm , adjf | English | /ˈɪŋɡlɪʃ/, /ˈɪŋɡlɪʃə/ | inglés, inglesa | /iŋˈɡles/, /iŋˈɡlesa/ |
+| 83321 | norueguês, norueguesa | /nuɾu'ɡɛʃ/, /nuɾu'ɡɛzɐ/ | /noɾu'eɡes/, /noɾu'eɡezɐ/ | adjm , adjf | Norwegian | /nɔrˈwiːdʒən/ | noruego, noruega | /noˈɾweɣo/, /noˈɾweɣa/ |
+| 83331 | russo, russa | /'ʁusu/, /'ʁusɐ/ | /'husu/, /'husɐ/ | adjm , adjf | Russian | /ˈrʌʃən/ | ruso, rusa | /ˈru.so/, /ˈru.sa/ |
+| 83341 | sueco, sueca | /'swɛku/, /'swɛkɐ/ | /'swe.ku/, /'swe.kɐ/ | adjm , adjf | Swedish | /swiːdɪʃ/ | sueco, sueca | /'sweko/, /'sweka/ |
+| 82371 | egípcio, egípcia | /i'ʒipsiu/, /i'ʒipsiɐ/ | /e'ʒipsiu/, /e'ʒipsiɐ/ | adjm , adjf | Egyptian | /ɪˈdʒɪpʃən/ | egipcio, egipcia | /eˈxiθjo/, /eˈxiθθa/ |
+| 82351 | canadense, canadense | /kɐnɐ'dẽsi/, /kɐnɐ'dẽsɐ/ | /kanɐ'dẽsi/, /kanɐ'dẽsɐ/ | adjm , adjf | Canadian | /kə'neɪdiən/ | canadiense, canadiense | /kanaˈðjense/, /kanaˈðjense/ |
+| 82341 | norte-americano, norte-americana | /noɾt(ɨ) ɐmɨɾi'kɐnu/, /noɾt(ɨ) ɐmɨɾi'kɐnɐ/ | /noʁt(ɨ) amiɾi'kanu/, /noʁt(ɨ) amiɾi'kanɐ/ | adjm , adjf | American | /əˈmɛrɪkən/ | estadounidense, estadounidense | /estaðo.uniˈðense/, /estaðo.uniˈðense/ |
+| 81891 | espanhol, espanhola | /iʃpɐ'ɲɔl/, /iʃpɐ'ɲɔlɐ/ | /ispa'ɲol/, /ispa'ɲolɐ/ | adjm , adjf | Spanish | /'spænɪʃ/ | español, española | /espaˈɲol/, /espaˈɲola/ |
+| 83351 | alemão, alemã | /ɐ'lɛmɐw̃/, /ɐ'lɛmɐ/ | /a'lemaʊ̃/, /a'lema/ | adjm , adjf | German | /ˈdʒɜrmən/ | alemán, alemana | /ale'man/, /ale'mana/ |
+| 83361 | belga | /'bɛʎɡɐ/ | /'bɛʎɡɐ/ | adjf | Belgian | /'bɛldʒən/ | belga | /'bel.ɣa/ |
+
+
+
+
 ## Spanish Speaking Countries:
 
 | Portuguese      | IPA (PT)      | IPA (BR)    | English           | English IPA     | Spanish           | Spanish IPA | No. |

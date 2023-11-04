@@ -1,4 +1,37 @@
-Here is the translation of the cities in the requested languages:
+Here is the translated list of cities:
+
+| Portuguese | English | Spanish | French | German | Valencian | Italian |
+|------------|---------|---------|--------|--------|-----------|---------|
+| La Valeta | Valletta | La Valeta | La Valette | Valletta | La Valeta | La Valletta |
+| Cairo | Cairo | El Cairo | Le Caire | Kairo | El Caire | Il Cairo |
+| Libreville | Libreville | Libreville | Libreville | Libreville | Libreville | Libreville |
+| Lilongwe | Lilongwe | Lilongüe | Lilongwe | Lilongwe | Lilongwe | Lilongwe |
+| Lima | Lima | Lima | Lima | Lima | Lima | Lima |
+| Liubliana | Ljubljana | Liubliana | Ljubljana | Liubliana | Liubliana | Lubiana |
+| Lisboa | Lisbon | Lisboa | Lisbonne | Lissabon | Lisboa | Lisbona |
+| Lomé | Lome | Lomé | Lomé | Lomé | Lomé | Lomé |
+| Londres | London | Londres | Londres | London | Londres | Londra |
+| London | London | Londres | Londres | London | Londres | Londra |
+| Luanda | Luanda | Luanda | Luanda | Luanda | Luanda | Luanda |
+| Lusaka | Lusaka | Lusaka | Lusaka | Lusaka | Lusaka | Lusaka |
+| Madrid | Madrid | Madrid | Madrid | Madrid | Madrid | Madrid |
+| Malabo | Malabo | Malabo | Malabo | Malabo | Malabo | Malabo |
+| Malé | Male | Malé | Malé | Malé | Malé | Malé |
+| Manágua | Managua | Managua | Managua | Manàgua | Managua | Managua |
+| Manila | Manila | Manila | Manille | Manila | Manila | Manila |
+| Maputo | Maputo | Maputo | Maputo | Maputu | Maput | Maputo |
+| Mascate | Muscat | Mascate | Mascate | Mascate | Mascate | Mascate |
+| Maseru | Maseru | Maseru | Maseru | Maseru | Maseru | Maseru |
+| Mbabane, Lobamba | Mbabane, Lobamba | Mbabane, Lobamba | Mbabane, Lobamba | Mbabane, Lobamba | Mbabane, Lobamba | Mbabane, Lobamba |
+| Melekeok | Melekeok | Melekeok | Melekeok | Melekeok | Melekeok | Melekeok |
+| Cidade do México | Mexico City | Ciudad de México | Mexico | Mexic | Ciutat de Mèxic | Città del Messico |
+| Minsk | Minsk | Minsk | Minsk | Minsk | Minsk | Minsk |
+| Mogadíscio | Mogadishu | Mogadiscio | Mogadiscio | Mogadischu | Mogadix | Mogadiscio |
+| Mônaco | Monaco | Mónaco | Monaco | Monaco | Mònaco | Monaco |
+| Monróvia | Monrovia | Monrovia | Monrovia | Monrovia | Monròvia | Monrovia |
+| Montevidéu | Montevideo | Montevideo | Montevideo | Montevideo | Montevideo | Montevideo |
+| Moroni | Moroni | Moroni | Moroni | Moroni | Moroni | Moroni |
+| Moscou | Moscow | Moscú | Moscou | Moskau | Moscou | Mosca |
 
 | Portuguese | English | Spanish | French | German | Valencian | Italian |
 |------------|---------|---------|--------|--------|-----------|---------|

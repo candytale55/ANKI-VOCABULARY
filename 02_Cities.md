@@ -1,4 +1,30 @@
-Here is the translated list of cities:
+
+
+| Portuguese | English | Spanish | French | German | Valencian | Italian |
+|------------|---------|---------|--------|--------|-----------|---------|
+| Tashkent | Tashkent | Taskent | Tachkent | Taschkent | Tasqent | Tashkent |
+| Tallinn | Tallinn | Tallin | Tallinn | Tallinn | Tallinn | Tallinn |
+| Tbilisi | Tbilisi | Tiflis | Tbilissi | Tiflis | Tbilisi | Tbilisi |
+| Tegucigalpa | Tegucigalpa | Tegucigalpa | Tegucigalpa | Tegucigalpa | Tegucigalpa | Tegucigalpa |
+| Teerã | Tehran | Teherán | Téhéran | Teheran | Teheran | Teheran |
+| Tel Aviv | Tel Aviv | Tel Aviv | Tel Aviv | Tel Aviv | Tel Aviv | Tel Aviv |
+| Thimphu | Thimphu | Timbu | Thimphou | Thimphu | Thimbu | Thimphu |
+| Tóquio | Tokyo | Tokio | Tokyo | Tokio | Tòquio | Tokyo |
+| Trípoli | Tripoli | Trípoli | Tripoli | Tripolis | Trípoli | Tripoli |
+| Tunes | Tunis | Túnez | Tunis | Tunis | Tunís | Tunisi |
+| Vaduz | Vaduz | Vaduz | Vaduz | Vaduz | Vaduz | Vaduz |
+| Varsóvia | Warsaw | Varsovia | Varsovie | Warschau | Varsòvia | Varsavia |
+| Victoria | Victoria | Victoria | Victoria | Victoria | Victòria | Victoria |
+| Viena | Vienna | Viena | Vienne | Wien | Viena | Vienna |
+| Vientiane | Vientiane | Vientián | Vientiane | Vientiane | Vientiane | Vientiane |
+| Vilnius | Vilnius | Vilna | Vilnius | Vilnius | Vilnius | Vilnius |
+| Washington | Washington | Washington | Washington | Washington | Washington | Washington |
+| Wellington | Wellington | Wellington | Wellington | Wellington | Wellington | Wellington |
+| Windhoek | Windhoek | Windhoek | Windhoek | Windhuk | Windhoek | Windhoek |
+| Yamoussoukro | Yamoussoukro | Yamusukro | Yamoussoukro | Yamoussoukro | Yamusukro | Yamoussoukro |
+| Yaoundé | Yaounde | Yaundé | Yaoundé | Jaunde | Yaundé | Yaoundé |
+| Yaren | Yaren | Yaren | Yaren | Yaren | Yaren | Yaren |
+| Zagreb | Zagreb | Zagreb | Zagreb | Zagreb | Zagreb | Zagabria |
 
 | Portuguese | English | Spanish | French | German | Valencian | Italian |
 |------------|---------|---------|--------|--------|-----------|---------|

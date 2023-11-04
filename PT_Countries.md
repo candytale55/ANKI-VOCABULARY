@@ -1,7 +1,44 @@
 
 # Countries
 
-Here is the translated list of cities:
+Here is the translated list of words:
+
+| Portuguese | English | Spanish | French | German | Valencian | Italian |
+|------------|---------|---------|--------|--------|-----------|---------|
+| Vaticano | Vatican | Vaticano | le Vatican | Vatikan | Vaticà | Vaticano |
+| Guiné | Guinea | Guinea | la Guinée | Guinea | Guinea | Guinea |
+| Dinamarca | Denmark | Dinamarca | le Danemark | Dänemark | Dinamarca | Danimarca |
+| Síria | Syria | Siria | la Syrie | Syrien | Síria | Siria |
+| Ilhas Marshall | Marshall Islands | Islas Marshall | les Îles Marshall | Marshallinseln | Illes Marshall | Isole Marshall |
+| Timor-Leste | East Timor | Timor Oriental | le Timor oriental | Osttimor | Timor Oriental | Timor Est |
+| Djibouti | Djibouti | Djibouti | Djibouti | Dschibuti | Djibouti | Gibuti |
+| Sudão do Sul | South Sudan | Sudán del Sur | le Soudan du Sud | Südsudan | Sudan del Sud | Sudan del Sud |
+| Tanzânia | Tanzania | Tanzania | la Tanzanie | Tansania | Tanzània | Tanzania |
+| Catar | Qatar | Catar | le Qatar ou le Katar | Katar | Qatar | Qatar |
+| Tajiquistão | Tajikistan | Tayikistán | le Tadjikistan | Tadschikistan | Tadjikistan | Tagikistan |
+| Irlanda | Ireland | Irlanda | l'Irlande | Irland | Irlanda | Irlanda |
+| Armênia | Armenia | Armenia | l'Arménie | Armenien | Armènia | Armenia |
+| Serra Leoa | Sierra Leone | Sierra Leona | la Sierra Leone | Sierra Leone | Sierra Lleó | Sierra Leone |
+| Tuvalu | Tuvalu | Tuvalu | les Tuvalu | Tuvalu | Tuvalu | Tuvalu |
+| Botsuana | Botswana | Botsuana | le Botswana | Botsuana | Botswana | Botswana |
+| Guiana | Guyana | Guayana | le Guyane | Guyana | Guyana | Guyana |
+| Guatemala | Guatemala | Guatemala | le Guatemala ou le Guatémala | Guatemala | Guatemala | Guatemala |
+| Vietnã | Vietnam | Vietnam | le Viêt Nam ou le Vietnam | Vietnam | Vietnam | Vietnam |
+| Zimbábue | Zimbabwe | Zimbabue | le Zimbabwe | Simbabwe | Zimbawe | Zimbabwe |
+| Finlândia | Finland | Finlandia | la Finlande | Finnland | Finlàndia | Finlandia |
+| Ilhas Salomão | Solomon Islands | Islas Salomón | les Îles Salomon | Salomonen | Illes Salomó | Isole Salomone |
+| Paquistão | Pakistan | Pakistán | le Pakistan | Pakistan | Paquistán | Pakistan |
+| Indonésia | Indonesia | Indonesia | l'Indonésie | Indonesien | Indonèsia | Indonesia |
+| Afeganistão | Afghanistan | Afganistán | l'Afghanistan | Afghanistan | Afganistan | Afghanistan |
+| Uganda | Uganda | Uganda | l'Ouganda | Uganda | Uganda | Uganda |
+| Nepal | Nepal | Nepal | le Népal | Nepal | Nepal | Nepal |
+| Sudão | Sudan | Sudán | le Soudan | Sudan | Sudan | Sudan |
+| Ucrânia | Ukraine | Ucrania | l'Ukraine | Ukraine | Ucraïna | Ucraina |
+| Ruanda | Rwanda | Ruanda | le Rwanda | Ruanda | Ruanda | Ruanda |
+| Jamaica | Jamaica | Jamaica | la Jamaïque | Jamaika | Jamaica | Giamaica |
+| São Vicente e Granadinas | Saint Vincent and the Grenadines | San Vicente y las Granadinas | Saint-Vincent-et-les-Grenadines | Saint Vincent und die Grenadinen | Sant Vicent i les Grenadines | Saint Vincent e Grenadine |
+
+
 
 | Portuguese | English | Spanish | French | German | Valencian | Italian |
 |------------|---------|---------|--------|--------|-----------|---------|

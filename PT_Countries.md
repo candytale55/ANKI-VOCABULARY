@@ -1,58 +1,50 @@
 
 # Countries
 
-Here is the translated list of words:
+
+
+Certainly, here is the translated list:
 
 | Portuguese | English | Spanish | French | German | Valencian | Italian |
 |------------|---------|---------|--------|--------|-----------|---------|
-| República Democrática do Congo | Democratic Republic of the Congo | República Democrática del Congo | la République démocratique du Congo ou le Congo-Kinshasa | Demokratische Republik Kongo | República Democràtica del Congo | Repubblica Democratica del Congo |
-| Kuwait | Kuwait | Kuwait | le Koweït ou le Kuwait | Kuwait | Kuwait | Kuwait |
-| Malásia | Malaysia | Malasia | la Malaisie | Malaysia | Malàisia | Malesia |
-| Malta | Malta | Malta | Malte | Malta | Malta | Malta |
-| Egito | Egypt | Egipto | l'Égypte | Ägypten | Egipte | Egitto |
-| Gabão | Gabon | Gabón | le Gabon | Gabun | Gabó | Gabon |
-| Malawi | Malawi | Malawi | le Malawi | Malawi | Malawi | Malawi |
-| Peru | Peru | Perú | le Pérou | Peru | Perú | Perù |
-| Eslovênia | Slovenia | Eslovenia | la Slovénie | Slowenien | Eslovènia | Slovenia |
-| Portugal | Portugal | Portugal | le Portugal | Portugal | Portugal | Portogallo |
-| Togo | Togo | Togo | le Togo | Togo | Togo | Togo |
-| Inglaterra | England | Inglaterra | l'Angleterre | England | Anglaterra | Inghilterra |
-| Reino Unido | United Kingdom | Reino Unido | le Royaume-Uni ou la Grande-Bretagne | Vereinigtes Königreich | Regne Unit | Regno Unito |
-| Angola | Angola | Angola | l'Angola | Angola | Angola | Angola |
-| Zâmbia | Zambia | Zambia | la Zambie | Sambia | Zàmbia | Zambia |
-| Espanha | Spain | España | l'Espagne | Spanien | Espanya | Spagna |
-| Guiné Equatorial | Equatorial Guinea | Guinea Ecuatorial | la Guinée équatoriale | Äquatorialguinea | Guinea Equatorial | Guinea Equatoriale |
-| Maldivas | Maldives | Maldivas | les Maldives, les îles Maldives | Malediven | Maldives | Maldive |
-| Nicarágua | Nicaragua | Nicaragua | le Nicaragua | Nicaragua | Nicaragua | Nicaragua |
-| Filipinas | Philippines | Filipinas | les Philippines | Philippinen | Filipines | Filippine |
-| Moçambique | Mozambique | Mozambique | le Mozambique | Mosambik | Moçambic | Mozambico |
-| Omã | Oman | Omán | l'Oman | Oman | Oman | Oman |
-| Lesoto | Lesotho | Lesoto | le Lesotho | Lesotho | Lesot | Lesotho |
-| Suazilândia | Eswatini | Esuatini | le Swaziland * | Eswatini | Swazilàndia | Eswatini |
-| Palau | Palau | Palaos | Palaos (Palau) | Palau | Palau | Palau |
-| México | Mexico | México | le Mexique | Mexiko | Mèxic | Messico |
-| Bielorrússia | Belarus | Bielorrusia | la Biélorussie, le Bélarus | Weißrussland | Bielorússia | Bielorussia |
-| Somália | Somalia | Somalia | la Somalie | Somalia | Somàlia | Somalia |
-| Mônaco | Monaco | Mónaco | Monaco | Monaco | Mònaco | Monaco |
-| Libéria | Liberia | Liberia | le Libéria (ou Liberia) | Liberia | Libèria | Liberia |
-| Uruguai | Uruguay | Uruguay | l'Uruguay | Uruguay | Uruguai | Uruguay |
-| Comores | Comoros | Comoras | les Comores | Komoren | Comores | Comore |
-| Rússia | Russia | Rusia | la Russie | Russland | Rússia | Russia |
-| Quênia | Kenya | Kenia | le Kenya | Kenia | Kenya | Kenya |
-| Bahamas | Bahamas | Bahamas | les Bahamas | Bahamas | Balears | Bahamas |
-| Mianmar | Myanmar | Myanmar | le Myanmar ou la Birmanie | Myanmar | Myanmar | Myanmar |
-| Chade | Chad | Chad | le Tchad | Tschad | Txad | Ciad |
-| Índia | India | India | l'Inde | Indien | Índia | India |
-| Níger | Niger | Níger | le Niger | Niger | Níger | Niger |
-| Chipre | Cyprus | Chipre | Chypre | Zypern | Xipre | Cipro |
-| Mauritânia | Mauritania | Mauritania | la Mauritanie | Mauretanien | Mauritània | Mauritania |
-| Nova Caledônia | New Caledonia | Nueva Caledonia | la Nouvelle-Calédonie | Neukaledonien | Nova Caledònia | Nuova Caledonia |
-| Tonga | Tonga | Tonga | les Tonga | Tonga | Tonga | Tonga |
-| Noruega | Norway | Noruega | la Norvège | Norwegen | Noruega | Norvegia |
-| Canadá | Canada | Canadá | le Canada | Kanada | Canadà | Canada |
-| Burkina Faso | Burkina Faso | Burkina Faso | le Burkina Faso | Burkina Faso | Burkina Faso | Burkina Faso |
-| Mongólia | Mongolia | Mongolia | la Mongolie | Mongolei | Mongòlia | Mongolia |
-| Micronésia | Micronesia | Micronesia | la Micronésie | Mikronesien | Micronèsia | Micronesia |
+| Panamá | Panama | Panamá | le Panama ou le Panamá | Panama | Panamà | Panama |
+| Suriname | Suriname | Surinam | le Surinam ou le Suriname | Suriname | Surinam | Suriname |
+| França | France | Francia | la France | Frankreich | França | Francia |
+| China | China | China | la Chine | China | Xina | Cina |
+| Camboja | Cambodia | Camboya | le Cambodge | Kambodscha | Cambodja | Cambogia |
+| Montenegro | Montenegro | Montenegro | le Monténégro | Montenegro | Montenegro | Montenegro |
+| Papua-Nova Guiné | Papua New Guinea | Papúa Nueva Guinea | la Papouasie-Nouvelle-Guinée | Papua-Neuguinea | Papua Nova Guinea | Papua Nuova Guinea |
+| Haiti | Haiti | Haití | Haïti | Haiti | Haití | Haiti |
+| Trinidad e Tobago | Trinidad and Tobago | Trinidad y Tobago | Trinité-et-Tobago | Trinidad und Tobago | Trinitat i Tobago | Trinidad e Tobago |
+| Maurícia | Mauritius | Mauricio | Maurice | Mauritius | Maurícia | Mauritius |
+| Vanuatu | Vanuatu | Vanuatu | Vanuatu | Vanuatu | Vanuatu | Vanuatu |
+| República Tcheca | Czech Republic | República Checa | la République Tchèque | Tschechien | República Txeca | Repubblica Ceca |
+| Cabo Verde | Cape Verde | Cabo Verde | le Cap-Vert | Kap Verde | Cap Verd | Capo Verde |
+| África do Sul | South Africa | Sudáfrica | l'Afrique du Sud | Südafrika | Sud-àfrica | Sudafrica |
+| Coreia do Norte | North Korea | Corea del Norte | la Corée du Nord | Nordkorea | Corea del Nord | Corea del Nord |
+| Equador | Ecuador | Ecuador | l'Équateur | Ecuador | Equador | Ecuador |
+| Marrocos | Morocco | Marruecos | le Maroc | Marokko | Marroc | Marocco |
+| Islândia | Iceland | Islandia | l'Islande | Island | Islàndia | Islanda |
+| Letônia | Latvia | Letonia | la Lettonie | Lettland | Letònia | Lettonia |
+| Arábia Saudita | Saudi Arabia | Arabia Saudí | l'Arabie saoudite | Saudi-Arabien | Aràbia Saudita | Arabia Saudita |
+| Itália | Italy | Italia | l'Italie | Italien | Itàlia | Italia |
+| Dominica | Dominica | Dominica | la Dominique | Dominica | Dominica | Dominica |
+| República Dominicana | Dominican Republic | República Dominicana | la République Dominicaine | Dominikanische Republik | República Dominicana | Repubblica Dominicana |
+| Granada | Grenada | Granada | la Grenade | Grenada | Grenada | Grenada |
+| San Marino | San Marino | San Marino | Saint-Marin | San Marino | Sant Marí | San Marino |
+| Costa Rica | Costa Rica | Costa Rica | le Costa Rica | Costa Rica | Costa Rica | Costa Rica |
+| Porto Rico | Puerto Rico | Puerto Rico | Porto Rico | Puerto Rico | Puerto Rico | Porto Rico |
+| El Salvador | El Salvador | El Salvador | le Salvador | El Salvador | El Salvador | El Salvador |
+| Iêmen | Yemen | Yemen | le Yémen | Jemen | Iemen | Yemen |
+| Chile | Chile | Chile | le Chili | Chile | Xile | Cile |
+| São Tomé e Príncipe | Sao Tome and Principe | Santo Tomé y Príncipe | Sao Tomé-et-Principe | São Tomé e Príncipe | Sant Tomé i Príncep | São Tomé e Príncipe |
+| Bósnia e Herzegovina | Bosnia and Herzegovina | Bosnia y Herzegovina | la Bosnie-Herzégovine | Bosnien und Herzegowina | Bòsnia i Hercegovina | Bosnia-Erzegovina |
+| Coreia do Sul | South Korea | Corea del Sur | la Corée du Sud | Südkorea | Corea del Sud | Corea del Sud |
+| Singapura | Singapore | Singapur | Singapour | Singapur | Singapur | Singapore |
+| Macedônia | Macedonia | Macedonia | la Macédoine | Mazedonien | Macedònia | Macedonia |
+| Bulgária | Bulgaria | Bulgaria | la Bulgarie | Bulgarien | Bulgària | Bulgaria |
+| Sri Lanka | Sri Lanka | Sri Lanka | le Sri Lanka | Sri Lanka | Sri Lanka | Sri Lanka |
+
 
 | Portuguese | English | Spanish | French | German | Valencian | Italian |
 |------------|---------|---------|--------|--------|-----------|---------|

@@ -56,6 +56,57 @@ Here is the translated list of words:
 
 | Portuguese | English | Spanish | French | German | Valencian | Italian |
 |------------|---------|---------|--------|--------|-----------|---------|
+| República Democrática do Congo | Democratic Republic of the Congo | República Democrática del Congo | la République démocratique du Congo ou le Congo-Kinshasa | Demokratische Republik Kongo | República Democràtica del Congo | Repubblica Democratica del Congo |
+| Kuwait | Kuwait | Kuwait | le Koweït ou le Kuwait | Kuwait | Kuwait | Kuwait |
+| Malásia | Malaysia | Malasia | la Malaisie | Malaysia | Malàisia | Malesia |
+| Malta | Malta | Malta | Malte | Malta | Malta | Malta |
+| Egito | Egypt | Egipto | l'Égypte | Ägypten | Egipte | Egitto |
+| Gabão | Gabon | Gabón | le Gabon | Gabun | Gabó | Gabon |
+| Malawi | Malawi | Malawi | le Malawi | Malawi | Malawi | Malawi |
+| Peru | Peru | Perú | le Pérou | Peru | Perú | Perù |
+| Eslovênia | Slovenia | Eslovenia | la Slovénie | Slowenien | Eslovènia | Slovenia |
+| Portugal | Portugal | Portugal | le Portugal | Portugal | Portugal | Portogallo |
+| Togo | Togo | Togo | le Togo | Togo | Togo | Togo |
+| Inglaterra | England | Inglaterra | l'Angleterre | England | Anglaterra | Inghilterra |
+| Reino Unido | United Kingdom | Reino Unido | le Royaume-Uni ou la Grande-Bretagne | Vereinigtes Königreich | Regne Unit | Regno Unito |
+| Angola | Angola | Angola | l'Angola | Angola | Angola | Angola |
+| Zâmbia | Zambia | Zambia | la Zambie | Sambia | Zàmbia | Zambia |
+| Espanha | Spain | España | l'Espagne | Spanien | Espanya | Spagna |
+| Guiné Equatorial | Equatorial Guinea | Guinea Ecuatorial | la Guinée équatoriale | Äquatorialguinea | Guinea Equatorial | Guinea Equatoriale |
+| Maldivas | Maldives | Maldivas | les Maldives, les îles Maldives | Malediven | Maldives | Maldive |
+| Nicarágua | Nicaragua | Nicaragua | le Nicaragua | Nicaragua | Nicaragua | Nicaragua |
+| Filipinas | Philippines | Filipinas | les Philippines | Philippinen | Filipines | Filippine |
+| Moçambique | Mozambique | Mozambique | le Mozambique | Mosambik | Moçambic | Mozambico |
+| Omã | Oman | Omán | l'Oman | Oman | Oman | Oman |
+| Lesoto | Lesotho | Lesoto | le Lesotho | Lesotho | Lesot | Lesotho |
+| Suazilândia | Eswatini | Esuatini | le Swaziland * | Eswatini | Swazilàndia | Eswatini |
+| Palau | Palau | Palaos | Palaos (Palau) | Palau | Palau | Palau |
+| México | Mexico | México | le Mexique | Mexiko | Mèxic | Messico |
+| Bielorrússia | Belarus | Bielorrusia | la Biélorussie, le Bélarus | Weißrussland | Bielorússia | Bielorussia |
+| Somália | Somalia | Somalia | la Somalie | Somalia | Somàlia | Somalia |
+| Mônaco | Monaco | Mónaco | Monaco | Monaco | Mònaco | Monaco |
+| Libéria | Liberia | Liberia | le Libéria (ou Liberia) | Liberia | Libèria | Liberia |
+| Uruguai | Uruguay | Uruguay | l'Uruguay | Uruguay | Uruguai | Uruguay |
+| Comores | Comoros | Comoras | les Comores | Komoren | Comores | Comore |
+| Rússia | Russia | Rusia | la Russie | Russland | Rússia | Russia |
+| Quênia | Kenya | Kenia | le Kenya | Kenia | Kenya | Kenya |
+| Bahamas | Bahamas | Bahamas | les Bahamas | Bahamas | Balears | Bahamas |
+| Mianmar | Myanmar | Myanmar | le Myanmar ou la Birmanie | Myanmar | Myanmar | Myanmar |
+| Chade | Chad | Chad | le Tchad | Tschad | Txad | Ciad |
+| Índia | India | India | l'Inde | Indien | Índia | India |
+| Níger | Niger | Níger | le Niger | Niger | Níger | Niger |
+| Chipre | Cyprus | Chipre | Chypre | Zypern | Xipre | Cipro |
+| Mauritânia | Mauritania | Mauritania | la Mauritanie | Mauretanien | Mauritània | Mauritania |
+| Nova Caledônia | New Caledonia | Nueva Caledonia | la Nouvelle-Calédonie | Neukaledonien | Nova Caledònia | Nuova Caledonia |
+| Tonga | Tonga | Tonga | les Tonga | Tonga | Tonga | Tonga |
+| Noruega | Norway | Noruega | la Norvège | Norwegen | Noruega | Norvegia |
+| Canadá | Canada | Canadá | le Canada | Kanada | Canadà | Canada |
+| Burkina Faso | Burkina Faso | Burkina Faso | le Burkina Faso | Burkina Faso | Burkina Faso | Burkina Faso |
+| Mongólia | Mongolia | Mongolia | la Mongolie | Mongolei | Mongòlia | Mongolia |
+| Micronésia | Micronesia | Micronesia | la Micronésie | Mikronesien | Micronèsia | Micronesia |
+
+| Portuguese | English | Spanish | French | German | Valencian | Italian |
+|------------|---------|---------|--------|--------|-----------|---------|
 | Vaticano | Vatican | Vaticano | le Vatican | Vatikan | Vaticà | Vaticano |
 | Guiné | Guinea | Guinea | la Guinée | Guinea | Guinea | Guinea |
 | Dinamarca | Denmark | Dinamarca | le Danemark | Dänemark | Dinamarca | Danimarca |

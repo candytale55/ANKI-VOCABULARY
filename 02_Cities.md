@@ -1,6 +1,29 @@
 Here is the translation of the cities in the requested languages:
 
-Here is the translation of the cities in the requested languages:
+| Portuguese | English | Spanish | French | German | Valencian | Italian |
+|------------|---------|---------|--------|--------|-----------|---------|
+| Freetown | Freetown | Freetown | Freetown | Freetown | Freetown | Freetown |
+| Funafuti | Funafuti | Funafuti | Funafuti | Funafuti | Funafuti | Funafuti |
+| Gaborone | Gaborone | Gaborone | Gaborone | Gaborone | Gaborone | Gaborone |
+| Georgetown | Georgetown | Georgetown | Georgetown | Georgetown | Georgetown | Georgetown |
+| Guatemala | Guatemala | Guatemala | Guatemala | Guatemala | Guatemala | Guatemala |
+| Hanói | Hanoi | Hanói | Hanoï | Hanoi | Hanòi | Hanoi |
+| Harare | Harare | Harare | Harare | Harare | Harare | Harare |
+| Helsínquia | Helsinki | Helsinki | Helsinki | Helsinki | Hèlsinki | Helsinki |
+| Honiara | Honiara | Honiara | Honiara | Honiara | Honiara | Honiara |
+| Islamabad | Islamabad | Islamabad | Islamabad | Islamabad | Islamabad | Islamabad |
+| Jacarta | Jakarta | Yakarta | Jakarta | Jakarta | Jakarta | Giacarta |
+| Cabul | Kabul | Kabul | Kaboul | Kabul | Kabul | Kabul |
+| Campala | Kampala | Kampala | Kampala | Kampala | Kampala | Kampala |
+| Catmandu | Kathmandu | Katmandú | Katmandou | Kathmandu | Katmandú | Kathmandu |
+| Cartum | Khartoum | Jartum | Khartoum | Khartum | Cartum | Khartoum |
+| Kiev | Kiev | Kiev | Kiev | Kiew | Kiev | Kiev |
+| Quigali | Kigali | Kigali | Kigali | Kigali | Kigali | Kigali |
+| Kingston | Kingston | Kingston | Kingston | Kingston | Kingston | Kingston |
+| Kingstown | Kingstown | Kingstown | Kingstown | Kingstown | Kingstown | Kingstown |
+| Kinshasa | Kinshasa | Kinshasa | Kinshasa | Kinshasa | Kinshasa | Kinshasa |
+| Kuwait | Kuwait | Kuwait | Koweït | Kuwait | Kuwait | Kuwait |
+| Kuala Lumpur | Kuala Lumpur | Kuala Lumpur | Kuala Lumpur | Kuala Lumpur | Kuala Lumpur | Kuala Lumpur |
 
 | Portuguese | English | Spanish | French | German | Valencian | Italian |
 |------------|---------|---------|--------|--------|-----------|---------|

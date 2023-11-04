@@ -1,6 +1,55 @@
 
 # Countries
 
+Here is the translated list of cities:
+
+| Portuguese | English | Spanish | French | German | Valencian | Italian |
+|------------|---------|---------|--------|--------|-----------|---------|
+| Nigéria | Nigeria | Nigeria | Nigéria ou le Nigeria | Nigeria | Nigèria | Nigeria |
+| Gana | Ghana | Ghana | le Ghana | Ghana | Gana | Ghana |
+| Turcomenistão | Turkmenistan | Turkmenistán | le Turkménistan ou la Turkménie | Turkmenistan | Turkmenistan | Turkmenistan |
+| Etiópia | Ethiopia | Etiopía | l'Éthiopie | Äthiopien | Etiòpia | Etiopia |
+| Argélia | Algeria | Argelia | l'Algérie | Algerien | Algèria | Algeria |
+| Niue | Niue | Niue | Niue | Niue | Niue | Niue |
+| Jordânia | Jordan | Jordania | la Jordanie | Jordanien | Jordània | Giordania |
+| Países Baixos | Netherlands | Países Bajos | les Pays-Bas | Niederlande | Països Baixos | Paesi Bassi |
+| Andorra | Andorra | Andorra | l'Andorre | Andorra | Andorra | Andorra |
+| Turquia | Turkey | Turquía | la Turquie | Türkei | Turquia | Turchia |
+| Madagáscar | Madagascar | Madagascar | Madagascar | Madagaskar | Madagascar | Madagascar |
+| Samoa | Samoa | Samoa | le Samoa | Samoa | Samoa | Samoa |
+| Cazaquistão | Kazakhstan | Kazajistán | le Kazakhstan | Kasachstan | Kazakhstan | Kazakistan |
+| Paraguai | Paraguay | Paraguay | le Paraguay | Paraguay | Paraguai | Paraguay |
+| Grécia | Greece | Grecia | la Grèce | Griechenland | Grècia | Grecia |
+| Ilhas Cook | Cook Islands | Islas Cook | les Îles Cook | Cookinseln | Illes Cook | Isole Cook |
+| Iraque | Iraq | Irak | l'Irak ou l'Iraq | Irak | Iraq | Iraq |
+| Azerbaijão | Azerbaijan | Azerbaiyán | l'Azerbaïdjan | Aserbaidschan | Azerbaitjan | Azerbaigian |
+| Mali | Mali | Malí | le Mali | Mali | Mali | Mali |
+| Brunei | Brunei | Brunéi | le Brunei | Brunei | Brunèi | Brunei |
+| Tailândia | Thailand | Tailandia | la Thaïlande | Thailand | Tailàndia | Tailandia |
+| República Centro-Africana | Central African Republic | República Centroafricana | la Centrafrique | Zentralafrikanische Republik | República Centreafricana | Repubblica Centrafricana |
+| Gâmbia | Gambia | Gambia | la Gambie | Gambia | Gàmbia | Gambia |
+| São Cristóvão e Nevis | Saint Kitts and Nevis | San Cristóbal y Nieves | Saint-Christophe-et-Niévès | St. Kitts und Nevis | Sant Cristòfol i Nieves | Saint Kitts e Nevis |
+| Sérvia | Serbia | Serbia | la Serbie | Serbien | Sèrbia | Serbia |
+| Alemanha | Germany | Alemania | l'Allemagne | Deutschland | Alemanya | Germania |
+| Suíça | Switzerland | Suiza | la Suisse | Schweiz | Suïssa | Svizzera |
+| Líbano | Lebanon | Líbano | le Liban | Libanon | Líban | Libano |
+| Quirguistão | Kyrgyzstan | Kirguistán | le Kirghizistan, le Kirghizstan, la Kirghizie | Kirgisistan | Kirguizistan | Kirghizistan |
+| Guiné-Bissau | Guinea-Bissau | Guinea-Bisáu | la Guinée-Bissau ou la Guinée-Bissao | Guinea-Bissau | Guinea Bissau | Guinea-Bissau |
+| Colômbia | Colombia | Colombia | la Colombie | Kolumbien | Colòmbia | Colombia |
+| Brasil | Brazil | Brasil | le Brésil | Brasilien | Brasil | Brasile |
+| Eslováquia | Slovakia | Eslovaquia | la Slovaquie | Slowakei | Eslovàquia | Slovacchia |
+| Bélgica | Belgium | Bélgica | la Belgique | Belgien | Bèlgica | Belgio |
+| Romênia | Romania | Rumania | la Roumanie | Rumänien | Romania | Romania |
+| Hungria | Hungary | Hungría | la Hongrie | Ungarn | Hongria | Ungheria |
+| Argentina | Argentina | Argentina | l'Argentine | Argentinien | Argentina | Argentina |
+| Burundi | Burundi | Burundi | le Burundi | Burundi | Burundi | Burundi |
+| Austrália | Australia | Australia | l'Australie | Australien | Austràlia | Australia |
+| Venezuela | Venezuela | Venezuela | Le Venezuela | Venezuela | Veneçuela | Venezuela |
+| Santa Lúcia | Saint Lucia | Santa Lucía | Sainte-Lucie | Saint Lucia | Santa Llúcia | Santa Lucia |
+| Moldávia | Moldova | Moldavia | la Moldavie | Moldawien | Moldàvia | Moldavia |
+
+
+
 ## Portuguese Speaking Countries:
 
 

@@ -2,6 +2,34 @@ Here is the translated list of cities:
 
 | Portuguese | English | Spanish | French | German | Valencian | Italian |
 |------------|---------|---------|--------|--------|-----------|---------|
+| Quito | Quito | Quito | Quito | Quito | Quito | Quito |
+| Rabat | Rabat | Rabat | Rabat | Rabat | Rabat | Rabat |
+| Reykjavik | Reykjavik | Reikiavik | Reykjavik | Reykjavik | Reykjavik | Reykjavik |
+| Riga | Riga | Riga | Riga | Riga | Riga | Riga |
+| Riade | Riyadh | Riad | Riyad | Riad | Riad | Riyadh |
+| Roma | Rome | Roma | Rome | Rom | Roma | Roma |
+| Roseau | Roseau | Roseau | Roseau | Roseau | Roseau | Roseau |
+| Santo Domingo | Santo Domingo | Santo Domingo | Saint-Domingue | Santo Domingo | Sant Doménec | Santo Domingo |
+| Saint-George's | Saint George's | Saint George's | Saint-Georges | Saint George's | Saint George | Saint George's |
+| São Marino | San Marino | San Marino | Saint-Marin | San Marino | Sant Marí | San Marino |
+| São José | San Jose | San José | San José | San José | Sant Josep | San Jose |
+| San Juan | San Juan | San Juan | San Juan | San Juan | Sant Joan | San Juan |
+| San Salvador | San Salvador | San Salvador | San Salvador | San Salvador | Sant Salvador | San Salvador |
+| Saná | Sana'a | Saná | Sanaa | Sanaa | Sana | Sana'a |
+| Santiago | Santiago | Santiago | Santiago | Santiago | Santiago | Santiago |
+| São Tomé | Sao Tome | Santo Tomé | São Tomé | São Tomé | Sant Tomàs | São Tomé |
+| Sarajevo | Sarajevo | Sarajevo | Sarajevo | Sarajevo | Sarajevo | Sarajevo |
+| Seul | Seoul | Seúl | Séoul | Seoul | Seül | Seul |
+| Singapura | Singapore | Singapur | Singapour | Singapur | Singapur | Singapore |
+| Skopje | Skopje | Skopie | Skopje | Skopje | Skopje | Skopje |
+| Sófia | Sofia | Sofía | Sofia | Sofia | Sofia | Sofia |
+| Sri Jayawardenapura | Sri Jayawardenapura | Sri Jayawardenapura | Sri Jayawardenapura | Sri Jayawardenapura | Sri Jayawardenapura | Sri Jayawardenapura |
+| Estocolmo | Stockholm | Estocolmo | Stockholm | Stockholm | Estocolm | Stoccolma |
+| Sucre | Sucre | Sucre | Sucre | Sucre | Sucre | Sucre |
+| Suva | Suva | Suva | Suva | Suva | Suva | Suva |
+
+| Portuguese | English | Spanish | French | German | Valencian | Italian |
+|------------|---------|---------|--------|--------|-----------|---------|
 | Nairóbi | Nairobi | Nairobi | Nairobi | Nairobi | Nairobi | Nairobi |
 | Nassau | Nassau | Nassau | Nassau | Nassau | Nassau | Nassau |
 | Naypyidaw | Naypyidaw | Naipyidó | Naypyidaw | Naypyidaw | Naypyidaw | Naypyidaw |

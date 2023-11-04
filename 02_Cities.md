@@ -2,6 +2,39 @@ Here is the translated list of cities:
 
 | Portuguese | English | Spanish | French | German | Valencian | Italian |
 |------------|---------|---------|--------|--------|-----------|---------|
+| Nairóbi | Nairobi | Nairobi | Nairobi | Nairobi | Nairobi | Nairobi |
+| Nassau | Nassau | Nassau | Nassau | Nassau | Nassau | Nassau |
+| Naypyidaw | Naypyidaw | Naipyidó | Naypyidaw | Naypyidaw | Naypyidaw | Naypyidaw |
+| N'Djamena | N'Djamena | Yamena | Ndjamena | N'Djamena | Ndijamina | N'Djamena |
+| Nova Deli | New Delhi | Nueva Delhi | New Delhi | Neu-Delhi | Nova Delhi | Nuova Delhi |
+| Niamei | Niamey | Niamey | Niamey | Niamey | Niamey | Niamey |
+| Nicósia | Nicosia | Nicosia | Nicosie | Nikosia | Nicòsia | Nicosia |
+| Nuakchott | Nouakchott | Nuakchot | Nouakchott | Nuakchott | Nuakxot | Nouakchott |
+| Noumea | Nouméa | Numea | Nouméa | Nouméa | Numea | Numea |
+| Nuku'alofa | Nuku'alofa | Nuku'alofa | Nuku'alofa | Nuku'alofa | Nuku'alofa | Nuku'alofa |
+| Oslo | Oslo | Oslo | Oslo | Oslo | Oslo | Oslo |
+| Otava | Ottawa | Ottawa | Ottawa | Ottawa | Ottawa | Ottawa |
+| Uagadugu | Ouagadougou | Uagadugú | Ouagadougou | Wagadugu | Uagadugú | Ouagadougou |
+| Ulan Bator | Ulaanbaatar | Ulán Bator | Oulan-Bator | Ulan Bator | Ulan Bator | Ulan Bator |
+| Paliquir | Palikir | Palikir | Palikir | Palikir | Palikir | Palikir |
+| Panamá | Panama City | Ciudad de Panamá | Panama | Panama | Ciutat de Panamà | Panama |
+| Paramaribo | Paramaribo | Paramaribo | Paramaribo | Paramaribo | Paramaribo | Paramaribo |
+| Paris | Paris | París | Paris | Paris | París | Parigi |
+| Pequim | Beijing | Pekín | Pékin | Peking | Beijing | Pechino |
+| Phnom Penh | Phnom Penh | Nom Pen | Phnom Penh | Phnom Penh | Phnom Penh | Phnom Penh |
+| Podgorica | Podgorica | Podgorica | Podgorica | Podgorica | Podgorica | Podgorica |
+| Porto Moresby | Port Moresby | Puerto Moresby | Port Moresby | Port Moresby | Port Moresby | Port Moresby |
+| Porto Príncipe | Port-au-Prince | Puerto Príncipe | Port-au-Prince | Port-au-Prince | Port-au-Prince | Port-au-Prince |
+| Porto de Espanha | Port of Spain | Puerto España | Port-d'Espagne | Port of Spain | Port d'Espanya | Port of Spain |
+| Port Louis | Port Louis | Puerto Luis | Port-Louis | Port Louis | Port Lluís | Port Louis |
+| Porto Vila | Port Vila | Puerto Vila | Port-Vila | Port Vila | Port Vila | Port Vila |
+| Praga | Prague | Praga | Prague | Prag | Praga | Praga |
+| Praia | Praia | Praia | Praia | Praia | Praia | Praia |
+| Pretória, Cidade do Cabo, Bloemfontein | Pretoria, Cape Town, Bloemfontein | Pretoria, Ciudad del Cabo, Bloemfontein | Pretoria, Le Cap, Bloemfontein | Pretoria, Kapstadt, Bloemfontein | Pretòria, Ciutat del Cap, Bloemfontein | Pretoria, Città del Capo, Bloemfontein |
+| Pyongyang | Pyongyang | Pionyang | Pyongyang | Pjöngjang | Pyongyang | Pyongyang |
+
+| Portuguese | English | Spanish | French | German | Valencian | Italian |
+|------------|---------|---------|--------|--------|-----------|---------|
 | La Valeta | Valletta | La Valeta | La Valette | Valletta | La Valeta | La Valletta |
 | Cairo | Cairo | El Cairo | Le Caire | Kairo | El Caire | Il Cairo |
 | Libreville | Libreville | Libreville | Libreville | Libreville | Libreville | Libreville |

@@ -1,9 +1,42 @@
 
 # Countries
+Sure, here is the translation for the list of words:
 
-
-
-Certainly, here is the translated list:
+| Portuguese | English | Spanish | French | German | Valencian | Italian |
+|------------|---------|---------|--------|--------|-----------|---------|
+| Suécia | Sweden | Suecia | la Suède | Schweden | Suècia | Svezia |
+| Bolívia | Bolivia | Bolivia | la Bolivie | Bolivien | Bolívia | Bolivia |
+| Fiji | Fiji | Fiyi | les Fidji | Fidschi | Fiji | Figi |
+| Uzbequistão | Uzbekistan | Uzbekistán | l'Ouzbékistan | Usbekistan | Uzbekistan | Uzbekistan |
+| Estônia | Estonia | Estonia | L'Estonie | Estland | Estònia | Estonia |
+| Geórgia | Georgia | Georgia | la Géorgie | Georgien | Geòrgia | Georgia |
+| Honduras | Honduras | Honduras | le Honduras | Honduras | Hondures | Honduras |
+| Irã | Iran | Irán | l'Iran | Iran | Iran | Iran |
+| Israel | Israel | Israel | Israël | Israel | Israel | Israele |
+| Butão | Bhutan | Bután | le Bhoutan | Bhutan | Bhutan | Bhutan |
+| Japão | Japan | Japón | le Japon | Japan | Japó | Giappone |
+| Líbia | Libya | Libia | la Libye | Libyen | Líbia | Libia |
+| Tunísia | Tunisia | Túnez | la Tunisie | Tunesien | Tunísia | Tunisia |
+| Liechtenstein | Liechtenstein | Liechtenstein | le Liechtenstein | Liechtenstein | Liechtenstein | Liechtenstein |
+| Polônia | Poland | Polonia | la Pologne | Polen | Polònia | Polonia |
+| Seychelles | Seychelles | Seychelles | les Seychelles | Seychellen | Seixelles | Seychelles |
+| Áustria | Austria | Austria | l'Autriche | Österreich | Àustria | Austria |
+| Laos | Laos | Laos | le Laos | Laos | Laos | Laos |
+| Lituânia | Lithuania | Lituania | la Lituanie | Litauen | Lituània | Lituania |
+| Estados Unidos | United States | Estados Unidos | les États-Unis | Vereinigte Staaten | Estats Units | Stati Uniti |
+| Nova Zelândia | New Zealand | Nueva Zelanda | la Nouvelle-Zélande | Neuseeland | Nova Zelanda | Nuova Zelanda |
+| Namíbia | Namibia | Namibia | la Namibie | Namibia | Namíbia | Namibia |
+| Costa do Marfim | Ivory Coast | Costa de Marfil | la Côte d'Ivoire | Elfenbeinküste | Costa d'Ivori | Costa d'Avorio |
+| Camarões | Cameroon | Camerún | le Cameroun | Kamerun | Camerun | Camerun |
+| Nauru | Nauru | Nauru | Nauru | Nauru | Nauru | Nauru |
+| Croácia | Croatia | Croacia | la Croatie | Kroatien | Croàcia | Croazia |
+| Luxemburgo | Luxembourg | Luxemburgo | le Luxembourg | Luxemburg | Luxemburg | Lussemburgo |
+| Holanda | Netherlands | Países Bajos | la Hollande | Niederlande | Països Baixos | Paesi Bassi |
+| Países Baixos | Netherlands | Países Bajos | les Pays-Bas | Niederlande | Països Baixos | Paesi Bassi |
+| Congo | Congo | Congo | le Congo | Kongo | Congo | Congo |
+| Eritreia | Eritrea | Eritrea | l'Érythrée | Eritrea | Eritrea | Eritrea |
+| Kiribati | Kiribati | Kiribati | Kiribati ou les Kiribati | Kiribati | Kiribati | Kiribati |
+| Senegal | Senegal | Senegal | le Sénégal | Senegal | Senegal | Senegal |
 
 | Portuguese | English | Spanish | French | German | Valencian | Italian |
 |------------|---------|---------|--------|--------|-----------|---------|

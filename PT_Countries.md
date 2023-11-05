@@ -3,6 +3,37 @@
 
 ## Portuguese, English and Spanish: 
 
+Here is the completed table with the missing values:
+
+| No. | Portuguese | IPA (PT) | IPA (BR) | Tipo de Palavra | English Word | English IPA | Spanish Word | Spanish IPA |
+|-----|------------|----------|----------|-----------------|--------------|-------------|--------------|-------------|
+| 8182 | **a** Croácia | /kɾo.'ɐ.si.ɐ/ | /kɾɔ.'a.si.ɐ/ | sf | Croatia | /kroʊˈeɪʃə/ | Croacia | /kro'aθja/ |
+| 8194 | **a** Malta | /'maw.tɐ/ | /'maɫ.tɐ/ | sf | Malta | /ˈmɒltə/ | Malta | /'malta/ |
+| 8194 | **a** Malta | /'maw.tɐ/ | /'maɫ.tɐ/ | sf | Malta | /ˈmɒltə/ | Malta | /'malta/ |
+| 8185 | **o** Mónaco | /'mo.nɐ.ku/ | /'mo.na.ku/ | sm | Monaco | /ˈmɒnəkoʊ/ | Mónaco | /'monako/ |
+| 8195 | **o** Montenegro | /mõ.te.'ne.ɡɾu/ | /mõ.te.'ne.ɡɾu/ | sm | Montenegro | /ˌmɒntɪˈneɪɡroʊ/ | Montenegro | /monte'neɡɾo/ |
+| 8190 | **a** Macedónia do Norte | /mɐ.sɨ'do.ni.ɐ du 'noɾ.tɨ/ | /ma.sɨ'do.ni.ɐ du 'noɾ.tʃi/ | sf | North Macedonia | /ˌnɔːrθ ˌmæsɪˈdoʊniə/ | Macedonia del Norte | /maθe'ðonja ðel 'norte/ |
+| 7001 | **o** Portugal | /puɾ.tu'ɣaɫ/ | /poɾ.tu'ɡaɫ/ | sm | Portugal | /ˈpɔːtʃəɡəl/ | Portugal | /poɾtu'ɣal/ |
+| 8186 | **a** Roménia | /ʁɔ.'mɛ.ni.ɐ/ | /ʁɔ.'mɛ.ni.ɐ/ | sf | Romania | /roʊˈmeɪniə/ | Rumanía | /ɾuma'ni.a/ |
+| 8187 | **São** Marino | /sɐ̃w̃ mɐ.'ɾi.nu/ | /sɐ̃w̃ mɐ.'ɾi.nu/ | sm | San Marino | /ˌsæn məˈriːnoʊ/ | San Marino | /san ma'ɾino/ |
+| 8191 | **a** Sérvia | /'sɛɾ.vi.ɐ/ | /'sɛɾ.vi.ɐ/ | sf | Serbia | /ˈsɜːrbiə/ | Serbia | /'seɾβja/ |
+| 8188 | **a** Eslovénia | /ɨs.lo'vɛ.ni.ɐ/ | /is.lo'vɛ.ni.ɐ/ | sf | Slovenia | /sləˈviːniə/ | Eslovenia | /eslo'βenja/ |
+| 8189 | **a** Espanha | /ɨʃ.'pɐ.ɲɐ/ | /is.'pa.ɲɐ/ | sf | Spain | /speɪn/ | España | /es'paɲa/ |
+| 8192 | **o** Chipre | /ʃi.'pɾi/ | /ʃi.'pɾi/ | sm | Cyprus | /ˈsaɪprəs/ | Chipre | /'ʧipɾe/ |
+| 8575 | **o** Congo | /'kõ.ɡu/ | /'kõ.ɡu/ | sm | Congo | /ˈkɒŋɡoʊ/ | Congo | /'koŋɡo/ |
+| 8197 | **o** Vaticano | /vɐ.ti'ka.nu/ | /va.ti'ka.nu/ | sm | Vatican | /ˈvætɪkən/ | Vaticano | /βati'kano/ |
+| 8335 | **a** Alemanha | /ɐ.lɨ'mɐ.ɲɐ/ | /a.lɨ'ma.ɲɐ/ | sf | Germany | /ˈdʒɜːməni/ | Alemania | /ale'manja/ |
+| 8193 | **a** Turquia | /tuɾ'ki.ɐ/ | /tuɾ'ki.ɐ/ | sf | Turkey | /ˈtɜːrki/ | Turquía | /tuɾ'kia/ |
+| 8474 | **a** Dominica | /du.mi'njikɐ/ | /do.mi'nika/ | sf | Dominica | /ˌdɒmɪˈniːkə/ | Dominica | /do'minika/ |
+| 8576 | **a** República Dominicana | /ʁɛ'publikɐ du.mi.ni'kɐnɐ/ | /ʁɛ'publikɐ do.mi.ni'kɐnɐ/ | sf | Dominican Republic | /dəˌmɪnɪkən rɪˈpʌblɪk/ | República Dominicana | /re'puβlika ðo.mi'nikana/ |
+| 8473 | **o** Djibouti | /ʒi.bu'ti/ | /dʒi.bu'ti/ | sm | Djibouti | /dʒɪˈbuːti/ | Yibuti | /ʒi'βuti/ |
+| 8214 | **o** Equador | /e.kwɐ'doɾ/ | /e.kwa'doʁ/ | sm | Ecuador | /ˈɛkwədɔːr/ | Ecuador | /ekwa'ðoɾ/ |
+| 8206 | **o** El Salvador | /ɨw sɐɫ.'va.doɾ/ | /ɛw sɐɫ.'va.doɾ/ | sm | El Salvador | /ɛl ˈsælvədɔːr/ | El Salvador | /el salβa'ðoɾ/ |
+| 8261 | **a** Costa do Marfim | /'kɔʃ.tɐ du mɐɾ.'fĩ/ | /'kɔs.tɐ du mɐɾ.'fĩ/ | sf | Ivory Coast | /ˈaɪvri koʊst/ | Costa de Marfil | /'kosta ðe maɾ'fil/ |
+| 8331 | **a** Inglaterra | /ĩ.ɡɫɐ'tɛ.ʁɐ/ | /ĩ.ɡɫɐ'tɛ.ʁɐ/ | sf | England | /ˈɪŋɡlənd/ | Inglaterra | /iŋɡla'tera/ |
+| 8262 | **a** Eritreia | /ɨ.ɾi'tɾɐ.i.ɐ/ | /e.ɾi'tɾɛ.i.ɐ/ | sf | Eritrea | /ˌɛrɪˈtreɪə/ | Eritrea | /eritɾe'a/ |
+
+
 Here is the table with the requested information:
 
 | No. | Portuguese | IPA (PT) | IPA (BR) | Tipo de Palavra | English Word | English IPA | Spanish Word | Spanish IPA |
@@ -38,6 +69,34 @@ Here is the table with the requested information:
 | 8183 | **a** Grécia | /'ɡɾɛ.si.ɐ/ | /'ɡɾɛ.si.ɐ/ | sf | Greece | /ɡriːs/ | Grecia | /'ɡretʃa/ |
 | 8184 | **a** Itália | /i.'ta.li.ɐ/ | /i.'ta.li.ɐ/ | sf | Italy | /ˈɪtəli/ | Italia | /i'ta.lja/ |
 | 8196 | **o** Kosovo | /'ko.so.vo/ | /'ko.so.vo/ | sm | Kosovo | /'kɒsəvəʊ/ | Kosovo | /'kosovo/ |
+
+| No. | Portuguese | IPA (PT) | IPA (BR) | Tipo de Palavra | English Word | English IPA | Spanish Word | Spanish IPA |
+|-----|------------|----------|----------|-----------------|--------------|-------------|--------------|-------------|
+| 8182 | **a** Croácia | /kɾo.'ɐ.si.ɐ/ | /kɾɔ.'a.si.ɐ/ | sf | Croatia | /kroʊˈeɪʃə/ | Croacia | /kro'aθja/ |
+| 8194 | **a** Malta | /'maw.tɐ/ | /'maɫ.tɐ/ | sf | Malta | /ˈmɒltə/ | Malta | /'malta/ |
+| 8194 | **a** Malta | /'maw.tɐ/ | /'maɫ.tɐ/ | sf | Malta | /ˈmɒltə/ | Malta | /'malta/ |
+| 8185 | **o** Mónaco | /'mo.nɐ.ku/ | /'mo.na.ku/ | sm | Monaco | /ˈmɒnəkoʊ/ | Mónaco | /'monako/ |
+| 8195 | **o** Montenegro | /mõ.te.'ne.ɡɾu/ | /mõ.te.'ne.ɡɾu/ | sm | Montenegro | /ˌmɒntɪˈneɪɡroʊ/ | Montenegro | /monte'neɡɾo/ |
+| 8190 | **a** Macedónia do Norte | /mɐ.sɨ'do.ni.ɐ du 'noɾ.tɨ/ | /ma.sɨ'do.ni.ɐ du 'noɾ.tʃi/ | sf | North Macedonia | /ˌnɔːrθ ˌmæsɪˈdoʊniə/ | Macedonia del Norte | /maθe'ðonja ðel 'norte/ |
+| 7001 | **o** Portugal | /puɾ.tu'ɣaɫ/ | /poɾ.tu'ɡaɫ/ | sm | Portugal | /ˈpɔːtʃəɡəl/ | Portugal | /poɾtu'ɣal/ |
+| 8186 | **a** Roménia | /ʁɔ.'mɛ.ni.ɐ/ | /ʁɔ.'mɛ.ni.ɐ/ | sf | Romania | /roʊˈmeɪniə/ | Rumanía | /ɾuma'ni.a/ |
+| 8187 | **São** Marino | /sɐ̃w̃ mɐ.'ɾi.nu/ | /sɐ̃w̃ mɐ.'ɾi.nu/ | sm | San Marino | /ˌsæn məˈriːnoʊ/ | San Marino | /san ma'ɾino/ |
+| 8191 | **a** Sérvia | /'sɛɾ.vi.ɐ/ | /'sɛɾ.vi.ɐ/ | sf | Serbia | /ˈsɜːrbiə/ | Serbia | /'seɾβja/ |
+| 8188 | **a** Eslovénia | /ɨs.lo'vɛ.ni.ɐ/ | /is.lo'vɛ.ni.ɐ/ | sf | Slovenia | /sləˈviːniə/ | Eslovenia | /eslo'βenja/ |
+| 8189 | **a** Espanha | /ɨʃ.'pɐ.ɲɐ/ | /is.'pa.ɲɐ/ | sf | Spain | /speɪn/ | España | /es'paɲa/ |
+| 8192 | **o** Chipre | /ʃi.'pɾi/ | /ʃi.'pɾi/ | sm | Cyprus | /ˈsaɪprəs/ | Chipre | /'ʧipɾe/ |
+| 8575 | **o** Congo | /'kõ.ɡu/ | /'kõ.ɡu/ | sm | Congo | /ˈkɒŋɡoʊ/ | Congo | /'koŋɡo/ |
+| 8197 | **o** Vaticano | /vɐ.ti'ka.nu/ | /va.ti'ka.nu/ | sm | Vatican | /ˈvætɪkən/ | Vaticano | /βati'kano/ |
+| 8335 | **a** Alemanha | /ɐ.lɨ'mɐ.ɲɐ/ | /a.lɨ'ma.ɲɐ/ | sf | Germany | /ˈdʒɜːməni/ | Alemania | /ale'manja/ |
+| 8193 | **a** Turquia | /tuɾ'ki.ɐ/ | /tuɾ'ki.ɐ/ | sf | Turkey | /ˈtɜːrki/ | Turquía | /tuɾ'kia/ |
+| 8474 | **a** Dominica | /du.mi'njikɐ/ | /do.mi'nika/ | sf | Dominica | /ˌdɒmɪˈniːkə/ | Dominica | /do'minika/ |
+| 8576 | **a** República Dominicana | /ʁɛ'publikɐ du.mi.ni'kɐnɐ/ | /ʁɛ'publikɐ do.mi.ni'kɐnɐ/ | sf | Dominican Republic | /dəˌmɪnɪkən rɪˈpʌblɪk/ | República Dominicana | /re'puβlika ðo.mi'nikana/ |
+| 8473 | **o** Djibouti | /ʒi.bu'ti/ | /dʒi.bu'ti/ | sm | Djibouti | /dʒɪˈbuːti/ | Yibuti | /ʒi'βuti/ |
+| 8214 | **o** Equador | /e.kwɐ'doɾ/ | /e.kwa'doʁ/ | sm | Ecuador | /ˈɛkwədɔːr/ | Ecuador | /ekwa'ðoɾ/ |
+| 8206 | **o** El Salvador | /ɨw sɐɫ.'va.doɾ/ | /ɛw sɐɫ.'va.doɾ/ | sm | El Salvador | /ɛl ˈsælvədɔːr/ | El Salvador | /el salβa'ðoɾ/ |
+| 8261 | **a** Costa do Marfim | /'kɔʃ.tɐ du mɐɾ.'fĩ/ | /'kɔs.tɐ du mɐɾ.'fĩ/ | sf | Ivory Coast | /ˈaɪvri koʊst/ | Costa de Marfil | /'kosta ðe maɾ'fil/ |
+| 8331 | **a** Inglaterra | /ĩ.ɡɫɐ'tɛ.ʁɐ/ | /ĩ.ɡɫɐ'tɛ.ʁɐ/ | sf | England | /ˈɪŋɡlənd/ | Inglaterra | /iŋɡla'tera/ |
+| 8262 | **a** Eritreia | /ɨ.ɾi'tɾɐ.i.ɐ/ | /e.ɾi'tɾɛ.i.ɐ/ | sf | Eritrea | /ˌɛrɪˈtreɪə/ | Eritrea | /eritɾe'a/ |
 
 
 Here is the table with the requested information:

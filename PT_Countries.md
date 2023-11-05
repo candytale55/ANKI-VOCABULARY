@@ -1,6 +1,56 @@
 
 # Countries
-Sure, here is the translation for the list of words:
+
+## Portuguese, English and Spanish: 
+
+Here is the table with the requested information:
+
+| No. | Portuguese | IPA (PT) | IPA (BR) | Tipo de Palavra | English Word | English IPA | Spanish Word | Spanish IPA |
+|-----|------------|----------|----------|-----------------|--------------|-------------|--------------|-------------|
+| 8434 | **o** Afeganistão | /ɐfɨɡɐ̃'nistãw/ | /a.fɨ.ɡɐ̃'nis.tɐ̃w/ | sm | Afghanistan | /æfəˈɡænɪstæn/ | Afganistán | /afɣani'stan/ |
+| 8435 | **a** África do Sul | /'a.fɾi.kɐ du 'suw/ | /'a.fɾi.kɐ du 'suw/ | sf | South Africa | /saʊθ 'æfrɪkə/ | Sudáfrica | /su'ðafɾika/ |
+| 8436 | **a** Alemanha | /ɐ.lɨ'mɐɲ.ɲɐ/ | /a.le'ma.ɲa/ | sf | Germany | /ˈdʒɜːrməni/ | Alemania | /ale'manja/ |
+| 8437 | **a** Arábia Saudita | /ɐ'ɾabi.ɐ saw'di.tɐ/ | /a'ɾa.bja sau'di.ta/ | sf | Saudi Arabia | /ˌsɔːdɪ əˈreɪbiə/ | Arabia Saudita | /a'ɾaβja sau'dita/ |
+| 8438 | **a** Argélia | /ɐɾ'ʒe.li.ɐ/ | /aɾ'xɛ.li.a/ | sf | Algeria | /ælˈdʒɪəriə/ | Argelia | /ar'xelja/ |
+| 8439 | **a** Argentina | /ɐɾxẽ'tin.ɐ/ | /aɾxen'ti.na/ | sf | Argentina | /ˌɑːrdʒənˈtiːnə/ | Argentina | /aɾxen'tina/ |
+| 8440 | **a** Armênia | /ɐɾ'men.jɐ/ | /aɾ'me.nja/ | sf | Armenia | /ɑːrˈmiːniə/ | Armenia | /ar'mɛnja/ |
+| 8441 | **a** Austrália | /aws'tɾa.li.ɐ/ | /aws'tɾa.li.a/ | sf | Australia | /ɒˈstreɪliə/ | Australia | /aws'tralja/ |
+| 8442 | **a** Áustria | /ɐw'stɾi.ɐ/ | /a.wis'tɾi.a/ | sf | Austria | /ˈɒstriə/ | Austria | /aws'tri.a/ |
+| 8443 | **o** Azerbaijão | /azɨɾbɐj'ʒɐ̃w/ | /azɨɾbɐ'ʒɐ̃w/ | sm | Azerbaijan | /ˌæzərbaɪˈdʒɑːn/ | Azerbaiyán | /azbeɾbaj'jan/ |
+| 8444 | **as** Bahamas | /bɐ.'ɲɐ.mɐʃ/ | /ba.'ɲa.mas/ | sfp | Bahamas | /bəˈhɑːməz/ | Bahamas | /ba'amas/ |
+| 8445 | **a** Bielorrússia | /bje.lu'ʁus.jɐ/ | /bje.lu'rus.ja/ | sf | Belarus | /bɛləˈrʊs/ | Bielorrusia | /belo'rrusja/ |
+| 8446 | **a** Bolívia | /bo'livi.ɐ/ | /bo'li.vjɐ/ | sf | Bolivia | /bəˈlɪviə/ | Bolivia | /boˈlivia/ |
+| 8447 | **o** Botsuana | /bɔt.su'ɐ.nɐ/ | /botsu'ɐ.na/ | sm | Botswana | /bɒtˈswɑːnə/ | Botsuana | /botsu'ana/ |
+| 8448 | **o** Brasil | /bɾɐ'ziw/ | /bɾa'ziw/ | sm | Brazil | /brəˈzɪl/ | Brasil | /bra'zil/ |
+| 8449 | **o** Brunei | /bɾu'nej/ | /bɾu'nei/ | sm | Brunei | /bruːˈnaɪ/ | Brunéi | /bru'nei/ |
+| 8450 | **a** Bulgária | /buɫ'ɡa.ɾi.ɐ/ | /buɫ'ɡa.ɾja/ | sf | Bulgaria | /bʌlˈɡɛəriə/ | Bulgaria | /bul'ɡarja/ |
+| 8451 | **o** Burkina Faso | /buɾ'kina 'fasu/ | /buɾ'kina 'faso/ | sm | Burkina Faso | /bɜːrˈkiːnə ˈfɑːsoʊ/ | Burkina Faso | /bur'kina 'faso/ |
+| 8452 | **o** Burundi | /bu.ɾũ'di/ | /bu'rũ.di/ | sm | Burundi | /bəˈrʊndi/ | Burundi | /bu'rundi/ |
+| 8453 | **o** Butão | /bu'tɐ̃w/ | /bu'tɐ̃w̃/ | sm | Bhutan | /buːˈtɑːn/ | Bután | /bu'tan/ |
+| 8454 | **o** Cabo Verde | /'kabu 'veɾ.ðɨ/ | /'kabu 'veɾ.ðʒi/ | sm | Cape Verde | /ˌkeɪp ˈvɜːrd/ | Cabo Verde | /'kabo 'verde/ |
+| 8455 | **os** Camarões | /kɐ.mɐ'ɾõj̃ʃ/ | /ka.ma'ɾõj̃s/ | smp | Cameroon | /kæməˈruːn/ | Camerún | /kame'runs/ |
+| 8456 | **o** Camboja | /kɐ̃'bo.ʒɐ/ | /kɐ̃'bo.ʒɐ/ | sm | Cambodia | /kæmˈboʊdiə/ | Camboya | /kam'boja/ |
+| 8457 | **o** Canadá | /kɐ.nɐ'da/ | /ka.na'da/ | sm | Canada | /ˈkænədə/ | Canadá | /kana'da/ |
+| 8458 | **o** Catar | /kɐ.'taɾ/ | /ka.'taʁ/ | sm | Qatar | /ˈkætɑːr/ | Catar | /ka'tar/ |
+| 8459 | **o** Cazaquistão | /kɐ.zɐ.kis.tɐ̃w/ | /ka.zɐ.kis'tɐ̃w/ | sm | Kazakhstan | /ˌkæzəkˈstɑːn/ | Kazajistán | /kaθa.xis'tan/ |
+| 8460 | **o** Chade | /ʃa.dɨ/ | /ʃa.dʒi/ | sm | Chad | /tʃæd/ | Chad | /tʃad/ |
+| 8461 | **o** Chile | /'ʃi.li/ | /'ʃi.li/ | sm | Chile | /ˈtʃɪli/ | Chile | /'tʃile/ |
+| 8462 | **a** China | /'ʃi.nɐ/ | /'ʃi.na/ | sf | China | /ˈtʃaɪnə/ | China | /'kiːna/ |
+| 8463 | **o** Chipre | /'ʃi.pɾɨ/ | /'ʃi.pɾi/ | sm | Cyprus | /ˈsaɪprəs/ | Chipre | /'tʃipre/ |
+| 8464 | **a** Colômbia | /ku'lõmb.jɐ/ | /ko'lõm.bi.ɐ/ | sf | Colombia | /kəˈlʌmbiə/ | Colombia | /ko'lombja/ |
+| 8465 | **as** Comores | /ku'mo.ɾɨʃ/ | /ko'mo.ɾɨʃ/ | sfp | Comoros | /ˈkɒmərəʊz/ | Comoras | /ko'moɾas/ |
+| 8466 | **o** Congo | /'kõ.ɡu/ | /'kõ.ɡu/ | sm | Congo | /ˈkɒŋɡəʊ/ | Congo | /'koŋɡo/ |
+| 8467 | **a** Coreia do Norte | /ko'ɾej.ɐ du 'nɔh.tɨ/ | /ko'ɾej.ɐ du 'nɔh.tʃi/ | sf | North Korea | /nɔːrθ kəˈriə/ | Corea del Norte | /ko'rea ðel 'norte/ |
+| 8468 | **a** Coreia do Sul | /ko'ɾej.ɐ du suw/ | /ko'ɾej.ɐ du suw/ | sf | South Korea | /saʊθ kəˈriə/ | Corea del Sur | /ko'rea ðel 'sur/ |
+| 8469 | **a** Costa do Marfim | /'kɔʃ.tɐ du 'maɾ.fĩ/ | /'kɔʃ.tɐ du 'maɾ.fĩ/ | sf | Ivory Coast | /ˈaɪvri koʊst/ | Costa de Marfil | /'kosta ðe maɾ'fil/ |
+| 8470 | **a** Costa Rica | /'kɔʃ.tɐ 'hi.kɐ/ | /'kɔʃ.tɐ 'ɾi.ka/ | sf | Costa Rica | /ˌkoʊstə ˈriːkə/ | Costa Rica | /'kosta 'rika/ |
+| 8471 | **a** Croácia | /kɾo'a.si.ɐ/ | /kɾo'a.si.ɐ/ | sf | Croatia | /kroʊˈeɪʃə/ | Croacia | /kro'aθja/ |
+| 8472 | **a** Dinamarca | /dɨ.nɐ'maɾ.kɐ/ | /dʒi.nɐ'maʁ.kɐ/ | sf | Denmark | /ˈdɛnmɑːrk/ | Dinamarca | /dina'marka/ |
+| 8473 | **o** Djibouti | /dʒi.bu'ti/ | /dʒi.bu'ti/ | sm | Djibouti | /dʒɪˈbuːti/ | Yibuti | /ʒi'buti/ |
+| 8474 | **a** Dominica | /du.mi'ni.kɐ/ | /do.mi'ni.ka/ | sf | Dominica | /ˌdɒmɪˈniːkə/ | Dominica | /do'minika/ |
+
+
+## All languages: 
 
 | Portuguese | English | Spanish | French | German | Valencian | Italian |
 |------------|---------|---------|--------|--------|-----------|---------|

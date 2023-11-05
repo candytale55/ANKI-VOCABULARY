@@ -1,5 +1,62 @@
 
 # Países en Español
+Here is the filled markdown table with the missing values:
+
+| No. | Spanish Word | Spanish IPA | Tipo de Palabra |
+|-----|--------------|-------------|-----------------|
+| 8331 | Inglaterra | /iŋ.ɡla.'te.rra/ | sf |
+| 8511 | Irán | /i.'ɾan/ | sm |
+| 8512 | Iraq | /i.'ɾak/ | sm |
+| 8513 | Irlanda | /ir.'lan.da/ | sf |
+| 8514 | Islandia | /is.'lan.dja/ | sf |
+| 8505 | Islas Cook | /'iz.las 'kuk/ | sfp |
+| 8506 | Islas Marshall | /'iz.las 'mar.ʃal/ | sfp |
+| 8507 | Islas Salomón | /'iz.las sa.lo.'mon/ | sfp |
+| 8515 | Israel | /is.ra'el/ | sm |
+| 8184 | Italia | /i.'ta.lja/ | sf |
+| 8275 | Jamaica | /ʝa.'ma.ka/ | sf |
+| 8329 | Japón | /xa.'pon/ | sm |
+| 8238 | Jordania | /xor.'ða.nja/ | sf |
+| 8459 | Kazajistán | /ka.θa.xis.'tan/ | sm |
+| 8268 | Kenia | /'ke.nja/ | sf |
+| 8572 | Kirguistán | /kiɾ.ɣis.'tan/ | sm |
+| 8520 | Kiribati | /ki.ɾi.'ba.ti/ | sm |
+| 8196 | Kosovo | /'ko.so.vo/ | sm |
+| 8239 | Kuwait | /kua.'it/ | sm |
+| 8522 | Laos | /laos/ | sm |
+| 8444 | Las Bahamas | /las ba.'mas/ | sfp |
+| 8269 | Lesoto | /le.'so.to/ | sm |
+| 8524 | Letonia | /le.'to.nja/ | sf |
+| 8240 | Líbano | /'li.βa.no/ | sm |
+| 8270 | Liberia | /li.'be.ɾja/ | sf |
+| 8241 | Libia | /'li.βi.a/ | sf |
+| 8528 | Liechtenstein | /liç.ten.shtain/ | sm |
+| 8529 | Lituania | /li.tu.'a.nja/ | sf |
+| 8530 | Luxemburgo | /lu.ksem.'buɾ.ɡo/ | sm |
+| 8531 | Macedonia | /ma.θe.'ðo.nja/ | sf |
+| 8190 | Macedonia del Norte | /ma.θe.'ðo.nja ðel 'noɾ.te/ | sf |
+| 8271 | Madagascar | /ma.da.'ɣas.kaɾ/ | sf |
+| 8533 | Malasia | /ma.'la.sja/ | sf |
+| 8272 | Malawi | /ma.'la.wi/ | sm |
+| 8535 | Maldivas | /mal.'ði.βas/ | sfp |
+| 8536 | Malí | /ma.'li/ | sm |
+| 8273 | Malí | /ma.'li/ | sm |
+| 8194 | Malta | /'mal.ta/ | sf |
+| 8194 | Malta | /'mal.ta/ | sf |
+| 8242 | Marruecos | /ma.ru.'e.kos/ | sm |
+| 8539 | Mauricio | /mau.'ɾi.θjo/ | sm |
+| 8274 | Mauritania | /mau.ɾi.ta.'ni.a/ | sf |
+| 8198 | México | /'me.xi.ko/ | sm |
+| 8543 | Micronesia | /mi.kɾo.'ne.si.a/ | sf |
+| 8545 | Moldavia | /mol.'da.βja/ | sf |
+| 8185 | Mónaco | /'mo.na.ko/ | sm |
+| 8547 | Mongolia | /mon.'ɡo.li.a/ | sf |
+| 8195 | Montenegro | /mon.te.'ne.ɣɾo/ | sm |
+| 7004 | Mozambique | /mo.zam.'bi.ke/ | sm |
+| 8542 | Myanmar | /mi.an'maɾ/ | sm |
+| 8549 | Namibia | /na.'mi.bja/ | sf |
+| 8550 | Nauru | /na.'u.ɾu/ | sm |
+
 
 Here is the filled markdown table with the missing values:
 
@@ -33,11 +90,6 @@ Here is the filled markdown table with the missing values:
 | 8455 | Camerún | /ka.me.'ɾun/ | sm |
 | 8235 | Canadá | /ka.na.'ða/ | sm |
 | 8458 | Catar | /ka.'taɾ/ | sm |
-
-Here is the filled markdown table with the missing values:
-
-| No. | Spanish Word | Spanish IPA | Tipo de Palabra |
-|-----|--------------|-------------|-----------------|
 | 8460 | Chad | /tʃad/ | sm |
 | 8461 | Chile | /'tʃi.le/ | sm |
 | 8328 | China | /'tʃi.na/ | sf |
@@ -85,3 +137,55 @@ Here is the filled markdown table with the missing values:
 | 8503 | Hungría | /'uŋ.ɡɾi.a/ | sf |
 | 8508 | India | /in.'dja/ | sf |
 | 8509 | Indonesia | /in.do.'ne.θja/ | sf |
+| 8331 | Inglaterra | /iŋ.ɡla.'te.rra/ | sf |
+| 8511 | Irán | /i.'ɾan/ | sm |
+| 8512 | Iraq | /i.'ɾak/ | sm |
+| 8513 | Irlanda | /ir.'lan.da/ | sf |
+| 8514 | Islandia | /is.'lan.dja/ | sf |
+| 8505 | Islas Cook | /'iz.las 'kuk/ | sfp |
+| 8506 | Islas Marshall | /'iz.las 'mar.ʃal/ | sfp |
+| 8507 | Islas Salomón | /'iz.las sa.lo.'mon/ | sfp |
+| 8515 | Israel | /is.ra'el/ | sm |
+| 8184 | Italia | /i.'ta.lja/ | sf |
+| 8275 | Jamaica | /ʝa.'ma.ka/ | sf |
+| 8329 | Japón | /xa.'pon/ | sm |
+| 8238 | Jordania | /xor.'ða.nja/ | sf |
+| 8459 | Kazajistán | /ka.θa.xis.'tan/ | sm |
+| 8268 | Kenia | /'ke.nja/ | sf |
+| 8572 | Kirguistán | /kiɾ.ɣis.'tan/ | sm |
+| 8520 | Kiribati | /ki.ɾi.'ba.ti/ | sm |
+| 8196 | Kosovo | /'ko.so.vo/ | sm |
+| 8239 | Kuwait | /kua.'it/ | sm |
+| 8522 | Laos | /laos/ | sm |
+| 8444 | Las Bahamas | /las ba.'mas/ | sfp |
+| 8269 | Lesoto | /le.'so.to/ | sm |
+| 8524 | Letonia | /le.'to.nja/ | sf |
+| 8240 | Líbano | /'li.βa.no/ | sm |
+| 8270 | Liberia | /li.'be.ɾja/ | sf |
+| 8241 | Libia | /'li.βi.a/ | sf |
+| 8528 | Liechtenstein | /liç.ten.shtain/ | sm |
+| 8529 | Lituania | /li.tu.'a.nja/ | sf |
+| 8530 | Luxemburgo | /lu.ksem.'buɾ.ɡo/ | sm |
+| 8531 | Macedonia | /ma.θe.'ðo.nja/ | sf |
+| 8190 | Macedonia del Norte | /ma.θe.'ðo.nja ðel 'noɾ.te/ | sf |
+| 8271 | Madagascar | /ma.da.'ɣas.kaɾ/ | sf |
+| 8533 | Malasia | /ma.'la.sja/ | sf |
+| 8272 | Malawi | /ma.'la.wi/ | sm |
+| 8535 | Maldivas | /mal.'ði.βas/ | sfp |
+| 8536 | Malí | /ma.'li/ | sm |
+| 8273 | Malí | /ma.'li/ | sm |
+| 8194 | Malta | /'mal.ta/ | sf |
+| 8194 | Malta | /'mal.ta/ | sf |
+| 8242 | Marruecos | /ma.ru.'e.kos/ | sm |
+| 8539 | Mauricio | /mau.'ɾi.θjo/ | sm |
+| 8274 | Mauritania | /mau.ɾi.ta.'ni.a/ | sf |
+| 8198 | México | /'me.xi.ko/ | sm |
+| 8543 | Micronesia | /mi.kɾo.'ne.si.a/ | sf |
+| 8545 | Moldavia | /mol.'da.βja/ | sf |
+| 8185 | Mónaco | /'mo.na.ko/ | sm |
+| 8547 | Mongolia | /mon.'ɡo.li.a/ | sf |
+| 8195 | Montenegro | /mon.te.'ne.ɣɾo/ | sm |
+| 7004 | Mozambique | /mo.zam.'bi.ke/ | sm |
+| 8542 | Myanmar | /mi.an'maɾ/ | sm |
+| 8549 | Namibia | /na.'mi.bja/ | sf |
+| 8550 | Nauru | /na.'u.ɾu/ | sm |

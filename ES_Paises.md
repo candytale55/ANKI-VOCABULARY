@@ -2,43 +2,39 @@
 # Países en Español
 
 
-Here is the filled markdown table with the missing values:
+Here is the completed markdown table with the given Spanish words:
 
 | No. | Spanish Word | Spanish IPA | Tipo de Palabra |
 |-----|--------------|-------------|-----------------|
-| 8560 | Países Bajos | /pa.'i.ses 'βa.xos/ | smp |
-| 8565 | Pakistán | /pa.kis.'tan/ | sm |
-| 8562 | Palaos | /pa.'la.os/ | smp |
-| 8211 | Panamá | /pa.'na.ma/ | sm |
-| 8564 | Papúa Nueva Guinea | /pa.'pu.a 'nwe.βa ɣi.'ne.a/ | sfp |
-| 8217 | Paraguay | /pa.ra.'ɣwai/ | sm |
-| 8567 | Perú | /pe.'ɾu/ | sm |
-| 8568 | Polonia | /po.'lo.nja/ | sf |
-| 7001 | Portugal | /poɾ.'tu.ɣal/ | sm |
-| 8200 | Puerto Rico | /'pweɾ.to 'ri.ko/ | sm |
-| 8573 | Reino Unido | /'rej.no u.'ni.ðo/ | sm |
-| 8574 | República Centroafricana | /re.'pu.bli.ka θen.tɾoa.fɾi.'ka.na/ | sf |
-| 8577 | República Checa | /re.'pu.bli.ka 'ʧe.ka/ | sf |
-| 8576 | República Dominicana | /re.'pu.bli.ka ðo.mi.ɲi.'kana/ | sf |
-| 8255 | Ruanda | /ru.'an.da/ | sf |
-| 8186 | Rumanía | /ru.ma.'ni.a/ | sf |
-| 8333 | Rusia | /'ru.sja/ | sf |
-| 8581 | Samoa | /'sa.mo.a/ | sf |
-| 8284 | San Cristóbal y Nieves | /san kɾis.'to.βal i 'nie.βes/ | smp |
-| 8187 | San Marino | /san ma.'ɾi.no/ | sm |
-| 8282 | San Vicente y las Granadinas | /san βi.'θen.te i las ɣɾa.na.'ði.nas/ | smp |
-| 8279 | Santa Lucía | /san.ta lu.'si.a/ | sf |
-| 7009 | Santo Tomé y Príncipe | /san.to to.'me i 'pɾin.si.pe/ | smp |
-| 8587 | Senegal | /se.'ne.ɣal/ | sm |
-| 8191 | Serbia | /'seɾ.bja/ | sf |
-| 8589 | Serbia | /'seɾ.bja/ | sf |
-| 8590 | Seychelles | /se.'ʧe.ʎes/ | sfp |
-| 8588 | Sierra Leona | /'θe.ʎa le.'o.na/ | sf |
-| 8591 | Singapur | /sin.ga.'puɾ/ | sm |
-| 8245 | Siria | /si.'ɾja/ | sf |
-| 8593 | Somalia | /so.'ma.li.a/ | sf |
-| 8594 | Sri Lanka | /sɾi 'laŋ.ka/ | sm |
-| 8435 | Sudáfrica | /su.'ða.fɾi.ka/ | sf |
+| 8596 | Sudán | /su.'ðan/ | sm |
+| 8253 | Sudán del Sur | /su.'ðan del suɾ/ | sm |
+| 8334 | Suecia | /'swe.θja/ | sf |
+| 8599 | Suiza | /'swi.θa/ | sf |
+| 8290 | Surinam | /su.ɾi.'nam/ | sm |
+| 8601 | Tailandia | /tai.'lan.di.a/ | sf |
+| 8250 | Tanzania | /tan.'θja/ | sf |
+| 8602 | Tayikistán | /ta.i.kis.'tan/ | sm |
+| 7006 | Timor Oriental | /ti.'moɾ oɾjen.'tal/ | sm |
+| 8605 | Togo | /'to.ɣo/ | sm |
+| 8606 | Tonga | /'to.ŋa/ | sm |
+| 8607 | Trinidad y Tobago | /tɾini.'ðað i to.'βa.ɣo/ | smp |
+| 8246 | Túnez | /'tu.neθ/ | sm |
+| 8609 | Turkmenistán | /tuɾk.me.nis.'tan/ | sm |
+| 8193 | Turquía | /tuɾ.'kja/ | sf |
+| 8611 | Tuvalu | /tu.'βa.lu/ | sm |
+| 8612 | Ucrania | /u.'kɾa.nja/ | sf |
+| 8251 | Uganda | /u.'ɣan.da/ | sf |
+| 8220 | Uruguay | /uɾu.'ɣwai/ | sm |
+| 8615 | Uzbekistán | /uβ.kez.'tan/ | sm |
+| 8616 | Vanuatu | /βa.'na.ðu/ | sm |
+| 8197 | Vaticano | /βa.'ti.ka.no/ | sm |
+| 8213 | Venezuela | /be.ne.'swela/ | sf |
+| 8619 | Vietnam | /bi.je.'nam/ | sm |
+| 8504 | Yemen | /'ʝe.men/ | sm |
+| 8473 | Yibuti | /ʝi.'bu.ti/ | sm |
+| 8249 | Zambia | /'θam.bja/ | sf |
+| 8248 | Zimbabue | /θim.ba.'βwe/ | sm |
+| 8288 | Guayana Francesa | /ɣwa.'ʝa.na fɾan.'θe.sa/ | sf |
 
 
 Here is the filled markdown table with the missing values:
@@ -265,4 +261,32 @@ Here is the filled markdown table with the missing values:
 | 8594 | Sri Lanka | /sɾi 'laŋ.ka/ | sm |
 | 8435 | Sudáfrica | /su.'ða.fɾi.ka/ | sf |
 | 8559 | Omán | /o.'man/ | sm |
-
+| 8596 | Sudán | /su.'ðan/ | sm |
+| 8253 | Sudán del Sur | /su.'ðan del suɾ/ | sm |
+| 8334 | Suecia | /'swe.θja/ | sf |
+| 8599 | Suiza | /'swi.θa/ | sf |
+| 8290 | Surinam | /su.ɾi.'nam/ | sm |
+| 8601 | Tailandia | /tai.'lan.di.a/ | sf |
+| 8250 | Tanzania | /tan.'θja/ | sf |
+| 8602 | Tayikistán | /ta.i.kis.'tan/ | sm |
+| 7006 | Timor Oriental | /ti.'moɾ oɾjen.'tal/ | sm |
+| 8605 | Togo | /'to.ɣo/ | sm |
+| 8606 | Tonga | /'to.ŋa/ | sm |
+| 8607 | Trinidad y Tobago | /tɾini.'ðað i to.'βa.ɣo/ | smp |
+| 8246 | Túnez | /'tu.neθ/ | sm |
+| 8609 | Turkmenistán | /tuɾk.me.nis.'tan/ | sm |
+| 8193 | Turquía | /tuɾ.'kja/ | sf |
+| 8611 | Tuvalu | /tu.'βa.lu/ | sm |
+| 8612 | Ucrania | /u.'kɾa.nja/ | sf |
+| 8251 | Uganda | /u.'ɣan.da/ | sf |
+| 8220 | Uruguay | /uɾu.'ɣwai/ | sm |
+| 8615 | Uzbekistán | /uβ.kez.'tan/ | sm |
+| 8616 | Vanuatu | /βa.'na.ðu/ | sm |
+| 8197 | Vaticano | /βa.'ti.ka.no/ | sm |
+| 8213 | Venezuela | /be.ne.'swela/ | sf |
+| 8619 | Vietnam | /bi.je.'nam/ | sm |
+| 8504 | Yemen | /'ʝe.men/ | sm |
+| 8473 | Yibuti | /ʝi.'bu.ti/ | sm |
+| 8249 | Zambia | /'θam.bja/ | sf |
+| 8248 | Zimbabue | /θim.ba.'βwe/ | sm |
+| 8288 | Guayana Francesa | /ɣwa.'ʝa.na fɾan.'θe.sa/ | sf |

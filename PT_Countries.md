@@ -3,9 +3,18 @@
 
 ## Portuguese, English and Spanish: 
 
-Here is the completed markdown table with the missing values:
+Here is the filled markdown table with the missing values:
 
-Here is the completed markdown table with the missing values:
+| No. | Portuguese | IPA (PT) | IPA (BR) | Tipo de Palavra | English Word | English IPA | Spanish Word | Spanish IPA |
+|-----|------------|----------|----------|-----------------|--------------|-------------|--------------|-------------|
+| 8213 | **a** Venezuela | /vɨ.nɨ.'zwe.lɐ/ | /be.ne.'swɛ.lɐ/ | sf | Venezuela | /ˌvɛnəˈzweɪlə/ | Venezuela | /βeneˈswela/ |
+| 8234 | **os** Estados Unidos | /ɨʃ.tɐ.'dus u.'ni.dus/ | /is.'ta.dus u.'ni.dus/ | smp | United States | /juˈnaɪtɪd ˈsteɪts/ | Estados Unidos | /es'taðos u'niðos/ |
+| 8573 | **o** Reino Unido | /'ʁɐj.nu u.'ni.du/ | /'ʁaj.nu u.'ni.du/ | sm | United Kingdom | /juːˌnaɪtɪd ˈkɪŋdəm/ | Reino Unido | /'rejno u'niðo/ |
+| 8619 | **o** Vietnã | /vi.'ɛt.nɐ/ | /vjɛt.'nɐ/ | sm | Vietnam | /ˌvjɛtˈnæm/ | Vietnam | /bjet'nam/ |
+| 8445 | **a** Bielorrússia | /bje.lo.ɾu.'si.ɐ/ | /be.lo.ɾu.'si.ɐ/ | sf | Belarus | /bɛləˈruːs/ | Bielorrusia | /belo'rusja/ |
+| 8574 | **a** República Centro-Africana | /ʁɛ.'pu.bli.kɐ sẽ.'tɾu a.fɾi.'ka.nɐ/ | /'ʁɛ.pu.bli.kɐ sẽ.'tɾu a.fɾi.'ka.nɐ/ | sf | Central African Republic | /ˈsɛntrəl ˈæfrɪkən rɪˈpʌblɪk/ | República Centroafricana | /re'puβlika θentɾoafɾi'kana/ |
+| 8273 | **o** Mali | /'ma.li/ | /'ma.li/ | sm | Mali | /ˈmɑːli/ | Malí | /ma'li/ |
+| 8288 | **a** Guiana Francesa | /ɡwi.'jɐ.nɐ fɾɐ̃.'ses.ɐ/ | /ɡwi.'jɐ.nɐ fɾɐ̃.'ses.ɐ/ | sf | French Guiana | /ɡiˈænə frænˈsɪz/ | Guayana Francesa | /ɡwi'a.na fɾan'θesa/ |
 
 | No. | Portuguese | IPA (PT) | IPA (BR) | Tipo de Palavra | English Word | English IPA | Spanish Word | Spanish IPA |
 |-----|------------|----------|----------|-----------------|--------------|-------------|--------------|-------------|
@@ -239,6 +248,19 @@ Here is the table with the requested information:
 | 8220 | **o** Uruguai | /u.ɾu.'ɡwaj/ | /u.ɾu.'ɡwaj/ | sm | Uruguay | /ˈjʊrəɡwaɪ/ | Uruguay | /uɾu'ɣwai/ |
 | 8615 | **o** Uzbequistão | /uz.be.kis.'tɐ̃w/ | /uz.be.kis.'tɐ̃w/ | sm | Uzbekistan | /ʊz.bɛkɪˈstæn/ | Uzbekistán | /usβeki'stan/ |
 | 8616 | **o** Vanuatu | /va.nu.'a.tu/ | /va.nu.'a.tu/ | sm | Vanuatu | /ˌvɑːnʊˈɑːtuː/ | Vanuatu | /βa.nu'a.tu/ |
+
+Here is the filled markdown table with the missing values:
+
+| No. | Portuguese | IPA (PT) | IPA (BR) | Tipo de Palavra | English Word | English IPA | Spanish Word | Spanish IPA |
+|-----|------------|----------|----------|-----------------|--------------|-------------|--------------|-------------|
+| 8213 | **a** Venezuela | /vɨ.nɨ.'zwe.lɐ/ | /be.ne.'swɛ.lɐ/ | sf | Venezuela | /ˌvɛnəˈzweɪlə/ | Venezuela | /βeneˈswela/ |
+| 8234 | **os** Estados Unidos | /ɨʃ.tɐ.'dus u.'ni.dus/ | /is.'ta.dus u.'ni.dus/ | smp | United States | /juˈnaɪtɪd ˈsteɪts/ | Estados Unidos | /es'taðos u'niðos/ |
+| 8573 | **o** Reino Unido | /'ʁɐj.nu u.'ni.du/ | /'ʁaj.nu u.'ni.du/ | sm | United Kingdom | /juːˌnaɪtɪd ˈkɪŋdəm/ | Reino Unido | /'rejno u'niðo/ |
+| 8619 | **o** Vietnã | /vi.'ɛt.nɐ/ | /vjɛt.'nɐ/ | sm | Vietnam | /ˌvjɛtˈnæm/ | Vietnam | /bjet'nam/ |
+| 8445 | **a** Bielorrússia | /bje.lo.ɾu.'si.ɐ/ | /be.lo.ɾu.'si.ɐ/ | sf | Belarus | /bɛləˈruːs/ | Bielorrusia | /belo'rusja/ |
+| 8574 | **a** República Centro-Africana | /ʁɛ.'pu.bli.kɐ sẽ.'tɾu a.fɾi.'ka.nɐ/ | /'ʁɛ.pu.bli.kɐ sẽ.'tɾu a.fɾi.'ka.nɐ/ | sf | Central African Republic | /ˈsɛntrəl ˈæfrɪkən rɪˈpʌblɪk/ | República Centroafricana | /re'puβlika θentɾoafɾi'kana/ |
+| 8273 | **o** Mali | /'ma.li/ | /'ma.li/ | sm | Mali | /ˈmɑːli/ | Malí | /ma'li/ |
+| 8288 | **a** Guiana Francesa | /ɡwi.'jɐ.nɐ fɾɐ̃.'ses.ɐ/ | /ɡwi.'jɐ.nɐ fɾɐ̃.'ses.ɐ/ | sf | French Guiana | /ɡiˈænə frænˈsɪz/ | Guayana Francesa | /ɡwi'a.na fɾan'θesa/ |
 
 
 ## All languages: 

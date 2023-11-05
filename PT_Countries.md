@@ -5,34 +5,45 @@
 
 Here is the completed table with the missing values:
 
+Sure, here is the completed table with the missing values:
+
 | No. | Portuguese | IPA (PT) | IPA (BR) | Tipo de Palavra | English Word | English IPA | Spanish Word | Spanish IPA |
 |-----|------------|----------|----------|-----------------|--------------|-------------|--------------|-------------|
-| 8182 | **a** Croácia | /kɾo.'ɐ.si.ɐ/ | /kɾɔ.'a.si.ɐ/ | sf | Croatia | /kroʊˈeɪʃə/ | Croacia | /kro'aθja/ |
-| 8194 | **a** Malta | /'maw.tɐ/ | /'maɫ.tɐ/ | sf | Malta | /ˈmɒltə/ | Malta | /'malta/ |
-| 8194 | **a** Malta | /'maw.tɐ/ | /'maɫ.tɐ/ | sf | Malta | /ˈmɒltə/ | Malta | /'malta/ |
-| 8185 | **o** Mónaco | /'mo.nɐ.ku/ | /'mo.na.ku/ | sm | Monaco | /ˈmɒnəkoʊ/ | Mónaco | /'monako/ |
-| 8195 | **o** Montenegro | /mõ.te.'ne.ɡɾu/ | /mõ.te.'ne.ɡɾu/ | sm | Montenegro | /ˌmɒntɪˈneɪɡroʊ/ | Montenegro | /monte'neɡɾo/ |
-| 8190 | **a** Macedónia do Norte | /mɐ.sɨ'do.ni.ɐ du 'noɾ.tɨ/ | /ma.sɨ'do.ni.ɐ du 'noɾ.tʃi/ | sf | North Macedonia | /ˌnɔːrθ ˌmæsɪˈdoʊniə/ | Macedonia del Norte | /maθe'ðonja ðel 'norte/ |
-| 7001 | **o** Portugal | /puɾ.tu'ɣaɫ/ | /poɾ.tu'ɡaɫ/ | sm | Portugal | /ˈpɔːtʃəɡəl/ | Portugal | /poɾtu'ɣal/ |
-| 8186 | **a** Roménia | /ʁɔ.'mɛ.ni.ɐ/ | /ʁɔ.'mɛ.ni.ɐ/ | sf | Romania | /roʊˈmeɪniə/ | Rumanía | /ɾuma'ni.a/ |
-| 8187 | **São** Marino | /sɐ̃w̃ mɐ.'ɾi.nu/ | /sɐ̃w̃ mɐ.'ɾi.nu/ | sm | San Marino | /ˌsæn məˈriːnoʊ/ | San Marino | /san ma'ɾino/ |
-| 8191 | **a** Sérvia | /'sɛɾ.vi.ɐ/ | /'sɛɾ.vi.ɐ/ | sf | Serbia | /ˈsɜːrbiə/ | Serbia | /'seɾβja/ |
-| 8188 | **a** Eslovénia | /ɨs.lo'vɛ.ni.ɐ/ | /is.lo'vɛ.ni.ɐ/ | sf | Slovenia | /sləˈviːniə/ | Eslovenia | /eslo'βenja/ |
-| 8189 | **a** Espanha | /ɨʃ.'pɐ.ɲɐ/ | /is.'pa.ɲɐ/ | sf | Spain | /speɪn/ | España | /es'paɲa/ |
-| 8192 | **o** Chipre | /ʃi.'pɾi/ | /ʃi.'pɾi/ | sm | Cyprus | /ˈsaɪprəs/ | Chipre | /'ʧipɾe/ |
-| 8575 | **o** Congo | /'kõ.ɡu/ | /'kõ.ɡu/ | sm | Congo | /ˈkɒŋɡoʊ/ | Congo | /'koŋɡo/ |
-| 8197 | **o** Vaticano | /vɐ.ti'ka.nu/ | /va.ti'ka.nu/ | sm | Vatican | /ˈvætɪkən/ | Vaticano | /βati'kano/ |
-| 8335 | **a** Alemanha | /ɐ.lɨ'mɐ.ɲɐ/ | /a.lɨ'ma.ɲɐ/ | sf | Germany | /ˈdʒɜːməni/ | Alemania | /ale'manja/ |
-| 8193 | **a** Turquia | /tuɾ'ki.ɐ/ | /tuɾ'ki.ɐ/ | sf | Turkey | /ˈtɜːrki/ | Turquía | /tuɾ'kia/ |
-| 8474 | **a** Dominica | /du.mi'njikɐ/ | /do.mi'nika/ | sf | Dominica | /ˌdɒmɪˈniːkə/ | Dominica | /do'minika/ |
-| 8576 | **a** República Dominicana | /ʁɛ'publikɐ du.mi.ni'kɐnɐ/ | /ʁɛ'publikɐ do.mi.ni'kɐnɐ/ | sf | Dominican Republic | /dəˌmɪnɪkən rɪˈpʌblɪk/ | República Dominicana | /re'puβlika ðo.mi'nikana/ |
-| 8473 | **o** Djibouti | /ʒi.bu'ti/ | /dʒi.bu'ti/ | sm | Djibouti | /dʒɪˈbuːti/ | Yibuti | /ʒi'βuti/ |
-| 8214 | **o** Equador | /e.kwɐ'doɾ/ | /e.kwa'doʁ/ | sm | Ecuador | /ˈɛkwədɔːr/ | Ecuador | /ekwa'ðoɾ/ |
-| 8206 | **o** El Salvador | /ɨw sɐɫ.'va.doɾ/ | /ɛw sɐɫ.'va.doɾ/ | sm | El Salvador | /ɛl ˈsælvədɔːr/ | El Salvador | /el salβa'ðoɾ/ |
-| 8261 | **a** Costa do Marfim | /'kɔʃ.tɐ du mɐɾ.'fĩ/ | /'kɔs.tɐ du mɐɾ.'fĩ/ | sf | Ivory Coast | /ˈaɪvri koʊst/ | Costa de Marfil | /'kosta ðe maɾ'fil/ |
-| 8331 | **a** Inglaterra | /ĩ.ɡɫɐ'tɛ.ʁɐ/ | /ĩ.ɡɫɐ'tɛ.ʁɐ/ | sf | England | /ˈɪŋɡlənd/ | Inglaterra | /iŋɡla'tera/ |
-| 8262 | **a** Eritreia | /ɨ.ɾi'tɾɐ.i.ɐ/ | /e.ɾi'tɾɛ.i.ɐ/ | sf | Eritrea | /ˌɛrɪˈtreɪə/ | Eritrea | /eritɾe'a/ |
-
+| 8483 | **a** Estônia | /is.'tɔ.ni.ɐ/ | /is.'tɔ.ni.ɐ/ | sf | Estonia | /ɛsˈtoʊniə/ | Estonia | /es'toɲa/ |
+| 8595 | **a** Suazilândia | /swa.zi'lɐ̃.di.ɐ/ | /swa.zi'lɐ̃.di.ɐ/ | sf | Eswatini | /ɛˈswɑːtɪni/ | Esuatini | /eswati'ni/ |
+| 8485 | **as** Fiji | /'fi.ʒi/ | /'fi.ʒi/ | sfp | Fiji | /ˈfiːdʒi/ | Fiyi | /'fiʒi/ |
+| 8487 | **a** Finlândia | /fi.nɫɐ̃'di.ɐ/ | /fi.nɫɐ̃'di.ɐ/ | sf | Finland | /ˈfɪnlənd/ | Finlandia | /fino'landja/ |
+| 8330 | **a** França | /'fɾɐ̃.sɐ/ | /'fɾɐ̃.sɐ/ | sf | France | /fræns/ | Francia | /'fɾanθja/ |
+| 8264 | **o** Gabão | /gɐ.'bɐ̃w̃/ | /ga.'bɐ̃w̃/ | sm | Gabon | /ɡəˈbɒn/ | Gabón | /ga'βon/ |
+| 8265 | **a** Gâmbia | /'ɡɐ̃.bi.ɐ/ | /'ɡɐ̃.bi.ɐ/ | sf | Gambia | /ˈɡæmbiə/ | Gambia | /ɡam'bia/ |
+| 8492 | **a** Geórgia | /ʒi.'oɾ.ʒi.ɐ/ | /ʒi.'oʁ.ʒi.ɐ/ | sf | Georgia | /ˈdʒɔːrdʒə/ | Georgia | /xje'ɔrdʒja/ |
+| 8491 | **o** Gana | /'ɡɐ.nɐ/ | /'ɡɐ.nɐ/ | sm | Ghana | /ˈɡɑːnə/ | Ghana | /'ɡana/ |
+| 8281 | **a** Granada | /ɡɾɐ.'nadɐ/ | /ɡɾɐ.'nadɐ/ | sf | Grenada | /ɡrɪˈneɪdə/ | Granada | /ɡɾa'nada/ |
+| 8199 | **a** Guatemala | /ɡwɐ.tɛ'ma.ɫɐ/ | /ɡwa.tɛ'ma.ɫɐ/ | sf | Guatemala | /ˌɡwɑːtəˈmɑːlə/ | Guatemala | /gwate'mala/ |
+| 8497 | **a** Guiné | /ɡi.'ne/ | /ɡi.'ne/ | sf | Guinea | /ˈɡɪni/ | Guinea | /gi'nea/ |
+| 7005 | **a** Guiné-Bissau | /ɡi.'ne bi.'saw/ | /ɡi.'ne bi.'saw/ | sf | Guinea-Bissau | /ˈɡɪni bɪˈsaʊ/ | Guinea-Bisáu | /ɡi'nea bi'saw/ |
+| 8496 | **a** Guiana | /ɡi.'ɐ.nɐ/ | /ɡi.'a.nɐ/ | sf | Guyana | /ɡaɪˈænə/ | Guayana | /ɡwa'ʒana/ |
+| 8221 | **o** Haiti | /a.'i.ti/ | /a.'i.ti/ | sm | Haiti | /ˈheɪti/ | Haití | /ai'ti/ |
+| 8502 | **a** Honduras | /õ.'du.ɾɐs/ | /õ.'do.ɾɐs/ | sf | Honduras | /hɒnˈdʊərəs/ | Honduras | /on'duɾas/ |
+| 8508 | **a** Índia | /'ĩ.di.ɐ/ | /'ĩ.dʒi.ɐ/ | sf | India | /ˈɪndiə/ | India | /'indja/ |
+| 8509 | **a** Indonésia | /ĩ.do.'ne.zi.ɐ/ | /ĩ.do.'ne.zi.ɐ/ | sf | Indonesia | /ˌɪndəˈniːʒə/ | Indonesia | /indone'zia/ |
+| 8512 | **o** Iraque | /i.'ɾɐ.kɨ/ | /i.'ɾa.kɨ/ | sm | Iraq | /ɪˈræk/ | Iraq | /i'ɾak/ |
+| 8511 | **o** Irã | /i.ˈɾɐ̃w̃/ | /i.'ɾɐ̃w̃/ | sm | Iran | /ɪˈrɑːn/ | Irán | /i'ɾan/ |
+| 8513 | **a** Irlanda | /iɾ.'lɐ̃.dɐ/ | /iɾ.'lɐ̃.dɐ/ | sf | Ireland | /ˈaɪərlənd/ | Irlanda | /ir'landa/ |
+| 8514 | **a** Islândia | /iz.'lɐ̃.dʒi.ɐ/ | /iz.'lɐ̃.dʒi.ɐ/ | sf | Iceland | /ˈaɪslənd/ | Islandia | /izlan'dja/ |
+| 8515 | **Israel** | /is.ɾɐ'ɛɫ/ | /is.ɾa'ɛw/ | /is.ɾa'ɛl/ | sm | Israel | /ˈɪzreɪəl/ | Israel | /isra'el/ |
+| 8275 | **a** Jamaica | /ʒɐ.'mɐj.kɐ/ | /ʒa.'maj.kɐ/ | sf | Jamaica | /dʒəˈmeɪkə/ | Jamaica | /ʒa'majka/ |
+| 8329 | **o** Japão | /ʒɐ.'pɐ̃w̃/ | /ʒa.'pɐ̃w̃/ | sm | Japan | /dʒəˈpæn/ | Japón | /xa'pon/ |
+| 8504 | **o** Iêmen | /i.'jɛ.mẽ/ | /i.'jɛ.mẽ/ | sm | Yemen | /ˈjɛmən/ | Yemen | /i'ɛmen/ |
+| 8238 | **a** Jordânia | /ʒoɾ.'dɐ.ni.ɐ/ | /ʒoɾ.'dɐ.ni.ɐ/ | sf | Jordan | /ˈdʒɔːrdən/ | Jordania | /xoɾða'nia/ |
+| 8456 | **o** Camboja | /kɐ̃m.'bo.ʒɐ/ | /kɐ̃m.'bo.ʒɐ/ | sm | Cambodia | /ˈkæmbəʊdɪə/ | Camboya | /kam'boʒa/ |
+| 8455 | **os** Camarões | /kɐ.mɐ.'ɾõj̃ʃ/ | /kɐ.mɐ.'ɾõj̃ʃ/ | smp | Cameroon | /kæməˈruːn/ | Camerún | /kame'run/ |
+| 8235 | **o** Canadá | /kɐ.nɐ.'dɐ/ | /kɐ.nɐ.'da/ | sm | Canada | /ˈkænədə/ | Canadá | /ka.na'da/ |
+| 7008 | **o** Cabo Verde | /'kabu 'veɾ.ðɨ/ | /'kabu 'veɾ.ðʒi/ | sm | Cape Verde | /ˌkeɪp ˈvɜːrd/ | Cabo Verde | /'kaβu 'βeɾðe/ |
+| 8459 | **o** Cazaquistão | /kɐ.zɐ.kis.'tɐ̃w̃/ | /kɐ.zɐ.kis.'tɐ̃w̃/ | sm | Kazakhstan | /ˌkæzəkˈstɑːn/ | Kazajistán | /kazaχis'tan/ |
+| 8458 | **o** Catar | /kɐ.'taɾ/ | /ka.'taʁ/ | sm | Qatar | /ˈkɑːtɑːr/ | Catar | /ka'taɾ/ |
+| 8268 | **o** Quênia | /'kɛ.njɐ/ | /'kɛ.njɐ/ | sm | Kenya | /ˈkɛnjə/ | Kenia | /'kenja/ |
+| 8572 | **o** Quirguistão | /kiɾ.ɡiʃ.'tɐ̃w̃/ | /kiʁ.ɡiʃ.'tɐ̃w̃/ | sm | Kyrgyzstan | /ˌkɜrɡɪˈstɑːn/ | Kirguistán | /kiɾɡis'tan/ |
 
 Here is the table with the requested information:
 
@@ -98,52 +109,46 @@ Here is the table with the requested information:
 | 8331 | **a** Inglaterra | /ĩ.ɡɫɐ'tɛ.ʁɐ/ | /ĩ.ɡɫɐ'tɛ.ʁɐ/ | sf | England | /ˈɪŋɡlənd/ | Inglaterra | /iŋɡla'tera/ |
 | 8262 | **a** Eritreia | /ɨ.ɾi'tɾɐ.i.ɐ/ | /e.ɾi'tɾɛ.i.ɐ/ | sf | Eritrea | /ˌɛrɪˈtreɪə/ | Eritrea | /eritɾe'a/ |
 
-
-Here is the table with the requested information:
-
 | No. | Portuguese | IPA (PT) | IPA (BR) | Tipo de Palavra | English Word | English IPA | Spanish Word | Spanish IPA |
 |-----|------------|----------|----------|-----------------|--------------|-------------|--------------|-------------|
-| 8434 | **o** Afeganistão | /ɐfɨɡɐ̃'nistãw/ | /a.fɨ.ɡɐ̃'nis.tɐ̃w/ | sm | Afghanistan | /æfəˈɡænɪstæn/ | Afganistán | /afɣani'stan/ |
-| 8435 | **a** África do Sul | /'a.fɾi.kɐ du 'suw/ | /'a.fɾi.kɐ du 'suw/ | sf | South Africa | /saʊθ 'æfrɪkə/ | Sudáfrica | /su'ðafɾika/ |
-| 8436 | **a** Alemanha | /ɐ.lɨ'mɐɲ.ɲɐ/ | /a.le'ma.ɲa/ | sf | Germany | /ˈdʒɜːrməni/ | Alemania | /ale'manja/ |
-| 8437 | **a** Arábia Saudita | /ɐ'ɾabi.ɐ saw'di.tɐ/ | /a'ɾa.bja sau'di.ta/ | sf | Saudi Arabia | /ˌsɔːdɪ əˈreɪbiə/ | Arabia Saudita | /a'ɾaβja sau'dita/ |
-| 8438 | **a** Argélia | /ɐɾ'ʒe.li.ɐ/ | /aɾ'xɛ.li.a/ | sf | Algeria | /ælˈdʒɪəriə/ | Argelia | /ar'xelja/ |
-| 8439 | **a** Argentina | /ɐɾxẽ'tin.ɐ/ | /aɾxen'ti.na/ | sf | Argentina | /ˌɑːrdʒənˈtiːnə/ | Argentina | /aɾxen'tina/ |
-| 8440 | **a** Armênia | /ɐɾ'men.jɐ/ | /aɾ'me.nja/ | sf | Armenia | /ɑːrˈmiːniə/ | Armenia | /ar'mɛnja/ |
-| 8441 | **a** Austrália | /aws'tɾa.li.ɐ/ | /aws'tɾa.li.a/ | sf | Australia | /ɒˈstreɪliə/ | Australia | /aws'tralja/ |
-| 8442 | **a** Áustria | /ɐw'stɾi.ɐ/ | /a.wis'tɾi.a/ | sf | Austria | /ˈɒstriə/ | Austria | /aws'tri.a/ |
-| 8443 | **o** Azerbaijão | /azɨɾbɐj'ʒɐ̃w/ | /azɨɾbɐ'ʒɐ̃w/ | sm | Azerbaijan | /ˌæzərbaɪˈdʒɑːn/ | Azerbaiyán | /azbeɾbaj'jan/ |
-| 8444 | **as** Bahamas | /bɐ.'ɲɐ.mɐʃ/ | /ba.'ɲa.mas/ | sfp | Bahamas | /bəˈhɑːməz/ | Bahamas | /ba'amas/ |
-| 8445 | **a** Bielorrússia | /bje.lu'ʁus.jɐ/ | /bje.lu'rus.ja/ | sf | Belarus | /bɛləˈrʊs/ | Bielorrusia | /belo'rrusja/ |
-| 8446 | **a** Bolívia | /bo'livi.ɐ/ | /bo'li.vjɐ/ | sf | Bolivia | /bəˈlɪviə/ | Bolivia | /boˈlivia/ |
-| 8447 | **o** Botsuana | /bɔt.su'ɐ.nɐ/ | /botsu'ɐ.na/ | sm | Botswana | /bɒtˈswɑːnə/ | Botsuana | /botsu'ana/ |
-| 8448 | **o** Brasil | /bɾɐ'ziw/ | /bɾa'ziw/ | sm | Brazil | /brəˈzɪl/ | Brasil | /bra'zil/ |
-| 8449 | **o** Brunei | /bɾu'nej/ | /bɾu'nei/ | sm | Brunei | /bruːˈnaɪ/ | Brunéi | /bru'nei/ |
-| 8450 | **a** Bulgária | /buɫ'ɡa.ɾi.ɐ/ | /buɫ'ɡa.ɾja/ | sf | Bulgaria | /bʌlˈɡɛəriə/ | Bulgaria | /bul'ɡarja/ |
-| 8451 | **o** Burkina Faso | /buɾ'kina 'fasu/ | /buɾ'kina 'faso/ | sm | Burkina Faso | /bɜːrˈkiːnə ˈfɑːsoʊ/ | Burkina Faso | /bur'kina 'faso/ |
-| 8452 | **o** Burundi | /bu.ɾũ'di/ | /bu'rũ.di/ | sm | Burundi | /bəˈrʊndi/ | Burundi | /bu'rundi/ |
-| 8453 | **o** Butão | /bu'tɐ̃w/ | /bu'tɐ̃w̃/ | sm | Bhutan | /buːˈtɑːn/ | Bután | /bu'tan/ |
-| 8454 | **o** Cabo Verde | /'kabu 'veɾ.ðɨ/ | /'kabu 'veɾ.ðʒi/ | sm | Cape Verde | /ˌkeɪp ˈvɜːrd/ | Cabo Verde | /'kabo 'verde/ |
-| 8455 | **os** Camarões | /kɐ.mɐ'ɾõj̃ʃ/ | /ka.ma'ɾõj̃s/ | smp | Cameroon | /kæməˈruːn/ | Camerún | /kame'runs/ |
-| 8456 | **o** Camboja | /kɐ̃'bo.ʒɐ/ | /kɐ̃'bo.ʒɐ/ | sm | Cambodia | /kæmˈboʊdiə/ | Camboya | /kam'boja/ |
-| 8457 | **o** Canadá | /kɐ.nɐ'da/ | /ka.na'da/ | sm | Canada | /ˈkænədə/ | Canadá | /kana'da/ |
-| 8458 | **o** Catar | /kɐ.'taɾ/ | /ka.'taʁ/ | sm | Qatar | /ˈkætɑːr/ | Catar | /ka'tar/ |
-| 8459 | **o** Cazaquistão | /kɐ.zɐ.kis.tɐ̃w/ | /ka.zɐ.kis'tɐ̃w/ | sm | Kazakhstan | /ˌkæzəkˈstɑːn/ | Kazajistán | /kaθa.xis'tan/ |
-| 8460 | **o** Chade | /ʃa.dɨ/ | /ʃa.dʒi/ | sm | Chad | /tʃæd/ | Chad | /tʃad/ |
-| 8461 | **o** Chile | /'ʃi.li/ | /'ʃi.li/ | sm | Chile | /ˈtʃɪli/ | Chile | /'tʃile/ |
-| 8462 | **a** China | /'ʃi.nɐ/ | /'ʃi.na/ | sf | China | /ˈtʃaɪnə/ | China | /'kiːna/ |
-| 8463 | **o** Chipre | /'ʃi.pɾɨ/ | /'ʃi.pɾi/ | sm | Cyprus | /ˈsaɪprəs/ | Chipre | /'tʃipre/ |
-| 8464 | **a** Colômbia | /ku'lõmb.jɐ/ | /ko'lõm.bi.ɐ/ | sf | Colombia | /kəˈlʌmbiə/ | Colombia | /ko'lombja/ |
-| 8465 | **as** Comores | /ku'mo.ɾɨʃ/ | /ko'mo.ɾɨʃ/ | sfp | Comoros | /ˈkɒmərəʊz/ | Comoras | /ko'moɾas/ |
-| 8466 | **o** Congo | /'kõ.ɡu/ | /'kõ.ɡu/ | sm | Congo | /ˈkɒŋɡəʊ/ | Congo | /'koŋɡo/ |
-| 8467 | **a** Coreia do Norte | /ko'ɾej.ɐ du 'nɔh.tɨ/ | /ko'ɾej.ɐ du 'nɔh.tʃi/ | sf | North Korea | /nɔːrθ kəˈriə/ | Corea del Norte | /ko'rea ðel 'norte/ |
-| 8468 | **a** Coreia do Sul | /ko'ɾej.ɐ du suw/ | /ko'ɾej.ɐ du suw/ | sf | South Korea | /saʊθ kəˈriə/ | Corea del Sur | /ko'rea ðel 'sur/ |
-| 8469 | **a** Costa do Marfim | /'kɔʃ.tɐ du 'maɾ.fĩ/ | /'kɔʃ.tɐ du 'maɾ.fĩ/ | sf | Ivory Coast | /ˈaɪvri koʊst/ | Costa de Marfil | /'kosta ðe maɾ'fil/ |
-| 8470 | **a** Costa Rica | /'kɔʃ.tɐ 'hi.kɐ/ | /'kɔʃ.tɐ 'ɾi.ka/ | sf | Costa Rica | /ˌkoʊstə ˈriːkə/ | Costa Rica | /'kosta 'rika/ |
-| 8471 | **a** Croácia | /kɾo'a.si.ɐ/ | /kɾo'a.si.ɐ/ | sf | Croatia | /kroʊˈeɪʃə/ | Croacia | /kro'aθja/ |
-| 8472 | **a** Dinamarca | /dɨ.nɐ'maɾ.kɐ/ | /dʒi.nɐ'maʁ.kɐ/ | sf | Denmark | /ˈdɛnmɑːrk/ | Dinamarca | /dina'marka/ |
-| 8473 | **o** Djibouti | /dʒi.bu'ti/ | /dʒi.bu'ti/ | sm | Djibouti | /dʒɪˈbuːti/ | Yibuti | /ʒi'buti/ |
-| 8474 | **a** Dominica | /du.mi'ni.kɐ/ | /do.mi'ni.ka/ | sf | Dominica | /ˌdɒmɪˈniːkə/ | Dominica | /do'minika/ |
+| 8483 | **a** Estônia | /is.'tɔ.ni.ɐ/ | /is.'tɔ.ni.ɐ/ | sf | Estonia | /ɛsˈtoʊniə/ | Estonia | /es'toɲa/ |
+| 8595 | **a** Suazilândia | /swa.zi'lɐ̃.di.ɐ/ | /swa.zi'lɐ̃.di.ɐ/ | sf | Eswatini | /ɛˈswɑːtɪni/ | Esuatini | /eswati'ni/ |
+| 8485 | **as** Fiji | /'fi.ʒi/ | /'fi.ʒi/ | sfp | Fiji | /ˈfiːdʒi/ | Fiyi | /'fiʒi/ |
+| 8487 | **a** Finlândia | /fi.nɫɐ̃'di.ɐ/ | /fi.nɫɐ̃'di.ɐ/ | sf | Finland | /ˈfɪnlənd/ | Finlandia | /fino'landja/ |
+| 8330 | **a** França | /'fɾɐ̃.sɐ/ | /'fɾɐ̃.sɐ/ | sf | France | /fræns/ | Francia | /'fɾanθja/ |
+| 8264 | **o** Gabão | /gɐ.'bɐ̃w̃/ | /ga.'bɐ̃w̃/ | sm | Gabon | /ɡəˈbɒn/ | Gabón | /ga'βon/ |
+| 8265 | **a** Gâmbia | /'ɡɐ̃.bi.ɐ/ | /'ɡɐ̃.bi.ɐ/ | sf | Gambia | /ˈɡæmbiə/ | Gambia | /ɡam'bia/ |
+| 8492 | **a** Geórgia | /ʒi.'oɾ.ʒi.ɐ/ | /ʒi.'oʁ.ʒi.ɐ/ | sf | Georgia | /ˈdʒɔːrdʒə/ | Georgia | /xje'ɔrdʒja/ |
+| 8491 | **o** Gana | /'ɡɐ.nɐ/ | /'ɡɐ.nɐ/ | sm | Ghana | /ˈɡɑːnə/ | Ghana | /'ɡana/ |
+| 8281 | **a** Granada | /ɡɾɐ.'nadɐ/ | /ɡɾɐ.'nadɐ/ | sf | Grenada | /ɡrɪˈneɪdə/ | Granada | /ɡɾa'nada/ |
+| 8199 | **a** Guatemala | /ɡwɐ.tɛ'ma.ɫɐ/ | /ɡwa.tɛ'ma.ɫɐ/ | sf | Guatemala | /ˌɡwɑːtəˈmɑːlə/ | Guatemala | /gwate'mala/ |
+| 8497 | **a** Guiné | /ɡi.'ne/ | /ɡi.'ne/ | sf | Guinea | /ˈɡɪni/ | Guinea | /gi'nea/ |
+| 7005 | **a** Guiné-Bissau | /ɡi.'ne bi.'saw/ | /ɡi.'ne bi.'saw/ | sf | Guinea-Bissau | /ˈɡɪni bɪˈsaʊ/ | Guinea-Bisáu | /ɡi'nea bi'saw/ |
+| 8496 | **a** Guiana | /ɡi.'ɐ.nɐ/ | /ɡi.'a.nɐ/ | sf | Guyana | /ɡaɪˈænə/ | Guayana | /ɡwa'ʒana/ |
+| 8221 | **o** Haiti | /a.'i.ti/ | /a.'i.ti/ | sm | Haiti | /ˈheɪti/ | Haití | /ai'ti/ |
+| 8502 | **a** Honduras | /õ.'du.ɾɐs/ | /õ.'do.ɾɐs/ | sf | Honduras | /hɒnˈdʊərəs/ | Honduras | /on'duɾas/ |
+| 8508 | **a** Índia | /'ĩ.di.ɐ/ | /'ĩ.dʒi.ɐ/ | sf | India | /ˈɪndiə/ | India | /'indja/ |
+| 8509 | **a** Indonésia | /ĩ.do.'ne.zi.ɐ/ | /ĩ.do.'ne.zi.ɐ/ | sf | Indonesia | /ˌɪndəˈniːʒə/ | Indonesia | /indone'zia/ |
+| 8512 | **o** Iraque | /i.'ɾɐ.kɨ/ | /i.'ɾa.kɨ/ | sm | Iraq | /ɪˈræk/ | Iraq | /i'ɾak/ |
+| 8511 | **o** Irã | /i.ˈɾɐ̃w̃/ | /i.'ɾɐ̃w̃/ | sm | Iran | /ɪˈrɑːn/ | Irán | /i'ɾan/ |
+| 8513 | **a** Irlanda | /iɾ.'lɐ̃.dɐ/ | /iɾ.'lɐ̃.dɐ/ | sf | Ireland | /ˈaɪərlənd/ | Irlanda | /ir'landa/ |
+| 8514 | **a** Islândia | /iz.'lɐ̃.dʒi.ɐ/ | /iz.'lɐ̃.dʒi.ɐ/ | sf | Iceland | /ˈaɪslənd/ | Islandia | /izlan'dja/ |
+| 8515 | **Israel** | /is.ɾɐ'ɛɫ/ | /is.ɾa'ɛw/ | /is.ɾa'ɛl/ | sm | Israel | /ˈɪzreɪəl/ | Israel | /isra'el/ |
+| 8275 | **a** Jamaica | /ʒɐ.'mɐj.kɐ/ | /ʒa.'maj.kɐ/ | sf | Jamaica | /dʒəˈmeɪkə/ | Jamaica | /ʒa'majka/ |
+| 8329 | **o** Japão | /ʒɐ.'pɐ̃w̃/ | /ʒa.'pɐ̃w̃/ | sm | Japan | /dʒəˈpæn/ | Japón | /xa'pon/ |
+| 8504 | **o** Iêmen | /i.'jɛ.mẽ/ | /i.'jɛ.mẽ/ | sm | Yemen | /ˈjɛmən/ | Yemen | /i'ɛmen/ |
+| 8238 | **a** Jordânia | /ʒoɾ.'dɐ.ni.ɐ/ | /ʒoɾ.'dɐ.ni.ɐ/ | sf | Jordan | /ˈdʒɔːrdən/ | Jordania | /xoɾða'nia/ |
+| 8456 | **o** Camboja | /kɐ̃m.'bo.ʒɐ/ | /kɐ̃m.'bo.ʒɐ/ | sm | Cambodia | /ˈkæmbəʊdɪə/ | Camboya | /kam'boʒa/ |
+| 8455 | **os** Camarões | /kɐ.mɐ.'ɾõj̃ʃ/ | /kɐ.mɐ.'ɾõj̃ʃ/ | smp | Cameroon | /kæməˈruːn/ | Camerún | /kame'run/ |
+| 8235 | **o** Canadá | /kɐ.nɐ.'dɐ/ | /kɐ.nɐ.'da/ | sm | Canada | /ˈkænədə/ | Canadá | /ka.na'da/ |
+| 7008 | **o** Cabo Verde | /'kabu 'veɾ.ðɨ/ | /'kabu 'veɾ.ðʒi/ | sm | Cape Verde | /ˌkeɪp ˈvɜːrd/ | Cabo Verde | /'kaβu 'βeɾðe/ |
+| 8459 | **o** Cazaquistão | /kɐ.zɐ.kis.'tɐ̃w̃/ | /kɐ.zɐ.kis.'tɐ̃w̃/ | sm | Kazakhstan | /ˌkæzəkˈstɑːn/ | Kazajistán | /kazaχis'tan/ |
+| 8458 | **o** Catar | /kɐ.'taɾ/ | /ka.'taʁ/ | sm | Qatar | /ˈkɑːtɑːr/ | Catar | /ka'taɾ/ |
+| 8268 | **o** Quênia | /'kɛ.njɐ/ | /'kɛ.njɐ/ | sm | Kenya | /ˈkɛnjə/ | Kenia | /'kenja/ |
+| 8572 | **o** Quirguistão | /kiɾ.ɡiʃ.'tɐ̃w̃/ | /kiʁ.ɡiʃ.'tɐ̃w̃/ | sm | Kyrgyzstan | /ˌkɜrɡɪˈstɑːn/ | Kirguistán | /kiɾɡis'tan/ |
+
+
+Here is the table with the requested information:
 
 
 ## All languages: 

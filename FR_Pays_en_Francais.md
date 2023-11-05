@@ -1,40 +1,37 @@
-Here is the completed markdown table with the French words you provided:
+Certainly, here is the completed markdown table with the French words you provided:
 
 | No.  | French Word |  with Article  | French IPA  | Word Type |
 |------|-------------|----------------|-------------|-----|
-| 8195 | Monténégro | le Monténégro | /mɔ̃tenegʁo/ | sm |
-| 7004 | Mozambique | le Mozambique | /mozɑ̃bik/ | sm |
-| 8542 | Myanmar | le Myanmar | /myanmaʁ/ | sm |
-| 8551 | Népal | le Népal | /nepal/ | sm |
-| 8207 | Nicaragua | le Nicaragua | /nikaraɡwa/ | sm |
-| 8553 | Niger | le Niger | /niʒɛʁ/ | sm |
-| 8565 | Pakistan | le Pakistan | /pakistã/ | sm |
-| 8211 | Panama | le Panama | /panama/ | sm |
-| 8217 | Paraguay | le Paraguay | /paʁaɡwaj/ | sm |
-| 8567 | Pérou | le Pérou | /peʁu/ | sm |
-| 7001 | Portugal | le Portugal | /pɔʁtuɡal/ | sm |
-| 8458 | Qatar | le Qatar | /kataʁ/ | sm |
-| 8573 | Royaume-Uni | le Royaume-Uni | /ʁwajom yn i/ | sm |
-| 8255 | Rwanda | le Rwanda | /ʁwɑ̃da/ | sm |
-| 8206 | Salvador | le Salvador | /salvadɔʁ/ | sm |
-| 8581 | Samoa | le Samoa | /samoa/ | sm |
-| 8587 | Sénégal | le Sénégal | /senegal/ | sm |
-| 8596 | Soudan | le Soudan | /sudɑ̃/ | sm |
-| 8253 | Soudan du Sud | le Soudan du Sud | /sudɑ̃ dy sud/ | sm |
-| 8594 | Sri Lanka | le Sri Lanka | /sʁi lɑ̃ka/ | sm |
-| 8290 | Surinam | le Surinam | /syʁinam/ | sm |
-| 8595 | Swaziland | le Swaziland | /swazilɑ̃d/ | sm |
-| 8602 | Tadjikistan | le Tadjikistan | /tadʒikistã/ | sm |
-| 8460 | Tchad | le Tchad | /tʃad/ | sm |
-| 7006 | Timor oriental | le Timor oriental | /timɔʁ ɔʁjɑ̃tal/ | sm |
-| 8605 | Togo | le Togo | /tɔɡo/ | sm |
-| 8609 | Turkménistan | le Turkménistan | /tyʁkmenistã/ | sm |
-| 8197 | Vatican | le Vatican | /vaticɑ̃/ | sm |
-| 8213 | Venezuela | le Venezuela | /vɛnezɥela/ | sm |
-| 8619 | Viêt Nam | le Viêt Nam | /vjɛtnam/ | sm |
-| 8504 | Yémen | le Yémen | /jɛmɛn/ | sm |
-| 8248 | Zimbabwe | le Zimbabwe | /zimbabwe/ | sm |
-
+| 8444 | Bahamas | les Bahamas | /bahamas/ | smp |
+| 8465 | Comores | les Comores | /kɔmɔʁ/ | smp |
+| 8234 | États-Unis | les États-Unis | /etazyni/ | smp |
+| 8485 | Fidji | les Fidji | /fidʒi/ | smp |
+| 8505 | Îles Cook | les Îles Cook | /il kook/ | sfp |
+| 8506 | Îles Marshall | les Îles Marshall | /il maʁʃal/ | sfp |
+| 8507 | Îles Salomon | les Îles Salomon | /il salɔmɔ̃/ | sfp |
+| 8535 | Maldives | les Maldives | /maldive/ | sfp |
+| 8560 | Pays-Bas | les Pays-Bas | /peiba/ | smp |
+| 8486 | Philippines | les Philippines | /filipin/ | sfp |
+| 8590 | Seychelles | les Seychelles | /seʃɛl/ | sfp |
+| 8606 | Tonga | les Tonga | /tɔ̃ɡa/ | smp |
+| 8611 | Tuvalu | les Tuvalu | /tyvaly/ | smp |
+| 8271 | Madagascar | Madagascar | /madagaʁ/ | sf |
+| 8194 | Malte | Malte | /malt/ | sf |
+| 8539 | Maurice | Maurice | /moʁis/ | sf |
+| 8185 | Monaco | Monaco | /mɔnako/ | sm |
+| 8550 | Nauru | Nauru | /nawʁy/ | sm |
+| 8554 | Nigéria | le Nigeria | /niʒɛʁja/ | sm |
+| 8555 | Niue | Niue | /njuɛ/ | sm |
+| 8562 | Palaos | les Palaos | /palao/ | smp |
+| 8200 | Porto Rico | Porto Rico | /poʁto ʁiko/ | sm |
+| 8284 | Saint-Christophe-et-Niévès | Saint-Christophe-et-Niévès | /sɛ̃ kʁistɔf e njɛv/ | smp |
+| 8187 | Saint-Marin | Saint-Marin | /sɛ̃ maʁɛ̃/ | sm |
+| 8282 | Saint-Vincent-et-les-Grenadines | Saint-Vincent-et-les-Grenadines | /sɛ̃ vɛ̃sɑ̃ e le ɡʁənadɛn/ | smp |
+| 8279 | Sainte-Lucie | Sainte-Lucie | /sɛ̃t lysij/ | sf |
+| 7009 | Sao Tomé-et-Principe | Sao Tomé-et-Principe | /saw tɔme e pʁɛ̃sip/ | smp |
+| 8591 | Singapour | Singapour | /sɛ̃ɡapuʁ/ | sm |
+| 8607 | Trinité-et-Tobago | Trinité-et-Tobago | /tʁinite e tobago/ | smp |
+| 8616 | Vanuatu | Vanuatu | /vanɥatu/ | sm |
 
 
 
@@ -200,6 +197,37 @@ Here is the completed markdown table with the French words you provided:
 | 8605 | Togo | le Togo | /tɔɡo/ | sm |
 | 8609 | Turkménistan | le Turkménistan | /tyʁkmenistã/ | sm |
 | 8197 | Vatican | le Vatican | /vaticɑ̃/ | sm |
+| 8444 | Bahamas | les Bahamas | /bahamas/ | smp |
+| 8465 | Comores | les Comores | /kɔmɔʁ/ | smp |
+| 8234 | États-Unis | les États-Unis | /etazyni/ | smp |
+| 8485 | Fidji | les Fidji | /fidʒi/ | smp |
+| 8505 | Îles Cook | les Îles Cook | /il kook/ | sfp |
+| 8506 | Îles Marshall | les Îles Marshall | /il maʁʃal/ | sfp |
+| 8507 | Îles Salomon | les Îles Salomon | /il salɔmɔ̃/ | sfp |
+| 8535 | Maldives | les Maldives | /maldive/ | sfp |
+| 8560 | Pays-Bas | les Pays-Bas | /peiba/ | smp |
+| 8486 | Philippines | les Philippines | /filipin/ | sfp |
+| 8590 | Seychelles | les Seychelles | /seʃɛl/ | sfp |
+| 8606 | Tonga | les Tonga | /tɔ̃ɡa/ | smp |
+| 8611 | Tuvalu | les Tuvalu | /tyvaly/ | smp |
+| 8271 | Madagascar | Madagascar | /madagaʁ/ | sf |
+| 8194 | Malte | Malte | /malt/ | sf |
+| 8539 | Maurice | Maurice | /moʁis/ | sf |
+| 8185 | Monaco | Monaco | /mɔnako/ | sm |
+| 8550 | Nauru | Nauru | /nawʁy/ | sm |
+| 8554 | Nigéria | le Nigeria | /niʒɛʁja/ | sm |
+| 8555 | Niue | Niue | /njuɛ/ | sm |
+| 8562 | Palaos | les Palaos | /palao/ | smp |
+| 8200 | Porto Rico | Porto Rico | /poʁto ʁiko/ | sm |
+| 8284 | Saint-Christophe-et-Niévès | Saint-Christophe-et-Niévès | /sɛ̃ kʁistɔf e njɛv/ | smp |
+| 8187 | Saint-Marin | Saint-Marin | /sɛ̃ maʁɛ̃/ | sm |
+| 8282 | Saint-Vincent-et-les-Grenadines | Saint-Vincent-et-les-Grenadines | /sɛ̃ vɛ̃sɑ̃ e le ɡʁənadɛn/ | smp |
+| 8279 | Sainte-Lucie | Sainte-Lucie | /sɛ̃t lysij/ | sf |
+| 7009 | Sao Tomé-et-Principe | Sao Tomé-et-Principe | /saw tɔme e pʁɛ̃sip/ | smp |
+| 8591 | Singapour | Singapour | /sɛ̃ɡapuʁ/ | sm |
+| 8607 | Trinité-et-Tobago | Trinité-et-Tobago | /tʁinite e tobago/ | smp |
+| 8616 | Vanuatu | Vanuatu | /vanɥatu/ | sm |
+
 | 8213 | Venezuela | le Venezuela | /vɛnezɥela/ | sm |
 | 8619 | Viêt Nam | le Viêt Nam | /vjɛtnam/ | sm |
 | 8504 | Yémen | le Yémen | /jɛmɛn/ | sm |

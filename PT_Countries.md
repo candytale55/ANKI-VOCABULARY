@@ -3,47 +3,40 @@
 
 ## Portuguese, English and Spanish: 
 
-Here is the completed table with the missing values:
-
-Sure, here is the completed table with the missing values:
-
 Sure, here is the completed table with the missing values:
 
 | No. | Portuguese | IPA (PT) | IPA (BR) | Tipo de Palavra | English Word | English IPA | Spanish Word | Spanish IPA |
 |-----|------------|----------|----------|-----------------|--------------|-------------|--------------|-------------|
-| 8520 | **o** Kiribati | /ki.ɾi.bɐ.'ti/ | /ki.ɾi.bɐ.'ti/ | sm | Kiribati | /ˌkɪrɪˈbæs/ | Kiribati | /kiɾi'βati/ |
-| 8464 | **a** Colômbia | /ku.'lõm.bi.ɐ/ | /ko.'lõm.bi.ɐ/ | sf | Colombia | /kəˈlʌmbiə/ | Colombia | /ko'lombja/ |
-| 8465 | **as** Comores | /ku.'mo.ɾɨʃ/ | /ko.'mo.ɾɨʃ/ | sfp | Comoros | /ˈkɒmərəʊz/ | Comoras | /ko'moɾas/ |
-| 8466 | **o** Congo | /'kõ.ɡu/ | /'kõ.ɡu/ | sm | Congo | /ˈkɒŋɡoʊ/ | Congo | /'koŋɡo/ |
-| 8239 | **o** Kuwait | /ku.'wɛjt/ | /ku.'wejt/ | sm | Kuwait | /kʊˈweɪt/ | Kuwait | /kʷeit/ |
-| 8522 | **o** Laos | /la.'us/ | /la.'us/ | sm | Laos | /laʊs/ | Laos | /la'os/ |
-| 8269 | **o** Lesoto | /lɨ.'so.tu/ | /le.'so.tu/ | sm | Lesotho | /ləˈsuːtuː/ | Lesoto | /le'soto/ |
-| 8524 | **a** Letônia | /lɛ.'tɔ.ni.ɐ/ | /le.'tɔ.ni.ɐ/ | sf | Latvia | /ˈlætviə/ | Letonia | /le'tonia/ |
-| 8240 | **o** Líbano | /'li.bɐ.nu/ | /'li.ba.nu/ | sm | Lebanon | /ˈlɛbənɒn/ | Líbano | /'liβano/ |
-| 8270 | **a** Libéria | /li.'bɛ.ɾi.ɐ/ | /li.'bɛ.ɾi.ɐ/ | sf | Liberia | /laɪˈbɪəriə/ | Liberia | /li'βeɾja/ |
-| 8241 | **a** Líbia | /'li.bjɐ/ | /'li.bjɐ/ | sf | Libya | /ˈlɪbiə/ | Libia | /'liβja/ |
-| 8528 | **o** Liechtenstein | /liç.tɛnʃ.'tajn/ | /liç.tɛnʃ.'tain/ | sm | Liechtenstein | /ˈlɪktənstaɪn/ | Liechtenstein | /liçtenʃ'tain/ |
-| 8529 | **a** Lituânia | /li.tu.'ɐ.ni.ɐ/ | /li.tu.'ɐ.ni.ɐ/ | sf | Lithuania | /ˌlɪθjuˈeɪniə/ | Lituania | /litu'aɲa/ |
-| 8530 | **o** Luxemburgo | /lu.ʒẽ.'buɾ.ɡu/ | /lu.ʒẽ.'buɾ.ɡu/ | sm | Luxembourg | /ˈlʌksəmbɜːrɡ/ | Luxemburgo | /luksem'buɾɣo/ |
-| 8271 | **a** Madagascar | /mɐ.dɐ.'ɡas.kaɾ/ | /mɐ.dɐ.'ɡas.kaɾ/ | sf | Madagascar | /ˌmædəˈɡæskər/ | Madagascar | /maða'ɣas.kaɾ/ |
-| 8272 | **o** Malawi | /mɐ.'la.wi/ | /mɐ.'la.wi/ | sm | Malawi | /məˈlɔːwi/ | Malawi | /ma'lawi/ |
-| 8533 | **a** Malásia | /mɐ.'la.zi.ɐ/ | /mɐ.'la.zi.ɐ/ | sf | Malaysia | /məˈleɪʒə/ | Malasia | /mala'θja/ |
-| 8535 | **as** Maldivas | /mɐw.'di.vɐʃ/ | /mɐw.'di.vɐʃ/ | sfp | Maldives | /ˈmɒldaɪvz/ | Maldivas | /mal'diβas/ |
-| 8536 | **o** Mali | /'ma.li/ | /'ma.li/ | sm | Mali | /ˈmɑːli/ | Malí | /ma'li/ |
-| 8242 | **o** Marrocos | /mɐ.'ʁɔ.kuʃ/ | /mɐ.'ʁɔ.kuʃ/ | sm | Morocco | /məˈrɒkoʊ/ | Marruecos | /ma'rukos/ |
-| 8506 | **as** Ilhas Marshall | /iʎɐʃ mɐɾ.'ʃaɫ/ | /iʎɐʃ mɐɾ.'ʃaʊ/ | sfp | Marshall Islands | /ˈmɑːrʃəl ˈaɪləndz/ | Islas Marshall | /iʎas maɾ'sal/ |
-| 8274 | **a** Mauritânia | /mɐw.ɾi.'tɐ.ni.ɐ/ | /mɐw.ɾi.'tɐ.ni.ɐ/ | sf | Mauritania | /ˌmɒrɪˈteɪniə/ | Mauritania | /mawɾi'tanja/ |
-| 8539 | **a** Maurícia | /mɐw.'ɾi.si.ɐ/ | /mɐw.'ɾi.si.ɐ/ | sf | Mauritius | /məˈrɪʃəs/ | Mauricio | /maw'ɾisjo/ |
-| 8531 | **a** Macedônia | /mɐsɨ.'dɔ.njɐ/ | /masɨ.'dɔ.njɐ/ | sf | Macedonia | /ˌmæsɪˈdoʊniə/ | Macedonia | /masɛ'ðonja/ |
-| 8198 | **o** México | /'mɛ.ʃi.ku/ | /'mɛ.ʃi.ko/ | sm | Mexico | /ˈmɛksɪkoʊ/ | México | /'meksiko/ |
-| 8543 | **a** Micronésia | /mi.kɾo.nɛ.'zi.ɐ/ | /mi.kɾo.nɛ.'zi.ɐ/ | sf | Micronesia | /ˌmaɪkrəˈniːʒə/ | Micronesia | /mikɾo'nesja/ |
-| 8545 | **a** Moldávia | /moɫ.'dɐ.vi.ɐ/ | /moɫ.'dɐ.vi.ɐ/ | sf | Moldova | /mɒlˈdoʊvə/ | Moldavia | /mol'daβja/ |
-| 8547 | **a** Mongólia | /moŋ.'ɡɔ.li.ɐ/ | /moŋ.'ɡɔ.li.ɐ/ | sf | Mongolia | /mɒŋˈɡoʊliə/ | Mongolia | /moŋ'ɡolja/ |
-| 7004 | **Moçambique** | /musɐ̃.'bik/ | /musɐ̃.'bik/ | sm | Mozambique | /ˌmoʊzæmˈbiːk/ | Mozambique | /musɐ̃'bik/ |
-| 8542 | **Mianmar** | /mi.ɐ̃w̃.'maɾ/ | /mi.'ɐ̃w̃.maɾ/ | sm | Myanmar | /ˈmjænmɑːr/ | Myanmar | /'mjamaɾ/ |
-| 8549 | **a** Namíbia | /nɐ.'mi.bi.ɐ/ | /nɐ.'mi.bi.ɐ/ | sf | Namibia | /nəˈmɪbiə/ | Namibia | /na'mibia/ |
-| 8550 | **Nauru** | /nɐ.'u.ɾu/ | /nɐ.'u.ɾu/ | sm | Nauru | /nɑːˈuːruː/ | Nauru | /na'uru/ |
-| 8551 | **o** Nepal | /ni.'pɐw̃/ | /ni.'paʊ̃/ | sm | Nepal | /nɪˈpɔːl/ | Nepal | /ne'pal/ |
+| 8557 | **a** Nova Caledônia | /'kɐ.le.'dɔ.ni.ɐ/ | /'ka.le.'dɔ.ni.ɐ/ | sf | New Caledonia | /ˌnjuː ˌkælɪˈdoʊniə/ | Nueva Caledonia | /nweβa kaledo'nia/ |
+| 8558 | **a** Nova Zelândia | /'zɛ.lɐ̃.dɨ.ɐ/ | /'zɛ.lɐ̃.dʒi.ɐ/ | sf | New Zealand | /njuː 'ziːlənd/ | Nueva Zelanda | /nweβa θe'landa/ |
+| 8207 | **a** Nicarágua | /ni.kɐ.'ɾa.ɡwɐ/ | /ni.kɐ.'ɾa.ɡwa/ | sf | Nicaragua | /ˌnɪkəˈrɑːɡwə/ | Nicaragua | /nika'ɾaɣwa/ |
+| 8501 | **a** Holanda | /u.'lɐ̃.dɐ/ | /o.'lɐ̃.dɐ/ | sf | Netherlands | /'nɛðərləndz/ | Holanda | /o'landa/ |
+| 8560 | **os** Países Baixos | /'pa.i.zɨʒ 'bai.ʃuʃ/ | /'pa.i.zɨʒ 'bai.ʃus/ | smp | Netherlands | /'nɛðərləndz/ | Países Bajos | /pa'iθes 'βaxos/ |
+| 8553 | **o** Níger | /'ni.ʒɛɾ/ | /'ni.ʒeɾ/ | sm | Niger | /ˈnaɪdʒər/ | Níger | /'ni.xeɾ/ |
+| 8554 | **a** Nigéria | /ni.'ʒɛ.ɾjɐ/ | /ni.'ʒɛ.ɾi.ɐ/ | sf | Nigeria | /naɪˈdʒɪəriə/ | Nigeria | /ni.xe'ɾja/ |
+| 8555 | **o** Niue | /'ni.u.i/ | /'ni.u.i/ | sm | Niue | /nɪ'uːeɪ/ | Niue | /ni'we/ |
+| 8467 | **a** Coreia do Norte | /ko.ɾɨ.'ɐ du 'nɔɾ.tɨ/ | /ko.ɾi.'ɐ du 'nɔɾ.tʃi/ | sf | North Korea | /nɔːrθ kəˈriə/ | Corea del Norte | /ko'ɾe̯a ðel 'norte/ |
+| 8332 | **a** Noruega | /nu.'ɾwe.ɡɐ/ | /no.'ɾwe.ɡɐ/ | sf | Norway | /ˈnɔːrweɪ/ | Noruega | /no'ɾweɣa/ |
+| 8559 | **o** Omã | /o.'mɐ̃/ | /o.'mɐ̃/ | sm | Oman | /oʊˈmɑːn/ | Omán | /o'man/ |
+| 8442 | **a** Áustria | /ɐ.wiʃ.'tɾi.ɐ/ | /a.wis.'tɾi.ɐ/ | sf | Austria | /ˈɒstriə/ | Austria | /aws'tɾja/ |
+| 7006 | **o** Timor-Leste | /ti.'moɾ 'lɛʃ.tɨ/ | /ti.'moɾ 'lɛs.tʃi/ | sm | East Timor | /ˌiːst ˈtiːmɔːr/ | Timor Oriental | /ti'moɾ oɾjen'tal/ |
+| 8565 | **o** Paquistão | /pa.kiʃ.tɐ.'õ/ | /pa.kiʃ.'tɐ̃w̃/ | sm | Pakistan | /ˈpækɪstæn/ | Pakistán | /pakis'tan/ |
+| 8562 | **o** Palau | /pɐ.'la.u/ | /pa.'la.u/ | sm | Palau | /pəˈlaʊ/ | Palaos | /pa'laos/ |
+| 8211 | **o** Panamá | /pɐ.'nɐ.mɐ/ | /pa.'na.ma/ | sm | Panama | /ˈpænəmɑː/ | Panamá | /pana'ma/ |
+| 8564 | **a** Papua-Nova Guiné | /pɐ.'pu.ɐ 'no.vɐ ɡi.'nɛ/ | /pa.'pu.ɐ 'no.vɐ ɡi.'ne/ | sf | Papua New Guinea | /ˈpæpjuə ˌnjuː ˈɡɪni/ | Papúa Nueva Guinea | /pa'pwa 'nweβa 'ɣi.ne/ |
+| 8217 | **o** Paraguai | /pɐ.ɾɐ.'ɡwaj/ | /pa.ɾa.'ɡwaj/ | sm | Paraguay | /ˈpærəɡwaɪ/ | Paraguay | /paɾa'ɣwaj/ |
+| 8567 | **o** Peru | /pɛ.'ɾu/ | /pe.'ɾu/ | sm | Peru | /pəˈruː/ | Perú | /pe'ɾu/ |
+| 8486 | **as** Filipinas | /fi.li.'pi.nɐʃ/ | /fi.li.'pi.nɐʃ/ | sfp | Philippines | /ˈfɪləˌpinz/ | Filipinas | /fili'pinas/ |
+| 8568 | **a** Polônia | /po.'lo.njɐ/ | /po.'lo.ni.ɐ/ | sf | Poland | /ˈpoʊlənd/ | Polonia | /po'lonja/ |
+| 8200 | **o** Porto Rico | /'poɾ.tu 'ʁi.ku/ | /'poɾ.tu 'hi.ku/ | sm | Puerto Rico | /ˌpwɛərtoʊ ˈrikoʊ/ | Puerto Rico | /pweɾto 'riko/ |
+| 8255 | **o** Ruanda | /ʁu.'ɐ̃.dɐ/ | /ʁwɐ̃.'dɐ/ | sm | Rwanda | /ruˈɑːndə/ | Ruanda | /ru'anða/ |
+| 8333 | **a** Rússia | /'ɾus.jɐ/ | /'hus.jɐ/ | sf | Russia | /ˈrʌʃə/ | Rusia | /'rusja/ |
+| 8279 | **a** Santa Lúcia | /'sɐ̃.tɐ 'lu.si.ɐ/ | /'sɐ̃.tɐ 'lu.si.ɐ/ | sf | Saint Lucia | /seɪnt 'luːʃə/ | Santa Lucía | /'santa lu'θia/ |
+| 8282 | **São Vicente e Granadinas** | /sɐ̃w vi.'sẽ.tɨ i ɡɾɐ.nɐ.'dʒi.nɐʃ/ | /sɐ̃w vi.'sẽ.tʃi i ɡɾɐ.nɐ.'dʒi.nɐʃ/ | sf | Saint Vincent and the Grenadines | /seɪnt 'vɪnsənt ənd ðə ɡrɛnəˈdiːnz/ | San Vicente y las Granadinas | /san bi'sente i las ɡɾana'dinas/ |
+| 8507 | **as** Ilhas Salomão | /'i.ʎɐʃ sɐ.lo.'mɐ̃w̃/ | /'i.ʎɐʃ sɐ.lo.'mɐ̃w̃/ | sfp | Solomon Islands | /ˈsɒləmən ˈaɪləndz/ | Islas Salomón | /iʎas salo'mon/ |
+| 8249 | **a** Zâmbia | /'zɐ̃.bi.ɐ/ | /'zɐ̃.bi.ɐ/ | sf | Zambia | /ˈzæmbiə/ | Zambia | /'θambia/ |
+| 8581 | **a** Samoa | /'sɐ̃.mu.ɐ/ | /'sɐ̃.mo.ɐ/ | sf | Samoa | /səˈmoʊə/ | Samoa | /sa'moa/ |
+
 
 Here is the table with the requested information:
 
@@ -184,6 +177,37 @@ Here is the table with the requested information:
 | 8550 | **Nauru** | /nɐ.'u.ɾu/ | /nɐ.'u.ɾu/ | sm | Nauru | /nɑːˈuːruː/ | Nauru | /na'uru/ |
 | 8551 | **o** Nepal | /ni.'pɐw̃/ | /ni.'paʊ̃/ | sm | Nepal | /nɪˈpɔːl/ | Nepal | /ne'pal/ |
 
+| No. | Portuguese | IPA (PT) | IPA (BR) | Tipo de Palavra | English Word | English IPA | Spanish Word | Spanish IPA |
+|-----|------------|----------|----------|-----------------|--------------|-------------|--------------|-------------|
+| 8557 | **a** Nova Caledônia | /'kɐ.le.'dɔ.ni.ɐ/ | /'ka.le.'dɔ.ni.ɐ/ | sf | New Caledonia | /ˌnjuː ˌkælɪˈdoʊniə/ | Nueva Caledonia | /nweβa kaledo'nia/ |
+| 8558 | **a** Nova Zelândia | /'zɛ.lɐ̃.dɨ.ɐ/ | /'zɛ.lɐ̃.dʒi.ɐ/ | sf | New Zealand | /njuː 'ziːlənd/ | Nueva Zelanda | /nweβa θe'landa/ |
+| 8207 | **a** Nicarágua | /ni.kɐ.'ɾa.ɡwɐ/ | /ni.kɐ.'ɾa.ɡwa/ | sf | Nicaragua | /ˌnɪkəˈrɑːɡwə/ | Nicaragua | /nika'ɾaɣwa/ |
+| 8501 | **a** Holanda | /u.'lɐ̃.dɐ/ | /o.'lɐ̃.dɐ/ | sf | Netherlands | /'nɛðərləndz/ | Holanda | /o'landa/ |
+| 8560 | **os** Países Baixos | /'pa.i.zɨʒ 'bai.ʃuʃ/ | /'pa.i.zɨʒ 'bai.ʃus/ | smp | Netherlands | /'nɛðərləndz/ | Países Bajos | /pa'iθes 'βaxos/ |
+| 8553 | **o** Níger | /'ni.ʒɛɾ/ | /'ni.ʒeɾ/ | sm | Niger | /ˈnaɪdʒər/ | Níger | /'ni.xeɾ/ |
+| 8554 | **a** Nigéria | /ni.'ʒɛ.ɾjɐ/ | /ni.'ʒɛ.ɾi.ɐ/ | sf | Nigeria | /naɪˈdʒɪəriə/ | Nigeria | /ni.xe'ɾja/ |
+| 8555 | **o** Niue | /'ni.u.i/ | /'ni.u.i/ | sm | Niue | /nɪ'uːeɪ/ | Niue | /ni'we/ |
+| 8467 | **a** Coreia do Norte | /ko.ɾɨ.'ɐ du 'nɔɾ.tɨ/ | /ko.ɾi.'ɐ du 'nɔɾ.tʃi/ | sf | North Korea | /nɔːrθ kəˈriə/ | Corea del Norte | /ko'ɾe̯a ðel 'norte/ |
+| 8332 | **a** Noruega | /nu.'ɾwe.ɡɐ/ | /no.'ɾwe.ɡɐ/ | sf | Norway | /ˈnɔːrweɪ/ | Noruega | /no'ɾweɣa/ |
+| 8559 | **o** Omã | /o.'mɐ̃/ | /o.'mɐ̃/ | sm | Oman | /oʊˈmɑːn/ | Omán | /o'man/ |
+| 8442 | **a** Áustria | /ɐ.wiʃ.'tɾi.ɐ/ | /a.wis.'tɾi.ɐ/ | sf | Austria | /ˈɒstriə/ | Austria | /aws'tɾja/ |
+| 7006 | **o** Timor-Leste | /ti.'moɾ 'lɛʃ.tɨ/ | /ti.'moɾ 'lɛs.tʃi/ | sm | East Timor | /ˌiːst ˈtiːmɔːr/ | Timor Oriental | /ti'moɾ oɾjen'tal/ |
+| 8565 | **o** Paquistão | /pa.kiʃ.tɐ.'õ/ | /pa.kiʃ.'tɐ̃w̃/ | sm | Pakistan | /ˈpækɪstæn/ | Pakistán | /pakis'tan/ |
+| 8562 | **o** Palau | /pɐ.'la.u/ | /pa.'la.u/ | sm | Palau | /pəˈlaʊ/ | Palaos | /pa'laos/ |
+| 8211 | **o** Panamá | /pɐ.'nɐ.mɐ/ | /pa.'na.ma/ | sm | Panama | /ˈpænəmɑː/ | Panamá | /pana'ma/ |
+| 8564 | **a** Papua-Nova Guiné | /pɐ.'pu.ɐ 'no.vɐ ɡi.'nɛ/ | /pa.'pu.ɐ 'no.vɐ ɡi.'ne/ | sf | Papua New Guinea | /ˈpæpjuə ˌnjuː ˈɡɪni/ | Papúa Nueva Guinea | /pa'pwa 'nweβa 'ɣi.ne/ |
+| 8217 | **o** Paraguai | /pɐ.ɾɐ.'ɡwaj/ | /pa.ɾa.'ɡwaj/ | sm | Paraguay | /ˈpærəɡwaɪ/ | Paraguay | /paɾa'ɣwaj/ |
+| 8567 | **o** Peru | /pɛ.'ɾu/ | /pe.'ɾu/ | sm | Peru | /pəˈruː/ | Perú | /pe'ɾu/ |
+| 8486 | **as** Filipinas | /fi.li.'pi.nɐʃ/ | /fi.li.'pi.nɐʃ/ | sfp | Philippines | /ˈfɪləˌpinz/ | Filipinas | /fili'pinas/ |
+| 8568 | **a** Polônia | /po.'lo.njɐ/ | /po.'lo.ni.ɐ/ | sf | Poland | /ˈpoʊlənd/ | Polonia | /po'lonja/ |
+| 8200 | **o** Porto Rico | /'poɾ.tu 'ʁi.ku/ | /'poɾ.tu 'hi.ku/ | sm | Puerto Rico | /ˌpwɛərtoʊ ˈrikoʊ/ | Puerto Rico | /pweɾto 'riko/ |
+| 8255 | **o** Ruanda | /ʁu.'ɐ̃.dɐ/ | /ʁwɐ̃.'dɐ/ | sm | Rwanda | /ruˈɑːndə/ | Ruanda | /ru'anða/ |
+| 8333 | **a** Rússia | /'ɾus.jɐ/ | /'hus.jɐ/ | sf | Russia | /ˈrʌʃə/ | Rusia | /'rusja/ |
+| 8279 | **a** Santa Lúcia | /'sɐ̃.tɐ 'lu.si.ɐ/ | /'sɐ̃.tɐ 'lu.si.ɐ/ | sf | Saint Lucia | /seɪnt 'luːʃə/ | Santa Lucía | /'santa lu'θia/ |
+| 8282 | **São Vicente e Granadinas** | /sɐ̃w vi.'sẽ.tɨ i ɡɾɐ.nɐ.'dʒi.nɐʃ/ | /sɐ̃w vi.'sẽ.tʃi i ɡɾɐ.nɐ.'dʒi.nɐʃ/ | sf | Saint Vincent and the Grenadines | /seɪnt 'vɪnsənt ənd ðə ɡrɛnəˈdiːnz/ | San Vicente y las Granadinas | /san bi'sente i las ɡɾana'dinas/ |
+| 8507 | **as** Ilhas Salomão | /'i.ʎɐʃ sɐ.lo.'mɐ̃w̃/ | /'i.ʎɐʃ sɐ.lo.'mɐ̃w̃/ | sfp | Solomon Islands | /ˈsɒləmən ˈaɪləndz/ | Islas Salomón | /iʎas salo'mon/ |
+| 8249 | **a** Zâmbia | /'zɐ̃.bi.ɐ/ | /'zɐ̃.bi.ɐ/ | sf | Zambia | /ˈzæmbiə/ | Zambia | /'θambia/ |
+| 8581 | **a** Samoa | /'sɐ̃.mu.ɐ/ | /'sɐ̃.mo.ɐ/ | sf | Samoa | /səˈmoʊə/ | Samoa | /sa'moa/ |
 
 ## All languages: 
 

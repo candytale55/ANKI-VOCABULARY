@@ -7,6 +7,43 @@ Here is the table with the requested information:
 
 | No. | Portuguese | IPA (PT) | IPA (BR) | Tipo de Palavra | English Word | English IPA | Spanish Word | Spanish IPA |
 |-----|------------|----------|----------|-----------------|--------------|-------------|--------------|-------------|
+| 8434 | **o** Afeganistão | /ɐ.fɨ.ɡɐ̃ʃ.tɐ̃'w̃/ | /a.fe.ɡɐ̃ʃ.tɐ̃'w̃/ | sm | Afghanistan | /æfˈɡænɪstæn/ | Afganistán | /afɡanis'tan/ |
+| 8237 | **o** Egito | /'e.ʒi.tu/ | /e'ʒi.tu/ | sm | Egypt | /iːdʒɪpt/ | Egipto | /e'hipto/ |
+| 8438 | **a** Argélia | /ɐɾ'ʒe.li.ɐ/ | /aɾ'ʒɛ.li.ɐ/ | sf | Algeria | /ælˈdʒɪəriə/ | Argelia | /arxe'lia/ |
+| 7003 | **a** Angola | /ɐ̃.'ɡɔ.lɐ/ | /ɐ̃.'ɡɔ.lɐ/ | sf | Angola | /æŋˈɡoʊlə/ | Angola | /an'ɡola/ |
+| 7007 | **a** Guiné Equatorial | /ɡi'ni i.kwɐ.to'ɾjɐw/ | /ɡi'ni i.kwa.to'ɾjɐw/ | sf | Equatorial Guinea | /ˌɛkwəˈtɔːriəl ˈɡɪni/ | Guinea Ecuatorial | /ɡi'nea ekwatoɾja'l/ |
+| 8439 | **a** Argentina | /ɐɾʒẽ'ti.nɐ/ | /arʒẽ'ti.nɐ/ | sf | Argentina | /ˌɑːrdʒənˈtiːnə/ | Argentina | /arxen'tina/ |
+| 8440 | **a** Armênia | /ɐɾ'me.ni.ɐ/ | /aɾ'me.ni.ɐ/ | sf | Armenia | /ɑːˈmiːniə/ | Armenia | /ar'menja/ |
+| 8443 | **o** Azerbaijão | /ɐz.ɛɾ.bɐj'ʒɐ̃w̃/ | /az.ɛɾ.bɐj'ʒɐ̃w̃/ | sm | Azerbaijan | /ˌæzərbaɪˈdʒɑːn/ | Azerbaiyán | /az.ɾaj'ʝan/ |
+| 8263 | **a** Etiópia | /ɨ.'ti.o.pi.ɐ/ | /e.'ti.o.pi.ɐ/ | sf | Ethiopia | /iˈθiːoʊpiə/ | Etiopía | /eti'o'pia/ |
+| 8441 | **a** Austrália | /ɐw.stɾɐ'li.ɐ/ | /aw.stɾɐ'li.ɐ/ | sf | Australia | /ɔːˈstreɪliə/ | Australia | /awstɾa'lija/ |
+| 8444 | **as** Bahamas | /bɐ'hɐ.mɐs/ | /ba'hɐ.mɐs/ | sfp | The Bahamas | /ðə bəˈhɑːməz/ | Las Bahamas | /baz 'bahamas/ |
+| 8336 | **a** Bélgica | /'bɛɫ.ʒi.kɐ/ | /'bɛw.ʒi.kɐ/ | sf | Belgium | /ˈbɛldʒəm/ | Bélgica | /'belɡika/ |
+| 8453 | **o** Butão | /bu'twɐ̃w̃/ | /bu'twɐ̃w̃/ | sm | Bhutan | /ˈbuːtɑːn/ | Bután | /bu'tan/ |
+| 8446 | **a** Bolívia | /bo'livi.ɐ/ | /bo'li.vi.ɐ/ | sf | Bolivia | /bəˈlɪviə/ | Bolivia | /bo'liβja/ |
+| 8447 | **o** Botsuana | /bo.tsu'ɐ.nɐ/ | /bo.tsu'ɐ.nɐ/ | sm | Botswana | /bɒtˈswɑːnə/ | Botsuana | /botsu'ana/ |
+| 7002 | **o** Brasil | /bɾɐ'ziw/ | /bɾa'ziw/ | sm | Brazil | /brəˈzɪl/ | Brasil | /bɾa'ziw/ |
+| 8449 | **o** Brunei | /bɾu'ne.i/ | /bɾu'ne.i/ | sm | Brunei | /bruːˈnaɪ/ | Brunéi | /bɾu'nei/ |
+| 8451 | **o** Burkina Faso | /buɾ'kinɐ 'fasu/ | /buɾ'kina 'fasu/ | sm | Burkina Faso | /bɜːrˈkiːnə ˈfɑːsoʊ/ | Burkina Faso | /buɾ'kina 'faso/ |
+| 8452 | **o** Burundi | /bu.ɾũ'di/ | /bu.ɾũ'di/ | sm | Burundi | /bəˈrʊndi/ | Burundi | /bu'rundi/ |
+| 8461 | **o** Chile | /'ʃi.li/ | /'ʃi.li/ | sm | Chile | /ˈtʃɪli/ | Chile | /'tʃile/ |
+| 8328 | **a** China | /'ʃi.nɐ/ | /'ʃi.nɐ/ | sf | China | /ˈtʃaɪnə/ | China | /'tʃina/ |
+| 8505 | **as** Ilhas Cook | /ˈiʎɐʃ ku'k/ | /ˈiʎɐʃ ku'k/ | sfp | Cook Islands | /kʊk ˈaɪləndz/ | Islas Cook | /ˈizlas kook/ |
+| 8470 | **a** Costa Rica | /'kɔʃ.tɐ 'ʁi.kɐ/ | /'kɔs.tɐ 'hi.kɐ/ | sf | Costa Rica | /ˌkoʊstə ˈriːkə/ | Costa Rica | /'kosta 'rika/ |
+| 8472 | **a** Dinamarca | /dinɐ'maɾ.kɐ/ | /dinɐ'maɾ.kɐ/ | sf | Denmark | /ˈdɛnmɑːk/ | Dinamarca | /dina'marka/ |
+| 8178 | **a** Albânia | /ɐw.'ba.ni.ɐ/ | /aw.'ba.ni.ɐ/ | sf | Albania | /ælˈbeɪniə/ | Albania | /al'banja/ |
+| 8179 | **a** Andorra | /ɐ̃.'do.ʁɐ/ | /ɐ̃.'do.ʁɐ/ | sf | Andorra | /ænˈdɔːrə/ | Andorra | /an'dora/ |
+| 8180 | **a** Bósnia e Herzegovina | /'bɔz.ni.ɐ i heɾ.tso.'ɡɔ.vi.nɐ/ | /'bɔz.ni.ɐ i heɾ.tso.'ɡɔ.vi.nɐ/ | sf | Bosnia and Herzegovina | /ˈbɒzniə ænd ˌhɜːrtsɨɡoʊˈviːnə/ | Bosnia y Herzegovina | /'bosnja i eɾ'tsoɣoβina/ |
+| 8181 | **a** Bulgária | /buɫ.'ɡa.ɾi.ɐ/ | /buw.'ɡa.ɾi.ɐ/ | sf | Bulgaria | /bʌlˈɡɛəriə/ | Bulgaria | /bul'ɡarja/ |
+| 8183 | **a** Grécia | /'ɡɾɛ.si.ɐ/ | /'ɡɾɛ.si.ɐ/ | sf | Greece | /ɡriːs/ | Grecia | /'ɡretʃa/ |
+| 8184 | **a** Itália | /i.'ta.li.ɐ/ | /i.'ta.li.ɐ/ | sf | Italy | /ˈɪtəli/ | Italia | /i'ta.lja/ |
+| 8196 | **o** Kosovo | /'ko.so.vo/ | /'ko.so.vo/ | sm | Kosovo | /'kɒsəvəʊ/ | Kosovo | /'kosovo/ |
+
+
+Here is the table with the requested information:
+
+| No. | Portuguese | IPA (PT) | IPA (BR) | Tipo de Palavra | English Word | English IPA | Spanish Word | Spanish IPA |
+|-----|------------|----------|----------|-----------------|--------------|-------------|--------------|-------------|
 | 8434 | **o** Afeganistão | /ɐfɨɡɐ̃'nistãw/ | /a.fɨ.ɡɐ̃'nis.tɐ̃w/ | sm | Afghanistan | /æfəˈɡænɪstæn/ | Afganistán | /afɣani'stan/ |
 | 8435 | **a** África do Sul | /'a.fɾi.kɐ du 'suw/ | /'a.fɾi.kɐ du 'suw/ | sf | South Africa | /saʊθ 'æfrɪkə/ | Sudáfrica | /su'ðafɾika/ |
 | 8436 | **a** Alemanha | /ɐ.lɨ'mɐɲ.ɲɐ/ | /a.le'ma.ɲa/ | sf | Germany | /ˈdʒɜːrməni/ | Alemania | /ale'manja/ |

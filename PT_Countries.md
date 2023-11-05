@@ -5,30 +5,26 @@
 
 Here is the completed markdown table with the missing values:
 
+Here is the completed markdown table with the missing values:
+
 | No. | Portuguese | IPA (PT) | IPA (BR) | Tipo de Palavra | English Word | English IPA | Spanish Word | Spanish IPA |
 |-----|------------|----------|----------|-----------------|--------------|-------------|--------------|-------------|
-| 7009 | **São Tomé and Príncipe** | /sɐ̃w to.'mɛ ɨ pɾĩ.'si.pɨ/ | /sɐ̃w to.'mɛ i pɾĩ.'sipɨ/ | sm | São Tomé and Príncipe | /saʊn təˈmeɪ  ənd ˈpɹɪnsɪpə/ | Santo Tomé y Príncipe | /'santo 'to.me i 'pɾinθipe/ |
-| 8244 | **a** Arábia Saudita | /ɐ.'ɾa.bjɐ sɐw.'di.tɐ/ | /a.'ɾa.bi.ɐ sɐw.'di.tɐ/ | sf | Saudi Arabia | /ˌsɔːdɪ əˈreɪbiə/ | Arabia Saudita | /a'ɾaβja saw'dita/ |
-| 8334 | **a** Suécia | /su.'ɛ.si.ɐ/ | /swe.'si.ɐ/ | sf | Sweden | /ˈswiːdən/ | Suecia | /'swɛ.θja/ |
-| 8599 | **a** Suíça | /'swi.sɐ/ | /'swi.sa/ | sf | Switzerland | /ˈswɪtsərlənd/ | Suiza | /'swi.θa/ |
-| 8587 | **o** Senegal | /sɨ.nɨ.'ɡaw/ | /se.'na.ɡaw/ | sm | Senegal | /ˌsɛnɪˈɡɔːl/ | Senegal | /se'ne.ɣal/ |
-| 8589 | **a** Sérvia | /'sɛɾ.vjɐ/ | /'sɛɾ.vi.ɐ/ | sf | Serbia | /ˈsɜːrbiə/ | Serbia | /'seɾβja/ |
-| 8590 | **as** Seychelles | /sej.'ʃɛ.lɨʃ/ | /sej.'ʃɛ.liʃ/ | sfp | Seychelles | /seɪˈʃɛlz/ | Seychelles | /sej'ʃeʎ/ |
-| 8588 | **a** Serra Leoa | /'sɛ.ʁɐ lɨ.'o.ɐ/ | /'sɛ.ʁɐ lɨ.'o.ɐ/ | sf | Sierra Leone | /sɪˈɛrə lɪˈoʊn/ | Sierra Leona | /'sjera le'o.na/ |
-| 8248 | **o** Zimbábue | /ʒĩ.'bɐ.bu.ɨ/ | /ʒĩ.'bɐ.bwe/ | sm | Zimbabwe | /zɪmˈbɑːbweɪ/ | Zimbabue | /ʒimba'bwe/ |
-| 8591 | **Singapura** | /sĩ.ɡɐ.'pu.ɾɐ/ | /sĩ.ɡɐ.'pu.ɾɐ/ | sf | Singapore | /ˈsɪŋəpɔːr/ | Singapur | /siŋga'puɾ/ |
-| 8479 | **a** Eslováquia | /ɛs.lo.'va.kjɐ/ | /es.lo.'va.ki.ɐ/ | sf | Slovakia | /sloʊˈvækijə/ | Eslovaquia | /eslo'βakja/ |
-| 8593 | **a** Somália | /so.'ma.li.ɐ/ | /so.'ma.li.ɐ/ | sf | Somalia | /səˈmɑːliə/ | Somalia | /so'malja/ |
-| 8594 | **o** Sri Lanka | /sɾi 'lɐ̃.kɐ/ | /sɾi 'lɐ̃.kɐ/ | sm | Sri Lanka | /ʃri ˈlɑːŋkə/ | Sri Lanka | /sɾi 'laŋka/ |
-| 8284 | **São Cristóvão e Nevis** | /sɐ̃w kɾis.'to.vɐw i 'ne.vis/ | /sɐ̃w kɾis.'to.vɐw i 'ne.vis/ | sm | Saint Kitts and Nevis | /seɪnt kɪts ənd ˈniːvɪs/ | San Cristóbal y Nieves | /san kɾis'toβal i 'nieβes/ |
-| 8435 | **a** África do Sul | /'a.fɾi.kɐ du 'suw/ | /'a.fɾi.kɐ du 'suw/ | sf | South Africa | /ˈsaʊθ ˈæfrɪkə/ | Sudáfrica | /su'ðafɾika/ |
-| 8596 | **o** Sudão | /su.'dɐ̃w/ | /su.'dɐ̃w/ | sm | Sudan | /suˈdæn/ | Sudán | /su'dan/ |
-| 8468 | **a** Coreia do Sul | /ko.ɾe.'ɐ du 'suw/ | /ko.ɾi.'ɐ du 'suw/ | sf | South Korea | /ˌsaʊθ kəˈriə/ | Corea del Sur | /ko'ɾea ðel suɾ/ |
-| 8253 | **o** Sudão do Sul | /su.'dɐ̃w du 'suw/ | /su.'dɐ̃w du 'suw/ | sm | South Sudan | /saʊθ suˈdæn/ | Sudán del Sur | /su'dan ðel suɾ/ |
-| 8290 | **o** Suriname | /su.ɾi.'nɐ.mɨ/ | /su.ɾi.'na.mɨ/ | sm | Suriname | /ˈsʊrɪnæm/ | Surinam | /suɾi'nam/ |
-| 8245 | **a** Síria | /'si.ɾjɐ/ | /'si.ɾi.ɐ/ | sf | Syria | /ˈsɪriə/ | Siria | /'siɾja/ |
-| 8602 | **o** Tajiquistão | /tɐ.ʒi.kis.'tɐ̃w/ | /ta.ʒi.kis.'tɐ̃w/ | sm | Tajikistan | /ˌtɑːdʒɪkɪˈstɑːn/ | Tayikistán | /taji.kis'tan/ |
-| 8250 | **a** Tanzânia | /tɐ̃.ʒɐ.'ni.ɐ/ | /tɐ̃.zɐ.'ni.ɐ/ | sf | Tanzania | /ˌtænzəˈniːə/ | Tanzania | /tanθa'nia/ |
+| 8601 | **a** Tailândia | /taj.'lɐ̃.di.ɐ/ | /taj.'lɐ̃.di.ɐ/ | sf | Thailand | /ˈtaɪlænd/ | Tailandia | /tajlan'dja/ |
+| 8605 | **o** Togo | /'to.ɡu/ | /'to.ɡu/ | sm | Togo | /ˈtoʊɡoʊ/ | Togo | /'to.ɣo/ |
+| 8606 | **o** Tonga | /'tõ.ɡɐ/ | /'to.ɡɐ/ | sm | Tonga | /ˈtɒŋɡə/ | Tonga | /'to.ɣa/ |
+| 8607 | **Trinidad e Tobago** | /tɾi.ni.'dɐd ɨ to.'ba.ɡu/ | /tɾi.ni.'dɐd ɨ to.'ba.ɡu/ | smp | Trinidad and Tobago | /ˌtrɪnɪdæd ənd təˈbeɪɡoʊ/ | Trinidad y Tobago | /tɾini'ðað i to'βaɣo/ |
+| 8460 | **o** Chade | /'ʃa.dɨ/ | /'ʃa.dɨ/ | sm | Chad | /tʃæd/ | Chad | /tʃad/ |
+| 8577 | **a** República Tcheca | /ɦɛ.'pub.li.kɐ 'tʃɛ.kɐ/ | /ʁɛ.'pu.bli.kɐ 'tʃɛ.kɐ/ | sf | Czech Republic | /tʃɛk rɪˈpʌblɪk/ | República Checa | /re'puβlika 'tʃeka/ |
+| 8246 | **a** Tunísia | /tu.'ni.zjɐ/ | /tu.'ni.zi.ɐ/ | sf | Tunisia | /tuˈniʒə/ | Túnez | /'tu.neθ/ |
+| 8609 | **o** Turcomenistão | /tuɾ.ko.mi.'nis.tɐ̃w/ | /tuɾ.ko.mi.'nis.tɐ̃w/ | sm | Turkmenistan | /tɜːrkˈmɛnɪstæn/ | Turkmenistán | /tuɾkomenis'tan/ |
+| 8611 | **o** Tuvalu | /tu.'va.lu/ | /tu.'va.lu/ | sm | Tuvalu | /tuːˈvɑːluː/ | Tuvalu | /tu'βalu/ |
+| 8251 | **o** Uganda | /u.'ɡɐ.dɐ/ | /u.'ɡɐ.dɐ/ | sm | Uganda | /juːˈɡændə/ | Uganda | /u'ɣanda/ |
+| 8612 | **a** Ucrânia | /u.'kɾɐ.njɐ/ | /u.'kɾɐ.ni.ɐ/ | sf | Ukraine | /juˈkreɪn/ | Ucrania | /u'kɾanja/ |
+| 8503 | **a** Hungria | /hũ.'ɡɾi.ɐ/ | /hũ.'ɡɾi.ɐ/ | sf | Hungary | /ˈhʌŋɡəri/ | Hungría | /'uŋ.ɡɾi.a/ |
+| 8220 | **o** Uruguai | /u.ɾu.'ɡwaj/ | /u.ɾu.'ɡwaj/ | sm | Uruguay | /ˈjʊrəɡwaɪ/ | Uruguay | /uɾu'ɣwai/ |
+| 8615 | **o** Uzbequistão | /uz.be.kis.'tɐ̃w/ | /uz.be.kis.'tɐ̃w/ | sm | Uzbekistan | /ʊz.bɛkɪˈstæn/ | Uzbekistán | /usβeki'stan/ |
+| 8616 | **o** Vanuatu | /va.nu.'a.tu/ | /va.nu.'a.tu/ | sm | Vanuatu | /ˌvɑːnʊˈɑːtuː/ | Vanuatu | /βa.nu'a.tu/ |
+
 
 Here is the table with the requested information:
 
@@ -225,6 +221,25 @@ Here is the table with the requested information:
 | 8245 | **a** Síria | /'si.ɾjɐ/ | /'si.ɾi.ɐ/ | sf | Syria | /ˈsɪriə/ | Siria | /'siɾja/ |
 | 8602 | **o** Tajiquistão | /tɐ.ʒi.kis.'tɐ̃w/ | /ta.ʒi.kis.'tɐ̃w/ | sm | Tajikistan | /ˌtɑːdʒɪkɪˈstɑːn/ | Tayikistán | /taji.kis'tan/ |
 | 8250 | **a** Tanzânia | /tɐ̃.ʒɐ.'ni.ɐ/ | /tɐ̃.zɐ.'ni.ɐ/ | sf | Tanzania | /ˌtænzəˈniːə/ | Tanzania | /tanθa'nia/ |
+
+| No. | Portuguese | IPA (PT) | IPA (BR) | Tipo de Palavra | English Word | English IPA | Spanish Word | Spanish IPA |
+|-----|------------|----------|----------|-----------------|--------------|-------------|--------------|-------------|
+| 8601 | **a** Tailândia | /taj.'lɐ̃.di.ɐ/ | /taj.'lɐ̃.di.ɐ/ | sf | Thailand | /ˈtaɪlænd/ | Tailandia | /tajlan'dja/ |
+| 8605 | **o** Togo | /'to.ɡu/ | /'to.ɡu/ | sm | Togo | /ˈtoʊɡoʊ/ | Togo | /'to.ɣo/ |
+| 8606 | **o** Tonga | /'tõ.ɡɐ/ | /'to.ɡɐ/ | sm | Tonga | /ˈtɒŋɡə/ | Tonga | /'to.ɣa/ |
+| 8607 | **Trinidad e Tobago** | /tɾi.ni.'dɐd ɨ to.'ba.ɡu/ | /tɾi.ni.'dɐd ɨ to.'ba.ɡu/ | smp | Trinidad and Tobago | /ˌtrɪnɪdæd ənd təˈbeɪɡoʊ/ | Trinidad y Tobago | /tɾini'ðað i to'βaɣo/ |
+| 8460 | **o** Chade | /'ʃa.dɨ/ | /'ʃa.dɨ/ | sm | Chad | /tʃæd/ | Chad | /tʃad/ |
+| 8577 | **a** República Tcheca | /ɦɛ.'pub.li.kɐ 'tʃɛ.kɐ/ | /ʁɛ.'pu.bli.kɐ 'tʃɛ.kɐ/ | sf | Czech Republic | /tʃɛk rɪˈpʌblɪk/ | República Checa | /re'puβlika 'tʃeka/ |
+| 8246 | **a** Tunísia | /tu.'ni.zjɐ/ | /tu.'ni.zi.ɐ/ | sf | Tunisia | /tuˈniʒə/ | Túnez | /'tu.neθ/ |
+| 8609 | **o** Turcomenistão | /tuɾ.ko.mi.'nis.tɐ̃w/ | /tuɾ.ko.mi.'nis.tɐ̃w/ | sm | Turkmenistan | /tɜːrkˈmɛnɪstæn/ | Turkmenistán | /tuɾkomenis'tan/ |
+| 8611 | **o** Tuvalu | /tu.'va.lu/ | /tu.'va.lu/ | sm | Tuvalu | /tuːˈvɑːluː/ | Tuvalu | /tu'βalu/ |
+| 8251 | **o** Uganda | /u.'ɡɐ.dɐ/ | /u.'ɡɐ.dɐ/ | sm | Uganda | /juːˈɡændə/ | Uganda | /u'ɣanda/ |
+| 8612 | **a** Ucrânia | /u.'kɾɐ.njɐ/ | /u.'kɾɐ.ni.ɐ/ | sf | Ukraine | /juˈkreɪn/ | Ucrania | /u'kɾanja/ |
+| 8503 | **a** Hungria | /hũ.'ɡɾi.ɐ/ | /hũ.'ɡɾi.ɐ/ | sf | Hungary | /ˈhʌŋɡəri/ | Hungría | /'uŋ.ɡɾi.a/ |
+| 8220 | **o** Uruguai | /u.ɾu.'ɡwaj/ | /u.ɾu.'ɡwaj/ | sm | Uruguay | /ˈjʊrəɡwaɪ/ | Uruguay | /uɾu'ɣwai/ |
+| 8615 | **o** Uzbequistão | /uz.be.kis.'tɐ̃w/ | /uz.be.kis.'tɐ̃w/ | sm | Uzbekistan | /ʊz.bɛkɪˈstæn/ | Uzbekistán | /usβeki'stan/ |
+| 8616 | **o** Vanuatu | /va.nu.'a.tu/ | /va.nu.'a.tu/ | sm | Vanuatu | /ˌvɑːnʊˈɑːtuː/ | Vanuatu | /βa.nu'a.tu/ |
+
 
 ## All languages: 
 

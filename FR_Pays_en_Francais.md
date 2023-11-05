@@ -1,30 +1,39 @@
-Certainly, here is the completed markdown table with the French words you provided:
+Here is the completed markdown table with the French words you provided:
 
 | No.  | French Word |  with Article  | French IPA  | Word Type |
 |------|-------------|----------------|-------------|-----|
-| 8472 | Danemark | le Danemark | /danəmaʁk/ | sm |
-| 8264 | Gabon | le Gabon | /ɡabɔ̃/ | sm |
-| 8491 | Ghana | le Ghana | /ɡana/ | sm |
-| 8199 | Guatemala | le Guatemala | /gwatɛmala/ | sm |
-| 8496 | Guyane | la Guyane | /ɡɥijan/ | sf |
-| 8288 | Guyane | le Guyane | /ɡɥijan/ | sm |
-| 8502 | Honduras | le Honduras | /ɔndyʁas/ | sm |
-| 8329 | Japon | le Japon | /ʒapɔ̃/ | sm |
-| 8459 | Kazakhstan | le Kazakhstan | /kazakstaŋ/ | sm |
-| 8268 | Kenya | le Kenya | /kenja/ | sm |
-| 8572 | Kirghizistan | le Kirghizistan | /kiʁɡizistɑ̃/ | sm |
-| 8196 | Kosovo | le Kosovo | /kɔsɔvɔ/ | sm |
-| 8239 | Koweït | le Koweït | /kowɛit/ | sm |
-| 8522 | Laos | le Laos | /laos/ | sm |
-| 8269 | Lesotho | le Lesotho | /lɛzɔto/ | sm |
-| 8240 | Liban | le Liban | /libɑ̃/ | sm |
-| 8270 | Libéria | le Libéria | /libeʁja/ | sm |
-| 8528 | Liechtenstein | le Liechtenstein | /liçtɛnʃtajn/ | sm |
-| 8530 | Luxembourg | le Luxembourg | /lyksɑ̃buʁɡ/ | sm |
-| 8272 | Malawi | le Malawi | /malawi/ | sm |
-| 8536 | Mali | le Mali | /mali/ | sm |
-| 8242 | Maroc | le Maroc | /maʁɔk/ | sm |
-| 8198 | Mexique | le Mexique | /mɛksik/ | sm |
+| 8195 | Monténégro | le Monténégro | /mɔ̃tenegʁo/ | sm |
+| 7004 | Mozambique | le Mozambique | /mozɑ̃bik/ | sm |
+| 8542 | Myanmar | le Myanmar | /myanmaʁ/ | sm |
+| 8551 | Népal | le Népal | /nepal/ | sm |
+| 8207 | Nicaragua | le Nicaragua | /nikaraɡwa/ | sm |
+| 8553 | Niger | le Niger | /niʒɛʁ/ | sm |
+| 8565 | Pakistan | le Pakistan | /pakistã/ | sm |
+| 8211 | Panama | le Panama | /panama/ | sm |
+| 8217 | Paraguay | le Paraguay | /paʁaɡwaj/ | sm |
+| 8567 | Pérou | le Pérou | /peʁu/ | sm |
+| 7001 | Portugal | le Portugal | /pɔʁtuɡal/ | sm |
+| 8458 | Qatar | le Qatar | /kataʁ/ | sm |
+| 8573 | Royaume-Uni | le Royaume-Uni | /ʁwajom yn i/ | sm |
+| 8255 | Rwanda | le Rwanda | /ʁwɑ̃da/ | sm |
+| 8206 | Salvador | le Salvador | /salvadɔʁ/ | sm |
+| 8581 | Samoa | le Samoa | /samoa/ | sm |
+| 8587 | Sénégal | le Sénégal | /senegal/ | sm |
+| 8596 | Soudan | le Soudan | /sudɑ̃/ | sm |
+| 8253 | Soudan du Sud | le Soudan du Sud | /sudɑ̃ dy sud/ | sm |
+| 8594 | Sri Lanka | le Sri Lanka | /sʁi lɑ̃ka/ | sm |
+| 8290 | Surinam | le Surinam | /syʁinam/ | sm |
+| 8595 | Swaziland | le Swaziland | /swazilɑ̃d/ | sm |
+| 8602 | Tadjikistan | le Tadjikistan | /tadʒikistã/ | sm |
+| 8460 | Tchad | le Tchad | /tʃad/ | sm |
+| 7006 | Timor oriental | le Timor oriental | /timɔʁ ɔʁjɑ̃tal/ | sm |
+| 8605 | Togo | le Togo | /tɔɡo/ | sm |
+| 8609 | Turkménistan | le Turkménistan | /tyʁkmenistã/ | sm |
+| 8197 | Vatican | le Vatican | /vaticɑ̃/ | sm |
+| 8213 | Venezuela | le Venezuela | /vɛnezɥela/ | sm |
+| 8619 | Viêt Nam | le Viêt Nam | /vjɛtnam/ | sm |
+| 8504 | Yémen | le Yémen | /jɛmɛn/ | sm |
+| 8248 | Zimbabwe | le Zimbabwe | /zimbabwe/ | sm |
 
 
 
@@ -163,5 +172,37 @@ Certainly, here is the completed markdown table with the French words you provid
 | 8530 | Luxembourg | le Luxembourg | /lyksɑ̃buʁɡ/ | sm |
 | 8272 | Malawi | le Malawi | /malawi/ | sm |
 | 8536 | Mali | le Mali | /mali/ | sm |
+| 8195 | Monténégro | le Monténégro | /mɔ̃tenegʁo/ | sm |
+| 7004 | Mozambique | le Mozambique | /mozɑ̃bik/ | sm |
+| 8542 | Myanmar | le Myanmar | /myanmaʁ/ | sm |
+| 8551 | Népal | le Népal | /nepal/ | sm |
+| 8207 | Nicaragua | le Nicaragua | /nikaraɡwa/ | sm |
+| 8553 | Niger | le Niger | /niʒɛʁ/ | sm |
+| 8565 | Pakistan | le Pakistan | /pakistã/ | sm |
+| 8211 | Panama | le Panama | /panama/ | sm |
+| 8217 | Paraguay | le Paraguay | /paʁaɡwaj/ | sm |
+| 8567 | Pérou | le Pérou | /peʁu/ | sm |
+| 7001 | Portugal | le Portugal | /pɔʁtuɡal/ | sm |
+| 8458 | Qatar | le Qatar | /kataʁ/ | sm |
+| 8573 | Royaume-Uni | le Royaume-Uni | /ʁwajom yn i/ | sm |
+| 8255 | Rwanda | le Rwanda | /ʁwɑ̃da/ | sm |
+| 8206 | Salvador | le Salvador | /salvadɔʁ/ | sm |
+| 8581 | Samoa | le Samoa | /samoa/ | sm |
+| 8587 | Sénégal | le Sénégal | /senegal/ | sm |
+| 8596 | Soudan | le Soudan | /sudɑ̃/ | sm |
+| 8253 | Soudan du Sud | le Soudan du Sud | /sudɑ̃ dy sud/ | sm |
+| 8594 | Sri Lanka | le Sri Lanka | /sʁi lɑ̃ka/ | sm |
+| 8290 | Surinam | le Surinam | /syʁinam/ | sm |
+| 8595 | Swaziland | le Swaziland | /swazilɑ̃d/ | sm |
+| 8602 | Tadjikistan | le Tadjikistan | /tadʒikistã/ | sm |
+| 8460 | Tchad | le Tchad | /tʃad/ | sm |
+| 7006 | Timor oriental | le Timor oriental | /timɔʁ ɔʁjɑ̃tal/ | sm |
+| 8605 | Togo | le Togo | /tɔɡo/ | sm |
+| 8609 | Turkménistan | le Turkménistan | /tyʁkmenistã/ | sm |
+| 8197 | Vatican | le Vatican | /vaticɑ̃/ | sm |
+| 8213 | Venezuela | le Venezuela | /vɛnezɥela/ | sm |
+| 8619 | Viêt Nam | le Viêt Nam | /vjɛtnam/ | sm |
+| 8504 | Yémen | le Yémen | /jɛmɛn/ | sm |
+| 8248 | Zimbabwe | le Zimbabwe | /zimbabwe/ | sm |
 | 8242 | Maroc | le Maroc | /maʁɔk/ | sm |
 | 8198 | Mexique | le Mexique | /mɛksik/ | sm |

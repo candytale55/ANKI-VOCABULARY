@@ -1,3 +1,5 @@
+Here is the markdown table with the missing values filled in:
+
 | No. | Country | IPA (US) | IPA (UK) | TP |
 |-----|---------|----------|----------|----|
 | 8435 | South Africa | /ˈsaʊθ ˈæfrɪkə/ | /ˈsaʊθ ˈæfrɪkə/ | n. prop |
@@ -25,6 +27,13 @@
 | 8612 | Ukraine | /juˈkreɪn/ | /juˈkreɪn/ | n. prop |
 | 8220 | Uruguay | /ˈjʊrəɡwaɪ/ | /ˈjʊrəɡwaɪ/ | n. prop |
 | 8615 | Uzbekistan | /ʊz.bɛkɪˈstæn/ | /ʊz.bɛkɪˈstæn/ | n. prop |
+| 8616 | Vanuatu | /ˌvɑːnʊˈɑːtuː/ | /ˌvɑːnuˈɑːtuː/ | n. prop |
+| 8197 | Vatican | /ˈvætɪkən/ | /ˈvætɪkən/ | n. prop |
+| 8213 | Venezuela | /βeneˈswela/ | /ˌvɛnɪˈzweɪlə/ | n. prop |
+| 8619 | Vietnam | /bjet'nam/ | /ˌvjɛtˈnæm/ | n. prop |
+| 8504 | Yemen | /ˈjɛmən/ | /ˈjɛmən/ | n. prop |
+| 8249 | Zambia | /ˈzæmbiə/ | /ˈzæmbiə/ | n. prop |
+| 8248 | Zimbabwe | /zɪmˈbɑːbweɪ/ | /zɪmˈbɑːbweɪ/ | n. prop |
 
 # Countries
 | No. | Country | IPA (US) | IPA (UK) | TP |
@@ -216,3 +225,10 @@
 | 8612 | Ukraine | /juˈkreɪn/ | /juˈkreɪn/ | n. prop |
 | 8220 | Uruguay | /ˈjʊrəɡwaɪ/ | /ˈjʊrəɡwaɪ/ | n. prop |
 | 8615 | Uzbekistan | /ʊz.bɛkɪˈstæn/ | /ʊz.bɛkɪˈstæn/ | n. prop |
+| 8616 | Vanuatu | /ˌvɑːnʊˈɑːtuː/ | /ˌvɑːnuˈɑːtuː/ | n. prop |
+| 8197 | Vatican | /ˈvætɪkən/ | /ˈvætɪkən/ | n. prop |
+| 8213 | Venezuela | /βeneˈswela/ | /ˌvɛnɪˈzweɪlə/ | n. prop |
+| 8619 | Vietnam | /bjet'nam/ | /ˌvjɛtˈnæm/ | n. prop |
+| 8504 | Yemen | /ˈjɛmən/ | /ˈjɛmən/ | n. prop |
+| 8249 | Zambia | /ˈzæmbiə/ | /ˈzæmbiə/ | n. prop |
+| 8248 | Zimbabwe | /zɪmˈbɑːbweɪ/ | /zɪmˈbɑːbweɪ/ | n. prop |

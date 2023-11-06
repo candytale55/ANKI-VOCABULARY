@@ -2,28 +2,33 @@ Here is the markdown table with the provided information:
 
 | No. | Country | IPA (US) | IPA (UK) | TP |
 |-----|---------|----------|----------|----|
-| 8529 | Haiti | /ˈheɪti/ | /ˈheɪti/ | n. prop |
-| 8530 | Honduras | /hɒnˈdʊərəs/ | /hɒnˈdʊərəs/ | n. prop |
-| 8531 | Hungary | /ˈhʌŋɡəri/ | /ˈhʌŋɡəri/ | n. prop |
-| 8271 | Iceland | /ˈaɪslənd/ | /ˈaɪslənd/ | n. prop |
-| 8272 | India | /ˈɪndiə/ | /ˈɪndiə/ | n. prop |
-| 8533 | Indonesia | /ˌɪndəˈniːʒə/ | /ˌɪndəˈniːʒə/ | n. prop |
-| 8535 | Iran | /ɪˈrɑːn/ | /ɪˈrɑːn/ | n. prop |
-| 8512 | Iraq | /ɪˈræk/ | /ɪˈræk/ | n. prop |
-| 8513 | Ireland | /ˈaɪərlənd/ | /ˈaɪərlənd/ | n. prop |
-| 8515 | Israel | /ˈɪzreɪəl/ | /ˈɪzreɪəl/ | n. prop |
-| 8184 | Italy | /ˈɪtəli/ | /ˈɪtəli/ | n. prop |
-| 8261 | Ivory Coast | /ˈaɪvri koʊst/ | /ˈaɪvri koʊst/ | n. prop |
-| 8275 | Jamaica | /dʒəˈmeɪkə/ | /dʒəˈmeɪkə/ | n. prop |
-| 8329 | Japan | /dʒəˈpæn/ | /dʒəˈpæn/ | n. prop |
-| 8238 | Jordan | /ˈdʒɔːrdən/ | /ˈdʒɔːrdən/ | n. prop |
-| 8459 | Kazakhstan | /ˌkæzəkˈstɑːn/ | /ˌkæzəkˈstɑːn/ | n. prop |
-| 8268 | Kenya | /ˈkɛnjə/ | /ˈkɛnjə/ | n. prop |
-| 8520 | Kiribati | /ˌkɪrɪˈbæs/ | /ˌkɪrɪˈbæs/ | n. prop |
-| 8196 | Kosovo | /'kɒsəvəʊ/ | /'kɒsəvəʊ/ | n. prop |
-| 8239 | Kuwait | /kʊˈweɪt/ | /kʊˈweɪt/ | n. prop |
-| 8572 | Kyrgyzstan | /ˌkɜrɡɪˈstɑːn/ | /ˌkɜrɡɪˈstɑːn/ | n. prop |
-
+| 8522 | Laos | /laʊs/ | /laʊs/ | n. prop |
+| 8524 | Latvia | /ˈlætviə/ | /ˈlætviə/ | n. prop |
+| 8240 | Lebanon | /ˈlɛbənɒn/ | /ˈlɛbənɒn/ | n. prop |
+| 8269 | Lesotho | /ləˈsuːtuː/ | /ləˈsuːtuː/ | n. prop |
+| 8270 | Liberia | /laɪˈbɪəriə/ | /laɪˈbɪəriə/ | n. prop |
+| 8241 | Libya | /ˈlɪbiə/ | /ˈlɪbiə/ | n. prop |
+| 8528 | Liechtenstein | /ˈlɪktənstaɪn/ | /ˈlɪktənstaɪn/ | n. prop |
+| 8529 | Lithuania | /ˌlɪθjuˈeɪniə/ | /ˌlɪθjuˈeɪniə/ | n. prop |
+| 8530 | Luxembourg | /ˈlʌksəmbɜːrɡ/ | /ˈlʌksəmbɜːrɡ/ | n. prop |
+| 8531 | Macedonia | /ˌmæsɪˈdoʊniə/ | /ˌmæsɪˈdoʊniə/ | n. prop |
+| 8271 | Madagascar | /ˌmædəˈɡæskər/ | /ˌmædəˈɡæskər/ | n. prop |
+| 8272 | Malawi | /məˈlɔːwi/ | /məˈlɔːwi/ | n. prop |
+| 8533 | Malaysia | /məˈleɪʒə/ | /məˈleɪʒə/ | n. prop |
+| 8535 | Maldives | /ˈmɒldaɪvz/ | /ˈmɒldaɪvz/ | n. prop |
+| 8536 | Mali | /ˈmɑːli/ | /ˈmɑːli/ | n. prop |
+| 8194 | Malta | /ˈmɒltə/ | /ˈmɒltə/ | n. prop |
+| 8506 | Marshall Islands | /ˈmɑːrʃəl ˈaɪləndz/ | /ˈmɑːrʃəl ˈaɪləndz/ | n. prop |
+| 8274 | Mauritania | /ˌmɒrɪˈteɪniə/ | /ˌmɒrɪˈteɪniə/ | n. prop |
+| 8539 | Mauritius | /məˈrɪʃəs/ | /məˈrɪʃəs/ | n. prop |
+| 8198 | Mexico | /ˈmɛksɪkoʊ/ | /ˈmɛksɪkəʊ/ | n. prop |
+| 8543 | Micronesia | /ˌmaɪkrəˈniːʒə/ | /ˌmaɪkrəˈniːʒə/ | n. prop |
+| 8545 | Moldova | /mɒlˈdoʊvə/ | /mɒlˈdoʊvə/ | n. prop |
+| 8185 | Monaco | /ˈmɒnəkoʊ/ | /ˈmɒnəkoʊ/ | n. prop |
+| 8547 | Mongolia | /mɒŋˈɡoʊliə/ | /mɒŋˈɡoʊliə/ | n. prop |
+| 8195 | Montenegro | /ˌmɒntɪˈneɪɡroʊ/ | /ˌmɒntɪˈneɪɡroʊ/ | n. prop |
+| 8242 | Morocco | /məˈrɒkoʊ/ | /məˈrɒkoʊ/ | n. prop |
+| 7004 | Mozambique | /ˌmoʊzæmˈbiːk/ | /ˌmoʊzæmˈbiːk/ | n. prop |
 
 
 # Countries
@@ -116,4 +121,31 @@ Here is the markdown table with the provided information:
 | 8196 | Kosovo | /'kɒsəvəʊ/ | /'kɒsəvəʊ/ | n. prop |
 | 8239 | Kuwait | /kʊˈweɪt/ | /kʊˈweɪt/ | n. prop |
 | 8572 | Kyrgyzstan | /ˌkɜrɡɪˈstɑːn/ | /ˌkɜrɡɪˈstɑːn/ | n. prop |
+| 8522 | Laos | /laʊs/ | /laʊs/ | n. prop |
+| 8524 | Latvia | /ˈlætviə/ | /ˈlætviə/ | n. prop |
+| 8240 | Lebanon | /ˈlɛbənɒn/ | /ˈlɛbənɒn/ | n. prop |
+| 8269 | Lesotho | /ləˈsuːtuː/ | /ləˈsuːtuː/ | n. prop |
+| 8270 | Liberia | /laɪˈbɪəriə/ | /laɪˈbɪəriə/ | n. prop |
+| 8241 | Libya | /ˈlɪbiə/ | /ˈlɪbiə/ | n. prop |
+| 8528 | Liechtenstein | /ˈlɪktənstaɪn/ | /ˈlɪktənstaɪn/ | n. prop |
+| 8529 | Lithuania | /ˌlɪθjuˈeɪniə/ | /ˌlɪθjuˈeɪniə/ | n. prop |
+| 8530 | Luxembourg | /ˈlʌksəmbɜːrɡ/ | /ˈlʌksəmbɜːrɡ/ | n. prop |
+| 8531 | Macedonia | /ˌmæsɪˈdoʊniə/ | /ˌmæsɪˈdoʊniə/ | n. prop |
+| 8271 | Madagascar | /ˌmædəˈɡæskər/ | /ˌmædəˈɡæskər/ | n. prop |
+| 8272 | Malawi | /məˈlɔːwi/ | /məˈlɔːwi/ | n. prop |
+| 8533 | Malaysia | /məˈleɪʒə/ | /məˈleɪʒə/ | n. prop |
+| 8535 | Maldives | /ˈmɒldaɪvz/ | /ˈmɒldaɪvz/ | n. prop |
+| 8536 | Mali | /ˈmɑːli/ | /ˈmɑːli/ | n. prop |
+| 8194 | Malta | /ˈmɒltə/ | /ˈmɒltə/ | n. prop |
+| 8506 | Marshall Islands | /ˈmɑːrʃəl ˈaɪləndz/ | /ˈmɑːrʃəl ˈaɪləndz/ | n. prop |
+| 8274 | Mauritania | /ˌmɒrɪˈteɪniə/ | /ˌmɒrɪˈteɪniə/ | n. prop |
+| 8539 | Mauritius | /məˈrɪʃəs/ | /məˈrɪʃəs/ | n. prop |
+| 8198 | Mexico | /ˈmɛksɪkoʊ/ | /ˈmɛksɪkəʊ/ | n. prop |
+| 8543 | Micronesia | /ˌmaɪkrəˈniːʒə/ | /ˌmaɪkrəˈniːʒə/ | n. prop |
+| 8545 | Moldova | /mɒlˈdoʊvə/ | /mɒlˈdoʊvə/ | n. prop |
+| 8185 | Monaco | /ˈmɒnəkoʊ/ | /ˈmɒnəkoʊ/ | n. prop |
+| 8547 | Mongolia | /mɒŋˈɡoʊliə/ | /mɒŋˈɡoʊliə/ | n. prop |
+| 8195 | Montenegro | /ˌmɒntɪˈneɪɡroʊ/ | /ˌmɒntɪˈneɪɡroʊ/ | n. prop |
+| 8242 | Morocco | /məˈrɒkoʊ/ | /məˈrɒkoʊ/ | n. prop |
+| 7004 | Mozambique | /ˌmoʊzæmˈbiːk/ | /ˌmoʊzæmˈbiːk/ | n. prop |
 

@@ -2,25 +2,28 @@ Here is the markdown table with the provided information:
 
 | No. | Country | IPA (US) | IPA (UK) | TP |
 |-----|---------|----------|----------|----|
-| 8460 | Chad | /tʃæd/ | /tʃæd/ | n. prop |
-| 8461 | Chile | /ˈtʃɪli/ | /ˈtʃɪli/ | n. prop |
-| 8328 | China | /ˈtʃaɪnə/ | /ˈtʃaɪnə/ | n. prop |
-| 8464 | Colombia | /kəˈlʌmbiə/ | /kəˈlʌmbiə/ | n. prop |
-| 8465 | Comoros | /ˈkɒmərəʊz/ | /ˈkɒmərəʊz/ | n. prop |
-| 8466 | Congo | /ˈkɒŋɡoʊ/ | /ˈkɒŋɡəʊ/ | n. prop |
-| 8505 | Cook Islands | /kʊk ˈaɪləndz/ | /kʊk ˈaɪləndz/ | n. prop |
-| 8470 | Costa Rica | /ˌkoʊstə ˈriːkə/ | /ˌkoʊstə ˈriːkə/ | n. prop |
-| 8182 | Croatia | /kroʊˈeɪʃə/ | /kroʊˈeɪʃə/ | n. prop |
-| 8192 | Cyprus | /ˈsaɪprəs/ | /ˈsaɪprəs/ | n. prop |
-| 8577 | Czech Republic | /tʃɛk rɪˈpʌblɪk/ | /tʃɛk rɪˈpʌblɪk/ | n. prop |
-| 8472 | Denmark | /ˈdɛnmɑːk/ | /ˈdɛnmɑːk/ | n. prop |
-| 8473 | Djibouti | /dʒɪˈbuːti/ | /dʒɪˈbuːti/ | n. prop |
-| 8474 | Dominica | /ˌdɒmɪˈniːkə/ | /ˌdɒmɪˈniːkə/ | n. prop |
-| 8576 | Dominican Republic | /dəˌmɪnɪkən rɪˈpʌblɪk/ | /dəˌmɪnɪkən rɪˈpʌblɪk/ | n. prop |
-| 7006 | East Timor | /ˌiːst ˈtiːmɔːr/ | /ˌiːst ˈtiːmɔːr/ | n. prop |
-| 8214 | Ecuador | /ˈɛkwədɔːr/ | /ˈɛkwədɔːr/ | n. prop |
-| 8237 | Egypt | /iːdʒɪpt/ | /iːdʒɪpt/ | n. prop |
-| 8206 | El Salvador | /ɛl ˈsælvədɔːr/ | /ɛl ˈsælvədɔːr/ | n. prop |
+| 8331 | England | /ˈɪŋɡlənd/ | /ˈɪŋɡlənd/ | n. prop |
+| 7007 | Equatorial Guinea | /ˌɛkwəˈtɔːriəl ˈɡɪni/ | /ˌɛkwəˈtɔːriəl ˈɡɪni/ | n. prop |
+| 8262 | Eritrea | /ˌɛrɪˈtreɪə/ | /ˌɛrɪˈtreɪə/ | n. prop |
+| 8234 | Estados Unidos | /es'taðos u'niðos/ | /es'taðos u'niðos/ | n. prop |
+| 8483 | Estonia | /ɛsˈtoʊniə/ | /ɛsˈtoʊniə/ | n. prop |
+| 8595 | Eswatini | /ɛˈswɑːtɪni/ | /ɛˈswɑːtɪni/ | n. prop |
+| 8263 | Ethiopia | /iˈθiːoʊpiə/ | /iˈθiːəʊpiə/ | n. prop |
+| 8485 | Fiji | /ˈfiːdʒi/ | /ˈfiːdʒi/ | n. prop |
+| 8487 | Finland | /ˈfɪnlənd/ | /ˈfɪnlənd/ | n. prop |
+| 8330 | France | /fræns/ | /frɑːns/ | n. prop |
+| 8264 | Gabon | /ɡəˈbɒn/ | /ɡəˈbɒn/ | n. prop |
+| 8265 | Gambia | /ˈɡæmbiə/ | /ˈɡæmbiə/ | n. prop |
+| 8492 | Georgia | /ˈdʒɔːrdʒə/ | /ˈdʒɔːrdʒə/ | n. prop |
+| 8335 | Germany | /ˈdʒɜːməni/ | /ˈdʒɜːməni/ | n. prop |
+| 8491 | Ghana | /ˈɡɑːnə/ | /ˈɡɑːnə/ | n. prop |
+| 8522 | Greece | /ɡriːs/ | /ɡriːs/ | n. prop |
+| 8524 | Grenada | /ɡrɪˈneɪdə/ | /ɡrɪˈneɪdə/ | n. prop |
+| 8240 | Guatemala | /ˌɡwɑːtəˈmɑːlə/ | /ˌɡwɑːtəˈmɑːlə/ | n. prop |
+| 8269 | Guayana Francesa | /ɡwi'a.na fɾan'θesa/ | /ɡwaɪˈænə frænˈsɛsə/ | n. prop |
+| 8270 | Guinea | /ˈɡɪni/ | /ˈɡɪni/ | n. prop |
+| 8241 | Guinea-Bissau | /ˈɡɪni bɪˈsaʊ/ | /ˈɡɪni bɪˈsaʊ/ | n. prop |
+| 8528 | Guyana | /ɡaɪˈænə/ | /ɡaɪˈænə/ | n. prop |
 
 
 
@@ -70,5 +73,27 @@ Here is the markdown table with the provided information:
 | 7006 | East Timor | /ˌiːst ˈtiːmɔːr/ | /ˌiːst ˈtiːmɔːr/ | n. prop |
 | 8214 | Ecuador | /ˈɛkwədɔːr/ | /ˈɛkwədɔːr/ | n. prop |
 | 8237 | Egypt | /iːdʒɪpt/ | /iːdʒɪpt/ | n. prop |
+| 8331 | England | /ˈɪŋɡlənd/ | /ˈɪŋɡlənd/ | n. prop |
+| 7007 | Equatorial Guinea | /ˌɛkwəˈtɔːriəl ˈɡɪni/ | /ˌɛkwəˈtɔːriəl ˈɡɪni/ | n. prop |
+| 8262 | Eritrea | /ˌɛrɪˈtreɪə/ | /ˌɛrɪˈtreɪə/ | n. prop |
+| 8234 | Estados Unidos | /es'taðos u'niðos/ | /es'taðos u'niðos/ | n. prop |
+| 8483 | Estonia | /ɛsˈtoʊniə/ | /ɛsˈtoʊniə/ | n. prop |
+| 8595 | Eswatini | /ɛˈswɑːtɪni/ | /ɛˈswɑːtɪni/ | n. prop |
+| 8263 | Ethiopia | /iˈθiːoʊpiə/ | /iˈθiːəʊpiə/ | n. prop |
+| 8485 | Fiji | /ˈfiːdʒi/ | /ˈfiːdʒi/ | n. prop |
+| 8487 | Finland | /ˈfɪnlənd/ | /ˈfɪnlənd/ | n. prop |
+| 8330 | France | /fræns/ | /frɑːns/ | n. prop |
+| 8264 | Gabon | /ɡəˈbɒn/ | /ɡəˈbɒn/ | n. prop |
+| 8265 | Gambia | /ˈɡæmbiə/ | /ˈɡæmbiə/ | n. prop |
+| 8492 | Georgia | /ˈdʒɔːrdʒə/ | /ˈdʒɔːrdʒə/ | n. prop |
+| 8335 | Germany | /ˈdʒɜːməni/ | /ˈdʒɜːməni/ | n. prop |
+| 8491 | Ghana | /ˈɡɑːnə/ | /ˈɡɑːnə/ | n. prop |
+| 8522 | Greece | /ɡriːs/ | /ɡriːs/ | n. prop |
+| 8524 | Grenada | /ɡrɪˈneɪdə/ | /ɡrɪˈneɪdə/ | n. prop |
+| 8240 | Guatemala | /ˌɡwɑːtəˈmɑːlə/ | /ˌɡwɑːtəˈmɑːlə/ | n. prop |
+| 8269 | Guayana Francesa | /ɡwi'a.na fɾan'θesa/ | /ɡwaɪˈænə frænˈsɛsə/ | n. prop |
+| 8270 | Guinea | /ˈɡɪni/ | /ˈɡɪni/ | n. prop |
+| 8241 | Guinea-Bissau | /ˈɡɪni bɪˈsaʊ/ | /ˈɡɪni bɪˈsaʊ/ | n. prop |
+| 8528 | Guyana | /ɡaɪˈænə/ | /ɡaɪˈænə/ | n. prop |
 | 8206 | El Salvador | /ɛl ˈsælvədɔːr/ | /ɛl ˈsælvədɔːr/ | n. prop |
 

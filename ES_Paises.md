@@ -25,3 +25,23 @@ Here is the markdown table with the missing values filled in for Latin American 
 | 8449 | Brunéi | /bru.'ne.i/ | /bɾu.'ne.i/ | sm |
 | 8181 | Bulgaria | /bul.'ɡa.ɾi.a/ | /bul.'ɣa.ɾi.a/ | sf |
 | 8451 | Burkina Faso | /buɾ.'ki.na 'fasu/ | /buɾ.'ki.na 'faso/ | sf |
+| 8452 | Burundi | /bu.'ɾun.di/ | /bu.'ɾun.di/ | sm |
+| 8456 | Camboya | /kam.'bo.ʝa/ | /kam.'bo.ʝa/ | sf |
+| 8455 | Camerún | /ka.me.'ɾun/ | /ka.me.'ɾun/ | sm |
+| 8235 | Canadá | /ka.na.'ða/ | /ka.na.'ða/ | sm |
+| 7008 | Cabo Verde | /'ka.po 'βe.ɾðe/ | /'ka.po 'βe.ɾðe/ | sf |
+| 8460 | Chad | /tʃad/ | /tʃad/ | sm |
+| 8461 | Chile | /'tʃi.le/ | /'tʃi.le/ | sm |
+| 8328 | China | /'tʃi.na/ | /'tʃi.na/ | sf |
+| 8464 | Colombia | /ko.'lom.bja/ | /ko.lo.'m.bja/ | sf |
+| 8465 | Comoras | /ko.'mo.ɾas/ | /ko.'mo.ɾas/ | sfp |
+| 8466 | Congo | /'kon.ɡo/ | /'kon.ɡo/ | sm |
+| 8505 | Islas Cook | /'iz.las 'kuk/ | /'iz.las 'kuk/ | sfp |
+| 8470 | Costa Rica | /'kos.ta 'ɾi.ka/ | /'kos.ta 'ɾi.ka/ | sf |
+| 8182 | Croacia | /kɾo.'θja/ | /kɾo.'θja/ | sf |
+| 8192 | Chipre | /'tʃi.pre/ | /'tʃi.pre/ | sm |
+| 8577 | República Checa | /re.'pu.bli.ka 'ʧe.ka/ | /re.'pu.bli.ka 'ʧe.ka/ | sf |
+| 8472 | Dinamarca | /di.na.'maɾ.ka/ | /di.na.'maɾ.ka/ | sf |
+| 8473 | Yibuti | /ʝi.'bu.ti/ | /ʝi.'bu.ti/ | sm |
+| 8474 | Dominica | /do.'mi.ni.ka/ | /do.mi.'ni.ka/ | sf |
+| 8576 | República Dominicana | /re.'pu.bli.ka ðo.mi.ɲi.'kana/ | /re.'pu.bli.ka ðo.mi.ɲi.'kana/ | sf |

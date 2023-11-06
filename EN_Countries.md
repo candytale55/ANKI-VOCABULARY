@@ -2,32 +2,28 @@ Here is the markdown table with the provided information:
 
 | No. | Country | IPA (US) | IPA (UK) | TP |
 |-----|---------|----------|----------|----|
-| 8542 | Myanmar | /ˈmjænmɑːr/ | /ˈmjænmɑːr/ | n. prop |
-| 8549 | Namibia | /nəˈmɪbiə/ | /nəˈmɪbiə/ | n. prop |
-| 8550 | Nauru | /nɑːˈuːruː/ | /nɑːˈuːruː/ | n. prop |
-| 8551 | Nepal | /nɪˈpɔːl/ | /nɪˈpɔːl/ | n. prop |
-| 8501 | Netherlands | /'nɛðərləndz/ | /'nɛðərləndz/ | n. prop |
-| 8560 | Netherlands | /'nɛðərləndz/ | /'nɛðərləndz/ | n. prop |
-| 8557 | New Caledonia | /ˌnjuː ˌkælɪˈdoʊniə/ | /ˌnjuː ˌkælɪˈdoʊniə/ | n. prop |
-| 8558 | New Zealand | /njuː 'ziːlənd/ | /njuː 'ziːlənd/ | n. prop |
-| 8207 | Nicaragua | /ˌnɪkəˈrɑːɡwə/ | /ˌnɪkəˈrɑːɡwə/ | n. prop |
-| 8553 | Niger | /ˈnaɪdʒər/ | /ˈnaɪdʒər/ | n. prop |
-| 8554 | Nigeria | /naɪˈdʒɪəriə/ | /naɪˈdʒɪəriə/ | n. prop |
-| 8555 | Niue | /nɪ'uːeɪ/ | /nɪ'uːeɪ/ | n. prop |
-| 8467 | North Korea | /nɔːrθ kəˈriə/ | /nɔːrθ kəˈriə/ | n. prop |
-| 8190 | North Macedonia | /ˌnɔːrθ ˌmæsɪˈdoʊniə/ | /ˌnɔːrθ ˌmæsɪˈdoʊniə/ | n. prop |
-| 8332 | Norway | /ˈnɔːrweɪ/ | /ˈnɔːrweɪ/ | n. prop |
-| 8559 | Oman | /oʊˈmɑːn/ | /oʊˈmɑːn/ | n. prop |
-| 8565 | Pakistan | /ˈpækɪstæn/ | /ˈpækɪstæn/ | n. prop |
-| 8562 | Palau | /pəˈlaʊ/ | /pəˈlaʊ/ | n. prop |
-| 8211 | Panama | /ˈpænəmɑː/ | /ˈpænəmɑː/ | n. prop |
-| 8564 | Papua New Guinea | /ˈpæpjuə ˌnjuː ˈɡɪni/ | /ˈpæpjuə ˌnjuː ˈɡɪni/ | n. prop |
-| 8217 | Paraguay | /ˈpærəɡwaɪ/ | /ˈpærəɡwaɪ/ | n. prop |
-| 8567 | Peru | /pəˈruː/ | /pəˈruː/ | n. prop |
-| 8486 | Philippines | /ˈfɪləˌpinz/ | /ˈfɪləˌpinz/ | n. prop |
-| 8568 | Poland | /ˈpoʊlənd/ | /ˈpoʊlənd/ | n. prop |
-| 7001 | Portugal | /ˈpɔːtʃəɡəl/ | /ˈpɔːtʃəɡəl/ | n. prop |
-| 8200 | Puerto Rico | /ˌpwɛərtoʊ ˈrikoʊ/ | /ˌpwɛərtoʊ ˈrikoʊ/ | n. prop |
+| 8458 | Qatar | /ˈkɑːtɑːr/ | /ˈkɑːtɑːr/ | n. prop |
+| 8573 | Reino Unido | /'rejno u'niðo/ | /'reɪnoʊ ˈjuːkəd/ | n. prop |
+| 8574 | República Centroafricana | /re'puβlika θentɾoafɾi'kana/ | /re'puβlika θentɾoafɾi'kana/ | n. prop |
+| 8186 | Romania | /roʊˈmeɪniə/ | /roʊˈmeɪniə/ | n. prop |
+| 8333 | Russia | /ˈrʌʃə/ | /ˈrʌʃə/ | n. prop |
+| 8255 | Rwanda | /ruˈɑːndə/ | /ruˈɑːndə/ | n. prop |
+| 8284 | Saint Kitts and Nevis | /seɪnt kɪts ənd ˈniːvɪs/ | /seɪnt kɪts ənd ˈniːvɪs/ | n. prop |
+| 8279 | Saint Lucia | /seɪnt 'luːʃə/ | /seɪnt 'luːʃə/ | n. prop |
+| 8282 | Saint Vincent and the Grenadines | /seɪnt 'vɪnsənt ənd ðə ɡrɛnəˈdiːnz/ | /seɪnt 'vɪnsənt ənd ðə ɡrɛnəˈdiːnz/ | n. prop |
+| 8581 | Samoa | /səˈmoʊə/ | /səˈmoʊə/ | n. prop |
+| 8187 | San Marino | /ˌsæn məˈriːnoʊ/ | /ˌsæn məˈriːnoʊ/ | n. prop |
+| 7009 | São Tomé and Príncipe | /saʊn təˈmeɪ  ənd ˈpɹɪnsɪpə/ | /saʊn təˈmeɪ  ənd ˈpɹɪnsɪpə/ | n. prop |
+| 8244 | Saudi Arabia | /ˌsɔːdɪ əˈreɪbiə/ | /ˌsɔːdɪ əˈreɪbiə/ | n. prop |
+| 8587 | Senegal | /ˌsɛnɪˈɡɔːl/ | /ˌsɛnɪˈɡɔːl/ | n. prop |
+| 8589 | Serbia | /ˈsɜːrbiə/ | /ˈsɜːrbiə/ | n. prop |
+| 8590 | Seychelles | /seɪˈʃɛlz/ | /seɪˈʃɛlz/ | n. prop |
+| 8588 | Sierra Leone | /sɪˈɛrə lɪˈoʊn/ | /sɪˈɛrə lɪˈoʊn/ | n. prop |
+| 8591 | Singapore | /ˈsɪŋəpɔːr/ | /ˈsɪŋɡəpɔːr/ | n. prop |
+| 8479 | Slovakia | /sloʊˈvækijə/ | /sloʊˈvækijə/ | n. prop |
+| 8188 | Slovenia | /sləˈviːniə/ | /sləˈviːniə/ | n. prop |
+| 8507 | Solomon Islands | /ˈsɒləmən ˈaɪləndz/ | /ˈsɒləmən ˈaɪləndz/ | n. prop |
+| 8593 | Somalia | /səˈmɑːliə/ | /səˈmɑːliə/ | n. prop |
 
 
 # Countries
@@ -168,6 +164,28 @@ Here is the markdown table with the provided information:
 | 8211 | Panama | /ˈpænəmɑː/ | /ˈpænəmɑː/ | n. prop |
 | 8564 | Papua New Guinea | /ˈpæpjuə ˌnjuː ˈɡɪni/ | /ˈpæpjuə ˌnjuː ˈɡɪni/ | n. prop |
 | 8217 | Paraguay | /ˈpærəɡwaɪ/ | /ˈpærəɡwaɪ/ | n. prop |
+| 8458 | Qatar | /ˈkɑːtɑːr/ | /ˈkɑːtɑːr/ | n. prop |
+| 8573 | Reino Unido | /'rejno u'niðo/ | /'reɪnoʊ ˈjuːkəd/ | n. prop |
+| 8574 | República Centroafricana | /re'puβlika θentɾoafɾi'kana/ | /re'puβlika θentɾoafɾi'kana/ | n. prop |
+| 8186 | Romania | /roʊˈmeɪniə/ | /roʊˈmeɪniə/ | n. prop |
+| 8333 | Russia | /ˈrʌʃə/ | /ˈrʌʃə/ | n. prop |
+| 8255 | Rwanda | /ruˈɑːndə/ | /ruˈɑːndə/ | n. prop |
+| 8284 | Saint Kitts and Nevis | /seɪnt kɪts ənd ˈniːvɪs/ | /seɪnt kɪts ənd ˈniːvɪs/ | n. prop |
+| 8279 | Saint Lucia | /seɪnt 'luːʃə/ | /seɪnt 'luːʃə/ | n. prop |
+| 8282 | Saint Vincent and the Grenadines | /seɪnt 'vɪnsənt ənd ðə ɡrɛnəˈdiːnz/ | /seɪnt 'vɪnsənt ənd ðə ɡrɛnəˈdiːnz/ | n. prop |
+| 8581 | Samoa | /səˈmoʊə/ | /səˈmoʊə/ | n. prop |
+| 8187 | San Marino | /ˌsæn məˈriːnoʊ/ | /ˌsæn məˈriːnoʊ/ | n. prop |
+| 7009 | São Tomé and Príncipe | /saʊn təˈmeɪ  ənd ˈpɹɪnsɪpə/ | /saʊn təˈmeɪ  ənd ˈpɹɪnsɪpə/ | n. prop |
+| 8244 | Saudi Arabia | /ˌsɔːdɪ əˈreɪbiə/ | /ˌsɔːdɪ əˈreɪbiə/ | n. prop |
+| 8587 | Senegal | /ˌsɛnɪˈɡɔːl/ | /ˌsɛnɪˈɡɔːl/ | n. prop |
+| 8589 | Serbia | /ˈsɜːrbiə/ | /ˈsɜːrbiə/ | n. prop |
+| 8590 | Seychelles | /seɪˈʃɛlz/ | /seɪˈʃɛlz/ | n. prop |
+| 8588 | Sierra Leone | /sɪˈɛrə lɪˈoʊn/ | /sɪˈɛrə lɪˈoʊn/ | n. prop |
+| 8591 | Singapore | /ˈsɪŋəpɔːr/ | /ˈsɪŋɡəpɔːr/ | n. prop |
+| 8479 | Slovakia | /sloʊˈvækijə/ | /sloʊˈvækijə/ | n. prop |
+| 8188 | Slovenia | /sləˈviːniə/ | /sləˈviːniə/ | n. prop |
+| 8507 | Solomon Islands | /ˈsɒləmən ˈaɪləndz/ | /ˈsɒləmən ˈaɪləndz/ | n. prop |
+| 8593 | Somalia | /səˈmɑːliə/ | /səˈmɑːliə/ | n. prop |
 | 8567 | Peru | /pəˈruː/ | /pəˈruː/ | n. prop |
 | 8486 | Philippines | /ˈfɪləˌpinz/ | /ˈfɪləˌpinz/ | n. prop |
 | 8568 | Poland | /ˈpoʊlənd/ | /ˈpoʊlənd/ | n. prop |

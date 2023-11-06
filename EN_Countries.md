@@ -1,30 +1,30 @@
-Here is the markdown table with the provided information:
-
 | No. | Country | IPA (US) | IPA (UK) | TP |
 |-----|---------|----------|----------|----|
-| 8458 | Qatar | /ˈkɑːtɑːr/ | /ˈkɑːtɑːr/ | n. prop |
-| 8573 | Reino Unido | /'rejno u'niðo/ | /'reɪnoʊ ˈjuːkəd/ | n. prop |
-| 8574 | República Centroafricana | /re'puβlika θentɾoafɾi'kana/ | /re'puβlika θentɾoafɾi'kana/ | n. prop |
-| 8186 | Romania | /roʊˈmeɪniə/ | /roʊˈmeɪniə/ | n. prop |
-| 8333 | Russia | /ˈrʌʃə/ | /ˈrʌʃə/ | n. prop |
-| 8255 | Rwanda | /ruˈɑːndə/ | /ruˈɑːndə/ | n. prop |
-| 8284 | Saint Kitts and Nevis | /seɪnt kɪts ənd ˈniːvɪs/ | /seɪnt kɪts ənd ˈniːvɪs/ | n. prop |
-| 8279 | Saint Lucia | /seɪnt 'luːʃə/ | /seɪnt 'luːʃə/ | n. prop |
-| 8282 | Saint Vincent and the Grenadines | /seɪnt 'vɪnsənt ənd ðə ɡrɛnəˈdiːnz/ | /seɪnt 'vɪnsənt ənd ðə ɡrɛnəˈdiːnz/ | n. prop |
-| 8581 | Samoa | /səˈmoʊə/ | /səˈmoʊə/ | n. prop |
-| 8187 | San Marino | /ˌsæn məˈriːnoʊ/ | /ˌsæn məˈriːnoʊ/ | n. prop |
-| 7009 | São Tomé and Príncipe | /saʊn təˈmeɪ  ənd ˈpɹɪnsɪpə/ | /saʊn təˈmeɪ  ənd ˈpɹɪnsɪpə/ | n. prop |
-| 8244 | Saudi Arabia | /ˌsɔːdɪ əˈreɪbiə/ | /ˌsɔːdɪ əˈreɪbiə/ | n. prop |
-| 8587 | Senegal | /ˌsɛnɪˈɡɔːl/ | /ˌsɛnɪˈɡɔːl/ | n. prop |
-| 8589 | Serbia | /ˈsɜːrbiə/ | /ˈsɜːrbiə/ | n. prop |
-| 8590 | Seychelles | /seɪˈʃɛlz/ | /seɪˈʃɛlz/ | n. prop |
-| 8588 | Sierra Leone | /sɪˈɛrə lɪˈoʊn/ | /sɪˈɛrə lɪˈoʊn/ | n. prop |
-| 8591 | Singapore | /ˈsɪŋəpɔːr/ | /ˈsɪŋɡəpɔːr/ | n. prop |
-| 8479 | Slovakia | /sloʊˈvækijə/ | /sloʊˈvækijə/ | n. prop |
-| 8188 | Slovenia | /sləˈviːniə/ | /sləˈviːniə/ | n. prop |
-| 8507 | Solomon Islands | /ˈsɒləmən ˈaɪləndz/ | /ˈsɒləmən ˈaɪləndz/ | n. prop |
-| 8593 | Somalia | /səˈmɑːliə/ | /səˈmɑːliə/ | n. prop |
-
+| 8435 | South Africa | /ˈsaʊθ ˈæfrɪkə/ | /ˈsaʊθ ˈæfrɪkə/ | n. prop |
+| 8468 | South Korea | /ˌsaʊθ kəˈriə/ | /ˌsaʊθ kəˈriə/ | n. prop |
+| 8253 | South Sudan | /saʊθ suˈdæn/ | /saʊθ suˈdæn/ | n. prop |
+| 8189 | Spain | /speɪn/ | /speɪn/ | n. prop |
+| 8594 | Sri Lanka | /ʃri ˈlɑːŋkə/ | /ʃri ˈlæŋkə/ | n. prop |
+| 8596 | Sudan | /suˈdæn/ | /ˈsuːdən/ | n. prop |
+| 8290 | Suriname | /ˈsʊrɪnæm/ | /ˈsʊrɪnæm/ | n. prop |
+| 8334 | Sweden | /ˈswiːdən/ | /ˈswiːdən/ | n. prop |
+| 8599 | Switzerland | /ˈswɪtsərlənd/ | /ˈswɪtsərlənd/ | n. prop |
+| 8245 | Syria | /ˈsɪriə/ | /ˈsɪriə/ | n. prop |
+| 8602 | Tajikistan | /ˌtɑːdʒɪkɪˈstɑːn/ | /ˌtɑːdʒɪkɪˈstæn/ | n. prop |
+| 8250 | Tanzania | /ˌtænzəˈniːə/ | /ˌtænzəˈniːə/ | n. prop |
+| 8601 | Thailand | /ˈtaɪlænd/ | /ˈtaɪlænd/ | n. prop |
+| 8444 | The Bahamas | /ðə bəˈhɑːməz/ | /ðə bəˈhɑːməz/ | n. prop |
+| 8605 | Togo | /ˈtoʊɡoʊ/ | /ˈtoʊɡoʊ/ | n. prop |
+| 8606 | Tonga | /ˈtɒŋɡə/ | /ˈtɒŋɡə/ | n. prop |
+| 8607 | Trinidad and Tobago | /ˌtrɪnɪdæd ənd təˈbeɪɡoʊ/ | /ˌtrɪnɪdæd ənd təˈbeɪɡoʊ/ | n. prop |
+| 8246 | Tunisia | /tuˈniʒə/ | /tuˈniʒə/ | n. prop |
+| 8193 | Turkey | /ˈtɜːrki/ | /ˈtɜːrki/ | n. prop |
+| 8609 | Turkmenistan | /tɜːrkˈmɛnɪstæn/ | /tɜːrkˈmɛnɪstæn/ | n. prop |
+| 8611 | Tuvalu | /tuːˈvɑːluː/ | /tuːˈvɑːluː/ | n. prop |
+| 8251 | Uganda | /juːˈɡændə/ | /juːˈɡændə/ | n. prop |
+| 8612 | Ukraine | /juˈkreɪn/ | /juˈkreɪn/ | n. prop |
+| 8220 | Uruguay | /ˈjʊrəɡwaɪ/ | /ˈjʊrəɡwaɪ/ | n. prop |
+| 8615 | Uzbekistan | /ʊz.bɛkɪˈstæn/ | /ʊz.bɛkɪˈstæn/ | n. prop |
 
 # Countries
 | No. | Country | IPA (US) | IPA (UK) | TP |
@@ -191,4 +191,28 @@ Here is the markdown table with the provided information:
 | 8568 | Poland | /ˈpoʊlənd/ | /ˈpoʊlənd/ | n. prop |
 | 7001 | Portugal | /ˈpɔːtʃəɡəl/ | /ˈpɔːtʃəɡəl/ | n. prop |
 | 8200 | Puerto Rico | /ˌpwɛərtoʊ ˈrikoʊ/ | /ˌpwɛərtoʊ ˈrikoʊ/ | n. prop |
-
+| 8435 | South Africa | /ˈsaʊθ ˈæfrɪkə/ | /ˈsaʊθ ˈæfrɪkə/ | n. prop |
+| 8468 | South Korea | /ˌsaʊθ kəˈriə/ | /ˌsaʊθ kəˈriə/ | n. prop |
+| 8253 | South Sudan | /saʊθ suˈdæn/ | /saʊθ suˈdæn/ | n. prop |
+| 8189 | Spain | /speɪn/ | /speɪn/ | n. prop |
+| 8594 | Sri Lanka | /ʃri ˈlɑːŋkə/ | /ʃri ˈlæŋkə/ | n. prop |
+| 8596 | Sudan | /suˈdæn/ | /ˈsuːdən/ | n. prop |
+| 8290 | Suriname | /ˈsʊrɪnæm/ | /ˈsʊrɪnæm/ | n. prop |
+| 8334 | Sweden | /ˈswiːdən/ | /ˈswiːdən/ | n. prop |
+| 8599 | Switzerland | /ˈswɪtsərlənd/ | /ˈswɪtsərlənd/ | n. prop |
+| 8245 | Syria | /ˈsɪriə/ | /ˈsɪriə/ | n. prop |
+| 8602 | Tajikistan | /ˌtɑːdʒɪkɪˈstɑːn/ | /ˌtɑːdʒɪkɪˈstæn/ | n. prop |
+| 8250 | Tanzania | /ˌtænzəˈniːə/ | /ˌtænzəˈniːə/ | n. prop |
+| 8601 | Thailand | /ˈtaɪlænd/ | /ˈtaɪlænd/ | n. prop |
+| 8444 | The Bahamas | /ðə bəˈhɑːməz/ | /ðə bəˈhɑːməz/ | n. prop |
+| 8605 | Togo | /ˈtoʊɡoʊ/ | /ˈtoʊɡoʊ/ | n. prop |
+| 8606 | Tonga | /ˈtɒŋɡə/ | /ˈtɒŋɡə/ | n. prop |
+| 8607 | Trinidad and Tobago | /ˌtrɪnɪdæd ənd təˈbeɪɡoʊ/ | /ˌtrɪnɪdæd ənd təˈbeɪɡoʊ/ | n. prop |
+| 8246 | Tunisia | /tuˈniʒə/ | /tuˈniʒə/ | n. prop |
+| 8193 | Turkey | /ˈtɜːrki/ | /ˈtɜːrki/ | n. prop |
+| 8609 | Turkmenistan | /tɜːrkˈmɛnɪstæn/ | /tɜːrkˈmɛnɪstæn/ | n. prop |
+| 8611 | Tuvalu | /tuːˈvɑːluː/ | /tuːˈvɑːluː/ | n. prop |
+| 8251 | Uganda | /juːˈɡændə/ | /juːˈɡændə/ | n. prop |
+| 8612 | Ukraine | /juˈkreɪn/ | /juˈkreɪn/ | n. prop |
+| 8220 | Uruguay | /ˈjʊrəɡwaɪ/ | /ˈjʊrəɡwaɪ/ | n. prop |
+| 8615 | Uzbekistan | /ʊz.bɛkɪˈstæn/ | /ʊz.bɛkɪˈstæn/ | n. prop |

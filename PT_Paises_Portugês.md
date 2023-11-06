@@ -1,9 +1,31 @@
 
 
+| No.  | Português      | + Artigo              | IPA (PT)               | IPA (BR)               | TP  | EN             | ES             | 
+|------|----------------|-----------------------|------------------------|------------------------|-----|----------------|----------------|
+| 8181 | Bulgária       | **a** Bulgária         | /buɫ.'ɡa.ɾi.ɐ/         | /buw.'ɡa.ɾi.ɐ/         | sf  | Bulgaria       | Bulgaria      |
+| 8451 | Burkina Faso   | **o** Burkina Faso     | /buɾ'kinɐ 'fasu/       | /buɾ'kina 'fasu/       | sm  | Burkina Faso   | Burkina Faso  |
+| 8452 | Burundi        | **o** Burundi          | /bu.ɾũ'di/             | /bu.ɾũ'di/             | sm  | Burundi        | Burundi       |
+| 8456 | Camboja        | **o** Camboja          | /kɐ̃m.'bo.ʒɐ/          | /kɐ̃m.'bo.ʒɐ/          | sm  | Cambodia       | Camboya       |
+| 8455 | Camarões       | **os** Camarões        | /kɐ.mɐ.'ɾõj̃ʃ/         | /kɐ.mɐ.'ɾõj̃ʃ/         | smp | Cameroon       | Camerún       |
+| 8235 | Canadá         | **o** Canadá           | /kɐ.nɐ.'dɐ/            | /kɐ.nɐ.'da/            | sm  | Canada         | Canadá        |
+| 7008 | Cabo Verde     | **o** Cabo Verde       | /'kabu 'veɾ.ðɨ/        | /'kabu 'veɾ.ðʒi/       | sm  | Cape Verde     | Cabo Verde    |
+| 8460 | Chade          | **o** Chade            | /'ʃa.dɨ/               | /'ʃa.dɨ/               | sm  | Chad           | Chad          |
+| 8461 | Chile          | **o** Chile            | /'ʃi.li/               | /'ʃi.li/               | sm  | Chile          | Chile         |
+| 8328 | China          | **a** China            | /'ʃi.nɐ/               | /'ʃi.nɐ/               | sf  | China          | China         |
+| 8464 | Colômbia       | **a** Colômbia         | /ku.'lõm.bi.ɐ/         | /ko.'lõm.bi.ɐ/         | sf  | Colombia       | Colombia      |
+| 8465 | Comores        | **as** Comores         | /ku.'mo.ɾɨʃ/           | /ko.'mo.ɾɨʃ/           | sfp | Comoros        | Comoras       |
+| 8575 | Congo          | **o** Congo            | /'kõ.ɡu/               | /'kõ.ɡu/               | sm  | Congo          | Congo         |
+| 8466 | Congo          | **o** Congo            | /'kõ.ɡu/               | /'kõ.ɡu/               | sm  | Congo          | Congo         |
+| 8505 | Ilhas Cook     | **as** Ilhas Cook      | /ˈiʎɐʃ ku'k/          | /ˈiʎɐʃ ku'k/          | sfp | Cook Islands   | Islas Cook    |
+| 8470 | Costa Rica     | **a** Costa Rica       | /'kɔʃ.tɐ 'ʁi.kɐ/       | /'kɔs.tɐ 'hi.kɐ/       | sf  | Costa Rica     | Costa Rica    |
+| 8182 | Croácia        | **a** Croácia          | /kɾo.'ɐ.si.ɐ/          | /kɾɔ.'a.si.ɐ/          | sf  | Croatia        | Croacia       |
+| 8192 | Chipre         | **o** Chipre           | /ʃi.'pɾi/              | /ʃi.'pɾi/              | sm  | Cyprus         | Chipre        |
+| 8577 | República Tcheca | **a** República Tcheca | /ɦɛ.'pub.li.kɐ 'tʃɛ.kɐ/ | /ʁɛ.'pu.bli.kɐ 'tʃɛ.kɐ/ | sf | Czech Republic | República Checa |
+| 8472 | Dinamarca      | **a** Dinamarca        | /dinɐ'maɾ.kɐ/          | /dinɐ'maɾ.kɐ/          | sf  | Denmark        | Dinamarca     |
+| 8473 | Djibouti       | **o** Djibouti         | /ʒi.bu'ti/             | /dʒi.bu'ti/            | sm  | Djibouti       | Yibuti       |
+| 8474 | Dominica       | **a** Dominica         | /du.mi'njikɐ/          | /do.mi'nika/           | sf  | Dominica       | Dominica      |
 
-Apologies for the confusion earlier. Here is the corrected markdown table with the words in the right order:
-
-| No. | Português | - Artigo | IPA (PT) | IPA (BR) | Tipo de Palavra | EN | ES |
+| No. | Português | + Artigo | IPA (PT) | IPA (BR) | Tipo de Palavra | EN | ES |
 |-----|-----------|----------|----------|----------|-----------------|----|----|
 | 8434 | Afeganistão | o Afeganistão | /ɐ.fɨ.ɡɐ̃ʃ.tɐ̃'w̃/ | /a.fe.ɡɐ̃ʃ.tɐ̃'w̃/ | sm | Afghanistan | Afganistán |
 | 8178 | Albânia | a Albânia | /ɐw.'ba.ni.ɐ/ | /aw.'ba.ni.ɐ/ | sf | Albania | Albania |
@@ -23,3 +45,25 @@ Apologies for the confusion earlier. Here is the corrected markdown table with t
 | 8447 | Botsuana | o Botsuana | /bo.tsu'ɐ.nɐ/ | /bo.tsu'ɐ.nɐ/ | sm | Botswana | Botsuana |
 | 7002 | Brasil | o Brasil | /bɾɐ'ziw/ | /bɾa'ziw/ | sm | Brazil | Brasil |
 | 8449 | Brunei | o Brunei | /bɾu'ne.i/ | /bɾu'ne.i/ | sm | Brunei | Brunéi |
+| 8181 | Bulgária       | **a** Bulgária         | /buɫ.'ɡa.ɾi.ɐ/         | /buw.'ɡa.ɾi.ɐ/         | sf  | Bulgaria       | Bulgaria      |
+| 8451 | Burkina Faso   | **o** Burkina Faso     | /buɾ'kinɐ 'fasu/       | /buɾ'kina 'fasu/       | sm  | Burkina Faso   | Burkina Faso  |
+| 8452 | Burundi        | **o** Burundi          | /bu.ɾũ'di/             | /bu.ɾũ'di/             | sm  | Burundi        | Burundi       |
+| 8456 | Camboja        | **o** Camboja          | /kɐ̃m.'bo.ʒɐ/          | /kɐ̃m.'bo.ʒɐ/          | sm  | Cambodia       | Camboya       |
+| 8455 | Camarões       | **os** Camarões        | /kɐ.mɐ.'ɾõj̃ʃ/         | /kɐ.mɐ.'ɾõj̃ʃ/         | smp | Cameroon       | Camerún       |
+| 8235 | Canadá         | **o** Canadá           | /kɐ.nɐ.'dɐ/            | /kɐ.nɐ.'da/            | sm  | Canada         | Canadá        |
+| 7008 | Cabo Verde     | **o** Cabo Verde       | /'kabu 'veɾ.ðɨ/        | /'kabu 'veɾ.ðʒi/       | sm  | Cape Verde     | Cabo Verde    |
+| 8460 | Chade          | **o** Chade            | /'ʃa.dɨ/               | /'ʃa.dɨ/               | sm  | Chad           | Chad          |
+| 8461 | Chile          | **o** Chile            | /'ʃi.li/               | /'ʃi.li/               | sm  | Chile          | Chile         |
+| 8328 | China          | **a** China            | /'ʃi.nɐ/               | /'ʃi.nɐ/               | sf  | China          | China         |
+| 8464 | Colômbia       | **a** Colômbia         | /ku.'lõm.bi.ɐ/         | /ko.'lõm.bi.ɐ/         | sf  | Colombia       | Colombia      |
+| 8465 | Comores        | **as** Comores         | /ku.'mo.ɾɨʃ/           | /ko.'mo.ɾɨʃ/           | sfp | Comoros        | Comoras       |
+| 8575 | Congo          | **o** Congo            | /'kõ.ɡu/               | /'kõ.ɡu/               | sm  | Congo          | Congo         |
+| 8466 | Congo          | **o** Congo            | /'kõ.ɡu/               | /'kõ.ɡu/               | sm  | Congo          | Congo         |
+| 8505 | Ilhas Cook     | **as** Ilhas Cook      | /ˈiʎɐʃ ku'k/          | /ˈiʎɐʃ ku'k/          | sfp | Cook Islands   | Islas Cook    |
+| 8470 | Costa Rica     | **a** Costa Rica       | /'kɔʃ.tɐ 'ʁi.kɐ/       | /'kɔs.tɐ 'hi.kɐ/       | sf  | Costa Rica     | Costa Rica    |
+| 8182 | Croácia        | **a** Croácia          | /kɾo.'ɐ.si.ɐ/          | /kɾɔ.'a.si.ɐ/          | sf  | Croatia        | Croacia       |
+| 8192 | Chipre         | **o** Chipre           | /ʃi.'pɾi/              | /ʃi.'pɾi/              | sm  | Cyprus         | Chipre        |
+| 8577 | República Tcheca | **a** República Tcheca | /ɦɛ.'pub.li.kɐ 'tʃɛ.kɐ/ | /ʁɛ.'pu.bli.kɐ 'tʃɛ.kɐ/ | sf | Czech Republic | República Checa |
+| 8472 | Dinamarca      | **a** Dinamarca        | /dinɐ'maɾ.kɐ/          | /dinɐ'maɾ.kɐ/          | sf  | Denmark        | Dinamarca     |
+| 8473 | Djibouti       | **o** Djibouti         | /ʒi.bu'ti/             | /dʒi.bu'ti/            | sm  | Djibouti       | Yibuti       |
+| 8474 | Dominica       | **a** Dominica         | /du.mi'njikɐ/          | /do.mi'nika/           | sf  | Dominica       | Dominica      |

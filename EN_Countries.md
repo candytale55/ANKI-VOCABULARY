@@ -1,41 +1,7 @@
-Here is the markdown table with the missing values filled in:
-
-| No. | Country | IPA (US) | IPA (UK) | TP |
-|-----|---------|----------|----------|----|
-| 8435 | South Africa | /ˈsaʊθ ˈæfrɪkə/ | /ˈsaʊθ ˈæfrɪkə/ | n. prop |
-| 8468 | South Korea | /ˌsaʊθ kəˈriə/ | /ˌsaʊθ kəˈriə/ | n. prop |
-| 8253 | South Sudan | /saʊθ suˈdæn/ | /saʊθ suˈdæn/ | n. prop |
-| 8189 | Spain | /speɪn/ | /speɪn/ | n. prop |
-| 8594 | Sri Lanka | /ʃri ˈlɑːŋkə/ | /ʃri ˈlæŋkə/ | n. prop |
-| 8596 | Sudan | /suˈdæn/ | /ˈsuːdən/ | n. prop |
-| 8290 | Suriname | /ˈsʊrɪnæm/ | /ˈsʊrɪnæm/ | n. prop |
-| 8334 | Sweden | /ˈswiːdən/ | /ˈswiːdən/ | n. prop |
-| 8599 | Switzerland | /ˈswɪtsərlənd/ | /ˈswɪtsərlənd/ | n. prop |
-| 8245 | Syria | /ˈsɪriə/ | /ˈsɪriə/ | n. prop |
-| 8602 | Tajikistan | /ˌtɑːdʒɪkɪˈstɑːn/ | /ˌtɑːdʒɪkɪˈstæn/ | n. prop |
-| 8250 | Tanzania | /ˌtænzəˈniːə/ | /ˌtænzəˈniːə/ | n. prop |
-| 8601 | Thailand | /ˈtaɪlænd/ | /ˈtaɪlænd/ | n. prop |
-| 8444 | The Bahamas | /ðə bəˈhɑːməz/ | /ðə bəˈhɑːməz/ | n. prop |
-| 8605 | Togo | /ˈtoʊɡoʊ/ | /ˈtoʊɡoʊ/ | n. prop |
-| 8606 | Tonga | /ˈtɒŋɡə/ | /ˈtɒŋɡə/ | n. prop |
-| 8607 | Trinidad and Tobago | /ˌtrɪnɪdæd ənd təˈbeɪɡoʊ/ | /ˌtrɪnɪdæd ənd təˈbeɪɡoʊ/ | n. prop |
-| 8246 | Tunisia | /tuˈniʒə/ | /tuˈniʒə/ | n. prop |
-| 8193 | Turkey | /ˈtɜːrki/ | /ˈtɜːrki/ | n. prop |
-| 8609 | Turkmenistan | /tɜːrkˈmɛnɪstæn/ | /tɜːrkˈmɛnɪstæn/ | n. prop |
-| 8611 | Tuvalu | /tuːˈvɑːluː/ | /tuːˈvɑːluː/ | n. prop |
-| 8251 | Uganda | /juːˈɡændə/ | /juːˈɡændə/ | n. prop |
-| 8612 | Ukraine | /juˈkreɪn/ | /juˈkreɪn/ | n. prop |
-| 8220 | Uruguay | /ˈjʊrəɡwaɪ/ | /ˈjʊrəɡwaɪ/ | n. prop |
-| 8615 | Uzbekistan | /ʊz.bɛkɪˈstæn/ | /ʊz.bɛkɪˈstæn/ | n. prop |
-| 8616 | Vanuatu | /ˌvɑːnʊˈɑːtuː/ | /ˌvɑːnuˈɑːtuː/ | n. prop |
-| 8197 | Vatican | /ˈvætɪkən/ | /ˈvætɪkən/ | n. prop |
-| 8213 | Venezuela | /βeneˈswela/ | /ˌvɛnɪˈzweɪlə/ | n. prop |
-| 8619 | Vietnam | /bjet'nam/ | /ˌvjɛtˈnæm/ | n. prop |
-| 8504 | Yemen | /ˈjɛmən/ | /ˈjɛmən/ | n. prop |
-| 8249 | Zambia | /ˈzæmbiə/ | /ˈzæmbiə/ | n. prop |
-| 8248 | Zimbabwe | /zɪmˈbɑːbweɪ/ | /zɪmˈbɑːbweɪ/ | n. prop |
 
 # Countries
+
+
 | No. | Country | IPA (US) | IPA (UK) | TP |
 |-----|---------|----------|----------|----|
 | 8434 | Afghanistan | /æfˈɡænɪstæn/ | /æfˈɡænɪˌstæn/ | n. prop |

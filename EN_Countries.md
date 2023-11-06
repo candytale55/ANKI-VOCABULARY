@@ -1,6 +1,30 @@
-
 Here is the markdown table with the provided information:
 
+| No. | Country | IPA (US) | IPA (UK) | TP |
+|-----|---------|----------|----------|----|
+| 8460 | Chad | /tʃæd/ | /tʃæd/ | n. prop |
+| 8461 | Chile | /ˈtʃɪli/ | /ˈtʃɪli/ | n. prop |
+| 8328 | China | /ˈtʃaɪnə/ | /ˈtʃaɪnə/ | n. prop |
+| 8464 | Colombia | /kəˈlʌmbiə/ | /kəˈlʌmbiə/ | n. prop |
+| 8465 | Comoros | /ˈkɒmərəʊz/ | /ˈkɒmərəʊz/ | n. prop |
+| 8466 | Congo | /ˈkɒŋɡoʊ/ | /ˈkɒŋɡəʊ/ | n. prop |
+| 8505 | Cook Islands | /kʊk ˈaɪləndz/ | /kʊk ˈaɪləndz/ | n. prop |
+| 8470 | Costa Rica | /ˌkoʊstə ˈriːkə/ | /ˌkoʊstə ˈriːkə/ | n. prop |
+| 8182 | Croatia | /kroʊˈeɪʃə/ | /kroʊˈeɪʃə/ | n. prop |
+| 8192 | Cyprus | /ˈsaɪprəs/ | /ˈsaɪprəs/ | n. prop |
+| 8577 | Czech Republic | /tʃɛk rɪˈpʌblɪk/ | /tʃɛk rɪˈpʌblɪk/ | n. prop |
+| 8472 | Denmark | /ˈdɛnmɑːk/ | /ˈdɛnmɑːk/ | n. prop |
+| 8473 | Djibouti | /dʒɪˈbuːti/ | /dʒɪˈbuːti/ | n. prop |
+| 8474 | Dominica | /ˌdɒmɪˈniːkə/ | /ˌdɒmɪˈniːkə/ | n. prop |
+| 8576 | Dominican Republic | /dəˌmɪnɪkən rɪˈpʌblɪk/ | /dəˌmɪnɪkən rɪˈpʌblɪk/ | n. prop |
+| 7006 | East Timor | /ˌiːst ˈtiːmɔːr/ | /ˌiːst ˈtiːmɔːr/ | n. prop |
+| 8214 | Ecuador | /ˈɛkwədɔːr/ | /ˈɛkwədɔːr/ | n. prop |
+| 8237 | Egypt | /iːdʒɪpt/ | /iːdʒɪpt/ | n. prop |
+| 8206 | El Salvador | /ɛl ˈsælvədɔːr/ | /ɛl ˈsælvədɔːr/ | n. prop |
+
+
+
+# Countries
 | No. | Country | IPA (US) | IPA (UK) | TP |
 |-----|---------|----------|----------|----|
 | 8434 | Afghanistan | /æfˈɡænɪstæn/ | /æfˈɡænɪˌstæn/ | n. prop |
@@ -28,3 +52,23 @@ Here is the markdown table with the provided information:
 | 8455 | Cameroon | /kæməˈruːn/ | /kæməˈruːn/ | n. prop |
 | 8235 | Canada | /ˈkænədə/ | /ˈkænədə/ | n. prop |
 | 7008 | Cape Verde | /ˌkeɪp ˈvɜːrd/ | /ˌkeɪp ˈvɜːrd/ | n. prop |
+| 8460 | Chad | /tʃæd/ | /tʃæd/ | n. prop |
+| 8461 | Chile | /ˈtʃɪli/ | /ˈtʃɪli/ | n. prop |
+| 8328 | China | /ˈtʃaɪnə/ | /ˈtʃaɪnə/ | n. prop |
+| 8464 | Colombia | /kəˈlʌmbiə/ | /kəˈlʌmbiə/ | n. prop |
+| 8465 | Comoros | /ˈkɒmərəʊz/ | /ˈkɒmərəʊz/ | n. prop |
+| 8466 | Congo | /ˈkɒŋɡoʊ/ | /ˈkɒŋɡəʊ/ | n. prop |
+| 8505 | Cook Islands | /kʊk ˈaɪləndz/ | /kʊk ˈaɪləndz/ | n. prop |
+| 8470 | Costa Rica | /ˌkoʊstə ˈriːkə/ | /ˌkoʊstə ˈriːkə/ | n. prop |
+| 8182 | Croatia | /kroʊˈeɪʃə/ | /kroʊˈeɪʃə/ | n. prop |
+| 8192 | Cyprus | /ˈsaɪprəs/ | /ˈsaɪprəs/ | n. prop |
+| 8577 | Czech Republic | /tʃɛk rɪˈpʌblɪk/ | /tʃɛk rɪˈpʌblɪk/ | n. prop |
+| 8472 | Denmark | /ˈdɛnmɑːk/ | /ˈdɛnmɑːk/ | n. prop |
+| 8473 | Djibouti | /dʒɪˈbuːti/ | /dʒɪˈbuːti/ | n. prop |
+| 8474 | Dominica | /ˌdɒmɪˈniːkə/ | /ˌdɒmɪˈniːkə/ | n. prop |
+| 8576 | Dominican Republic | /dəˌmɪnɪkən rɪˈpʌblɪk/ | /dəˌmɪnɪkən rɪˈpʌblɪk/ | n. prop |
+| 7006 | East Timor | /ˌiːst ˈtiːmɔːr/ | /ˌiːst ˈtiːmɔːr/ | n. prop |
+| 8214 | Ecuador | /ˈɛkwədɔːr/ | /ˈɛkwədɔːr/ | n. prop |
+| 8237 | Egypt | /iːdʒɪpt/ | /iːdʒɪpt/ | n. prop |
+| 8206 | El Salvador | /ɛl ˈsælvədɔːr/ | /ɛl ˈsælvədɔːr/ | n. prop |
+

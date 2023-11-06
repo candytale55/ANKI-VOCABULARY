@@ -2,33 +2,32 @@ Here is the markdown table with the provided information:
 
 | No. | Country | IPA (US) | IPA (UK) | TP |
 |-----|---------|----------|----------|----|
-| 8522 | Laos | /laʊs/ | /laʊs/ | n. prop |
-| 8524 | Latvia | /ˈlætviə/ | /ˈlætviə/ | n. prop |
-| 8240 | Lebanon | /ˈlɛbənɒn/ | /ˈlɛbənɒn/ | n. prop |
-| 8269 | Lesotho | /ləˈsuːtuː/ | /ləˈsuːtuː/ | n. prop |
-| 8270 | Liberia | /laɪˈbɪəriə/ | /laɪˈbɪəriə/ | n. prop |
-| 8241 | Libya | /ˈlɪbiə/ | /ˈlɪbiə/ | n. prop |
-| 8528 | Liechtenstein | /ˈlɪktənstaɪn/ | /ˈlɪktənstaɪn/ | n. prop |
-| 8529 | Lithuania | /ˌlɪθjuˈeɪniə/ | /ˌlɪθjuˈeɪniə/ | n. prop |
-| 8530 | Luxembourg | /ˈlʌksəmbɜːrɡ/ | /ˈlʌksəmbɜːrɡ/ | n. prop |
-| 8531 | Macedonia | /ˌmæsɪˈdoʊniə/ | /ˌmæsɪˈdoʊniə/ | n. prop |
-| 8271 | Madagascar | /ˌmædəˈɡæskər/ | /ˌmædəˈɡæskər/ | n. prop |
-| 8272 | Malawi | /məˈlɔːwi/ | /məˈlɔːwi/ | n. prop |
-| 8533 | Malaysia | /məˈleɪʒə/ | /məˈleɪʒə/ | n. prop |
-| 8535 | Maldives | /ˈmɒldaɪvz/ | /ˈmɒldaɪvz/ | n. prop |
-| 8536 | Mali | /ˈmɑːli/ | /ˈmɑːli/ | n. prop |
-| 8194 | Malta | /ˈmɒltə/ | /ˈmɒltə/ | n. prop |
-| 8506 | Marshall Islands | /ˈmɑːrʃəl ˈaɪləndz/ | /ˈmɑːrʃəl ˈaɪləndz/ | n. prop |
-| 8274 | Mauritania | /ˌmɒrɪˈteɪniə/ | /ˌmɒrɪˈteɪniə/ | n. prop |
-| 8539 | Mauritius | /məˈrɪʃəs/ | /məˈrɪʃəs/ | n. prop |
-| 8198 | Mexico | /ˈmɛksɪkoʊ/ | /ˈmɛksɪkəʊ/ | n. prop |
-| 8543 | Micronesia | /ˌmaɪkrəˈniːʒə/ | /ˌmaɪkrəˈniːʒə/ | n. prop |
-| 8545 | Moldova | /mɒlˈdoʊvə/ | /mɒlˈdoʊvə/ | n. prop |
-| 8185 | Monaco | /ˈmɒnəkoʊ/ | /ˈmɒnəkoʊ/ | n. prop |
-| 8547 | Mongolia | /mɒŋˈɡoʊliə/ | /mɒŋˈɡoʊliə/ | n. prop |
-| 8195 | Montenegro | /ˌmɒntɪˈneɪɡroʊ/ | /ˌmɒntɪˈneɪɡroʊ/ | n. prop |
-| 8242 | Morocco | /məˈrɒkoʊ/ | /məˈrɒkoʊ/ | n. prop |
-| 7004 | Mozambique | /ˌmoʊzæmˈbiːk/ | /ˌmoʊzæmˈbiːk/ | n. prop |
+| 8542 | Myanmar | /ˈmjænmɑːr/ | /ˈmjænmɑːr/ | n. prop |
+| 8549 | Namibia | /nəˈmɪbiə/ | /nəˈmɪbiə/ | n. prop |
+| 8550 | Nauru | /nɑːˈuːruː/ | /nɑːˈuːruː/ | n. prop |
+| 8551 | Nepal | /nɪˈpɔːl/ | /nɪˈpɔːl/ | n. prop |
+| 8501 | Netherlands | /'nɛðərləndz/ | /'nɛðərləndz/ | n. prop |
+| 8560 | Netherlands | /'nɛðərləndz/ | /'nɛðərləndz/ | n. prop |
+| 8557 | New Caledonia | /ˌnjuː ˌkælɪˈdoʊniə/ | /ˌnjuː ˌkælɪˈdoʊniə/ | n. prop |
+| 8558 | New Zealand | /njuː 'ziːlənd/ | /njuː 'ziːlənd/ | n. prop |
+| 8207 | Nicaragua | /ˌnɪkəˈrɑːɡwə/ | /ˌnɪkəˈrɑːɡwə/ | n. prop |
+| 8553 | Niger | /ˈnaɪdʒər/ | /ˈnaɪdʒər/ | n. prop |
+| 8554 | Nigeria | /naɪˈdʒɪəriə/ | /naɪˈdʒɪəriə/ | n. prop |
+| 8555 | Niue | /nɪ'uːeɪ/ | /nɪ'uːeɪ/ | n. prop |
+| 8467 | North Korea | /nɔːrθ kəˈriə/ | /nɔːrθ kəˈriə/ | n. prop |
+| 8190 | North Macedonia | /ˌnɔːrθ ˌmæsɪˈdoʊniə/ | /ˌnɔːrθ ˌmæsɪˈdoʊniə/ | n. prop |
+| 8332 | Norway | /ˈnɔːrweɪ/ | /ˈnɔːrweɪ/ | n. prop |
+| 8559 | Oman | /oʊˈmɑːn/ | /oʊˈmɑːn/ | n. prop |
+| 8565 | Pakistan | /ˈpækɪstæn/ | /ˈpækɪstæn/ | n. prop |
+| 8562 | Palau | /pəˈlaʊ/ | /pəˈlaʊ/ | n. prop |
+| 8211 | Panama | /ˈpænəmɑː/ | /ˈpænəmɑː/ | n. prop |
+| 8564 | Papua New Guinea | /ˈpæpjuə ˌnjuː ˈɡɪni/ | /ˈpæpjuə ˌnjuː ˈɡɪni/ | n. prop |
+| 8217 | Paraguay | /ˈpærəɡwaɪ/ | /ˈpærəɡwaɪ/ | n. prop |
+| 8567 | Peru | /pəˈruː/ | /pəˈruː/ | n. prop |
+| 8486 | Philippines | /ˈfɪləˌpinz/ | /ˈfɪləˌpinz/ | n. prop |
+| 8568 | Poland | /ˈpoʊlənd/ | /ˈpoʊlənd/ | n. prop |
+| 7001 | Portugal | /ˈpɔːtʃəɡəl/ | /ˈpɔːtʃəɡəl/ | n. prop |
+| 8200 | Puerto Rico | /ˌpwɛərtoʊ ˈrikoʊ/ | /ˌpwɛərtoʊ ˈrikoʊ/ | n. prop |
 
 
 # Countries
@@ -148,4 +147,30 @@ Here is the markdown table with the provided information:
 | 8195 | Montenegro | /ˌmɒntɪˈneɪɡroʊ/ | /ˌmɒntɪˈneɪɡroʊ/ | n. prop |
 | 8242 | Morocco | /məˈrɒkoʊ/ | /məˈrɒkoʊ/ | n. prop |
 | 7004 | Mozambique | /ˌmoʊzæmˈbiːk/ | /ˌmoʊzæmˈbiːk/ | n. prop |
+| 8542 | Myanmar | /ˈmjænmɑːr/ | /ˈmjænmɑːr/ | n. prop |
+| 8549 | Namibia | /nəˈmɪbiə/ | /nəˈmɪbiə/ | n. prop |
+| 8550 | Nauru | /nɑːˈuːruː/ | /nɑːˈuːruː/ | n. prop |
+| 8551 | Nepal | /nɪˈpɔːl/ | /nɪˈpɔːl/ | n. prop |
+| 8501 | Netherlands | /'nɛðərləndz/ | /'nɛðərləndz/ | n. prop |
+| 8560 | Netherlands | /'nɛðərləndz/ | /'nɛðərləndz/ | n. prop |
+| 8557 | New Caledonia | /ˌnjuː ˌkælɪˈdoʊniə/ | /ˌnjuː ˌkælɪˈdoʊniə/ | n. prop |
+| 8558 | New Zealand | /njuː 'ziːlənd/ | /njuː 'ziːlənd/ | n. prop |
+| 8207 | Nicaragua | /ˌnɪkəˈrɑːɡwə/ | /ˌnɪkəˈrɑːɡwə/ | n. prop |
+| 8553 | Niger | /ˈnaɪdʒər/ | /ˈnaɪdʒər/ | n. prop |
+| 8554 | Nigeria | /naɪˈdʒɪəriə/ | /naɪˈdʒɪəriə/ | n. prop |
+| 8555 | Niue | /nɪ'uːeɪ/ | /nɪ'uːeɪ/ | n. prop |
+| 8467 | North Korea | /nɔːrθ kəˈriə/ | /nɔːrθ kəˈriə/ | n. prop |
+| 8190 | North Macedonia | /ˌnɔːrθ ˌmæsɪˈdoʊniə/ | /ˌnɔːrθ ˌmæsɪˈdoʊniə/ | n. prop |
+| 8332 | Norway | /ˈnɔːrweɪ/ | /ˈnɔːrweɪ/ | n. prop |
+| 8559 | Oman | /oʊˈmɑːn/ | /oʊˈmɑːn/ | n. prop |
+| 8565 | Pakistan | /ˈpækɪstæn/ | /ˈpækɪstæn/ | n. prop |
+| 8562 | Palau | /pəˈlaʊ/ | /pəˈlaʊ/ | n. prop |
+| 8211 | Panama | /ˈpænəmɑː/ | /ˈpænəmɑː/ | n. prop |
+| 8564 | Papua New Guinea | /ˈpæpjuə ˌnjuː ˈɡɪni/ | /ˈpæpjuə ˌnjuː ˈɡɪni/ | n. prop |
+| 8217 | Paraguay | /ˈpærəɡwaɪ/ | /ˈpærəɡwaɪ/ | n. prop |
+| 8567 | Peru | /pəˈruː/ | /pəˈruː/ | n. prop |
+| 8486 | Philippines | /ˈfɪləˌpinz/ | /ˈfɪləˌpinz/ | n. prop |
+| 8568 | Poland | /ˈpoʊlənd/ | /ˈpoʊlənd/ | n. prop |
+| 7001 | Portugal | /ˈpɔːtʃəɡəl/ | /ˈpɔːtʃəɡəl/ | n. prop |
+| 8200 | Puerto Rico | /ˌpwɛərtoʊ ˈrikoʊ/ | /ˌpwɛərtoʊ ˈrikoʊ/ | n. prop |
 

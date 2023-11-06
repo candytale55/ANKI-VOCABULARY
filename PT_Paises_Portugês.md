@@ -2,35 +2,34 @@ Here is the filled markdown table with the provided words:
 
 | No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
 |-----|-----------|----------|----------|----------|----|----|----|
-| 8189 | Espanha | **a** Espanha | /ɨʃ.'pɐ.ɲɐ/ | /is.'pa.ɲɐ/ | sf | Spain | España |
-| 8594 | Sri Lanka | **o** Sri Lanka | /sɾi 'lɐ̃.kɐ/ | /sɾi 'lɐ̃.kɐ/ | sm | Sri Lanka | Sri Lanka |
-| 8596 | Sudão | **o** Sudão | /su.'dɐ̃w/ | /su.'dɐ̃w/ | sm | Sudan | Sudán |
-| 8290 | Suriname | **o** Suriname | /su.ɾi.'nɐ.mɨ/ | /su.ɾi.'na.mɨ/ | sm | Suriname | Surinam |
-| 8334 | Suécia | **a** Suécia | /su.'ɛ.si.ɐ/ | /swe.'si.ɐ/ | sf | Sweden | Suecia |
-| 8599 | Suíça | **a** Suíça | /'swi.sɐ/ | /'swi.sa/ | sf | Switzerland | Suiza |
-| 8245 | Síria | **a** Síria | /'si.ɾjɐ/ | /'si.ɾi.ɐ/ | sf | Syria | Siria |
-| 8602 | Tajiquistão | **o** Tajiquistão | /tɐ.ʒi.kis.'tɐ̃w/ | /ta.ʒi.kis.'tɐ̃w/ | sm | Tajikistan | Tayikistán |
-| 8250 | Tanzânia | **a** Tanzânia | /tɐ̃.ʒɐ.'ni.ɐ/ | /tɐ̃.zɐ.'ni.ɐ/ | sf | Tanzania | Tanzania |
-| 8601 | Tailândia | **a** Tailândia | /taj.'lɐ̃.di.ɐ/ | /taj.'lɐ̃.di.ɐ/ | sf | Thailand | Tailandia |
-| 8444 | Bahamas | **as** Bahamas | /bɐ'hɐ.mɐs/ | /ba'hɐ.mɐs/ | sfp | The Bahamas | Las Bahamas |
-| 8605 | Togo | **o** Togo | /'to.ɡu/ | /'to.ɡu/ | sm | Togo | Togo |
-| 8606 | Tonga | **o** Tonga | /'tõ.ɡɐ/ | /'to.ɡɐ/ | sm | Tonga | Tonga |
-| 8607 | Trinidad e Tobago | **Trinidad e Tobago** | /tɾi.ni.'dɐd ɨ to.'ba.ɡu/ | /tɾi.ni.'dɐd ɨ to.'ba.ɡu/ | smp | Trinidad and Tobago | Trinidad y Tobago |
-| 8246 | Tunísia | **a** Tunísia | /tu.'ni.zjɐ/ | /tu.'ni.zi.ɐ/ | sf | Tunisia | Túnez |
-| 8193 | Turquia | **a** Turquia | /tuɾ'ki.ɐ/ | /tuɾ'ki.ɐ/ | sf | Turkey | Turquía |
-| 8609 | Turcomenistão | **o** Turcomenistão | /tuɾ.ko.mi.'nis.tɐ̃w/ | /tuɾ.ko.mi.'nis.tɐ̃w/ | sm | Turkmenistan | Turkmenistán |
-| 8611 | Tuvalu | **o** Tuvalu | /tu.'va.lu/ | /tu.'va.lu/ | sm | Tuvalu | Tuvalu |
-| 8251 | Uganda | **o** Uganda | /u.'ɡɐ.dɐ/ | /u.'ɡɐ.dɐ/ | sm | Uganda | Uganda |
-| 8612 | Ucrânia | **a** Ucrânia | /u.'kɾɐ.njɐ/ | /u.'kɾɐ.ni.ɐ/ | sf | Ukraine | Ucrania |
-| 8220 | Uruguai | **o** Uruguai | /u.ɾu.'ɡwaj/ | /u.ɾu.'ɡwaj/ | sm | Uruguay | Uruguay |
-| 8615 | Uzbequistão | **o** Uzbequistão | /uz.be.kis.'tɐ̃w/ | /uz.be.kis.'tɐ̃w/ | sm | Uzbekistan | Uzbekistán |
-| 8616 | Vanuatu | **o** Vanuatu | /va.nu.'a.tu/ | /va.nu.'a.tu/ | sm | Vanuatu | Vanuatu |
-| 8197 | Vaticano | **o** Vaticano | /vɐ.ti'ka.nu/ | /va.ti'ka.nu/ | sm | Vatican | Vaticano |
-| 8213 | Venezuela | **a** Venezuela | /vɨ.nɨ.'zwe.lɐ/ | /be.ne.'swɛ.lɐ/ | sf | Venezuela | Venezuela |
-| 8619 | Vietnã | **o** Vietnã | /vi.'ɛt.nɐ/ | /vjɛt.'nɐ/ | sm | Vietnam | Vietnam |
-| 8504 | Iêmen | **o** Iêmen | /i.'jɛ.mẽ/ | /i.'jɛ.mẽ/ | sm | Yemen | Yemen |
-| 8249 | Zâmbia | **a** Zâmbia | /'zɐ̃.bi.ɐ/ | /'zɐ̃.bi.ɐ/ | sf | Zambia | Zambia |
-| 8248 | Zimbábue | **o** Zimbábue | /ʒĩ.'bɐ.bu.ɨ/ | /ʒĩ.'bɐ.bwe/ | sm | Zimbabwe | Zimbabue |
+| 8512 | Iraque | **o** Iraque | /i.'ɾɐ.kɨ/ | /i.'ɾa.kɨ/ | sm | Iraq | Irak |
+| 8513 | Irlanda | **a** Irlanda | /iɾ.'lɐ̃.dɐ/ | /iɾ.'lɐ̃.dɐ/ | sf | Ireland | Irlanda |
+| 8515 | Israel | **Israel** | /is.ɾɐ'ɛɫ/ | /is.ɾa'ɛw/ | sm | Israel | Israel |
+| 8184 | Itália | **a** Itália | /i.'ta.li.ɐ/ | /i.'ta.li.ɐ/ | sf | Italy | Italia |
+| 8261 | Costa do Marfim | **a** Costa do Marfim | /'kɔʃ.tɐ du mɐɾ.'fĩ/ | /'kɔs.tɐ du mɐɾ.'fĩ/ | sf | Ivory Coast | Costa de Marfil |
+| 8275 | Jamaica | **a** Jamaica | /ʒɐ.'mɐj.kɐ/ | /ʒa.'maj.kɐ/ | sf | Jamaica | Jamaica |
+| 8329 | Japão | **o** Japão | /ʒɐ.'pɐ̃w̃/ | /ʒa.'pɐ̃w̃/ | sm | Japan | Japón |
+| 8238 | Jordânia | **a** Jordânia | /ʒoɾ.'dɐ.ni.ɐ/ | /ʒoɾ.'dɐ.ni.ɐ/ | sf | Jordan | Jordania |
+| 8459 | Cazaquistão | **o** Cazaquistão | /kɐ.zɐ.kis.'tɐ̃w̃/ | /kɐ.zɐ.kis.'tɐ̃w̃/ | sm | Kazakhstan | Kazajstán |
+| 8268 | Quênia | **o** Quênia | /'kɛ.njɐ/ | /'kɛ.njɐ/ | sm | Kenya | Kenia |
+| 8520 | Kiribati | **o** Kiribati | /ki.ɾi.bɐ.'ti/ | /ki.ɾi.bɐ.'ti/ | sm | Kiribati | Kiribati |
+| 8196 | Kosovo | **o** Kosovo | /'ko.so.vo/ | /'ko.so.vo/ | sm | Kosovo | Kosovo |
+| 8239 | Kuwait | **o** Kuwait | /ku.'wɛjt/ | /ku.'wejt/ | sm | Kuwait | Kuwait |
+| 8572 | Quirguistão | **o** Quirguistão | /kiɾ.ɡiʃ.'tɐ̃w̃/ | /kiʁ.ɡiʃ.'tɐ̃w̃/ | sm | Kyrgyzstan | Kirguistán |
+| 8522 | Laos | **o** Laos | /la.'us/ | /la.'us/ | sm | Laos | Laos |
+| 8524 | Letônia | **a** Letônia | /lɛ.'tɔ.ni.ɐ/ | /le.'tɔ.ni.ɐ/ | sf | Latvia | Letonia |
+| 8240 | Líbano | **o** Líbano | /'li.bɐ.nu/ | /'li.ba.nu/ | sm | Lebanon | Líbano |
+| 8269 | Lesoto | **o** Lesoto | /lɨ.'so.tu/ | /le.'so.tu/ | sm | Lesotho | Lesoto |
+| 8270 | Libéria | **a** Libéria | /li.'bɛ.ɾi.ɐ/ | /li.'bɛ.ɾi.ɐ/ | sf | Liberia | Liberia |
+| 8241 | Líbia | **a** Líbia | /'li.bjɐ/ | /'li.bjɐ/ | sf | Libya | Libia |
+| 8528 | Liechtenstein | **o** Liechtenstein | /liç.tɛnʃ.'tajn/ | /liç.tɛnʃ.'tain/ | sm | Liechtenstein | Liechtenstein |
+| 8529 | Lituânia | **a** Lituânia | /li.tu.'ɐ.ni.ɐ/ | /li.tu.'ɐ.ni.ɐ/ | sf | Lithuania | Lituania |
+| 8530 | Luxemburgo | **o** Luxemburgo | /lu.ʒẽ.'buɾ.ɡu/ | /lu.ʒẽ.'buɾ.ɡu/ | sm | Luxembourg | Luxemburgo |
+| 8531 | Macedônia | **a** Macedônia | /mɐsɨ.'dɔ.njɐ/ | /masɨ.'dɔ.njɐ/ | sf | Macedonia | Macedonia |
+| 8271 | Madagascar | **a** Madagascar | /mɐ.dɐ.'ɡas.kaɾ/ | /mɐ.dɐ.'ɡas.kaɾ/ | sf | Madagascar | Madagascar |
+| 8272 | Malawi | **o** Malawi | /mɐ.'la.wi/ | /mɐ.'la.wi/ | sm | Malawi | Malaui |
+| 8533 | Malásia | **a** Malásia | /mɐ.'la.zi.ɐ/ | /mɐ.'la.zi.ɐ/ | sf | Malaysia | Malasia |
+| 8535 | Maldivas | **as** Maldivas | /mɐw.'di.vɐʃ/ | /mɐw.'di.vɐʃ/ | sfp | Maldives | Maldivas |
 
 
 | No. | Português | + Artigo | IPA (PT) | IPA (BR) | Tipo de Palavra | EN | ES |

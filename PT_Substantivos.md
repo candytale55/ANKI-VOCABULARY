@@ -1,32 +1,31 @@
-Here is the markdown table with the missing values filled in for Portuguese:
+Here is the markdown table with the missing values filled in for Portuguese and Spanish:
 
-| No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
+| No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES | 
 |-----|-----------|----------|----------|----------|----|----|----|
-| 6768 | tradutor, tradutora | o tradutor, a tradutora | /tɾɐ.du.'toɾ/, /tɾɐ.du.'toɾɐ/ | /tɾɐ.du.'toʁ/, /tɾɐ.du.'toɾɐ/ | sm | translator | traductor |
-| 6769 | farmacêutico, farmacêutica | o farmacêutico, a farmacêutica | /faɾ.mɐ.sɛu.'ti.ku/, /faɾ.mɐ.sɛu.'ti.kɐ/ | /faʁ.ma.sew.'ti.ku/, /faʁ.ma.sew.'ti.kɐ/ | sm | pharmacist | farmacéutico |
-| 6770 | jurista | o/a jurista | /ʒu.'ɾiʃ.tɐ/ | /ʒu.'ɾiʃ.tɐ/ | - | jurist | jurista |
-| 6771 | bolso | o bolso | /'bɔl.su/ | /'bɔwsu/ | sm | pocket | bolsillo |
-| 6772 | gabinete | o gabinete | /ɡɐ.bi.'nɛ.tɨ/ | /ɡa.bi.'nɛ.tʃi/ | sm | cabinet | gabinete |
-| 6773 | centro | o centro | /'sẽ.tɾu/ | /'sẽ.tɾu/ | sm | center | centro |
-| 6774 | biblioteca | a biblioteca | /bi.bli.o.'tɛ.kɐ/ | /bi.bli.o.'tɛ.kɐ/ | sf | library | biblioteca |
-| 6775 | engenharia | a engenharia | /ẽ.ʒẽ.'ɲa.ɾi.ɐ/ | /ẽ.ʒẽ.'ɲa.ɾi.ɐ/ | sf | engineering | ingeniería |
-| 6776 | jogador, jogadora | o jogador, a jogadora | /ʒu.ɡa.'doɾ/, /ʒu.ɡa.'doɾɐ/ | /ʒo.ɡa.'doχ/, /ʒo.ɡa.'doɾɐ/ | sm | player | jugador |
-| 6777 | passatempo, passatempos | o passatempo, os passatempos | /pɐ.sɐ.'tẽ.pu/, /pɐ.sɐ.'tẽ.pus/ | /pas.sɐ.'tẽ.pu/, /pas.sa.'tẽ.pus/ | sm | pastime | pasatiempo |
-| 6778 | personalidade | a personalidade | /pɨɾ.su.na.li.'da.dɨ/ | /peɾ.so.na.li.'daj.dʒi/ | sf | personality | personalidad |
-| 6779 | descrição | a descrição | /dɨʃ.kɾi.'sɐ̃w/ | /de.ski.'sɐ̃w/ | sf | description | descripción |
-| 6780 | irmãos | os irmãos | /ɨɾ.'mɐ̃w̃ʃ/ | /iʁ.'mɐ̃w̃ʃ/ | smp | brothers | hermanos |
-| 6781 | irmãs | as irmãs | /ɨɾ.'mɐ̃ʃ/ | /iʁ.'mɐ̃ʃ/ | sfp | sisters | hermanas |
-| 6782 | café | o café | /'ka.fɨ/ | /'ka.fi/ | sm | coffee | café |
-| 6783 | óculos | os óculos | /'ɔ.ku.luʃ/ | /'ɔ.ku.luʃ/ | smp | glasses | gafas |
-| 6784 | dicionário | o dicionário | /di.si.o.'na.ɾiu/ | /di.si.o.'na.ɾiu/ | sm | dictionary | diccionario |
-| 6785 | bola | a bola | /'bo.lɐ/ | /'bo.lɐ/ | sf | ball | bola |
-| 6786 | flores | as flores | /'flo.ɾɨʃ/ | /'flo.ɾis/ | sfp | flowers | flores |
-| 6787 | revistas | as revistas | /ʁɨ.'viʃ.tɐʃ/ | /ʁe.'vis.tɐʃ/ | sfp | magazines | revistas |
-| 6788 | chaves | as chaves | /'ʃa.vɨʃ/ | /'ʃa.vis/ | sfp | keys | llaves |
-| 6789 | chave | a chave | /'ʃa.vɨ/ | /'ʃa.vi/ | sf | key | llave |
-| 6790 | chocolates | os chocolates | /ʃɔ.ku.'la.tɨʃ/ | /ʃɔ.kɔ.'la.tʃis/ | smp | chocolates | chocolates |
-| 6791 | avós | os/as avós | /ɐ.'vɔʃ/ | /ɐ.'vɔs/ | smp | grandparents | abuelos |
-| 6792 | avôs | os avôs | /ɐ.'vɔʃ/ | /ɐ.'vɔs/ | smp | grandfathers | abuelos |
+| 6800 | janeiro | **o** janeiro | /ʒɐˈnejɾu/ | /ʒɐˈnejɾu/ | sm | January | enero |
+| 6801 | julho | **o** julho | /ˈʒuʎu/ | /ˈʒuˈʎu/ | sm | July | julio |
+| 6802 | fevereiro | **o** fevereiro | /feveˈɾejɾu/ | /feveˈɾejɾu/ | sm | February | febrero |
+| 6803 | março | **o** março | /ˈmaɾsu/ | /ˈmaʁsu/ | sm | March | marzo |
+| 6804 | abril | **o** abril | /ɐˈbɾiɫ/ | /aˈbɾiw/ | sm | April | abril |
+| 6805 | agosto | **o** agosto | /ɐˈɡoʃtu/ | /aˈɡostu/ | sm | August | agosto |
+| 6806 | maio | **o** maio | /ˈmaju/ | /ˈmaju/ | sm | May | mayo |
+| 6807 | junho | **o** junho | /ˈʒuɲu/ | /ˈʒũɲu/ | sm | June | junio |
+| 6808 | setembro | **o** setembro | /seˈtẽbɾu/ | /seˈtẽbɾu/ | sm | September | septiembre |
+| 6809 | outubro | **o** outubro | /owˈtubɾu/ | /oˈtubɾu/ | sm | October | octubre |
+| 6810 | novembro | **o** novembro | /noˈvẽbɾu/ | /noˈvẽbɾu/ | sm | November | noviembre |
+| 6811 | dezembro | **o** dezembro | /deˈzẽbɾu/ | /deˈzẽbɾu/ | sm | December | diciembre |
+| 6812 | mês | **o** mês | /meʃ/ | /mɛʃ/ | sm | month | mes |
+| 6813 | ano | **o** ano | /ˈɐ.nu/ | /ˈɐ.nu/ | sm | year | año |
+| 6814 | século | **o** século | /ˈseku.lu/ | /ˈseku.lu/ | sm | century | siglo |
+| 6815 | estação | **a** estação | /is.ta.'sɐ̃w/ | /is.ta.'sɐ̃w/ | sf | season | estación |
+| 6816 | outono | **o** outono | /ow.'to.nu/ | /o.'to.nu/ | sm | fall | otoño |
+| 6817 | verão | **o** verão | /vɨ.'ɾɐ̃w/ | /ve.'ɾɐ̃w/ | sm | summer | verano |
+| 6818 | primavera | **a** primavera | /pɾi.mɐ.'ve.ɾɐ/ | /pɾi.mɐ.'ve.ɾɐ/ | sf | spring | primavera |
+| 6819 | inverno | **o** inverno | /ĩ.'veɾ.nu/ | /ĩ.'veɾ.nu/ | sm | winter | invierno |
+| 6820 | milênio | **o** milênio | /miˈle.nju/ | /miˈle.nju/ | sm | millennium | milenio |
+| 6821 | minuto | **o** minuto | /miˈnutu/ | /miˈnutu/ | sm | minute | minuto |
+| 6822 | hora | **a** hora | /ˈoɾɐ/ | /ˈoɾɐ/ | sf | hour | hora |
+| 6823 | segundo | **o** segundo | /seˈɡũdu/ | /seˈɡũdu/ | sm | second | segundo |
 
 
 
@@ -52,3 +51,52 @@ Here is the markdown table with the missing values filled in for Portuguese:
 | 8345 | **o** candeeiro (street lamp) | /kɐ̃dɨ'ɾɐjɾu/ | /kɐ̃dɨ'ɾajɾu/ | sm | street lamp | /stɹit læmp/ | farola | /fa'ɾola/ |
 | 8150 | **o** caderno | /kɐ'dɛɾnu/ | /kɐ'dɛɾnu/ | sm | notebook | /ˈnoʊtˌbʊk/ | cuaderno | /kwa'ðeɾno/ |
 | 8346 | **a** família | /fɐ'miljɐ/ | /fɐ'miljɐ/ | sf | family | /ˈfæməli/ | familia | /fa.mi'lia/ |
+| 6800 | janeiro | **o** janeiro | /ʒɐˈnejɾu/ | /ʒɐˈnejɾu/ | sm | January | enero |
+| 6801 | julho | **o** julho | /ˈʒuʎu/ | /ˈʒuˈʎu/ | sm | July | julio |
+| 6802 | fevereiro | **o** fevereiro | /feveˈɾejɾu/ | /feveˈɾejɾu/ | sm | February | febrero |
+| 6803 | março | **o** março | /ˈmaɾsu/ | /ˈmaʁsu/ | sm | March | marzo |
+| 6804 | abril | **o** abril | /ɐˈbɾiɫ/ | /aˈbɾiw/ | sm | April | abril |
+| 6805 | agosto | **o** agosto | /ɐˈɡoʃtu/ | /aˈɡostu/ | sm | August | agosto |
+| 6806 | maio | **o** maio | /ˈmaju/ | /ˈmaju/ | sm | May | mayo |
+| 6807 | junho | **o** junho | /ˈʒuɲu/ | /ˈʒũɲu/ | sm | June | junio |
+| 6808 | setembro | **o** setembro | /seˈtẽbɾu/ | /seˈtẽbɾu/ | sm | September | septiembre |
+| 6809 | outubro | **o** outubro | /owˈtubɾu/ | /oˈtubɾu/ | sm | October | octubre |
+| 6810 | novembro | **o** novembro | /noˈvẽbɾu/ | /noˈvẽbɾu/ | sm | November | noviembre |
+| 6811 | dezembro | **o** dezembro | /deˈzẽbɾu/ | /deˈzẽbɾu/ | sm | December | diciembre |
+| 6812 | mês | **o** mês | /meʃ/ | /mɛʃ/ | sm | month | mes |
+| 6813 | ano | **o** ano | /ˈɐ.nu/ | /ˈɐ.nu/ | sm | year | año |
+| 6814 | século | **o** século | /ˈseku.lu/ | /ˈseku.lu/ | sm | century | siglo |
+| 6815 | estação | **a** estação | /is.ta.'sɐ̃w/ | /is.ta.'sɐ̃w/ | sf | season | estación |
+| 6816 | outono | **o** outono | /ow.'to.nu/ | /o.'to.nu/ | sm | fall | otoño |
+| 6817 | verão | **o** verão | /vɨ.'ɾɐ̃w/ | /ve.'ɾɐ̃w/ | sm | summer | verano |
+| 6818 | primavera | **a** primavera | /pɾi.mɐ.'ve.ɾɐ/ | /pɾi.mɐ.'ve.ɾɐ/ | sf | spring | primavera |
+| 6819 | inverno | **o** inverno | /ĩ.'veɾ.nu/ | /ĩ.'veɾ.nu/ | sm | winter | invierno |
+| 6820 | milênio | **o** milênio | /miˈle.nju/ | /miˈle.nju/ | sm | millennium | milenio |
+| 6821 | minuto | **o** minuto | /miˈnutu/ | /miˈnutu/ | sm | minute | minuto |
+| 6822 | hora | **a** hora | /ˈoɾɐ/ | /ˈoɾɐ/ | sf | hour | hora |
+| 6823 | segundo | **o** segundo | /seˈɡũdu/ | /seˈɡũdu/ | sm | second | segundo |
+| 6768 | tradutor, tradutora | o tradutor, a tradutora | /tɾɐ.du.'toɾ/, /tɾɐ.du.'toɾɐ/ | /tɾɐ.du.'toʁ/, /tɾɐ.du.'toɾɐ/ | sm | translator | traductor |
+| 6769 | farmacêutico, farmacêutica | o farmacêutico, a farmacêutica | /faɾ.mɐ.sɛu.'ti.ku/, /faɾ.mɐ.sɛu.'ti.kɐ/ | /faʁ.ma.sew.'ti.ku/, /faʁ.ma.sew.'ti.kɐ/ | sm | pharmacist | farmacéutico |
+| 6770 | jurista | o/a jurista | /ʒu.'ɾiʃ.tɐ/ | /ʒu.'ɾiʃ.tɐ/ | - | jurist | jurista |
+| 6771 | bolso | o bolso | /'bɔl.su/ | /'bɔwsu/ | sm | pocket | bolsillo |
+| 6772 | gabinete | o gabinete | /ɡɐ.bi.'nɛ.tɨ/ | /ɡa.bi.'nɛ.tʃi/ | sm | cabinet | gabinete |
+| 6773 | centro | o centro | /'sẽ.tɾu/ | /'sẽ.tɾu/ | sm | center | centro |
+| 6774 | biblioteca | a biblioteca | /bi.bli.o.'tɛ.kɐ/ | /bi.bli.o.'tɛ.kɐ/ | sf | library | biblioteca |
+| 6775 | engenharia | a engenharia | /ẽ.ʒẽ.'ɲa.ɾi.ɐ/ | /ẽ.ʒẽ.'ɲa.ɾi.ɐ/ | sf | engineering | ingeniería |
+| 6776 | jogador, jogadora | o jogador, a jogadora | /ʒu.ɡa.'doɾ/, /ʒu.ɡa.'doɾɐ/ | /ʒo.ɡa.'doχ/, /ʒo.ɡa.'doɾɐ/ | sm | player | jugador |
+| 6777 | passatempo, passatempos | o passatempo, os passatempos | /pɐ.sɐ.'tẽ.pu/, /pɐ.sɐ.'tẽ.pus/ | /pas.sɐ.'tẽ.pu/, /pas.sa.'tẽ.pus/ | sm | pastime | pasatiempo |
+| 6778 | personalidade | a personalidade | /pɨɾ.su.na.li.'da.dɨ/ | /peɾ.so.na.li.'daj.dʒi/ | sf | personality | personalidad |
+| 6779 | descrição | a descrição | /dɨʃ.kɾi.'sɐ̃w/ | /de.ski.'sɐ̃w/ | sf | description | descripción |
+| 6780 | irmãos | os irmãos | /ɨɾ.'mɐ̃w̃ʃ/ | /iʁ.'mɐ̃w̃ʃ/ | smp | brothers | hermanos |
+| 6781 | irmãs | as irmãs | /ɨɾ.'mɐ̃ʃ/ | /iʁ.'mɐ̃ʃ/ | sfp | sisters | hermanas |
+| 6782 | café | o café | /'ka.fɨ/ | /'ka.fi/ | sm | coffee | café |
+| 6783 | óculos | os óculos | /'ɔ.ku.luʃ/ | /'ɔ.ku.luʃ/ | smp | glasses | gafas |
+| 6784 | dicionário | o dicionário | /di.si.o.'na.ɾiu/ | /di.si.o.'na.ɾiu/ | sm | dictionary | diccionario |
+| 6785 | bola | a bola | /'bo.lɐ/ | /'bo.lɐ/ | sf | ball | bola |
+| 6786 | flores | as flores | /'flo.ɾɨʃ/ | /'flo.ɾis/ | sfp | flowers | flores |
+| 6787 | revistas | as revistas | /ʁɨ.'viʃ.tɐʃ/ | /ʁe.'vis.tɐʃ/ | sfp | magazines | revistas |
+| 6788 | chaves | as chaves | /'ʃa.vɨʃ/ | /'ʃa.vis/ | sfp | keys | llaves |
+| 6789 | chave | a chave | /'ʃa.vɨ/ | /'ʃa.vi/ | sf | key | llave |
+| 6790 | chocolates | os chocolates | /ʃɔ.ku.'la.tɨʃ/ | /ʃɔ.kɔ.'la.tʃis/ | smp | chocolates | chocolates |
+| 6791 | avós | os/as avós | /ɐ.'vɔʃ/ | /ɐ.'vɔs/ | smp | grandparents | abuelos |
+| 6792 | avôs | os avôs | /ɐ.'vɔʃ/ | /ɐ.'vɔs/ | smp | grandfathers | abuelos |

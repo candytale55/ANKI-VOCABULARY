@@ -1,3 +1,77 @@
+Here is the markdown table with the missing values filled in for Portuguese:
+
+| No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES | 
+|-----|-----------|----------|----------|----------|----|----|----|
+| 6793 | escrever | | /ɨʃ.kɾɨ.'veɾ/ | /is.kɾɨ.'veʁ/ | v | to write | escribir |
+| 6794 | beber | | /ˈbɛ.bɨɾ/ | /ˈbɛ.beχ/ | v | to drink | beber |
+| 6795 | viver | | /vi.'veɾ/ | /vi.'veʁ/ | v | to live | vivir |
+| 6796 | correr | | /ko.'ʁeɾ/ | /ko.'ʁeχ/ | v | to run | correr |
+| 6797 | aprender | | /ɐ.'pɾẽ.dɨɾ/ | /ɐ.'pɾẽ.deχ/ | v | to learn | aprender |
+| 6798 | esquecer | | /ɨʃ.kɨ.'ske.seɾ/ | /is.kɨ.'skɛ.seʁ/ | v | to forget | olvidar |
+| 6799 | resolver | | /ʁɨ.zu.'ɫveɾ/ | /ʁe.zoɫ.'veʁ/ | v | to solve | resolver |
+| 6800 | descer | | /dɨ.'ʃɛɾ/ | /dɛ.'seʁ/ | v | to descend | bajar |
+| 6801 | aquecer | | /ɐ.kɨ.'sɛseɾ/ | /ɐ.ke.'seʁ/ | v | to warm up | calentar |
+| 6802 | conhecer | | /kõ.'ɲɛ.seɾ/ | /ko.'ɲe.seʁ/ | v | to know | conocer |
+| 6803 | comer | | /kɔ.'mɛɾ/ | /ko.'meʁ/ | v | to eat | comer |
+| 6804 | compreender | | /kõ.pɾɨ.ẽ.'deɾ/ | /kõ.pɾe.ẽ.'deʁ/ | v | to understand | comprender |
+| 6805 | parecer | | /pɐ.'ɾɛ.sɨɾ/ | /pa.'ɾe.seʁ/ | v | to seem | parecer |
+| 6806 | chover | | /ʃu.'veɾ/ | /ʃo.'veʁ/ | v | to rain | llover |
+| 6807 | atender | | /ɐ.tẽ.'deɾ/ | /a.tẽ.'deʁ/ | v | to attend | atender |
+| 6808 | responder | | /ʁɨ.spʊ.'deɾ/ | /ʁe.spɔ.'deʁ/ | v | to answer | responder |
+| 6809 | receber | | /ʁɨ.sɨ.'beɾ/ | /ʁe.si.'beʁ/ | v | to receive | recibir |
+| 6810 | abranger | | /ɐ.'bɾɐ̃.ʒɨɾ/ | /a.'bɾɐ̃.ʒeʁ/ | v | to cover | abarcar |
+| 6811 | proteger | | /pɾu.tɨ.'ʒɛɾ/ | /pɾo.te.'ʒeʁ/ | v | to protect | proteger |
+| 6812 | abrir | | /ɐ.'bɾiɾ/ | /a.'bɾiʁ/ | v | to open | abrir |
+| 6813 | vestir | | /vɨs.'tiɾ/ | /ves.'tiʁ/ | v | to dress | vestir |
+| 6814 | despir | | /dɨs.'piɾ/ | /dɛs.'piʁ/ | v | to undress | desnudar |
+| 6815 | sentir | | /sẽ.'tir/ | /sẽ.'tir/ | v | to feel | sentir |
+| 6816 | preferir | | /pɾɨ.fɨ.'ɾiɾ/ | /pɾe.fe.'ɾiʁ/ | v | to prefer | preferir |
+| 6817 | conseguir | | /kõ.sɨ.'ɡiɾ/ | /kõ.si.'ɡiʁ/ | v | to achieve | conseguir |
+| 6818 | seguir | | /sɨ.'ɡiɾ/ | /se.'ɡiʁ/ | v | to follow | seguir |
+| 6819 | corrigir | | /ko.ʁi.'ʒiɾ/ | /ko.ri.'ʒiʁ/ | v | to correct | corregir |
+| 6820 | dirigir | | /dɨ.ɾi.'ʒiɾ/ | /di.ɾi.'ʒiʁ/ | v | to drive | dirigir |
+| 6821 | admitir | | /ɐd.mi.'tiɾ/ | /ad.mi.'tiʁ/ | v | to admit | admitir |
+| 6822 | partir | | /pɐɾ.'tiɾ/ | /paɾ.'tiʁ/ | v | to leave | partir |
+| 6823 | resumir | | /ʁɨ.zu.'miɾ/ | /ʁe.zu.'miʁ/ | v | to summarize | resumir |
+| 6824 | permitir | | /pɨɾ.mi.'tiɾ/ | /peɾ.mi.'tiʁ/ | v | to permit | permitir |
+| 6825 | reúnir | | /ʁɨ.'u.niɾ/ | /ʁe.'u.niʁ/ | v | to gather | reunir |
+| 6826 | conduzir | | /kõ.du.'ziɾ/ | /kõ.du.'ziʁ/ | v | to conduct | conducir |
+| 6827 | traduzir | | /tɾɐ.du.'ziɾ/ | /tɾa.du.'ziʁ/ | v | to translate | traducir |
+| 6828 | dividir | | /di.vi
+
+.'diɾ/ | /di.vi.'diʁ/ | v | to divide | dividir |
+| 6829 | decidir | | /dɨ.sɨ.'diɾ/ | /de.si.'diʁ/ | v | to decide | decidir |
+| 6830 | servir | | /sɨɾ.'viɾ/ | /seɾ.'viʁ/ | v | to serve | servir |
+| 6831 | discutir | | /diʃ.ku.'tiɾ/ | /dis.ku.'tiʁ/ | v | to discuss | discutir |
+| 6832 | introduzir | | /ĩ.tɾu.du.'ziɾ/ | /ĩ.tɾo.du.'ziʁ/ | v | to introduce | introducir |
+| 6833 | sentir-se | | /sẽ.'tir.sɨ/ | /sẽ.'tir.si/ | v | to feel | sentirse |
+| 6834 | afagar | | /ɐ.fɐ.'ɡaɾ/ | /a.fa.'ɡaʁ/ | v | to caress | acariciar |
+| 6835 | falar | | /fɐ.'laɾ/ | /fa.'laʁ/ | v | to speak | hablar |
+| 6836 | levantar-se | | /ɫɨ.vɐ̃.'taɾ.sɨ/ | /le.vɐ̃.'taʁ.si/ | v | to stand up | levantarse |
+| 6837 | almoçar | | /ɐɫ.mu.'saɾ/ | /aw.mu.'saʁ/ | v | to have lunch | almorzar |
+| 6838 | comprar | | /kõ.'pɾaɾ/ | /kõ.'pɾaʁ/ | v | to buy | comprar |
+| 6839 | gostar | | /ɡɔʃ.'taɾ/ | /ɡɔs.'taʁ/ | v | to like | gustar |
+| 6840 | trabalhar | | /tɾɐ.bɐ.ʎaɾ/ | /tɾa.ba.'ʎaʁ/ | v | to work | trabajar |
+| 6841 | fechar | | /fɨ.'ʃaɾ/ | /fe.'ʃaʁ/ | v | to close | cerrar |
+| 6842 | girar | | /ʒi.'ɾaɾ/ | /ʒi.'ɾaʁ/ | v | to spin | girar |
+| 6843 | telefonar | | /tɨ.lɨ.fɔ.'naɾ/ | /te.le.fo.'naʁ/ | v | to call | llamar |
+| 6844 | começar | | /kõ.'sekaɾ/ | /ko.'se.kaʁ/ | v | to start | empezar |
+| 6845 | morar | | /mu.'ɾaɾ/ | /mo.'raʁ/ | v | to live | vivir |
+| 6846 | usar | | /u.'zaɾ/ | /u.'zaʁ/ | v | to use | usar |
+| 6847 | pagar | | /pɐ.'ɡaɾ/ | /pa.'ɡaʁ/ | v | to pay | pagar |
+| 6848 | tomar | | /tu.'maɾ/ | /to.'maʁ/ | v | to take | tomar |
+| 6849 | ficar | | /fi.'kaɾ/ | /fi.'kaʁ/ | v | to stay | quedarse |
+| 6850 | levantar | | /ɫɨ.vɐ̃.'taɾ/ | /le.vɐ̃.'taʁ/ | v | to lift | levantar |
+| 6851 | lavar | | /ɫɐ.'vaɾ/ | /la.'vaʁ/ | v | to wash | lavar |
+| 6852 | acabar | | /ɐ.kɐ.'baɾ/ | /a.ka.'baʁ/ | v | to finish | terminar |
+| 6853 | ensinar | | /ẽ.'si.naɾ/ | /ẽ.'si.naʁ/ | v | to teach | enseñar |
+| 6854 | jogar | | /ʒu.'ɡaɾ/ | /ʒo.'ɡaʁ/ | v | to play | jugar |
+| 6855 | apanhar | | /ɐ.pɐ.'ɲaɾ/ | /a.pa.'ɲaʁ/ | v | to catch | coger |
+| 6856 | tocar | | /to.'kaɾ/ | /to.'kaʁ/ | v | to touch | tocar |
+| 6857 | andar | | /ɐ̃.'daɾ/ | /ɐ̃.'daʁ/ | v | to walk | caminar |
+| 6858 | estudar | | /ɨʃ.tu.'daɾ/ | /is.tu.'daʁ/| v | to study | trabajar |
+
+
 
 ## Ser (to be)
 (used for permanent characteristics)

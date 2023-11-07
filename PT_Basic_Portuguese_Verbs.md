@@ -37,9 +37,7 @@ Here is the markdown table with the missing values filled in for Portuguese:
 | 6825 | reúnir | | /ʁɨ.'u.niɾ/ | /ʁe.'u.niʁ/ | v | to gather | reunir |
 | 6826 | conduzir | | /kõ.du.'ziɾ/ | /kõ.du.'ziʁ/ | v | to conduct | conducir |
 | 6827 | traduzir | | /tɾɐ.du.'ziɾ/ | /tɾa.du.'ziʁ/ | v | to translate | traducir |
-| 6828 | dividir | | /di.vi
-
-.'diɾ/ | /di.vi.'diʁ/ | v | to divide | dividir |
+| 6828 | dividir | | /di.vi.'diɾ/ | /di.vi.'diʁ/ | v | to divide | dividir |
 | 6829 | decidir | | /dɨ.sɨ.'diɾ/ | /de.si.'diʁ/ | v | to decide | decidir |
 | 6830 | servir | | /sɨɾ.'viɾ/ | /seɾ.'viʁ/ | v | to serve | servir |
 | 6831 | discutir | | /diʃ.ku.'tiɾ/ | /dis.ku.'tiʁ/ | v | to discuss | discutir |

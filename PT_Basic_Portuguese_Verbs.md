@@ -2,6 +2,14 @@ Here is the markdown table with the missing values filled in for Portuguese:
 
 | No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES | 
 |-----|-----------|----------|----------|----------|----|----|----|
+| 6859 | jantar | | /ʒɐ̃.'taɾ/ | /ʒɐ̃.'taʁ/ | v | to have dinner | cenar |
+| 6860 | encontrar | | /ẽ.kõ.'tɾaɾ/ | /ẽ.kõ.'tɾaʁ/ | v | to find | encontrar |
+| 6861 | ganhar | | /ɡɐ.'ɲaɾ/ | /ɡɐ.'ɲaʁ/ | v | to win | ganar |
+| 6862 | brincar | | /bɾĩ.'kaɾ/ | /bɾĩ.'kaʁ/ | v | to play | jugar |
+| 6863 | acordar | | /ɐ.kuɾ.'daɾ/ | /a.koɾ.'daʁ/ | v | to wake up | despertar |
+
+| No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES | 
+|-----|-----------|----------|----------|----------|----|----|----|
 | 6793 | escrever | | /ɨʃ.kɾɨ.'veɾ/ | /is.kɾɨ.'veʁ/ | v | to write | escribir |
 | 6794 | beber | | /ˈbɛ.bɨɾ/ | /ˈbɛ.beχ/ | v | to drink | beber |
 | 6795 | viver | | /vi.'veɾ/ | /vi.'veʁ/ | v | to live | vivir |
@@ -68,7 +76,11 @@ Here is the markdown table with the missing values filled in for Portuguese:
 | 6856 | tocar | | /to.'kaɾ/ | /to.'kaʁ/ | v | to touch | tocar |
 | 6857 | andar | | /ɐ̃.'daɾ/ | /ɐ̃.'daʁ/ | v | to walk | caminar |
 | 6858 | estudar | | /ɨʃ.tu.'daɾ/ | /is.tu.'daʁ/| v | to study | trabajar |
-
+| 6859 | jantar | | /ʒɐ̃.'taɾ/ | /ʒɐ̃.'taʁ/ | v | to have dinner | cenar |
+| 6860 | encontrar | | /ẽ.kõ.'tɾaɾ/ | /ẽ.kõ.'tɾaʁ/ | v | to find | encontrar |
+| 6861 | ganhar | | /ɡɐ.'ɲaɾ/ | /ɡɐ.'ɲaʁ/ | v | to win | ganar |
+| 6862 | brincar | | /bɾĩ.'kaɾ/ | /bɾĩ.'kaʁ/ | v | to play | jugar |
+| 6863 | acordar | | /ɐ.kuɾ.'daɾ/ | /a.koɾ.'daʁ/ | v | to wake up | despertar |
 
 
 ## Ser (to be)

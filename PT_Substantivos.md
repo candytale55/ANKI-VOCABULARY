@@ -1,6 +1,34 @@
+Here is the markdown table with the missing values filled in for Portuguese:
+
+| No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
+|-----|-----------|----------|----------|----------|----|----|----|
+| 6768 | tradutor, tradutora | o tradutor, a tradutora | /tɾɐ.du.'toɾ/, /tɾɐ.du.'toɾɐ/ | /tɾɐ.du.'toʁ/, /tɾɐ.du.'toɾɐ/ | sm | translator | traductor |
+| 6769 | farmacêutico, farmacêutica | o farmacêutico, a farmacêutica | /faɾ.mɐ.sɛu.'ti.ku/, /faɾ.mɐ.sɛu.'ti.kɐ/ | /faʁ.ma.sew.'ti.ku/, /faʁ.ma.sew.'ti.kɐ/ | sm | pharmacist | farmacéutico |
+| 6770 | jurista | o/a jurista | /ʒu.'ɾiʃ.tɐ/ | /ʒu.'ɾiʃ.tɐ/ | - | jurist | jurista |
+| 6771 | bolso | o bolso | /'bɔl.su/ | /'bɔwsu/ | sm | pocket | bolsillo |
+| 6772 | gabinete | o gabinete | /ɡɐ.bi.'nɛ.tɨ/ | /ɡa.bi.'nɛ.tʃi/ | sm | cabinet | gabinete |
+| 6773 | centro | o centro | /'sẽ.tɾu/ | /'sẽ.tɾu/ | sm | center | centro |
+| 6774 | biblioteca | a biblioteca | /bi.bli.o.'tɛ.kɐ/ | /bi.bli.o.'tɛ.kɐ/ | sf | library | biblioteca |
+| 6775 | engenharia | a engenharia | /ẽ.ʒẽ.'ɲa.ɾi.ɐ/ | /ẽ.ʒẽ.'ɲa.ɾi.ɐ/ | sf | engineering | ingeniería |
+| 6776 | jogador, jogadora | o jogador, a jogadora | /ʒu.ɡa.'doɾ/, /ʒu.ɡa.'doɾɐ/ | /ʒo.ɡa.'doχ/, /ʒo.ɡa.'doɾɐ/ | sm | player | jugador |
+| 6777 | passatempo, passatempos | o passatempo, os passatempos | /pɐ.sɐ.'tẽ.pu/, /pɐ.sɐ.'tẽ.pus/ | /pas.sɐ.'tẽ.pu/, /pas.sa.'tẽ.pus/ | sm | pastime | pasatiempo |
+| 6778 | personalidade | a personalidade | /pɨɾ.su.na.li.'da.dɨ/ | /peɾ.so.na.li.'daj.dʒi/ | sf | personality | personalidad |
+| 6779 | descrição | a descrição | /dɨʃ.kɾi.'sɐ̃w/ | /de.ski.'sɐ̃w/ | sf | description | descripción |
+| 6780 | irmãos | os irmãos | /ɨɾ.'mɐ̃w̃ʃ/ | /iʁ.'mɐ̃w̃ʃ/ | smp | brothers | hermanos |
+| 6781 | irmãs | as irmãs | /ɨɾ.'mɐ̃ʃ/ | /iʁ.'mɐ̃ʃ/ | sfp | sisters | hermanas |
+| 6782 | café | o café | /'ka.fɨ/ | /'ka.fi/ | sm | coffee | café |
+| 6783 | óculos | os óculos | /'ɔ.ku.luʃ/ | /'ɔ.ku.luʃ/ | smp | glasses | gafas |
+| 6784 | dicionário | o dicionário | /di.si.o.'na.ɾiu/ | /di.si.o.'na.ɾiu/ | sm | dictionary | diccionario |
+| 6785 | bola | a bola | /'bo.lɐ/ | /'bo.lɐ/ | sf | ball | bola |
+| 6786 | flores | as flores | /'flo.ɾɨʃ/ | /'flo.ɾis/ | sfp | flowers | flores |
+| 6787 | revistas | as revistas | /ʁɨ.'viʃ.tɐʃ/ | /ʁe.'vis.tɐʃ/ | sfp | magazines | revistas |
+| 6788 | chaves | as chaves | /'ʃa.vɨʃ/ | /'ʃa.vis/ | sfp | keys | llaves |
+| 6789 | chave | a chave | /'ʃa.vɨ/ | /'ʃa.vi/ | sf | key | llave |
+| 6790 | chocolates | os chocolates | /ʃɔ.ku.'la.tɨʃ/ | /ʃɔ.kɔ.'la.tʃis/ | smp | chocolates | chocolates |
+| 6791 | avós | os/as avós | /ɐ.'vɔʃ/ | /ɐ.'vɔs/ | smp | grandparents | abuelos |
+| 6792 | avôs | os avôs | /ɐ.'vɔʃ/ | /ɐ.'vɔs/ | smp | grandfathers | abuelos |
 
 
-Certainly, here is the table filled with the missing values:
 
 | No. | Portuguese | IPA (PT) | IPA (BR) | Tipo de Palavra | English Word | English IPA | Spanish Word | Spanish IPA |
 |-----|------------|----------|----------|-----------------|--------------|-------------|--------------|-------------|

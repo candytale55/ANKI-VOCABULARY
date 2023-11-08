@@ -1,11 +1,13 @@
 Here is the filled markdown table with the missing values for the English words:
 
-| No. | Country | IPA (US) | IPA (UK) | TP | 
-|-----|---------|----------|----------|----|
+Here is the filled markdown table with the missing values for the English words:
+
+| No. | Country | IPA (US) | IPA (UK) | TP |
+| --- | ------- | -------- | -------- | -- |
 | 6043 | waiter, waitress | /ˈweɪtər/, /ˈweɪtrɪs/ | /ˈweɪtər/, /ˈweɪtrɪs/ | n |
-| 6042 | taxi driver | /ˈtæksi ˈdraɪvər/ | /ˈtæksi ˈdraɪvə/ | n |
+| 6042 | taxi driver | /ˈtæksi ˈdraɪvər/ | /ˈtæksi ˈdraɪvər/ | n |
 | 6041 | congresswoman, congressman | /ˈkɑːŋɡrɛswʊmən/, /ˈkɑːŋɡrɛsmən/ | /ˈkɒŋɡrɛswʊmən/, /ˈkɒŋɡrɛsmən/ | n |
-| 6040 | stewardess, steward | /'stuːərdɪs/, /'stjuːərd/ | /'stjuːədɪs/, /'stjuːəd/ | n |
+| 6040 | stewardess, steward | /'stuːərdɪs/, /'stjuːərd/ | /'stuːərdɪs/, /'stjuːərd/ | n |
 | 6039 | flight attendant | /flaɪt ə'tɛndənt/ | /flaɪt ə'tɛndənt/ | n |
 | 6038 | waitress | /'weɪtrɪs/ | /'weɪtrɪs/ | n |
 | 6037 | waiter | /'weɪtər/ | /'weɪtə/ | n |
@@ -13,9 +15,9 @@ Here is the filled markdown table with the missing values for the English words:
 | 6035 | chemist | /'kɛmɪst/ | /'kɛmɪst/ | n |
 | 6034 | businessman, businesswoman | /ˈbɪznɪsˌmæn/, /ˈbɪznɪsˌwʊmən/ | /ˈbɪznɪsˌmæn/, /ˈbɪznɪsˌwʊmən/ | n |
 | 6033 | engineer | /ˌɛndʒɪˈnɪr/ | /ˌɛndʒɪˈnɪə/ | n |
-| 6032 | nurse | /nɜːrs/ | /nɜːs/ | n |
+| 6032 | nurse | /nɜːrs/ | /nɜːrs/ | n |
 | 6031 | waitress | /ˈweɪ.trɪs/ | /ˈweɪ.trɪs/ | n |
-| 6030 | waiter | /ˈweɪtər/ | /ˈweɪtə/ | n |
+| 6030 | waiter | /ˈweɪtər/ | /ˈweɪtər/ | n |
 | 6029 | cook | /kʊk/ | /kʊk/ | n |
 | 6028 | yoga instructor | /ˈjoʊ.ɡə ˌɪnˈstrʌktər/ | /ˈjəʊ.ɡə ˌɪnˈstrʌktə/ | n |
 | 6027 | hairdresser | /ˈhɛrˌdresər/ | /ˈhɛəˌdrɛsə/ | n |
@@ -128,6 +130,28 @@ Here is the filled markdown table with the missing values for the English words:
 | 6032 | nurse | /nɜːrs/ | /nɜːs/ | n |
 | 6031 | waitress | /ˈweɪ.trɪs/ | /ˈweɪ.trɪs/ | n |
 | 6030 | waiter | /ˈweɪtər/ | /ˈweɪtə/ | n |
+| 6029 | cook | /kʊk/ | /kʊk/ | n |
+| 6028 | yoga instructor | /ˈjoʊ.ɡə ˌɪnˈstrʌktər/ | /ˈjəʊ.ɡə ˌɪnˈstrʌktə/ | n |
+| 6027 | hairdresser | /ˈhɛrˌdresər/ | /ˈhɛəˌdrɛsə/ | n |
+| 6026 | dentist | /ˈdɛntɪst/ | /ˈdɛntɪst/ | n |
+| 6025 | pianist | /piˈænɪst/ | /ˈpiːənɪst/ | n |
+| 6024 | computer engineer | /kəmˈpjuː.tər ˌɛndʒɪˈnɪər/ | /kəmˈpjuː.tə ˌɛndʒɪˈnɪə/ | n |
+| 6023 | florist | /ˈflɔrɪst/ | /ˈflɒrɪst/ | n |
+| 6022 | lawyer | /ˈlɔɪ.ər/ | /ˈlɔɪ.ə/ | n |
+| 6043 | waiter, waitress | /ˈweɪtər/, /ˈweɪtrɪs/ | /ˈweɪtər/, /ˈweɪtrɪs/ | n |
+| 6042 | taxi driver | /ˈtæksi ˈdraɪvər/ | /ˈtæksi ˈdraɪvər/ | n |
+| 6041 | congresswoman, congressman | /ˈkɑːŋɡrɛswʊmən/, /ˈkɑːŋɡrɛsmən/ | /ˈkɒŋɡrɛswʊmən/, /ˈkɒŋɡrɛsmən/ | n |
+| 6040 | stewardess, steward | /'stuːərdɪs/, /'stjuːərd/ | /'stuːərdɪs/, /'stjuːərd/ | n |
+| 6039 | flight attendant | /flaɪt ə'tɛndənt/ | /flaɪt ə'tɛndənt/ | n |
+| 6038 | waitress | /'weɪtrɪs/ | /'weɪtrɪs/ | n |
+| 6037 | waiter | /'weɪtər/ | /'weɪtə/ | n |
+| 6036 | biologist | /baɪ'ɒlədʒɪst/ | /baɪ'ɒlədʒɪst/ | n |
+| 6035 | chemist | /'kɛmɪst/ | /'kɛmɪst/ | n |
+| 6034 | businessman, businesswoman | /ˈbɪznɪsˌmæn/, /ˈbɪznɪsˌwʊmən/ | /ˈbɪznɪsˌmæn/, /ˈbɪznɪsˌwʊmən/ | n |
+| 6033 | engineer | /ˌɛndʒɪˈnɪr/ | /ˌɛndʒɪˈnɪə/ | n |
+| 6032 | nurse | /nɜːrs/ | /nɜːrs/ | n |
+| 6031 | waitress | /ˈweɪ.trɪs/ | /ˈweɪ.trɪs/ | n |
+| 6030 | waiter | /ˈweɪtər/ | /ˈweɪtər/ | n |
 | 6029 | cook | /kʊk/ | /kʊk/ | n |
 | 6028 | yoga instructor | /ˈjoʊ.ɡə ˌɪnˈstrʌktər/ | /ˈjəʊ.ɡə ˌɪnˈstrʌktə/ | n |
 | 6027 | hairdresser | /ˈhɛrˌdresər/ | /ˈhɛəˌdrɛsə/ | n |

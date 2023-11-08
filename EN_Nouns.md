@@ -9,7 +9,7 @@ Here is the completed markdown table with the missing values for the English wor
 | 6817 | summer | /ˈsʌmər/ | /ˈsʌmə/ | n |
 | 6818 | spring | /sprɪŋ/ | /sprɪŋ/ | n |
 | 6819 | winter | /ˈwɪntər/ | /ˈwɪntə/ | n |
-| day | /deɪ/ | /deɪ/ | n |
+| 5999 | day | /deɪ/ | /deɪ/ | n |
 | 6812 | month | /mʌnθ/ | /mʌnθ/ | n |
 | 6813 | year | /jɪr/ | /jɪə/ | n |
 | 6814 | century | /ˈsɛnʧəri/ | /ˈsɛnʧʊri/ | n |

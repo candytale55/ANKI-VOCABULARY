@@ -1,33 +1,24 @@
 Here is the filled markdown table with the missing values for the English words:
 
+Here is the completed markdown table with the missing values for the English words:
+
 | No. | Word | IPA (US) | IPA (UK) | TP |
 | --- | ---- | -------- | -------- | -- |
-| 6090 | pencil | /ˈpɛnsəl/ | /ˈpɛnsəl/ | n |
-| 6784 | dictionary | /ˈdɪkʃəˌnɛri/ | /ˈdɪkʃənəri/ | n |
-| 6107 | street lamp | /strit læmp/ | /striːt læmp/ | n |
-| 6775 | engineering | /ˌɛndʒɪˈnɪrɪŋ/ | /ˌɛndʒɪˈnɪərɪŋ/ | n |
-| 6793 | Tuesday | /ˈtuːzdeɪ/ | /ˈtjuːzdeɪ/ | n |
-| 6794 | Thursday | /ˈθɜrsdeɪ/ | /ˈθɜːzdeɪ/ | n |
-| 6795 | Friday | /ˈfraɪdeɪ/ | /ˈfraɪdeɪ/ | n |
-| 6796 | Wednesday | /ˈwɛnzdeɪ/ | /ˈwɛnzdeɪ/ | n |
-| 6797 | Monday | /ˈmʌndeɪ/ | /ˈmʌndeɪ/ | n |
-| 6798 | Sunday | /ˈsʌndeɪ/ | /ˈsʌndeɪ/ | n |
-| 6799 | Saturday | /ˈsætərdeɪ/ | /ˈsætədeɪ/ | n |
-| 6821 | minute | /ˈmɪnət/ | /ˈmɪnɪt/ | n |
-| 6822 | hour | /ˈaʊər/ | /ˈaʊə/ | n |
-| 6823 | second | /ˈsɛkənd/ | /ˈsɛkənd/ | n |
-| 6800 | January | /ˈdʒænjuˌɛri/ | /ˈdʒænjʊəri/ | n |
-| 6801 | July | /dʒuˈlaɪ/ | /dʒʊlaɪ/ | n |
-| 6802 | February | /ˈfɛbruˌɛri/ | /ˈfɛbjʊəri/ | n |
-| 6803 | March | /mɑːrtʃ/ | /mɑːtʃ/ | n |
-| 6804 | April | /ˈeɪprəl/ | /ˈeɪprəl/ | n |
-| 6805 | August | /ɑːˈɡʌst/ | /ɔːˈɡʌst/ | n |
-| 6806 | May | /meɪ/ | /meɪ/ | n |
-| 6807 | June | /dʒuːn/ | /dʒuːn/ | n |
-| 6808 | September | /sɛpˈtɛmbər/ | /sɛpˈtɛmbə/ | n |
-| 6809 | October | /ɑkˈtoʊbər/ | /ɒkˈtəʊbə/ | n |
-| 6810 | November | /noʊˈvɛmbər/ | /nəʊˈvɛmbə/ | n |
-| 6811 | December | /dɪˈsɛmbər/ | /dɪˈsɛmbə/ | n |
+| 6815 | season | /ˈsiːzən/ | /ˈsiːzən/ | n |
+| 6816 | fall | /fɔːl/ | /fɔːl/ | n |
+| 6817 | summer | /ˈsʌmər/ | /ˈsʌmə/ | n |
+| 6818 | spring | /sprɪŋ/ | /sprɪŋ/ | n |
+| 6819 | winter | /ˈwɪntər/ | /ˈwɪntə/ | n |
+| day | /deɪ/ | /deɪ/ | n |
+| 6812 | month | /mʌnθ/ | /mʌnθ/ | n |
+| 6813 | year | /jɪr/ | /jɪə/ | n |
+| 6814 | century | /ˈsɛnʧəri/ | /ˈsɛnʧʊri/ | n |
+| 6820 | millennium | /mɪˈlɛnɪəm/ | /mɪˈlɛnɪəm/ | n |
+| 6003 | airplane | /ˈɛrˌpleɪn/ | /ˈɛːpleɪn/ | n |
+| 6001 | taxi | /ˈtæksi/ | /ˈtæksi/ | n |
+| 6000 | bus | /bʌs/ | /bʌs/ | n |
+| 6089 | work schedule | /wɜːrk ˈʃɛdjuːl/ | /wɜːrk ˈʃɛdjuːl/ | n |
+| 6088 | coworker | /ˈkoʊˌwɜːrkər/ | /ˈkəʊˌwɜːkə/ | n |
 
 | No. | Country | IPA (US) | IPA (UK) | TP | 
 |-----|---------|----------|----------|----|
@@ -194,3 +185,23 @@ Here is the filled markdown table with the missing values for the English words:
 | 6809 | October | /ɑkˈtoʊbər/ | /ɒkˈtəʊbə/ | n |
 | 6810 | November | /noʊˈvɛmbər/ | /nəʊˈvɛmbə/ | n |
 | 6811 | December | /dɪˈsɛmbər/ | /dɪˈsɛmbə/ | n |
+
+Here is the completed markdown table with the missing values for the English words:
+
+| No. | Word | IPA (US) | IPA (UK) | TP |
+| --- | ---- | -------- | -------- | -- |
+| 6815 | season | /ˈsiːzən/ | /ˈsiːzən/ | n |
+| 6816 | fall | /fɔːl/ | /fɔːl/ | n |
+| 6817 | summer | /ˈsʌmər/ | /ˈsʌmə/ | n |
+| 6818 | spring | /sprɪŋ/ | /sprɪŋ/ | n |
+| 6819 | winter | /ˈwɪntər/ | /ˈwɪntə/ | n |
+| day | /deɪ/ | /deɪ/ | n |
+| 6812 | month | /mʌnθ/ | /mʌnθ/ | n |
+| 6813 | year | /jɪr/ | /jɪə/ | n |
+| 6814 | century | /ˈsɛnʧəri/ | /ˈsɛnʧʊri/ | n |
+| 6820 | millennium | /mɪˈlɛnɪəm/ | /mɪˈlɛnɪəm/ | n |
+| 6003 | airplane | /ˈɛrˌpleɪn/ | /ˈɛːpleɪn/ | n |
+| 6001 | taxi | /ˈtæksi/ | /ˈtæksi/ | n |
+| 6000 | bus | /bʌs/ | /bʌs/ | n |
+| 6089 | work schedule | /wɜːrk ˈʃɛdjuːl/ | /wɜːrk ˈʃɛdjuːl/ | n |
+| 6088 | coworker | /ˈkoʊˌwɜːrkər/ | /ˈkəʊˌwɜːkə/ | n |

@@ -1,31 +1,29 @@
 Here is the filled markdown table with the missing values for the English words:
 
-Here is the filled markdown table with the missing values for the English words:
-
-| No. | Country | IPA (US) | IPA (UK) | TP |
-| --- | ------- | -------- | -------- | -- |
-| 6043 | waiter, waitress | /ˈweɪtər/, /ˈweɪtrɪs/ | /ˈweɪtər/, /ˈweɪtrɪs/ | n |
-| 6042 | taxi driver | /ˈtæksi ˈdraɪvər/ | /ˈtæksi ˈdraɪvər/ | n |
-| 6041 | congresswoman, congressman | /ˈkɑːŋɡrɛswʊmən/, /ˈkɑːŋɡrɛsmən/ | /ˈkɒŋɡrɛswʊmən/, /ˈkɒŋɡrɛsmən/ | n |
-| 6040 | stewardess, steward | /'stuːərdɪs/, /'stjuːərd/ | /'stuːərdɪs/, /'stjuːərd/ | n |
-| 6039 | flight attendant | /flaɪt ə'tɛndənt/ | /flaɪt ə'tɛndənt/ | n |
-| 6038 | waitress | /'weɪtrɪs/ | /'weɪtrɪs/ | n |
-| 6037 | waiter | /'weɪtər/ | /'weɪtə/ | n |
-| 6036 | biologist | /baɪ'ɒlədʒɪst/ | /baɪ'ɒlədʒɪst/ | n |
-| 6035 | chemist | /'kɛmɪst/ | /'kɛmɪst/ | n |
-| 6034 | businessman, businesswoman | /ˈbɪznɪsˌmæn/, /ˈbɪznɪsˌwʊmən/ | /ˈbɪznɪsˌmæn/, /ˈbɪznɪsˌwʊmən/ | n |
-| 6033 | engineer | /ˌɛndʒɪˈnɪr/ | /ˌɛndʒɪˈnɪə/ | n |
-| 6032 | nurse | /nɜːrs/ | /nɜːrs/ | n |
-| 6031 | waitress | /ˈweɪ.trɪs/ | /ˈweɪ.trɪs/ | n |
-| 6030 | waiter | /ˈweɪtər/ | /ˈweɪtər/ | n |
-| 6029 | cook | /kʊk/ | /kʊk/ | n |
-| 6028 | yoga instructor | /ˈjoʊ.ɡə ˌɪnˈstrʌktər/ | /ˈjəʊ.ɡə ˌɪnˈstrʌktə/ | n |
-| 6027 | hairdresser | /ˈhɛrˌdresər/ | /ˈhɛəˌdrɛsə/ | n |
-| 6026 | dentist | /ˈdɛntɪst/ | /ˈdɛntɪst/ | n |
-| 6025 | pianist | /piˈænɪst/ | /ˈpiːənɪst/ | n |
-| 6024 | computer engineer | /kəmˈpjuː.tər ˌɛndʒɪˈnɪər/ | /kəmˈpjuː.tə ˌɛndʒɪˈnɪə/ | n |
-| 6023 | florist | /ˈflɔrɪst/ | /ˈflɒrɪst/ | n |
-| 6022 | lawyer | /ˈlɔɪ.ər/ | /ˈlɔɪ.ə/ | n |
+| No. | Word | IPA (US) | IPA (UK) | TP |
+| --- | ---- | -------- | -------- | -- |
+| 6021 | secretary | /'sɛkrəˌtɛri/ | /'sɛkrətri/ | n |
+| 6020 | employee | /ɪm'plɔɪ.iː/ | /ɪm'plɔɪ.iː/ | n |
+| 6019 | reporter | /ɹɪ'pɔɹtɚ/ | /ɹɪ'pɔːtə/ | n |
+| 6018 | manager | /'mænɪdʒɚ/ | /'mænɪdʒə/ | n |
+| 6017 | insurance agent | /ɪn'ʃʊɹəns 'eɪdʒənt/ | /ɪn'ʃʊərəns 'eɪdʒənt/ | n |
+| 6016 | merchant | /'mɝtʃənt/ | /'mɜːtʃənt/ | n |
+| 6015 | accountant | /ə'kaʊntənt/ | /ə'kaʊntənt/ | n |
+| 6014 | gardener | /'ɡɑɹdənɚ/ | /'ɡɑːdnər/ | n |
+| 6768 | translator | /trænsˈleɪtər/ | /trænsˈleɪtər/ | n |
+| 6769 | pharmacist | /ˈfɑːrməsɪst/ | /ˈfɑːrməsɪst/ | n |
+| 6770 | jurist | /ˈdʒʊərɪst/ | /ˈdʒʊərɪst/ | n |
+| 6108 | notebook | /'noʊtˌbʊk/ | /'nəʊtˌbʊk/ | n |
+| 6105 | bag | /bæɡ/ | /bæɡ/ | n |
+| 6104 | pencil case | /'pɛnsəl keɪs/ | /ˈpɛnsəl keɪs/ | n |
+| 6103 | cell phone | /sɛl ˌfoʊn/ | /sɛl ˌfəʊn/ | n |
+| 6101 | laptop | /'læpˌtɒp/ | /'læpˌtɒp/ | n |
+| 6100 | computer | /kəm'pjuːtər/ | /kəm'pjuːtə/ | n |
+| 6099 | cellphone | /'sɛl.fəʊn/ | /'sɛl.fəʊn/ | n |
+| 6098 | books | /bʊks/ | /bʊks/ | np |
+| 6097 | eraser | /ɪˈreɪsər/ | /ɪˈreɪsər/ | n |
+| 6092 | pen | /pɛn/ | /pɛn/ | n |
+| 6091 | pens | /pɛnz/ | /pɛnz/ | np |
 
 | No. | Country | IPA (US) | IPA (UK) | TP | 
 |-----|---------|----------|----------|----|
@@ -138,25 +136,25 @@ Here is the filled markdown table with the missing values for the English words:
 | 6024 | computer engineer | /kəmˈpjuː.tər ˌɛndʒɪˈnɪər/ | /kəmˈpjuː.tə ˌɛndʒɪˈnɪə/ | n |
 | 6023 | florist | /ˈflɔrɪst/ | /ˈflɒrɪst/ | n |
 | 6022 | lawyer | /ˈlɔɪ.ər/ | /ˈlɔɪ.ə/ | n |
-| 6043 | waiter, waitress | /ˈweɪtər/, /ˈweɪtrɪs/ | /ˈweɪtər/, /ˈweɪtrɪs/ | n |
-| 6042 | taxi driver | /ˈtæksi ˈdraɪvər/ | /ˈtæksi ˈdraɪvər/ | n |
-| 6041 | congresswoman, congressman | /ˈkɑːŋɡrɛswʊmən/, /ˈkɑːŋɡrɛsmən/ | /ˈkɒŋɡrɛswʊmən/, /ˈkɒŋɡrɛsmən/ | n |
-| 6040 | stewardess, steward | /'stuːərdɪs/, /'stjuːərd/ | /'stuːərdɪs/, /'stjuːərd/ | n |
-| 6039 | flight attendant | /flaɪt ə'tɛndənt/ | /flaɪt ə'tɛndənt/ | n |
-| 6038 | waitress | /'weɪtrɪs/ | /'weɪtrɪs/ | n |
-| 6037 | waiter | /'weɪtər/ | /'weɪtə/ | n |
-| 6036 | biologist | /baɪ'ɒlədʒɪst/ | /baɪ'ɒlədʒɪst/ | n |
-| 6035 | chemist | /'kɛmɪst/ | /'kɛmɪst/ | n |
-| 6034 | businessman, businesswoman | /ˈbɪznɪsˌmæn/, /ˈbɪznɪsˌwʊmən/ | /ˈbɪznɪsˌmæn/, /ˈbɪznɪsˌwʊmən/ | n |
-| 6033 | engineer | /ˌɛndʒɪˈnɪr/ | /ˌɛndʒɪˈnɪə/ | n |
-| 6032 | nurse | /nɜːrs/ | /nɜːrs/ | n |
-| 6031 | waitress | /ˈweɪ.trɪs/ | /ˈweɪ.trɪs/ | n |
-| 6030 | waiter | /ˈweɪtər/ | /ˈweɪtər/ | n |
-| 6029 | cook | /kʊk/ | /kʊk/ | n |
-| 6028 | yoga instructor | /ˈjoʊ.ɡə ˌɪnˈstrʌktər/ | /ˈjəʊ.ɡə ˌɪnˈstrʌktə/ | n |
-| 6027 | hairdresser | /ˈhɛrˌdresər/ | /ˈhɛəˌdrɛsə/ | n |
-| 6026 | dentist | /ˈdɛntɪst/ | /ˈdɛntɪst/ | n |
-| 6025 | pianist | /piˈænɪst/ | /ˈpiːənɪst/ | n |
-| 6024 | computer engineer | /kəmˈpjuː.tər ˌɛndʒɪˈnɪər/ | /kəmˈpjuː.tə ˌɛndʒɪˈnɪə/ | n |
-| 6023 | florist | /ˈflɔrɪst/ | /ˈflɒrɪst/ | n |
-| 6022 | lawyer | /ˈlɔɪ.ər/ | /ˈlɔɪ.ə/ | n |
+| 6021 | secretary | /'sɛkrəˌtɛri/ | /'sɛkrətri/ | n |
+| 6020 | employee | /ɪm'plɔɪ.iː/ | /ɪm'plɔɪ.iː/ | n |
+| 6019 | reporter | /ɹɪ'pɔɹtɚ/ | /ɹɪ'pɔːtə/ | n |
+| 6018 | manager | /'mænɪdʒɚ/ | /'mænɪdʒə/ | n |
+| 6017 | insurance agent | /ɪn'ʃʊɹəns 'eɪdʒənt/ | /ɪn'ʃʊərəns 'eɪdʒənt/ | n |
+| 6016 | merchant | /'mɝtʃənt/ | /'mɜːtʃənt/ | n |
+| 6015 | accountant | /ə'kaʊntənt/ | /ə'kaʊntənt/ | n |
+| 6014 | gardener | /'ɡɑɹdənɚ/ | /'ɡɑːdnər/ | n |
+| 6768 | translator | /trænsˈleɪtər/ | /trænsˈleɪtər/ | n |
+| 6769 | pharmacist | /ˈfɑːrməsɪst/ | /ˈfɑːrməsɪst/ | n |
+| 6770 | jurist | /ˈdʒʊərɪst/ | /ˈdʒʊərɪst/ | n |
+| 6108 | notebook | /'noʊtˌbʊk/ | /'nəʊtˌbʊk/ | n |
+| 6105 | bag | /bæɡ/ | /bæɡ/ | n |
+| 6104 | pencil case | /'pɛnsəl keɪs/ | /ˈpɛnsəl keɪs/ | n |
+| 6103 | cell phone | /sɛl ˌfoʊn/ | /sɛl ˌfəʊn/ | n |
+| 6101 | laptop | /'læpˌtɒp/ | /'læpˌtɒp/ | n |
+| 6100 | computer | /kəm'pjuːtər/ | /kəm'pjuːtə/ | n |
+| 6099 | cellphone | /'sɛl.fəʊn/ | /'sɛl.fəʊn/ | n |
+| 6098 | books | /bʊks/ | /bʊks/ | np |
+| 6097 | eraser | /ɪˈreɪsər/ | /ɪˈreɪsər/ | n |
+| 6092 | pen | /pɛn/ | /pɛn/ | n |
+| 6091 | pens | /pɛnz/ | /pɛnz/ | np |

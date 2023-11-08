@@ -1,42 +1,29 @@
 
+Here is the completed markdown table with the missing values for the English words:
 
 | No. | Word | IPA (US) | IPA (UK) | TP |
 | --- | ---- | -------- | -------- | -- |
-| 6087 | salary | /ˈsæləri/ | /ˈsæləri/ | n |
-| 6086 | client | /ˈklaɪənt/ | /ˈklʌɪənt/ | n |
-| 6085 | day off | /deɪ ɒf/ | /deɪ ɒf/ | n |
-| 6084 | career | /kəˈrɪər/ | /kəˈrɪə/ | n |
-| 6083 | meeting | /ˈmiːtɪŋ/ | /ˈmiːtɪŋ/ | n |
-| 6082 | boss | /bɔs/ | /bɒs/ | n |
-| 6081 | company | /ˈkʌmpəni/ | /ˈkʌmpəni/ | n |
-| 6080 | profession | /prəˈfɛʃən/ | /prəˈfɛʃən/ | n |
-| 6079 | job | /dʒɑb/ | /dʒɒb/ | n |
-| 6078 | work | /wɜːrk/ | /wɜːk/ | n |
-| 6077 | employee | /ɪmˈplɔɪi/ | /ɪmˈplɔɪi/ | n |
-| 6006 | parliament | /ˈpɑrləmənt/ | /ˈpɑːləmənt/ | n |
-| 6005 | restaurant | /ˈrɛstərɑnt/ | /ˈrɛstrɒnt/ | n |
-| 6002 | court | /kɔrt/ | /kɔːt/ | n |
+| 6013 | friends | /frɛndz/ | /frɛndz/ | n |
+| 6008 | boyfriend, girlfriend | /'bɔɪˌfɹɛnd/, /'gɝlˌfɹɛnd/ | /'bɔɪˌfriːnd/, /'ɡɜːlˌfriːnd/ | n |
+| 6780 | brothers | /ˈbrʌðərz/ | /ˈbrʌðərz/ | nmp |
+| 6781 | sisters | /ˈsɪstərz/ | /ˈsɪstərz/ | nfp |
+| 6791 | grandparents | /ˈɡræn(d)ˌpɛrənts/ | /ˈɡræn(d)ˌpærənts/ | nmp |
+| 6792 | grandfathers | /ˈɡrændˌfɑðərz/ | /ˈɡrændˌfɑːðəz/ | nmp |
+| 6782 | coffee | /ˈkɒfi/ | /ˈkɒfi/ | n |
+| 6790 | chocolates | /ˈtʃɔkləts/ | /ˈtʃɒkləts/ | n |
+| 6772 | cabinet | /ˈkæbɪnɪt/ | /ˈkæbɪnɪt/ | n |
+| 6012 | photography | /fəˈtɒɡrəfi/ | /fəˈtɒɡrəfi/ | n |
+| 6009 | sport | /spɔrt/ | /spɔːt/ | n |
+| 6007 | piano | /piˈænoʊ/ | /piˈænəʊ/ | n |
+| 6777 | pastime | /ˈpæstˌtaɪm/ | /ˈpɑːstaɪm/ | n |
+| 6785 | ball | /bɔl/ | /bɔːl/ | n |
+| 6787 | magazines | /ˌmæɡəˈzinz/ | /ˌmæɡəˈziːnz/ | n |
+| 6106 | lamp | /læmp/ | /læmp/ | n |
+| 6102 | telephone | /ˈtɛləˌfoʊn/ | /ˈtɛlɪˌfəʊn/ | n |
+| 6096 | chair | /tʃɛr/ | /tʃeər/ | n |
+| 6095 | table | /ˈteɪbəl/ | /ˈteɪbəl/ | n |
+| 6094 | door | /dɔr/ | /dɔːr/ | n |
 
-
-
-
-
-| No. | Word | IPA (US) | IPA (UK) | TP |
-| --- | ---- | -------- | -------- | -- |
-| 6087 | salary | /ˈsæləri/ | /ˈsæləri/ | n |
-| 6086 | client | /ˈklaɪənt/ | /ˈklʌɪənt/ | n |
-| 6085 | day off | /deɪ ɒf/ | /deɪ ɒf/ | n |
-| 6084 | career | /kəˈrɪər/ | /kəˈrɪə/ | n |
-| 6083 | meeting | /ˈmiːtɪŋ/ | /ˈmiːtɪŋ/ | n |
-| 6082 | boss | /bɔs/ | /bɒs/ | n |
-| 6081 | company | /ˈkʌmpəni/ | /ˈkʌmpəni/ | n |
-| 6080 | profession | /prəˈfɛʃən/ | /prəˈfɛʃən/ | n |
-| 6079 | job | /dʒɑb/ | /dʒɒb/ | n |
-| 6078 | work | /wɜːrk/ | /wɜːk/ | n |
-| 6077 | employee | /ɪmˈplɔɪi/ | /ɪmˈplɔɪi/ | n |
-| 6006 | parliament | /ˈpɑrləmənt/ | /ˈpɑːləmənt/ | n |
-| 6005 | restaurant | /ˈrɛstərɑnt/ | /ˈrɛstrɒnt/ | n |
-| 6002 | court | /kɔrt/ | /kɔːt/ | n |
 
 | No. | Country | IPA (US) | IPA (UK) | TP | 
 |-----|---------|----------|----------|----|
@@ -265,3 +252,29 @@ Here is the completed markdown table with the missing values for the English wor
 | 6006 | parliament | /ˈpɑrləmənt/ | /ˈpɑːləmənt/ | n |
 | 6005 | restaurant | /ˈrɛstərɑnt/ | /ˈrɛstrɒnt/ | n |
 | 6002 | court | /kɔrt/ | /kɔːt/ | n |
+
+
+Here is the completed markdown table with the missing values for the English words:
+
+| No. | Word | IPA (US) | IPA (UK) | TP |
+| --- | ---- | -------- | -------- | -- |
+| 6013 | friends | /frɛndz/ | /frɛndz/ | n |
+| 6008 | boyfriend, girlfriend | /'bɔɪˌfɹɛnd/, /'gɝlˌfɹɛnd/ | /'bɔɪˌfriːnd/, /'ɡɜːlˌfriːnd/ | n |
+| 6780 | brothers | /ˈbrʌðərz/ | /ˈbrʌðərz/ | nmp |
+| 6781 | sisters | /ˈsɪstərz/ | /ˈsɪstərz/ | nfp |
+| 6791 | grandparents | /ˈɡræn(d)ˌpɛrənts/ | /ˈɡræn(d)ˌpærənts/ | nmp |
+| 6792 | grandfathers | /ˈɡrændˌfɑðərz/ | /ˈɡrændˌfɑːðəz/ | nmp |
+| 6782 | coffee | /ˈkɒfi/ | /ˈkɒfi/ | n |
+| 6790 | chocolates | /ˈtʃɔkləts/ | /ˈtʃɒkləts/ | n |
+| 6772 | cabinet | /ˈkæbɪnɪt/ | /ˈkæbɪnɪt/ | n |
+| 6012 | photography | /fəˈtɒɡrəfi/ | /fəˈtɒɡrəfi/ | n |
+| 6009 | sport | /spɔrt/ | /spɔːt/ | n |
+| 6007 | piano | /piˈænoʊ/ | /piˈænəʊ/ | n |
+| 6777 | pastime | /ˈpæstˌtaɪm/ | /ˈpɑːstaɪm/ | n |
+| 6785 | ball | /bɔl/ | /bɔːl/ | n |
+| 6787 | magazines | /ˌmæɡəˈzinz/ | /ˌmæɡəˈziːnz/ | n |
+| 6106 | lamp | /læmp/ | /læmp/ | n |
+| 6102 | telephone | /ˈtɛləˌfoʊn/ | /ˈtɛlɪˌfəʊn/ | n |
+| 6096 | chair | /tʃɛr/ | /tʃeər/ | n |
+| 6095 | table | /ˈteɪbəl/ | /ˈteɪbəl/ | n |
+| 6094 | door | /dɔr/ | /dɔːr/ | n |

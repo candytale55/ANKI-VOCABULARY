@@ -1,33 +1,28 @@
-Here is the filled markdown table with the missing values for the English words:
 
 | No. | Country | IPA (US) | IPA (UK) | TP | 
 |-----|---------|----------|----------|----|
-| 6129 | eyelids | /ˈaɪˌlɪdz/ | /ˈaɪˌlɪdz/ | n |
-| 6128 | elbow, elbows | /ˈɛlboʊ/ , /ˈɛlboʊz/ | /ˈɛlbəʊ/ , /ˈɛlbəʊz/ | n |
-| 6127 | arm | /ɑːrm/ | /ɑːm/ | n |
-| 6126 | finger | /ˈfɪŋɡɚ/ | /ˈfɪŋɡə(r)/ | n |
-| 6125 | leg | /lɛɡ/ | /leɡ/ | n |
-| 6124 | tooth | /tuːθ/ | /tuːθ/ | n |
-| 6123 | eyebrow, eyebrows | /ˈaɪˌbraʊ/, /ˈaɪˌbraʊz/ | /ˈaɪˌbraʊ/ , /ˈaɪˌbraʊz/ | np |
-| 6122 | ankle, ankles | /'æŋkəl/, /'æŋkəlz/ | /'æŋkəl/ , /'æŋkəlz/ | np |
-| 6121 | buttocks | /'bʌtəks/ | /'bʌtəks/ | n |
-| 6120 | hips | /hɪps/ | /hɪps/ | n |
-| 6119 | ears | /ɪrz/ | /ɪəz/ | n |
-| 6118 | nose | /noʊz/ | /nəʊz/ | n |
-| 6117 | face | /feɪs/ | /feɪs/ | n |
-| 6116 | shoulders | /ˈʃoʊldərz/ | /ˈʃəʊldəz/ | np |
-| 6115 | neck | /nɛk/ | /nek/ | n |
-| 6114 | back | /bæk/ | /bæk/ | n |
-| 6113 | arms | /ɑːrmz/ | /ɑːmz/ | np |
-| 6112 | knees | /niːz/ | /niːz/ | np |
-| 6111 | legs | /lɛɡz/ | /leɡz/ | n |
-| 6110 | feet | /fiːt/ | /fiːt/ | np |
-| 6109 | brain | /breɪn/ | /breɪn/ | n |
-| 6147 | toe | /toʊ/ | /təʊ/ | n |
-| 6148 | tongue | /tʌŋ/ | /tʌŋ/ | n |
-| 6774 | library | /ˈlaɪˌbrɛri/ | /ˈlaɪˌbrəri/ | n |
-| 6771 | pocket | /ˈpɑːkɪt/ | /ˈpɒkɪt/ | n |
-| 6783 | glasses | /ˈɡlæsɪz/ | /ˈɡlɑːsɪz/ | n |
+| 6076 | family | /ˈfæməli/ | /ˈfæm(ə)li/ | n |
+| 6075 | nephew, niece | /ˈnɛfjuː/, /niːs/ | /ˈnɛfjuː/ , /niːs/ | nm,nf |
+| 6074 | wife | /waɪf/ | /waɪf/ | nf |
+| 6073 | husband | /'hʌzbənd/ | /'hʌzbənd/ | nm |
+| 6072 | sister-in-law | /'sɪstər ɪn lɔ/ | /'sɪstər ɪn lɔ/ | nf |
+| 6071 | brother-in-law | /'brʌðər ɪn lɔ/ | /'brʌðər ɪn lɔ/ | nm |
+| 6070 | mother-in-law | /'mʌðər ɪn lɔ/ | /'mʌðər ɪn lɔ/ | nf |
+| 6069 | father-in-law | /'fɑðər ɪn lɔ/ | /'fɑðər ɪn lɔ/ | nm |
+| 6068 | orphan | /ˈɔrfən/ | /ˈɔːfən/ | n |
+| 6067 | granddaughter, granddaughters | /ˌɡrændˈdɔtər/,  /ˌɡrændˈdɔtərz/ | /ˌɡræn(d)ˈdɔːtə/ ,  /ˌɡræn(d)ˈdɔːtəz/ | nf, nfp |
+| 6066 | grandson, grandsons | /'ɡrænsʌn/, /ˌɡrændˈdɔtər/, /'ɡrændˌsʌnz/, /ˌɡrændˈdɔtərz/ | /'ɡrænsʌn/ , /ˌɡrændˈdɔːtə/ , /'ɡrændˌsʌnz/, /ˌɡrændˈdɔːtəz/ | nm, nmp |
+| 6065 | cousin | /'kʌzən/ | /ˈkʌzən/ | n |
+| 6064 | aunt | /ɑnt/ | /ɑːnt/ | n |
+| 6063 | uncle | /'ʌŋkəl/ | /'ʌŋk(ə)l/ | n |
+| 6062 | grandmother | /ˈɡrændˌmʌðər/ | /ˈɡræn(d)mʌðə/ | n |
+| 6061 | grandfather | /ˈɡrændˌfɑðər/ | /ˈɡræn(d)fɑːðə/ | n |
+| 6060 | sister | /ˈsɪstər/ | /ˈsɪstə/ | n |
+| 6059 | brother | /ˈbrʌðər/ | /ˈbrʌðə/ | n |
+| 6058 | daughter | /ˈdɔtər/ | /ˈdɔːtə/ | n |
+| 6057 | son | /sʌn/ | /sʌn/ | n |
+| 6056 | mother | /'mʌðər/ | /ˈmʌðə/ | n |
+| 6055 | father | /'fɑð.ɚ/ | /ˈfɑːðə/ | n |
 
 
 | No. | Country | IPA (US) | IPA (UK) | TP | 
@@ -76,4 +71,26 @@ Here is the filled markdown table with the missing values for the English words:
 | 6774 | library | /ˈlaɪˌbrɛri/ | /ˈlaɪˌbrəri/ | n |
 | 6771 | pocket | /ˈpɑːkɪt/ | /ˈpɒkɪt/ | n |
 | 6783 | glasses | /ˈɡlæsɪz/ | /ˈɡlɑːsɪz/ | n |
+| 6076 | family | /ˈfæməli/ | /ˈfæm(ə)li/ | n |
+| 6075 | nephew, niece | /ˈnɛfjuː/, /niːs/ | /ˈnɛfjuː/ , /niːs/ | nm,nf |
+| 6074 | wife | /waɪf/ | /waɪf/ | nf |
+| 6073 | husband | /'hʌzbənd/ | /'hʌzbənd/ | nm |
+| 6072 | sister-in-law | /'sɪstər ɪn lɔ/ | /'sɪstər ɪn lɔ/ | nf |
+| 6071 | brother-in-law | /'brʌðər ɪn lɔ/ | /'brʌðər ɪn lɔ/ | nm |
+| 6070 | mother-in-law | /'mʌðər ɪn lɔ/ | /'mʌðər ɪn lɔ/ | nf |
+| 6069 | father-in-law | /'fɑðər ɪn lɔ/ | /'fɑðər ɪn lɔ/ | nm |
+| 6068 | orphan | /ˈɔrfən/ | /ˈɔːfən/ | n |
+| 6067 | granddaughter, granddaughters | /ˌɡrændˈdɔtər/,  /ˌɡrændˈdɔtərz/ | /ˌɡræn(d)ˈdɔːtə/ ,  /ˌɡræn(d)ˈdɔːtəz/ | nf, nfp |
+| 6066 | grandson, grandsons | /'ɡrænsʌn/, /ˌɡrændˈdɔtər/, /'ɡrændˌsʌnz/, /ˌɡrændˈdɔtərz/ | /'ɡrænsʌn/ , /ˌɡrændˈdɔːtə/ , /'ɡrændˌsʌnz/, /ˌɡrændˈdɔːtəz/ | nm, nmp |
+| 6065 | cousin | /'kʌzən/ | /ˈkʌzən/ | n |
+| 6064 | aunt | /ɑnt/ | /ɑːnt/ | n |
+| 6063 | uncle | /'ʌŋkəl/ | /'ʌŋk(ə)l/ | n |
+| 6062 | grandmother | /ˈɡrændˌmʌðər/ | /ˈɡræn(d)mʌðə/ | n |
+| 6061 | grandfather | /ˈɡrændˌfɑðər/ | /ˈɡræn(d)fɑːðə/ | n |
+| 6060 | sister | /ˈsɪstər/ | /ˈsɪstə/ | n |
+| 6059 | brother | /ˈbrʌðər/ | /ˈbrʌðə/ | n |
+| 6058 | daughter | /ˈdɔtər/ | /ˈdɔːtə/ | n |
+| 6057 | son | /sʌn/ | /sʌn/ | n |
+| 6056 | mother | /'mʌðər/ | /ˈmʌðə/ | n |
+| 6055 | father | /'fɑð.ɚ/ | /ˈfɑːðə/ | n |
 

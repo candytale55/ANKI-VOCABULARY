@@ -1,28 +1,28 @@
+Here is the filled markdown table with the missing values for the English words:
 
 | No. | Country | IPA (US) | IPA (UK) | TP | 
 |-----|---------|----------|----------|----|
-| 6076 | family | /ˈfæməli/ | /ˈfæm(ə)li/ | n |
-| 6075 | nephew, niece | /ˈnɛfjuː/, /niːs/ | /ˈnɛfjuː/ , /niːs/ | nm,nf |
-| 6074 | wife | /waɪf/ | /waɪf/ | nf |
-| 6073 | husband | /'hʌzbənd/ | /'hʌzbənd/ | nm |
-| 6072 | sister-in-law | /'sɪstər ɪn lɔ/ | /'sɪstər ɪn lɔ/ | nf |
-| 6071 | brother-in-law | /'brʌðər ɪn lɔ/ | /'brʌðər ɪn lɔ/ | nm |
-| 6070 | mother-in-law | /'mʌðər ɪn lɔ/ | /'mʌðər ɪn lɔ/ | nf |
-| 6069 | father-in-law | /'fɑðər ɪn lɔ/ | /'fɑðər ɪn lɔ/ | nm |
-| 6068 | orphan | /ˈɔrfən/ | /ˈɔːfən/ | n |
-| 6067 | granddaughter, granddaughters | /ˌɡrændˈdɔtər/,  /ˌɡrændˈdɔtərz/ | /ˌɡræn(d)ˈdɔːtə/ ,  /ˌɡræn(d)ˈdɔːtəz/ | nf, nfp |
-| 6066 | grandson, grandsons | /'ɡrænsʌn/, /ˌɡrændˈdɔtər/, /'ɡrændˌsʌnz/, /ˌɡrændˈdɔtərz/ | /'ɡrænsʌn/ , /ˌɡrændˈdɔːtə/ , /'ɡrændˌsʌnz/, /ˌɡrændˈdɔːtəz/ | nm, nmp |
-| 6065 | cousin | /'kʌzən/ | /ˈkʌzən/ | n |
-| 6064 | aunt | /ɑnt/ | /ɑːnt/ | n |
-| 6063 | uncle | /'ʌŋkəl/ | /'ʌŋk(ə)l/ | n |
-| 6062 | grandmother | /ˈɡrændˌmʌðər/ | /ˈɡræn(d)mʌðə/ | n |
-| 6061 | grandfather | /ˈɡrændˌfɑðər/ | /ˈɡræn(d)fɑːðə/ | n |
-| 6060 | sister | /ˈsɪstər/ | /ˈsɪstə/ | n |
-| 6059 | brother | /ˈbrʌðər/ | /ˈbrʌðə/ | n |
-| 6058 | daughter | /ˈdɔtər/ | /ˈdɔːtə/ | n |
-| 6057 | son | /sʌn/ | /sʌn/ | n |
-| 6056 | mother | /'mʌðər/ | /ˈmʌðə/ | n |
-| 6055 | father | /'fɑð.ɚ/ | /ˈfɑːðə/ | n |
+| 6093 | window | /'wɪndoʊ/ | /'wɪndəʊ/ | n |
+| 6011 | television | /ˈtɛləˌvɪʒən/ | /ˈtɛlɪˌvɪʒən/ | n |
+| 6004 | garden | /'ɡɑɹdən/ | /'ɡɑːd(ə)n/ | n |
+| 6788 | keys | /kiːz/ | /kiːz/ | n |
+| 6789 | key | /kiː/ | /kiː/ | n |
+| 6776 | player | /ˈpleɪər/ | /ˈpleɪər/ | n |
+| 6778 | personality | /ˌpɜrsəˈnæləti/ | /ˌpɜːsəˈnæləti/ | n |
+| 6779 | description | /dɪˈskrɪpʃən/ | /dɪˈskrɪpʃən/ | n |
+| 6773 | center | /ˈsɛntər/ | /ˈsɛntə/ | n |
+| 6786 | flowers | /ˈflaʊərz/ | /ˈflaʊəz/ | n |
+| 6054 | banker | /ˈbæŋkər/ | /ˈbæŋkə/ | n |
+| 6053 | insurance agent | /ɪnˈʃʊrəns 'eɪdʒənt/ | /ɪnˈʃʊərəns 'eɪdʒənt/ | n |
+| 6052 | pilot | /ˈpaɪlət/ | /ˈpaɪlət/ | n |
+| 6051 | psychoanalyst | /ˌsaɪkoʊˈænəlɪst/ | /ˌsaɪkəʊˈænəlɪst/ | n |
+| 6050 | athlete | /'æθliːt/ | /'æθliːt/ | n |
+| 6049 | fashion model | /ˈfæʃən ˈmɑdəl/ | /ˈfæʃən ˈmɒdl̩/ | n |
+| 6048 | cashier | /ˈkæʃɪər/ | /ˈkæʃɪə/ | n |
+| 6047 | judge | /dʒʌdʒ/ | /dʒʌdʒ/ | n |
+| 6046 | waiter/waitress on a ship | /ˈweɪtər/, /ˈweɪtrɪs/ | /ˈweɪtər/, /ˈweɪtrɪs/ | n |
+| 6045 | civil servant | /ˈsɪvəl ˈsɜrvənt/ | /ˈsɪvəl ˈsɜːvənt/ | n |
+| 6044 | employee | /ɪmˈplɔɪi/ | /ɪmˈplɔɪi/ | n |
 
 
 | No. | Country | IPA (US) | IPA (UK) | TP | 
@@ -93,4 +93,25 @@
 | 6057 | son | /sʌn/ | /sʌn/ | n |
 | 6056 | mother | /'mʌðər/ | /ˈmʌðə/ | n |
 | 6055 | father | /'fɑð.ɚ/ | /ˈfɑːðə/ | n |
+| 6093 | window | /'wɪndoʊ/ | /'wɪndəʊ/ | n |
+| 6011 | television | /ˈtɛləˌvɪʒən/ | /ˈtɛlɪˌvɪʒən/ | n |
+| 6004 | garden | /'ɡɑɹdən/ | /'ɡɑːd(ə)n/ | n |
+| 6788 | keys | /kiːz/ | /kiːz/ | n |
+| 6789 | key | /kiː/ | /kiː/ | n |
+| 6776 | player | /ˈpleɪər/ | /ˈpleɪər/ | n |
+| 6778 | personality | /ˌpɜrsəˈnæləti/ | /ˌpɜːsəˈnæləti/ | n |
+| 6779 | description | /dɪˈskrɪpʃən/ | /dɪˈskrɪpʃən/ | n |
+| 6773 | center | /ˈsɛntər/ | /ˈsɛntə/ | n |
+| 6786 | flowers | /ˈflaʊərz/ | /ˈflaʊəz/ | n |
+| 6054 | banker | /ˈbæŋkər/ | /ˈbæŋkə/ | n |
+| 6053 | insurance agent | /ɪnˈʃʊrəns 'eɪdʒənt/ | /ɪnˈʃʊərəns 'eɪdʒənt/ | n |
+| 6052 | pilot | /ˈpaɪlət/ | /ˈpaɪlət/ | n |
+| 6051 | psychoanalyst | /ˌsaɪkoʊˈænəlɪst/ | /ˌsaɪkəʊˈænəlɪst/ | n |
+| 6050 | athlete | /'æθliːt/ | /'æθliːt/ | n |
+| 6049 | fashion model | /ˈfæʃən ˈmɑdəl/ | /ˈfæʃən ˈmɒdl̩/ | n |
+| 6048 | cashier | /ˈkæʃɪər/ | /ˈkæʃɪə/ | n |
+| 6047 | judge | /dʒʌdʒ/ | /dʒʌdʒ/ | n |
+| 6046 | waiter/waitress on a ship | /ˈweɪtər/, /ˈweɪtrɪs/ | /ˈweɪtər/, /ˈweɪtrɪs/ | n |
+| 6045 | civil servant | /ˈsɪvəl ˈsɜrvənt/ | /ˈsɪvəl ˈsɜːvənt/ | n |
+| 6044 | employee | /ɪmˈplɔɪi/ | /ɪmˈplɔɪi/ | n |
 

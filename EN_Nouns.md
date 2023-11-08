@@ -2,28 +2,28 @@ Here is the filled markdown table with the missing values for the English words:
 
 | No. | Country | IPA (US) | IPA (UK) | TP | 
 |-----|---------|----------|----------|----|
-| 6093 | window | /'wɪndoʊ/ | /'wɪndəʊ/ | n |
-| 6011 | television | /ˈtɛləˌvɪʒən/ | /ˈtɛlɪˌvɪʒən/ | n |
-| 6004 | garden | /'ɡɑɹdən/ | /'ɡɑːd(ə)n/ | n |
-| 6788 | keys | /kiːz/ | /kiːz/ | n |
-| 6789 | key | /kiː/ | /kiː/ | n |
-| 6776 | player | /ˈpleɪər/ | /ˈpleɪər/ | n |
-| 6778 | personality | /ˌpɜrsəˈnæləti/ | /ˌpɜːsəˈnæləti/ | n |
-| 6779 | description | /dɪˈskrɪpʃən/ | /dɪˈskrɪpʃən/ | n |
-| 6773 | center | /ˈsɛntər/ | /ˈsɛntə/ | n |
-| 6786 | flowers | /ˈflaʊərz/ | /ˈflaʊəz/ | n |
-| 6054 | banker | /ˈbæŋkər/ | /ˈbæŋkə/ | n |
-| 6053 | insurance agent | /ɪnˈʃʊrəns 'eɪdʒənt/ | /ɪnˈʃʊərəns 'eɪdʒənt/ | n |
-| 6052 | pilot | /ˈpaɪlət/ | /ˈpaɪlət/ | n |
-| 6051 | psychoanalyst | /ˌsaɪkoʊˈænəlɪst/ | /ˌsaɪkəʊˈænəlɪst/ | n |
-| 6050 | athlete | /'æθliːt/ | /'æθliːt/ | n |
-| 6049 | fashion model | /ˈfæʃən ˈmɑdəl/ | /ˈfæʃən ˈmɒdl̩/ | n |
-| 6048 | cashier | /ˈkæʃɪər/ | /ˈkæʃɪə/ | n |
-| 6047 | judge | /dʒʌdʒ/ | /dʒʌdʒ/ | n |
-| 6046 | waiter/waitress on a ship | /ˈweɪtər/, /ˈweɪtrɪs/ | /ˈweɪtər/, /ˈweɪtrɪs/ | n |
-| 6045 | civil servant | /ˈsɪvəl ˈsɜrvənt/ | /ˈsɪvəl ˈsɜːvənt/ | n |
-| 6044 | employee | /ɪmˈplɔɪi/ | /ɪmˈplɔɪi/ | n |
-
+| 6043 | waiter, waitress | /ˈweɪtər/, /ˈweɪtrɪs/ | /ˈweɪtər/, /ˈweɪtrɪs/ | n |
+| 6042 | taxi driver | /ˈtæksi ˈdraɪvər/ | /ˈtæksi ˈdraɪvə/ | n |
+| 6041 | congresswoman, congressman | /ˈkɑːŋɡrɛswʊmən/, /ˈkɑːŋɡrɛsmən/ | /ˈkɒŋɡrɛswʊmən/, /ˈkɒŋɡrɛsmən/ | n |
+| 6040 | stewardess, steward | /'stuːərdɪs/, /'stjuːərd/ | /'stjuːədɪs/, /'stjuːəd/ | n |
+| 6039 | flight attendant | /flaɪt ə'tɛndənt/ | /flaɪt ə'tɛndənt/ | n |
+| 6038 | waitress | /'weɪtrɪs/ | /'weɪtrɪs/ | n |
+| 6037 | waiter | /'weɪtər/ | /'weɪtə/ | n |
+| 6036 | biologist | /baɪ'ɒlədʒɪst/ | /baɪ'ɒlədʒɪst/ | n |
+| 6035 | chemist | /'kɛmɪst/ | /'kɛmɪst/ | n |
+| 6034 | businessman, businesswoman | /ˈbɪznɪsˌmæn/, /ˈbɪznɪsˌwʊmən/ | /ˈbɪznɪsˌmæn/, /ˈbɪznɪsˌwʊmən/ | n |
+| 6033 | engineer | /ˌɛndʒɪˈnɪr/ | /ˌɛndʒɪˈnɪə/ | n |
+| 6032 | nurse | /nɜːrs/ | /nɜːs/ | n |
+| 6031 | waitress | /ˈweɪ.trɪs/ | /ˈweɪ.trɪs/ | n |
+| 6030 | waiter | /ˈweɪtər/ | /ˈweɪtə/ | n |
+| 6029 | cook | /kʊk/ | /kʊk/ | n |
+| 6028 | yoga instructor | /ˈjoʊ.ɡə ˌɪnˈstrʌktər/ | /ˈjəʊ.ɡə ˌɪnˈstrʌktə/ | n |
+| 6027 | hairdresser | /ˈhɛrˌdresər/ | /ˈhɛəˌdrɛsə/ | n |
+| 6026 | dentist | /ˈdɛntɪst/ | /ˈdɛntɪst/ | n |
+| 6025 | pianist | /piˈænɪst/ | /ˈpiːənɪst/ | n |
+| 6024 | computer engineer | /kəmˈpjuː.tər ˌɛndʒɪˈnɪər/ | /kəmˈpjuː.tə ˌɛndʒɪˈnɪə/ | n |
+| 6023 | florist | /ˈflɔrɪst/ | /ˈflɒrɪst/ | n |
+| 6022 | lawyer | /ˈlɔɪ.ər/ | /ˈlɔɪ.ə/ | n |
 
 | No. | Country | IPA (US) | IPA (UK) | TP | 
 |-----|---------|----------|----------|----|
@@ -114,4 +114,25 @@ Here is the filled markdown table with the missing values for the English words:
 | 6046 | waiter/waitress on a ship | /ˈweɪtər/, /ˈweɪtrɪs/ | /ˈweɪtər/, /ˈweɪtrɪs/ | n |
 | 6045 | civil servant | /ˈsɪvəl ˈsɜrvənt/ | /ˈsɪvəl ˈsɜːvənt/ | n |
 | 6044 | employee | /ɪmˈplɔɪi/ | /ɪmˈplɔɪi/ | n |
-
+| 6043 | waiter, waitress | /ˈweɪtər/, /ˈweɪtrɪs/ | /ˈweɪtər/, /ˈweɪtrɪs/ | n |
+| 6042 | taxi driver | /ˈtæksi ˈdraɪvər/ | /ˈtæksi ˈdraɪvə/ | n |
+| 6041 | congresswoman, congressman | /ˈkɑːŋɡrɛswʊmən/, /ˈkɑːŋɡrɛsmən/ | /ˈkɒŋɡrɛswʊmən/, /ˈkɒŋɡrɛsmən/ | n |
+| 6040 | stewardess, steward | /'stuːərdɪs/, /'stjuːərd/ | /'stjuːədɪs/, /'stjuːəd/ | n |
+| 6039 | flight attendant | /flaɪt ə'tɛndənt/ | /flaɪt ə'tɛndənt/ | n |
+| 6038 | waitress | /'weɪtrɪs/ | /'weɪtrɪs/ | n |
+| 6037 | waiter | /'weɪtər/ | /'weɪtə/ | n |
+| 6036 | biologist | /baɪ'ɒlədʒɪst/ | /baɪ'ɒlədʒɪst/ | n |
+| 6035 | chemist | /'kɛmɪst/ | /'kɛmɪst/ | n |
+| 6034 | businessman, businesswoman | /ˈbɪznɪsˌmæn/, /ˈbɪznɪsˌwʊmən/ | /ˈbɪznɪsˌmæn/, /ˈbɪznɪsˌwʊmən/ | n |
+| 6033 | engineer | /ˌɛndʒɪˈnɪr/ | /ˌɛndʒɪˈnɪə/ | n |
+| 6032 | nurse | /nɜːrs/ | /nɜːs/ | n |
+| 6031 | waitress | /ˈweɪ.trɪs/ | /ˈweɪ.trɪs/ | n |
+| 6030 | waiter | /ˈweɪtər/ | /ˈweɪtə/ | n |
+| 6029 | cook | /kʊk/ | /kʊk/ | n |
+| 6028 | yoga instructor | /ˈjoʊ.ɡə ˌɪnˈstrʌktər/ | /ˈjəʊ.ɡə ˌɪnˈstrʌktə/ | n |
+| 6027 | hairdresser | /ˈhɛrˌdresər/ | /ˈhɛəˌdrɛsə/ | n |
+| 6026 | dentist | /ˈdɛntɪst/ | /ˈdɛntɪst/ | n |
+| 6025 | pianist | /piˈænɪst/ | /ˈpiːənɪst/ | n |
+| 6024 | computer engineer | /kəmˈpjuː.tər ˌɛndʒɪˈnɪər/ | /kəmˈpjuː.tə ˌɛndʒɪˈnɪə/ | n |
+| 6023 | florist | /ˈflɔrɪst/ | /ˈflɒrɪst/ | n |
+| 6022 | lawyer | /ˈlɔɪ.ər/ | /ˈlɔɪ.ə/ | n |

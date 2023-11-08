@@ -1,24 +1,42 @@
-Here is the filled markdown table with the missing values for the English words:
 
-Here is the completed markdown table with the missing values for the English words:
 
 | No. | Word | IPA (US) | IPA (UK) | TP |
 | --- | ---- | -------- | -------- | -- |
-| 6815 | season | /ˈsiːzən/ | /ˈsiːzən/ | n |
-| 6816 | fall | /fɔːl/ | /fɔːl/ | n |
-| 6817 | summer | /ˈsʌmər/ | /ˈsʌmə/ | n |
-| 6818 | spring | /sprɪŋ/ | /sprɪŋ/ | n |
-| 6819 | winter | /ˈwɪntər/ | /ˈwɪntə/ | n |
-| 5999 | day | /deɪ/ | /deɪ/ | n |
-| 6812 | month | /mʌnθ/ | /mʌnθ/ | n |
-| 6813 | year | /jɪr/ | /jɪə/ | n |
-| 6814 | century | /ˈsɛnʧəri/ | /ˈsɛnʧʊri/ | n |
-| 6820 | millennium | /mɪˈlɛnɪəm/ | /mɪˈlɛnɪəm/ | n |
-| 6003 | airplane | /ˈɛrˌpleɪn/ | /ˈɛːpleɪn/ | n |
-| 6001 | taxi | /ˈtæksi/ | /ˈtæksi/ | n |
-| 6000 | bus | /bʌs/ | /bʌs/ | n |
-| 6089 | work schedule | /wɜːrk ˈʃɛdjuːl/ | /wɜːrk ˈʃɛdjuːl/ | n |
-| 6088 | coworker | /ˈkoʊˌwɜːrkər/ | /ˈkəʊˌwɜːkə/ | n |
+| 6087 | salary | /ˈsæləri/ | /ˈsæləri/ | n |
+| 6086 | client | /ˈklaɪənt/ | /ˈklʌɪənt/ | n |
+| 6085 | day off | /deɪ ɒf/ | /deɪ ɒf/ | n |
+| 6084 | career | /kəˈrɪər/ | /kəˈrɪə/ | n |
+| 6083 | meeting | /ˈmiːtɪŋ/ | /ˈmiːtɪŋ/ | n |
+| 6082 | boss | /bɔs/ | /bɒs/ | n |
+| 6081 | company | /ˈkʌmpəni/ | /ˈkʌmpəni/ | n |
+| 6080 | profession | /prəˈfɛʃən/ | /prəˈfɛʃən/ | n |
+| 6079 | job | /dʒɑb/ | /dʒɒb/ | n |
+| 6078 | work | /wɜːrk/ | /wɜːk/ | n |
+| 6077 | employee | /ɪmˈplɔɪi/ | /ɪmˈplɔɪi/ | n |
+| 6006 | parliament | /ˈpɑrləmənt/ | /ˈpɑːləmənt/ | n |
+| 6005 | restaurant | /ˈrɛstərɑnt/ | /ˈrɛstrɒnt/ | n |
+| 6002 | court | /kɔrt/ | /kɔːt/ | n |
+
+
+
+
+
+| No. | Word | IPA (US) | IPA (UK) | TP |
+| --- | ---- | -------- | -------- | -- |
+| 6087 | salary | /ˈsæləri/ | /ˈsæləri/ | n |
+| 6086 | client | /ˈklaɪənt/ | /ˈklʌɪənt/ | n |
+| 6085 | day off | /deɪ ɒf/ | /deɪ ɒf/ | n |
+| 6084 | career | /kəˈrɪər/ | /kəˈrɪə/ | n |
+| 6083 | meeting | /ˈmiːtɪŋ/ | /ˈmiːtɪŋ/ | n |
+| 6082 | boss | /bɔs/ | /bɒs/ | n |
+| 6081 | company | /ˈkʌmpəni/ | /ˈkʌmpəni/ | n |
+| 6080 | profession | /prəˈfɛʃən/ | /prəˈfɛʃən/ | n |
+| 6079 | job | /dʒɑb/ | /dʒɒb/ | n |
+| 6078 | work | /wɜːrk/ | /wɜːk/ | n |
+| 6077 | employee | /ɪmˈplɔɪi/ | /ɪmˈplɔɪi/ | n |
+| 6006 | parliament | /ˈpɑrləmənt/ | /ˈpɑːləmənt/ | n |
+| 6005 | restaurant | /ˈrɛstərɑnt/ | /ˈrɛstrɒnt/ | n |
+| 6002 | court | /kɔrt/ | /kɔːt/ | n |
 
 | No. | Country | IPA (US) | IPA (UK) | TP | 
 |-----|---------|----------|----------|----|
@@ -205,3 +223,45 @@ Here is the completed markdown table with the missing values for the English wor
 | 6000 | bus | /bʌs/ | /bʌs/ | n |
 | 6089 | work schedule | /wɜːrk ˈʃɛdjuːl/ | /wɜːrk ˈʃɛdjuːl/ | n |
 | 6088 | coworker | /ˈkoʊˌwɜːrkər/ | /ˈkəʊˌwɜːkə/ | n |
+
+
+
+Here is the completed markdown table with the missing values for the English words:
+
+| No. | Word | IPA (US) | IPA (UK) | TP |
+| --- | ---- | -------- | -------- | -- |
+| 6087 | salary | /ˈsæləri/ | /ˈsæləri/ | n |
+| 6086 | client | /ˈklaɪənt/ | /ˈklʌɪənt/ | n |
+| 6085 | day off | /deɪ ɒf/ | /deɪ ɒf/ | n |
+| 6084 | career | /kəˈrɪər/ | /kəˈrɪə/ | n |
+| 6083 | meeting | /ˈmiːtɪŋ/ | /ˈmiːtɪŋ/ | n |
+| 6082 | boss | /bɔs/ | /bɒs/ | n |
+| 6081 | company | /ˈkʌmpəni/ | /ˈkʌmpəni/ | n |
+| 6080 | profession | /prəˈfɛʃən/ | /prəˈfɛʃən/ | n |
+| 6079 | job | /dʒɑb/ | /dʒɒb/ | n |
+| 6078 | work | /wɜːrk/ | /wɜːk/ | n |
+| 6077 | employee | /ɪmˈplɔɪi/ | /ɪmˈplɔɪi/ | n |
+| 6006 | parliament | /ˈpɑrləmənt/ | /ˈpɑːləmənt/ | n |
+| 6005 | restaurant | /ˈrɛstərɑnt/ | /ˈrɛstrɒnt/ | n |
+| 6002 | court | /kɔrt/ | /kɔːt/ | n |
+
+
+
+Here is the completed markdown table with the missing values for the English words:
+
+| No. | Word | IPA (US) | IPA (UK) | TP |
+| --- | ---- | -------- | -------- | -- |
+| 6087 | salary | /ˈsæləri/ | /ˈsæləri/ | n |
+| 6086 | client | /ˈklaɪənt/ | /ˈklʌɪənt/ | n |
+| 6085 | day off | /deɪ ɒf/ | /deɪ ɒf/ | n |
+| 6084 | career | /kəˈrɪər/ | /kəˈrɪə/ | n |
+| 6083 | meeting | /ˈmiːtɪŋ/ | /ˈmiːtɪŋ/ | n |
+| 6082 | boss | /bɔs/ | /bɒs/ | n |
+| 6081 | company | /ˈkʌmpəni/ | /ˈkʌmpəni/ | n |
+| 6080 | profession | /prəˈfɛʃən/ | /prəˈfɛʃən/ | n |
+| 6079 | job | /dʒɑb/ | /dʒɒb/ | n |
+| 6078 | work | /wɜːrk/ | /wɜːk/ | n |
+| 6077 | employee | /ɪmˈplɔɪi/ | /ɪmˈplɔɪi/ | n |
+| 6006 | parliament | /ˈpɑrləmənt/ | /ˈpɑːləmənt/ | n |
+| 6005 | restaurant | /ˈrɛstərɑnt/ | /ˈrɛstrɒnt/ | n |
+| 6002 | court | /kɔrt/ | /kɔːt/ | n |

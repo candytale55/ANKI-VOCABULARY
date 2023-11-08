@@ -2,28 +2,32 @@ Here is the filled markdown table with the missing values for the English words:
 
 | No. | Word | IPA (US) | IPA (UK) | TP |
 | --- | ---- | -------- | -------- | -- |
-| 6021 | secretary | /'sɛkrəˌtɛri/ | /'sɛkrətri/ | n |
-| 6020 | employee | /ɪm'plɔɪ.iː/ | /ɪm'plɔɪ.iː/ | n |
-| 6019 | reporter | /ɹɪ'pɔɹtɚ/ | /ɹɪ'pɔːtə/ | n |
-| 6018 | manager | /'mænɪdʒɚ/ | /'mænɪdʒə/ | n |
-| 6017 | insurance agent | /ɪn'ʃʊɹəns 'eɪdʒənt/ | /ɪn'ʃʊərəns 'eɪdʒənt/ | n |
-| 6016 | merchant | /'mɝtʃənt/ | /'mɜːtʃənt/ | n |
-| 6015 | accountant | /ə'kaʊntənt/ | /ə'kaʊntənt/ | n |
-| 6014 | gardener | /'ɡɑɹdənɚ/ | /'ɡɑːdnər/ | n |
-| 6768 | translator | /trænsˈleɪtər/ | /trænsˈleɪtər/ | n |
-| 6769 | pharmacist | /ˈfɑːrməsɪst/ | /ˈfɑːrməsɪst/ | n |
-| 6770 | jurist | /ˈdʒʊərɪst/ | /ˈdʒʊərɪst/ | n |
-| 6108 | notebook | /'noʊtˌbʊk/ | /'nəʊtˌbʊk/ | n |
-| 6105 | bag | /bæɡ/ | /bæɡ/ | n |
-| 6104 | pencil case | /'pɛnsəl keɪs/ | /ˈpɛnsəl keɪs/ | n |
-| 6103 | cell phone | /sɛl ˌfoʊn/ | /sɛl ˌfəʊn/ | n |
-| 6101 | laptop | /'læpˌtɒp/ | /'læpˌtɒp/ | n |
-| 6100 | computer | /kəm'pjuːtər/ | /kəm'pjuːtə/ | n |
-| 6099 | cellphone | /'sɛl.fəʊn/ | /'sɛl.fəʊn/ | n |
-| 6098 | books | /bʊks/ | /bʊks/ | np |
-| 6097 | eraser | /ɪˈreɪsər/ | /ɪˈreɪsər/ | n |
-| 6092 | pen | /pɛn/ | /pɛn/ | n |
-| 6091 | pens | /pɛnz/ | /pɛnz/ | np |
+| 6090 | pencil | /ˈpɛnsəl/ | /ˈpɛnsəl/ | n |
+| 6784 | dictionary | /ˈdɪkʃəˌnɛri/ | /ˈdɪkʃənəri/ | n |
+| 6107 | street lamp | /strit læmp/ | /striːt læmp/ | n |
+| 6775 | engineering | /ˌɛndʒɪˈnɪrɪŋ/ | /ˌɛndʒɪˈnɪərɪŋ/ | n |
+| 6793 | Tuesday | /ˈtuːzdeɪ/ | /ˈtjuːzdeɪ/ | n |
+| 6794 | Thursday | /ˈθɜrsdeɪ/ | /ˈθɜːzdeɪ/ | n |
+| 6795 | Friday | /ˈfraɪdeɪ/ | /ˈfraɪdeɪ/ | n |
+| 6796 | Wednesday | /ˈwɛnzdeɪ/ | /ˈwɛnzdeɪ/ | n |
+| 6797 | Monday | /ˈmʌndeɪ/ | /ˈmʌndeɪ/ | n |
+| 6798 | Sunday | /ˈsʌndeɪ/ | /ˈsʌndeɪ/ | n |
+| 6799 | Saturday | /ˈsætərdeɪ/ | /ˈsætədeɪ/ | n |
+| 6821 | minute | /ˈmɪnət/ | /ˈmɪnɪt/ | n |
+| 6822 | hour | /ˈaʊər/ | /ˈaʊə/ | n |
+| 6823 | second | /ˈsɛkənd/ | /ˈsɛkənd/ | n |
+| 6800 | January | /ˈdʒænjuˌɛri/ | /ˈdʒænjʊəri/ | n |
+| 6801 | July | /dʒuˈlaɪ/ | /dʒʊlaɪ/ | n |
+| 6802 | February | /ˈfɛbruˌɛri/ | /ˈfɛbjʊəri/ | n |
+| 6803 | March | /mɑːrtʃ/ | /mɑːtʃ/ | n |
+| 6804 | April | /ˈeɪprəl/ | /ˈeɪprəl/ | n |
+| 6805 | August | /ɑːˈɡʌst/ | /ɔːˈɡʌst/ | n |
+| 6806 | May | /meɪ/ | /meɪ/ | n |
+| 6807 | June | /dʒuːn/ | /dʒuːn/ | n |
+| 6808 | September | /sɛpˈtɛmbər/ | /sɛpˈtɛmbə/ | n |
+| 6809 | October | /ɑkˈtoʊbər/ | /ɒkˈtəʊbə/ | n |
+| 6810 | November | /noʊˈvɛmbər/ | /nəʊˈvɛmbə/ | n |
+| 6811 | December | /dɪˈsɛmbər/ | /dɪˈsɛmbə/ | n |
 
 | No. | Country | IPA (US) | IPA (UK) | TP | 
 |-----|---------|----------|----------|----|
@@ -158,3 +162,35 @@ Here is the filled markdown table with the missing values for the English words:
 | 6097 | eraser | /ɪˈreɪsər/ | /ɪˈreɪsər/ | n |
 | 6092 | pen | /pɛn/ | /pɛn/ | n |
 | 6091 | pens | /pɛnz/ | /pɛnz/ | np |
+
+
+Here is the filled markdown table with the missing values for the English words:
+
+| No. | Word | IPA (US) | IPA (UK) | TP |
+| --- | ---- | -------- | -------- | -- |
+| 6090 | pencil | /ˈpɛnsəl/ | /ˈpɛnsəl/ | n |
+| 6784 | dictionary | /ˈdɪkʃəˌnɛri/ | /ˈdɪkʃənəri/ | n |
+| 6107 | street lamp | /strit læmp/ | /striːt læmp/ | n |
+| 6775 | engineering | /ˌɛndʒɪˈnɪrɪŋ/ | /ˌɛndʒɪˈnɪərɪŋ/ | n |
+| 6793 | Tuesday | /ˈtuːzdeɪ/ | /ˈtjuːzdeɪ/ | n |
+| 6794 | Thursday | /ˈθɜrsdeɪ/ | /ˈθɜːzdeɪ/ | n |
+| 6795 | Friday | /ˈfraɪdeɪ/ | /ˈfraɪdeɪ/ | n |
+| 6796 | Wednesday | /ˈwɛnzdeɪ/ | /ˈwɛnzdeɪ/ | n |
+| 6797 | Monday | /ˈmʌndeɪ/ | /ˈmʌndeɪ/ | n |
+| 6798 | Sunday | /ˈsʌndeɪ/ | /ˈsʌndeɪ/ | n |
+| 6799 | Saturday | /ˈsætərdeɪ/ | /ˈsætədeɪ/ | n |
+| 6821 | minute | /ˈmɪnət/ | /ˈmɪnɪt/ | n |
+| 6822 | hour | /ˈaʊər/ | /ˈaʊə/ | n |
+| 6823 | second | /ˈsɛkənd/ | /ˈsɛkənd/ | n |
+| 6800 | January | /ˈdʒænjuˌɛri/ | /ˈdʒænjʊəri/ | n |
+| 6801 | July | /dʒuˈlaɪ/ | /dʒʊlaɪ/ | n |
+| 6802 | February | /ˈfɛbruˌɛri/ | /ˈfɛbjʊəri/ | n |
+| 6803 | March | /mɑːrtʃ/ | /mɑːtʃ/ | n |
+| 6804 | April | /ˈeɪprəl/ | /ˈeɪprəl/ | n |
+| 6805 | August | /ɑːˈɡʌst/ | /ɔːˈɡʌst/ | n |
+| 6806 | May | /meɪ/ | /meɪ/ | n |
+| 6807 | June | /dʒuːn/ | /dʒuːn/ | n |
+| 6808 | September | /sɛpˈtɛmbər/ | /sɛpˈtɛmbə/ | n |
+| 6809 | October | /ɑkˈtoʊbər/ | /ɒkˈtəʊbə/ | n |
+| 6810 | November | /noʊˈvɛmbər/ | /nəʊˈvɛmbə/ | n |
+| 6811 | December | /dɪˈsɛmbər/ | /dɪˈsɛmbə/ | n |

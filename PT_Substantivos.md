@@ -1,3 +1,34 @@
+
+
+
+
+Here is the completed table based on the provided information:
+
+| No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
+| --- | --------- | -------- | -------- | -------- | -- | -- | -- |
+| 6799 | sábado | **o** sábado | /ˈsɐbɐdu/ | /ˈsabadu/ | sm | Saturday | sábado |
+| 6798 | domingo | **o** domingo | /doˈmĩgu/ | /doˈmiŋu/ | sm | Sunday | domingo |
+| 6797 | segunda-feira | **a** segunda-feira | /seˌgũdɐ ˈfeɪ.ɾɐ/ | /seˈgũdɐ ˈfej.ɾɐ/ | sf | Monday | lunes |
+| 6796 | quarta-feira | **a** quarta-feira | /kwɐɾˌtɐ ˈfeɪ.ɾɐ/ | /kwɐɾˈtɐ ˈfej.ɾɐ/ | sf | Wednesday | miércoles |
+| 6795 | sexta-feira | **a** sexta-feira | /ˌseʃtɐ ˈfeɪ.ɾɐ/ | /ˌseʃtɐ ˈfej.ɾɐ/ | sf | Friday | viernes |
+| 6794 | quinta-feira | **a** quinta-feira | /ˌkĩtɐ ˈfeɪ.ɾɐ/ | /ˌkĩtɐ ˈfej.ɾɐ/ | sf | Thursday | jueves |
+| 6793 | terça-feira | **a** terça-feira | /ˌteɾ.sɐ ˈfeɪ.ɾɐ/ | /ˌteɾ.sɐ ˈfej.ɾɐ/ | sf | Tuesday | martes |
+| 6823 | segundo | **o** segundo | /seˈɡũdu/ | /seˈɡũdu/ | sm | second | segundo |
+| 6822 | hora | **a** hora | /ˈoɾɐ/ | /ˈoɾɐ/ | sf | hour | hora |
+| 6821 | minuto | **o** minuto | /miˈnutu/ | /miˈnutu/ | sm | minute | minuto |
+| 6811 | dezembro | **o** dezembro | /deˈzẽbɾu/ | /deˈzẽbɾu/ | sm | December | diciembre |
+| 6810 | novembro | **o** novembro | /noˈvẽbɾu/ | /noˈvẽbɾu/ | sm | November | noviembre |
+| 6809 | outubro | **o** outubro | /owˈtubɾu/ | /oˈtubɾu/ | sm | October | octubre |
+| 6808 | setembro | **o** setembro | /seˈtẽbɾu/ | /seˈtẽbɾu/ | sm | September | septiembre |
+| 6807 | junho | **o** junho | /ˈʒuɲu/ | /ˈʒũɲu/ | sm | June | junio |
+| 6806 | maio | **o** maio | /ˈmaju/ | /ˈmaju/ | sm | May | mayo |
+| 805 | agosto | **o** agosto | /ɐˈɡoʃtu/ | /aˈɡostu/ | sm | August | agosto |
+| 6804 | abril | **o** abril | /ɐˈbɾiɫ/ | /aˈbɾiw/ | sm | April | abril |
+| 6803 | março | **o** março | /ˈmaɾsu/ | /ˈmaʁsu/ | sm | March | marzo |
+| 6802 | fevereiro | **o** fevereiro | /feveˈɾejɾu/ | /feveˈɾejɾu/ | sm | February | febrero |
+| 6801 | julho | **o** julho | /ˈʒuʎu/ | /ˈʒuˈ
+
+
 Certainly! Here is the completed table based on the provided information:
 
 | No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |

@@ -1,6 +1,20 @@
 
 
+Sure, here is the completed table based on the provided information:
 
+| No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
+| --- | --------- | -------- | -------- | -------- | -- | -- | -- |
+| 6024 | engenheiro informático, engenheira informática | **o** engenheiro informático, **a** engenheira informática | /ẽ.ʒeˈɲej.ɾu ĩ.fɔɾ.mɐˈtiku/, /ẽ.ʒẽˈɲej.ɾɐ ĩ.fɔɾ.mɐˈtikɐ/ | /ẽ.ʒẽˈɲej.ɾu ĩ.fɔɾˈmatʃiku/,/ẽ.ʒẽˈɲej.ɾɐ ĩ.fɔɾˈmatʃikɐ/ | sm, sf | IT engineer | ingeniero/a informático/a |
+| 6023 | florista | **a** florista | /flo.ˈɾiʃ.tɐ/ | /flo.ˈɾiʃ.tɐ/ | sm/f | florist | florista |
+| 6022 | advogado, advogada | **o** advogado, **a** advogada | /ɐd.voˈɡa.du/, /ɐd.voˈɡa.dɐ/ | /ɐd.voˈɡa.du/, /ɐd.voˈɡa.dɐ/ | sm, sf | lawyer | abogado/a |
+| 6021 | secretária, secretário | **a** secretária, **o** secretário | /sɨkɾi.tɐ'ɾiɐ/, /sɨkɾi'taɾju/ | /se.kɾe'ta.ɾi.ɐ/, /se.kɾe'ta.ɾi.u/ | sf, sm | secretary | secretaria/o |
+| 6020 | funcionario, funcionaria | **o** funcionario, **a** funcionaria | /funsiu'naɾiu/, /funsiu'nɐɾjɐ/ | /fũ.si.o.na'ɾi.u/, /fũ.si.o.na'ɾi.ɐ/ | sm, sf | employee | empleado/a |
+| 6019 | réporter | **o** réporter | /ʁe'poɾtɨɾ/ | /'ʁɛ.poʁ.teʁ/ | sm | reporter | reportero/a |
+| 6018 | gestor, gestora | **o** gestor, **a** gestora | /ʒɨʃ'toɾ/, /ʒɨʃ'toɾɐ/ | /ʒɛs'toɾ/, /ʒɛs'toɾɐ/ | sm, sf | manager | gestor/a |
+| 6017 | agente de seguros | **o** agente de seguros | /ɐ'ʒẽtɨ dɨ sɨ'ɡuɾuʃ/ | /a'ʒẽtʃi dʒi se'ɡuɾus/ | sm | insurance agent | agente de seguros |
+| 6016 | comerciante | **o** comerciante | /kumɨɾsi'ɐ̃tɨ/ | /komeɾsi'ɐ̃tʃi/ | sm | merchant | comerciante |
+| 6015 | contabilista | **o** contabilista | /kõtɐbi'liʃtɐ/ | /kõtabi'liʃta/ | sm | accountant | contador/a |
+| 6014 | jardineiro, jardineira | **o** jardineiro, **a** jardineira | /ʒɐɾdinej'ɾu/, /ʒɐɾdinej'ɾɐ/ | /ʒaʁ.dʒi'nej.ɾu/, /ʒaʁ.dʒi'nej.ɾɐ/ | sm, sf | gardener | jardinero/a |
 
 
 

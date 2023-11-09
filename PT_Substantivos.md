@@ -1,4 +1,6 @@
 
+
+
 Sure, here is the completed markdown table based on the provided information:
 
 | No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
@@ -15,7 +17,7 @@ Sure, here is the completed markdown table based on the provided information:
 | 6006 | parlamento | **o** parlamento | /paɾ.lɐ'mẽ.tu/ | /paʁ.la'mẽ.tu/ | sm | parliament | parlamento |
 | 6005 | restaurante | **o** restaurante | /ʁɨs.tau'ɾɐ̃tɨ/ | /ʁe.stau'ɾɐ̃tʃi/ | sm | restaurant | restaurante |
 | 6002 | tribunal | **o** tribunal | /tɾi.bu'naɫ/ | /tɾi.bu'naw/ | sm | court | tribunal |
-| 5999 | dia | **o** dia | /'di.ɐ/ or /'dƷia/ | /'di.ɐ/ or /'dʒia/ | sm | day | día |
+| 5999 | dia | **o** dia | /'di.ɐ/ | /'dʒia/ | sm | day | día |
 
 
 Certainly, here is the completed markdown table with the given information:
@@ -65,7 +67,8 @@ Here is the completed table based on the provided information:
 | 6804 | abril | **o** abril | /ɐˈbɾiɫ/ | /aˈbɾiw/ | sm | April | abril |
 | 6803 | março | **o** março | /ˈmaɾsu/ | /ˈmaʁsu/ | sm | March | marzo |
 | 6802 | fevereiro | **o** fevereiro | /feveˈɾejɾu/ | /feveˈɾejɾu/ | sm | February | febrero |
-| 6801 | julho | **o** julho | /ˈʒuʎu/ | /ˈʒuˈ
+| 6801 | julho | **o** julho | /ˈʒuʎu/ | /ˈʒuˈʎu/ | sm | July | julio |
+| 6800 | janeiro | **o** janeiro | /ʒɐˈnejɾu/ | /ʒɐˈnejɾu/ | sm | January | enero |
 
 
 Certainly! Here is the completed table based on the provided information:
@@ -266,8 +269,8 @@ Here is the completed markdown table with the provided Portuguese words:
 | 6075 | sobrinho, sobrinha | **o** sobrinho, **a** sobrinha | /su'bɾiɲu/, /su'bɾiɲɐ/ | /so'bɾiɲu/, /so'bɾiɲɐ/ | sm, sf | nephew, niece | sobrino, sobrina |
 | 6074 | mulher | **a** mulher | /mu'ʎeɾ/ | /mu'ʎeɾ/ | sf | woman | mujer |
 | 6073 | marido | **o** marido | /mɐ'ɾidu/ | /ma'ɾidu/ | sm | husband | esposo |
-| 6072 | cunhada | **a** cunhada | /ku'ɲada/ | | sf | sister-in-law | cuñada |
-| 6071 | cunhado | **o** cunhado | /ku'njadu/ | | sm | brother-in-law | cuñado |
+| 6072 | cunhada | **a** cunhada | /ku'ɲada/ | /ku'ɲada/ | sf | sister-in-law | cuñada |
+| 6071 | cunhado | **o** cunhado | /ku'njadu/ | /ku'njadu/ | sm | brother-in-law | cuñado |
 
 I have completed the table with the provided information.
 

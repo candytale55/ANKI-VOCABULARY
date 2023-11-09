@@ -125,9 +125,7 @@ Sure, I have completed the table with the provided information.
 | 6033 | engenheiro, engenheira | **o** engenheiro, **a** engenheira | /ẽ.ʒeˈɲej.ɾu/, /ẽ.ʒẽˈɲej.ɾɐ/ | /ẽ.ʒeˈɲej.ɾu/ , /ẽ.ʒẽˈɲej.ɾɐ/ | sm, sf | engineer | ingeniero/a |
 | 6032 | enfermeiro, enfermeira | **o** enfermeiro, **a** enfermeira | /ẽ.ferˈmej.ɾu/, /ẽ.ferˈmej.ɾɐ/ | /ẽ.ferˈmej.ɾu/ , /ẽ.ferˈmej.ɾɐ/ | sm, sf | nurse | enfermero/a |
 | 6031 | empregada de mesa, garçonete | **a** empregada de mesa, **a/o** garçonete | /ẽ.pɾe.ˈɡa.dɐ dɨ ˈme.zɐ/,/gaɾ.soˈnɛ.tɨ/ | /ẽ.pɾe.ˈɡa.dɐ dɨ ˈme.zɐ/, /gaʁ.soˈnɛ.tʃi/ | sf | waitress | camarera |
-| 6030 | empregado de mesa, garçom | **o** empregado de mesa, **o** garçom | /ẽ.pɾe.ˈɡa.du dɨ ˈme.zɐ/,  /gaɾˈsõ/ | /ẽ.pɾe.ˈɡa.du dɨ ˈme.zɐ/, /gaʁˈs
-
-õ/ | sm | waiter | camarero |
+| 6030 | empregado de mesa, garçom | **o** empregado de mesa, **o** garçom | /ẽ.pɾe.ˈɡa.du dɨ ˈme.zɐ/,  /gaɾˈsõ/ | /ẽ.pɾe.ˈɡa.du dɨ ˈme.zɐ/, /gaʁˈsõ/ | sm | waiter | camarero |
 | 6029 | cozinheiro, cozinheira | **o** cozinheiro, **a** cozinheira | /ko.zi.ˈɲej.ɾu/ , /ko.zi.ˈɲej.ɾɐ/ | /ko.zi.ˈɲej.ɾu/, /ko.zi.ˈɲej.ɾɐ/ | sm, sf | chef | cocinero/a |
 | 6028 | instrutora de ioga, instrutor de ioga | **a** instrutora de ioga, **o** instrutor de ioga | | /ĩʃ.tɾu.ˈto.ɾɐ dɨ iˈo.ɡɐ/,  /ĩʃ.tɾu.ˈtoɾ dɨ iˈo.ɡɐ/ | sf, sm | yoga instructor | instructor/a de yoga |
 | 6027 | cabeleireira, cabeleireiro | **a** cabeleireira, **o** cabeleireiro | /ka.bɨ.lej.ˈɾej.ɾɐ/, /ka.bɨ.lej.ˈɾej.ɾu/ | /ka.be.lej.ˈɾej.ɾɐ/, /ka.be.lej.ˈɾej.ɾu/ | sf, sm | hairdresser | peluquero/a |

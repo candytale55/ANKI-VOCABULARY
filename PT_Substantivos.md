@@ -1,3 +1,24 @@
+Certainly! Here is the completed table based on the provided information:
+
+| No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
+| --- | --------- | -------- | -------- | -------- | -- | -- | -- |
+| 6784 | dicionário | **o** dicionário | /di.si.o.'na.ɾiu/ | /di.si.o.'na.ɾiu/ | sm | dictionary | diccionario |
+| 6108 | caderno | **o** caderno | /kɐ'dɛɾnu/ | /kɐ'dɛɾnu/ | sm | notebook | cuaderno |
+| 6105 | mala | **a** mala | /'malɐ/ | /'malɐ/ | sf | suitcase | maleta |
+| 6104 | estojo | **o** estojo | /ɨʃ'tɔʒu/ | /ɨʃ'tɔʒu/ | sm | case | estuche |
+| 6103 | celular | **o** celular | /sɛ.lu'laɾ/ | /sɛ.lu'laɾ/ | sm | cell phone | teléfono móvil |
+| 6101 | laptop | **o** laptop | /'læptɔp/ | /'læptɔp/ | sm | laptop | computadora portátil |
+| 6100 | computador | **o** computador | /kõpu.ta'doɾ/ | /kompu.ta'doɾ/ | sm | computer | computadora |
+| 6099 | telemóvel | **o** telemóvel | /tɛ.lɛ'mɔvɛl/ | /tɛ.lɛ'mɔvɛl/ | sm | mobile phone | teléfono móvil |
+| 6098 | livros | **os** livros | /'livɾus/ | /'livɾus/ | smp | books | libros |
+| 6097 | borracha | **a** borracha | /bo'ʁaʃɐ/ | /bo'ʁaʃɐ/ | sf | eraser | goma de borrar |
+| 6092 | caneta | **a** caneta | /kɐ'netɐ/ | /kɐ'netɐ/ | sf | pen | pluma |
+| 6091 | canetas | **as** canetas | /kɐ'nɛtɐʃ/ | /kɐ'nɛtɐʃ/ | sfp | pens | plumas |
+| 6090 | lápis | **o** lápis | /'lapis/ | /'lapis/ | sm | pencil | lápiz |
+| 6107 | candeeiro | **o** candeeiro | /kɐ̃dɨ'ɾɐjɾu/ | /kɐ̃dɨ'ɾajɾu/ | sm | street lamp | farola |
+| 6775 | engenharia | **a** engenharia | /ẽ.ʒẽ.'ɲa.ɾi.ɐ/ | /ẽ.ʒẽ.'ɲa.ɾi.ɐ/ | sf | engineering | ingeniería |
+
+
 
 
 Sure, here is the completed table based on the provided information:

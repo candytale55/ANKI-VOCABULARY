@@ -1,3 +1,23 @@
+
+Sure, here is the completed markdown table based on the provided information:
+
+| No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
+| --- | --------- | -------- | -------- | -------- | -- | -- | -- |
+| 6085 | folga | **a** folga | /ˈfoɫ.ɡɐ/ | /ˈfoɫ.ɡɐ/ | sf | day off | día libre |
+| 6084 | carreira | **a** carreira | /kaˈɾɛ.jɾɐ/ | /kaˈɾej.ɾɐ/ | sf | career | carrera |
+| 6083 | reunião | **a** reunião | /re.uˈni.ɐ̃w̃/ | /ʁe.uˈni.ɐ̃w̃/ | sf | meeting | reunión |
+| 6082 | chefe | **o/a** chefe, **a** chefa | /ˈʃɛ.fɨ/ | /ˈʃɛ.fɪ/ | sm/f | boss | jefe/a |
+| 6081 | empresa | **a** empresa | /ẽˈpɾe.zɐ/ | /ẽˈpɾe.zɐ/ | sf | company | empresa |
+| 6080 | profissão | **a** profissão | /pɾuˈfi.sɐ̃w̃/ | /pɾuˈfi.sɐ̃w̃/ | sf | profession | profesión |
+| 6079 | emprego | **o** emprego | /emˈpɾeɡu/ | /ẽˈpɾeɡu/ | sm | job | empleo |
+| 6078 | trabalho | **o** trabalho | /traˈbaʎu/ | /traˈbaʎu/ | sm | work | trabajo |
+| 6077 | empregado | **o** empregado, **a** empregada | /emˈpɾe.ɡa.du/, /emˈpɾe.ɡa.dɐ/ | /ẽˈpɾe.ɡa.du/, /ẽˈpɾe.ɡa.dɐ/ | sm, sf | employee | empleado/a |
+| 6006 | parlamento | **o** parlamento | /paɾ.lɐ'mẽ.tu/ | /paʁ.la'mẽ.tu/ | sm | parliament | parlamento |
+| 6005 | restaurante | **o** restaurante | /ʁɨs.tau'ɾɐ̃tɨ/ | /ʁe.stau'ɾɐ̃tʃi/ | sm | restaurant | restaurante |
+| 6002 | tribunal | **o** tribunal | /tɾi.bu'naɫ/ | /tɾi.bu'naw/ | sm | court | tribunal |
+| 5999 | dia | **o** dia | /'di.ɐ/ or /'dƷia/ | /'di.ɐ/ or /'dʒia/ | sm | day | día |
+
+
 Certainly, here is the completed markdown table with the given information:
 
 | No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |

@@ -1,3 +1,34 @@
+
+
+Here is the completed markdown table with the provided Portuguese words:
+
+| No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
+| --- | --------- | -------- | -------- | -------- | -- | -- | -- |
+| 6096 | cadeira | **a** cadeira | /kɐ'dɐjɾɐ/ | /kɐ'dejɾɐ/ | sf | chair | silla |
+| 6095 | mesa | **a** mesa | /'mɛzɐ/ | /'mɛzɐ/ | sf | table | mesa |
+| 6094 | porta | **a** porta | /'pɔɾtɐ/ | /'poɾtɐ/ | sf | door | puerta |
+| 6093 | janela | **a** janela | /ʒɐ'nɛlɐ/ | /ʒɐ'nelɐ/ | sf | window | ventana |
+| 6011 | televisão | **a** televisão | /tɨ.lɨ.vi.zɐ̃w̃/ | /te.li.vi'zãw̃/ | sf | television | televisión |
+| 6004 | jardim | **o** jardim | /ʒɐɾ'dĩ/ | /ʒaʁ'dʒĩ/ | sm | garden | jardín |
+| 6010 | pesoas | **as** pesoas | /pu'zow̃ʃ/ | /pe'so.as/ | sfp | people | personas |
+| 6779 | descrição | **a** descrição | /dɨʃ.kɾi.'sɐ̃w/ | /de.ski.'sɐ̃w/ | sf | description | descripción |
+| 6778 | personalidade | **a** personalidade | /pɨɾ.su.na.li.'da.dɨ/ | /peɾ.so.na.li.'daj.dʒi/ | sf | personality | personalidad |
+| 6776 | jogador, jogadora | **o** jogador, **a** jogadora | /ʒu.ɡa.'doɾ/, /ʒu.ɡa.'doɾɐ/ | /ʒo.ɡa.'doχ/, /ʒo.ɡa.'doɾɐ/ | sm | player | jugador/a |
+| 6773 | centro | **o** centro | /'sẽ.tɾu/ | /'sẽ.tɾu/ | sm | center | centro |
+| 6786 | flores | **as** flores | /'flo.ɾɨʃ/ | /'flo.ɾis/ | sfp | flowers | flores |
+| 6770 | jurista | **o/a** jurista | /ʒu.'ɾiʃ.tɐ/ | /ʒu.'ɾiʃ.tɐ/ | - | legal professional | jurista |
+| 6769 | farmacêutico, farmacêutica | **o** farmacêutico, **a** farmacêutica | /faɾ.mɐ.sɛu.'ti.ku/, /faɾ.mɐ.sɛu.'ti.kɐ/ | /faʁ.ma.sew.'ti.ku/, /faʁ.ma.sew.'ti.kɐ/ | sm | pharmacist | farmacéutico/a |
+
+I have completed the table with the provided information.
+
+
+
+
+
+
+
+
+
 Here is the completed markdown table with the provided Portuguese words:
 
 | No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |

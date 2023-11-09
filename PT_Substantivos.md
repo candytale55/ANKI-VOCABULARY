@@ -1,3 +1,31 @@
+Below is the completed markdown table with the provided Portuguese words:
+
+| No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
+| --- | --------- | -------- | -------- | -------- | -- | -- | -- |
+| 6129 | pálpebras | **as** pálpebras | /'palpebɾɐʃ/ | /'pawpebɾɐʃ/ | sfp | eyelids | párpados |
+| 6128 | cotovelo | **o** cotovelo | /kotu'velu/ | /kotu'veluʃ/ | sm | elbow | codo |
+| 6127 | braço | **o** braço | /'bɾasu/ | /'bɾasu/ | sm | arm | brazo |
+| 6126 | dedo | **o** dedo | /'dedu/ | /'dedu/ | sm | finger | dedo |
+| 6125 | perna | **a** perna | /'peɾnɐ/ | /'peɾnɐ/ | sf | leg | pierna |
+| 6124 | dente | **o** dente | /'dẽtɨ/ | /'dẽtʃi/ | sm | tooth | diente |
+| 6123 | sobrancelha | **a** sobrancelha | /suβɾɐ'seʎɐ/ | /sobɾɐ'seʎɐ/ | sf | eyebrow | ceja |
+| 6122 | tornozelo | **o** tornozelo | /tuɾnu'zɛlu/ | /toʁnu'zɛlu/ | sm | ankle | tobillo |
+| 6121 | nádegas | **as** nádegas | /'nadɨgɐʃ/ | /'nadɨɡɐʃ/ | sfp | buttocks | nalgas |
+| 6120 | quadris | **os** quadris | /'kwadɾiʃ/ | /'kwadɾiʃ/ | smp | hips | caderas |
+| 6119 | orelhas | **as** orelhas | /o'ɾeʎɐʃ/ | /o'ɾeʎɐʃ/ | sfp | ears | orejas |
+| 6118 | nariz | **o** nariz | /nɐ'ɾiʃ/ | /nɐ'ɾis/ | sm | nose | nariz |
+| 6117 | rosto | **o** rosto | /'ʁoʃtu/ | /'ʁostu/ | sm | face | cara |
+| 6116 | ombros | **os** ombros | /'õbɾuʃ/ | /'õbɾuʃ/ | smp | shoulders | hombros |
+| 6115 | pescoço | **o** pescoço | /'pɛʃkuʃ/ | /'pɛskuʃ/ | sm | neck | cuello |
+| 6114 | costas | **as** costas | /'koʃtɐʃ/ | /'koʃtɐʃ/ | sfp | back | espalda |
+| 6113 | braços | **os** braços | /'bɾasuʃ/ | /'bɾasuʃ/ | smp | arms | brazos |
+| 6112 | joelhos | **os** joelhos | /ʒu'ʒeʎuʃ/ | /ʒwe'ʎoʃ/ | smp | knees | rodillas |
+| 6111 | pernas | **as** pernas | /'peɾnɐʃ/ | /'peɾnɐʃ/ | sfp | legs | piernas |
+| 6110 | pés | **os** pés | /pez/ | /pez/ | smp | feet | pies |
+
+I have completed the table with the provided information.
+
+
 Here is the completed markdown table with the missing values for the Portuguese words:
 
 | No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |

@@ -1,5 +1,48 @@
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Here is the completed markdown table with the provided Portuguese words:
+
+| No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
+| --- | --------- | -------- | -------- | -------- | -- | -- | -- |
+| 6768 | tradutor | **o** tradutor, **a** tradutora | /tɾɐ.du.'toɾ/ | /tɾɐ.du.'toʁ/ | sm | translator | traductor/a |
+| 6054 | banqueiro, banqueira | **o** banqueiro, **a** banqueira | /bɐ̃'kɐjɾu/, /bɐ̃'kɐjɾɐ/ | /bɐ̃'kejɾu/, /bɐ̃'kejɾɐ/ | sm, sf | banker | banquero/a |
+| 6053 | agente de seguros | **o/a** agente de seguros | /a'ʒẽtɨ dɨ sɨ'ɡuɾuʃ/ | /a'ʒẽtʃi dʒi si'ɡuɾus/ | sm, sf | insurance agent | agente de seguros |
+| 6052 | piloto | **o/a** piloto | /pi'lotu/ | /pi'lotu/ | sm, sf | pilot | piloto/a |
+| 6051 | psicanalista | **o/a** psicanalista | /psikɐnɐ'liʃtɐ/ | /psika'nalistɐ/ | sm, sf | psychoanalyst | psicoanalista |
+| 6050 | desportista | **o/a** desportista | /dɨʃpuɾ'tiʃtɐ/ | /dɨspuʁ'tʃistɐ/ | sm, sf | athlete | deportista |
+| 6049 | manequim da alta costura | **a/o** manequim da alta costura | /mɐnɨ'kẽj̃ dɐ 'awtɐ kɔs'tuɾɐ/ | /mɐnɨ'kẽj̃ dɐ 'awtɐ kɔs'tuɾɐ/ | sf, sm | haute couture model | modelo de alta costura |
+| 6048 | caixa | **o** caixa | /'kajʃɐ/ | /'kajʃɐ/ | sm | cashier | cajero |
+| 6047 | juiz, juíza | **o** juiz, **a** juíza | /ʒu'iʒ/, /ʒu'izɐ/ | /ʒu'iz/, /ʒu'izɐ/ | sm, sf | judge | juez/a |
+| 6046 | paquete | **o/a** paquete | /pɐ'kɛtɨ/ | /pa'kɛtʃi/ | sm, sf | bellboy | botones |
+| 6045 | funcionário público, funcionária pública | **o** funcionário público, **a** funcionária pública | /fũsiʊ'nariu 'publiku/, /fũsiʊ'narjɐ 'publikɐ/ | /fũsiũ'naɾiu 'publiku/, /fũsiũ'naɾjɐ 'publikɐ/ | sm, sf | civil servant | funcionario/a público/a |
+| 6044 | funcionário, funcionária | **o** funcionário, **a** funcionária | /fũsiʊ'nariu/, /fũsiʊ'narjɐ/ | /fũsiũ'naɾiu/, /fũsiũ'naɾjɐ/ | sm, sf | employee | empleado/a |
+| 6043 | empregado de mesa, empregada de mesa | **o/a** empregado de mesa, **a/o** empregada de mesa | /ẽpɾɨ'ɡadu dɨ 'mɛzɐ/, /ẽpɾɨ'ɡadɐ dɨ 'mɛzɐ/ | /ẽpɾɨ'ɡadu dʒi 'meza/, /ẽpɾɨ'ɡadɐ dʒi 'meza/ | sm, sf | waiter, waitress | camarero/a |
+| 6042 | taxista | **a/o** taxista | /tɐ'ʃistɐ/ | /ta'ʃistɐ/ | sf, sm | taxi driver | taxista |
+| 6041 | deputada, deputado | **a** deputada, **o** deputado | /dɨpu'tadɐ/, /dɨpu'tadu/ | /depu'tadɐ/, /depu'tadu/ | sf, sm | parliament member | diputado/a |
+
+I have completed the table with the provided information.
+
 Here is the completed markdown table with the provided Portuguese words:
 
 | No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |

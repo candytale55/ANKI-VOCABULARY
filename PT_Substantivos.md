@@ -1,4 +1,26 @@
+Here is the completed markdown table with the provided Portuguese words:
 
+| No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
+| --- | --------- | -------- | -------- | -------- | -- | -- | -- |
+| 6056 | mãe | **a** mãe | /'mɐ̃j/ | /'mɐ̃j/ | sf | mother | madre |
+| 6055 | pai | **o** pai | /'pa.i/ | /'pa.i/ | sm | father | padre |
+| 6013 | amigos | **os** amigos | /ɐ'miɡuʃ/ | /ɐ'mi.ɡus/ | smp | friends | amigos |
+| 6008 | namorado, namorada | **o** namorado, **a** namorada | /nɐmuɾɐ'du/, /nɐmuɾɐ'dɐ/ | /nɐmuɾa'du/, /nɐmuɾa'dɐ/ | sm, sf | boyfriend, girlfriend | novio, novia |
+| 6790 | chocolates | **os** chocolates | /ʃɔ.ku.'la.tɨʃ/ | /ʃɔ.kɔ.'la.tʃis/ | smp | chocolates | chocolates |
+| 6782 | café | **o** café | /'ka.fɨ/ | /'ka.fi/ | sm | coffee | café |
+| 6772 | gabinete | **o** gabinete | /ɡɐ.bi.'nɛ.tɨ/ | /ɡa.bi.'nɛ.tʃi/ | sm | cabinet | gabinete |
+| 6787 | revistas | **as** revistas | /ʁɨ.'viʃ.tɐʃ/ | /ʁe.'vis.tɐʃ/ | sfp | magazines | revistas |
+| 6785 | bola | **a** bola | /'bo.lɐ/ | /'bo.lɐ/ | sf | ball | pelota |
+| 6777 | passatempo, passatempos | **o** passatempo, **os** passatempos | /pɐ.sɐ.'tẽ.pu/, /pɐ.sɐ.'tẽ.pus/ | /pas.sɐ.'tẽ.pu/, /pas.sa.'tẽ.pus/ | sm | pastime, hobbies | pasatiempo, pasatiempos |
+| 6012 | fotografia | **a** fotografia | /futuɡɾɐ'fi.ɐ/ | /fo.toɡɾa'fi.ɐ/ | sf | photography | fotografía |
+| 6009 | desporto | **o** desporto | /dɨ'spoɾtu/ | /des'poɾtu/ | sm | sport | deporte |
+| 6007 | piano | **o** piano | /pi'ɐ̃w̃u/ | /pi'ɐ̃w̃u/ | sm | piano | piano |
+| 6789 | chave | **a** chave | /'ʃa.vɨ/ | /'ʃa.vi/ | sf | key | llave |
+| 6788 | chaves | **as** chaves | /'ʃa.vɨʃ/ | /'ʃa.vis/ | sfp | keys | llaves |
+| 6106 | candeeiro | **o** candeeiro | /kɐ̃dɨ'ɾɐjɾu/ | /kɐ̃dɨ'ɾajɾu/ | sm | lamp | lámpara |
+| 6102 | telefone | **o** telefone | /tɛ.lɛ'fɔnɨ/ | /tɛ.le'fɔnɨ/ | sm | telephone | teléfono |
+
+I have completed the table with the provided information.
 
 
 Below is the completed markdown table with the provided Portuguese words:

@@ -1,3 +1,31 @@
+
+
+
+Below is the completed markdown table with the provided Portuguese words:
+
+| No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
+| --- | --------- | -------- | -------- | -------- | -- | -- | -- |
+| 6070 | sogra | **a** sogra | /'sɔɡɾɐ/ | /'sɔɡɾɐ/ | sf | mother-in-law | suegra |
+| 6069 | sogro | **o** sogro | /'sɔɡɾu/ | /'sɔɡɾu/ | sm | father-in-law | suegro |
+| 6068 | órfão, órfã | **o** órfão, **a** órfã | /'ɔɾfɐ̃w̃/, /'ɔɾfɐ̃/ | /'ɔɾfɐ̃w̃/, /'ɔɾfɐ̃/ | sm, sf | orphan | huérfano, huérfana |
+| 6067 | neto, neta, netos, netas | **a** neto, **a** neta, **os** netos, **as** netas | /'netɐ/, /'netɐs/ | /'netɐ/, /'netɐs/ | sf, sfp | grandson, granddaughter, grandchildren | nieto, nieta, nietos, nietas |
+| 6066 | neto, netos | **o** neto, **os** netos | /'netu/, /'netus/ | /'netu/, /'netus/ | sm, smp | grandson, grandsons | nieto, nietos |
+| 6065 | primo, prima | **o** primo, **a** prima | /'primu/ , /'primɐ/ | /'primu/ , /'primɐ/ | sm, sf | cousin (male), cousin (female) | primo, prima |
+| 6064 | tia | **a** tia | /'tiɐ/ | /'tiɐ/ | sf | aunt | tía |
+| 6063 | tio | **o** tio | /'tiu/ | /'tiu/ | sm | uncle | tío |
+| 6062 | avó | **a** avó | /ɐ'vɔ/ | /ɐ'vɔ/ | sf | grandmother | abuela |
+| 6061 | avô | **o** avô | /ɐ'vɔ/ | /ɐ'vɔ/ | sm | grandfather | abuelo |
+| 6060 | irmã | **a** irmã | /ir'mɐ̃/ | /ir'mɐ̃/ | sf | sister | hermana |
+| 6059 | irmão | **o** irmão | /ir'mɐ̃w̃/ | /ir'mɐ̃w̃/ | sm | brother | hermano |
+| 6058 | filha | **a** filha | /'fiʎɐ/ | /'fiʎɐ/ | sf | daughter | hija |
+| 6057 | filho | **o** filho | /'fiʎu/ | /'fiʎu/ | sm | son | hijo |
+
+I have completed the table with the provided information.
+
+
+
+
+
 Here is the completed markdown table with the provided Portuguese words:
 
 | No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |

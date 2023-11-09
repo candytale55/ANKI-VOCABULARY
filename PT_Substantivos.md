@@ -165,7 +165,9 @@ Here is the completed markdown table with the provided Portuguese words:
 | 6042 | taxista | **a/o** taxista | /tɐ'ʃistɐ/ | /ta'ʃistɐ/ | sf, sm | taxi driver | taxista |
 | 6041 | deputada, deputado | **a** deputada, **o** deputado | /dɨpu'tadɐ/, /dɨpu'tadu/ | /depu'tadɐ/, /depu'tadu/ | sf, sm | parliament member | diputado/a |
 
-I have completed the table with the provided information.
+
+
+
 
 Here is the completed markdown table with the provided Portuguese words:
 

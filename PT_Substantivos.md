@@ -1,4 +1,23 @@
+Certainly, here is the completed markdown table with the given information:
 
+| No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
+| --- | --------- | -------- | -------- | -------- | -- | -- | -- |
+| 6819 | inverno | **o** inverno | /ĩ.'veɾ.nu/ | /ĩ.'veɾ.nu/ | sm | winter | invierno |
+| 6818 | primavera | **a** primavera | /pɾi.mɐ.'ve.ɾɐ/ | /pɾi.mɐ.'ve.ɾɐ/ | sf | spring | primavera |
+| 6817 | verão | **o** verão | /vɨ.'ɾɐ̃w/ | /ve.'ɾɐ̃w/ | sm | summer | verano |
+| 6816 | outono | **o** outono | /ow.'to.nu/ | /o.'to.nu/ | sm | autumn | otoño |
+| 6815 | estação | **a** estação | /is.ta.'sɐ̃w/ | /is.ta.'sɐ̃w/ | sf | season | estación |
+| 6820 | milênio | **o** milênio | /miˈle.nju/ | /miˈle.nju/ | sm | millennium | milenio |
+| 6814 | século | **o** século | /ˈseku.lu/ | /ˈseku.lu/ | sm | century | siglo |
+| 6813 | ano | **o** ano | /ˈɐ.nu/ | /ˈɐ.nu/ | sm | year | año |
+| 6812 | mês | **o** mês | /meʃ/ | /mɛʃ/ | sm | month | mes |
+| 6003 | avião | **o** avião | /ɐ.vi'ɐ̃w̃/ | /a.vi'ɐ̃w̃/ | sm | airplane | avión |
+| 6001 | táxi | **o** táxi | /'taksi/ | /'taksi/ | sm | taxi | taxi |
+| 6000 | autocarro | **o** autocarro | /aw.to'kaʁu/ | /aw.to'kaʁu/ | sm | bus | autobús |
+| 6089 | horário de trabalho | **o** horário de trabalho | /oˈɾa.ɾju dɨ traˈbaʎu/ | /oˈɾa.ɾju dʒi traˈbaʎu/ | sm | work schedule | horario laboral |
+| 6088 | colega de trabalho | **o/a** colega de trabalho | /koˈle.ɡɐ dɨ traˈbaʎu/ | /koˈle.ɡɐ dʒi traˈbaʎu/ | sm/f | coworker | compañero de trabajo |
+| 6087 | salário | **o** salário | /saˈla.ɾju/ | /saˈla.ɾju/ | sm | salary | salario |
+| 6086 | cliente | **o/a** cliente | /kliˈẽ.tɨ/ | /kliˈẽ.tʃi/ | sm/f | client | cliente |
 
 
 

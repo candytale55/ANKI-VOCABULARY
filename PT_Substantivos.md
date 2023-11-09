@@ -1,3 +1,32 @@
+Here is the completed markdown table with the provided Portuguese words:
+
+| No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
+| --- | --------- | -------- | -------- | -------- | -- | -- | -- |
+| 6109 | cérebro | **o** cérebro | /se'bɾu/ | /se'bɾu/ | sm | brain | cerebro |
+| 6147 | dedo do pé | **o** dedo do pé | /'de.du du 'pe/ | /'de.du du 'pe/ | sm | toe | dedo del pie |
+| 6148 | língua | **a** língua | /'lĩ.ɡwɐ/ | /'lĩ.ɡwa/ | sf | tongue | lengua |
+| 6774 | biblioteca | **a** biblioteca | /bi.bli.o.'tɛ.kɐ/ | /bi.bli.o.'tɛ.kɐ/ | sf | library | biblioteca |
+| 6783 | óculos | **os** óculos | /'ɔ.ku.luʃ/ | /'ɔ.ku.luʃ/ | smp | glasses | gafas |
+| 6771 | bolso | **o** bolso | /'bɔl.su/ | /'bɔwsu/ | sm | pocket | bolsillo |
+| 6792 | avôs | **os** avôs | /ɐ.'vɔʃ/ | /ɐ.'vɔs/ | smp | grandparents (grandfathers) | abuelos (abuelos) |
+| 6791 | avós | **os/as** avós | /ɐ.'vɔʃ/ | /ɐ.'vɔs/ | smp | grandparents (grandmothers) | abuelos (abuelas) |
+| 6781 | irmãs | **as** irmãs | /ɨɾ.'mɐ̃ʃ/ | /iʁ.'mɐ̃ʃ/ | sfp | sisters | hermanas |
+| 6780 | irmãos | **os** irmãos | /ɨɾ.'mɐ̃w̃ʃ/ | /iʁ.'mɐ̃w̃ʃ/ | smp | brothers | hermanos |
+| 6076 | família | **a** família | /fɐ'miljɐ/ | /fɐ'miljɐ/ | sf | family | familia |
+| 6075 | sobrinho, sobrinha | **o** sobrinho, **a** sobrinha | /su'bɾiɲu/, /su'bɾiɲɐ/ | /so'bɾiɲu/, /so'bɾiɲɐ/ | sm, sf | nephew, niece | sobrino, sobrina |
+| 6074 | mulher | **a** mulher | /mu'ʎeɾ/ | /mu'ʎeɾ/ | sf | woman | mujer |
+| 6073 | marido | **o** marido | /mɐ'ɾidu/ | /ma'ɾidu/ | sm | husband | esposo |
+| 6072 | cunhada | **a** cunhada | /ku'ɲada/ | | sf | sister-in-law | cuñada |
+| 6071 | cunhado | **o** cunhado | /ku'njadu/ | | sm | brother-in-law | cuñado |
+
+I have completed the table with the provided information.
+
+
+
+
+
+
+
 Below is the completed markdown table with the provided Portuguese words:
 
 | No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |

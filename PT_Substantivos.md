@@ -6,7 +6,28 @@
 
 
 
+Sure, I have completed the table with the provided information.
 
+| No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
+| --- | --------- | -------- | -------- | -------- | -- | -- | -- |
+| 6040 | hospedeira, hospedeiro | **a** hospedeira, **o** hospedeiro | /uʃpɨ'dejɾɐ/, /uʃpɨ'dejɾu/ | /ɔs.pɨ'dej.ɾɐ/, /ɔs.pɨ'dej.ɾu/ | sf, sm | hostess | anfitriona, anfitrión |
+| 6039 | aeromoça, aeromoço | **a** aeromoça, **o** aeromoço | /e̞.ɾu'mɔ.mɔ.sɐ/, /e̞.ɾu'mɔ.mɔ.su/ | /a.e̞.ɾu'mɔ.mɔ.sɐ/, /a.e̞.ɾu'mɔ.mɔ.su/ | sf, sm | flight attendant | auxiliar de vuelo |
+| 6038 | garçonete | **a** garçonete | /ɡɐɾsɔ'netɨ/ | /ɡaɾsɔ'netʃi/ | sf | waitress | camarera |
+| 6037 | garçom | **o** garçom | /gɐɾ'sõ/ | /ɡaɾ'sõ/ | sm | waiter | camarero |
+| 6036 | biologista | **o/a** biologista | /biuluʒ'ɨʃtɐ/ | /biolodʒiʃ'tɐ/ | sm, sf | biologist | biólogo/a |
+| 6035 | químico, química | **o** químico, **a** química | /'kimi.ku/, /'kimi.kɐ/ | /'kimi.ku/, /'kimi.kɐ/ | sm, sf | chemist | químico/a |
+| 6034 | empresário, empresária | **o** empresário, **a** empresária | /ẽ.pre.zɐ.ˈɾju/, /ẽ.pre.zɐ.ˈɾi.ɐ/ | /ẽ.pre.zɐ.ˈɾju/, /ẽ.pre.zɐ.ˈɾi.ɐ/ | sm/f | entrepreneur | empresario/a |
+| 6033 | engenheiro, engenheira | **o** engenheiro, **a** engenheira | /ẽ.ʒeˈɲej.ɾu/, /ẽ.ʒẽˈɲej.ɾɐ/ | /ẽ.ʒeˈɲej.ɾu/ , /ẽ.ʒẽˈɲej.ɾɐ/ | sm, sf | engineer | ingeniero/a |
+| 6032 | enfermeiro, enfermeira | **o** enfermeiro, **a** enfermeira | /ẽ.ferˈmej.ɾu/, /ẽ.ferˈmej.ɾɐ/ | /ẽ.ferˈmej.ɾu/ , /ẽ.ferˈmej.ɾɐ/ | sm, sf | nurse | enfermero/a |
+| 6031 | empregada de mesa, garçonete | **a** empregada de mesa, **a/o** garçonete | /ẽ.pɾe.ˈɡa.dɐ dɨ ˈme.zɐ/,/gaɾ.soˈnɛ.tɨ/ | /ẽ.pɾe.ˈɡa.dɐ dɨ ˈme.zɐ/, /gaʁ.soˈnɛ.tʃi/ | sf | waitress | camarera |
+| 6030 | empregado de mesa, garçom | **o** empregado de mesa, **o** garçom | /ẽ.pɾe.ˈɡa.du dɨ ˈme.zɐ/,  /gaɾˈsõ/ | /ẽ.pɾe.ˈɡa.du dɨ ˈme.zɐ/, /gaʁˈs
+
+õ/ | sm | waiter | camarero |
+| 6029 | cozinheiro, cozinheira | **o** cozinheiro, **a** cozinheira | /ko.zi.ˈɲej.ɾu/ , /ko.zi.ˈɲej.ɾɐ/ | /ko.zi.ˈɲej.ɾu/, /ko.zi.ˈɲej.ɾɐ/ | sm, sf | chef | cocinero/a |
+| 6028 | instrutora de ioga, instrutor de ioga | **a** instrutora de ioga, **o** instrutor de ioga | | /ĩʃ.tɾu.ˈto.ɾɐ dɨ iˈo.ɡɐ/,  /ĩʃ.tɾu.ˈtoɾ dɨ iˈo.ɡɐ/ | sf, sm | yoga instructor | instructor/a de yoga |
+| 6027 | cabeleireira, cabeleireiro | **a** cabeleireira, **o** cabeleireiro | /ka.bɨ.lej.ˈɾej.ɾɐ/, /ka.bɨ.lej.ˈɾej.ɾu/ | /ka.be.lej.ˈɾej.ɾɐ/, /ka.be.lej.ˈɾej.ɾu/ | sf, sm | hairdresser | peluquero/a |
+| 6026 | dentista | **o/a** dentista | /dẽˈtis.tɐ/ | /dẽˈtis.tɐ/ | sm/f | dentist | dentista |
+| 6025 | pianista | **o/a** pianista | /pi.ɐ.ˈniʃ.tɐ/ | /pi.ɐ.ˈniʃ.tɐ/ | sm/f | pianist | pianista |
 
 
 

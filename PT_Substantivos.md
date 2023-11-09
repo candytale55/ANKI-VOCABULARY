@@ -1,4 +1,27 @@
-Here is the markdown table with the missing values filled in for Portuguese and Spanish:
+Here is the completed markdown table with the missing values for the Portuguese words:
+
+| No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
+| --- | --------- | -------- | -------- | -------- | -- | -- | -- |
+| 6146 | lágrima | **a** lágrima | /'laɡɾimɐ/ | /'laɡɾimɐ/ | sf | tear | lágrima |
+| 6145 | suor | **o** suor | /su'ɔɾ/ | /su'ɔɾ/ | sm | sweat | sudor |
+| 6144 | unha | **a** unha | /'uɲɐ/ | /'uɲɐ/ | sf | nail | uña |
+| 6143 | lábios | **os** lábios | /'la.bjus/ | /'la.bjos/ | smp | lips | labios |
+| 6142 | lábio | **o** lábio | /'la.bi.u/ | /'la.bi.u/ | sm | lip | labio |
+| 6141 | cabeça | **a** cabeça | /kɐ'bɛsɐ/ | /kɐ'bɛsɐ/ | sf | head | cabeza |
+| 6140 | cabelo | **o** cabelo | /kɐ'be.lu/ | /kɐ'be.lu/ | sm | hair | pelo |
+| 6139 | queixo | **o** queixo | /'kejʃu/ | /'kejʃu/ | sm | chin | barbilla |
+| 6138 | osso | **o** osso | /'osu/ | /'osu/ | sm | bone | hueso |
+| 6137 | corpo | **o** corpo | /'koɾpu/ | /'koɾpo/ | sm | body | cuerpo |
+| 6136 | sangue | **o** sangue | /'sɐ̃ɡɨ/ | /'sɐ̃ɡi/ | sm | blood | sangre |
+| 6135 | barba | **a** barba | /'baɾbɐ/ | /'baɾba/ | sf | beard | barba |
+| 6134 | dentes | **os** dentes | /ˈdẽ.tɨʃ/ | /ˈdẽ.tiʃ/ | smp | teeth | dientes |
+| 6133 | quadril | **o** quadril | /kwɐˈdɾiɫ/ | /kwɐˈdɾiɫ/ | sm | hip | cadera |
+| 6132 | orelha | **a** orelha | /o.ˈɾe.ʎɐ/ | /oˈɾe.ʎɐ/ | sf | ear | oreja |
+| 6131 | olhos | **os** olhos | /'oʎuʃ/ | /'oʎuʃ/ | smp | eyes | ojos |
+| 6130 | testa | **a** testa | /'tɛʃtɐ/ | /'tɛʃtɐ/ | sf | forehead | frente |
+
+
+ssssssssssssssssssss
 
 | No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES | 
 |-----|-----------|----------|----------|----------|----|----|----|

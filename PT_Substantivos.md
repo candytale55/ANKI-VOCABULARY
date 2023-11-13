@@ -1,5 +1,32 @@
 
+
 # SUBSTANTIVOS
+
+
+Here is the completed table with the missing values:
+
+| No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
+|-----|-----------|----------|----------|----------|----|----|----|
+| 8710 | contrato | **o** contrato | /kõ.ˈtɾa.tu/ | /kõ.ˈtɾa.tu/ | sm | contract | contrato |
+| 8711 | negócio | **o** negócio | /neˈɡɔ.sju/ | /neˈɡɔ.sju/ | sm | business | negocio |
+| 8712 | lar | **o** lar | /laɾ/ | /laɾ/ | sm | home, place of residence | hogar, residencia |
+| 8713 | lareira | **a** lareira | /la.ˈɾɐj.ɾɐ/ | /la.ˈɾej.ɾɐ/ | sf | home, hearth | hogar, chimenea |
+| 8714 | cozinha | **a** cozinha | /ko.ˈzi.ɲɐ/ | /ko.ˈzi.ɲɐ/ | sf | kitchen | cocina |
+| 8715 | residência | **a** residência | /ʁɨ.zi.ˈdẽ.si.ɐ/ | /he.si.ˈðẽ.si.ɐ/ | sf | home | residencia |
+| 8716 | cerca | **a** cerca | /ˈsɛɾ.kɐ/ | /ˈsɛɾ.kɐ/ | sf | fence | cerca |
+| 8717 | casa de banho (PT) | **a** casa de banho | /ˈka.zɐ dɨ ˈbɐ.ɲu/ | /ˈkazɐ dʒi ˈbɐɲu/ | sf, sm | bathroom | baño |
+| 8718 | banheiro (BR) | **o** banheiro | /bɐ.ɲe.ˈjɾu/ | /bɐ.ɲe.ˈjɾu/ | sf, sm | bathroom | baño |
+| 8719 | sala de estar | **a** sala de estar | /ˈsa.lɐ dɨ is.ˈtaɾ/ | /ˈsa.lɐ dʒi is.ˈtaɾ/ | sf, sm | living room | sala de estar |
+| 8720 | toilet, lavatory, restroom | **o** toilet, lavatory, restroom | /tu.ˈa.lɛt/ | /tu.ˈa.lɛt/ | sm | toilet, lavatory, restroom | retrete, lavabo, baño |
+| 8721 | quarto | **o** quarto | /ˈkwaɾ.tu/ | /ˈkwaɾ.tu/ | sm | bedroom | habitación |
+| 8722 | quarto (for animals) | **o** quarto | /ˈkwaɾ.tu/ | /ˈkwaɾ.tu/ | sm | room | habitación |
+| 1000 | morada | **a** morada | /muˈɾa.ðɐ/ | /muˈɾa.ðɐ/ | sf | address | dirección |
+| 1000 | endereço | **o** endereço | /ẽ.ˈde.ɾe.su/ | /ẽ.ˈde.ɾe.su/ | sm | address | dirección |
+| 8723 | quarto | **o** quarto | /ˈkwaɾ.tu/ | /ˈkwaɾ.tu/ | sm | room | habitación |
+
+Let me know if you need anything else.
+
+
 
 | No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
 |-----|-----------|----------|----------|----------|----|----|----|

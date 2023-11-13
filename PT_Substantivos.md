@@ -1,6 +1,18 @@
 
 # SUBSTANTIVOS
 
+
+
+| No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
+|-----|-----------|----------|----------|----------|----|----|----|
+| 8663 | passeio | **o** passeio | /pɐˈsɛ.ʊ/ | /paˈse.ju/ | sm | walk, ride | paseo |
+| 8664 | férias | **as** férias | /ˈfe.ɾi.ɐʃ/ | /ˈfe.ɾi.ɐʃ/ | sfp | vacation | vacaciones |
+| 8665 | turma | **a** turma | /ˈtuɾ.mɐ/ | /ˈtuʁ.mɐ/ | sf | class, group | clase, grupo |
+| 8666 | escola | **a** escola | /isˈko.ɫɐ/ | /isˈko.ɫɐ/ | sf | school | escuela |
+| 8667 | aluno, aluna | **o** aluno, **a** aluna | /ɐˈlu.nu/, /aˈlu.nɐ/ | /aˈlu.nu/, /aˈlu.nɐ/ | sm, sf | student | alumno, alumna |
+| 8668 | professor, professora | **o** professor, **a** professora | /pɾu.fɨs.ˈɔɾ/, /pɾu.fɨs.ˈɔ.ɾɐ/ | /pɾu.fɛs.ˈɔʁ/, /pɾu.fɛs.ˈɔ.ɾɐ/ | sm, sf | teacher | profesor, profesora |
+
+
 | No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
 |-----|-----------|----------|----------|----------|----|----|----|
 | 8652 | vivenda | **a** vivenda | /vi.ˈvẽ.dɐ/ | /vi.ˈvẽ.dɐ/ | sf | dwelling | vivienda |

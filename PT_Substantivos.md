@@ -1,6 +1,27 @@
 
 # SUBSTANTIVOS
 
+| No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
+|-----|-----------|----------|----------|----------|----|----|----|
+| 8740 | cabeça | **a** cabeça | /kaˈbe.sɐ/ | | sf | head | cabeza |
+| 8741 | face | **a** face | /ˈfa.sɨ/ | | sf | face | cara |
+| 8742 | boca | **a** boca | /ˈbo.kɐ/ | /ˈbo.kɐ/ | sf | mouth | boca |
+| 8743 | bochecha | **a** bochecha | /boˈʃɛ.ʃɐ/ | /boˈʃɛ.ʃɐ/ | sf | cheek | mejilla |
+| 8744 | bochechas | **as** bochechas | /boˈʃɛ.ʃɐʃ/ | /boˈʃɛ.ʃɐs/ | sfp | cheeks | mejillas |
+| 8745 | olho | **o** olho | /ˈoʎu/ | /ˈoʎu/ | sm | eye | ojo |
+| 8746 | cílios, cílio | **os** cílios, **o** cílio | /ˈsi.ʎus/ , /ˈsi.ʎuʃ/ | /ˈsi.ʎus/ , /ˈsi.ʎuʃ/ | smp, sm | eyelashes | pestañas |
+| 8747 | maçã do rosto | **a** maçã do rosto | /ˈma.sɐ du ˈɾɔs.tu/ | /ˈmasɐ du ˈɾɔstu/ | sf | cheekbone | pómulo |
+| 8748 | queixo | **o** queixo | /ˈkei.ʃu/ | /ˈkei.ʃu/ | sm | chin | barbilla |
+| 8749 | dedo | **o** dedo | | | sm | finger | dedo |
+| 8750 | lago | **o** lago | /ˈlɐɡu/ | | sm | lake | lago |
+| 8751 | oceano | **o** oceano | /oˈseɐ̃w/ | | sm | ocean | océano |
+| 8752 | rio | **o** rio | /'ʁi.u/ | | sm | river | río |
+| 8753 | | | | | | sea | mar |
+
+
+
+
+
 
 | No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
 |-----|-----------|----------|----------|----------|----|----|----|

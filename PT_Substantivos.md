@@ -1,7 +1,9 @@
 
 
 
-Sure, here is the completed markdown table based on the provided information:
+# SUBSTANTIVOS
+
+## WORK
 
 | No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
 | --- | --------- | -------- | -------- | -------- | -- | -- | -- |
@@ -17,13 +19,51 @@ Sure, here is the completed markdown table based on the provided information:
 | 6006 | parlamento | **o** parlamento | /paɾ.lɐ'mẽ.tu/ | /paʁ.la'mẽ.tu/ | sm | parliament | parlamento |
 | 6005 | restaurante | **o** restaurante | /ʁɨs.tau'ɾɐ̃tɨ/ | /ʁe.stau'ɾɐ̃tʃi/ | sm | restaurant | restaurante |
 | 6002 | tribunal | **o** tribunal | /tɾi.bu'naɫ/ | /tɾi.bu'naw/ | sm | court | tribunal |
-| 5999 | dia | **o** dia | /'di.ɐ/ | /'dʒia/ | sm | day | día |
+| 6089 | horário de trabalho | **o** horário de trabalho | /oˈɾa.ɾju dɨ traˈbaʎu/ | /oˈɾa.ɾju dʒi traˈbaʎu/ | sm | work schedule | horario laboral |
+| 6088 | colega de trabalho | **o/a** colega de trabalho | /koˈle.ɡɐ dɨ traˈbaʎu/ | /koˈle.ɡɐ dʒi traˈbaʎu/ | sm/f | coworker | compañero de trabajo |
+| 6087 | salário | **o** salário | /saˈla.ɾju/ | /saˈla.ɾju/ | sm | salary | salario |
+| 6086 | cliente | **o/a** cliente | /kliˈẽ.tɨ/ | /kliˈẽ.tʃi/ | sm/f | client | cliente |
 
-
-Certainly, here is the completed markdown table with the given information:
+### PROFESSIONS
 
 | No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
 | --- | --------- | -------- | -------- | -------- | -- | -- | -- |
+| 6024 | engenheiro informático, engenheira informática | **o** engenheiro informático, **a** engenheira informática | /ẽ.ʒeˈɲej.ɾu ĩ.fɔɾ.mɐˈtiku/, /ẽ.ʒẽˈɲej.ɾɐ ĩ.fɔɾ.mɐˈtikɐ/ | /ẽ.ʒẽˈɲej.ɾu ĩ.fɔɾˈmatʃiku/,/ẽ.ʒẽˈɲej.ɾɐ ĩ.fɔɾˈmatʃikɐ/ | sm, sf | IT engineer | ingeniero/a informático/a |
+| 6023 | florista | **a** florista | /flo.ˈɾiʃ.tɐ/ | /flo.ˈɾiʃ.tɐ/ | sm/f | florist | florista |
+| 6022 | advogado, advogada | **o** advogado, **a** advogada | /ɐd.voˈɡa.du/, /ɐd.voˈɡa.dɐ/ | /ɐd.voˈɡa.du/, /ɐd.voˈɡa.dɐ/ | sm, sf | lawyer | abogado/a |
+| 6021 | secretária, secretário | **a** secretária, **o** secretário | /sɨkɾi.tɐ'ɾiɐ/, /sɨkɾi'taɾju/ | /se.kɾe'ta.ɾi.ɐ/, /se.kɾe'ta.ɾi.u/ | sf, sm | secretary | secretaria/o |
+| 6020 | funcionario, funcionaria | **o** funcionario, **a** funcionaria | /funsiu'naɾiu/, /funsiu'nɐɾjɐ/ | /fũ.si.o.na'ɾi.u/, /fũ.si.o.na'ɾi.ɐ/ | sm, sf | employee | empleado/a |
+| 6019 | réporter | **o** réporter | /ʁe'poɾtɨɾ/ | /'ʁɛ.poʁ.teʁ/ | sm | reporter | reportero/a |
+| 6018 | gestor, gestora | **o** gestor, **a** gestora | /ʒɨʃ'toɾ/, /ʒɨʃ'toɾɐ/ | /ʒɛs'toɾ/, /ʒɛs'toɾɐ/ | sm, sf | manager | gestor/a |
+| 6017 | agente de seguros | **o** agente de seguros | /ɐ'ʒẽtɨ dɨ sɨ'ɡuɾuʃ/ | /a'ʒẽtʃi dʒi se'ɡuɾus/ | sm | insurance agent | agente de seguros |
+| 6016 | comerciante | **o** comerciante | /kumɨɾsi'ɐ̃tɨ/ | /komeɾsi'ɐ̃tʃi/ | sm | merchant | comerciante |
+| 6015 | contabilista | **o** contabilista | /kõtɐbi'liʃtɐ/ | /kõtabi'liʃta/ | sm | accountant | contador/a |
+| 6014 | jardineiro, jardineira | **o** jardineiro, **a** jardineira | /ʒɐɾdinej'ɾu/, /ʒɐɾdinej'ɾɐ/ | /ʒaʁ.dʒi'nej.ɾu/, /ʒaʁ.dʒi'nej.ɾɐ/ | sm, sf | gardener | jardinero/a |
+| 6040 | hospedeira, hospedeiro | **a** hospedeira, **o** hospedeiro | /uʃpɨ'dejɾɐ/, /uʃpɨ'dejɾu/ | /ɔs.pɨ'dej.ɾɐ/, /ɔs.pɨ'dej.ɾu/ | sf, sm | hostess | anfitriona, anfitrión |
+| 6039 | aeromoça, aeromoço | **a** aeromoça, **o** aeromoço | /e̞.ɾu'mɔ.mɔ.sɐ/, /e̞.ɾu'mɔ.mɔ.su/ | /a.e̞.ɾu'mɔ.mɔ.sɐ/, /a.e̞.ɾu'mɔ.mɔ.su/ | sf, sm | flight attendant | auxiliar de vuelo |
+| 6038 | garçonete | **a** garçonete | /ɡɐɾsɔ'netɨ/ | /ɡaɾsɔ'netʃi/ | sf | waitress | camarera |
+| 6037 | garçom | **o** garçom | /gɐɾ'sõ/ | /ɡaɾ'sõ/ | sm | waiter | camarero |
+| 6036 | biologista | **o/a** biologista | /biuluʒ'ɨʃtɐ/ | /biolodʒiʃ'tɐ/ | sm, sf | biologist | biólogo/a |
+| 6035 | químico, química | **o** químico, **a** química | /'kimi.ku/, /'kimi.kɐ/ | /'kimi.ku/, /'kimi.kɐ/ | sm, sf | chemist | químico/a |
+| 6034 | empresário, empresária | **o** empresário, **a** empresária | /ẽ.pre.zɐ.ˈɾju/, /ẽ.pre.zɐ.ˈɾi.ɐ/ | /ẽ.pre.zɐ.ˈɾju/, /ẽ.pre.zɐ.ˈɾi.ɐ/ | sm/f | entrepreneur | empresario/a |
+| 6033 | engenheiro, engenheira | **o** engenheiro, **a** engenheira | /ẽ.ʒeˈɲej.ɾu/, /ẽ.ʒẽˈɲej.ɾɐ/ | /ẽ.ʒeˈɲej.ɾu/ , /ẽ.ʒẽˈɲej.ɾɐ/ | sm, sf | engineer | ingeniero/a |
+| 6032 | enfermeiro, enfermeira | **o** enfermeiro, **a** enfermeira | /ẽ.ferˈmej.ɾu/, /ẽ.ferˈmej.ɾɐ/ | /ẽ.ferˈmej.ɾu/ , /ẽ.ferˈmej.ɾɐ/ | sm, sf | nurse | enfermero/a |
+| 6031 | empregada de mesa, garçonete | **a** empregada de mesa, **a/o** garçonete | /ẽ.pɾe.ˈɡa.dɐ dɨ ˈme.zɐ/,/gaɾ.soˈnɛ.tɨ/ | /ẽ.pɾe.ˈɡa.dɐ dɨ ˈme.zɐ/, /gaʁ.soˈnɛ.tʃi/ | sf | waitress | camarera |
+| 6030 | empregado de mesa, garçom | **o** empregado de mesa, **o** garçom | /ẽ.pɾe.ˈɡa.du dɨ ˈme.zɐ/,  /gaɾˈsõ/ | /ẽ.pɾe.ˈɡa.du dɨ ˈme.zɐ/, /gaʁˈsõ/ | sm | waiter | camarero |
+| 6029 | cozinheiro, cozinheira | **o** cozinheiro, **a** cozinheira | /ko.zi.ˈɲej.ɾu/ , /ko.zi.ˈɲej.ɾɐ/ | /ko.zi.ˈɲej.ɾu/, /ko.zi.ˈɲej.ɾɐ/ | sm, sf | chef | cocinero/a |
+| 6028 | instrutora de ioga, instrutor de ioga | **a** instrutora de ioga, **o** instrutor de ioga | | /ĩʃ.tɾu.ˈto.ɾɐ dɨ iˈo.ɡɐ/,  /ĩʃ.tɾu.ˈtoɾ dɨ iˈo.ɡɐ/ | sf, sm | yoga instructor | instructor/a de yoga |
+| 6027 | cabeleireira, cabeleireiro | **a** cabeleireira, **o** cabeleireiro | /ka.bɨ.lej.ˈɾej.ɾɐ/, /ka.bɨ.lej.ˈɾej.ɾu/ | /ka.be.lej.ˈɾej.ɾɐ/, /ka.be.lej.ˈɾej.ɾu/ | sf, sm | hairdresser | peluquero/a |
+| 6026 | dentista | **o/a** dentista | /dẽˈtis.tɐ/ | /dẽˈtis.tɐ/ | sm/f | dentist | dentista |
+| 6025 | pianista | **o/a** pianista | /pi.ɐ.ˈniʃ.tɐ/ | /pi.ɐ.ˈniʃ.tɐ/ | sm/f | pianist | pianista |
+
+
+
+
+## TIME AND DATE
+
+| No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
+| --- | --------- | -------- | -------- | -------- | -- | -- | -- |
+|      | dia | **o** dia | /'di.ɐ/ | /'dʒia/ | sm | day | día |
 | 6819 | inverno | **o** inverno | /ĩ.'veɾ.nu/ | /ĩ.'veɾ.nu/ | sm | winter | invierno |
 | 6818 | primavera | **a** primavera | /pɾi.mɐ.'ve.ɾɐ/ | /pɾi.mɐ.'ve.ɾɐ/ | sf | spring | primavera |
 | 6817 | verão | **o** verão | /vɨ.'ɾɐ̃w/ | /ve.'ɾɐ̃w/ | sm | summer | verano |
@@ -33,17 +73,9 @@ Certainly, here is the completed markdown table with the given information:
 | 6814 | século | **o** século | /ˈseku.lu/ | /ˈseku.lu/ | sm | century | siglo |
 | 6813 | ano | **o** ano | /ˈɐ.nu/ | /ˈɐ.nu/ | sm | year | año |
 | 6812 | mês | **o** mês | /meʃ/ | /mɛʃ/ | sm | month | mes |
-| 6003 | avião | **o** avião | /ɐ.vi'ɐ̃w̃/ | /a.vi'ɐ̃w̃/ | sm | airplane | avión |
-| 6001 | táxi | **o** táxi | /'taksi/ | /'taksi/ | sm | taxi | taxi |
-| 6000 | autocarro | **o** autocarro | /aw.to'kaʁu/ | /aw.to'kaʁu/ | sm | bus | autobús |
-| 6089 | horário de trabalho | **o** horário de trabalho | /oˈɾa.ɾju dɨ traˈbaʎu/ | /oˈɾa.ɾju dʒi traˈbaʎu/ | sm | work schedule | horario laboral |
-| 6088 | colega de trabalho | **o/a** colega de trabalho | /koˈle.ɡɐ dɨ traˈbaʎu/ | /koˈle.ɡɐ dʒi traˈbaʎu/ | sm/f | coworker | compañero de trabajo |
-| 6087 | salário | **o** salário | /saˈla.ɾju/ | /saˈla.ɾju/ | sm | salary | salario |
-| 6086 | cliente | **o/a** cliente | /kliˈẽ.tɨ/ | /kliˈẽ.tʃi/ | sm/f | client | cliente |
-
-
-
-Here is the completed table based on the provided information:
+| 6823 | segundo | **o** segundo | /seˈɡũdu/ | /seˈɡũdu/ | sm | second | segundo |
+| 6822 | hora | **a** hora | /ˈoɾɐ/ | /ˈoɾɐ/ | sf | hour | hora |
+| 6821 | minuto | **o** minuto | /miˈnutu/ | /miˈnutu/ | sm | minute | minuto |
 
 | No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
 | --- | --------- | -------- | -------- | -------- | -- | -- | -- |
@@ -54,9 +86,10 @@ Here is the completed table based on the provided information:
 | 6795 | sexta-feira | **a** sexta-feira | /ˌseʃtɐ ˈfeɪ.ɾɐ/ | /ˌseʃtɐ ˈfej.ɾɐ/ | sf | Friday | viernes |
 | 6794 | quinta-feira | **a** quinta-feira | /ˌkĩtɐ ˈfeɪ.ɾɐ/ | /ˌkĩtɐ ˈfej.ɾɐ/ | sf | Thursday | jueves |
 | 6793 | terça-feira | **a** terça-feira | /ˌteɾ.sɐ ˈfeɪ.ɾɐ/ | /ˌteɾ.sɐ ˈfej.ɾɐ/ | sf | Tuesday | martes |
-| 6823 | segundo | **o** segundo | /seˈɡũdu/ | /seˈɡũdu/ | sm | second | segundo |
-| 6822 | hora | **a** hora | /ˈoɾɐ/ | /ˈoɾɐ/ | sf | hour | hora |
-| 6821 | minuto | **o** minuto | /miˈnutu/ | /miˈnutu/ | sm | minute | minuto |
+
+
+| No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
+| --- | --------- | -------- | -------- | -------- | -- | -- | -- |
 | 6811 | dezembro | **o** dezembro | /deˈzẽbɾu/ | /deˈzẽbɾu/ | sm | December | diciembre |
 | 6810 | novembro | **o** novembro | /noˈvẽbɾu/ | /noˈvẽbɾu/ | sm | November | noviembre |
 | 6809 | outubro | **o** outubro | /owˈtubɾu/ | /oˈtubɾu/ | sm | October | octubre |
@@ -71,7 +104,19 @@ Here is the completed table based on the provided information:
 | 6800 | janeiro | **o** janeiro | /ʒɐˈnejɾu/ | /ʒɐˈnejɾu/ | sm | January | enero |
 
 
-Certainly! Here is the completed table based on the provided information:
+
+## TRANSPORT AND TRAVEL
+
+| No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
+| --- | --------- | -------- | -------- | -------- | -- | -- | -- |
+| 6003 | avião | **o** avião | /ɐ.vi'ɐ̃w̃/ | /a.vi'ɐ̃w̃/ | sm | airplane | avión |
+| 6001 | táxi | **o** táxi | /'taksi/ | /'taksi/ | sm | taxi | taxi |
+| 6000 | autocarro | **o** autocarro | /aw.to'kaʁu/ | /aw.to'kaʁu/ | sm | bus | autobús |
+
+
+
+
+## SCHOOL
 
 | No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
 | --- | --------- | -------- | -------- | -------- | -- | -- | -- |
@@ -93,9 +138,6 @@ Certainly! Here is the completed table based on the provided information:
 
 
 
-
-Sure, here is the completed table based on the provided information:
-
 | No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
 | --- | --------- | -------- | -------- | -------- | -- | -- | -- |
 | 6024 | engenheiro informático, engenheira informática | **o** engenheiro informático, **a** engenheira informática | /ẽ.ʒeˈɲej.ɾu ĩ.fɔɾ.mɐˈtiku/, /ẽ.ʒẽˈɲej.ɾɐ ĩ.fɔɾ.mɐˈtikɐ/ | /ẽ.ʒẽˈɲej.ɾu ĩ.fɔɾˈmatʃiku/,/ẽ.ʒẽˈɲej.ɾɐ ĩ.fɔɾˈmatʃikɐ/ | sm, sf | IT engineer | ingeniero/a informático/a |
@@ -109,46 +151,8 @@ Sure, here is the completed table based on the provided information:
 | 6016 | comerciante | **o** comerciante | /kumɨɾsi'ɐ̃tɨ/ | /komeɾsi'ɐ̃tʃi/ | sm | merchant | comerciante |
 | 6015 | contabilista | **o** contabilista | /kõtɐbi'liʃtɐ/ | /kõtabi'liʃta/ | sm | accountant | contador/a |
 | 6014 | jardineiro, jardineira | **o** jardineiro, **a** jardineira | /ʒɐɾdinej'ɾu/, /ʒɐɾdinej'ɾɐ/ | /ʒaʁ.dʒi'nej.ɾu/, /ʒaʁ.dʒi'nej.ɾɐ/ | sm, sf | gardener | jardinero/a |
-
-
-
-
-
-Sure, I have completed the table with the provided information.
-
-| No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
-| --- | --------- | -------- | -------- | -------- | -- | -- | -- |
-| 6040 | hospedeira, hospedeiro | **a** hospedeira, **o** hospedeiro | /uʃpɨ'dejɾɐ/, /uʃpɨ'dejɾu/ | /ɔs.pɨ'dej.ɾɐ/, /ɔs.pɨ'dej.ɾu/ | sf, sm | hostess | anfitriona, anfitrión |
-| 6039 | aeromoça, aeromoço | **a** aeromoça, **o** aeromoço | /e̞.ɾu'mɔ.mɔ.sɐ/, /e̞.ɾu'mɔ.mɔ.su/ | /a.e̞.ɾu'mɔ.mɔ.sɐ/, /a.e̞.ɾu'mɔ.mɔ.su/ | sf, sm | flight attendant | auxiliar de vuelo |
-| 6038 | garçonete | **a** garçonete | /ɡɐɾsɔ'netɨ/ | /ɡaɾsɔ'netʃi/ | sf | waitress | camarera |
-| 6037 | garçom | **o** garçom | /gɐɾ'sõ/ | /ɡaɾ'sõ/ | sm | waiter | camarero |
-| 6036 | biologista | **o/a** biologista | /biuluʒ'ɨʃtɐ/ | /biolodʒiʃ'tɐ/ | sm, sf | biologist | biólogo/a |
-| 6035 | químico, química | **o** químico, **a** química | /'kimi.ku/, /'kimi.kɐ/ | /'kimi.ku/, /'kimi.kɐ/ | sm, sf | chemist | químico/a |
-| 6034 | empresário, empresária | **o** empresário, **a** empresária | /ẽ.pre.zɐ.ˈɾju/, /ẽ.pre.zɐ.ˈɾi.ɐ/ | /ẽ.pre.zɐ.ˈɾju/, /ẽ.pre.zɐ.ˈɾi.ɐ/ | sm/f | entrepreneur | empresario/a |
-| 6033 | engenheiro, engenheira | **o** engenheiro, **a** engenheira | /ẽ.ʒeˈɲej.ɾu/, /ẽ.ʒẽˈɲej.ɾɐ/ | /ẽ.ʒeˈɲej.ɾu/ , /ẽ.ʒẽˈɲej.ɾɐ/ | sm, sf | engineer | ingeniero/a |
-| 6032 | enfermeiro, enfermeira | **o** enfermeiro, **a** enfermeira | /ẽ.ferˈmej.ɾu/, /ẽ.ferˈmej.ɾɐ/ | /ẽ.ferˈmej.ɾu/ , /ẽ.ferˈmej.ɾɐ/ | sm, sf | nurse | enfermero/a |
-| 6031 | empregada de mesa, garçonete | **a** empregada de mesa, **a/o** garçonete | /ẽ.pɾe.ˈɡa.dɐ dɨ ˈme.zɐ/,/gaɾ.soˈnɛ.tɨ/ | /ẽ.pɾe.ˈɡa.dɐ dɨ ˈme.zɐ/, /gaʁ.soˈnɛ.tʃi/ | sf | waitress | camarera |
-| 6030 | empregado de mesa, garçom | **o** empregado de mesa, **o** garçom | /ẽ.pɾe.ˈɡa.du dɨ ˈme.zɐ/,  /gaɾˈsõ/ | /ẽ.pɾe.ˈɡa.du dɨ ˈme.zɐ/, /gaʁˈsõ/ | sm | waiter | camarero |
-| 6029 | cozinheiro, cozinheira | **o** cozinheiro, **a** cozinheira | /ko.zi.ˈɲej.ɾu/ , /ko.zi.ˈɲej.ɾɐ/ | /ko.zi.ˈɲej.ɾu/, /ko.zi.ˈɲej.ɾɐ/ | sm, sf | chef | cocinero/a |
-| 6028 | instrutora de ioga, instrutor de ioga | **a** instrutora de ioga, **o** instrutor de ioga | | /ĩʃ.tɾu.ˈto.ɾɐ dɨ iˈo.ɡɐ/,  /ĩʃ.tɾu.ˈtoɾ dɨ iˈo.ɡɐ/ | sf, sm | yoga instructor | instructor/a de yoga |
-| 6027 | cabeleireira, cabeleireiro | **a** cabeleireira, **o** cabeleireiro | /ka.bɨ.lej.ˈɾej.ɾɐ/, /ka.bɨ.lej.ˈɾej.ɾu/ | /ka.be.lej.ˈɾej.ɾɐ/, /ka.be.lej.ˈɾej.ɾu/ | sf, sm | hairdresser | peluquero/a |
-| 6026 | dentista | **o/a** dentista | /dẽˈtis.tɐ/ | /dẽˈtis.tɐ/ | sm/f | dentist | dentista |
-| 6025 | pianista | **o/a** pianista | /pi.ɐ.ˈniʃ.tɐ/ | /pi.ɐ.ˈniʃ.tɐ/ | sm/f | pianist | pianista |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Here is the completed markdown table with the provided Portuguese words:
+| 6770 | jurista | **o/a** jurista | /ʒu.'ɾiʃ.tɐ/ | /ʒu.'ɾiʃ.tɐ/ | - | legal professional | jurista |
+| 6769 | farmacêutico, farmacêutica | **o** farmacêutico, **a** farmacêutica | /faɾ.mɐ.sɛu.'ti.ku/, /faɾ.mɐ.sɛu.'ti.kɐ/ | /faʁ.ma.sew.'ti.ku/, /faʁ.ma.sew.'ti.kɐ/ | sm | pharmacist | farmacéutico/a |
 
 | No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
 | --- | --------- | -------- | -------- | -------- | -- | -- | -- |
@@ -171,8 +175,7 @@ Here is the completed markdown table with the provided Portuguese words:
 
 
 
-
-Here is the completed markdown table with the provided Portuguese words:
+## HOUSE
 
 | No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
 | --- | --------- | -------- | -------- | -------- | -- | -- | -- |
@@ -182,26 +185,23 @@ Here is the completed markdown table with the provided Portuguese words:
 | 6093 | janela | **a** janela | /ʒɐ'nɛlɐ/ | /ʒɐ'nelɐ/ | sf | window | ventana |
 | 6011 | televisão | **a** televisão | /tɨ.lɨ.vi.zɐ̃w̃/ | /te.li.vi'zãw̃/ | sf | television | televisión |
 | 6004 | jardim | **o** jardim | /ʒɐɾ'dĩ/ | /ʒaʁ'dʒĩ/ | sm | garden | jardín |
+| 6772 | gabinete | **o** gabinete | /ɡɐ.bi.'nɛ.tɨ/ | /ɡa.bi.'nɛ.tʃi/ | sm | cabinet | gabinete |
+| 6787 | revistas | **as** revistas | /ʁɨ.'viʃ.tɐʃ/ | /ʁe.'vis.tɐʃ/ | sfp | magazines | revistas |
+
+
+
+## PEOPLE
+
+| No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
+| --- | --------- | -------- | -------- | -------- | -- | -- | -- |
 | 6010 | pesoas | **as** pesoas | /pu'zow̃ʃ/ | /pe'so.as/ | sfp | people | personas |
 | 6779 | descrição | **a** descrição | /dɨʃ.kɾi.'sɐ̃w/ | /de.ski.'sɐ̃w/ | sf | description | descripción |
 | 6778 | personalidade | **a** personalidade | /pɨɾ.su.na.li.'da.dɨ/ | /peɾ.so.na.li.'daj.dʒi/ | sf | personality | personalidad |
 | 6776 | jogador, jogadora | **o** jogador, **a** jogadora | /ʒu.ɡa.'doɾ/, /ʒu.ɡa.'doɾɐ/ | /ʒo.ɡa.'doχ/, /ʒo.ɡa.'doɾɐ/ | sm | player | jugador/a |
 | 6773 | centro | **o** centro | /'sẽ.tɾu/ | /'sẽ.tɾu/ | sm | center | centro |
 | 6786 | flores | **as** flores | /'flo.ɾɨʃ/ | /'flo.ɾis/ | sfp | flowers | flores |
-| 6770 | jurista | **o/a** jurista | /ʒu.'ɾiʃ.tɐ/ | /ʒu.'ɾiʃ.tɐ/ | - | legal professional | jurista |
-| 6769 | farmacêutico, farmacêutica | **o** farmacêutico, **a** farmacêutica | /faɾ.mɐ.sɛu.'ti.ku/, /faɾ.mɐ.sɛu.'ti.kɐ/ | /faʁ.ma.sew.'ti.ku/, /faʁ.ma.sew.'ti.kɐ/ | sm | pharmacist | farmacéutico/a |
 
-I have completed the table with the provided information.
-
-
-
-
-
-
-
-
-
-Here is the completed markdown table with the provided Portuguese words:
+## FAMILY
 
 | No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
 | --- | --------- | -------- | -------- | -------- | -- | -- | -- |
@@ -209,10 +209,16 @@ Here is the completed markdown table with the provided Portuguese words:
 | 6055 | pai | **o** pai | /'pa.i/ | /'pa.i/ | sm | father | padre |
 | 6013 | amigos | **os** amigos | /ɐ'miɡuʃ/ | /ɐ'mi.ɡus/ | smp | friends | amigos |
 | 6008 | namorado, namorada | **o** namorado, **a** namorada | /nɐmuɾɐ'du/, /nɐmuɾɐ'dɐ/ | /nɐmuɾa'du/, /nɐmuɾa'dɐ/ | sm, sf | boyfriend, girlfriend | novio, novia |
+
+
+## FOOD AND BEVERAGES
+
+| No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
+| --- | --------- | -------- | -------- | -------- | -- | -- | -- |
 | 6790 | chocolates | **os** chocolates | /ʃɔ.ku.'la.tɨʃ/ | /ʃɔ.kɔ.'la.tʃis/ | smp | chocolates | chocolates |
 | 6782 | café | **o** café | /'ka.fɨ/ | /'ka.fi/ | sm | coffee | café |
-| 6772 | gabinete | **o** gabinete | /ɡɐ.bi.'nɛ.tɨ/ | /ɡa.bi.'nɛ.tʃi/ | sm | cabinet | gabinete |
-| 6787 | revistas | **as** revistas | /ʁɨ.'viʃ.tɐʃ/ | /ʁe.'vis.tɐʃ/ | sfp | magazines | revistas |
+
+
 | 6785 | bola | **a** bola | /'bo.lɐ/ | /'bo.lɐ/ | sf | ball | pelota |
 | 6777 | passatempo, passatempos | **o** passatempo, **os** passatempos | /pɐ.sɐ.'tẽ.pu/, /pɐ.sɐ.'tẽ.pus/ | /pas.sɐ.'tẽ.pu/, /pas.sa.'tẽ.pus/ | sm | pastime, hobbies | pasatiempo, pasatiempos |
 | 6012 | fotografia | **a** fotografia | /futuɡɾɐ'fi.ɐ/ | /fo.toɡɾa'fi.ɐ/ | sf | photography | fotografía |
@@ -244,22 +250,6 @@ Below is the completed markdown table with the provided Portuguese words:
 | 6059 | irmão | **o** irmão | /ir'mɐ̃w̃/ | /ir'mɐ̃w̃/ | sm | brother | hermano |
 | 6058 | filha | **a** filha | /'fiʎɐ/ | /'fiʎɐ/ | sf | daughter | hija |
 | 6057 | filho | **o** filho | /'fiʎu/ | /'fiʎu/ | sm | son | hijo |
-
-I have completed the table with the provided information.
-
-
-
-
-
-Here is the completed markdown table with the provided Portuguese words:
-
-| No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
-| --- | --------- | -------- | -------- | -------- | -- | -- | -- |
-| 6109 | cérebro | **o** cérebro | /se'bɾu/ | /se'bɾu/ | sm | brain | cerebro |
-| 6147 | dedo do pé | **o** dedo do pé | /'de.du du 'pe/ | /'de.du du 'pe/ | sm | toe | dedo del pie |
-| 6148 | língua | **a** língua | /'lĩ.ɡwɐ/ | /'lĩ.ɡwa/ | sf | tongue | lengua |
-| 6774 | biblioteca | **a** biblioteca | /bi.bli.o.'tɛ.kɐ/ | /bi.bli.o.'tɛ.kɐ/ | sf | library | biblioteca |
-| 6783 | óculos | **os** óculos | /'ɔ.ku.luʃ/ | /'ɔ.ku.luʃ/ | smp | glasses | gafas |
 | 6771 | bolso | **o** bolso | /'bɔl.su/ | /'bɔwsu/ | sm | pocket | bolsillo |
 | 6792 | avôs | **os** avôs | /ɐ.'vɔʃ/ | /ɐ.'vɔs/ | smp | grandparents (grandfathers) | abuelos (abuelos) |
 | 6791 | avós | **os/as** avós | /ɐ.'vɔʃ/ | /ɐ.'vɔs/ | smp | grandparents (grandmothers) | abuelos (abuelas) |
@@ -272,18 +262,17 @@ Here is the completed markdown table with the provided Portuguese words:
 | 6072 | cunhada | **a** cunhada | /ku'ɲada/ | /ku'ɲada/ | sf | sister-in-law | cuñada |
 | 6071 | cunhado | **o** cunhado | /ku'njadu/ | /ku'njadu/ | sm | brother-in-law | cuñado |
 
-I have completed the table with the provided information.
 
 
-
-
-
-
-
-Below is the completed markdown table with the provided Portuguese words:
+## BODY
 
 | No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
 | --- | --------- | -------- | -------- | -------- | -- | -- | -- |
+| 6109 | cérebro | **o** cérebro | /se'bɾu/ | /se'bɾu/ | sm | brain | cerebro |
+| 6147 | dedo do pé | **o** dedo do pé | /'de.du du 'pe/ | /'de.du du 'pe/ | sm | toe | dedo del pie |
+| 6148 | língua | **a** língua | /'lĩ.ɡwɐ/ | /'lĩ.ɡwa/ | sf | tongue | lengua |
+| 6774 | biblioteca | **a** biblioteca | /bi.bli.o.'tɛ.kɐ/ | /bi.bli.o.'tɛ.kɐ/ | sf | library | biblioteca |
+| 6783 | óculos | **os** óculos | /'ɔ.ku.luʃ/ | /'ɔ.ku.luʃ/ | smp | glasses | gafas |
 | 6129 | pálpebras | **as** pálpebras | /'palpebɾɐʃ/ | /'pawpebɾɐʃ/ | sfp | eyelids | párpados |
 | 6128 | cotovelo | **o** cotovelo | /kotu'velu/ | /kotu'veluʃ/ | sm | elbow | codo |
 | 6127 | braço | **o** braço | /'bɾasu/ | /'bɾasu/ | sm | arm | brazo |
@@ -330,35 +319,6 @@ Here is the completed markdown table with the missing values for the Portuguese 
 | 6131 | olhos | **os** olhos | /'oʎuʃ/ | /'oʎuʃ/ | smp | eyes | ojos |
 | 6130 | testa | **a** testa | /'tɛʃtɐ/ | /'tɛʃtɐ/ | sf | forehead | frente |
 
-
-ssssssssssssssssssss
-
-| No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES | 
-|-----|-----------|----------|----------|----------|----|----|----|
-| 6800 | janeiro | **o** janeiro | /ʒɐˈnejɾu/ | /ʒɐˈnejɾu/ | sm | January | enero |
-| 6801 | julho | **o** julho | /ˈʒuʎu/ | /ˈʒuˈʎu/ | sm | July | julio |
-| 6802 | fevereiro | **o** fevereiro | /feveˈɾejɾu/ | /feveˈɾejɾu/ | sm | February | febrero |
-| 6803 | março | **o** março | /ˈmaɾsu/ | /ˈmaʁsu/ | sm | March | marzo |
-| 6804 | abril | **o** abril | /ɐˈbɾiɫ/ | /aˈbɾiw/ | sm | April | abril |
-| 6805 | agosto | **o** agosto | /ɐˈɡoʃtu/ | /aˈɡostu/ | sm | August | agosto |
-| 6806 | maio | **o** maio | /ˈmaju/ | /ˈmaju/ | sm | May | mayo |
-| 6807 | junho | **o** junho | /ˈʒuɲu/ | /ˈʒũɲu/ | sm | June | junio |
-| 6808 | setembro | **o** setembro | /seˈtẽbɾu/ | /seˈtẽbɾu/ | sm | September | septiembre |
-| 6809 | outubro | **o** outubro | /owˈtubɾu/ | /oˈtubɾu/ | sm | October | octubre |
-| 6810 | novembro | **o** novembro | /noˈvẽbɾu/ | /noˈvẽbɾu/ | sm | November | noviembre |
-| 6811 | dezembro | **o** dezembro | /deˈzẽbɾu/ | /deˈzẽbɾu/ | sm | December | diciembre |
-| 6812 | mês | **o** mês | /meʃ/ | /mɛʃ/ | sm | month | mes |
-| 6813 | ano | **o** ano | /ˈɐ.nu/ | /ˈɐ.nu/ | sm | year | año |
-| 6814 | século | **o** século | /ˈseku.lu/ | /ˈseku.lu/ | sm | century | siglo |
-| 6815 | estação | **a** estação | /is.ta.'sɐ̃w/ | /is.ta.'sɐ̃w/ | sf | season | estación |
-| 6816 | outono | **o** outono | /ow.'to.nu/ | /o.'to.nu/ | sm | fall | otoño |
-| 6817 | verão | **o** verão | /vɨ.'ɾɐ̃w/ | /ve.'ɾɐ̃w/ | sm | summer | verano |
-| 6818 | primavera | **a** primavera | /pɾi.mɐ.'ve.ɾɐ/ | /pɾi.mɐ.'ve.ɾɐ/ | sf | spring | primavera |
-| 6819 | inverno | **o** inverno | /ĩ.'veɾ.nu/ | /ĩ.'veɾ.nu/ | sm | winter | invierno |
-| 6820 | milênio | **o** milênio | /miˈle.nju/ | /miˈle.nju/ | sm | millennium | milenio |
-| 6821 | minuto | **o** minuto | /miˈnutu/ | /miˈnutu/ | sm | minute | minuto |
-| 6822 | hora | **a** hora | /ˈoɾɐ/ | /ˈoɾɐ/ | sf | hour | hora |
-| 6823 | segundo | **o** segundo | /seˈɡũdu/ | /seˈɡũdu/ | sm | second | segundo |
 
 
 

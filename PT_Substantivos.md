@@ -1,3 +1,15 @@
+| No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
+|-----|-----------|----------|----------|----------|----|----|----|
+| 8671 | estudante | **o/a** estudante | /es.tuˈdɐ̃.tɨ/ | /es.tuˈdɐ̃.tʃi/ | sm/f | student | estudiante |
+| 8672 | gente |  | /'ʒẽ.tʃi/ | /'ʒẽ.tʃi/ |  | people | gente |
+| 8673 | pessoas |  | /pe'so.ɐʃ/ | /pe'so.ɐʃ/ |  | people | personas |
+| 8674 | povo | **o** povo | /'po.vu/ | /'po.vu/ | sm | people | pueblo |
+| 8675 | artista |  | /ɐɾˈtiʃ.tu/ | /ɐɾˈtiʃ.tu/ |  | artist | artista |
+| 8676 | designer |  | /de.ziˈɲeɾ/ | /de.ziˈɲe.ɾu/ |  | designer | diseñador |
+| 8677 | agricultor, agricultora | **o** agricultor, **a** agricultora | /a.ɡri.kulˈtoɾ/, /a.gɾi.kulˈto.ɾɐ/ | /a.ɡri.kulˈtoɾ/, /a.ɡɾi.kulˈto.ɾɐ/ | sm/f | farmer | agricultor, agricultora |
+| 8678 | arquiteto, arquiteta | **o** arquiteto, **a** arquiteta | /aɾ.kiˈtɛ.tu/, /aɾ.kiˈtɛ.tɐ/ | /aɾ.kiˈtɛ.tu/ , /aɾ.kiˈtɛ.tɐ/ | sm/f | architect | arquitecto, arquitecta |
+| 8679 | escritor, escritora | **o** escritor, **a** escritora | /ɨʃ.kɾiʃˈtoɾ/ | /es.kɾiʃˈtoɾ/ | sm/f | writer | escritor, escritora |
+| 8680 | médico, médica | **o** médico, **a** médica | /ˈme.di.ku/ , /ˈme.di.kɐ/ | /ˈme.di.ku/ , /ˈme.di.kɐ/ | sm/f | doctor | médico, médica |
 
 
 

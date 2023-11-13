@@ -6,6 +6,21 @@ Here is the completed table with the missing values:
 
 | No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
 |-----|-----------|----------|----------|----------|----|----|----|
+| 8750 | lago | **o** lago | /ˈlɐɡu/ | /ˈlɐɡu/ | sm | lake | lago |
+| 8751 | oceano | **o** oceano | /oˈseɐ̃w/ | /oˈseɐ̃w/ | sm | ocean | océano |
+| 8752 | rio | **o** rio | /'ʁi.u/ | /'ʁi.u/ | sm | river | río |
+| 8753 | mar | **o** mar | /maɾ/ | /maʁ/ | sm | sea | mar |
+| 8754 | chuva | **a** chuva | /ˈʃu.vɐ/ | /ˈʃu.vɐ/ | sf | rain | lluvia |
+| 8755 | água | **a** água | /ˈa.ɡwɐ/ | /ˈa.ɡwɐ/ | sf | water | agua |
+| 8756 | bosque | **o** bosque | /ˈboʃki/ | /ˈboʃki/ | sm | woods | bosque |
+| 8757 | floresta | **a** floresta | /floˈɾɛʃtɐ/ | /floˈɾɛʃtɐ/ | sf | forest | bosque |
+| 8758 | cor | **a** cor | /ˈkɔɾ/ | /ˈkɔɾ/ | sf | color (Brit: colour) | color |
+| 8759 | morango | **o** morango | /moˈɾɐ̃.ɡu/ | /moˈɾɐ̃.ɡu/ | sm | strawberry | fresa |
+
+Let me know if there's anything else you need.
+
+| No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
+|-----|-----------|----------|----------|----------|----|----|----|
 | 8735 | corpo de bombeiros | **o** corpo de bombeiros | /ˈkoɾ.pu dɨ bõ.ˈbɐj.ɾuʃ/ | /ˈkoɾ.pu dʒi bõ.ˈbɐj.ɾus/ | sm | fire station | estación de bomberos |
 | 8736 | biblioteca | **a** biblioteca | /bi.bli.u.ˈtɛ.kɐ/ | /bi.bli.u.ˈtɛ.kɐ/ | sf | library | biblioteca |
 | 8737 | livraria | **a** livraria | /li.ˈvɾa.ɾi.ɐ/ | /li.ˈvɾa.ɾi.ɐ/ | sf | bookstore | librería |

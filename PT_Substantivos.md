@@ -5,6 +5,24 @@
 
 | No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
 |-----|-----------|----------|----------|----------|----|----|----|
+| 8710 | contrato | **o** contrato | /kõ.ˈtɾa.tu/ | /kõ.ˈtɾa.tu/ | sm | contract | contrato |
+| 8711 | negócio | **o** negócio | /neˈɡɔ.sju/ | /neˈɡɔ.sju/ | sm | business | negocio |
+| 8712 | morada | **a** morada | /mo.ˈɾa.dɐ/ | /mo.ˈɾa.dɐ/ | sf | address, residence | morada |
+| 8713 |        |             |            |            |    |    |    |
+| 8714 | cozinha | **a** cozinha | /ko.ˈzi.ɲɐ/ | /ko.ˈzi.ɲɐ/ | sf | kitchen | cocina |
+| 8715 |        |             |            |            |    |    |    |
+| 8716 | cerca | **a** cerca | /ˈsɛɾ.kɐ/ | /ˈsɛɾ.kɐ/ | sf | fence | cerca |
+| 8717 | casa de banho (PT) | **a** casa de banho | /ˈka.zɐ dɨ ˈbɐ.ɲu/ | /ˈkazɐ dʒi ˈbɐɲu/ | sf, sm | bathroom | baño |
+| 8718 | banheiro (BR) | **o** banheiro | /bɐ.ɲe.ˈjɾu/ | /bɐ.ɲe.ˈjɾu/ | sf, sm | bathroom | baño |
+| 8719 |        |             |            |            |    |    |    |
+| 8720 |        |             |            |            |    |    |    |
+| 8721 |        |             |            |            |    |    |    |
+| 8722 | quarto | **o** quarto | /ˈkwaɾ.tu/ | /ˈkwaɾ.tu/ | sm | room | cuarto |
+
+
+
+| No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
+|-----|-----------|----------|----------|----------|----|----|----|
 | 8663 | passeio | **o** passeio | /pɐˈsɛ.ʊ/ | /paˈse.ju/ | sm | walk, ride | paseo |
 | 8664 | férias | **as** férias | /ˈfe.ɾi.ɐʃ/ | /ˈfe.ɾi.ɐʃ/ | sfp | vacation | vacaciones |
 | 8665 | turma | **a** turma | /ˈtuɾ.mɐ/ | /ˈtuʁ.mɐ/ | sf | class, group | clase, grupo |

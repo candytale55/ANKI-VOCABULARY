@@ -1,6 +1,15 @@
 
 # SUBSTANTIVOS
 
+| No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
+|-----|-----------|----------|----------|----------|----|----|----|
+| 8652 | vivenda | **a** vivenda | /vi.ˈvẽ.dɐ/ | /vi.ˈvẽ.dɐ/ | sf | dwelling | vivienda |
+| 8653 | país | **o** país | /pɐˈiz/ | /paˈis/ | sm | country | país |
+| 8654 | cidade | **a** cidade | /si.ˈdadɨ/ | /si.ˈdadʒi/ | sf | city | ciudad |
+| 8655 | vila | **a** vila | /ˈvi.lɐ/ | /ˈvi.lɐ/ | sf | town | villa |
+| 8656 | localidade | **a** localidade | /lu.ka.li.ˈdadɨ/ | /lo.ka.li.ˈdadʒi/ | sf | locality | localidad |
+| 8657 | | | | | | | |
+| 8658 | viagem | **a** viagem | /vi.ˈɐ̃ʒẽj̃/ | /vi.ˈɐ̃ʒẽj̃/ | sf | journey | viaje |
 
 
 

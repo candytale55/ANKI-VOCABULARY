@@ -1,7 +1,7 @@
 
-Certainly! Here's the filled-out table for the provided words:
+# SUBSTANTIVOS
 
-```markdown
+
 | No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
 |-----|-----------|----------|----------|----------|----|----|----|
 | 8671 | estudante | **o/a** estudante | /es.tuˈdɐ̃.tɨ/ | /es.tuˈdɐ̃.tʃi/ | sm/f | student | estudiante |
@@ -14,9 +14,6 @@ Certainly! Here's the filled-out table for the provided words:
 | 8678 | arquiteto, arquiteta | **o** arquiteto, **a** arquiteta | /aɾ.kiˈtɛ.tu/, /aɾ.kiˈtɛ.tɐ/ | /aɾ.kiˈtɛ.tu/ , /aɾ.kiˈtɛ.tɐ/ | sm/f | architect | arquitecto, arquitecta |
 | 8679 | escritor, escritora | **o** escritor, **a** escritora | /ɨʃ.kɾiʃˈtoɾ/ | /es.kɾiʃˈtoɾ/ | sm/f | writer | escritor, escritora |
 | 8680 | médico, médica | **o** médico, **a** médica | /ˈme.di.ku/ , /ˈme.di.kɐ/ | /ˈme.di.ku/ , /ˈme.di.kɐ/ | sm/f | doctor | médico, médica |
-```
-
-Note: The definite articles used are based on the assumed gender of the nouns. Adjustments can be made based on the actual gender of the nouns if needed.
 
 | No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
 |-----|-----------|----------|----------|----------|----|----|----|
@@ -31,7 +28,6 @@ Note: The definite articles used are based on the assumed gender of the nouns. A
 
 
 
-# SUBSTANTIVOS
 
 | No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
 |-----|-----------|----------|----------|----------|----|----|----|

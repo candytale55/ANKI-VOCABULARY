@@ -2,6 +2,25 @@
 # SUBSTANTIVOS
 
 
+
+
+
+| No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
+|-----|-----------|----------|----------|----------|----|----|----|
+| 8691 | forma | **a** forma | /ˈfɔɾ.mɐ/ | /ˈfɔɾ.mɐ/ | sf | form | forma |
+| 8692 | frase | **a** frase | /ˈfɾa.zɨ/ | /ˈfɾa.zi/ | sf | phrase | frase |
+| 8693 | escritório | **o** escritório | /ɨʃ.kɾiʃˈto.ɾju/ | /ɨʃ.kɾiʃˈto.ɾi.u/ | sm | office | oficina |
+| 8694 | hospital | **o** hospital | /oˈspi.tɐw̃/ | /ospiˈtɐw̃/ | sm | hospital | hospital |
+| 8695 | restaurante | **o** restaurante | /ʁes.tawˈɾɐ̃.tɨ/ | /ʁes.tawˈɾɐ̃.tʃi/ | sm | restaurant | restaurante |
+| 8696 | fazenda | **a** fazenda | /faˈzẽdɐ/ | /faˈzẽdɐ/ | sf | farm | finca |
+| 8697 | aeroporto | **o** aeroporto | /a.e.ɾoˈpoɾ.tu/ | /a.e.ɾoˈpoɾ.tu/ | sm | airport | aeropuerto |
+| 8698 | chegada | **a** chegada | /ʃi.ˈɡa.dɐ/ | /ʃi.ˈɡa.dɐ/ | sf | arrival | llegada |
+| 8699 | partida | **a** partida | /pɐɾ.ˈti.dɐ/ | /pɐɾ.ˈti.dɐ/ | sf | departure | partida |
+| 8700 | avião | **o** avião | /ɐˈvi.ɐ̃w/ | /ɐˈvi.ɐ̃w/ | sm | airplane | avión |
+
+
+
+
 | No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
 |-----|-----------|----------|----------|----------|----|----|----|
 | 8671 | estudante | **o/a** estudante | /es.tuˈdɐ̃.tɨ/ | /es.tuˈdɐ̃.tʃi/ | sm/f | student | estudiante |

@@ -1,3 +1,7 @@
+
+Certainly! Here's the filled-out table for the provided words:
+
+```markdown
 | No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
 |-----|-----------|----------|----------|----------|----|----|----|
 | 8671 | estudante | **o/a** estudante | /es.tuˈdɐ̃.tɨ/ | /es.tuˈdɐ̃.tʃi/ | sm/f | student | estudiante |
@@ -10,6 +14,20 @@
 | 8678 | arquiteto, arquiteta | **o** arquiteto, **a** arquiteta | /aɾ.kiˈtɛ.tu/, /aɾ.kiˈtɛ.tɐ/ | /aɾ.kiˈtɛ.tu/ , /aɾ.kiˈtɛ.tɐ/ | sm/f | architect | arquitecto, arquitecta |
 | 8679 | escritor, escritora | **o** escritor, **a** escritora | /ɨʃ.kɾiʃˈtoɾ/ | /es.kɾiʃˈtoɾ/ | sm/f | writer | escritor, escritora |
 | 8680 | médico, médica | **o** médico, **a** médica | /ˈme.di.ku/ , /ˈme.di.kɐ/ | /ˈme.di.ku/ , /ˈme.di.kɐ/ | sm/f | doctor | médico, médica |
+```
+
+Note: The definite articles used are based on the assumed gender of the nouns. Adjustments can be made based on the actual gender of the nouns if needed.
+
+| No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
+|-----|-----------|----------|----------|----------|----|----|----|
+| 8682 | policial | **o/a** policial | /po.liˈsi.al/ | /po.liˈsi.al/ | sm/f | police officer | policía |
+| 8683 | motorista | **o/a** motorista | /mu.to.ˈɾiʃ.tɐ/ | /mu.to.ˈɾiʃ.tɐ/ | sm/f | driver | conductor/a |
+| 8684 | doutor | **o** doutor | /dow'toɾ/ | /dow'toɾ/ | sm | doctor | doctor |
+| 8685 | número |  | /'nu.me.ɾu/ | /'nu.me.ɾu/ |  | number | número |
+| 8686 | palavra |  | /pa.'la.vɾɐ/ | /pa.'la.vɾɐ/ |  | word | palabra |
+| 8687 | nome | **o** nome | /'no.mi/ | /'no.mi/ | sm | name | nombre |
+| 8688 | cifra | **a** cifra | /ˈsi.fɾɐ/ | /ˈsi.fɾɐ/ | sf | figure (number) | cifra |
+| 8689 | figura | **a** figura | /ˈfi.ɡu.ɾɐ/ | /ˈfi.ɡu.ɾɐ/ | sf | figure (shape) | figura |
 
 
 

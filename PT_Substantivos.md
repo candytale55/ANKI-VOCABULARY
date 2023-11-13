@@ -6,6 +6,46 @@ Here is the completed table with the missing values:
 
 | No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
 |-----|-----------|----------|----------|----------|----|----|----|
+| 8827 | coisa | **a** coisa | /'koj.zɐ/ | /'koj.zɐ/ | sf | thing | cosa |
+| 8828 | computador | **o** computador | /kom.pu.taˈdoɾ/ | /kom.pu.taˈdoʁ/ | sm | computer | computadora, ordenador (ES) |
+| 8829 | deserto | **o** deserto | /deˈzɛɾtu/ | /deˈzɛʁtu/ | sm | desert | desierto |
+| 8830 | filme | **o** filme | /ˈfiɫ.mɨ/ | /ˈfiɫ.mi/ | sm | movie | película |
+| 8831 | laranja | **a** laranja | /lɐˈɾɐ̃ʒɐ/ | /laˈɾɐ̃ʒɐ/ | sf | orange | naranja |
+| 8832 | leão | **o** leão | /leˈɐ̃w/ | /leˈɐ̃w/ | sm | lion | león |
+| 8833 | leite | **o** leite | /ˈlej.tɨ/ | /ˈlej.tʃi/ | sm | milk | leche |
+| 8834 | limão | **o** limão | /liˈmɐ̃w̃/ | /liˈmɐ̃w̃/ | sm | lemon | limón |
+| 8835 | linha | **a** linha | /'li.ɲɐ/ | /'li.ɲɐ/ | sf | line | línea |
+| 8836 | lua | **a** lua | /'lu.ɐ/ | /'lu.ɐ/ | sf | moon | luna |
+| 8837 | lugar | **o** lugar | /lu'gaɾ/ | /lu'gaʁ/ | sm | place | lugar |
+| 8838 | maçã | **a** maçã | /maˈsɐ/ | /maˈsɐ/ | sf | apple | manzana |
+
+Let me know if there's anything else you need.
+
+
+Here is the completed table with the missing values:
+
+| No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
+|-----|-----------|----------|----------|----------|----|----|----|
+| 8841 | maneira | **a** maneira | /ma'nejɾa/ | /ma.ne'ʒi.ɾɐ/ | sf | way (manner, way of doing something) | manera |
+| 8842 | manhã | **a** manhã | /mɐˈɲɐ̃/ | /mɐˈɲɐ̃/ | sf | morning | mañana |
+| 8843 | manteiga | **a** manteiga | /mɐ̃.ˈtɐj.ɡɐ/ | /mɐ̃ˈtej.ɡɐ/ | sf | butter | mantequilla |
+| 8844 | mão, mãos | **a** mão, **as** mãos | /ˈmɐ̃w̃/, /mɐ̃w̃ʃ/ | /ˈmɐ̃w̃/, /ˈmɐ̃w̃ʃ/ | sf, sfp | hand | mano |
+| 8845 | montanha | **a** montanha | /mõˈtɐ̃ɲɐ/ | /mõˈtɐ̃.ɲɐ/ | sf | mountain | montaña |
+| 8846 |  |  |  |  |  |  |  |
+| 8847 | música | **a** música | /ˈmu.zi.kɐ/ | /ˈmu.zi.kɐ/ | sf | music | música |
+| 8848 | ovo | **o** ovo | /ˈɔ.vu/ | /ˈɔ.vu/ | sm | egg | huevo |
+| 8849 |  |  |  |  |  |  |  |
+| 8850 | pão | **o** pão | /ˈpɐ̃w/ | /ˈpɐ̃w̃/ | sm | bread | pan |
+| 8851 | papel | **o** papel | /paˈpɛɫ/ | /paˈpel/ | sm | paper | papel |
+| 8852 | parte | **a** parte | /'paɾ.tʃi/ | /ˈpaɾ.tʃi/ | sf | part | parte |
+
+Let me know if there's anything else you need.
+
+
+
+
+| No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
+|-----|-----------|----------|----------|----------|----|----|----|
 | 8803 | frango | **o** frango | /ˈfɾɐ̃.ɡu/ | /ˈfɾɐ̃.ɡu/ | sm | chicken | pollo |
 | 8804 | mosca | **a** mosca | /ˈmɔʃ.kɐ/ | /ˈmɔʃ.kɐ/ | sf | fly (insect) | mosca |
 | 8805 | coruja | **a** coruja | /koˈɾu.ʒɐ/ | /koˈɾu.ʒɐ/ | sf | owl | búho |

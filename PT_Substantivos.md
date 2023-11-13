@@ -2,8 +2,28 @@
 
 # SUBSTANTIVOS
 
-
 Here is the completed table with the missing values:
+
+| No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
+|-----|-----------|----------|----------|----------|----|----|----|
+| 8735 | corpo de bombeiros | **o** corpo de bombeiros | /ˈkoɾ.pu dɨ bõ.ˈbɐj.ɾuʃ/ | /ˈkoɾ.pu dʒi bõ.ˈbɐj.ɾus/ | sm | fire station | estación de bomberos |
+| 8736 | biblioteca | **a** biblioteca | /bi.bli.u.ˈtɛ.kɐ/ | /bi.bli.u.ˈtɛ.kɐ/ | sf | library | biblioteca |
+| 8737 | livraria | **a** livraria | /li.ˈvɾa.ɾi.ɐ/ | /li.ˈvɾa.ɾi.ɐ/ | sf | bookstore | librería |
+| 8738 | livraria (bookshop) | **a** livraria | /li.ˈvɾa.ɾi.ɐ/ | /li.ˈvɾa.ɾi.ɐ/ | sf | bookshop | librería |
+| 8739 | estante | **a** estante | /is.ˈtɐ̃.tɨ/ | /is.ˈtɐ̃.tʃi/ | sf | bookcase | estantería, librero |
+| 8740 | cabeça | **a** cabeça | /kaˈbe.sɐ/ | /kaˈbe.sɐ/ | sf | head | cabeza |
+| 8741 | face | **a** face | /ˈfa.sɨ/ | /ˈfa.sɨ/ | sf | face | cara |
+| 8742 | boca | **a** boca | /ˈbo.kɐ/ | /ˈbo.kɐ/ | sf | mouth | boca |
+| 8743 | bochecha | **a** bochecha | /boˈʃɛ.ʃɐ/ | /boˈʃɛ.ʃɐ/ | sf | cheek | mejilla |
+| 8744 | bochechas | **as** bochechas | /boˈʃɛ.ʃɐʃ/ | /boˈʃɛ.ʃɐʃ/ | sfp | cheeks | mejillas |
+| 8745 | olho | **o** olho | /ˈoʎu/ | /ˈoʎu/ | sm | eye | ojo |
+| 8746 | cílios, cílio | **os** cílios, **o** cílio | /ˈsi.ʎus/ , /ˈsi.ʎuʃ/ | /ˈsi.ʎus/ , /ˈsi.ʎuʃ/ | smp, sm | eyelashes | pestañas |
+| 8747 | maçã do rosto | **a** maçã do rosto | /ˈma.sɐ du ˈɾɔs.tu/ | /ˈma.sɐ du ˈɾɔs.tu/ | sf | cheekbone | pómulo |
+| 8748 | queixo | **o** queixo | /ˈkei.ʃu/ | /ˈkei.ʃu/ | sm | chin | barbilla |
+| 8749 | dedo | **o** dedo | /ˈde.ðu/ | /ˈde.ðu/ | sm | finger | dedo |
+
+
+
 
 | No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
 |-----|-----------|----------|----------|----------|----|----|----|

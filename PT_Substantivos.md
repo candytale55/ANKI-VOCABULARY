@@ -7,6 +7,22 @@ Here is the completed table with the missing values:
 
 | No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
 |-----|-----------|----------|----------|----------|----|----|----|
+| 8724 | teto | **o** teto | /ˈtɛ.tu/ | /ˈte.tu/ | sm | ceiling | techo |
+| 8725 | telhado | **o** telhado | /tɛ.ˈʎa.ðu/ | /te.ˈʎa.du/ | sm | roof | tejado |
+| 8726 | chão | **o** chão | /ʃɐ̃w̃/ | /ʃɐ̃w̃/ | sm | floor | suelo |
+| 8727 | subsolo | **o** subsolo | /ˈsu.bsɔ.lu/ | /ˈsu.bsɔ.lu/ | sm | subsoil, underground | subsuelo, subterráneo |
+| 8728 | andar | **o** andar | /ɐ̃.'daɾ/ | /ɐ̃.'daʁ/ | sm | floor (in a building) | piso (en un edificio) |
+| 8729 | andar (floor) | **o** andar | /ɐ̃.'daɾ/ | /ɐ̃.'daʁ/ | sm | floor | piso |
+| 8730 | cave | **a** cave | /ˈka.vɨ/ | /ˈka.vi/ | sf | cellar | sótano |
+| 8731 | sótão | **o** sótão | /sɔˈtɐ̃w̃/ | /soˈtɐ̃w̃/ | sm | attic | buhardilla |
+| 8732 | apartamento | **o** apartamento | /a.pɐɾ.ˈta.mẽ.tu/ | /a.paɾ.ˈta.mẽ.tu/ | sm | flat (housing) | apartamento |
+| 8733 | estufa | **a** estufa | /ɨʃ.ˈtu.fɐ/ | /es.ˈtu.fa/ | sf | greenhouse | invernadero |
+| 8734 | paisagem | **a** paisagem | /pa.i.ˈza.ʒẽj/ | /pa.i.ˈza.ʒẽj/ | sf | landscape | paisaje |
+
+
+
+| No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
+|-----|-----------|----------|----------|----------|----|----|----|
 | 8710 | contrato | **o** contrato | /kõ.ˈtɾa.tu/ | /kõ.ˈtɾa.tu/ | sm | contract | contrato |
 | 8711 | negócio | **o** negócio | /neˈɡɔ.sju/ | /neˈɡɔ.sju/ | sm | business | negocio |
 | 8712 | lar | **o** lar | /laɾ/ | /laɾ/ | sm | home, place of residence | hogar, residencia |

@@ -6,6 +6,32 @@ Here is the completed table with the missing values:
 
 | No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
 |-----|-----------|----------|----------|----------|----|----|----|
+| 8782 | zoológico | **o** zoológico | /zo.oˈlɔʒiku/ | /zo.oˈlɔʒiku/ | sm | zoo | zoológico |
+| 8783 | cachorro | **o** cachorro | /kaˈʃɔ.ɾu/ | /kaˈʃɔ.ɾu/ | sm | dog | perro |
+| 8784 | cavalo | **o** cavalo | /kaˈva.lu/ | /kaˈva.lu/ | sm | horse | caballo |
+| 8785 | cobra | **a** cobra | /ˈko.bɾɐ/ | /ˈko.bɾɐ/ | sf | snake | serpiente |
+| 8786 | elefante | **o** elefante | /e.leˈfɐ̃.tɨ/ | /e.leˈfɐ̃.tʃi/ | sm | elephant | elefante |
+| 8787 | gato | **o** gato | /ˈɡa.tu/ | /ˈɡa.tu/ | sm | cat | gato |
+| 8788 | girafa | **a** girafa | /ʒiˈɾa.fa/ | /xiˈɾa.fa/ | sf | giraffe | jirafa |
+| 8789 | golfinho | **o** golfinho | /ɡowˈfi.ɲu/ | /ɡowˈfi.ɲu/ | sm | dolphin | delfín |
+| 8790 | leopardo | **o** leopardo | /le.oˈpaɾ.du/ | /le.oˈpaɾ.du/ | sm | leopard | leopardo |
+| 8791 | macaco | **o** macaco | /maˈka.ku/ | /maˈka.ku/ | sm | monkey | mono |
+| 8792 | ovelha | **a** ovelha | /oˈve.ʎɐ/ | /oˈve.ʎɐ/ | sf | sheep | oveja |
+| 8793 | pássaro | **o** pássaro | /ˈpa.sa.ɾu/ | /ˈpa.sa.ɾu/ | sm | bird | pájaro |
+| 8794 | peixe | **o** peixe | /ˈpejʃɨ/ | /ˈpej.ʃi/ | sm | fish | pez |
+| 8795 | porco | **o** porco | /ˈpoɾ.ku/ | /ˈpoɾ.ku/ | sm | pig | cerdo |
+| 8796 | rinoceronte | **o** rinoceronte | /ri.no.se.ˈɾõ.tɨ/ | /hi.no.se.ˈɾõ.tʃi/ | sm | rhinoceros | rinoceronte |
+| 8797 | tartaruga | **a** tartaruga | /tar.taˈɾu.ɡɐ/ | /tar.taˈɾu.ɡa/ | sf | turtle | tortuga |
+| 8798 | tigre | **o** tigre | /ˈti.ɡɾi/ | /ˈti.ɡɾi/ | sm | tiger | tigre |
+| 8799 | tubarão | **o** tubarão | /tu.baˈɾɐ̃w̃/ | /tu.baˈɾãw̃/ | sm | shark | tiburón |
+| 8800 | vaca | **a** vaca | /ˈva.kɐ/ | /ˈva.ka/ | sf | cow | vaca |
+| 8801 | zebra | **a** zebra | /ˈze.bɾɐ/ | /ˈze.bɾa/ | sf | zebra | cebra |
+| 8802 | zoológico | **o** zoológico | /zo.oˈlɔʒiku/ | /so.oˈlɔʒiku/ | sm | zoo | zoológico |
+
+Let me know if there's anything else you need.
+
+| No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
+|-----|-----------|----------|----------|----------|----|----|----|
 | 8760 | mirtilo | **o** mirtilo | /miɾ.ˈti.lu/ | /miɾ.ˈti.lu/ | sm | blueberry | arándano azul |
 | 8761 | amora | **a** amora | /ɐ.ˈmo.ɾɐ/ | /ɐ.ˈmo.ɾɐ/ | sf | blackberry | mora |
 | 8762 | arando | **o** arando | /ɐ.ˈɾɐ̃.du/ | /a.ˈɾɐ̃.du/ | sm | cranberry | arándano rojo |

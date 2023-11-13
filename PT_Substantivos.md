@@ -3,6 +3,24 @@
 
 # SUBSTANTIVOS
 
+| No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
+|-----|-----------|----------|----------|----------|----|----|----|
+| 8620 | homem | **o** homem | /ˈɔ.mẽ/ | /ˈɔ.mẽ/ | sm | man | hombre |
+| 8621 | mulher | **a** mulher | /mu'ʎeɾ/ | /mu'ʎeɾ/ | sf | woman | mujer |
+| 8622 | pasta | **a** pasta | /ˈpaʃ.tɐ/ | /ˈpaʃ.tɐ/ | sf | folder | carpeta |
+| 8623 | quadro | **o** quadro | /ˈkwa.dɾu/ | /ˈkwa.dɾu/ | sm | board/picture | pizarra/cuadro |
+| 8624 | quadro-negro | **o** quadro-negro | /ˌkwɑː.droʊˈneɪɡ.roʊ/ | /ˌkwɑː.droʊˈneɪɡ.roʊ/ | sm | blackboard | pizarra negra |
+| 8625 | senhor | **o** senhor | /ˈse.ɲoɾ/ | /ˈse.ɲoɾ/ | sm | sir/Mr. | señor |
+| 8626 | senhora | **a** senhora | /se.ˈɲo.ɾɐ/ | /se.ˈɲo.ɾɐ/ | sf | madam/Mrs. | señora |
+| 8627 | rapaz | **o** rapaz | /ʁɐ.ˈpaʃ/ | /ʁɐ.ˈpaʒ/ | sm | boy | chico |
+| 8628 | rapariga | **a** rapariga | /ʁɐ.pɐ.ˈɾi.ɡɐ/ | /ʁɐ.pɐ.ˈɾi.ɡɐ/ | sf | girl | chica |
+| 8629 | menino | **o** menino | /mɨ.ˈni.nu/ | /mi.ˈni.nu/ | sm | boy (child) | niño |
+| 8630 | menina | **a** menina | /mɨ.ˈni.nɐ/ | /mi.ˈni.nɐ/ | sf | girl (child) | niña |
+| 8631 | criança | **a** criança | /kɾi.ˈɐ̃.sɐ/ | /kɾi.ˈɐ̃.sɐ/ | sf | child | niño/niña |
+| 8632 | amigo, amiga | **o** amigo, **a** amiga | /ɐˈmi.ɡu/, /ɐˈmi.ɡɐ/ | /ɐˈmi.ɡu/, /ɐˈmi.ɡɐ/ | sm, sf | friend | amigo/amiga |
+
+
+
 
 | No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
 |-----|-----------|----------|----------|----------|----|----|----|

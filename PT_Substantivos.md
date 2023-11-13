@@ -2,6 +2,15 @@
 # SUBSTANTIVOS
 
 
+| No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
+|-----|-----------|----------|----------|----------|----|----|----|
+| 8728 | andar | **o** andar | /ɐ̃.'daɾ/ | /ɐ̃.'daʁ/ | sm | floor (in a building) | piso (en un edificio) |
+| 8729 |         |           |          |          |    | floor | piso |
+| 8730 | cave | **a** cave | /ˈka.vɨ/ | /ˈka.vi/ | sf | cellar | sótano |
+| 8731 | sotão | **o** sotão | /sɔˈtɐ̃w̃/ | /soˈtɐ̃w̃/ | sm | attic | buhardilla |
+
+
+
 
 | No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
 |-----|-----------|----------|----------|----------|----|----|----|

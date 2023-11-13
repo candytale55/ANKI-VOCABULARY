@@ -6,6 +6,28 @@ Here is the completed table with the missing values:
 
 | No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
 |-----|-----------|----------|----------|----------|----|----|----|
+| 8855 | paz | **a** paz | /'paʒ/ | /'paʒ/ | sf | peace | paz |
+| 8856 | pé | **o** pé | /ˈpe/ | /ˈpe/ | sm | foot | pie |
+| 8857 |  |  |  |  |  |  |  |
+| 8858 | pera | **a** pera | /ˈpe.ɾɐ/ | /ˈpe.ɾɐ/ | sf | pear | pera |
+| 8859 | prato | **o** prato | /ˈpra.tu/ | /ˈpra.tu/ | sm | plate, dish | plato |
+| 8860 | queijo | **o** queijo | /ˈkej.ʒu/ | /ˈkej.ʒu/ | sm | cheese | queso |
+| 8861 | rins | **os** rins | /ˈɾĩʃ/ | /ˈɾĩʃ/ | smp | kidneys | riñones |
+| 8862 | selva | **a** selva | /ˈsɛlvə/ | /ˈsɛlvɐ/ | sf | jungle | selva |
+| 8863 | sina | **a** sina | /'si.nɐ/ | /'si.nɐ/ | sf | sign | señal |
+| 8864 | sonho | **o** sonho | /ˈsõ.ɲu/ | /ˈsõ.ɲu/ | sm | dream | sueño |
+| 8865 | tempo | **o** tempo | /ˈtẽ.pu/ | /ˈtẽ.pu/ | sm | time | tiempo |
+| 8866 | tundra | **a** tundra | /ˈtʌndrə/ | /ˈtʌndrɐ/ | sf | tundra | tundra |
+| 8867 | uva | **a** uva | /ˈu.vɐ/ | /ˈu.vɐ/ | sf | grapes | uva |
+| 8868 |  |  |  |  |  |  |  |
+| 8869 | vegetais | **os** vegetais | /vɛ.ʒɨˈtaɪ̯ʃ/ | /veʒeˈtaɪ̯s/ | smp | vegetables | verduras |
+| 8870 | vinho | **o** vinho | /ˈvi.ɲu/ | /ˈvi.ɲu/ | sm | wine | vino |
+| 8871 | animais | **os** animais | /ɐ.ni.ˈmaɪ̯ʃ/ | /a.ni.ˈmaɪ̯s/ | smp | animals | animales |
+
+Let me know if there's anything else you need.
+
+| No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
+|-----|-----------|----------|----------|----------|----|----|----|
 | 8827 | coisa | **a** coisa | /'koj.zɐ/ | /'koj.zɐ/ | sf | thing | cosa |
 | 8828 | computador | **o** computador | /kom.pu.taˈdoɾ/ | /kom.pu.taˈdoʁ/ | sm | computer | computadora, ordenador (ES) |
 | 8829 | deserto | **o** deserto | /deˈzɛɾtu/ | /deˈzɛʁtu/ | sm | desert | desierto |

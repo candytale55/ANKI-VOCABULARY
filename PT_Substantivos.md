@@ -3,6 +3,29 @@
 
 # SUBSTANTIVOS
 
+
+| No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
+|-----|-----------|----------|----------|----------|----|----|----|
+| 8636 | calças | **as** calças | /ˈkaɫ.sɐʃ/ | /ˈkaɫ.sɐʃ/ | sfp | trousers/pants | pantalones |
+| 8637 | casaco | **o** casaco | /kɐ.ˈsa.ku/ | /ka.ˈsa.ku/ | sm | coat | abrigo |
+| 8638 | saia | **a** saia | /ˈsaj.ɐ/ | /ˈsaj.ɐ/ | sf | skirt | falda |
+| 8639 | vestido | **o** vestido | /vɨʃ.ˈti.ðu/ | /veʃ.ˈti.du/ | sm | dress | vestido |
+| 8640 | camisa | **a** camisa | /kɐ.ˈmi.zɐ/ | /ka.ˈmi.zɐ/ | sf | shirt | camisa |
+| 8641 | sapatos | **os** sapatos | /sa.ˈpa.tuʃ/ | /sa.ˈpa.tuʃ/ | smp | shoes | zapatos |
+| 8642 | blusa | **a** blusa | /ˈblu.zɐ/ | /ˈblu.zɐ/ | sf | blouse | blusa |
+| 8643 | lenço | **o** lenço | /ˈlẽ.su/ | /ˈlẽ.su/ | sm | handkerchief | pañuelo |
+| 8644 | gravata | **a** gravata | /ɡɾɐ.ˈva.tɐ/ | /ɡɾa.ˈva.tɐ/ | sf | tie | corbata |
+| 8645 | cinto | **o** cinto | /ˈsĩ.tu/ | /ˈsĩ.tu/ | sm | belt | cinturón |
+| 8646 | árvore | **a** árvore | /ˈaɾ.vo.ɾɨ/ | /ˈaɾ.vo.ɾi/ | sf | tree | árbol |
+| 8647 | rua | **a** rua | /ˈʁu.ɐ/ | /ˈʁu.ɐ/ | sf | street | calle |
+| 8648 | carro | **o** carro | /ˈka.ʁu/ | /ˈka.ʁu/ | sm | car | coche |
+| 8649 | casa | **a** casa | /ˈka.zɐ/ | /ˈka.zɐ/ | sf | house | casa |
+| 8650 | apartamento | **o** apartamento | /ɐ.pɐɾ.ˈta.mẽ.tu/ | /a.paɾ.ˈta.mẽ.tu/ | sm | apartment | apartamento |
+
+
+
+
+
 ## WORK
 
 | No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |

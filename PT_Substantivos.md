@@ -6,6 +6,33 @@ Here is the completed table with the missing values:
 
 | No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
 |-----|-----------|----------|----------|----------|----|----|----|
+| 8803 | frango | **o** frango | /ˈfɾɐ̃.ɡu/ | /ˈfɾɐ̃.ɡu/ | sm | chicken | pollo |
+| 8804 | mosca | **a** mosca | /ˈmɔʃ.kɐ/ | /ˈmɔʃ.kɐ/ | sf | fly (insect) | mosca |
+| 8805 | coruja | **a** coruja | /koˈɾu.ʒɐ/ | /koˈɾu.ʒɐ/ | sf | owl | búho |
+| 8806 | pinguim | **o** pinguim | /pĩˈɡwĩ/ | /pĩˈɡwĩ/ | sm | penguin | pingüino |
+| 8807 | personalidade | **a** personalidade | /pɨɾ.sʊ.nɐ.li.dadɨ/ | /peʁ.so.na.li.dadʒi/ | sf | personality | personalidad |
+| 8808 | amanhecer | **o** amanhecer | /ɐ.mɐ.ɲɨˈsɛɾ/ | /ɐ.mɐ.ɲɨˈseʁ/ | sm | dawn, daybreak | amanecer |
+| 8810 | agricultura | **a** agricultura | /a.ɡri.kulˈtu.ɾɐ/ | /a.ɡri.kulˈtu.ɾɐ/ | sf | agriculture | agricultura |
+| 8811 | arte | **a** arte | /ˈaɾ.tɨ/ | /ˈaʁ.tʃi/ | sf | art | arte |
+| 8812 | construção | **a** construção | /kõʃ.tɾuˈsɐ̃w̃/ | /koʃ.tɾuˈsɐ̃w̃/ | sf | construction | construcción |
+| 8813 | ameixa | **a** ameixa | /ɐˈmej.ʃɐ/ | /ɐˈmej.ʃɐ/ | sf | plum | ciruela |
+| 8814 | banana | **a** banana | /baˈna.nɐ/ | /baˈna.nɐ/ | sf | banana | plátano, banana |
+| 8815 | barriga | **a** barriga | /baˈri.ɡɐ/ | /baˈri.ɡɐ/ | sf | belly | barriga |
+| 8816 | bexiga | **a** bexiga | /bɛ.ˈʃi.ɡɐ/ | /be.ˈʃi.ɡɐ/ | sf | bladder | vejiga |
+| 8817 | café da manhã | **o** café da manhã | /ˈka.fe dɐ maˈɲɐ̃/ | /ˈka.fe dɐ maˈɲɐ̃/ | sm | breakfast | desayuno |
+| 8818 | caminho | **o** caminho | /kaˈmiɲu/ | /kaˈmiɲu/ | sm | way (path, route) | camino |
+| 8819 | carta | **a** carta | /ˈkaɾ.tɐ/ | /ˈkaɾ.tɐ/ | sf | letter | carta |
+| 8820 | causa | **a** causa | /'kaw.zɐ/ | /'kaw.zɐ/ | sf | cause | causa |
+| 8821 | cereja | **a** cereja | /seˈɾe.ʒɐ/ | /seˈɾe.ʒɐ/ | sf | cherry | cereza |
+| 8822 | cerveja | **a** cerveja | /sɛɾˈve.ʒɐ/ | /seʁˈve.ʒɐ/ | sf | beer | cerveza |
+| 8823 | céu | **o** céu | /sew/ | /sew/ | sm | sky | cielo |
+| 8824 | chá | **o** chá | /ʃa/ | /ʃa/ | sm | tea | té |
+| 8825 | cinema | **o** cinema | /ˈsi.ni.mɐ/ | /ˈsi.ni.mɐ/ | sm | cinema | cine |
+
+Let me know if there's anything else you need.
+
+| No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
+|-----|-----------|----------|----------|----------|----|----|----|
 | 8782 | zoológico | **o** zoológico | /zo.oˈlɔʒiku/ | /zo.oˈlɔʒiku/ | sm | zoo | zoológico |
 | 8783 | cachorro | **o** cachorro | /kaˈʃɔ.ɾu/ | /kaˈʃɔ.ɾu/ | sm | dog | perro |
 | 8784 | cavalo | **o** cavalo | /kaˈva.lu/ | /kaˈva.lu/ | sm | horse | caballo |

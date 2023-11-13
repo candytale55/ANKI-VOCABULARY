@@ -6,6 +6,33 @@ Here is the completed table with the missing values:
 
 | No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
 |-----|-----------|----------|----------|----------|----|----|----|
+| 8760 | mirtilo | **o** mirtilo | /miɾ.ˈti.lu/ | /miɾ.ˈti.lu/ | sm | blueberry | arándano azul |
+| 8761 | amora | **a** amora | /ɐ.ˈmo.ɾɐ/ | /ɐ.ˈmo.ɾɐ/ | sf | blackberry | mora |
+| 8762 | arando | **o** arando | /ɐ.ˈɾɐ̃.du/ | /a.ˈɾɐ̃.du/ | sm | cranberry | arándano rojo |
+| 8763 | framboesa | **a** framboesa | /fɾɐ̃.bu.ˈe.zɐ/ | /fɾɐ̃.bo.ˈe.zɐ/ | sf | raspberry | frambuesa |
+| 8764 | boysenberry | **a** boysenberry | /ˈbɔɪ.zənˌbɛ.ri/ | /ˈbɔɪ.zənˌbɛ.ri/ | sf | boysenberry | boysenberry |
+| 8765 | groselha | **a** groselha | /ɡɾu.ˈzɛ.ʎɐ/ | /ɡɾo.ˈze.ʎɐ/ | sf | gooseberry | grosella |
+| 8766 | sabugueiro | **o** sabugueiro | /sɐ.bu.ˈɡej.ɾu/ | /sa.bu.ˈɡej.ɾu/ | sm | elderberry | saúco |
+| 8767 | airela | **a** airela | /ɐj.ˈɾɛ.lɐ/ | /aj.ˈɾɛ.lɐ/ | sf | lingonberry | arándano rojo |
+| 8768 | amora | **a** amora | /ɐ.ˈmo.ɾɐ/ | /ɐ.ˈmo.ɾɐ/ | sf | mulberry | mora |
+| 8769 | amorinha | **a** amorinha | /ɐ.mu.ˈɾi.ɲɐ/ | /ɐ.mu.ˈɾi.ɲɐ/ | sf | huckleberry | arándano |
+| 8770 | loganberry | **a** loganberry | /ˈlo.ɡənˌbɛ.ri/ | /ˈlo.ɡənˌbɛ.ri/ | sf | loganberry | loganberry |
+| 8771 | marionberry | **a** marionberry | /ˈmæ.ri.ənˌbɛ.ri/ | /ˈmæ.ri.ənˌbɛ.ri/ | sf | marionberry | marionberry |
+| 8772 | cloudberry | **a** cloudberry | /ˈklaʊdˌbɛ.ri/ | /ˈklaʊdˌbɛ.ri/ | sf | cloudberry | cloudberry |
+| 8773 | mirtilo | **o** mirtilo | /miɾ.ˈti.lu/ | /miɾ.ˈti.lu/ | sm | bilberry | arándano azul |
+| 8774 | substantivo | **o** substantivo | /su.βʃ.ˈtɐ̃.ti.vu/ | /su.bʃ.ˈtɐ̃.ti.vu/ | sm | noun | sustantivo |
+| 8775 | verbo | **o** verbo | /ˈvɛɾ.bu/ | /ˈvɛʁ.bu/ | sm | verb | verbo |
+| 8776 | adjetivo | **o** adjetivo | /ɐ.ʒɛ.ˈti.vu/ | /ɐ.ʒɛ.ˈti.vu/ | sm | adjective | adjetivo |
+| 8777 | advérbio | **o** advérbio | /ɐd.ˈvɛɾ.bi.u/ | /ad.ˈvɛʁ.bi.u/ | sm | adverb | adverbio |
+| 8778 | preposição | **a** preposição | /pɾɛ.po.si.ˈsɐ̃w̃/ | /pɾɛ.po.si.ˈsɐ̃w̃/ | sf | preposition | preposición |
+| 8779 | interjeição | **a** interjeição | /ˌĩ.tɨ.ɾʒɐ.ˈi.sɐ̃w̃/ | /ˌĩ.tɨ.ɾʒɐ.ˈi.sɐ̃w̃/ | sf | interjection | interjección |
+| 8780 | víbora | **a** víbora | /ˈvi.bo.ɾɐ/ | /ˈvi.bo.ɾɐ/ | sf | viper | víbora |
+| 8781 | serpente | **a** serpente | /sɨɾ.ˈpẽ.tɨ/ | /sɛʁ.ˈpẽ.tʃi/ | sf | serpent | serpiente |
+
+Let me know if there's anything else you need.
+
+| No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
+|-----|-----------|----------|----------|----------|----|----|----|
 | 8750 | lago | **o** lago | /ˈlɐɡu/ | /ˈlɐɡu/ | sm | lake | lago |
 | 8751 | oceano | **o** oceano | /oˈseɐ̃w/ | /oˈseɐ̃w/ | sm | ocean | océano |
 | 8752 | rio | **o** rio | /'ʁi.u/ | /'ʁi.u/ | sm | river | río |

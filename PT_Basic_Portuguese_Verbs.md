@@ -1,5 +1,31 @@
 | Portuguese | English | Spanish | French | German | Valencian | Italian |
 |------------|---------|---------|--------|--------|-----------|---------|
+| receber | to receive | recibir | recevoir | erhalten | rebre | ricevere |
+| resolver | to solve | resolver | résoudre | lösen | resoldre | risolvere |
+| responder | to answer | responder | répondre | antworten | respondre | rispondere |
+| resumir | to summarize | resumir | résumer | zusammenfassen | resumir | riassumere |
+| reunir | to gather | reunir | réunir | sammeln | reunir | riunire |
+| seguir | to follow | seguir | suivre | folgen | seguir | seguire |
+| sentir | to feel | sentir | sentir | fühlen | sentir | sentire |
+| sentir-se | to feel (oneself) | sentirse | se sentir | sich fühlen | sentir-se | sentirsi |
+| servir | to serve | servir | servir | servieren | servir | servire |
+| telefonar | to call (on the phone) | telefonear | téléphoner | telefonieren | telefonar | telefonare |
+| tocar | to touch/play | tocar | toucher/jouer | berühren/spielen | tocar | toccare |
+| tocar piano | to play the piano | tocar el piano | jouer du piano | Klavier spielen | tocar el piano | suonare il piano |
+| tomar | to take | tomar | prendre | nehmen | prendre | prendere |
+| trabalhar | to work | trabajar | travailler | arbeiten | treballar | lavorare |
+| traduzir | to translate | traducir | traduire | übersetzen | traduir | tradurre |
+| tratar | to treat | tratar | traiter | behandeln | tractar | trattare |
+| usar | to use | usar | utiliser | benutzen | usar | usare |
+| ver televisão | to watch television | ver la televisión | regarder la télévision | fernsehen | veure la televisió | guardare la televisione |
+| vestir | to dress | vestir | habiller | anziehen | vestir | vestire |
+| viajar | to travel | viajar | voyager | reisen | viatjar | viaggiare |
+| viver | to live | vivir | vivre | leben | viure | vivere |
+
+
+
+| Portuguese | English | Spanish | French | German | Valencian | Italian |
+|------------|---------|---------|--------|--------|-----------|---------|
 | ganhar | to win | ganar | gagner | gewinnen | guanyar | vincere |
 | ganhar | to earn | ganar | gagner | verdienen | guanyar | guadagnare |
 | girar | to spin | girar | tourner | drehen | girar | girare |
@@ -118,6 +144,29 @@
 | proteger | to protect | proteger | protéger | schützen | protegir | proteggere |
 
 
+| Portuguese | English | Spanish | French | German | Valencian | Italian |
+|------------|---------|---------|--------|--------|-----------|---------|
+| receber | to receive | recibir | recevoir | erhalten | rebre | ricevere |
+| resolver | to solve | resolver | résoudre | lösen | resoldre | risolvere |
+| responder | to answer | responder | répondre | antworten | respondre | rispondere |
+| resumir | to summarize | resumir | résumer | zusammenfassen | resumir | riassumere |
+| reunir | to gather | reunir | réunir | sammeln | reunir | riunire |
+| seguir | to follow | seguir | suivre | folgen | seguir | seguire |
+| sentir | to feel | sentir | sentir | fühlen | sentir | sentire |
+| sentir-se | to feel (oneself) | sentirse | se sentir | sich fühlen | sentir-se | sentirsi |
+| servir | to serve | servir | servir | servieren | servir | servire |
+| telefonar | to call (on the phone) | telefonear | téléphoner | telefonieren | telefonar | telefonare |
+| tocar | to touch/play | tocar | toucher/jouer | berühren/spielen | tocar | toccare |
+| tocar piano | to play the piano | tocar el piano | jouer du piano | Klavier spielen | tocar el piano | suonare il piano |
+| tomar | to take | tomar | prendre | nehmen | prendre | prendere |
+| trabalhar | to work | trabajar | travailler | arbeiten | treballar | lavorare |
+| traduzir | to translate | traducir | traduire | übersetzen | traduir | tradurre |
+| tratar | to treat | tratar | traiter | behandeln | tractar | trattare |
+| usar | to use | usar | utiliser | benutzen | usar | usare |
+| ver televisão | to watch television | ver la televisión | regarder la télévision | fernsehen | veure la televisió | guardare la televisione |
+| vestir | to dress | vestir | habiller | anziehen | vestir | vestire |
+| viajar | to travel | viajar | voyager | reisen | viatjar | viaggiare |
+| viver | to live | vivir | vivre | leben | viure | vivere |
 
 
 

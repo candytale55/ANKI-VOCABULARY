@@ -1,26 +1,29 @@
-| No. | Portuguese | Blank Col | IPA (PT) | IPA (BR) | Tipo de Palavra | English Word | English IPA | Spanish Word | Spanish IPA |
-|-----|------------|-----------|----------|---------|-----------------|--------------|-------------|--------------|-------------|
-|      | esquecer-se |     | /ɨʃ.kɨ.ˈseɾ sɨ/ | /is.kɨ.ˈseɾ.si/ | v | to forget | olvidarse |    |   |
-|      | perpassar |     | /pɨɾ.pɐˈsaɾ/ | /pɨɾ.pɐˈsaɾ/ | v | to cross | pasar |    |   |
-|      | ocupar-se |     | /ɔ.ku.ˈpaɾ/ | /o.ku.ˈpaʁ/ | v | to occupy | ocupar |    |   |
-|      | afastar-se de |     | /ɐ.fɐʃ.ˈtaɾ sɨ/ | /ɐ.fɐʃ.ˈtaʁ si/ | v | to distance oneself; to stand back | alejarse |    |   |
-|      | perceber |     | /pɨɾ.ˈsɛ.bɨɾ/ | /peɾ.ˈse.beʁ/ | v | to understand | entender |    |   |
-|      | ansiar |     | /ɐ̃.ʃi.ˈaɾ/ | /ɐ̃.ʃi.ˈaʁ/ | v | to long for | ansiar |    |   |
-|      | aceitar |     | /ɐ.sɐi.ˈtaɾ/ | /ɐ.sei.ˈtaʁ/ | v | to accept | aceptar |    |   |
-|      | lembrar-se |     |               |               | v | to remember oneself | recordarse |    |   |
-|      | dançar |     |               |               | v | to dance | bailar |    |   |
-|      | correr |     |               |               | v | to run | correr |    |   |
-|      | andar de bicicleta |     |               |               | v | to ride a bicycle | andar en bicicleta |    |   |
-|      | viajar |     |               |               | v | to travel | viajar |    |   |
-|      | tocar piano |     |               |               | v | to play the piano | tocar el piano |    |   |
-|      | tratar |     |               |               | v | to treat | tratar | cuidar |   |
-|      | fazer caminhadas |     |               |               | v | to hike | hacer caminatas |    |   |
-|      | fazer trilhas |     |               |               | v | to hike trails | hacer senderismo |    |   |
-|      | fazer exercício |     |               |               | v | to exercise | hacer ejercicio |    |   |
-|      | jogar futebol |     |               |               | v | to play football | jugar al fútbol |    |   |
-|      | pintar |     |               |               | v | to paint | pintar |    |   |
-|      | ir ao cinema |     |               |               | v | to go to the cinema | ir al cine |    |   |
-|      | ver televisão |     |               |               | v | to watch television | ver televisión |    |   |
+| No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES | 
+|-----|-----------|----------|----------|----------|----|----|----|
+| 8213 | Venezuela 	| **a** Venezuela | /vɨ.nɨ.'zwe.lɐ/ | /be.ne.'swɛ.lɐ/ | sf  | Venezuela | Venezuela | 
+| 8234 | Estados Unidos | **os** Estados Unidos | /ɨʃ.tɐ.'dus u.'ni.dus/ | /is.'ta.dus u.'ni.dus/ | smp | United States | Estados Unidos |
+| 8573 | Reino Unido 	| **o** Reino Unido | /'ʁɐj.nu u.'ni.du/ | /'ʁaj.nu u.'ni.du/ | sm | United Kingdom | Reino Unido |
+| 8870 | cheio, cheia | | /ˈʃɐj.u/, /ˈʃɐj.ɐ/ | /ˈʃej.u/, /ˈʃej.ɐ/ | adjm , adjf | full | lleno, llena |
+| 2023 | casada, casado | | /kɐ'zaðɐ/ , /kɐ'zaðu/ | /kɐ'za'da/ , /kɐ'za'du/ | adjm , adjf | married | casada, casado | 
+| 6859 | jantar | | /ʒɐ̃.'taɾ/ | /ʒɐ̃.'taʁ/ | v | to have dinner | cenar |
+| 6860 | encontrar | | /ẽ.kõ.'tɾaɾ/ | /ẽ.kõ.'tɾaʁ/ | v | to find | encontrar |
+| 8871 | chata, chato | | /ˈʃatɐ/, /ˈʃatu/ | /ˈʃatɐ/, /ˈʃatu/ | adjf , adjm | boring | aburrido, aburrida |
+| 8872 | nascido, nacida | | /nɐʃˈsidu/, /nɐˈsidɐ/ | /naʃˈsidu/, /naˈsidɐ/ | adjm , adjf | born | nacido, nacida |
+| 8873 | giro, gira | | /ˈʒi.ɾu/, /ˈʒi.ɾɐ/ | /ˈʒi.ɾu/, /ˈʒi.ɾɐ/ | adjm , adjf | cool | guay (ES) |
+| 8874 | tolo, tola | | /ˈtɔ.lu/, /ˈtɔ.lɐ/ | /ˈtɔ.lu/, /ˈtɔ.lɐ/ | adjm , adjf | foolish | tonto, tonta |
+| 8875 | bobo, boba | | /ˈbɔ.bu/, /ˈbɔ.bɐ/ | /ˈbɔ.bu/, /ˈbɔ.bɐ/ | adjm , adjf | silly | tonto, tonta |
+| 8876 | inteligente | | /ĩ.tɨɫiˈʒẽ.tɨ/ | /ĩ.tɨɫiˈʒẽ.tʃi/ | adj | intelligent | inteligente |
+| 8877 | ótimo, ótima | | /ˈɔ.ti.mu/, /ˈɔ.ti.mɐ/ | /ˈɔ.ti.mu/, /ˈɔ.ti.mɐ/ | adjm , adjf | great | bueno, buena |
+| 8878 | envergonhado, envergonhada | | /ẽ.vɨɾ.ɡõ.ˈja.ðu/, /ẽ.vɨɾ.ɡõ.ˈja.ðɐ/ | /ẽ.vɛɾ.ɡõ.ˈja.ðu/, /ẽ.vɛɾ.ɡõ.ˈja.ðɐ/ | adjm , adjf | ashamed | avergonzado, avergonzada |
+| 8879 | despiedado, despiedada | | /dɨʃ.pjɨ.ˈda.du/, /dɨʃ.pjɨ.ˈda.dɐ/ | /dɛʃ.pi.ɛ.ˈda.du/, /dɛʃ.pi.ɛ.ˈda.dɐ/ | adjm , adjf | unmerciful | despiadado, despiadada |
+| 8880 | moreno, morena | | | | adjm , adjf | dark-skinned | moreno, morena |
+| 8881 | elegante | | /ɨɫɨ'ɡɐt(ɨ)/ | /ɨɫɨ'ɡɐt(ɨ)/ | adj | thin | delgado, delgada |
+| 8882 | arrumado, arrumada | | | | adj | | |
+| 8883 | engraçado, engraçada | | | | adj | funny | gracioso, graciosa |
+| 8884 | legal | | | | adj | cool! | |
+| 8885 | barulhento, barulhenta | | | | adj | noisy | |
+| 8886 | possível | | /ˈpɔ.sivɛɫ/ | /ˈpɔ.si.vɛw̃/ | adj m/f | possible | |
+
 
 
 

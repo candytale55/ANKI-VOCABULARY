@@ -1,5 +1,36 @@
 | Portuguese | English | Spanish | French | German | Valencian | Italian |
 |------------|---------|---------|--------|--------|-----------|---------|
+| cheio, cheia | full | lleno, llena | plein, pleine | voll | ple, plena | pieno, piena |
+| chata, chato | boring | aburrida, aburrido | ennuyeux, ennuyeuse | langweilig | avorrit, avorrir | noioso, noiosa |
+| nascido, nacida | born | nacido, nacida | né, née | geboren | nascut, nascuda | nato, nata |
+| giro, gira | cute | lindo, linda | mignon, mignonne | niedlich | maco, maca | carino, carina |
+| tolo, tola | foolish | tonto, tonta | fou, folle | albern | tonto, tonta | sciocco, sciocca |
+| bobo, boba | silly | bobo, boba | bête | dumm | babau, baba | stupido, stupida |
+| inteligente | intelligent | inteligente | intelligent, intelligente | intelligent | intel·ligent, intel·ligent | intelligente |
+| ótimo, ótima | great | óptimo, óptima | génial, géniale | großartig | òptim, òptima | ottimo, ottima |
+| envergonhado, envergonhada | embarrassed | avergonzado, avergonzada | gêné, gênée | verlegen | avergonyat, avergonyada | imbarazzato, imbarazzata |
+| despiedado, despiedada | ruthless | despiadado, despiadada | impitoyable | gnadenlos | despietat, despietada | spietato, spietata |
+| moreno, morena | dark-skinned | moreno, morena | brun, brune | dunkelhäutig | moreno, morena | moreno, morena |
+| elegante (cuerpo) | elegant (body) | elegante (cuerpo) | élégant (corps) | elegant (Körper) | elegant (cos) | elegante (corpo) |
+| arrumado, arrumada | neat | arreglado, arreglada | soigné, soignée | ordentlich | arreglat, arreglada | ordinato, ordinata |
+| engraçado, engraçada | funny | gracioso, graciosa | drôle | lustig | divertit, divertida | divertente |
+| legal (informal) | cool | genial | cool | cool | guay, guai | figo, figa |
+| barulhento, barulhenta | noisy | ruidoso, ruidosa | bruyant, bruyante | laut | sorollós, sorollosa | rumoroso, rumorosa |
+| possível | possible | posible | possible | möglich | possible | possibile |
+| careca | bald | calvo, calva | chauve | glatzköpfig | calb, calba | calvo, calva |
+| loiro, loira | blonde | rubio, rubia | blond, blonde | blond | ros, rosa | biondo, bionda |
+| ruivo, ruiva | red-haired | pelirrojo, pelirroja | roux, rousse | rothaarig | roig, roja | rosso, rossa |
+| moreno, morena | dark-haired | moreno, morena | brun, brune | dunkelhaarig | moreno, morena | moreno, morena |
+| legal (lei) | legal | legal | légal, légale | legal | legal | legale |
+
+
+
+
+
+
+
+| Portuguese | English | Spanish | French | German | Valencian | Italian |
+|------------|---------|---------|--------|--------|-----------|---------|
 | alegre | cheerful | alegre | joyeux | fröhlich | alegre | allegro |
 | alto, alta | tall | alto, alta | grand | groß | alt, alta | alto, alta |
 | antipático, antipática | unfriendly | antipático, antipática | antipathique | unfreundlich | antipàtic, antipàtica | antipatico, antipatica |
@@ -51,6 +82,30 @@
 
 
 
+| Portuguese | English | Spanish | French | German | Valencian | Italian |
+|------------|---------|---------|--------|--------|-----------|---------|
+| cheio, cheia | full | lleno, llena | plein, pleine | voll | ple, plena | pieno, piena |
+| chata, chato | boring | aburrida, aburrido | ennuyeux, ennuyeuse | langweilig | avorrit, avorrir | noioso, noiosa |
+| nascido, nacida | born | nacido, nacida | né, née | geboren | nascut, nascuda | nato, nata |
+| giro, gira | cute | lindo, linda | mignon, mignonne | niedlich | maco, maca | carino, carina |
+| tolo, tola | foolish | tonto, tonta | fou, folle | albern | tonto, tonta | sciocco, sciocca |
+| bobo, boba | silly | bobo, boba | bête | dumm | babau, baba | stupido, stupida |
+| inteligente | intelligent | inteligente | intelligent, intelligente | intelligent | intel·ligent, intel·ligent | intelligente |
+| ótimo, ótima | great | óptimo, óptima | génial, géniale | großartig | òptim, òptima | ottimo, ottima |
+| envergonhado, envergonhada | embarrassed | avergonzado, avergonzada | gêné, gênée | verlegen | avergonyat, avergonyada | imbarazzato, imbarazzata |
+| despiedado, despiedada | ruthless | despiadado, despiadada | impitoyable | gnadenlos | despietat, despietada | spietato, spietata |
+| moreno, morena | dark-skinned | moreno, morena | brun, brune | dunkelhäutig | moreno, morena | moreno, morena |
+| elegante (cuerpo) | elegant (body) | elegante (cuerpo) | élégant (corps) | elegant (Körper) | elegant (cos) | elegante (corpo) |
+| arrumado, arrumada | neat | arreglado, arreglada | soigné, soignée | ordentlich | arreglat, arreglada | ordinato, ordinata |
+| engraçado, engraçada | funny | gracioso, graciosa | drôle | lustig | divertit, divertida | divertente |
+| legal (informal) | cool | genial | cool | cool | guay, guai | figo, figa |
+| barulhento, barulhenta | noisy | ruidoso, ruidosa | bruyant, bruyante | laut | sorollós, sorollosa | rumoroso, rumorosa |
+| possível | possible | posible | possible | möglich | possible | possibile |
+| careca | bald | calvo, calva | chauve | glatzköpfig | calb, calba | calvo, calva |
+| loiro, loira | blonde | rubio, rubia | blond, blonde | blond | ros, rosa | biondo, bionda |
+| ruivo, ruiva | red-haired | pelirrojo, pelirroja | roux, rousse | rothaarig | roig, roja | rosso, rossa |
+| moreno, morena | dark-haired | moreno, morena | brun, brune | dunkelhaarig | moreno, morena | moreno, morena |
+| legal (lei) | legal | legal | légal, légale | legal | legal | legale |
 
 
 

@@ -1,3 +1,35 @@
+| No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
+|-----|-----------|----------|----------|----------|----|----|----|
+| 8884 | legal (informal) | | /lɨˈɡaɫ/ | /lɨˈɡaw̃/ | adjm/f | cool | guay |
+| 8885 | barulhento, barulhenta | o barulhento, a barulhenta | /bɐ.ɾu.ˈʎẽ.tu/, /bɐ.ɾu.ˈʎẽ.tɐ/ | /ba.ɾu.ˈʎẽ.tu/, /ba.ɾu.ˈʎẽ.tɐ/ | adjm, adjf | noisy | ruidoso, ruidosa |
+| 8886 | possível | o possível, a possível | /ˈpɔ.sivɛɫ/ | /ˈpɔ.si.vɛw̃/ | adjm/f | possible | posible |
+| 8887 | quase | | /ˈkwɐ.zɨ/ | /ˈkwɐ.zi/ | adv | almost | casi |
+| 8888 | pouco | | /ˈpo.ku/ | /ˈpo.ku/ | adv | little, few | poco |
+| 8889 | adonde | | /ɐ.ˈdõ.dɨ/ | /ɐ.ˈdõ.dʒi/ | adv | where | adónde |
+| 8890 | embora | | /ẽ.ˈbo.ɾɐ/ | /ẽ.ˈbo.ɾɐ/ | adv | although, though, even though | aunque |
+| 8891 | também não | | /ˈtɐ̃.bẽ ˈnɐ̃w̃/ | /ˈtɐ̃.bẽ̞w̃ ˈnɐ̃w̃/ | adv | neither | tampoco |
+| 8892 | também | | /tɐ̃ˈbẽ/ | /tɐ̃ˈbẽ/ | adv | also | también |
+| 8893 | Beleza! | | /bɨˈle.zɐ/ | /bɨˈle.zɐ/ | frase | | ¡Qué bien! |
+| 8894 | Ótimo! | | /ˈɔ.ti.mu/ | /ˈɔ.ti.mɐ/ | interj | Great! | ¡Estupendo! |
+| 8895 | todo bem? | | /ˈto.du ˈbẽj̃/ | /ˈto.du ˈbẽj̃/ | phrase | all good? | ¿todo bien? |
+| 8896 | embora | | /ẽ.ˈbo.ɾɐ/ | /ẽ.ˈbo.ɾɐ/ | prep | although, though, even though | aunque |
+| 8897 | quem | | /ˈkẽ/ | /ˈkẽ/ | pron | who | quien |
+| 8898 | isto | | /ˈiʃ.tu/ | /ˈis.tu/ | pron | this | esto |
+| 8899 | isso | | /ˈi.su/ | /ˈi.su/ | pron | that | eso |
+| 8900 | aquilo | | /ɐˈki.lu/ | /ɐˈki.lu/ | pron | that | aquello |
+| 8901 | disto | | /ˈdiʃ.tu/ | /ˈdiʃ.tu/ | pron | this | de esto |
+
+
+
+
+
+
+
+
+
+
+
+
 | No. | Portuguese | + Artigo | IPA (PT) | IPA (BR) | TP | English Word | English IPA | Spanish Word | Spanish IPA |
 |-----|------------|----------|----------|----------|----|--------------|-------------|--------------|-------------|
 | 8870 | cheio, cheia | o cheio, a cheia | /ˈʃɐj.u/, /ˈʃɐj.ɐ/ | /ˈʃej.u/, /ˈʃej.ɐ/ | adjm , adjf | full | /fʊl/ | lleno, llena | /ˈʎeno/, /ˈʎena/ |

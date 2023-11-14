@@ -1,5 +1,51 @@
 | No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
 |-----|-----------|----------|----------|----------|----|----|----|
+|      | cheia, cheio | | /ˈʃɐj.ɐ/, /ˈʃɐj.u/ | /ˈʃej.ɐ/, /ˈʃej.u/ | adjf, adjm | full | crecida, lleno |
+|      | chata, chato | | /ˈʃatɐ/, /ˈʃatu/ | /ˈʃatɐ/, /ˈʃatu/ | adjf, adjm | boring | pesada, aburrido |
+| 8361 | dentro de    | | /'dẽtɾu dɨ/ | /'dẽtɾu dʒi/ | prep | inside | /ɪn'saɪd/ | dentro de | /'dentɾo ðe/ |
+| 8362 | ao lado de   | | /aw 'ladu dɨ/ | /aw 'ladu dʒi/ | prep | next to | /nɛkst tʊ/ | al lado de | /al 'laðo ðe/ |
+| 6861 | ganhar       | | /ɡɐ.'ɲaɾ/ | /ɡɐ.'ɲaʁ/ | v | to win | ganar |
+| 6862 | brincar      | | /bɾĩ.'kaɾ/ | /bɾĩ.'kaʁ/ | v | to play | jugar |
+| 6795 | viver        | | /vi.'veɾ/ | /vi.'veʁ/ | v | to live | vivir |
+| 6796 | correr       | | /ko.'ʁeɾ/ | /ko.'ʁeχ/ | v | to run | correr |
+| 8936 | esquecer-se  | | /ɨʃ.kɨ.ˈseɾ sɨ/ | /is.kɨ.ˈseɾ.si/ | v | to forget oneself | olvidarse |
+| 8937 | perpassar    | | /pɨɾ.pɐˈsaɾ/ | /pɨɾ.pɐˈsaɾ/ | v | to cross | pasar |
+| 8938 | ocupar       | | /ɔ.ku.ˈpaɾ/ | /o.ku.ˈpaʁ/ | v | to occupy | ocupar |
+| 8939 | afastar-se   | | /ɐ.fɐʃ.ˈtaɾ sɨ/ | /ɐ.fɐʃ.ˈtaʁ si/ | v | to move away | alejarse |
+| 8940 | perceber     | | /pɨɾ.ˈsɛ.bɨɾ/ | /peɾ.ˈse.beʁ/ | v | to perceive | percibir |
+| 8941 | ansiar       | | /ɐ̃.ʃi.ˈaɾ/ | /ɐ̃.ʃi.ˈaʁ/ | v | to long for | ansiar |
+| 8942 | aceitar      | | /ɐ.sɐi.ˈtaɾ/ | /ɐ.sei.ˈtaʁ/ | v | to accept | aceptar |
+| 8943 | lembrar-se   | | /lẽ.ˈbɾaɾ sɨ/ | /lẽ.ˈbɾaʁ si/ | v | to remember | recordar |
+| 8944 | dançar       | | /dɐ̃.ˈsaɾ/ | /dɐ̃.ˈsaʁ/ | v | to dance | bailar |
+| 8945 | correr       | | /ko.ˈɾɛɾ/ | /ko.ˈɾeχ/ | v | to run | correr |
+| 8946 | andar de bicicleta | | /ˈɐ̃.daɾ dɨ bi.si.ˈklɛ.tɐ/ | /ˈɐ̃.daʁ dʒi bi.si.ˈkle.tɐ/ | v | to ride a bike | andar en bicicleta |
+| 8947 | viajar       | | /vi.ɐ.ˈʒaɾ/ | /vi.ɐ.ˈʒaʁ/ | v | to travel | viajar |
+| 8948 | tocar piano  | | /to.ˈkaɾ pi.ˈɐ.nu/ | /to.ˈkaʁ pi.ˈɐ.nu/ | v | to play the piano | tocar el piano |
+| 8949 | tratar       | | /tɾɐ.ˈtaɾ/ | /tɾɐ.ˈtaʁ/ | v | to treat | tratar |
+| 8950 | fazer caminhadas | | /ˈfa.zɨɾ ˌka.mi.ˈɲa.dɐs/ | /ˈfa.ziɾ ˌka.mi.ˈɲa.dɐs/ | v | to go for walks | hacer caminatas |
+| 8951 | fazer trilhas | | /ˈfa.zɨɾ ˈtɾi.ʎɐs/ | /ˈfa.ziɾ ˈtɾi.ʎɐs/ | v | to hike | hacer senderismo |
+| 8952 | fazer exercício | | /ˈfa.zɨɾ ɨɡ.zɛɾ.ˈsisi.ɔ/ | /ˈfa.ziɾ iɡ.zɛɾ.ˈsi.si.o/ | v | to exercise | hacer ejercicio |
+| 8953 | jogar futebol | | /ʒo.ˈɡaɾ fu.ˈtɛ.bɔl/ | /ʒo.ˈɡaʁ fu.ˈtɛ.bol/ | v | to play football | jugar al fútbol |
+| 8954 | pintar       | | /ˈpĩ.taɾ/ | /ˈpĩ.taʁ/ | v | to paint | pintar |
+| 8955 | ir ao cinema | | /iɾ aw ˈsi.ɱ/ | /iχ aw ˈsi.ɱ/ | v | to go to the cinema | ir al cine |
+| 8956 | ver televisão | | /vɛɾ tɛ.lɨ.vi.zɐ̃w̃/ | /veɾ te.le.vi.zɐ̃w̃/ | v | to watch TV | ver televisión |
+| 8957 | ofrecer      | | /o.fɾɛ.ˈseɾ/ | /o.fɾe.ˈseʁ/ | v | to offer | ofrecer |
+| 8958 | achar       | | /ɐ.ˈʃaɾ/ | /ɐ.ˈʃaʁ/ | v | to find, to think | encontrar, pensar |
+
+
+
+
+
+
+
+
+
+
+
+
+
+| No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
+|-----|-----------|----------|----------|----------|----|----|----|
 | 8884 | legal (informal) | | /lɨˈɡaɫ/ | /lɨˈɡaw̃/ | adjm/f | cool | guay |
 | 8885 | barulhento, barulhenta | o barulhento, a barulhenta | /bɐ.ɾu.ˈʎẽ.tu/, /bɐ.ɾu.ˈʎẽ.tɐ/ | /ba.ɾu.ˈʎẽ.tu/, /ba.ɾu.ˈʎẽ.tɐ/ | adjm, adjf | noisy | ruidoso, ruidosa |
 | 8886 | possível | o possível, a possível | /ˈpɔ.sivɛɫ/ | /ˈpɔ.si.vɛw̃/ | adjm/f | possible | posible |

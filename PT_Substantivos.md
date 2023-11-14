@@ -1,8 +1,41 @@
 
 
 # SUBSTANTIVOS
-
 Here is the completed table:
+
+| No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
+|-----|-----------|----------|----------|----------|----|----|----|
+| 8213 | previdência | **a** previdência | /pɾɨvi'dẽ.si.ɐ/ | /pɾɨvi'dẽ.sjɐ/ | sf | foresight | previsión |
+| | cheia, cheio | **a** cheia, **o** cheio | /ˈʃɐj.ɐ/, /ˈʃɐj.u/ | /ˈʃej.ɐ/, /ˈʃej.u/ | sf, sm | flood (feminine), full (masculine) | crecida, lleno |
+| | chata, chato | **a** chata, **o** chato | /ˈʃatɐ/, /ˈʃatu/ | /ˈʃatɐ/, /ˈʃatu/ | sf, sm | boring (feminine), boring (masculine) | pesada, aburrido |
+| | nascido, nacida | **o** nascido, **a** nacida | /nɐʃˈsidu/, /nɐˈsidɐ/ | /naʃˈsidu/, /naˈsidɐ/ | sm, sf | born (masculine), born (feminine) | nacido, nacida |
+| | giro, gira | **o** giro, **a** gira | /ˈʒi.ɾu/, /ˈʒi.ɾɐ/ | /ˈʒi.ɾu/, /ˈʒi.ɾɐ/ | sm, sf | cool (masculine), cool (feminine) | guay, guay |
+| | tolo, tola | **o** tolo, **a** tola | /ˈtɔ.lu/, /ˈtɔ.lɐ/ | /ˈtɔ.lu/, /ˈtɔ.lɐ/ | sm, sf | foolish (masculine), foolish (feminine) | tonto, tonta |
+| | bobo, boba | **o** bobo, **a** boba | /ˈbɔ.bu/, /ˈbɔ.bɐ/ | /ˈbɔ.bu/, /ˈbɔ.bɐ/ | sm, sf | silly (masculine), silly (feminine) | tonto, tonta |
+| | inteligente | **o/a** inteligente | /ĩ.tɨɫiˈʒẽ.tɨ/ | /ĩ.tɨɫiˈʒẽ.tʃi/ | sm/f | intelligent | inteligente |
+| | ótimo, ótima | **o** ótimo, **a** ótima | /ˈɔ.ti.mu/, /ˈɔ.ti.mɐ/ | /ˈɔ.ti.mu/, /ˈɔ.ti.mɐ/ | sm, sf | great (masculine), great (feminine) | óptimo, óptima |
+| | envergonhado, envergonhada | **o** envergonhado, **a** envergonhada | /ẽ.vɨɾ.ɡõ.ˈja.ðu/, /ẽ.vɨɾ.ɡõ.ˈja.ðɐ/ | /ẽ.vɛɾ.ɡõ.ˈja.ðu/, /ẽ.vɛɾ.ɡõ.ˈja.ðɐ/ | sm, sf | ashamed (masculine), ashamed (feminine) | avergonzado, avergonzada |
+|  | possível | **o/a** possível | /ˈpɔ.sivɛɫ/ | /ˈpɔ.si.vɛw̃/ | adj m/f | possible | posible |
+| | despiedado, despiedada | **o** despiedado, **a** despiedada | /dɨʃ.pjɨ.ˈda.du/, /dɨʃ.pjɨ.ˈda.dɐ/ | /dɛʃ.pi.ɛ.ˈda.du/, /dɛʃ.pi.ɛ.ˈda.dɐ/ | adjm, adjf | unmerciful | despiadado, despiadada |
+| | traquéia | **a** traquéia | /tɾɐ.ˈkɛ.jɐ/ | /tɾa.ˈkɛ.jɐ/ | sf | trachea | tráquea |
+| | quase |  | /ˈkwɐ.zɨ/ | /ˈkwɐ.zi/ | adv | almost | casi |
+| | pouco |  | /ˈpo.ku/ | /ˈpo.ku/ | adv | little | poco |
+| | adonde |  | /ɐ.ˈdõ.dɨ/ | /ɐ.ˈdõ.dʒi/ | adv | where | adónde |
+| | quem |  | /ˈkẽ/ | /ˈkẽ/ | pron | who | quien |
+| | isto |  | /ˈiʃ.tu/ | /ˈis.tu/ | pron | this | esto |
+| | isso |  | /ˈi.su/ | /ˈi.su/ | pron | that | eso |
+| | aquilo |  | /ɐˈki.lu/ | /ɐˈki.lu/ | pron | that | aquello |
+| | disto |  | /ˈdiʃ.tu/ | /ˈdiʃ.tu/ | pron | this | de esto |
+| | embora | **a** embora | /ẽ.ˈbo.ɾɐ/ | /ẽ.ˈbo.ɾɐ/ | prep | although | aunque |
+| | embora |  | /ẽ.ˈbo.ɾɐ/ | /ẽ.ˈbo.ɾɐ/ | adv | away | aunque |
+| | todo bem? |  | /ˈto.du ˈbẽj̃/ | /ˈto.du ˈbẽj̃/ | phrase | all good? | ¿todo bien? |
+| | esquecer-se | **de** esquecer-se | /ɨʃ.kɨ.ˈseɾ sɨ/ | /is.kɨ.ˈseɾ.si/ | v | to forget | olvidarse |
+| | perpassar |  | /pɨɾ.pɐˈsaɾ/ | /pɨɾ.pɐˈsaɾ/ | v | to cross | pasar |
+| | ocupar | **se** ocupar | /ɔ.ku.ˈpaɾ/ | /o.ku.ˈpaʁ/ | v | to occupy | ocupar |
+| | afastar-se | **de** afastar-se | /ɐ.fɐʃ.ˈtaɾ sɨ/ | /ɐ.fɐʃ.ˈtaʁ si/ | v | to distance oneself; to stand back | alejarse |
+| | perceber |  | /pɨɾ.ˈsɛ.bɨɾ/ | /peɾ.ˈse.beʁ/ | v | to understand | entender |
+| | ansiar |  | /ɐ̃.ʃi.ˈaɾ/ | /ɐ̃.ʃi.ˈaʁ/ | v | to long for | ansiar |
+| | aceitar |  | /ɐ.sɐi.ˈtaɾ/ | /ɐ.sei.ˈtaʁ/ | v | to accept | aceptar |
 
 | No. | English Word | IPA (US) | IPA (UK) | TP |
 |-----|--------------|----------|----------|----|

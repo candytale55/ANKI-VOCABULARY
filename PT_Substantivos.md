@@ -1,7 +1,30 @@
 
 
 # SUBSTANTIVOS
-Here is the completed table:
+
+
+## Colores
+
+| No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
+|-----|-----------|----------|----------|----------|----|----|----|
+|     | preto, preta | **o/a** preto, **a** preta | /ˈpɾɛ.tu/, /ˈpɾɛ.tɐ/ | /ˈpɾɛ.tu/, /ˈpɾɛ.tɐ/ | sm, sf | black (masculine), black (feminine) | negro, negra |
+|     | negro, negra | **o** negro, **a** negra | /ˈnɛ.ɡɾu/, /ˈnɛ.ɡɾɐ/ | /ˈne.ɡɾu/, /ˈne.ɡɾɐ/ | sm, sf | black (masculine), black (feminine) | negro, negra |
+|     | branco | **o** branco | /ˈbɾɐ̃.ku/ | /ˈbɾɐ̃.ku/ | sm | white | blanco |
+|     | amarelho | **o** amarelho | /ɐ.mɐˈɾɛ.ʎu/ | /ɐ.mɐˈɾɛ.ʎu/ | sm | yellow | amarillo |
+|     | azul escuro | **o** azul escuro | /ɐˈzuw ɨʃˈku.ɾu/ | /ɐˈzuw ɨʃˈku.ɾu/ | sm | dark blue | azul oscuro |
+|     | azul claro | **o** azul claro | /ɐˈzuw ˈkla.ɾu/ | /ɐˈzuw ˈkla.ɾu/ | sm | light blue | azul claro |
+|     | azul | **o** azul | /ɐˈzuw/ | /ɐˈzuw/ | sm | blue | azul |
+|     | verde | **o** verde | /ˈvɛɾ.ðɨ/ | /ˈvɛɾ.ði/ | sm | green | verde |
+|     | cinzento | **o** cinzento | /sĩ.ˈzẽ.tu/ | /sĩ.ˈzẽ.tu/ | sm | gray | gris |
+|     | vermelho | **o** vermelho | /vɨɾ.ˈmɛ.ʎu/ | /veʁ.ˈmɛ.ʎu/ | sm | red | rojo |
+|     | rosa | **o** rosa | /ˈʁo.zɐ/ | /ˈʁo.zɐ/ | sm | pink | rosa |
+|     | castanho | **o** castanho | /kɐʃˈtɐ.ɲu/ | /kɐʃˈtɐ.ɲu/ | sm | brown | marrón |
+|     | marrom | **o** marrom | /mɐ.ˈʁõ/ | /ma.ˈʁõ/ | sm | brown | marrón |
+|     | laranja | **o** laranja | /lɐ.ˈɾɐ̃.ʒɐ/ | /la.ˈɾã.ʒɐ/ | sm | orange | naranja |
+|     | roxo | **o** roxo | /ˈʁoʃu/ | /ˈʁoʃu/ | sm | purple | morado |
+
+
+
 
 | No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
 |-----|-----------|----------|----------|----------|----|----|----|

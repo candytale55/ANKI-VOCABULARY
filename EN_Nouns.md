@@ -1,5 +1,25 @@
 
-Here is the completed markdown table with the missing values for the English words:
+| No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
+|-----|-----------|----------|----------|----------|----|----|----|
+|      | cheia, cheio | | /ˈʃɐj.ɐ/, /ˈʃɐj.u/ | /ˈʃej.ɐ/, /ˈʃej.u/ | adjf, adjm | full | crecida, lleno |
+|      | chata, chato | | /ˈʃatɐ/, /ˈʃatu/ | /ˈʃatɐ/, /ˈʃatu/ | adjf, adjm | boring | pesada, aburrido |
+| 8361 | dentro de    | | /'dẽtɾu dɨ/ | /'dẽtɾu dʒi/ | prep | inside | /ɪn'saɪd/ | dentro de | /'dentɾo ðe/ |
+| 8362 | ao lado de   | | /aw 'ladu dɨ/ | /aw 'ladu dʒi/ | prep | next to | /nɛkst tʊ/ | al lado de | /al 'laðo ðe/ |
+| 6861 | ganhar       | | /ɡɐ.'ɲaɾ/ | /ɡɐ.'ɲaʁ/ | v | to win | ganar |
+| 6862 | brincar      | | /bɾĩ.'kaɾ/ | /bɾĩ.'kaʁ/ | v | to play | jugar |
+| 6795 | viver        | | /vi.'veɾ/ | /vi.'veʁ/ | v | to live | vivir |
+| 6796 | correr       | | /ko.'ʁeɾ/ | /ko.'ʁeχ/ | v | to run | correr |
+| 8959 | careca       | | /ka.ˈɾɛ.ka/ | /ka.ˈɾɛ.ka/ | sm/f | bald | calvo |
+| 8960 | Que fixe!    | | /kɛ ˈfiʃ/ | /ke ˈfiʃi/ | frase | How cool! | ¡Qué chévere! |
+| 8961 | Que giro!    | | /kɛ ˈʒi.ɾu/ | /ke ˈʒi.ɾu/ | frase | How cool! | ¡Qué chulo! |
+| 8962 | loiro, loira | | /ˈlɔj.ɾu/, /ˈlɔj.ɾɐ/ | /ˈlɔj.ɾu/, /ˈlɔj.ɾɐ/ | adjm, adjf | blonde | rubio, rubia |
+| 8963 | ruivo, ruiva | | /ˈʁuj.vu/, /ˈʁuj.vɐ/ | /ˈʁu.i.vu/, /ˈʁu.i.vɐ/ | adjm, adjf | red-haired | pelirrojo, pelirroja |
+| 8964 | moreno, morena | | /mo.ˈɾe.nu/, /mo.ˈɾe.nɐ/ | /mo.ˈɾe.nu/, /mo.ˈɾe.nɐ/ | adjm, adjf | dark-haired | moreno, morena |
+| 8965 | sardas       | | /ˈsaɾ.dɐs/ | /ˈsaʁ.dɐs/ | sfp | freckles | pecas |
+| 8966 | touro, toira | | /ˈto.ɾu/, /ˈto.i.ɾɐ/ | /ˈto.ɾu/, /ˈto.i.ɾɐ/ | sm, sf | bull | toro |
+| 8967 | ouro, oira   | | /ˈo.wɾu/, /ˈo.i.ɾɐ/ | /ˈo.wɾu/, /ˈo.i.ɾɐ/ | sm, sf | gold | oro |
+| 8968 | legal (lei)  | | /lɨ.ˈɡaɫ/ | /lɪ.ˈɡaw/ | adj | legal | legal |
+
 
 | No. | Word | IPA (US) | IPA (UK) | TP |
 | --- | ---- | -------- | -------- | -- |

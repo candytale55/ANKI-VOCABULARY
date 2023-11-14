@@ -1,3 +1,26 @@
+| Portuguese         | English           | Spanish           | French            | German            | Valencian          | Italian            |
+|--------------------|-------------------|-------------------|-------------------|-------------------|--------------------|---------------------|
+| cheio, cheia       | full              | lleno, llena      | plein, pleine     | voll              | ple, plena         | pieno, piena       |
+| chata, chato       | boring            | aburrido, aburrida| ennuyeux, ennuyeuse| langweilig        | avorrit, avorrida  | noioso, noiosa     |
+| nascido, nacida    | born              | nacido, nacida    | né, née           | geboren           | nascut, nascuda   | nato, nata         |
+| giro, gira         | cool              | guay              | cool              | cool              | guai              | figo, figa         |
+| tolo, tola         | foolish           | tonto, tonta      | fou, folle        | albern            | tolt, tolta       | sciocco, sciocca   |
+| bobo, boba         | silly             | tonto, tonta      | bête              | albern            | boig, boiga       | sciocco, sciocca   |
+| inteligente        | intelligent       | inteligente       | intelligent, intelligente| intelligent       | intel·ligent      | intelligente       |
+| ótimo, ótima       | great             | bueno, buena      | génial, géniale   | großartig         | òptim, òptima     | ottimo, ottima    |
+| envergonhado, envergonhada | ashamed  | avergonzado, avergonzada| honteux, honteuse| beschämt          | avergonyit, avergonyida| imbarazzato, imbarazzata |
+| despiedado, despiedada | unmerciful    | despiadado, despiadada| impitoyable   | erbarmungslos     | despietat, despietada  | spietato, spietata |
+| moreno, morena     | dark-skinned      | moreno, morena    | brun, brune       | dunkelhäutig      | moreno, morena    | scuro, scura       |
+| elegante           | thin              | delgado, delgada  | mince             | dünn              | prim              | elegante           |
+| arrumado, arrumada | tidy              | arreglado, arreglada| bien habillé, bien habillée| ordentlich   | endreçat, endreçada  | sistemato, sistemata|
+| engraçado, engraçada | funny         | gracioso, graciosa| drôle             | lustig            | divertit, divertida   | divertente        |
+| legal              | cool              | legal             | cool              | cool              | legal             | legale            |
+| barulhento, barulhenta | noisy         | ruidoso, ruidosa  | bruyant, bruyante| laut              | sorollós, sorollosa   | rumoroso, rumorosa|
+| possível          | possible          | posible           | possible          | möglich           | possible          | possibile         |
+| quase             | almost            | casi              | presque           | fast              | gairebé           | quasi             |
+| pouco             | little, few        | poco              | peu               | wenig             | poc               | poco              |
+
+
 
 
 | Portuguese         | English           | Spanish           | French            | German            | Valencian          | Italian            |

@@ -1,3 +1,34 @@
+| Portuguese | English | Spanish | French | German | Valencian | Italian |
+|------------|---------|---------|--------|--------|-----------|---------|
+| adonde     | where   | adónde  | où     | wo     | on        | dove    |
+| embora     | although, though, even though | aunque | bien que | obwohl | encara que | anche se |
+| também não | neither | tampoco | non plus | auch nicht | tampoc | neanche |
+| também     | also    | también | aussi  | auch   | també     | anche   |
+| Beleza!    | Beauty! | ¡Qué bien! | Super ! | Schön! | Bé!       | Bella!  |
+| Ótimo!     | Great!  | ¡Estupendo! | Génial! | Toll!  | Òptim!    | Ottimo! |
+| todo bem?  | all good? | ¿todo bien? | tout va bien ? | alles klar? | tot bé?   | tutto bene? |
+| embora     | although, though, even though | aunque | bien que | obwohl | encara que | anche se |
+| quem       | who     | quien   | qui    | wer    | qui       | chi     |
+| isto       | this    | esto    | ceci   | das   | això      | questo  |
+| isso       | that    | eso     | cela   | das   | açò      | quello  |
+| aquilo     | that    | aquello | cela   | das   | allò     | quello  |
+| disto      | this    | de esto | de ceci | davon | d'això   | di questo |
+| careca     | bald    | calvo   | chauve | kahl  | calb      | calvo   |
+| Que fixe!  | How cool! | ¡Qué chévere! | C'est cool ! | Wie cool! | Què xulo! | Che figo! |
+| Que giro!  | How cool! | ¡Qué chulo! | C'est génial ! | Wie geil! | Què guai! | Che figo! |
+| loiro, loira | blonde (male), blonde (female) | rubio, rubia | blond, blonde | blond, blondine | ros, rossa | biondo, bionda |
+| ruivo, ruiva | red-haired (male), red-haired (female) | pelirrojo, pelirroja | roux, rousse | rothaarig, rothaarige | roig, roja | rosso, rossa |
+| moreno, morena | dark-haired (male), dark-haired (female) | moreno, morena | brun, brune | dunkelhaarig, dunkelhaarige | moren, morena | moro, mora |
+| sardas     | freckles | pecas   | taches de rousseur | Sommersprossen | taques de sol | lentiggini |
+| touro, toira | bull    | toro    | taureau | Stier  | toro      | toro    |
+| ouro, oira  | gold    | oro     | or     | Gold  | or        | oro     |
+
+
+
+
+
+
+
 | Portuguese         | English           | Spanish           | French            | German            | Valencian          | Italian            |
 |--------------------|-------------------|-------------------|-------------------|-------------------|--------------------|---------------------|
 | cheio, cheia       | full              | lleno, llena      | plein, pleine     | voll              | ple, plena         | pieno, piena       |

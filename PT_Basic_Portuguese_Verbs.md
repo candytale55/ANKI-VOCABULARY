@@ -1,30 +1,31 @@
 | Portuguese | English | Spanish | French | German | Valencian | Italian |
 |------------|---------|---------|--------|--------|-----------|---------|
-| conhecer | to know | conocer | connaître | kennen | conéixer | conoscere |
-| conseguir | to achieve | conseguir | réussir | schaffen | aconseguir | ottenere |
-| correr | to run | correr | courir | rennen | córrer | correre |
-| correr | to run | correr | courir | rennen | córrer | correre |
-| correr | to run | correr | courir | rennen | córrer | correre |
-| corrigir | to correct | corregir | corriger | korrigieren | corregir | correggere |
-| dançar | to dance | bailar | danser | tanzen | ballar | ballare |
-| decidir | to decide | decidir | décider | entscheiden | decidir | decidere |
-| descer | to go down | bajar | descendre | hinuntergehen | baixar | scendere |
-| despir | to undress | desvestir | déshabiller | ausziehen | desvestir | spogliare |
-| dirigir | to drive | conducir | conduire | fahren | conduir | guidare |
-| discutir | to discuss | discutir | discuter | diskutieren | discutir | discutere |
-| dividir | to divide | dividir | diviser | teilen | dividir | dividere |
-| encontrar | to find | encontrar | trouver | finden | trobar | trovare |
-| ensinar | to teach | enseñar | enseigner | lehren | ensenyar | insegnare |
-| escrever | to write | escribir | écrire | schreiben | escriure | scrivere |
-| esquecer | to forget | olvidar | oublier | vergessen | oblidar | dimenticare |
-| esquecer-se | to forget oneself | olvidarse | oublier | sich vergessen | oblidar-se | dimenticarsi |
-| estudar | to study | estudiar | étudier | studieren | estudiar | studiare |
-| falar | to speak | hablar | parler | sprechen | parlar | parlare |
-| fazer caminhadas | to hike | hacer senderismo | faire de la randonnée | wandern | fer caminades | fare escursioni |
-| fazer exercício | to exercise | hacer ejercicio | faire de l'exercice | trainieren | fer exercici | fare esercizio |
-| fazer trilhas | to hike trails | hacer senderismo | faire de la randonnée | wandern | fer sendes | fare sentieri |
-| fechar | to close | cerrar | fermer | schließen | tancar | chiudere |
-| ficar | to stay | quedarse | rester | bleiben | quedar-se | rimanere |
+| ganhar | to win | ganar | gagner | gewinnen | guanyar | vincere |
+| ganhar | to earn | ganar | gagner | verdienen | guanyar | guadagnare |
+| girar | to spin | girar | tourner | drehen | girar | girare |
+| gostar | to like | gustar | aimer | mögen | agradar | piacere |
+| introduzir | to introduce | introducir | introduire | einführen | introduir | introdurre |
+| ir ao cinema | to go to the movies | ir al cine | aller au cinéma | ins Kino gehen | anar al cinema | andare al cinema |
+| jantar | to have dinner | cenar | dîner | zu Abend essen | sopar | cenare |
+| jogar | to play | jugar | jouer | spielen | jugar | giocare |
+| jogar futebol | to play football | jugar al fútbol | jouer au football | Fußball spielen | jugar a futbol | giocare a calcio |
+| lavar | to wash | lavar | laver | waschen | rentar | lavare |
+| lembrar-se | to remember | recordar | se rappeler | sich erinnern | recordar-se | ricordarsi |
+| levantar | to lift | levantar | lever | heben | aixecar | sollevare |
+| levantar-se | to get up | levantarse | se lever | aufstehen | llevar-se | alzarsi |
+| morar | to live | vivir | habiter | wohnen | viure | abitare |
+| ocupar | to occupy | ocupar | occuper | besetzen | ocupar | occupare |
+| ofrecer | to offer | ofrecer | offrir | anbieten | oferir | offrire |
+| pagar | to pay | pagar | payer | zahlen | pagar | pagare |
+| parecer | to seem | parecer | sembler | scheinen | semblar | sembrare |
+| partir | to leave | partir | partir | abreisen | partir | partire |
+| perceber | to perceive | percibir | percevoir | wahrnehmen | percebre | percepire |
+| permitir | to permit | permitir | permettre | erlauben | permetre | permettere |
+| perpassar | to pass through | pasar | passer | durchqueren | passar | passare |
+| pintar | to paint | pintar | peindre | malen | pintar | dipingere |
+| preferir | to prefer | preferir | préférer | bevorzugen | preferir | preferire |
+| proteger | to protect | proteger | protéger | schützen | protegir | proteggere |
+
 
 
 
@@ -88,6 +89,33 @@
 
 
 
+| Portuguese | English | Spanish | French | German | Valencian | Italian |
+|------------|---------|---------|--------|--------|-----------|---------|
+| ganhar | to win | ganar | gagner | gewinnen | guanyar | vincere |
+| ganhar | to earn | ganar | gagner | verdienen | guanyar | guadagnare |
+| girar | to spin | girar | tourner | drehen | girar | girare |
+| gostar | to like | gustar | aimer | mögen | agradar | piacere |
+| introduzir | to introduce | introducir | introduire | einführen | introduir | introdurre |
+| ir ao cinema | to go to the movies | ir al cine | aller au cinéma | ins Kino gehen | anar al cinema | andare al cinema |
+| jantar | to have dinner | cenar | dîner | zu Abend essen | sopar | cenare |
+| jogar | to play | jugar | jouer | spielen | jugar | giocare |
+| jogar futebol | to play football | jugar al fútbol | jouer au football | Fußball spielen | jugar a futbol | giocare a calcio |
+| lavar | to wash | lavar | laver | waschen | rentar | lavare |
+| lembrar-se | to remember | recordar | se rappeler | sich erinnern | recordar-se | ricordarsi |
+| levantar | to lift | levantar | lever | heben | aixecar | sollevare |
+| levantar-se | to get up | levantarse | se lever | aufstehen | llevar-se | alzarsi |
+| morar | to live | vivir | habiter | wohnen | viure | abitare |
+| ocupar | to occupy | ocupar | occuper | besetzen | ocupar | occupare |
+| ofrecer | to offer | ofrecer | offrir | anbieten | oferir | offrire |
+| pagar | to pay | pagar | payer | zahlen | pagar | pagare |
+| parecer | to seem | parecer | sembler | scheinen | semblar | sembrare |
+| partir | to leave | partir | partir | abreisen | partir | partire |
+| perceber | to perceive | percibir | percevoir | wahrnehmen | percebre | percepire |
+| permitir | to permit | permitir | permettre | erlauben | permetre | permettere |
+| perpassar | to pass through | pasar | passer | durchqueren | passar | passare |
+| pintar | to paint | pintar | peindre | malen | pintar | dipingere |
+| preferir | to prefer | preferir | préférer | bevorzugen | preferir | preferire |
+| proteger | to protect | proteger | protéger | schützen | protegir | proteggere |
 
 
 

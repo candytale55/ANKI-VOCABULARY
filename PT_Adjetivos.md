@@ -23,6 +23,31 @@
 
 
 
+| Portuguese | English | Spanish | French | German | Valencian | Italian |
+|------------|---------|---------|--------|--------|-----------|---------|
+| viver | to live | vivir | vivre | leben | viure | vivere |
+| gordo, gorda | fat | gordo, gorda | gros, grosse | dick | gras, grassa | grasso, grassa |
+| introvertido, introvertida | introverted | introvertido, introvertida | introverti, introvertie | introvertiert | introvertit, introvertida | introverso, introversa |
+| largo, larga | wide | largo, larga | large | breit | ample, ampla | largo, larga |
+| liso, lisa | smooth | liso, lisa | lisse | glatt | llis, llosa | liscio, liscia |
+| longa, longo | long | larga, largo | long, longue | lang | llarg, llarga | lungo, lunga |
+| louro, loura | blonde | rubio, rubia | blond, blonde | blond | ros, rosa | biondo, bionda |
+| magro, magra | thin | delgado, delgada | mince | dünn | prim, prima | magro, magra |
+| moreno, morena | dark-skinned | moreno, morena | brun, brune | dunkelhäutig | moreno, morena | moreno, morena |
+| nova, novo | new | nueva, nuevo | nouvelle, nouveau | neu | nova, nou | nuovo, nuova |
+| pequena, pequeno | small | pequeña, pequeño | petite, petit | klein | petita, petit | piccolo, piccola |
+| preguiçoso, preguiçosa | lazy | perezoso, perezosa | paresseux, paresseuse | faul | mandrós, mandrosa | pigro, pigra |
+| reformado, reformada (BR) | retired | jubilado, jubilada | retraité, retraitée | pensioniert | jubilat, jubilada | pensionato, pensionata |
+| ruivo, ruiva | red-haired | pelirrojo, pelirroja | roux, rousse | rothaarig | roig, roja | rosso, rossa |
+| sério, seria | serious | serio, seria | sérieux, sérieuse | ernst | seriós, seria | serio, seria |
+| simpático, simpática | friendly | simpático, simpática | sympathique | freundlich | simpàtic, simpàtica | simpatico, simpatica |
+| sociável | sociable | sociable | sociable | gesellig | sociable | socievole |
+| solteiro, solteira | single | soltero, soltera | célibataire | ledig | solter, soltera | single |
+| sozinho, sozinha | alone | solo, sola | seul, seule | allein | sol, sola | solo, sola |
+| tímido, tímida | shy | tímido, tímida | timide | schüchtern | tímid, tímida | timido, timida |
+| trabalhador, trabalhadora | hardworking | trabajador, trabajadora | travailleur, travailleuse | fleißig | treballador, treballadora | lavoratore, lavoratrice |
+| velho, velha | old | viejo, vieja | vieux, vieille | alt | vell, vella | vecchio, vecchia |
+| viúvo, viúva | widowed | viudo, viuda | veuf, veuve | verwitwet | vidu, vidua | vedovo, vedova |
 
 
 

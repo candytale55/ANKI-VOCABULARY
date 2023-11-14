@@ -2,7 +2,25 @@
 
 # SUBSTANTIVOS
 
-Here is the completed table with the missing values:
+Here is the completed table:
+
+| No. | English Word | IPA (US) | IPA (UK) | TP |
+|-----|--------------|----------|----------|----|
+| 8434 | home | /hoʊm/ | /həʊm/ | n |
+| 8178 | hearth, chimney | /hɑrθ, ˈtʃɪmni/ | /hɑːθ, ˈtʃɪmni/ | n |
+| 7003 | home | /hoʊm/ | /həʊm/ | n |
+|  | address | /əˈdrɛs/ | /əˈdrɛs/ | n |
+|  | address | /əˈdrɛs/ | /əˈdrɛs/ | n |
+|  | interview | /ˈɪntərˌvju/ | /ˈɪntəvjuː/ | n |
+|  | question | /ˈkwɛsʧən/ | /ˈkwɛsʧən/ | n |
+|  | race | /reɪs/ | /reɪs/ | n |
+|  | fire | /faɪər/ | /faɪər/ | n |
+|  | evening, end of the day | /ˈivnɪŋ/, /ɛvənɪŋ/ | /ˈiːv(ə)nɪŋ/ | n |
+|  | butterfly | /ˈbʌtərˌflaɪ/ | /ˈbʌtəflaɪ/ | n |
+|  | lip, pout | /lɪp/ | /laɪp/ | n |
+|  | director (film) | /dɪˈrɛktər/ | /dɪˈrɛktə/ | n |
+|  | Spaniards | /ˈspæniərdz/ | /ˈspæniədz/ | nmp |
+
 
 | No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
 |-----|-----------|----------|----------|----------|----|----|----|

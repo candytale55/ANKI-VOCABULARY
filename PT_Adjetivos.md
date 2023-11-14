@@ -1,3 +1,36 @@
+| Portuguese | English | Spanish | French | German | Valencian | Italian |
+|------------|---------|---------|--------|--------|-----------|---------|
+| alegre | cheerful | alegre | joyeux | fröhlich | alegre | allegro |
+| alto, alta | tall | alto, alta | grand | groß | alt, alta | alto, alta |
+| antipático, antipática | unfriendly | antipático, antipática | antipathique | unfreundlich | antipàtic, antipàtica | antipatico, antipatica |
+| aposentado, aposentada (PT) | retired | jubilado, jubilada | retraité, retraitée | pensioniert | jubilat, jubilada | pensionato, pensionata |
+| arrogante | arrogant | arrogante | arrogant | arrogant | arrogant | arrogante |
+| ativo, ativa | active | activo, activa | actif, active | aktiv | actiu, activa | attivo, attiva |
+| baixo, baixa | short | bajo, baja | bas, basse | klein | baix, baixa | basso, bassa |
+| cansada, cansado | tired | cansada, cansado | fatigué, fatiguée | müde | cansat, cansat | stanco, stanca |
+| casada, casado | married | casada, casado | marié, mariée | verheiratet | casat, casada | sposato, sposata |
+| comprido, comprida | long | largo, larga | long, longue | lang | llarg, llarga | lungo, lunga |
+| curioso, curiosa | curious | curioso, curiosa | curieux, curieuse | neugierig | curiós, curiosa | curioso, curiosa |
+| curto, curta | short | corto, corta | court, courte | kurz | curt, curta | corto, corta |
+| dessarrumado, desarrumada | untidy | desordenado, desordenada | désordonné, désordonnée | unordentlich | desordenat, desordenada | disordinato, disordinata |
+| divertido, divertida | fun | divertido, divertida | amusant, amusante | lustig | divertit, divertida | divertente |
+| divorciado, divorciada | divorced | divorciado, divorciada | divorcé, divorcée | geschieden | divorciat, divorciada | divorziato, divorziata |
+| elegante | elegant | elegante | élégant, élégante | elegant | elegant | elegante |
+| fácil | easy | fácil | facile | einfach | fàcil | facile |
+| falador, faladora | talkative | hablador, habladora | bavard, bavarde | gesprächig | parlador, parladora | loquace |
+| feliz | happy | feliz | heureux, heureuse | glücklich | feliç | felice |
+| físico, física | physical | físico, física | physique | physisch | físic, física | fisico, fisica |
+
+
+
+
+
+
+
+
+
+
+
 | No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
 |-----|-----------|----------|----------|----------|----|----|----|
 | 8361 | dentro de    | | /'dẽtɾu dɨ/ | /'dẽtɾu dʒi/ | prep | inside | /ɪn'saɪd/ | dentro de | /'dentɾo ðe/ |

@@ -1,4 +1,20 @@
-Here is the completed table:
+| No. | Portuguese | + Artigo | IPA (PT) | IPA (BR) | TP | English Word | English IPA | Spanish Word | Spanish IPA |
+|-----|------------|----------|----------|----------|----|--------------|-------------|--------------|-------------|
+| 8870 | cheio, cheia | o cheio, a cheia | /ˈʃɐj.u/, /ˈʃɐj.ɐ/ | /ˈʃej.u/, /ˈʃej.ɐ/ | adjm , adjf | full | /fʊl/ | lleno, llena | /ˈʎeno/, /ˈʎena/ |
+| 8871 | chata, chato | a chata, o chato | /ˈʃatɐ/, /ˈʃatu/ | /ˈʃatɐ/, /ˈʃatu/ | adjf , adjm | annoying | /əˈnɔɪɪŋ/ | molesto, molesta | /moˈlesto/, /moˈlesta/ |
+| 8872 | nascido, nacida | nascido, nacida | /nɐʃˈsidu/, /nɐˈsidɐ/ | /naʃˈsidu/, /naˈsidɐ/ | adjm , adjf | born | /bɔrn/ | nacido, nacida | /naˈθiðo/, /naˈθiða/ |
+| 8873 | giro, gira | o giro, a gira | /ˈʒi.ɾu/, /ˈʒi.ɾɐ/ | /ˈʒi.ɾu/, /ˈʒi.ɾɐ/ | adjm , adjf | cool | /kuːl/ | chulo, chula | /ˈtʃulo/, /ˈtʃula/ |
+| 8874 | tolo, tola | o tolo, a tola | /ˈtɔ.lu/, /ˈtɔ.lɐ/ | /ˈtɔ.lu/, /ˈtɔ.lɐ/ | adjm , adjf | foolish | /ˈfuːlɪʃ/ | tonto, tonta | /ˈtonto/, /ˈtonta/ |
+| 8875 | bobo, boba | o bobo, a boba | /ˈbɔ.bu/, /ˈbɔ.bɐ/ | /ˈbɔ.bu/, /ˈbɔ.bɐ/ | adjm , adjf | silly | /ˈsɪli/ | tonto, tonta | /ˈtonto/, /ˈtonta/ |
+| 8876 | inteligente | o inteligente | /ĩ.tɨɫiˈʒẽ.tɨ/ | /ĩ.tɨɫiˈʒẽ.tʃi/ | adj | intelligent | /ɪnˈtɛlɪdʒənt/ | inteligente | /inteˈli.xente/ |
+| 8877 | ótimo, ótima | o ótimo, a ótima | /ˈɔ.ti.mu/, /ˈɔ.ti.mɐ/ | /ˈɔ.ti.mu/, /ˈɔ.ti.mɐ/ | adjm , adjf | excellent | /ˈɛksələnt/ | óptimo, óptima | /ˈɔptimu/, /ˈɔptima/ |
+| 8878 | envergonhado, envergonhada | envergonhado, envergonhada | /ẽ.vɨɾ.ɡõ.ˈja.ðu/, /ẽ.vɨɾ.ɡõ.ˈja.ðɐ/ | /ẽ.vɛɾ.ɡõ.ˈja.ðu/, /ẽ.vɛɾ.ɡõ.ˈja.ðɐ/ | adjm , adjf | embarrassed | /ɪmˈbærɪst/ | avergonzado, avergonzada | /aβerɡonˈθaðo/, /aβerɡonˈθaða/ |
+| 8879 | despiedado, despiedada | despiedado, despiedada | /dɨʃ.pjɨ.ˈda.du/, /dɨʃ.pjɨ.ˈda.dɐ/ | /dɛʃ.pi.ɛ.ˈda.du/, /dɛʃ.pi.ɛ.ˈda.dɐ/ | adjm , adjf | ruthless | /ˈruːθlɪs/ | despiadado, despiadada | /despjaˈðado/, /despjaˈðada/ |
+| 8880 | moreno, morena | moreno, morena | /moˈre.nu/, /moˈre.nɐ/ | /moˈre.nu/, /moˈre.nɐ/ | adjm , adjf | dark-skinned | /ˈdɑrk ˈskɪnd/ | moreno, morena | /moˈre.no/, /moˈre.na/ |
+| 8881 | elegante | o elegante | /ɨɫɨ'ɡɐt(ɨ)/ | /ɨɫɨ'ɡɐt(ɨ)/ | adj | elegant | /ˈɛlɪɡənt/ | elegante | /eˈleɡante/ |
+| 8882 | arrumado, arrumada | arrumado, arrumada | /ɐ.ʁuˈma.du/, /ɐ.ʁuˈma.dɐ/ | /ɐ.ʁuˈma.du/, /ɐ.ʁuˈma.dɐ/ | adj | tidy | /ˈtaɪdi/ | arreglado, arreglada | /areˈɣlaðo/, /areˈɣlaða/ |
+| 8883 | engraçado, engraçada | engraçado, engraçada | /ẽ.ɡɾɐˈsa.du/, /ẽ.ɡɾɐˈsa.dɐ/ | /ẽ.ɡɾɐˈsa.du/, /ẽ.ɡɾɐˈsa.dɐ/ | adjm , adjf | funny | /ˈfʌni/ | gracioso, graciosa | /ɡɾaˈθjoso/, /ɡɾaˈθjosa/ |
+
 
 | No. | Portuguese | IPA (PT) | IPA (BR) | Tipo de Palavra | English Word | English IPA | Spanish Word | Spanish IPA |
 |-----|------------|----------|----------|-----------------|--------------|-------------|--------------|-------------|

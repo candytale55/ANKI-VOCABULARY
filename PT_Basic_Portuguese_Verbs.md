@@ -1,3 +1,27 @@
+| No. | Portuguese  | IPA (PT)          | IPA (BR)          | TP | English Word        | English IPA       | Spanish Word    | Spanish IPA      |
+|-----|-------------|-------------------|-------------------|----|---------------------|-------------------|-----------------|------------------|
+| 8902| a laranja    | /ɐ lɐ.ˈɾɐ̃.ʒɐ/   | /ɐ la.ˈɾɐ̃.ʒɐ/   | sf | orange (fruit)      | /ˈɔɹɪndʒ/         | naranja (fruta)| /naˈɾaŋxa/        |
+| 8903| a previdência| /ɐ pɾɨ.viˈdẽ.si.ɐ/| /ɐ pɾɨ.viˈdẽ.sjɐ/| sf | foresight           | /ˈfɔɹsaɪt/        | previsión       | /pɾeβiˈsjon/      |
+| 8904| a traquéia   | /ɐ tɾɐ.ˈkɛ.jɐ/   | /ɐ tɾa.ˈkɛ.jɐ/   | sf | trachea             | /ˈtreɪkiə/        | tráquea         | /ˈtɾakea/         |
+| 8905| a cheia      | /ɐ ˈʃɐj.ɐ/       | /ɐ ˈʃej.ɐ/       | sf | flood               | /flʌd/            | inundación      | /inun.daˈθjon/   |
+| 8906| a beleza     | /ɐ bɨˈle.zɐ/      | /ɐ beˈle.zɐ/      | sf | beauty              | /ˈbjuti/          | belleza         | /beˈleθa/        |
+| 8907| a lareira    | /ɐ la.ˈɾɐj.ɾɐ/   | /ɐ la.ˈɾej.ɾɐ/   | sf | hearth, chimney     | /hɑːrθ, ˈtʃɪmni/| hogar, chimenea | /oˈɣar, ʧimeˈnea/|
+| 8908| a residência | /ɐ ʁɨ.ziˈdẽ.si.ɐ/| /ɐ he.si.ˈðẽ.si.ɐ/| sf | home                | /hoʊm/            | residencia      | /resiðenˈθja/    |
+| 8909| a morada     | /ɐ muˈɾa.ðɐ/      | /ɐ muˈɾa.ðɐ/      | sf | address             | /əˈdɹɛs/          | dirección      | /diɾekˈθjon/     |
+| 8910| a entrevista  | /ɐ ẽ.tɾɨ.viʃˈta/ | /ɐ ẽ.tɾɨ.viʃˈta/ | sf | interview           | /ˈɪntərvjuː/     | entrevista      | /entɾeˈβista/    |
+| 8911| a pergunta    | /ɐ pɨˈɾɡũ.tɐ/    | /ɐ peɾˈɡũ.tɐ/    | sf | question            | /ˈkwɛs.tʃən/      | pregunta        | /pɾeŋˈta/        |
+| 8912| a raça       | /ɐ ˈʁasɐ/         | /ɐ ˈʁasa/         | sf | race                | /reɪs/            | raza            | /ˈraθa/          |
+| 8913| a borboleta  | /ɐ boɾ.boˈlɛ.tɐ/  | /ɐ boɾ.boˈlɛ.tɐ/  | sf | butterfly           | /ˈbʌtərflaɪ/     | mariposa        | /maɾiˈposa/      |
+| 8914| o preto      | /u ˈpɾɛ.tu/       | /u ˈpɾɛ.tu/       | sm | black               | /blæk/            | negro           | /ˈneɡɾo/         |
+| 8915| o negro      | /u ˈnɛ.ɡɾu/       | /u ˈne.ɡɾu/       | sm | black               | /blæk/            | negro           | /ˈneɡɾo/         |
+| 8916| o branco     | /u ˈbɾɐ̃.ku/      | /u ˈbɾɐ̃.ku/      | sm | white               | /waɪt/            | blanco          | /ˈblaŋko/        |
+| 8917| o amarelho   | /u ɐ.mɐˈɾɛ.ʎu/   | /u ɐ.mɐˈɾɛ.ʎu/   | sm | yellow              | /ˈjɛloʊ/         | amarillo        | /amaˈɾiʎo/       |
+| 8918| o azul escuro| /u ɐˈzuw ɨʃˈku.ɾu/| /u ɐˈzuw ɨʃˈku.ɾu/| sm | dark blue           | /dɑːrk bluː/     | azul oscuro     | /aˈθul osˈkuɾo/ |
+| 8919| o azul claro | /u ɐˈzuw ˈkla.ɾu/ | /u ɐˈzuw ˈkla.ɾu/ | sm | light blue          | /laɪt bluː/      | azul claro      | /aˈθul ˈklaro/  |
+
+
+
+
 | No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES | 
 |-----|-----------|----------|----------|----------|----|----|----|
 | 8213 | Venezuela 	| **a** Venezuela | /vɨ.nɨ.'zwe.lɐ/ | /be.ne.'swɛ.lɐ/ | sf  | Venezuela | Venezuela | 

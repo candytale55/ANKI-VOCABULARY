@@ -1,3 +1,29 @@
+| No. | Portuguese | Blank Col | IPA (PT) | IPA (BR) | Tipo de Palavra | English Word | English IPA | Spanish Word | Spanish IPA |
+|-----|------------|-----------|----------|---------|-----------------|--------------|-------------|--------------|-------------|
+|      | esquecer-se |     | /ɨʃ.kɨ.ˈseɾ sɨ/ | /is.kɨ.ˈseɾ.si/ | v | to forget | olvidarse |    |   |
+|      | perpassar |     | /pɨɾ.pɐˈsaɾ/ | /pɨɾ.pɐˈsaɾ/ | v | to cross | pasar |    |   |
+|      | ocupar-se |     | /ɔ.ku.ˈpaɾ/ | /o.ku.ˈpaʁ/ | v | to occupy | ocupar |    |   |
+|      | afastar-se de |     | /ɐ.fɐʃ.ˈtaɾ sɨ/ | /ɐ.fɐʃ.ˈtaʁ si/ | v | to distance oneself; to stand back | alejarse |    |   |
+|      | perceber |     | /pɨɾ.ˈsɛ.bɨɾ/ | /peɾ.ˈse.beʁ/ | v | to understand | entender |    |   |
+|      | ansiar |     | /ɐ̃.ʃi.ˈaɾ/ | /ɐ̃.ʃi.ˈaʁ/ | v | to long for | ansiar |    |   |
+|      | aceitar |     | /ɐ.sɐi.ˈtaɾ/ | /ɐ.sei.ˈtaʁ/ | v | to accept | aceptar |    |   |
+|      | lembrar-se |     |               |               | v | to remember oneself | recordarse |    |   |
+|      | dançar |     |               |               | v | to dance | bailar |    |   |
+|      | correr |     |               |               | v | to run | correr |    |   |
+|      | andar de bicicleta |     |               |               | v | to ride a bicycle | andar en bicicleta |    |   |
+|      | viajar |     |               |               | v | to travel | viajar |    |   |
+|      | tocar piano |     |               |               | v | to play the piano | tocar el piano |    |   |
+|      | tratar |     |               |               | v | to treat | tratar | cuidar |   |
+|      | fazer caminhadas |     |               |               | v | to hike | hacer caminatas |    |   |
+|      | fazer trilhas |     |               |               | v | to hike trails | hacer senderismo |    |   |
+|      | fazer exercício |     |               |               | v | to exercise | hacer ejercicio |    |   |
+|      | jogar futebol |     |               |               | v | to play football | jugar al fútbol |    |   |
+|      | pintar |     |               |               | v | to paint | pintar |    |   |
+|      | ir ao cinema |     |               |               | v | to go to the cinema | ir al cine |    |   |
+|      | ver televisão |     |               |               | v | to watch television | ver televisión |    |   |
+
+
+
 Here is the markdown table with the missing values filled in for Portuguese:
 
 | No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES | 

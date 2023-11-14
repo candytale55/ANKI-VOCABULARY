@@ -1,3 +1,32 @@
+| Portuguese | English | Spanish | French | German | Valencian | Italian |
+|------------|---------|---------|--------|--------|-----------|---------|
+| conhecer | to know | conocer | connaître | kennen | conéixer | conoscere |
+| conseguir | to achieve | conseguir | réussir | schaffen | aconseguir | ottenere |
+| correr | to run | correr | courir | rennen | córrer | correre |
+| correr | to run | correr | courir | rennen | córrer | correre |
+| correr | to run | correr | courir | rennen | córrer | correre |
+| corrigir | to correct | corregir | corriger | korrigieren | corregir | correggere |
+| dançar | to dance | bailar | danser | tanzen | ballar | ballare |
+| decidir | to decide | decidir | décider | entscheiden | decidir | decidere |
+| descer | to go down | bajar | descendre | hinuntergehen | baixar | scendere |
+| despir | to undress | desvestir | déshabiller | ausziehen | desvestir | spogliare |
+| dirigir | to drive | conducir | conduire | fahren | conduir | guidare |
+| discutir | to discuss | discutir | discuter | diskutieren | discutir | discutere |
+| dividir | to divide | dividir | diviser | teilen | dividir | dividere |
+| encontrar | to find | encontrar | trouver | finden | trobar | trovare |
+| ensinar | to teach | enseñar | enseigner | lehren | ensenyar | insegnare |
+| escrever | to write | escribir | écrire | schreiben | escriure | scrivere |
+| esquecer | to forget | olvidar | oublier | vergessen | oblidar | dimenticare |
+| esquecer-se | to forget oneself | olvidarse | oublier | sich vergessen | oblidar-se | dimenticarsi |
+| estudar | to study | estudiar | étudier | studieren | estudiar | studiare |
+| falar | to speak | hablar | parler | sprechen | parlar | parlare |
+| fazer caminhadas | to hike | hacer senderismo | faire de la randonnée | wandern | fer caminades | fare escursioni |
+| fazer exercício | to exercise | hacer ejercicio | faire de l'exercice | trainieren | fer exercici | fare esercizio |
+| fazer trilhas | to hike trails | hacer senderismo | faire de la randonnée | wandern | fer sendes | fare sentieri |
+| fechar | to close | cerrar | fermer | schließen | tancar | chiudere |
+| ficar | to stay | quedarse | rester | bleiben | quedar-se | rimanere |
+
+
 
 | Portuguese | English | Spanish | French | German | Valencian | Italian |
 |------------|---------|---------|--------|--------|-----------|---------|
@@ -29,6 +58,33 @@
 | conduzir | to drive | conducir | conduire | fahren | conduir | guidare |
 
 
+| Portuguese | English | Spanish | French | German | Valencian | Italian |
+|------------|---------|---------|--------|--------|-----------|---------|
+| conhecer | to know | conocer | connaître | kennen | conéixer | conoscere |
+| conseguir | to achieve | conseguir | réussir | schaffen | aconseguir | ottenere |
+| correr | to run | correr | courir | rennen | córrer | correre |
+| correr | to run | correr | courir | rennen | córrer | correre |
+| correr | to run | correr | courir | rennen | córrer | correre |
+| corrigir | to correct | corregir | corriger | korrigieren | corregir | correggere |
+| dançar | to dance | bailar | danser | tanzen | ballar | ballare |
+| decidir | to decide | decidir | décider | entscheiden | decidir | decidere |
+| descer | to go down | bajar | descendre | hinuntergehen | baixar | scendere |
+| despir | to undress | desvestir | déshabiller | ausziehen | desvestir | spogliare |
+| dirigir | to drive | conducir | conduire | fahren | conduir | guidare |
+| discutir | to discuss | discutir | discuter | diskutieren | discutir | discutere |
+| dividir | to divide | dividir | diviser | teilen | dividir | dividere |
+| encontrar | to find | encontrar | trouver | finden | trobar | trovare |
+| ensinar | to teach | enseñar | enseigner | lehren | ensenyar | insegnare |
+| escrever | to write | escribir | écrire | schreiben | escriure | scrivere |
+| esquecer | to forget | olvidar | oublier | vergessen | oblidar | dimenticare |
+| esquecer-se | to forget oneself | olvidarse | oublier | sich vergessen | oblidar-se | dimenticarsi |
+| estudar | to study | estudiar | étudier | studieren | estudiar | studiare |
+| falar | to speak | hablar | parler | sprechen | parlar | parlare |
+| fazer caminhadas | to hike | hacer senderismo | faire de la randonnée | wandern | fer caminades | fare escursioni |
+| fazer exercício | to exercise | hacer ejercicio | faire de l'exercice | trainieren | fer exercici | fare esercizio |
+| fazer trilhas | to hike trails | hacer senderismo | faire de la randonnée | wandern | fer sendes | fare sentieri |
+| fechar | to close | cerrar | fermer | schließen | tancar | chiudere |
+| ficar | to stay | quedarse | rester | bleiben | quedar-se | rimanere |
 
 
 

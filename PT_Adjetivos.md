@@ -1,5 +1,38 @@
 | No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
 |-----|-----------|----------|----------|----------|----|----|----|
+| 8361 | dentro de    | | /'dẽtɾu dɨ/ | /'dẽtɾu dʒi/ | prep | inside | /ɪn'saɪd/ | dentro de | /'dentɾo ðe/ |
+| 8362 | ao lado de   | | /aw 'ladu dɨ/ | /aw 'ladu dʒi/ | prep | next to | /nɛkst tʊ/ | al lado de | /al 'laðo ðe/ |
+| 6861 | ganhar       | | /ɡɐ.'ɲaɾ/ | /ɡɐ.'ɲaʁ/ | v | to win | ganar |
+| 6862 | brincar      | | /bɾĩ.'kaɾ/ | /bɾĩ.'kaʁ/ | v | to play | jugar |
+| 6795 | viver        | | /vi.'veɾ/ | /vi.'veʁ/ | v | to live | vivir |
+| 6796 | correr       | | /ko.'ʁeɾ/ | /ko.'ʁeχ/ | v | to run | correr |
+| 8969 | preto, preta | | /ˈpɾetu/, /ˈpɾetɐ/ | /ˈpɾetu/, /ˈpɾetɐ/ | adjm, adjf | black | negro, negra |
+| 8970 | negro, negra | | /ˈnɛɡɾu/, /ˈnɛɡɾɐ/ | /ˈnɛɡɾu/, /ˈnɛɡɾɐ/ | adjm, adjf | black | negro, negra |
+| 8971 | branco, branca | | /ˈbɾɐ̃ku/, /ˈbɾɐ̃kɐ/ | /ˈbɾɐ̃ku/, /ˈbɾɐ̃kɐ/ | adjm, adjf | white | blanco, blanca |
+| 8972 | amarelho, amarelha | | /ɐmɐˈɾeʎu/, /ɐmɐˈɾeʎɐ/ | /ɐmɐˈɾeʎu/, /ɐmɐˈɾeʎɐ/ | adjm, adjf | yellow | amarillo, amarilla |
+| 8973 | azul | | /ɐˈzuw/ | /ɐˈzuw/ | adj | blue | azul |
+| 8974 | verde | | /ˈvɛɾdɨ/ | /ˈvɛʁdʒi/ | adj | green | verde |
+| 8975 | cinzento, cinzenta | | sĩˈzetu, sĩˈzetɐ | sĩˈzetu, sĩˈzetɐ | adjm, adjf | gray | gris |
+| 8976 | vermelho, vermelha | | vɨɾˈmɛʎu, vɨɾˈmɛʎɐ | veʁˈmeʎu, veʁˈmeʎɐ | adjm, adjf | red | rojo, roja |
+| 8977 | rosa | | /ˈʁozɐ/ | /ˈʁozɐ/ | adjf | pink | rosa |
+| 8978 | castanho, castanha | | kɐʃˈtɐɲu, kɐʃˈtɐɲɐ | kɐʃˈtɐɲu, kɐʃˈtɐɲɐ | adjm, adjf | brown | castaño, castaña |
+| 8979 | marrom | | mɐˈʁõ | maˈʁõ | adj | brown | marrón |
+| 8980 | laranja | | lɐˈɾɐ̃ʒɐ | laˈɾɐ̃ʒɐ | adj | orange | naranja |
+| 8981 | roxo, roxa | | ˈʁoʃu, ˈʁoʃɐ | ˈʁoʃu, ˈʁoʃɐ | adjm, adjf | purple | morado, morada |
+
+
+
+
+
+
+
+
+
+
+
+
+| No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
+|-----|-----------|----------|----------|----------|----|----|----|
 |      | cheia, cheio | | /ˈʃɐj.ɐ/, /ˈʃɐj.u/ | /ˈʃej.ɐ/, /ˈʃej.u/ | adjf, adjm | full | crecida, lleno |
 |      | chata, chato | | /ˈʃatɐ/, /ˈʃatu/ | /ˈʃatɐ/, /ˈʃatu/ | adjf, adjm | boring | pesada, aburrido |
 | 8361 | dentro de    | | /'dẽtɾu dɨ/ | /'dẽtɾu dʒi/ | prep | inside | /ɪn'saɪd/ | dentro de | /'dentɾo ðe/ |

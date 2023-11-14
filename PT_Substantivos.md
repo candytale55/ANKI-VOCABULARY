@@ -6,6 +6,22 @@ Here is the completed table with the missing values:
 
 | No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
 |-----|-----------|----------|----------|----------|----|----|----|
+| 8213 | lar | **o** lar | /laɾ/ | /laɾ/ | sm | home, place of residence | hogar, residencia |
+| 8234 | lareira | **a** lareira | /la.ˈɾɐj.ɾɐ/ | /la.ˈɾej.ɾɐ/ | sf | home, hearth | hogar, chimenea |
+| 8573 | residência | **a** residência | /ʁɨ.zi.ˈdẽ.si.ɐ/ | /he.si.ˈðẽ.si.ɐ/ | sf | home | residencia |
+| 6086 | morada | **a** morada | /muˈɾa.ðɐ/ | /muˈɾa.ðɐ/ | sf | address | dirección |
+| 6008 | endereço | **o** endereço | /ẽ.ˈde.ɾe.su/ | /ẽ.ˈde.ɾe.su/ | sm | address | dirección |
+|  | entrevista | **a** entrevista | /ẽ.tɾɨ.viʃ.ˈta/ | /ẽ.tɾɨ.viʃ.ˈta/ | sf | interview | entrevista |
+|  | pergunta | **a** pergunta | /pɨˈɾɡũ.tɐ/ | /peɾˈɡũ.tɐ/ | sf | question | pregunta |
+|  | raça | **a** raça | /ˈʁasɐ/ | /ˈʁasa/ | sf | race | raza |
+|  | fogo | **o** fogo | /ˈfo.ɡu/ | /ˈfo.ɡu/ | sm | fire | fuego |
+|  | fim da tarde | **o** fim da tarde | /ˈfĩ dɐ ˈtaɾ.ðɨ/ | /ˈfĩ dɐ ˈtaɾ.ðʒi/ | sm | evening, end of the day | fin de la tarde |
+|  | borboleta | **a** borboleta | /boɾ.boˈlɛ.tɐ/ | /boɾ.boˈlɛ.tɐ/ | sf | butterfly | mariposa |
+
+Let me know if there's anything else you need.
+
+| No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
+|-----|-----------|----------|----------|----------|----|----|----|
 | 8855 | paz | **a** paz | /'paʒ/ | /'paʒ/ | sf | peace | paz |
 | 8856 | pé | **o** pé | /ˈpe/ | /ˈpe/ | sm | foot | pie |
 | 8857 |  |  |  |  |  |  |  |

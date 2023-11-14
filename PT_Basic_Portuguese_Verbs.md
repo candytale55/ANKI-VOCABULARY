@@ -1,3 +1,52 @@
+
+| Portuguese | English | Spanish | French | German | Valencian | Italian |
+|------------|---------|---------|--------|--------|-----------|---------|
+| abranger | to cover | abarcar | englober | umfassen | abraçar | comprendere |
+| abrir | to open | abrir | ouvrir | öffnen | obrir | aprire |
+| acabar | to finish | acabar | finir | beenden | acabar | finire |
+| aceitar | to accept | aceptar | accepter | akzeptieren | acceptar | accettare |
+| achar | to find | encontrar | trouver | finden | trobar | trovare |
+| acordar | to wake up | despertar | se réveiller | aufwachen | despertar | svegliarsi |
+| admitir | to admit | admitir | admettre | zugeben | admitir | ammettere |
+| afagar | to caress | acariciar | caresser | streicheln | acariciar | accarezzare |
+| afastar-se | to move away | alejarse | s'éloigner | sich entfernen | allunyar-se | allontanarsi |
+| almoçar | to have lunch | almorzar | déjeuner | zu Mittag essen | dinar | pranzare |
+| andar | to walk | andar | marcher | gehen | caminar | camminare |
+| andar de bicicleta | to ride a bike | andar en bicicleta | faire du vélo | Fahrrad fahren | anar en bicicleta | andare in bicicletta |
+| ansiar | to long for | ansiar | aspirer | sich sehnen nach | ansiar | desiderare ardentemente |
+| apanhar | to catch | coger | attraper | fangen | agafar | prendere |
+| aprender | to learn | aprender | apprendre | lernen | aprendre | imparare |
+| aquecer | to warm up | calentar | réchauffer | aufwärmen | escalfar | scaldare |
+| atender | to attend | atender | assister | teilnehmen | atendre | partecipare |
+| beber | to drink | beber | boire | trinken | beure | bere |
+| brincar | to play | jugar | jouer | spielen | jugar | giocare |
+| brincar | to joke | bromear | plaisanter | scherzen | bromar | scherzare |
+| chover | to rain | llover | pleuvoir | regnen | ploure | piovere |
+| começar | to begin | comenzar | commencer | anfangen | començar | iniziare |
+| comer | to eat | comer | manger | essen | menjar | mangiare |
+| comprar | to buy | comprar | acheter | kaufen | comprar | comprare |
+| compreender | to understand | comprender | comprendre | verstehen | comprendre | capire |
+| conduzir | to drive | conducir | conduire | fahren | conduir | guidare |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 | No. | Portuguese  | IPA (PT)          | IPA (BR)          | TP | English Word        | English IPA       | Spanish Word    | Spanish IPA      |
 |-----|-------------|-------------------|-------------------|----|---------------------|-------------------|-----------------|------------------|
 | 8902| a laranja    | /ɐ lɐ.ˈɾɐ̃.ʒɐ/   | /ɐ la.ˈɾɐ̃.ʒɐ/   | sf | orange (fruit)      | /ˈɔɹɪndʒ/         | naranja (fruta)| /naˈɾaŋxa/        |

@@ -1,6 +1,12 @@
-| N| No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES | 
+| No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES | 
 |-----|-----------|----------|----------|----------|----|----|----|
+| 8213 | Venezuela 	| **a** Venezuela | /vɨ.nɨ.'zwe.lɐ/ | /be.ne.'swɛ.lɐ/ | sf  | Venezuela | Venezuela | 
+| 8234 | Estados Unidos | **os** Estados Unidos | /ɨʃ.tɐ.'dus u.'ni.dus/ | /is.'ta.dus u.'ni.dus/ | smp | United States | Estados Unidos |
+| 8573 | Reino Unido 	| **o** Reino Unido | /'ʁɐj.nu u.'ni.du/ | /'ʁaj.nu u.'ni.du/ | sm | United Kingdom | Reino Unido |
 | 8870 | cheio, cheia | **o** cheio, **a** cheia | /ˈʃɐj.u/, /ˈʃɐj.ɐ/ | /ˈʃej.u/, /ˈʃej.ɐ/ | adjm , adjf | full | lleno, llena |
+| 2023 | casada, casado | **a** casada, **o** casado | /kɐ'zaðɐ/ , /kɐ'zaðu/ | /kɐ'za'da/ , /kɐ'za'du/ | adjf , adjm | married | casada, casado | 
+| 6859 | jantar | | /ʒɐ̃.'taɾ/ | /ʒɐ̃.'taʁ/ | v | to have dinner | cenar |
+| 6860 | encontrar | | /ẽ.kõ.'tɾaɾ/ | /ẽ.kõ.'tɾaʁ/ | v | to find | encontrar |
 | 8871 | chata, chato | **a** chata, **o** chato | /ˈʃatɐ/, /ˈʃatu/ | /ˈʃatɐ/, /ˈʃatu/ | adjf , adjm | boring | aburrido, aburrida |
 | 8872 | nascido, nacida | **o** nascido, **a** nacida | /nɐʃˈsidu/, /nɐˈsidɐ/ | /naʃˈsidu/, /naˈsidɐ/ | adjm , adjf | born | nacido, nacida |
 | 8873 | giro, gira | **o** giro, **a** gira | /ˈʒi.ɾu/, /ˈʒi.ɾɐ/ | /ˈʒi.ɾu/, /ˈʒi.ɾɐ/ | adjm , adjf | cool | guay (ES) |

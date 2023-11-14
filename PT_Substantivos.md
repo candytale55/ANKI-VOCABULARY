@@ -17,6 +17,14 @@ Here is the completed table with the missing values:
 |  | fogo | **o** fogo | /ˈfo.ɡu/ | /ˈfo.ɡu/ | sm | fire | fuego |
 |  | fim da tarde | **o** fim da tarde | /ˈfĩ dɐ ˈtaɾ.ðɨ/ | /ˈfĩ dɐ ˈtaɾ.ðʒi/ | sm | evening, end of the day | fin de la tarde |
 |  | borboleta | **a** borboleta | /boɾ.boˈlɛ.tɐ/ | /boɾ.boˈlɛ.tɐ/ | sf | butterfly | mariposa |
+| 8213 | beicinho | **o/a** beicinho | /bɐj.'si.ɲu/ | /bej.'si.ɲu/ | sm/f | lip, pout | labio, morro |
+|  | realizador, realizadora | **o** realizador, **a** realizadora | /ʁeɫi.zɐ.ˈdoɾ/, /ʁeɫi.zɐ.ˈðo.ɾɐ/ | /ʁeɫi.za.ˈdoʁ/, /ʁeɫi.za.ˈðo.ɾɐ/ | sm, sf | director, director (female) | director, directora |
+|  | espanhóis, espanholas | **os** espanhóis, **as** espanholas | /is.pɐ.ˈɲɔjʃ/, /is.pɐ.ˈɲɔ.ɫɐʃ/ | /es.paˈɲɔjs/, /es.paˈɲɔ.ɫas/ | smp, sfp | Spaniards (males), Spaniards (females) | españoles, españolas |
+
+Let me know if there's anything else you need.
+
+
+
 
 Let me know if there's anything else you need.
 

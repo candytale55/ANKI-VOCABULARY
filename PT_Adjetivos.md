@@ -277,3 +277,159 @@ Certainly! Here is the filled-out table for the provided Portuguese words:
 | 50019 | arrogante | /ɐʁu'ɡɐt(ɨ)/ | /aʁu'ɡɐt(ɨ)/ | adj | arrogant | /ˈærəɡənt/ | arrogante | /aro'ɣante/ |
 | 50020 | físico, física | /'fiziku/, /'fizikɐ/ | /'fiziku/, /'fizikɐ/ | adjm , adjf | physical | /ˈfɪzɪkəl/ | físico, física | /'fisiko/, /'fisika/ |
 | 50021 | cansada, cansado | /kɐ̃'sɐdɐ/, /kɐ̃'sɐdu/ | /kɐ̃'sadɐ/, /kɐ̃'sadu/ | adjm , adjf | tired | /ˈtaɪərd/ | cansado, cansada | /kan'saðo/, /kan'saða/ |
+
+
+| No. | Portuguese | + Artigo | IPA (PT) | IPA (BR) | TP | English Word | English IPA | Spanish Word | Spanish IPA |
+|-----|------------|----------|----------|----------|----|--------------|-------------|--------------|-------------|
+| 8870 | cheio, cheia | o cheio, a cheia | /ˈʃɐj.u/, /ˈʃɐj.ɐ/ | /ˈʃej.u/, /ˈʃej.ɐ/ | adjm , adjf | full | /fʊl/ | lleno, llena | /ˈʎeno/, /ˈʎena/ |
+| 8871 | chata, chato | a chata, o chato | /ˈʃatɐ/, /ˈʃatu/ | /ˈʃatɐ/, /ˈʃatu/ | adjf , adjm | annoying | /əˈnɔɪɪŋ/ | molesto, molesta | /moˈlesto/, /moˈlesta/ |
+| 8872 | nascido, nacida | nascido, nacida | /nɐʃˈsidu/, /nɐˈsidɐ/ | /naʃˈsidu/, /naˈsidɐ/ | adjm , adjf | born | /bɔrn/ | nacido, nacida | /naˈθiðo/, /naˈθiða/ |
+| 8873 | giro, gira | o giro, a gira | /ˈʒi.ɾu/, /ˈʒi.ɾɐ/ | /ˈʒi.ɾu/, /ˈʒi.ɾɐ/ | adjm , adjf | cool | /kuːl/ | chulo, chula | /ˈtʃulo/, /ˈtʃula/ |
+| 8874 | tolo, tola | o tolo, a tola | /ˈtɔ.lu/, /ˈtɔ.lɐ/ | /ˈtɔ.lu/, /ˈtɔ.lɐ/ | adjm , adjf | foolish | /ˈfuːlɪʃ/ | tonto, tonta | /ˈtonto/, /ˈtonta/ |
+| 8875 | bobo, boba | o bobo, a boba | /ˈbɔ.bu/, /ˈbɔ.bɐ/ | /ˈbɔ.bu/, /ˈbɔ.bɐ/ | adjm , adjf | silly | /ˈsɪli/ | tonto, tonta | /ˈtonto/, /ˈtonta/ |
+| 8876 | inteligente | o inteligente | /ĩ.tɨɫiˈʒẽ.tɨ/ | /ĩ.tɨɫiˈʒẽ.tʃi/ | adj | intelligent | /ɪnˈtɛlɪdʒənt/ | inteligente | /inteˈli.xente/ |
+| 8877 | ótimo, ótima | o ótimo, a ótima | /ˈɔ.ti.mu/, /ˈɔ.ti.mɐ/ | /ˈɔ.ti.mu/, /ˈɔ.ti.mɐ/ | adjm , adjf | excellent | /ˈɛksələnt/ | óptimo, óptima | /ˈɔptimu/, /ˈɔptima/ |
+| 8878 | envergonhado, envergonhada | envergonhado, envergonhada | /ẽ.vɨɾ.ɡõ.ˈja.ðu/, /ẽ.vɨɾ.ɡõ.ˈja.ðɐ/ | /ẽ.vɛɾ.ɡõ.ˈja.ðu/, /ẽ.vɛɾ.ɡõ.ˈja.ðɐ/ | adjm , adjf | embarrassed | /ɪmˈbærɪst/ | avergonzado, avergonzada | /aβerɡonˈθaðo/, /aβerɡonˈθaða/ |
+| 8879 | despiedado, despiedada | despiedado, despiedada | /dɨʃ.pjɨ.ˈda.du/, /dɨʃ.pjɨ.ˈda.dɐ/ | /dɛʃ.pi.ɛ.ˈda.du/, /dɛʃ.pi.ɛ.ˈda.dɐ/ | adjm , adjf | ruthless | /ˈruːθlɪs/ | despiadado, despiadada | /despjaˈðado/, /despjaˈðada/ |
+| 8880 | moreno, morena | moreno, morena | /moˈre.nu/, /moˈre.nɐ/ | /moˈre.nu/, /moˈre.nɐ/ | adjm , adjf | dark-skinned | /ˈdɑrk ˈskɪnd/ | moreno, morena | /moˈre.no/, /moˈre.na/ |
+| 8881 | elegante | o elegante | /ɨɫɨ'ɡɐt(ɨ)/ | /ɨɫɨ'ɡɐt(ɨ)/ | adj | elegant | /ˈɛlɪɡənt/ | elegante | /eˈleɡante/ |
+| 8882 | arrumado, arrumada | arrumado, arrumada | /ɐ.ʁuˈma.du/, /ɐ.ʁuˈma.dɐ/ | /ɐ.ʁuˈma.du/, /ɐ.ʁuˈma.dɐ/ | adj | tidy | /ˈtaɪdi/ | arreglado, arreglada | /areˈɣlaðo/, /areˈɣlaða/ |
+| 8883 | engraçado, engraçada | engraçado, engraçada | /ẽ.ɡɾɐˈsa.du/, /ẽ.ɡɾɐˈsa.d
+
+
+
+
+
+
+
+
+| Portuguese | English | Spanish | French | German | Valencian | Italian |
+|------------|---------|---------|--------|--------|-----------|---------|
+| adonde     | where   | adónde  | où     | wo     | on        | dove    |
+| embora     | although, though, even though | aunque | bien que | obwohl | encara que | anche se |
+| também não | neither | tampoco | non plus | auch nicht | tampoc | neanche |
+| também     | also    | también | aussi  | auch   | també     | anche   |
+| Beleza!    | Beauty! | ¡Qué bien! | Super ! | Schön! | Bé!       | Bella!  |
+| Ótimo!     | Great!  | ¡Estupendo! | Génial! | Toll!  | Òptim!    | Ottimo! |
+| todo bem?  | all good? | ¿todo bien? | tout va bien ? | alles klar? | tot bé?   | tutto bene? |
+| embora     | although, though, even though | aunque | bien que | obwohl | encara que | anche se |
+| quem       | who     | quien   | qui    | wer    | qui       | chi     |
+| isto       | this    | esto    | ceci   | das   | això      | questo  |
+| isso       | that    | eso     | cela   | das   | açò      | quello  |
+| aquilo     | that    | aquello | cela   | das   | allò     | quello  |
+| disto      | this    | de esto | de ceci | davon | d'això   | di questo |
+| careca     | bald    | calvo   | chauve | kahl  | calb      | calvo   |
+| Que fixe!  | How cool! | ¡Qué chévere! | C'est cool ! | Wie cool! | Què xulo! | Che figo! |
+| Que giro!  | How cool! | ¡Qué chulo! | C'est génial ! | Wie geil! | Què guai! | Che figo! |
+| loiro, loira | blonde (male), blonde (female) | rubio, rubia | blond, blonde | blond, blondine | ros, rossa | biondo, bionda |
+| ruivo, ruiva | red-haired (male), red-haired (female) | pelirrojo, pelirroja | roux, rousse | rothaarig, rothaarige | roig, roja | rosso, rossa |
+| moreno, morena | dark-haired (male), dark-haired (female) | moreno, morena | brun, brune | dunkelhaarig, dunkelhaarige | moren, morena | moro, mora |
+| sardas     | freckles | pecas   | taches de rousseur | Sommersprossen | taques de sol | lentiggini |
+| touro, toira | bull    | toro    | taureau | Stier  | toro      | toro    |
+| ouro, oira  | gold    | oro     | or     | Gold  | or        | oro     |
+
+
+
+
+
+
+
+| Portuguese         | English           | Spanish           | French            | German            | Valencian          | Italian            |
+|--------------------|-------------------|-------------------|-------------------|-------------------|--------------------|---------------------|
+| cheio, cheia       | full              | lleno, llena      | plein, pleine     | voll              | ple, plena         | pieno, piena       |
+| chata, chato       | boring            | aburrido, aburrida| ennuyeux, ennuyeuse| langweilig        | avorrit, avorrida  | noioso, noiosa     |
+| nascido, nacida    | born              | nacido, nacida    | né, née           | geboren           | nascut, nascuda   | nato, nata         |
+| giro, gira         | cool              | guay              | cool              | cool              | guai              | figo, figa         |
+| tolo, tola         | foolish           | tonto, tonta      | fou, folle        | albern            | tolt, tolta       | sciocco, sciocca   |
+| bobo, boba         | silly             | tonto, tonta      | bête              | albern            | boig, boiga       | sciocco, sciocca   |
+| inteligente        | intelligent       | inteligente       | intelligent, intelligente| intelligent       | intel·ligent      | intelligente       |
+| ótimo, ótima       | great             | bueno, buena      | génial, géniale   | großartig         | òptim, òptima     | ottimo, ottima    |
+| envergonhado, envergonhada | ashamed  | avergonzado, avergonzada| honteux, honteuse| beschämt          | avergonyit, avergonyida| imbarazzato, imbarazzata |
+| despiedado, despiedada | unmerciful    | despiadado, despiadada| impitoyable   | erbarmungslos     | despietat, despietada  | spietato, spietata |
+| moreno, morena     | dark-skinned      | moreno, morena    | brun, brune       | dunkelhäutig      | moreno, morena    | scuro, scura       |
+| elegante           | thin              | delgado, delgada  | mince             | dünn              | prim              | elegante           |
+| arrumado, arrumada | tidy              | arreglado, arreglada| bien habillé, bien habillée| ordentlich   | endreçat, endreçada  | sistemato, sistemata|
+| engraçado, engraçada | funny         | gracioso, graciosa| drôle             | lustig            | divertit, divertida   | divertente        |
+| legal              | cool              | legal             | cool              | cool              | legal             | legale            |
+| barulhento, barulhenta | noisy         | ruidoso, ruidosa  | bruyant, bruyante| laut              | sorollós, sorollosa   | rumoroso, rumorosa|
+| possível          | possible          | posible           | possible          | möglich           | possible          | possibile         |
+| quase             | almost            | casi              | presque           | fast              | gairebé           | quasi             |
+| pouco             | little, few        | poco              | peu               | wenig             | poc               | poco              |
+
+
+
+
+| No. | Portuguese | + Artigo | IPA (PT) | IPA (BR) | TP | English Word | English IPA | Spanish Word | Spanish IPA |
+|-----|------------|----------|----------|----------|----|--------------|-------------|--------------|-------------|
+| 8870 | cheio, cheia | o cheio, a cheia | /ˈʃɐj.u/, /ˈʃɐj.ɐ/ | /ˈʃej.u/, /ˈʃej.ɐ/ | adjm , adjf | full | /fʊl/ | lleno, llena | /ˈʎeno/, /ˈʎena/ |
+| 8871 | chata, chato | a chata, o chato | /ˈʃatɐ/, /ˈʃatu/ | /ˈʃatɐ/, /ˈʃatu/ | adjf , adjm | annoying | /əˈnɔɪɪŋ/ | molesto, molesta | /moˈlesto/, /moˈlesta/ |
+| 8872 | nascido, nacida | nascido, nacida | /nɐʃˈsidu/, /nɐˈsidɐ/ | /naʃˈsidu/, /naˈsidɐ/ | adjm , adjf | born | /bɔrn/ | nacido, nacida | /naˈθiðo/, /naˈθiða/ |
+| 8873 | giro, gira | o giro, a gira | /ˈʒi.ɾu/, /ˈʒi.ɾɐ/ | /ˈʒi.ɾu/, /ˈʒi.ɾɐ/ | adjm , adjf | cool | /kuːl/ | chulo, chula | /ˈtʃulo/, /ˈtʃula/ |
+| 8874 | tolo, tola | o tolo, a tola | /ˈtɔ.lu/, /ˈtɔ.lɐ/ | /ˈtɔ.lu/, /ˈtɔ.lɐ/ | adjm , adjf | foolish | /ˈfuːlɪʃ/ | tonto, tonta | /ˈtonto/, /ˈtonta/ |
+| 8875 | bobo, boba | o bobo, a boba | /ˈbɔ.bu/, /ˈbɔ.bɐ/ | /ˈbɔ.bu/, /ˈbɔ.bɐ/ | adjm , adjf | silly | /ˈsɪli/ | tonto, tonta | /ˈtonto/, /ˈtonta/ |
+| 8876 | inteligente | o inteligente | /ĩ.tɨɫiˈʒẽ.tɨ/ | /ĩ.tɨɫiˈʒẽ.tʃi/ | adj | intelligent | /ɪnˈtɛlɪdʒənt/ | inteligente | /inteˈli.xente/ |
+| 8877 | ótimo, ótima | o ótimo, a ótima | /ˈɔ.ti.mu/, /ˈɔ.ti.mɐ/ | /ˈɔ.ti.mu/, /ˈɔ.ti.mɐ/ | adjm , adjf | excellent | /ˈɛksələnt/ | óptimo, óptima | /ˈɔptimu/, /ˈɔptima/ |
+| 8878 | envergonhado, envergonhada | envergonhado, envergonhada | /ẽ.vɨɾ.ɡõ.ˈja.ðu/, /ẽ.vɨɾ.ɡõ.ˈja.ðɐ/ | /ẽ.vɛɾ.ɡõ.ˈja.ðu/, /ẽ.vɛɾ.ɡõ.ˈja.ðɐ/ | adjm , adjf | embarrassed | /ɪmˈbærɪst/ | avergonzado, avergonzada | /aβerɡonˈθaðo/, /aβerɡonˈθaða/ |
+| 8879 | despiedado, despiedada | despiedado, despiedada | /dɨʃ.pjɨ.ˈda.du/, /dɨʃ.pjɨ.ˈda.dɐ/ | /dɛʃ.pi.ɛ.ˈda.du/, /dɛʃ.pi.ɛ.ˈda.dɐ/ | adjm , adjf | ruthless | /ˈruːθlɪs/ | despiadado, despiadada | /despjaˈðado/, /despjaˈðada/ |
+| 8880 | moreno, morena | moreno, morena | /moˈre.nu/, /moˈre.nɐ/ | /moˈre.nu/, /moˈre.nɐ/ | adjm , adjf | dark-skinned | /ˈdɑrk ˈskɪnd/ | moreno, morena | /moˈre.no/, /moˈre.na/ |
+| 8881 | elegante | o elegante | /ɨɫɨ'ɡɐt(ɨ)/ | /ɨɫɨ'ɡɐt(ɨ)/ | adj | elegant | /ˈɛlɪɡənt/ | elegante | /eˈleɡante/ |
+| 8882 | arrumado, arrumada | arrumado, arrumada | /ɐ.ʁuˈma.du/, /ɐ.ʁuˈma.dɐ/ | /ɐ.ʁuˈma.du/, /ɐ.ʁuˈma.dɐ/ | adj | tidy | /ˈtaɪdi/ | arreglado, arreglada | /areˈɣlaðo/, /areˈɣlaða/ |
+| 8883 | engraçado, engraçada | engraçado, engraçada | /ẽ.ɡɾɐˈsa.du/, /ẽ.ɡɾɐˈsa.d
+
+
+
+
+
+
+
+
+| Portuguese | English | Spanish | French | German | Valencian | Italian |
+|------------|---------|---------|--------|--------|-----------|---------|
+| adonde     | where   | adónde  | où     | wo     | on        | dove    |
+| embora     | although, though, even though | aunque | bien que | obwohl | encara que | anche se |
+| também não | neither | tampoco | non plus | auch nicht | tampoc | neanche |
+| também     | also    | también | aussi  | auch   | també     | anche   |
+| Beleza!    | Beauty! | ¡Qué bien! | Super ! | Schön! | Bé!       | Bella!  |
+| Ótimo!     | Great!  | ¡Estupendo! | Génial! | Toll!  | Òptim!    | Ottimo! |
+| todo bem?  | all good? | ¿todo bien? | tout va bien ? | alles klar? | tot bé?   | tutto bene? |
+| embora     | although, though, even though | aunque | bien que | obwohl | encara que | anche se |
+| quem       | who     | quien   | qui    | wer    | qui       | chi     |
+| isto       | this    | esto    | ceci   | das   | això      | questo  |
+| isso       | that    | eso     | cela   | das   | açò      | quello  |
+| aquilo     | that    | aquello | cela   | das   | allò     | quello  |
+| disto      | this    | de esto | de ceci | davon | d'això   | di questo |
+| careca     | bald    | calvo   | chauve | kahl  | calb      | calvo   |
+| Que fixe!  | How cool! | ¡Qué chévere! | C'est cool ! | Wie cool! | Què xulo! | Che figo! |
+| Que giro!  | How cool! | ¡Qué chulo! | C'est génial ! | Wie geil! | Què guai! | Che figo! |
+| loiro, loira | blonde (male), blonde (female) | rubio, rubia | blond, blonde | blond, blondine | ros, rossa | biondo, bionda |
+| ruivo, ruiva | red-haired (male), red-haired (female) | pelirrojo, pelirroja | roux, rousse | rothaarig, rothaarige | roig, roja | rosso, rossa |
+| moreno, morena | dark-haired (male), dark-haired (female) | moreno, morena | brun, brune | dunkelhaarig, dunkelhaarige | moren, morena | moro, mora |
+
+
+
+
+
+
+
+
+| Portuguese         | English           | Spanish           | French            | German            | Valencian          | Italian            |
+|--------------------|-------------------|-------------------|-------------------|-------------------|--------------------|---------------------|
+| cheio, cheia       | full              | lleno, llena      | plein, pleine     | voll              | ple, plena         | pieno, piena       |
+| chata, chato       | boring            | aburrido, aburrida| ennuyeux, ennuyeuse| langweilig        | avorrit, avorrida  | noioso, noiosa     |
+| nascido, nacida    | born              | nacido, nacida    | né, née           | geboren           | nascut, nascuda   | nato, nata         |
+| giro, gira         | cool              | guay              | cool              | cool              | guai              | figo, figa         |
+| tolo, tola         | foolish           | tonto, tonta      | fou, folle        | albern            | tolt, tolta       | sciocco, sciocca   |
+| bobo, boba         | silly             | tonto, tonta      | bête              | albern            | boig, boiga       | sciocco, sciocca   |
+| inteligente        | intelligent       | inteligente       | intelligent, intelligente| intelligent       | intel·ligent      | intelligente       |
+| ótimo, ótima       | great             | bueno, buena      | génial, géniale   | großartig         | òptim, òptima     | ottimo, ottima    |
+| envergonhado, envergonhada | ashamed  | avergonzado, avergonzada| honteux, honteuse| beschämt          | avergonyit, avergonyida| imbarazzato, imbarazzata |
+| despiedado, despiedada | unmerciful    | despiadado, despiadada| impitoyable   | erbarmungslos     | despietat, despietada  | spietato, spietata |
+| moreno, morena     | dark-skinned      | moreno, morena    | brun, brune       | dunkelhäutig      | moreno, morena    | scuro, scura       |
+| elegante           | thin              | delgado, delgada  | mince             | dünn              | prim              | elegante           |
+| arrumado, arrumada | tidy              | arreglado, arreglada| bien habillé, bien habillée| ordentlich   | endreçat, endreçada  | sistemato, sistemata|
+| engraçado, engraçada | funny         | gracioso, graciosa| drôle             | lustig            | divertit, divertida   | divertente        |
+| legal              | cool              | legal             | cool              | cool              | legal             | legale            |
+| barulhento, barulhenta | noisy         | ruidoso, ruidosa  | bruyant, bruyante| laut              | sorollós, sorollosa   | rumoroso, rumorosa|
+| possível          | possible          | posible           | possible          | möglich           | possible          | possibile         |
+| quase             | almost            | casi              | presque           | fast              | gairebé           | quasi             |
+| pouco             | little, few        | poco              | peu               | wenig             | poc               | poco              |

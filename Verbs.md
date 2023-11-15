@@ -1,121 +1,115 @@
-| No. | Portuguese | + Artigo | IPA (PT) | IPA (BR) | TP | English Word | English IPA | Spanish Word | Spanish IPA |
-|-----|------------|----------|----------|----------|----|--------------|-------------|--------------|-------------|
-| 8870 | cheio, cheia | o cheio, a cheia | /ˈʃɐj.u/, /ˈʃɐj.ɐ/ | /ˈʃej.u/, /ˈʃej.ɐ/ | adjm , adjf | full | /fʊl/ | lleno, llena | /ˈʎeno/, /ˈʎena/ |
-| 8871 | chata, chato | a chata, o chato | /ˈʃatɐ/, /ˈʃatu/ | /ˈʃatɐ/, /ˈʃatu/ | adjf , adjm | annoying | /əˈnɔɪɪŋ/ | molesto, molesta | /moˈlesto/, /moˈlesta/ |
-| 8872 | nascido, nacida | nascido, nacida | /nɐʃˈsidu/, /nɐˈsidɐ/ | /naʃˈsidu/, /naˈsidɐ/ | adjm , adjf | born | /bɔrn/ | nacido, nacida | /naˈθiðo/, /naˈθiða/ |
-| 8873 | giro, gira | o giro, a gira | /ˈʒi.ɾu/, /ˈʒi.ɾɐ/ | /ˈʒi.ɾu/, /ˈʒi.ɾɐ/ | adjm , adjf | cool | /kuːl/ | chulo, chula | /ˈtʃulo/, /ˈtʃula/ |
-| 8874 | tolo, tola | o tolo, a tola | /ˈtɔ.lu/, /ˈtɔ.lɐ/ | /ˈtɔ.lu/, /ˈtɔ.lɐ/ | adjm , adjf | foolish | /ˈfuːlɪʃ/ | tonto, tonta | /ˈtonto/, /ˈtonta/ |
-| 8875 | bobo, boba | o bobo, a boba | /ˈbɔ.bu/, /ˈbɔ.bɐ/ | /ˈbɔ.bu/, /ˈbɔ.bɐ/ | adjm , adjf | silly | /ˈsɪli/ | tonto, tonta | /ˈtonto/, /ˈtonta/ |
-| 8876 | inteligente | o inteligente | /ĩ.tɨɫiˈʒẽ.tɨ/ | /ĩ.tɨɫiˈʒẽ.tʃi/ | adj | intelligent | /ɪnˈtɛlɪdʒənt/ | inteligente | /inteˈli.xente/ |
-| 8877 | ótimo, ótima | o ótimo, a ótima | /ˈɔ.ti.mu/, /ˈɔ.ti.mɐ/ | /ˈɔ.ti.mu/, /ˈɔ.ti.mɐ/ | adjm , adjf | excellent | /ˈɛksələnt/ | óptimo, óptima | /ˈɔptimu/, /ˈɔptima/ |
-| 8878 | envergonhado, envergonhada | envergonhado, envergonhada | /ẽ.vɨɾ.ɡõ.ˈja.ðu/, /ẽ.vɨɾ.ɡõ.ˈja.ðɐ/ | /ẽ.vɛɾ.ɡõ.ˈja.ðu/, /ẽ.vɛɾ.ɡõ.ˈja.ðɐ/ | adjm , adjf | embarrassed | /ɪmˈbærɪst/ | avergonzado, avergonzada | /aβerɡonˈθaðo/, /aβerɡonˈθaða/ |
-| 8879 | despiedado, despiedada | despiedado, despiedada | /dɨʃ.pjɨ.ˈda.du/, /dɨʃ.pjɨ.ˈda.dɐ/ | /dɛʃ.pi.ɛ.ˈda.du/, /dɛʃ.pi.ɛ.ˈda.dɐ/ | adjm , adjf | ruthless | /ˈruːθlɪs/ | despiadado, despiadada | /despjaˈðado/, /despjaˈðada/ |
-| 8880 | moreno, morena | moreno, morena | /moˈre.nu/, /moˈre.nɐ/ | /moˈre.nu/, /moˈre.nɐ/ | adjm , adjf | dark-skinned | /ˈdɑrk ˈskɪnd/ | moreno, morena | /moˈre.no/, /moˈre.na/ |
-| 8881 | elegante | o elegante | /ɨɫɨ'ɡɐt(ɨ)/ | /ɨɫɨ'ɡɐt(ɨ)/ | adj | elegant | /ˈɛlɪɡənt/ | elegante | /eˈleɡante/ |
-| 8882 | arrumado, arrumada | arrumado, arrumada | /ɐ.ʁuˈma.du/, /ɐ.ʁuˈma.dɐ/ | /ɐ.ʁuˈma.du/, /ɐ.ʁuˈma.dɐ/ | adj | tidy | /ˈtaɪdi/ | arreglado, arreglada | /areˈɣlaðo/, /areˈɣlaða/ |
-| 8883 | engraçado, engraçada | engraçado, engraçada | /ẽ.ɡɾɐˈsa.du/, /ẽ.ɡɾɐˈsa.d
+| Portuguese | English | Spanish | French | German | Valencian | Italian |
+|------------|---------|---------|--------|--------|-----------|---------|
+| abranger | to cover | abarcar | englober | umfassen | abraçar | comprendere |
+| abrir | to open | abrir | ouvrir | öffnen | obrir | aprire |
+| acabar | to finish | acabar | finir | beenden | acabar | finire |
+| aceitar | to accept | aceptar | accepter | akzeptieren | acceptar | accettare |
+| achar | to find | encontrar | trouver | finden | trobar | trovare |
+| acordar | to wake up | despertar | se réveiller | aufwachen | despertar | svegliarsi |
+| admitir | to admit | admitir | admettre | zugeben | admitir | ammettere |
+| afagar | to caress | acariciar | caresser | streicheln | acariciar | accarezzare |
+| afastar-se | to move away | alejarse | s'éloigner | sich entfernen | allunyar-se | allontanarsi |
+| almoçar | to have lunch | almorzar | déjeuner | zu Mittag essen | dinar | pranzare |
+| andar | to walk | andar | marcher | gehen | caminar | camminare |
+| andar de bicicleta | to ride a bike | andar en bicicleta | faire du vélo | Fahrrad fahren | anar en bicicleta | andare in bicicletta |
+| ansiar | to long for | ansiar | aspirer | sich sehnen nach | ansiar | desiderare ardentemente |
+| apanhar | to catch | coger | attraper | fangen | agafar | prendere |
+| aprender | to learn | aprender | apprendre | lernen | aprendre | imparare |
+| aquecer | to warm up | calentar | réchauffer | aufwärmen | escalfar | scaldare |
+| atender | to attend | atender | assister | teilnehmen | atendre | partecipare |
+| beber | to drink | beber | boire | trinken | beure | bere |
+| brincar | to play | jugar | jouer | spielen | jugar | giocare |
+| brincar | to joke | bromear | plaisanter | scherzen | bromar | scherzare |
+| chover | to rain | llover | pleuvoir | regnen | ploure | piovere |
+| começar | to begin | comenzar | commencer | anfangen | començar | iniziare |
+| comer | to eat | comer | manger | essen | menjar | mangiare |
+| comprar | to buy | comprar | acheter | kaufen | comprar | comprare |
+| compreender | to understand | comprender | comprendre | verstehen | comprendre | capire |
+| conduzir | to drive | conducir | conduire | fahren | conduir | guidare |
 
 
-
-
-
+| Portuguese | English | Spanish | French | German | Valencian | Italian |
+|------------|---------|---------|--------|--------|-----------|---------|
+| conhecer | to know | conocer | connaître | kennen | conéixer | conoscere |
+| conseguir | to achieve | conseguir | réussir | schaffen | aconseguir | ottenere |
+| correr | to run | correr | courir | rennen | córrer | correre |
+| correr | to run | correr | courir | rennen | córrer | correre |
+| correr | to run | correr | courir | rennen | córrer | correre |
+| corrigir | to correct | corregir | corriger | korrigieren | corregir | correggere |
+| dançar | to dance | bailar | danser | tanzen | ballar | ballare |
+| decidir | to decide | decidir | décider | entscheiden | decidir | decidere |
+| descer | to go down | bajar | descendre | hinuntergehen | baixar | scendere |
+| despir | to undress | desvestir | déshabiller | ausziehen | desvestir | spogliare |
+| dirigir | to drive | conducir | conduire | fahren | conduir | guidare |
+| discutir | to discuss | discutir | discuter | diskutieren | discutir | discutere |
+| dividir | to divide | dividir | diviser | teilen | dividir | dividere |
+| encontrar | to find | encontrar | trouver | finden | trobar | trovare |
+| ensinar | to teach | enseñar | enseigner | lehren | ensenyar | insegnare |
+| escrever | to write | escribir | écrire | schreiben | escriure | scrivere |
+| esquecer | to forget | olvidar | oublier | vergessen | oblidar | dimenticare |
+| esquecer-se | to forget oneself | olvidarse | oublier | sich vergessen | oblidar-se | dimenticarsi |
+| estudar | to study | estudiar | étudier | studieren | estudiar | studiare |
+| falar | to speak | hablar | parler | sprechen | parlar | parlare |
+| fazer caminhadas | to hike | hacer senderismo | faire de la randonnée | wandern | fer caminades | fare escursioni |
+| fazer exercício | to exercise | hacer ejercicio | faire de l'exercice | trainieren | fer exercici | fare esercizio |
+| fazer trilhas | to hike trails | hacer senderismo | faire de la randonnée | wandern | fer sendes | fare sentieri |
+| fechar | to close | cerrar | fermer | schließen | tancar | chiudere |
+| ficar | to stay | quedarse | rester | bleiben | quedar-se | rimanere |
 
 
 
 | Portuguese | English | Spanish | French | German | Valencian | Italian |
 |------------|---------|---------|--------|--------|-----------|---------|
-| adonde     | where   | adónde  | où     | wo     | on        | dove    |
-| embora     | although, though, even though | aunque | bien que | obwohl | encara que | anche se |
-| também não | neither | tampoco | non plus | auch nicht | tampoc | neanche |
-| também     | also    | también | aussi  | auch   | també     | anche   |
-| Beleza!    | Beauty! | ¡Qué bien! | Super ! | Schön! | Bé!       | Bella!  |
-| Ótimo!     | Great!  | ¡Estupendo! | Génial! | Toll!  | Òptim!    | Ottimo! |
-| todo bem?  | all good? | ¿todo bien? | tout va bien ? | alles klar? | tot bé?   | tutto bene? |
-| embora     | although, though, even though | aunque | bien que | obwohl | encara que | anche se |
-| quem       | who     | quien   | qui    | wer    | qui       | chi     |
-| isto       | this    | esto    | ceci   | das   | això      | questo  |
-| isso       | that    | eso     | cela   | das   | açò      | quello  |
-| aquilo     | that    | aquello | cela   | das   | allò     | quello  |
-| disto      | this    | de esto | de ceci | davon | d'això   | di questo |
-| careca     | bald    | calvo   | chauve | kahl  | calb      | calvo   |
-| Que fixe!  | How cool! | ¡Qué chévere! | C'est cool ! | Wie cool! | Què xulo! | Che figo! |
-| Que giro!  | How cool! | ¡Qué chulo! | C'est génial ! | Wie geil! | Què guai! | Che figo! |
-| loiro, loira | blonde (male), blonde (female) | rubio, rubia | blond, blonde | blond, blondine | ros, rossa | biondo, bionda |
-| ruivo, ruiva | red-haired (male), red-haired (female) | pelirrojo, pelirroja | roux, rousse | rothaarig, rothaarige | roig, roja | rosso, rossa |
-| moreno, morena | dark-haired (male), dark-haired (female) | moreno, morena | brun, brune | dunkelhaarig, dunkelhaarige | moren, morena | moro, mora |
-| sardas     | freckles | pecas   | taches de rousseur | Sommersprossen | taques de sol | lentiggini |
-| touro, toira | bull    | toro    | taureau | Stier  | toro      | toro    |
-| ouro, oira  | gold    | oro     | or     | Gold  | or        | oro     |
+| ganhar | to win | ganar | gagner | gewinnen | guanyar | vincere |
+| ganhar | to earn | ganar | gagner | verdienen | guanyar | guadagnare |
+| girar | to spin | girar | tourner | drehen | girar | girare |
+| gostar | to like | gustar | aimer | mögen | agradar | piacere |
+| introduzir | to introduce | introducir | introduire | einführen | introduir | introdurre |
+| ir ao cinema | to go to the movies | ir al cine | aller au cinéma | ins Kino gehen | anar al cinema | andare al cinema |
+| jantar | to have dinner | cenar | dîner | zu Abend essen | sopar | cenare |
+| jogar | to play | jugar | jouer | spielen | jugar | giocare |
+| jogar futebol | to play football | jugar al fútbol | jouer au football | Fußball spielen | jugar a futbol | giocare a calcio |
+| lavar | to wash | lavar | laver | waschen | rentar | lavare |
+| lembrar-se | to remember | recordar | se rappeler | sich erinnern | recordar-se | ricordarsi |
+| levantar | to lift | levantar | lever | heben | aixecar | sollevare |
+| levantar-se | to get up | levantarse | se lever | aufstehen | llevar-se | alzarsi |
+| morar | to live | vivir | habiter | wohnen | viure | abitare |
+| ocupar | to occupy | ocupar | occuper | besetzen | ocupar | occupare |
+| ofrecer | to offer | ofrecer | offrir | anbieten | oferir | offrire |
+| pagar | to pay | pagar | payer | zahlen | pagar | pagare |
+| parecer | to seem | parecer | sembler | scheinen | semblar | sembrare |
+| partir | to leave | partir | partir | abreisen | partir | partire |
+| perceber | to perceive | percibir | percevoir | wahrnehmen | percebre | percepire |
+| permitir | to permit | permitir | permettre | erlauben | permetre | permettere |
+| perpassar | to pass through | pasar | passer | durchqueren | passar | passare |
+| pintar | to paint | pintar | peindre | malen | pintar | dipingere |
+| preferir | to prefer | preferir | préférer | bevorzugen | preferir | preferire |
+| proteger | to protect | proteger | protéger | schützen | protegir | proteggere |
 
 
-
-
-
-
-
-| Portuguese         | English           | Spanish           | French            | German            | Valencian          | Italian            |
-|--------------------|-------------------|-------------------|-------------------|-------------------|--------------------|---------------------|
-| cheio, cheia       | full              | lleno, llena      | plein, pleine     | voll              | ple, plena         | pieno, piena       |
-| chata, chato       | boring            | aburrido, aburrida| ennuyeux, ennuyeuse| langweilig        | avorrit, avorrida  | noioso, noiosa     |
-| nascido, nacida    | born              | nacido, nacida    | né, née           | geboren           | nascut, nascuda   | nato, nata         |
-| giro, gira         | cool              | guay              | cool              | cool              | guai              | figo, figa         |
-| tolo, tola         | foolish           | tonto, tonta      | fou, folle        | albern            | tolt, tolta       | sciocco, sciocca   |
-| bobo, boba         | silly             | tonto, tonta      | bête              | albern            | boig, boiga       | sciocco, sciocca   |
-| inteligente        | intelligent       | inteligente       | intelligent, intelligente| intelligent       | intel·ligent      | intelligente       |
-| ótimo, ótima       | great             | bueno, buena      | génial, géniale   | großartig         | òptim, òptima     | ottimo, ottima    |
-| envergonhado, envergonhada | ashamed  | avergonzado, avergonzada| honteux, honteuse| beschämt          | avergonyit, avergonyida| imbarazzato, imbarazzata |
-| despiedado, despiedada | unmerciful    | despiadado, despiadada| impitoyable   | erbarmungslos     | despietat, despietada  | spietato, spietata |
-| moreno, morena     | dark-skinned      | moreno, morena    | brun, brune       | dunkelhäutig      | moreno, morena    | scuro, scura       |
-| elegante           | thin              | delgado, delgada  | mince             | dünn              | prim              | elegante           |
-| arrumado, arrumada | tidy              | arreglado, arreglada| bien habillé, bien habillée| ordentlich   | endreçat, endreçada  | sistemato, sistemata|
-| engraçado, engraçada | funny         | gracioso, graciosa| drôle             | lustig            | divertit, divertida   | divertente        |
-| legal              | cool              | legal             | cool              | cool              | legal             | legale            |
-| barulhento, barulhenta | noisy         | ruidoso, ruidosa  | bruyant, bruyante| laut              | sorollós, sorollosa   | rumoroso, rumorosa|
-| possível          | possible          | posible           | possible          | möglich           | possible          | possibile         |
-| quase             | almost            | casi              | presque           | fast              | gairebé           | quasi             |
-| pouco             | little, few        | poco              | peu               | wenig             | poc               | poco              |
-
-
-
-
-| Portuguese         | English           | Spanish           | French            | German            | Valencian          | Italian            |
-|--------------------|-------------------|-------------------|-------------------|-------------------|--------------------|---------------------|
-| vegetais           | vegetables        | vegetales         | légumes           | Gemüse            | vegetals           | verdure             |
-| vinho              | wine              | vino              | vin               | Wein              | vi               | vino                |
-| animais            | animals           | animales          | animaux           | Tiere             | animals            | animali             |
-| laranja            | orange            | naranja           | orange            | Orange            | taronja            | arancia             |
-| previdência        | foresight         | previsión         | prévoyance        | Voraussicht       | previsió           | previdenza          |
-| traquéia           | trachea            | tráquea           | trachée           | Luftröhre        | tràquea            | trachea             |
-| cheia              | flood             | inundación        | inondation        | Flut              | creixent           | piena               |
-| beleza             | beauty            | belleza           | beauté            | Schönheit         | bellesa            | bellezza            |
-| lareira            | hearth, chimney   | hogar, chimenea   | foyer, cheminée   | Kamin             | llar, xemeneia     | camino, camino         |
-| residência         | home              | residencia        | domicile          | Zuhause           | residència         | residenza           |
-| morada             | address           | dirección         | adresse           | Adresse           | adreça             | indirizzo           |
-| entrevista         | interview         | entrevista        | entretien         | Interview         | entrevista         | intervista           |
-| pergunta           | question          | pregunta          | question          | Frage             | pregunta           | domanda            |
-| raça               | race              | raza              | race              | Rasse             | raça               | razza              |
-| borboleta          | butterfly         | mariposa          | papillon          | Schmetterling     | papallona          | farfalla            |
-| preto              | black             | negro             | noir              | Schwarz           | negre              | nero               |
-| negro              | black             | negro             | noir              | Schwarz           | negre              | nero               |
-| branco             | white             | blanco            | blanc             | Weiß              | blanc              | bianco              |
-| amarelho           | yellow            | amarillo          | jaune             | Gelb              | groc               | giallo              |
-| azul escuro        | dark blue         | azul oscuro       | bleu foncé        | Dunkelblau        | blau fosc          | blu scuro           |
-| azul claro         | light blue        | azul claro        | bleu clair        | Hellblau          | blau clar          | blu chiaro          |
-| azul              | blue              | azul              | bleu              | Blau              | blau              | blu               |
-| verde              | green             | verde             | vert              | Grün              | verd               | verde              |
-| cinzento           | gray              | gris              | gris              | Grau              | gris               | grigio             |
-| vermelho           | red               | rojo              | rouge             | Rot               | vermell            | rosso              |
-| rosa               | pink              | rosa              | rose              | Rosa              | rosa               | rosa               |
-| castanho           | brown             | marrón           | brun              | Braun             | marró              | marrone            |
-| marrom             | brown             | marrón           | brun              | Braun             | marró              | marrone            |
-| laranja            | orange            | naranja           | orange            | Orange            | taronja            | arancia             |
-| roxo               | purple            | morado           | violet            | Lila              | lila               | viola              |
-| lar               | home              | hogar            | maison            | Zuhause           | llar             | casa              |
-| endereço           | address           | dirección         | adresse           | Adresse           | adreça             | indirizzo           |
-| fogo               | fire              | fuego             | feu               | Feuer             | foc               | fuoco              |
-| fim da tarde       | evening, end of the day | fin de la tarde | fin de journée    | Abend            | final de la tarda | fine del giorno    |
-| realizador, realizadora | director (film)  | director (película)| réalisateur, réalisatrice | Regisseur(in)  | realitzador(a)    | regista (film)      |
-| beicinho           | lip, pout         | morro            | moue, boudeur      | Lippe, Schmollmund | beic              | labbro, muso       |
+| Portuguese | English | Spanish | French | German | Valencian | Italian |
+|------------|---------|---------|--------|--------|-----------|---------|
+| receber | to receive | recibir | recevoir | erhalten | rebre | ricevere |
+| resolver | to solve | resolver | résoudre | lösen | resoldre | risolvere |
+| responder | to answer | responder | répondre | antworten | respondre | rispondere |
+| resumir | to summarize | resumir | résumer | zusammenfassen | resumir | riassumere |
+| reunir | to gather | reunir | réunir | sammeln | reunir | riunire |
+| seguir | to follow | seguir | suivre | folgen | seguir | seguire |
+| sentir | to feel | sentir | sentir | fühlen | sentir | sentire |
+| sentir-se | to feel (oneself) | sentirse | se sentir | sich fühlen | sentir-se | sentirsi |
+| servir | to serve | servir | servir | servieren | servir | servire |
+| telefonar | to call (on the phone) | telefonear | téléphoner | telefonieren | telefonar | telefonare |
+| tocar | to touch/play | tocar | toucher/jouer | berühren/spielen | tocar | toccare |
+| tocar piano | to play the piano | tocar el piano | jouer du piano | Klavier spielen | tocar el piano | suonare il piano |
+| tomar | to take | tomar | prendre | nehmen | prendre | prendere |
+| trabalhar | to work | trabajar | travailler | arbeiten | treballar | lavorare |
+| traduzir | to translate | traducir | traduire | übersetzen | traduir | tradurre |
+| tratar | to treat | tratar | traiter | behandeln | tractar | trattare |
+| usar | to use | usar | utiliser | benutzen | usar | usare |
+| ver televisão | to watch television | ver la televisión | regarder la télévision | fernsehen | veure la televisió | guardare la televisione |
+| vestir | to dress | vestir | habiller | anziehen | vestir | vestire |
+| viajar | to travel | viajar | voyager | reisen | viatjar | viaggiare |
+| viver | to live | vivir | vivre | leben | viure | vivere |
 
 
 

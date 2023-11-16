@@ -4,12 +4,24 @@
 | vegetais           | vegetables        | vegetales         | légumes           | Gemüse            | vegetals           | verdure             |
 | vinho              | wine              | vino              | vin               | Wein              | vi               | vino                |
 | laranja            | orange            | naranja           | orange            | Orange            | taronja            | arancia             |
+
+
+
+| Portuguese         | English           | Spanish           | French            | German            | Valencian          | Italian            |
+|--------------------|-------------------|-------------------|-------------------|-------------------|--------------------|---------------------|
 | previdência        | foresight         | previsión         | prévoyance        | Voraussicht       | previsió           | previdenza          |
-| cheia              | flood             | inundación        | inondation        | Flut              | creixent           | piena               |
 | beleza             | beauty            | belleza           | beauté            | Schönheit         | bellesa            | bellezza            |
 | entrevista         | interview         | entrevista        | entretien         | Interview         | entrevista         | intervista           |
 | pergunta           | question          | pregunta          | question          | Frage             | pregunta           | domanda            |
 | raça               | race              | raza              | race              | Rasse             | raça               | razza              |
+
+
+
+| Portuguese         | English           | Spanish           | French            | German            | Valencian          | Italian            |
+|--------------------|-------------------|-------------------|-------------------|-------------------|--------------------|---------------------|
+| cheia              | flood             | inundación        | inondation        | Flut              | creixent           | piena               |
+
+
 
 | Portuguese         | English           | Spanish           | French            | German            | Valencian          | Italian            |
 |--------------------|-------------------|-------------------|-------------------|-------------------|--------------------|---------------------|

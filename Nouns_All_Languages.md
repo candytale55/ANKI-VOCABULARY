@@ -14,7 +14,14 @@
 | entrevista         | interview         | entrevista        | entretien         | Interview         | entrevista         | intervista           |
 | pergunta           | question          | pregunta          | question          | Frage             | pregunta           | domanda            |
 | raça               | race              | raza              | race              | Rasse             | raça               | razza              |
+| fogo               | fire              | fuego             | feu               | Feuer             | foc               | fuoco              |
+| ouro, oiro  | gold    | oro     | or     | Gold  | or        | oro     |
 
+
+
+| Portuguese         | English           | Spanish           | French            | German            | Valencian          | Italian            |
+|--------------------|-------------------|-------------------|-------------------|-------------------|--------------------|---------------------|
+| realizador, realizadora | director (film)  | director (película)| réalisateur, réalisatrice | Regisseur(in)  | realitzador(a)    | regista (film)      |
 
 
 | Portuguese         | English           | Spanish           | French            | German            | Valencian          | Italian            |
@@ -61,12 +68,7 @@
 
 | Portuguese         | English           | Spanish           | French            | German            | Valencian          | Italian            |
 |--------------------|-------------------|-------------------|-------------------|-------------------|--------------------|---------------------|
-| fogo               | fire              | fuego             | feu               | Feuer             | foc               | fuoco              |
 | fim da tarde       | evening, end of the day | fin de la tarde | fin de journée    | Abend            | final de la tarda | fine del giorno    |
-| realizador, realizadora | director (film)  | director (película)| réalisateur, réalisatrice | Regisseur(in)  | realitzador(a)    | regista (film)      |
-| ouro, oira  | gold    | oro     | or     | Gold  | or        | oro     |
-
-
 
 | Portuguese         | English           | Spanish           | French            | German            | Valencian          | Italian            |
 |--------------------|-------------------|-------------------|-------------------|-------------------|--------------------|---------------------|

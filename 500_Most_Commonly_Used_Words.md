@@ -1,40 +1,4 @@
-
-
-
-
-Portuguese	English	Spanish	French	German	Valencian	Italian
-à noite	at night	por la noche	la nuit	in der Nacht	a la nit	di notte
-à procura	looking for	buscando	à la recherche de	auf der Suche nach	a la recerca de	in cerca di
-à tarde	in the afternoon	por la tarde	dans l'après-midi	am Nachmittag	a la tarda	nel pomeriggio
-ação	action	acción	action	Aktion	acció	azione
-acima	above	arriba	au-dessus	oben	amunt	sopra
-acima de	above	por encima de	au-dessus de	über	més amunt de	al di sopra di
-acima do tudo	above all	por encima de todo	avant tout	vor allem	sobretot	soprattutto
-ações	actions	acciones	actions	Aktionen	accions	azioni
-acrescentar	add	añadir	ajouter	hinzufügen	afegir	aggiungere
-adeus	goodbye	adiós	au revoir	auf Wiedersehen	adéu	addio
-ainda não se	not yet	todavía no	pas encore	noch nicht	encara no	non ancora
-alemães	Germans	alemanes	Allemands	Deutsche	alemanys	tedeschi
-aliado, aliada	ally	aliado, aliada	allié, alliée	Verbündete	aliat, aliada	alleato, alleata
-alvéolo	alveolus	alvéolo	alvéole	Alveole	alveol	alveolo
-ameaça	threat	amenaza	menace	Bedrohung	amenaça	minaccia
-amizade	friendship	amistad	amitié	Freundschaft	amistat	amicizia
-apalpar	feel	palpar	palper	fühlen	palpar	palpare
-aquecer	heat	calentar	réchauffer	erhitzen	escalfar	riscaldare
-aquilo	that	eso	cela	das	això	quello
-ardil	ruse	ardilla	ruse	List	ardici	astuzia
-armadilha	trap	trampa	piège	Falle	emboscada	trappola
-arranjar	arrange	arreglar	organiser	arrangieren	arreglar	organizzare
-arranjar-se	get ready	arreglarse	se préparer	sich vorbereiten	arreglar-se	prepararsi
-atiçar	stir	avivar	attiser	anfeuern	atiar	attizzare
-atividade	activity	actividad	activité	Aktivität	activitat	attività
-atuação	performance	actuación	performance	Leistung	actuació	esibizione
-
-
-
-
-
-
+# The 500 most commonly used words in English with IPA
 
 
 

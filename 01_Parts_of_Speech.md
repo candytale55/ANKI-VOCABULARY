@@ -17,20 +17,40 @@
 
 | No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
 |-----|-----------|----------|----------|----------|----|----|----|
-| 9050 | então | **-** | /ẽ.'tɐ̃w̃/ | /ẽ.'tɐ̃w̃/ | adv | then | entonces |
-| 9051 | esperto, esperta | **-** | /ɨʃ.ˈpɛɾ.tu/, /ɨʃ.ˈpɛɾ.tɐ/ | /is.ˈpeʁ.tu/, /is.ˈpeʁ.tɐ/ | adj | smart | listo, lista |
-| 9052 | esquadrão | **-** | /ɨʃ.kwɐ.ˈdɾɐ̃w̃/ | /is.kwa.ˈdɾɐ̃w̃/ | s | squadron | escuadrón |
-| 9053 | exceção | **a** exceção | /ɨʃ.sɛˈsɐ̃w̃/ | /is.sɛˈsɐ̃w̃/ | sf | exception | excepción |
-| 9054 | excêntrico, excêntrica | **-** | /ɨʃ.ˈsẽt.ɾi.ku/, /ɨʃ.ˈsẽt.ɾi.kɐ/ | /is.ˈsẽt.ɾi.ku/, /is.ˈsẽt.ɾi.kɐ/ | adj | eccentric | excéntrico, excéntrica |
-| 9055 | explicação | **a** explicação | /iʃ.pli.kɐ.ˈsɐ̃w̃/ | /is.pli.kɐ.ˈsɐ̃w̃/ | sf | explanation | explicación |
-| 9056 | fã | **o** fã | /fɐ̃/ | /fɐ̃/ | sm | fan | fan |
-| 9057 | facilidade | **a** facilidade | /fɐ.si.li.ˈða.ðɨ/ | /fa.si.li.ˈða.ði/ | sf | facility | facilidad |
-| 9058 | feitiço | **o** feitiço | /fɐj.ˈti.su/ | /fej.ˈti.su/ | sm | spell | hechizo |
-| 9059 | feito | **o** feito | /ˈfɐj.tu/ | /ˈfej.tu/ | sm | made | hecho |
-| 9060 | feito | **-** | /ˈfɐj.tu/ | /ˈfej.tu/ | adj | made | hecho |
-| 9061 | felicidade | **a** felicidade | /fɨ.li.si.ða.ˈðɨ/ | /fe.li.si.ða.ˈði/ | sf | happiness | felicidad |
-| 9062 | fertilidade | **a** fertilidade | /fɨɾ.ti.li.ˈða.ðɨ/ | /fer.ti.li.ˈða.ði/ | sf | fertility | fertilidad |
-| 9063 | festa | **a** festa | /ˈfɛʃ.tɐ/ | /ˈfɛʃ.tɐ/ | sf | party | fiesta |
-| 9064 | fominha | **o** fominha | /fɔ.ˈmi.ɲɐ/ | /fo.ˈmi.ɲɐ/ | sm | greedy | glotón |
-| 9065 | gaiola | **a** gaiola | /ɡɐ.ˈjɔ.lɐ/ | /ɡɐj.ˈɔ.lɐ/ | sf | cage | jaula |
-| 9066 | giro | **o** giro | /ˈʒi.ɾu/ | /ˈʒi.ɾu/ | sm | cool | guay |
+| 9067 | graúdo, graúda | **-** | /ɡɾɐ.'u.du/, /ɡɾɐ.'u.dɐ/ | /ɡɾɐ.'u.du/, /ɡɾɐ.'u.dɐ/ | adj | grown-up, adult | grande |
+| 9068 | graúdo, graúda | **o** graúdo, **a** graúda | /ɡɾɐ.'u.du/, /ɡɾɐ.'u.dɐ/ | /ɡɾɐ.'u.du/, /ɡɾɐ.'u.dɐ/ | s | grown-up, adult | grande |
+| 9069 | gris (BR) | **o** gris | /ɡɾiʃ/ | /ɡɾis/ | s | gray | gris |
+| 9070 | grisalho (cabelo) | **o** grisalho, **a** grisalha | /ɡɾi.ˈza.ʎu/ | /ɡɾi.ˈza.ʎu/ | s | gray | canoso |
+| 9071 | guarnição | **a** guarnição | /ɡwaɾ.ni.ˈsɐ̃w̃/ | /ɡwaʁ.ni.ˈsɐ̃w̃/ | s | trim | guarnición |
+| 9072 | habilidade | **a** habilidade | /ɐ.bi.li.ˈda.ðɨ/ | /a.bi.li.ˈda.dʒi/ | s | skill | habilidad |
+| 9073 | humanidade | **a** humanidade | /u.mɐ.ni.ˈda.dɨ/ | /u.mɐ.ni.ˈda.dʒi/ | s | humanity | humanidad |
+| 9074 | idade | **a** idade | /i.ˈda.ðɨ/ | /i.ˈda.dʒi/ | s | age | edad |
+| 9075 | incômodo, incômoda | **o** incômodo, **a** incômoda | /ĩ.ˈko.mu.ðu/, /ĩ.ˈko.mu.dɐ/ | /ĩ.ˈko.mo.du/, /ĩ.ˈko.mo.dɐ/ | adj | uncomfortable | incómodo, incómoda |
+| 9076 | independente | **independente** | /ĩ.ˌde.pẽ.ˈdẽ.tɨ/ | /ĩ.ˌde.pẽ.ˈdẽ.tʃi/ | adj | independent | independiente |
+| 9077 | informação | **a** informação | /ĩ.foɾ.mɐ.ˈsɐ̃w̃/ | /ĩ.foɾ.mɐ.ˈsɐ̃w̃/ | s | information | información |
+| 9078 | inimigo, inimiga | **o** inimigo, **a** inimiga | /i.ˈni.mi.ɡu/, /i.ˈni.mi.ɡɐ/ | /i.ˈni.mi.ɡu/, /i.ˈni.mi.ɡɐ/ | s | enemy | enemigo, enemiga |
+| 9079 | inimigo, inimiga | **-** | /i.ˈni.mi.ɡu/, /i.ˈni.mi.ɡɐ/ | /i.ˈni.mi.ɡu/, /i.ˈni.mi.ɡɐ/ | adj | enemy | enemigo, enemiga |
+| 9080 | inútil | **-** | /i.ˈnu.tu/ | /i.ˈnu.tʃi/ | adj | useless | inútil |
+| 9081 | já | **-** | /ʒa/ | /ʒa/ | adv | already | ya |
+| 9082 | já chega | **-** | /ʒa ˈʃɛ.ɡɐ/ | /ʒa ˈʃɛ.ɡɐ/ | expres | enough | ya es suficiente |
+| 9083 | já vejo | **-** | /ʒa ˈve.ʒu/ | /ʒa ˈve.ʒu/ | express | I see | ya veo |
+| 9084 | lã | **a** lã | /ˈlɐ̃/ | /ˈlɐ̃/ | s | wool | lana |
+| 9085 | liberdade | **a** liberdade | /li.bɨɾ.ˈda.ðɨ/ | /li.bẽ.ˈda.dʒi/ | s | freedom | libertad |
+| 9086 | limão | **o** limão | /li.ˈmɐ̃w̃/ | /li.ˈmɐ̃w̃/ | s | lemon | limón |
+| 9087 | mãe | **a** mãe | /mɐ̃j/ | /mɐ̃j/ | s | mother | madre |
+| 9088 | maluco, maluca | **o** maluco, **a** maluca | /mɐ.ˈlu.ku/, /mɐ.ˈlu.kɐ/ | /ma.ˈlu.ku/, /ma.ˈlu.kɐ/ | s | crazy | loco, loca |
+| 9089 | manchete | **a** manchete | /mɐ̃.ˈʃɛ.tɨ/ | /mɐ̃.ˈʃɛ.tʃi/ | s | headline | titular |
+| 9090 | mão | **a** mão | /mɐ̃w̃/ | /mɐ̃w̃/ | s | hand | mano |
+| 9091 | medo | **o** medo | /ˈme.ðu/ | /ˈme.du/ | n | fear | miedo |
+| 9092 | miúdo, miúda | **o** miúdo, **a** miúda | /mi.ˈu.du/, /mi.ˈu.dɐ/ | /mi.ˈu.du/, /mi.ˈu.dɐ/ | n | small | pequeño, pequeña |
+| 9093 | miúdo, miúda | **-** | /mi.ˈu.du/, /mi.ˈu.dɐ/ | /mi.ˈu.du/, /mi.ˈu.dɐ/ | adj | small | pequeño, pequeña |
+| 9094 | morro | **o** morro | /ˈmoʁu/ | /ˈmoʁu/ | s | hill | colina |
+| 9095 | mudar | **-** | /mu.ˈdaɾ/ | /mu.ˈdaʁ/ | v | change | cambiar |
+| 9096 | nação | **a** nação | /nɐ.ˈsɐ̃w̃/ | /na.ˈsɐ̃w̃/ | s | nation | nación |
+| 9097 | não | **o** não | /nɐ̃w̃/ | /nɐ̃w̃/ | s | no | no |
+| 9098 | não tenho certeza | **-** | /nɐ̃w̃ ˈte.ɲu seɾ.ˈte.zɐ/ | /nɐ̃w̃ ˈte.ɲu seɾ.ˈte.zɐ/ | expres | I'm not sure | no estoy seguro |
+| 9099 | nota | **a** nota | /ˈnɔ.tɐ/ | /ˈnɔ.tɐ/ | s | note | nota |
+| 9100 | nunca | **-** | /ˈnũ.kɐ/ | /ˈnũ.kɐ/ | adv | never | nunca |
+| 9101 | observação | **a** observação | /ɔbʃeɾvɐ.si.ˈɐ̃w̃/ | /obseɾva.si.ˈɐ̃w̃/ | s | observation | observación |
+| 9102 | opção | **a** opção | /ɔp.ˈsɐ̃w̃/ | /op.ˈsɐ̃w̃/ | s | option | opción |
+| 9103 | operação | **a** operação | /ɔ.pe.ɾɐ.si.ˈɐ̃w̃/ | /o.pe.ɾa.si.ˈɐ̃w̃/ | s | operation | operación |

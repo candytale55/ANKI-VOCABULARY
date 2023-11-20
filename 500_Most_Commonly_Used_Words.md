@@ -1,10 +1,5 @@
 # The 500 most commonly used words in English with IPA
 
-
-
-
-# The 500 most commonly used words in English with IPA
-
 | No. | English Word | Type of Word | English IPA (USA) | English IPA (UK) | Word in Spanish |
 |---|---|---|---|---|---|
 | 1 | the | article | /ðə/ | /ðə/ | el/la/los/las |

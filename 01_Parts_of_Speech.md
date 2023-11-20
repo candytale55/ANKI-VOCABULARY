@@ -29,34 +29,32 @@
 
 
 
-| Português | English | Spanish | German | Valencian | Italian |
-|-----------|---------|---------|--------|-----------|---------|
-| abade | abbot | abad | Abt | abat | abate |
-| aceitabilidade | acceptability | aceptabilidad | Akzeptabilität | acceptabilitat | accettabilità |
-| acerbidade | acerbity | acritud | Herbheit | acidesa | acerbità |
-| acessibilidade | accessibility | accesibilidad | Zugänglichkeit | accessibilitat | accessibilità |
-| acuidade | acuity | agudeza | Schärfe | agudesa | acume |
-| acuracidade | accuracy | exactitud | Genauigkeit | acuracitat | accuratezza |
-| adaptabilidade | adaptability | adaptabilidad | Anpassungsfähigkeit | adaptabilitat | adattabilità |
-| adequabilidade | suitability | idoneidad | Eignung | adequabilitat | adeguatezza |
-| adiposidade | adiposity | adiposidad | Adipositas | adipositat | adiposità |
-| admissibilidade | admissibility | admisibilidad | Zulässigkeit | admissibilitat | ammissibilità |
-| adversidade | adversity | adversidad | Widrigkeit | adversitat | avversità |
-| afabilidade | affability | afabilidad | Liebenswürdigkeit | afabilitat | affabilità |
-| afetividade | affectivity | afectividad | Affektivität | afectivitat | affettività |
-| afetuosidade | affectionateness | afectuosidad | Zärtlichkeit | afectuositat | affettuosità |
-| afinidade | affinity | afinidad | Affinität | afinidad | affinità |
-| agilidade | agility | agilidad | Wendigkeit | agilitat | agilità |
-| agradabilidade | agreeableness | agradabilidad | Liebenswürdigkeit | agradabilitat | gradevolezza |
-| agressividade | aggressiveness | agresividad | Aggressivität | agressivitat | aggressività |
-| airosidade | gracefulness | elegancia | Anmutigkeit | airejositat | agiatezza |
-| alacridade | eagerness | alacridad | Eifer | alacritat | alacrità |
-| aleatoriedade | randomness | aleatoriedad | Zufälligkeit | aleatorietat | aleatorietà |
-| alidade | alidade | alidada | Alidade | alidada | alidada |
-| alteridade | alterity | alteridad | Andersheit | alteritat | alterità |
-| alternidade | alternation | alternancia | Abwechslung | alternància | alternanza |
-| amabilidade | friendliness | amabilidad | Freundlichkeit | amabilitat | amabilità |
-| ambiguidade | ambiguity | ambigüedad | Mehrdeutigkeit | ambigüitat | ambiguità |
-| amenidade | pleasantness | amenidad | Angenehmheit | amenitat | amenità |
-
-
+| Português | English | Spanish | French | German | Valencian | Italian |
+|-----------|---------|---------|--------|--------|-----------|---------|
+| abade | abbot | abad | abbé | Abt | abat | abate |
+| aceitabilidade | acceptability | aceptabilidad | acceptabilité | Akzeptabilität | acceptabilitat | accettabilità |
+| acerbidade | acerbity | acritud | âpreté | Herbheit | acidesa | acerbità |
+| acessibilidade | accessibility | accesibilidad | accessibilité | Zugänglichkeit | accessibilitat | accessibilità |
+| acuidade | acuity | agudeza | acuité | Schärfe | agudesa | acume |
+| acuracidade | accuracy | exactitud | précision | Genauigkeit | acuracitat | accuratezza |
+| adaptabilidade | adaptability | adaptabilidad | adaptabilité | Anpassungsfähigkeit | adaptabilitat | adattabilità |
+| adequabilidade | suitability | idoneidad | adéquation | Eignung | adequabilitat | adeguatezza |
+| adiposidade | adiposity | adiposidad | adiposité | Adipositas | adipositat | adiposità |
+| admissibilidade | admissibility | admisibilidad | admissibilité | Zulässigkeit | admissibilitat | ammissibilità |
+| adversidade | adversity | adversidad | adversité | Widrigkeit | adversitat | avversità |
+| afabilidade | affability | afabilidad | affabilité | Liebenswürdigkeit | afabilitat | affabilità |
+| afetividade | affectivity | afectividad | affectivité | Affektivität | afectivitat | affettività |
+| afetuosidade | affectionateness | afectuosidad | affection | Zärtlichkeit | afectuositat | affettuosità |
+| afinidade | affinity | afinidad | affinité | Affinität | afinidad | affinità |
+| agilidade | agility | agilidad | agilité | Wendigkeit | agilitat | agilità |
+| agradabilidade | agreeableness | agradabilidad | agréabilité | Liebenswürdigkeit | agradabilitat | gradevolezza |
+| agressividade | aggressiveness | agresividad | agressivité | Aggressivität | agressivitat | aggressività |
+| airosidade | gracefulness | elegancia | grâce | Anmutigkeit | airejositat | agiatezza |
+| alacridade | eagerness | alacridad | ardeur | Eifer | alacritat | alacrità |
+| aleatoriedade | randomness | aleatoriedad | aléatoire | Zufälligkeit | aleatorietat | aleatorietà |
+| alidade | alidade | alidada | alidade | Alidade | alidada | alidada |
+| alteridade | alterity | alteridad | altérité | Andersheit | alteritat | alterità |
+| alternidade | alternation | alternancia | alternance | Abwechslung | alternància | alternanza |
+| amabilidade | friendliness | amabilidad | amabilité | Freundlichkeit | amabilitat | amabilità |
+| ambiguidade | ambiguity | ambigüedad | ambiguïté | Mehrdeutigkeit | ambigüitat | ambiguità |
+| amenidade | pleasantness | amenidad | agrément | Angenehmheit | amenitat | amenità |

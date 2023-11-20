@@ -1,5 +1,4 @@
 
-
 # PARTS OF SPEECH
 
 | English Word | Portuguese Word | Spanish Word | Valencian Word |  French Word | German Word | Italian Word   |

@@ -464,3 +464,36 @@
 | hostilidade | hostility | hostilidad | hostilité | Feindseligkeit | hostilitat | ostilità |
 | humanidade | humanity | humanidad | humanité | Menschlichkeit | humanitat | umanità |
 | humildade | humility | humildad | humilité | Bescheidenheit | humilitat | umiltà |
+
+| Português | English | Spanish | French | German | Valencian | Italian |
+|-----------|---------|---------|--------|--------|-----------|---------|
+| iconicidade | iconicity | iconicidad | iconicité | Ikonizität | iconicitat | iconicità |
+| idade | age | edad | âge | Alter | edat | età |
+| idealidade | ideality | idealidad | idéalité | Idealität | idealitat | idealità |
+| identidade | identity | identidad | identité | Identität | identitat | identità |
+| idoneidade | suitability | idoneidad | adéquation | Eignung | idoneïtat | idoneità |
+| igualdade | equality | igualdad | égalité | Gleichheit | igualtat | uguaglianza |
+| ilegalidade | illegality | ilegalidad | illégalité | Illegalität | il·legalitat | illegalità |
+| ilegibilidade | illegibility | ilegibilidad | illisibilité | Unleserlichkeit | il·legibilitat | illeggibilità |
+| ilegitimidade | illegitimacy | ilegitimidad | illégitimité | Illegitimität | il·legitimitat | illegittimità |
+| ilogicidade | illogicality | ilogicidad | illogicité | Unlogik | il·logicitat | illogicità |
+| imaturidade | immaturity | inmadurez | immaturité | Unreife | immaduresa | immaturità |
+| imbecilidade | imbecility | imbecilidad | imbécilité | Imbecilität | imbecilitat | imbecillità |
+| imediaticidade | immediacy | inmediatez | immédiateté | Unmittelbarkeit | immediatesa | immediatezza |
+| imediatidade | immediateness | inmediatez | immédiateté | Unmittelbarkeit | immediatesa | immediatezza |
+| imensidade | immensity | inmensidad | immensité | Unendlichkeit | immensitat | immensità |
+| imobilidade | immobility | inmovilidad | immobilité | Unbeweglichkeit | immobilitat | immobilità |
+| imoralidade | immorality | inmoralidad | immoralité | Immoralität | immoralitat | immoralità |
+| imortalidade | immortality | inmortalidad | immortalité | Unsterblichkeit | immortalitat | immortalità |
+| imparcialidade | impartiality | imparcialidad | impartialité | Unparteilichkeit | imparcialitat | imparzialità |
+| imparidade | inequality | desigualdad | inégalité | Ungleichheit | desigualtat | disuguaglianza |
+| impassibilidade | impassivity | impasibilidad | impassibilité | Unerschütterlichkeit | impassivitat | impassibilità |
+| impecabilidade | impeccability | impecabilidad | impeccabilité | Unfehlbarkeit | impecabilitat | impeccabilità |
+| impenetrabilidade | impregnability | impenetrabilidad | impénétrabilité | Undurchdringlichkeit | impenetrabilitat | impenetrabilità |
+| impenhorabilidade | unseizability | inembargabilidad | inaisissabilité | Unpfändbarkeit | inemparabilitat | inalienabilità |
+| imperatividade | imperativeness | imperatividad | impérativité | Zwingendheit | imperativitat | imperatività |
+| impermeabilidade | impermeability | impermeabilidad | imperméabilité | Undurchlässigkeit | impermeabilitat | impermeabilità |
+| impersonalidade | impersonality | impersonalidad | impersonnalité | Unpersönlichkeit | impersonalitat | impersonalità |
+| imperturbabilidade | imperturbability | imperturbabilidad | imperturbabilité | Unerschütterlichkeit | impertorbabilitat | imperturbabilità |
+| impessoalidade | impersonality | impersonalidad | impersonnalité | Unpersönlichkeit | impersonalitat | impersonalità |
+| impetuosidade | impetuosity | ímpetu | impétuosité | Ungestümheit | ímpetu | impetuosità |

@@ -353,3 +353,31 @@
 | estaticidade | staticity | estaticidad | staticité | Statisches Verhalten | estaticitat | staticità |
 | esterilidade | sterility | esterilidad | stérilité | Sterilität | esterilitat | sterilità |
 | estoicidade | stoicism | estoicidad | stoïcisme | Stoiszismus | estoïcitat | stoicità |
+
+| Português | English | Spanish | French | German | Valencian | Italian |
+|-----------|---------|---------|--------|--------|-----------|---------|
+| estraneidade | strangeness | extrañeza | étrangeté | Fremdheit | estranyesa | estraneità |
+| eternidade | eternity | eternidad | éternité | Ewigkeit | eternitat | eternità |
+| eticidade | ethics | eticidad | éthique | Ethik | ètica | eticità |
+| etnicidade | ethnicity | etnicidad | ethnicité | Ethnizität | ètnicitat | etnicità |
+| eventualidade | eventuality | eventualidad | éventualité | Eventualität | eventualitat | eventualità |
+| excentricidade | eccentricity | excentricidad | excentricité | Exzentrizität | excentricitat | eccentricità |
+| excepcionalidade | exceptionality | excepcionalidad | exceptionnalité | Ausnahmigkeit | excepcionalitat | eccezionalità |
+| excessividade | excessiveness | excesividad | excessivité | Übermäßigkeit | excessivitat | eccessività |
+| excitabilidade | excitability | excitabilidad | excitabilité | Erregbarkeit | excitabilitat | eccitabilità |
+| exclusividade | exclusivity | exclusividad | exclusivité | Exklusivität | exclusivitat | esclusività |
+| exequibilidade | feasibility | viabilidad | faisabilité | Durchführbarkeit | viabilitat | fattibilità |
+| exigibilidade | exigibility | exigibilidad | exigibilité | Einfordern | exigibilitat | esigibilità |
+| exiguidade | smallness | estrechez | exiguité | Enge | exigüitat | esiguità |
+| exoticidade | exoticism | exotismo | exotisme | Exotik | exotisme | esotismo |
+| expansibilidade | expansibility | expansibilidad | extensibilité | Ausdehnbarkeit | expansibilitat | espansibilità |
+| expressividade | expressiveness | expresividad | expressivité | Ausdruck | expressivitat | espressività |
+| extemporaneidade | extemporaneity | extemporaneidad | extemporanéité | Unzeitgemäßheit | extemporaneitat | estemporaneità |
+| extensibilidade | extensibility | extensibilidad | extensibilité | Ausdehnbarkeit | extensibilitat | estensibilità |
+| exterioridade | externality | exterioridad | extériorité | Exteriorität | exterioritat | esteriorità |
+| externalidade | externality | externalidad | extériorité | Externalität | externalitat | esternalità |
+| extremidade | extremity | extremidad | extrémité | Extremität | extremetat | estremità |
+| facilidade | facility | facilidad | facilité | Leichtigkeit | facilitat | facilità |
+| factibilidade | feasibility | viabilidad | faisabilité | Durchführbarkeit | viabilitat | fattibilità |
+| facticidade | facticity | facticidad | facticité | Faktizität | factualitat | facticità |
+| faculdade | faculty | facultad | faculté | Fakultät | facultat | facoltà |

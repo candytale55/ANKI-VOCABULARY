@@ -157,6 +157,62 @@
 
 | Português | English | Spanish | French | German | Valencian | Italian |
 |-----------|---------|---------|--------|--------|-----------|---------|
+| coercibilidade | coercibility | coercibilidad | coercibilité | Zwangsfähigkeit | coercibilitat | coercibilità |
+| coercitividade | coercitivity | coercitividad | coercitivité | Zwangsmäßigkeit | coercivitat | coercitività |
+| coercividade | coercivity | coercividad | coercivité | Zwang | coercivitat | coercività |
+| coesividade | cohesiveness | cohesión | cohésion | Zusammenhalt | cohesió | coesività |
+| cognitividade | cognitivity | cognitividad | cognitivité | Kognitivität | cognitivitat | cognitività |
+| cognoscibilidade | cognoscibility | cognoscibilidad | cognoscibilité | Erkennbarkeit | cognoscibilitat | cognoscibilità |
+| coletividade | collectivity | colectividad | collectivité | Kollektivität | col·lectivitat | collettività |
+| coloquialidade | colloquiality | coloquialidad | familiarité | Umgangssprache | col·loquialitat | colloquialità |
+| combatividade | combativeness | combatividad | combativité | Kampfbereitschaft | combativitat | combattività |
+| comensalidade | commensality | comensalidad | commensalité | Gemeinschaftsessen | comensalitat | comensalità |
+| comensurabilidade | commensurability | conmensurabilidad | commensurabilité | Kongruenz | comensurabilitat | commensurabilità |
+| comicidade | comicality | comicidad | comicalité | Komik | comicitat | comicità |
+| comodidade | convenience | comodidad | commodité | Bequemlichkeit | comoditat | comodità |
+| comorbidade | comorbidity | comorbilidad | comorbidité | Komorbidität | comorbiditat | comorbilità |
+| comorbilidade | comorbidity | comorbilidad | comorbidité | Komorbidität | comorbiditat | comorbilità |
+| compacidade | compactness | compacidad | compacité | Kompaktheit | compacitat | compattezza |
+| comparabilidade | comparability | comparabilidad | comparabilité | Vergleichbarkeit | comparabilitat | comparabilità |
+| compassividade | compassion | compasión | compassion | Mitgefühl | compassivitat | compassione |
+| compatibilidade | compatibility | compatibilidad | compatibilité | Kompatibilität | compatibilitat | compatibilità |
+| competitividade | competitiveness | competitividad | compétitivité | Wettbewerbsfähigkeit | competitivitat | competitività |
+| complementaridade | complementarity | complementariedad | complémentarité | Komplementarität | complementaritat | complementarità |
+| complexidade | complexity | complejidad | complexité | Komplexität | complexitat | complessità |
+
+
+
+
+
+
+| Português | English | Spanish | French | German | Valencian | Italian |
+|-----------|---------|---------|--------|--------|-----------|---------|
+| compreensibilidade | comprehensibility | comprensibilidad | compréhensibilité | Verständlichkeit | comprensibilitat | comprensibilità |
+| compreensividade | comprehensiveness | comprensividad | compréhensivité | Umfassendheit | comprensivitat | comprensività |
+| compressibilidade | compressibility | compresibilidad | compressibilité | Kompressibilität | compressibilitat | compressibilità |
+| compulsividade | compulsivity | compulsividad | compulsivité | Zwanghaftigkeit | compulsivitat | compulsività |
+| compulsoriedade | compulsoriness | compulsoriedad | compulsorité | Zwangscharakter | compulsorietat | compulsorietà |
+| comunicabilidade | communicability | comunicabilidad | communicabilité | Kommunizierbarkeit | comunicabilitat | comunicabilità |
+| comunicatividade | communicativeness | comunicatividad | communicativité | Kommunikativität | comunicativitat | comunicatività |
+| comunidade | community | comunidad | communauté | Gemeinschaft | comunitat | comunità |
+| concavidade | concavity | concavidad | concavité | Konkavität | concavitat | concavità |
+| concentricidade | concentricity | concentricidad | concentricité | Konzentrizität | concentricitat | concentricità |
+| condicionalidade | conditionality | condicionalidad | conditionnalité | Konditionalität | condicionalitat | condizionalità |
+| condutibilidade | conductivity | conductividad | conductivité | Leitfähigkeit | conductivitat | conducibilità |
+| condutividade | conductivity | conductividad | conductivité | Leitfähigkeit | conductivitat | conducibilità |
+| conectividade | connectivity | conectividad | connectivité | Konnektivität | connectivitat | connettività |
+| confiabilidade | reliability | confiabilidad | fiabilité | Zuverlässigkeit | fiabilitat | affidabilità |
+| conformidade | conformity | conformidad | conformité | Konformität | conformitat | conformità |
+| confortabilidade | comfortability | confortabilidad | confortabilité | Bequemlichkeit | confortabilitat | comfortabilità |
+| confrade | fellow member | cofrade | confrère | Bruder | confrare | confratello |
+| confraternidade | fraternity | confraternidad | fraternité | Brüderlichkeit | confraternitat | fratellanza |
+| congenialidade | congeniality | congenialidad | convivialité | Geselligkeit | congenialitat | congenialità |
+| conicidade | conicity | conicidad | conicité | Konizität | conicitat | conicità |
+| consanguinidade | consanguinity | consanguinidad | consanguinité | Blutsverwandtschaft | consanguinitat | consanguineità |
+
+
+| Português | English | Spanish | French | German | Valencian | Italian |
+|-----------|---------|---------|--------|--------|-----------|---------|
 | consensualidade | consensuality | consensualidad | consensualité | Konsensualität | consensualitat | consensualità |
 | conspicuidade | conspicuity | conspicuidad | conspicuité | Auffälligkeit | conspicuitat | conspicuità |
 | constitucionalidade | constitutionality | constitucionalidad | constitutionnalité | Verfassungsmäßigkeit | constitucionalitat | costituzionalità |

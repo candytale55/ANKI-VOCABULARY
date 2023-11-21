@@ -295,3 +295,31 @@
 | divindade | divinity | divinidad | divinité | Göttlichkeit | divinitat | divinità |
 | divisibilidade | divisibility | divisibilidad | divisibilité | Teilbarkeit | divisibilitat | divisibilità |
 | docilidade | docility | docilidad | docilité | Fügsamkeit | docilitat | docilità |
+
+
+
+
+| Português | English | Spanish | French | German | Valencian | Italian |
+|-----------|---------|---------|--------|--------|-----------|---------|
+| dramaticidade | dramatic nature | dramaticidad | nature dramatique | dramatische Natur | dramaticitat | natura drammatica |
+| dualidade | duality | dualidad | dualité | Dualität | dualitat | dualità |
+| dubiedade | doubt | duda | doute | Zweifel | dubte | dubbio |
+| ductilidade | ductility | ductilidad | ductilité | Duktilität | ductilitat | duttilità |
+| duplicidade | duplicity | duplicidad | duplicité | Doppelsinnigkeit | duplicitat | duplicità |
+| durabilidade | durability | durabilidad | durabilité | Haltbarkeit | durabilitat | durabilità |
+| ebriedade | drunkenness | embriaguez | ivresse | Trunkenheit | embriaguesa | ubriachezza |
+| ecceidade | ecceity | ecceidad | ecceité | Eigenartigkeit | ecceitat | ecceità |
+| economicidade | economicity | economicidad | economicité | Wirtschaftlichkeit | economicitat | economicità |
+| edilidade | edility | edilidad | édilité | Bauwürdigkeit | edilitat | edilità |
+| educabilidade | educability | educabilidad | éducabilité | Bildungsfähigkeit | educabilitat | educabilità |
+| efemeridade | ephemerality | efemeridad | éphémérité | Vergänglichkeit | efemeritat | effimera |
+| efetividade | effectiveness | efectividad | efficacité | Effektivität | efectivitat | efficacia |
+| egocentricidade | egocentricity | egocentrismo | égocentrisme | Egomanie | egocentrisme | egocentrismo |
+| elasticidade | elasticity | elasticidad | élasticité | Elastizität | elasticitat | elasticità |
+| elegibilidade | eligibility | elegibilidad | éligibilité | Eignung | elegibilitat | eleggibilità |
+| eletividade | selectivity | electividad | électivité | Selektivität | electivitat | elettività |
+| eletricidade | electricity | electricidad | électricité | Elektrizität | electricitat | elettricità |
+| emocionalidade | emotionality | emocionalidad | émotionalité | Emotionalität | emocionalitat | emotionalità |
+| emotividade | emotivity | emotividad | émotivité | Emotivität | emotivitat | emotività |
+| empregabilidade | employability | empleabilidad | employabilité | Beschäftigungsfähigkeit | empleabilitat | occupabilità |
+| endemicidade | endemism | endemicidad | endémisme | Endemismus | endemitat | endemismo |

@@ -57,3 +57,25 @@
 | amabilidade | friendliness | amabilidad | amabilité | Freundlichkeit | amabilitat | amabilità |
 | ambiguidade | ambiguity | ambigüedad | ambiguïté | Mehrdeutigkeit | ambigüitat | ambiguità |
 | amenidade | pleasantness | amenidad | agrément | Angenehmheit | amenitat | amenità |
+
+
+| Português | English | Spanish | French | German | Valencian | Italian |
+|-----------|---------|---------|--------|--------|-----------|---------|
+| amizade | friendship | amistad | amitié | Freundschaft | amistat | amicizia |
+| amoralidade | amorality | amoralidad | amorale | Amoralität | amoralitat | amorale |
+| amorosidade | lovingness | amorosidad | amour | Liebe | amorositat | amorevolezza |
+| ancestralidade | ancestrality | ancestralidad | ancestralité | Abstammung | ancestralitat | ancestralità |
+| ancianidade | old age | ancianidad | vieillesse | Alter | ancianitat | vecchiaia |
+| anfractuosidade | intricacy | anfractuosidad | intricacité | Verästelung | anfractuositat | complessità |
+| animalidade | animality | animalidad | animalité | Animalität | animalitat | animalità |
+| animosidade | animosity | animosidad | animosité | Feindseligkeit | animositat | animosità |
+| anormalidade | abnormality | anormalidad | anomalie | Abnormität | anormalitat | anormalità |
+| ansiedade | anxiety | ansiedad | anxiété | Angst | ansietat | ansia |
+| ansiosidade | impatience | ansiosidad | impatience | Ungeduld | ansiositat | ansiosità |
+| anterioridade | anteriority | anterioridad | anteriorité | Vorherigkeit | anterioritat | anteriorità |
+| antigenicidade | antigenicity | antigenicidad | antigénicité | Antigenität | antigenicitat | antigenicità |
+| antiguidade | antiquity | antigüedad | antiquité | Antike | antiguitat | antichità |
+| anualidade | annuity | anualidad | annuité | Rente | anualitat | rendita annua |
+| anuidade | annual fee | anualidad | cotisation annuelle | Jahresgebühr | anualitat | tassa annuale |
+| aplicabilidade | applicability | aplicabilidad | applicabilité | Anwendbarkeit | aplicabilitat | applicabilità |
+| apropriabilidade | appropriateness | idoneidad | pertinence | Angemessenheit | adequabilitat | adeguatezza |

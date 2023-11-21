@@ -104,3 +104,24 @@
 | autopiedade | self-pity | autopiedad | autopitié | Selbstmitleid | autopietat | autopietà |
 | autoridade | authority | autoridad | autorité | Autorität | autoritat | autorità |
 
+
+
+| Português | English | Spanish | French | German | Valencian | Italian |
+|-----------|---------|---------|--------|--------|-----------|---------|
+| banalidade | banality | banalidad | banalité | Banalität | banalitat | banalità |
+| barbaridade | barbarity | barbaridad | barbarité | Barbarei | barbàrie | barbarie |
+| basicidade | basicity | basicidad | basicité | Basizität | basicitat | basicità |
+| beldade | beauty | belleza | beauté | Schönheit | bellesa | bellezza |
+| belicosidade | bellicosity | belicosidad | bellicocité | Kriegerischkeit | bel·licositat | bellicosità |
+| benignidade | benignity | benignidad | bienveillance | Freundlichkeit | benignitat | benignità |
+| bestialidade | bestiality | bestialidad | bestialité | Bestialität | bestialitat | bestialità |
+| bidimensionalidade | bidimensionality | bidimensionalidad | bidimensionalité | Zweidimensionalität | bidimensionalitat | bidimensionalità |
+| bilateralidade | bilaterality | bilateralidad | bilateralité | Bilateralität | bilateralitat | bilateralità |
+| biodisponibilidade | bioavailability | biodisponibilidad | biodisponibilité | Bioverfügbarkeit | biodisponibilitat | biodisponibilità |
+| biodiversidade | biodiversity | biodiversidad | biodiversité | Biodiversität | biodiversitat | biodiversità |
+| bipolaridade | bipolarity | bipolaridad | bipolarité | Bipolarität | bipolaritat | bipolarità |
+| boçalidade | boorishness | grosería | grossièreté | Grobheit | boçalitat | rozzezza |
+| bondade | goodness | bondad | bonté | Güte | bondat | bontà |
+| brasilidade | Braziliness | brasilidad | brésilianité | Brasilianität | brasilianitat | brasilianità |
+| brevidade | brevity | brevedad | brièveté | Kürze | brevetat | brevità |
+| brutalidade | brutality | brutalidad | brutalité | Brutalität | brutalitat | brutalità |

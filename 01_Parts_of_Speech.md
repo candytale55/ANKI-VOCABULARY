@@ -267,3 +267,31 @@
 | desnecessidade | unnecessity | innecesidad | non-nécessité | Unnötigkeit | innecessitat | inutilità |
 | desonestidade | dishonesty | deshonestidad | malhonnêteté | Unehrlichkeit | deshonestitat | disonestà |
 | desproporcionalidade | disproportionality | desproporcionalidad | disproportionnalité | Disproportionalität | desproporcionalitat | sproporzione |
+
+
+| Português | English | Spanish | French | German | Valencian | Italian |
+|-----------|---------|---------|--------|--------|-----------|---------|
+| desumanidade | inhumanity | deshumanidad | inhumanité | Unmenschlichkeit | deshumanitat | disumanità |
+| desuniformidade | non-uniformity | desuniformidad | non-uniformité | Unregelmäßigkeit | desuniformitat | disuniformità |
+| díade | dyad | diada | dyade | Dyade | diada | diade |
+| diafaneidade | diaphanousness | diafanidad | diaphanéité | Durchsichtigkeit | diafanitat | diafaneità |
+| dialogicidade | dialogicality | dialogicidad | dialogicité | Dialogizität | dialogicitat | dialogicità |
+| dificuldade | difficulty | dificultad | difficulté | Schwierigkeit | dificultat | difficoltà |
+| digestibilidade | digestibility | digestibilidad | digestibilité | Verdaulichkeit | digestibilitat | digestibilità |
+| dignidade | dignity | dignidad | dignité | Würde | dignitat | dignità |
+| dinamicidade | dynamicity | dinamicidad | dynamicité | Dynamik | dinamicitat | dinamicità |
+| diretividade | directivity | directividad | directivité | Direktivität | directivitat | direttività |
+| dirigibilidade | dirigibility | dirigibilidad | dirigibilité | Lenkbarkeit | dirigibilitat | dirigibilità |
+| disciplinaridade | disciplinarity | disciplinaridad | disciplinarité | Disziplinarität | disciplinaritat | disciplinarietà |
+| discricionariedade | discretion | discrecionalidad | discrétion | Ermessensspielraum | discrecionalitat | discrezionalità |
+| discursividade | discursiveness | discursividad | discursivité | Diskursivität | discursivitat | discorsività |
+| disformidade | deformity | deformidad | difformité | Missgestalt | deformitat | deformità |
+| disfuncionalidade | dysfunctionality | disfuncionalidad | dysfonctionnalité | Dysfunktionalität | disfuncionalitat | disfunzionalità |
+| disparidade | disparity | disparidad | disparité | Ungleichheit | disparitat | disparità |
+| disponibilidade | availability | disponibilidad | disponibilité | Verfügbarkeit | disponibilitat | disponibilità |
+| dissociabilidade | dissociability | dissociabilidad | dissociabilité | Lösbarkeit | dissociabilitat | dissociabilità |
+| diuturnidade | long duration | diuturnidad | longue durée | Lange Dauer | diuturnitat | diuturnità |
+| diversidade | diversity | diversidad | diversité | Vielfalt | diversitat | diversità |
+| divindade | divinity | divinidad | divinité | Göttlichkeit | divinitat | divinità |
+| divisibilidade | divisibility | divisibilidad | divisibilité | Teilbarkeit | divisibilitat | divisibilità |
+| docilidade | docility | docilidad | docilité | Fügsamkeit | docilitat | docilità |

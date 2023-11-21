@@ -125,3 +125,31 @@
 | brasilidade | Braziliness | brasilidad | brésilianité | Brasilianität | brasilianitat | brasilianità |
 | brevidade | brevity | brevedad | brièveté | Kürze | brevetat | brevità |
 | brutalidade | brutality | brutalidad | brutalité | Brutalität | brutalitat | brutalità |
+
+
+| Português | English | Spanish | French | German | Valencian | Italian |
+|-----------|---------|---------|--------|--------|-----------|---------|
+| caducidade | obsolescence | caducidad | caducité | Verfall | caducitat | caducità |
+| calamidade | calamity | calamidad | calamité | Unheil | calamitat | calamità |
+| canonicidade | canonicity | canonicidad | canonicité | Kanonizität | canonicitat | canonicità |
+| capacidade | capacity | capacidad | capacité | Kapazität | capacitat | capacità |
+| capilaridade | capillarity | capilaridad | capillarité | Kapillarität | capil·laritat | capillarità |
+| caridade | charity | caridad | charité | Wohltätigkeit | caritat | carità |
+| carnalidade | carnality | carnalidad | carnalité | Fleischeslust | carnalitat | carnalità |
+| castidade | chastity | castidad | chasteté | Keuschheit | castitat | castità |
+| casualidade | chance | casualidad | hasard | Zufall | casualitat | casualità |
+| causalidade | causality | causalidad | causalité | Kausalität | causalitat | causalità |
+| causticidade | causticity | causticidad | causticité | Ätzkraft | causticitat | causticità |
+| cavidade | cavity | cavidad | cavité | Hohlraum | cavitat | cavità |
+| celebridade | celebrity | celebridad | célébrité | Berühmtheit | celebrat | celebrità |
+| celeridade | swiftness | celeridad | célérité | Schnelligkeit | celeritat | celerità |
+| centralidade | centrality | centralidad | centralité | Zentralität | centralitat | centralità |
+| ciclicidade | cyclicality | ciclicidad | cyclicité | Zyklik | ciclicitat | ciclicità |
+| cidade | city | ciudad | ville | Stadt | ciutat | città |
+| cientificidade | scientificity | cientificidad | scientificité | Wissenschaftlichkeit | cientificitat | scientificità |
+| circularidade | circularity | circularidad | circularité | Kreisförmigkeit | circularitat | circularità |
+| cissiparidade | fissiparity | cissiparidad | fissiparité | Spaltung | cissiparitat | cissiparità |
+| civilidade | civility | civildad | civilité | Höflichkeit | civilitat | civiltà |
+| clandestinidade | clandestinity | clandestinidad | clandestinité | Heimlichkeit | clandestinitat | clandestinità |
+| claridade | clarity | claridad | clarté | Klarheit | claritat | chiarezza |
+| coatividade | coercivity | coactividad | coercitivité | Zwang | coactivitat | coattività |

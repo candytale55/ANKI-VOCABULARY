@@ -79,3 +79,28 @@
 | anuidade | annual fee | anualidad | cotisation annuelle | Jahresgebühr | anualitat | tassa annuale |
 | aplicabilidade | applicability | aplicabilidad | applicabilité | Anwendbarkeit | aplicabilitat | applicabilità |
 | apropriabilidade | appropriateness | idoneidad | pertinence | Angemessenheit | adequabilitat | adeguatezza |
+
+
+| Português | English | Spanish | French | German | Valencian | Italian |
+|-----------|---------|---------|--------|--------|-----------|---------|
+| arbitrariedade | arbitrariness | arbitrariedad | arbitraire | Beliebigkeit | arbitraritat | arbitrarietà |
+| árcade | archaic | arcaico | archaïque | archaisch | arcaic | arcaico |
+| artificialidade | artificiality | artificialidad | artificialité | Künstlichkeit | artificialitat | artificialità |
+| asnidade | silliness | tontería | niaiserie | Dummheit | asnil | asinilità |
+| asperidade | harshness | aspereza | âpreté | Rauheit | aspror | asprezza |
+| asquerosidade | disgustingness | repugnancia | dégoûtant | Widerlichkeit | asquerositat | ripugnanza |
+| asseidade | ascedency | ascetismo | ascétisme | Askese | asseïtat | ascesi |
+| assertividade | assertiveness | asertividad | assertivité | Durchsetzungsvermögen | assertivitat | assertività |
+| assiduidade | assiduity | asiduidad | assiduité | Fleiß | assiduitat | assiduità |
+| atemporalidade | atemporality | atemporalidad | atemporalité | Zeitlosigkeit | atemporalitat | atemporalità |
+| atipicidade | atypicality | atipicidad | atypicité | Atypizität | atipicitat | atipicità |
+| atividade | activity | actividad | activité | Aktivität | activitat | attività |
+| atratividade | attractiveness | atractividad | attractivité | Attraktivität | atractivitat | attrattività |
+| atrocidade | atrocity | atrocidad | atrocité | Grausamkeit | atrocitat | atrocità |
+| atualidade | current events | actualidad | actualité | Aktualität | actualitat | attualità |
+| austeridade | austerity | austeridad | austérité | Strenge | austeritat | austerità |
+| autenticidade | authenticity | autenticidad | authenticité | Authentizität | autenticitat | autenticità |
+| autoexecutoriedade | self-executoriness | autoejecutoriedad | auto-exécutoirété | Selbstvollstreckung | autoexecutoritat | autoesecutorietà |
+| autopiedade | self-pity | autopiedad | autopitié | Selbstmitleid | autopietat | autopietà |
+| autoridade | authority | autoridad | autorité | Autorität | autoritat | autorità |
+

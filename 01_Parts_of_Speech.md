@@ -381,3 +381,30 @@
 | factibilidade | feasibility | viabilidad | faisabilité | Durchführbarkeit | viabilitat | fattibilità |
 | facticidade | facticity | facticidad | facticité | Faktizität | factualitat | facticità |
 | faculdade | faculty | facultad | faculté | Fakultät | facultat | facoltà |
+
+
+| Português | English | Spanish | French | German | Valencian | Italian |
+|-----------|---------|---------|--------|--------|-----------|---------|
+| facultatividade | facultativeness | facultatividad | facultativité | Fakultativität | facultativitat | facoltatività |
+| fade | bland | desvanecido | fade | fade | descolorit | sbiadito |
+| falibilidade | fallibility | falibilidad | faillibilité | Fehlbarkeit | fallibilitat | fallibilità |
+| falsidade | falsehood | falsedad | fausseté | Falschheit | falsedat | falsità |
+| familiaridade | familiarity | familiaridad | familiarité | Vertrautheit | familiaritat | familiarità |
+| fatalidade | fatality | fatalidad | fatalité | Fatalität | fatalitat | fatalità |
+| fatigabilidade | fatigability | fatigabilidad | fatigabilité | Ermüdbarkeit | fatigabilitat | affaticabilità |
+| fatuidade | fatuity | fatuidad | fatuité | Torheit | fatuïtat | fatuità |
+| fealdade | ugliness | fealdad | laideur | Hässlichkeit | lletjor | bruttezza |
+| fecundidade | fecundity | fecundidad | fécondité | Fruchtbarkeit | fecunditat | fecondità |
+| felicidade | happiness | felicidad | bonheur | Glück | felicitat | felicità |
+| feminilidade | femininity | feminidad | féminité | Weiblichkeit | femineitat | femminilità |
+| ferocidade | ferocity | ferocidad | férocité | Wildheit | ferocitat | ferocità |
+| fertilidade | fertility | fertilidad | fertilité | Fruchtbarkeit | fertilitat | fertilità |
+| festividade | festivity | festividad | festivité | Festlichkeit | festivitat | festività |
+| fiabilidade | reliability | fiabilidad | fiabilité | Zuverlässigkeit | fiabilitat | affidabilità |
+| ficcionalidade | fictionality | ficcionalidad | fictionalité | Fiktionalität | ficcionalitat | fictionalità |
+| fidedignidade | reliability | fiabilidad | fiabilité | Zuverlässigkeit | fiabilitat | affidabilità |
+| fidelidade | fidelity | fidelidad | fidélité | Treue | fidelitat | fedeltà |
+| fieldade | loyalty | lealtad | loyauté | Treue | lealtat | lealtà |
+| finalidade | purpose | finalidad | finalité | Zweck | finalitat | finalità |
+| finidade | finitude | finitud | finitude | Endlichkeit | finitud | finitezza |
+| flexibilidade | flexibility | flexibilidad | flexibilité | Flexibilität | flexibilitat | flessibilità |

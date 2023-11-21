@@ -323,3 +323,33 @@
 | emotividade | emotivity | emotividad | émotivité | Emotivität | emotivitat | emotività |
 | empregabilidade | employability | empleabilidad | employabilité | Beschäftigungsfähigkeit | empleabilitat | occupabilità |
 | endemicidade | endemism | endemicidad | endémisme | Endemismus | endemitat | endemismo |
+
+
+| Português | English | Spanish | French | German | Valencian | Italian |
+|-----------|---------|---------|--------|--------|-----------|---------|
+| enfermidade | illness | enfermedad | maladie | Krankheit | malaltia | malattia |
+| engenhosidade | ingenuity | ingeniosidad | ingéniosité | Einfallsreichtum | enginyositat | ingegnosità |
+| enormidade | enormity | enormidad | énormité | Größe | enormitat | enormità |
+| entidade | entity | entidad | entité | Einheit | entitat | entità |
+| equanimidade | equanimity | ecuanimidad | équanimité | Gleichmut | equanimitat | equanimità |
+| equidade | equity | equidad | équité | Gerechtigkeit | equitat | equità |
+| equivocidade | ambiguity | equivocidad | équivoque | Zweideutigkeit | equívocitat | equivocità |
+| erraticidade | erraticity | erraticidad | erraticité | Unbeständigkeit | erraticitat | erraticità |
+| escalabilidade | scalability | escalabilidad | scalabilité | Skalierbarkeit | escalabilitat | scalabilità |
+| escolaridade | education | escolaridad | scolarité | Schulbildung | escolaritat | istruzione |
+| escuridade | darkness | oscuridad | obscurité | Dunkelheit | foscor | oscurità |
+| esfericidade | sphericity | esfericidad | sphericité | Kugelform | esfericitat | sfericità |
+| espacialidade | spatiality | espacialidad | spatialité | Räumlichkeit | espacialitat | spazialità |
+| especialidade | specialty | especialidad | spécialité | Spezialität | especialitat | specialità |
+| especificidade | specificity | especificidad | spécificité | Spezifität | especificitat | specificità |
+| espiritualidade | spirituality | espiritualidad | spiritualité | Spiritualität | espiritualitat | spiritualità |
+| espirituosidade | spirituousness | espirituosidad | esprit | Spirituosität | espiritositat | spiritosità |
+| espontaneidade | spontaneity | espontaneidad | spontanéité | Spontaneität | espontaneitat | spontaneità |
+| esportividade | sportsmanship | deportividad | fair-play | Sportsgeist | esportivitat | sportività |
+| essencialidade | essentiality | esencialidad | essentialité | Wesentlichkeit | essencialitat | essenzialità |
+| estabilidade | stability | estabilidad | stabilité | Stabilität | estabilitat | stabilità |
+| estanqueidade | tightness | estanqueidad | étanchéité | Dichtheit | estancor | tenuta stagna |
+| estanquidade | sturdiness | estanquidad | étanchéité | Sturdiness | estanquitat | robustezza |
+| estaticidade | staticity | estaticidad | staticité | Statisches Verhalten | estaticitat | staticità |
+| esterilidade | sterility | esterilidad | stérilité | Sterilität | esterilitat | sterilità |
+| estoicidade | stoicism | estoicidad | stoïcisme | Stoiszismus | estoïcitat | stoicità |

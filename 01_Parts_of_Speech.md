@@ -497,3 +497,36 @@
 | imperturbabilidade | imperturbability | imperturbabilidad | imperturbabilité | Unerschütterlichkeit | impertorbabilitat | imperturbabilità |
 | impessoalidade | impersonality | impersonalidad | impersonnalité | Unpersönlichkeit | impersonalitat | impersonalità |
 | impetuosidade | impetuosity | ímpetu | impétuosité | Ungestümheit | ímpetu | impetuosità |
+
+
+| Português | English | Spanish | French | German | Valencian | Italian |
+|-----------|---------|---------|--------|--------|-----------|---------|
+| impiedade | impiety | impiedad | impiété | Gottlosigkeit | impietat | impietà |
+| implausibilidade | implausibility | inverosimilitud | invraisemblance | Unwahrscheinlichkeit | implausibilitat | implausibilità |
+| impossibilidade | impossibility | imposibilidad | impossibilité | Unmöglichkeit | impossibilitat | impossibilità |
+| imprescindibilidade | indispensability | imprescindibilidad | indispensabilité | Unentbehrlichkeit | imprescindibilitat | indispensabilità |
+| imprescritibilidade | imprescriptibility | imprescriptibilidad | imprescriptibilité | Unverjährbarkeit | imprescriptibilitat | imprescrittibilità |
+| imprevisibilidade | unpredictability | imprevisibilidad | imprévisibilité | Unvorhersehbarkeit | imprevisibilitat | imprevedibilità |
+| improbabilidade | improbability | improbabilidad | improbabilité | Unwahrscheinlichkeit | improbabilitat | improbabilità |
+| improbidade | dishonesty | deshonestidad | malhonnêteté | Illoyalität | deshonestitat | disonestà |
+| improdutividade | unproductiveness | improductividad | improductivité | Unproduktivität | improductivitat | improduttività |
+| improficuidade | unfruitfulness | improficuidad | infécondité | Unfruchtbarkeit | improficuitat | improduttività |
+| impropriedade | impropriety | impropiedad | impropriété | Unangemessenheit | improprietat | improprietà |
+| impulsividade | impulsivity | impulsividad | impulsivité | Impulsivität | impulsivitat | impulsività |
+| impunidade | impunity | impunidad | impunité | Straffreiheit | impunitat | impunità |
+| imputabilidade | accountability | imputabilidad | imputabilité | Zurechnungsfähigkeit | imputabilitat | imputabilità |
+| imunidade | immunity | inmunidad | immunité | Immunität | immunetat | immunità |
+| imunogenicidade | immunogenicity | inmunogenicidad | immunogénicité | Immunogenität | immunogenicitat | immunogenicità |
+| imutabilidade | immutability | inmutabilidad | immutabilité | Unveränderlichkeit | imutabilitat | immutabilità |
+| inabilidade | inability | inhabilidad | incapacité | Unfähigkeit | inhabilitat | incapacità |
+| inacessibilidade | inaccessibility | inaccesibilidad | inaccessibilité | Unzugänglichkeit | inaccesibilitat | inaccessibilità |
+| inadmissibilidade | inadmissibility | inadmisibilidad | inadmissibilité | Unzulässigkeit | inadmissibilitat | inammissibilità |
+| inalienabilidade | inalienability | inalienabilidad | inaliénabilité | Unveräußerlichkeit | inalienabilitat | inalienabilità |
+| inalterabilidade | unchangeability | inalterabilidad | inaltérabilité | Unveränderlichkeit | inalterabilitat | inalterabilità |
+| inamovibilidade | immovability | inmovilidad | immovabilité | Unbeweglichkeit | inamovibilitat | inamovibilità |
+| inanidade | inanity | inanidad | inanité | Nichtigkeit | inanitat | inanità |
+| inaplicabilidade | inapplicability | inaplicabilidad | inapplicabilité | Unanwendbarkeit | inaplicabilitat | inapplicabilità |
+| inassiduidade | lack of assiduity | falta de asiduidad | manque d'assiduité | Mangel an Fleiß | manca d'assiduïtat | mancanza di assiduità |
+| inatividade | inactivity | inactividad | inactivité | Untätigkeit | inactivitat | inattività |
+| inautenticidade | inauthenticity | inautenticidad | inauthenticité | Inauthentizität | inautenticitat | inautenticità |
+| incapacidade | incapacity | incapacidad | incapacité | Unfähigkeit | incapacitat | incapacità |

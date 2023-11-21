@@ -437,3 +437,30 @@
 | gratuitidade | gratuity | gratuidad | gratuité | Gratis | gratuïtat | gratuità |
 | gravidade | gravity | gravedad | gravité | Schwerkraft | gravetat | gravità |
 
+| Português | English | Spanish | French | German | Valencian | Italian |
+|-----------|---------|---------|--------|--------|-----------|---------|
+| habilidade | ability | habilidad | habileté | Fähigkeit | habilitat | abilità |
+| habitabilidade | habitability | habitabilidad | habitabilité | Bewohnbarkeit | habitabilitat | abitabilità |
+| habitualidade | habituality | habitualidad | habitualité | Gewohnheit | habitualitat | abitudine |
+| hecceidade | ? | ? | ? | ? | ? | ? |
+| herdade | estate | finca | domaine | Gut | finca | tenuta |
+| hereditariedade | heredity | heredabilidad | hérédité | Vererbung | hereditat | ereditarietà |
+| hermeticidade | hermeticity | hermeticidad | herméticité | Hermetizität | hermeticitat | ermeticità |
+| heterogeneidade | heterogeneity | heterogeneidad | hétérogénéité | Heterogenität | heterogeneitat | eterogeneità |
+| heteronormatividade | heteronormativity | heteronormatividad | hétéronormativité | Heteronormativität | heteronormativitat | eteronormatività |
+| heterossexualidade | heterosexuality | heterosexualidad | hétérosexualité | Heterosexualität | heterosexualitat | eterosessualità |
+| hilaridade | hilarity | hilaridad | hilarité | Heiterkeit | hilaritat | ilarità |
+| hiperatividade | hyperactivity | hiperactividad | hyperactivité | Hyperaktivität | hiperactivitat | iperattività |
+| hiperexcitabilidade | hyperexcitability | hiperexcitabilidad | hyperexcitabilité | Übererregbarkeit | hiperexcitabilitat | ipereccitabilità |
+| hipersensibilidade | hypersensitivity | hipersensibilidad | hypersensibilité | Hypersensibilität | hipersensibilitat | ipersensibilità |
+| historicidade | historicity | historicidad | historicité | Historizität | historicitat | storicità |
+| hodiernidade | modernity | actualidad | modernité | Gegenwärtigkeit | actualitat | attualità |
+| hombridade | manhood | hombría | virilité | Männlichkeit | hombrivitat | virilità |
+| homogeneidade | homogeneity | homogeneidad | homogénéité | Homogenität | homogeneitat | omogeneità |
+| homossexualidade | homosexuality | homosexualidad | homosexualité | Homosexualität | homosexualitat | omosessualità |
+| honestidade | honesty | honestidad | honnêteté | Ehrlichkeit | honestitat | onestà |
+| honorabilidade | honorability | honorabilidad | honorabilité | Ehrenhaftigkeit | honorabilitat | onorabilità |
+| hospitalidade | hospitality | hospitalidad | hospitalité | Gastfreundschaft | hospitalitat | ospitalità |
+| hostilidade | hostility | hostilidad | hostilité | Feindseligkeit | hostilitat | ostilità |
+| humanidade | humanity | humanidad | humanité | Menschlichkeit | humanitat | umanità |
+| humildade | humility | humildad | humilité | Bescheidenheit | humilitat | umiltà |

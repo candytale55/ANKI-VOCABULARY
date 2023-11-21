@@ -239,3 +239,31 @@
 | cristandade | Christendom | cristandad | chrétienté | Christentum | cristianitat | cristianità |
 | criteriosidade | criteriousness | criteriosidad | critériosité | Kriteriosität | criteriositat | criteriosità |
 
+
+
+| Português | English | Spanish | French | German | Valencian | Italian |
+|-----------|---------|---------|--------|--------|-----------|---------|
+| criticidade | criticality | criticidad | criticité | Kritikalität | criticitat | criticità |
+| cronicidade | chronicity | cronicidad | chronicité | Chronizität | cronicitat | cronicità |
+| crueldade | cruelty | crueldad | cruauté | Grausamkeit | crueltat | crudeltà |
+| culpabilidade | guilt | culpabilidad | culpabilité | Schuld | culpabilitat | colpa |
+| cumplicidade | complicity | complicidad | complicité | Komplizität | complicitat | complicità |
+| cumulatividade | cumulativity | acumulatividad | cumulativité | Kumulativität | cumulativitat | cumulatività |
+| curiosidade | curiosity | curiosidad | curiosité | Neugier | curiositat | curiosità |
+| debilidade | weakness | debilidad | faiblesse | Schwäche | debilitat | debolezza |
+| declividade | slope | declividad | déclivité | Neigung | declivitat | pendenza |
+| dedutibilidade | deductibility | deducibilidad | déductibilité | Abzugsfähigkeit | deducibilitat | deducibilità |
+| defectividade | defectiveness | defectividad | défectivité | Defektivität | defectivitat | difettosità |
+| definitividade | definitiveness | definitividad | définitivité | Definitivität | definitivitat | definitività |
+| deformidade | deformity | deformidad | déformation | Verformung | deformitat | deformità |
+| deidade | deity | deidad | divinité | Gottheit | deïtat | deità |
+| densidade | density | densidad | densité | Dichte | densitat | densità |
+| descartabilidade | disposability | desechabilidad | jetabilité | Entsorgbarkeit | desechabilitat | eliminabilità |
+| desconformidade | nonconformity | inconformidad | non-conformité | Nichtübereinstimmung | inconformitat | non conformità |
+| descontinuidade | discontinuity | discontinuidad | discontinuité | Diskontinuität | discontinuitat | discontinuità |
+| desejabilidade | desirability | deseabilidad | désirabilité | Wünschbarkeit | desitjabilitat | desiderabilità |
+| desigualdade | inequality | desigualdad | inégalité | Ungleichheit | desigualtat | disuguaglianza |
+| deslealdade | disloyalty | deslealtad | déloyauté | Illoyalität | deslleialtat | dislealtà |
+| desnecessidade | unnecessity | innecesidad | non-nécessité | Unnötigkeit | innecessitat | inutilità |
+| desonestidade | dishonesty | deshonestidad | malhonnêteté | Unehrlichkeit | deshonestitat | disonestà |
+| desproporcionalidade | disproportionality | desproporcionalidad | disproportionnalité | Disproportionalität | desproporcionalitat | sproporzione |

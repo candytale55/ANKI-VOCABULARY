@@ -153,3 +153,33 @@
 | clandestinidade | clandestinity | clandestinidad | clandestinité | Heimlichkeit | clandestinitat | clandestinità |
 | claridade | clarity | claridad | clarté | Klarheit | claritat | chiarezza |
 | coatividade | coercivity | coactividad | coercitivité | Zwang | coactivitat | coattività |
+
+
+| Português | English | Spanish | French | German | Valencian | Italian |
+|-----------|---------|---------|--------|--------|-----------|---------|
+| consensualidade | consensuality | consensualidad | consensualité | Konsensualität | consensualitat | consensualità |
+| conspicuidade | conspicuity | conspicuidad | conspicuité | Auffälligkeit | conspicuitat | conspicuità |
+| constitucionalidade | constitutionality | constitucionalidad | constitutionnalité | Verfassungsmäßigkeit | constitucionalitat | costituzionalità |
+| consubstancialidade | consubstantiality | consubstancialidad | consubstantialité | Wesensgleichheit | consubstancialitat | consustanzialità |
+| consuntibilidade | consuptibility | consuntibilidad | consuptibilité | Verzehrbarkeit | consuptibilitat | consuptibilità |
+| contabilidade | accounting | contabilidad | comptabilité | Buchführung | comptabilitat | contabilità |
+| contemporaneidade | contemporaneity | contemporaneidad | contemporanéité | Gleichzeitigkeit | contemporaneitat | contemporaneità |
+| contiguidade | contiguity | contigüidad | contiguïté | Unmittelbarkeit | contigüitat | contiguità |
+| continuidade | continuity | continuidad | continuité | Kontinuität | continuitat | continuità |
+| contrariedade | contrariety | contrariedad | contrariété | Widerspenstigkeit | contrarietat | contrarietà |
+| contratilidade | contractility | contractilidad | contractilité | Kontraktilität | contractilitat | contractilità |
+| convencionalidade | conventionality | convencionalidad | conventionnalité | Konventionalität | convencionalitat | convenzionalità |
+| conversibilidade | convertibility | convertibilidad | convertibilité | Konvertierbarkeit | convertibilitat | convertibilità |
+| convexidade | convexity | convexidad | convexité | Konvexität | convexitat | convessità |
+| cooperatividade | cooperativeness | cooperatividad | coopérativité | Kooperativität | cooperativitat | cooperatività |
+| cordialidade | cordiality | cordialidad | cordialité | Herzlichkeit | cordialitat | cordialità |
+| corporalidade | corporeality | corporalidad | corporalité | Körperlichkeit | corporalitat | corporalità |
+| corporeidade | corporeity | corporeidad | corporeité | Körperlichkeit | corporeitat | corporeità |
+| corresponsabilidade | shared responsibility | corresponsabilidad | corresponsabilité | Mitverantwortung | corresponsabilitat | corresponsabilità |
+| credibilidade | credibility | credibilidad | crédibilité | Glaubwürdigkeit | credibilitat | credibilità |
+| credulidade | credulity | credulidad | crédulité | Leichtgläubigkeit | credulitat | credulità |
+| criatividade | creativity | creatividad | créativité | Kreativität | creativitat | creatività |
+| criminalidade | criminality | criminalidad | criminalité | Kriminalität | criminalitat | criminalità |
+| cristandade | Christendom | cristandad | chrétienté | Christentum | cristianitat | cristianità |
+| criteriosidade | criteriousness | criteriosidad | critériosité | Kriteriosität | criteriositat | criteriosità |
+

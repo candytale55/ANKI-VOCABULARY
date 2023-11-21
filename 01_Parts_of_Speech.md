@@ -408,3 +408,32 @@
 | finalidade | purpose | finalidad | finalité | Zweck | finalitat | finalità |
 | finidade | finitude | finitud | finitude | Endlichkeit | finitud | finitezza |
 | flexibilidade | flexibility | flexibilidad | flexibilité | Flexibilität | flexibilitat | flessibilità |
+
+
+| Português | English | Spanish | French | German | Valencian | Italian |
+|-----------|---------|---------|--------|--------|-----------|---------|
+| formalidade | formality | formalidad | formalité | Formalität | formalitat | formalità |
+| frade | friar | fraile | frère | Mönch | fra | frate |
+| fragilidade | fragility | fragilidad | fragilité | Zerbrechlichkeit | fragilitat | fragilità |
+| fraternidade | fraternity | fraternidad | fraternité | Brüderlichkeit | fraternitat | fraternità |
+| frialdade | coldness | frialdad | froideur | Kälte | fredor | freddura |
+| frivolidade | frivolity | frivolidad | frivolité | Frivolität | frivolidat | frivolezza |
+| frugalidade | frugality | frugalidad | frugalité | Genügsamkeit | frugalitat | frugalità |
+| fugacidade | fugacity | fugacidad | fugacité | Flüchtigkeit | fugacitat | fugacità |
+| funcionalidade | functionality | funcionalidad | fonctionnalité | Funktionalität | funcionalitat | funzionalità |
+| fungibilidade | fungibility | fungibilidad | fongibilité | Fungibilität | fungibilitat | fungibilità |
+| futilidade | futility | futilidad | futilité | Nichtigkeit | futilitat | futilità |
+| garbosidade | elegance | elegancia | élégance | Eleganz | elegància | eleganza |
+| generalidade | generality | generalidad | généralité | Allgemeinheit | generalitat | generalità |
+| generosidade | generosity | generosidad | générosité | Großzügigkeit | generositat | generosità |
+| genialidade | genius | genialidad | génialité | Genialität | genialitat | genialità |
+| genitalidade | genitalia | genitalidad | genitalité | Genitalität | genitalitat | genitalità |
+| gentilidade | kindness | gentileza | gentillesse | Freundlichkeit | amabilitat | gentilezza |
+| genuinidade | genuineness | autenticidad | authenticité | Echtheit | autenticitat | autenticità |
+| governabilidade | governability | gobernabilidad | gouvernabilité | Regierungsfähigkeit | governabilitat | governabilità |
+| graciosidade | gracefulness | gracia | grâce | Anmut | gràcia | grazia |
+| grade | grid | rejilla | grille | Gitter | graella | griglia |
+| grandiosidade | grandiosity | grandiosidad | grandiosité | Größe | grandiositat | grandiosità |
+| gratuitidade | gratuity | gratuidad | gratuité | Gratis | gratuïtat | gratuità |
+| gravidade | gravity | gravedad | gravité | Schwerkraft | gravetat | gravità |
+

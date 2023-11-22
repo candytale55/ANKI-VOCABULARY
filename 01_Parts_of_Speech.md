@@ -938,3 +938,40 @@
 | privacidade | privacy | privacidad | vie privée | Privatsphäre | privacitat | privacy |
 | proatividade | proactivity | proactividad | proactivité | Proaktivität | proactivitat | proattività |
 | probabilidade | probability | probabilidad | probabilité | Wahrscheinlichkeit | probabilitat | probabilità |
+
+
+| Português | English | Spanish | French | German | Valencian | Italian |
+|-----------|---------|---------|--------|--------|-----------|---------|
+| probidade | probity | probidad | probité | Redlichkeit | probitat | probità |
+| procedibilidade | processability | procesabilidad | procédabilité | Verarbeitbarkeit | processabilitat | processabilità |
+| prodigalidade | prodigality | prodigalidad | prodigalité | Verschwendung | prodigalitat | prodigalità |
+| produtividade | productivity | productividad | productivité | Produktivität | productivitat | produttività |
+| profanidade | profanity | profanidad | profanité | Profanität | profanitat | profanità |
+| proficuidade | proficuity | proficuidad | proficuité | Gewandtheit | proficitat | proficuità |
+| profissionalidade | professionalism | profesionalidad | professionnalisme | Professionalität | professionalitat | professionalità |
+| profundidade | depth | profundidad | profondeur | Tiefe | profunditat | profondità |
+| progressividade | progressivity | progresividad | progressivité | Progressivität | progressivitat | progressività |
+| prolificidade | prolificity | prolificidad | prolificité | Fruchtbarkeit | prolificitat | prolificità |
+| prolixidade | prolixity | prolijidad | prolixité | Weitschweifigkeit | prolixitat | prolissità |
+| promiscuidade | promiscuity | promiscuidad | promiscuité | Promiskuität | promiscuitat | promiscuità |
+| proporcionalidade | proportionality | proporcionalidad | proportionnalité | Verhältnismäßigkeit | proporcionalitat | proporzionalità |
+| propriedade | property | propiedad | propriété | Eigentum | propietat | proprietà |
+| prosperidade | prosperity | prosperidad | prospérité | Wohlstand | prosperitat | prosperità |
+| provisoriedade | provisionality | provisionalidad | caractère provisoire | Vorläufigkeit | provisionalitat | provvisorietà |
+| proximidade | proximity | proximidad | proximité | Nähe | proximitat | prossimità |
+| psicomotricidade | psychomotricity | psicomotricidad | psychomotricité | Psychomotorik | psicomotricitat | psicomotricità |
+| puberdade | puberty | pubertad | puberté | Pubertät | pubertat | pubertà |
+| publicidade | publicity | publicidad | publicité | Öffentlichkeit | publicitat | pubblicità |
+| puerilidade | puerility | puerilidad | puérilité | Kindlichkeit | puerilitat | puerilità |
+| pugnacidade | pugnacity | pugnacidad | pugnacité | Kampflust | pugnacitat | pugnacità |
+| punibilidade | punishability | punibilidad | punissabilité | Strafbarkeit | punibilitat | punibilità |
+| pusilanimidade | pusillanimity | pusilanimidad | pusillanimité | Kleinmut | pusilanimitat | pusillanimità |
+| qualidade | quality | calidad | qualité | Qualität | qualitat | qualità |
+| quantidade | quantity | cantidad | quantité | Quantität | quantitat | quantità |
+| quididade | quiddity | quiddidad | quiddité | Quiddität | quiditat | quiddità |
+| racionalidade | rationality | racionalidad | rationalité | Rationalität | racionalitat | razionalità |
+| radicalidade | radicality | radicalidad | radicalité | Radikalität | radicalitat | radicalità |
+| radioatividade | radioactivity | radiactividad | radioactivité | Radioaktivität | radiactivitat | radioattività |
+| rapacidade | rapacity | rapacidad | rapacité | Raffgier | rapacitat | rapacità |
+| raridade | rarity | rareza | rareté | Seltenheit | raresa | rarità |
+

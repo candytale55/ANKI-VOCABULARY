@@ -824,3 +824,51 @@
 | notoriedade | notoriety | notoriedad | notoriété | Berühmtheit | notorietat | notorietà |
 | novidade | novelty | novedad | nouveauté | Neuheit | novetat | novità |
 | nulidade | nullity | nulidad | nullité | Nichtigkeit | nulitat | nullità |
+
+
+| Português | English | Spanish | French | German | Valencian | Italian |
+|-----------|---------|---------|--------|--------|-----------|---------|
+| nuliparidade | nulliparity | nuliparidad | nulliparité | Nulliparität | nuliparitat | nulliparità |
+| nupcialidade | nuptiality | nupcialidad | nuptialité | Ehelichkeit | nupcialitat | nuzialità |
+| obesidade | obesity | obesidad | obésité | Fettleibigkeit | obesitat | obesità |
+| objetividade | objectivity | objetividad | objectivité | Objektivität | objectivitat | oggettività |
+| oblatividade | oblativity | oblatividad | oblativité | Oblativität | oblativitat | oblatività |
+| obliquidade | obliqueness | oblicuidad | obliquité | Schrägheit | obliquitat | obliquità |
+| obrigatoriedade | obligation | obligatoriedad | obligation | Verpflichtung | obligatorietat | obbligatorietà |
+| obscenidade | obscenity | obscenidad | obscénité | Obszönität | obscenitat | oscenità |
+| obscuridade | obscurity | oscuridad | obscurité | Dunkelheit | obscuritat | oscurità |
+| obsequiosidade | friendliness | obsequiosidad | obsequiosité | Gefälligkeit | obsequiositat | obsequiosità |
+| obtusidade | obtuseness | obtusidad | obtusité | Stumpfheit | obtusitat | ottusità |
+| obviedade | obviousness | obviedad | évidence | Offensichtlichkeit | evidència | evidenza |
+| ocasionalidade | occasionalness | ocasionabilidad | occasionnalité | Gelegentlichkeit | ocasio | occasionalità |
+| ociosidade | idleness | ociosidad | oisiveté | Müßiggang | oci | oziosità |
+| oficiosidade | officiousness | oficiosidad | officiosité | Aufdringlichkeit | oficiositat | sollecitudine |
+| ombridade | shadiness | sombrío | ombre | Dunkelheit | ombratge | ombrosità |
+| onerosidade | burden | onerosidad | onérosité | Beschwerlichkeit | onerositat | onerosità |
+| opacidade | opacity | opacidad | opacité | Undurchsichtigkeit | opacitat | opacità |
+| operacionalidade | operability | operacionalidad | opérabilité | Betriebsfähigkeit | operabilitat | operabilità |
+| operatividade | operativity | operatividad | opérativité | Betriebsfähigkeit | operativitat | operatività |
+| operosidade | laboriousness | laboriosidad | laboriosité | Mühseligkeit | operositat | operosità |
+| oponibilidade | opposability | oponibilidad | opposabilité | Anfechtbarkeit | oponibilitat | opposabilità |
+| oportunidade | opportunity | oportunidad | opportunité | Gelegenheit | oportunitat | opportunità |
+| oralidade | orality | oralidad | oralité | Mündlichkeit | oralitat | oralità |
+| orfandade | orphanhood | orfandad | orphelinat | Waisenhaus | orfandat | orfanezza |
+| organicidade | organicity | organicidad | organicité | Organizität | organicitat | organicità |
+| originalidade | originality | originalidad | originalité | Originalität | originalitat | originalità |
+| osmolaridade | osmolarity | osmolaridad | osmolarité | Osmolarität | osmolaritat | osmolarità |
+| ostensividade | ostensiveness | ostensividad | ostensivité | Offenheit | ostensivitat | ostensività |
+| pacificidade | peacefulness | pacificidad | pacificité | Friedlichkeit | pacificitat | pacificità |
+| palatabilidade | palatability | palatabilidad | palatabilité | Schmackhaftigkeit | palatabilitat | palatabilità |
+| parcialidade | partiality | parcialidad | partialité | Parteilichkeit | parcialitat | parzialità |
+| parentalidade | parenthood | parentalidad | parentalité | Elternschaft | parentalitat | genitorialità |
+| paridade | parity | paridad | parité | Parität | paritat | parità |
+| particularidade | particularity | particularidad | particularité | Besonderheit | particularitat | particolarità |
+| passionalidade | passion | pasionalidad | passionnalité | Leidenschaft | passionalitat | passionalità |
+| passividade | passivity | pasividad | passivité | Passivität | passivitat | passività |
+| paternidade | fatherhood | paternidad | paternité | Vaterschaft | paternitat | paternità |
+| patogenicidade | pathogenicity | patogenicidad | pathogénicité | Pathogenität | patogenicitat | patogenicità |
+| pecaminosidade | sinfulness | pecaminosidad | péché | Sündhaftigkeit | pecaminositat | peccaminosità |
+| peculiaridade | peculiarity | peculiaridad | particularité | Eigenart | peculiaritat | peculiarità |
+| penalidade | penalty | penalidad | pénalité | Strafe | penalitat | penalità |
+
+

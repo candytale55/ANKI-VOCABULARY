@@ -975,3 +975,33 @@
 | rapacidade | rapacity | rapacidad | rapacité | Raffgier | rapacitat | rapacità |
 | raridade | rarity | rareza | rareté | Seltenheit | raresa | rarità |
 
+| Português | English | Spanish | French | German | Valencian | Italian |
+|-----------|---------|---------|--------|--------|-----------|---------|
+| rastreabilidade | traceability | trazabilidad | traçabilité | Rückverfolgbarkeit | rastreabilitat | tracciabilità |
+| razoabilidade | reasonability | razonabilidad | raisonnable | Angemessenheit | raonabilitat | ragionevolezza |
+| realidade | reality | realidad | réalité | Realität | realitat | realtà |
+| reatividade | reactivity | reactividad | réactivité | Reaktivität | reactivitat | reattività |
+| receptibilidade | receptivity | receptividad | réceptivité | Empfänglichkeit | receptivitat | recettività |
+| receptividade | receptivity | receptividad | réceptivité | Empfänglichkeit | receptivitat | recettività |
+| reciprocidade | reciprocity | reciprocidad | réciprocité | Reziprozität | reciprocitat | reciprocità |
+| recursividade | recursivity | recursividad | récursivité | Rekursivität | recursivitat | ricorsività |
+| reflexibilidade | reflectivity | reflexibilidad | réflexibilité | Reflexibilität | reflexibilitat | riflessività |
+| reflexividade | reflexivity | reflexividad | réflexivité | Reflexivität | reflexivitat | riflessività |
+| refratariedade | refractoriness | refractariedad | réfractarité | Refraktorität | refractaritat | rifrattività |
+| regularidade | regularity | regularidad | régularité | Regelmäßigkeit | regularitat | regolarità |
+| relatividade | relativity | relatividad | relativité | Relativität | relativitat | relatività |
+| religiosidade | religiosity | religiosidad | religiosité | Religiosität | religiositat | religiosità |
+| rentabilidade | profitability | rentabilidad | rentabilité | Rentabilität | rendibilitat | redditività |
+| repetitividade | repetitiveness | repetitividad | répétitivité | Wiederholbarkeit | repetitivitat | ripetitività |
+| replicabilidade | replicability | replicabilidad | réplicabilité | Replizierbarkeit | replicabilitat | replicabilità |
+| representatividade | representativeness | representatividad | représentativité | Repräsentativität | representativitat | rappresentatività |
+| reprodutibilidade | reproducibility | reproducibilidad | reproductibilité | Reproduzierbarkeit | reproductibilitat | riproducibilità |
+| resolubilidade | solubility | solubilidad | solubilité | Löslichkeit | solubilitat | solubilità |
+| respeitabilidade | respectability | respetabilidad | respectabilité | Respektabilität | respectabilitat | rispettabilità |
+| responsabilidade | responsibility | responsabilidad | responsabilité | Verantwortlichkeit | responsabilitat | responsabilità |
+| responsividade | responsiveness | responsividad | réactivité | Reaktionsfähigkeit | responsivitat | reattività |
+| retroatividade | retroactivity | retroactividad | rétroactivité | Rückwirkungsfähigkeit | retroactivitat | retroattività |
+| reversibilidade | reversibility | reversibilidad | réversibilité | Reversibilität | reversibilitat | reversibilità |
+| rivalidade | rivalry | rivalidad | rivalité | Rivalität | rivalitat | rivalità |
+| rotatividade | turnover | rotatividad | rotation | Fluktuation | rotativitat | rotatività |
+| rugosidade | roughness | rugosidad | rugosité | Rauheit | rugositat | rugosità |

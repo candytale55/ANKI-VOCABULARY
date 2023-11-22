@@ -1005,3 +1005,51 @@
 | rivalidade | rivalry | rivalidad | rivalité | Rivalität | rivalitat | rivalità |
 | rotatividade | turnover | rotatividad | rotation | Fluktuation | rotativitat | rotatività |
 | rugosidade | roughness | rugosidad | rugosité | Rauheit | rugositat | rugosità |
+
+
+| Português | English | Spanish | French | German | Valencian | Italian |
+|-----------|---------|---------|--------|--------|-----------|---------|
+| ruindade | badness | maldad | méchanceté | Schlechtigkeit | ruindat | malvagità |
+| ruralidade | rurality | ruralidad | ruralité | Ländlichkeit | ruralitat | ruralità |
+| rusticidade | rusticity | rusticidad | rusticité | Rustikalität | rusticitat | rusticità |
+| saciedade | satiety | saciedad | satiété | Sättigung | sacietat | sazietà |
+| sacralidade | sacredness | sacralidad | sacralité | Sakralität | sagrada | sacralità |
+| sagacidade | sagacity | sagacidad | sagacité | Klugheit | sagacitat | sagacità |
+| salinidade | salinity | salinidad | salinité | Salzigkeit | salinitat | salinità |
+| salubridade | salubrity | salubridad | salubrité | Gesundheit | salubritat | salubrità |
+| sanidade | health | salud | santé | Gesundheit | salut | salute |
+| santidade | holiness | santidad | sainteté | Heiligkeit | santedat | santità |
+| saudade | longing | añoranza | nostalgie | Sehnsucht | saudat | nostalgia |
+| sazonalidade | seasonality | estacionalidad | saisonnalité | Saisonalität | estacionalitat | stagionalità |
+| sedosidade | silkiness | suavidad | soie | Seidigkeit | sedositat | setosità |
+| seguridade | security | seguridad | sécurité | Sicherheit | seguretat | sicurezza |
+| seletividade | selectivity | selectividad | sélectivité | Selektivität | selectivitat | selettività |
+| semestralidade | biannual nature | semestralidad | semestrialité | Halbjährlichkeit | semestralitat | semestralità |
+| seminômade | semi-nomadic | seminómada | semi-nomade | halbnomadisch | seminòmada | seminomade |
+| senilidade | senility | senilidad | sénilité | Senilität | senilitat | senilità |
+| senioridade | seniority | antigüedad | ancienneté | Alter | antiguitat | anzianità |
+| sensibilidade | sensitivity | sensibilidad | sensibilité | Empfindlichkeit | sensibilitat | sensibilità |
+| sensitividade | sensibility | sensibilidad | sensibilité | Empfindlichkeit | sensibilitat | sensibilità |
+| sensorialidade | sensoriality | sensorialidad | sensorialité | Sensorik | sensorialitat | sensorialità |
+| sensualidade | sensuality | sensualidad | sensualité | Sinnlichkeit | sensualitat | sensualità |
+| sequacidade | persistence | sequacidad | persistance | Beharrlichkeit | sequacitat | persistenza |
+| serendipidade | serendipity | serendipia | sérendipité | Serendipität | serendipitat | serendipità |
+| serenidade | serenity | serenidad | sérénité | Gelassenheit | serenitat | serenità |
+| serialidade | seriality | serialidad | serialité | Serialität | serialitat | serialità |
+| seriedade | seriousness | seriedad | sérieux | Ernsthaftigkeit | serietat | serietà |
+| serosidade | serosity | serosidad | sérosité | Serosität | serositat | serosità |
+| servilidade | servility | servilidad | servilité | Servilität | servilitat | servilità |
+| severidade | severity | severidad | sévérité | Strenge | severitat | severità |
+| sexualidade | sexuality | sexualidad | sexualité | Sexualität | sexualitat | sessualità |
+| significatividade | meaningfulness | significatividad | signification | Bedeutung | significativitat | significatività |
+| similaridade | similarity | similitud | similarité | Ähnlichkeit | similitud | similarità |
+| simplicidade | simplicity | simplicidad | simplicité | Einfachheit | simplicitat | semplicità |
+| simploriedade | simplicity | simplicidad | simplicité | Einfachheit | simplicitat | semplicità |
+| simultaneidade | simultaneity | simultaneidad | simultanéité | Gleichzeitigkeit | simultaneitat | simultaneità |
+| sinceridade | sincerity | sinceridad | sincérité | Aufrichtigkeit | sinceritat | sincerità |
+| sincronicidade | synchronicity | sincronicidad | synchronicité | Synchronizität | sincronicitat | sincronicità |
+| singularidade | singularity | singularidad | singularité | Einzigartigkeit | singularitat | singolarità |
+| sinuosidade | sinuosity | sinuosidad | sinuosité | Geschlungenheit | sinuositat | sinuosità |
+| sobriedade | sobriety | sobriedad | sobriété | Nüchternheit | sobrietat | sobrietà |
+| sociabilidade | sociability | sociabilidad | sociabilité | Geselligkeit | sociabilitat | socievolezza |
+| socialidade | sociality | socialidad | socialité | Geselligkeit | socialitat | socialità |

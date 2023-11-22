@@ -781,3 +781,46 @@
 | modicidade | moderation | modicidad | modération | Mäßigkeit | modicitat | modicità |
 | monstruosidade | monstrosity | monstruosidad | monstruosité | Ungeheuerlichkeit | monstruositat | mostruosità |
 
+
+
+| Português | English | Spanish | French | German | Valencian | Italian |
+|-----------|---------|---------|--------|--------|-----------|---------|
+| moralidade | morality | moralidad | moralité | Moral | moralitat | moralità |
+| morbidade | morbidity | morbilidad | morbidité | Morbidität | morbiditat | morbidezza |
+| morbilidade | morbility | morbilidad | morbidité | Morbidität | morbiditat | morbilità |
+| morbimortalidade | morbi-mortality | morbimortalidad | morbi-mortalité | Morbimortalität | morbi-mortalitat | morbimortalità |
+| mordacidade | wit | mordacidad | mordacité | Bissigkeit | mordacitat | mordacità |
+| morosidade | sluggishness | morosidad | morosité | Trägheit | morositat | morosità |
+| mortalidade | mortality | mortalidad | mortalité | Sterblichkeit | mortalitat | mortalità |
+| mortandade | carnage | mortandad | carnage | Blutbad | mortandat | morte e distruzione |
+| motilidade | motility | motilidad | motilité | Motilität | motilitat | motilità |
+| motricidade | motor skills | motricidad | motricité | Motorik | motricitat | motricità |
+| multiculturalidade | multiculturalism | multiculturalismo | multiculturalisme | Multikulturalismus | multiculturalitat | multiculturalismo |
+| multidimensionalidade | multidimensionality | multidimensionalidad | multidimensionalité | Multidimensionalität | multidimensionalitat | multidimensionalità |
+| multidisciplinaridade | multidisciplinarity | multidisciplinariedad | multidisciplinarité | Multidisziplinarität | multidisciplinarietat | multidisciplinarietà |
+| multimodalidade | multimodality | multimodalidad | multimodalité | Multimodalität | multimodalitat | multimodalità |
+| multiplicidade | multiplicity | multiplicidad | multiplicité | Vielfalt | multiplicidad | molteplicità |
+| mundanidade | mundanity | mundanidad | banalité | Banalität | mundanitat | mundanezza |
+| municipalidade | municipality | municipalidad | municipalité | Gemeinde | municipalitat | municipalità |
+| musicalidade | musicality | musicalidad | musicalité | Musikalität | musicalitat | musicalità |
+| mutabilidade | mutability | mutabilidad | mutabilité | Veränderlichkeit | mutabilitat | mutevolezza |
+| mutualidade | mutuality | mutualidad | mutualité | Gegenseitigkeit | mutualitat | reciprocità |
+| nacionalidade | nationality | nacionalidad | nationalité | Staatsangehörigkeit | nacionalitat | nazionalità |
+| natalidade | natality | natalidad | natalité | Geburtenrate | natalitat | natalità |
+| natividade | nativity | natividad | nativité | Nativität | nativitat | natività |
+| naturalidade | naturalness | naturalidad | naturel | Natürlichkeit | naturalitat | naturalezza |
+| nebulosidade | haziness | nebulosidad | nébulosité | Nebulosität | nebulositat | nebbiosità |
+| necedade | foolishness | necedad | sottise | Torheit | necedat | stoltezza |
+| necessidade | need | necesidad | besoin | Bedarf | necessitat | necessità |
+| negatividade | negativity | negatividad | négativité | Negativität | negativitat | negatività |
+| nescidade | ignorance | necedad | ignorance | Unwissenheit | ignorancia | ignoranza |
+| neutralidade | neutrality | neutralidad | neutralité | Neutralität | neutralitat | neutralità |
+| nocividade | harmfulness | nocividad | nocivité | Schädlichkeit | nocivitat | nocività |
+| nómade | nomad | nómada | nomade | Nomade | nòmada | nomade |
+| nômade | nomadic | nómada | nomade | nomadisch | nòmad | nomade |
+| normalidade | normality | normalidad | normalité | Normalität | normalitat | normalità |
+| normatividade | normativity | normatividad | normativité | Normativität | normativitat | normatività |
+| notabilidade | notability | notabilidad | notabilité | Bekanntheit | notabilitat | notabilità |
+| notoriedade | notoriety | notoriedad | notoriété | Berühmtheit | notorietat | notorietà |
+| novidade | novelty | novedad | nouveauté | Neuheit | novetat | novità |
+| nulidade | nullity | nulidad | nullité | Nichtigkeit | nulitat | nullità |

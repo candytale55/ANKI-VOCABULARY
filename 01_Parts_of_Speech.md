@@ -901,3 +901,40 @@
 | plausibilidade | plausibility | plausibilidad | plausibilité | Plausibilität | plausibilitat | plausibilità |
 | plêiade | pleiad | pléyade | pléiade | Plejade | pleiada | Pleiade |
 | pluralidade | plurality | pluralidad | pluralité | Vielzahl | pluralitat | pluralità |
+
+
+| Português | English | Spanish | French | German | Valencian | Italian |
+|-----------|---------|---------|--------|--------|-----------|---------|
+| pluviosidade | rainfall | pluviosidad | pluviabilité | Niederschlag | pluviabilitat | piovosità |
+| polaridade | polarity | polaridad | polarité | Polarität | polaritat | polarità |
+| pomposidade | pomposity | pomposidad | pomposité | Pompösität | pompositat | pomposità |
+| ponderabilidade | ponderability | ponderabilidad | pondérabilité | Gewichtungsfähigkeit | ponderabilitat | ponderabilità |
+| pontualidade | punctuality | puntualidad | ponctualité | Pünktlichkeit | puntualitat | puntualità |
+| popularidade | popularity | popularidad | popularité | Popularität | popularitat | popolarità |
+| porosidade | porosity | porosidad | porosité | Porosität | porositat | porosità |
+| portabilidade | portability | portabilidad | portabilité | Tragbarkeit | portabilitat | portabilità |
+| pós-verdade | post-truth | posverdad | post-vérité | Post-Wahrheit | post-veritat | post-verità |
+| positividade | positivity | positividad | positivité | Positivität | positivitat | positività |
+| possessividade | possessiveness | posesividad | possessivité | Besitzergreifung | possessivitat | possessività |
+| possibilidade | possibility | posibilidad | possibilité | Möglichkeit | possibilitat | possibilità |
+| posteridade | posterity | posteridad | postérité | Nachkommenschaft | posteritat | posterità |
+| posterioridade | posteriority | posterioridad | postériorité | Posteriorität | posterioritat | posteriorità |
+| potabilidade | potability | potabilidad | potabilité | Trinkbarkeit | potabilitat | potabilità |
+| potencialidade | potentiality | potencialidad | potentialité | Potenzialität | potencialitat | potenzialità |
+| potestade | power | potestad | puissance | Macht | potestat | potestà |
+| pouquidade | smallness | pequenez | petitesse | Kleinheit | petitetat | piccolezza |
+| praticabilidade | practicability | practicabilidad | praticabilité | Praktikabilität | practicabilitat | praticabilità |
+| praticidade | practicality | practicidad | praticité | Praktikabilität | practicitat | praticità |
+| precariedade | precariousness | precariedad | précarité | Unsicherheit | precarietat | precarietà |
+| preciosidade | preciousness | preciosidad | préciosité | Kostbarkeit | preciositat | preziosità |
+| precocidade | precocity | precocidad | précocité | Frühreife | precocitat | precocità |
+| prestabilidade | reliability | prestabilidad | fiabilité | Zuverlässigkeit | prestabilitat | affidabilità |
+| prestatividade | helpfulness | prestatividad | serviabilité | Hilfsbereitschaft | prestativitat | disponibilità |
+| prestimosidade | helpfulness | prestimosidad | serviabilité | Hilfsbereitschaft | prestimositat | disponibilità |
+| previsibilidade | predictability | previsibilidad | prévisibilité | Vorhersehbarkeit | previsibilitat | prevedibilità |
+| primiparidade | primiparity | primiparidad | primiparité | Primiparität | primiparitat | primiparità |
+| primordialidade | primordiality | primordialidad | primalité | Urzustand | primordialitat | primordialità |
+| prioridade | priority | prioridad | priorité | Priorität | prioritat | priorità |
+| privacidade | privacy | privacidad | vie privée | Privatsphäre | privacitat | privacy |
+| proatividade | proactivity | proactividad | proactivité | Proaktivität | proactivitat | proattività |
+| probabilidade | probability | probabilidad | probabilité | Wahrscheinlichkeit | probabilitat | probabilità |

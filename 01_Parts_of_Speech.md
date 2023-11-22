@@ -1099,3 +1099,33 @@
 | tensidade | tension | tensión | tension | Spannung | tensió | tensione |
 | tenuidade | thinness | finura | minceur | Dünnheit | subtilitat | sottigliezza |
 | terminalidade | terminality | terminalidad | terminalité | Endlichkeit | terminalitat | terminalità |
+
+| Português | English | Spanish | French | German | Valencian | Italian |
+|-----------|---------|---------|--------|--------|-----------|---------|
+| territorialidade | territoriality | territorialidad | territorialité | Territorialität | territorialitat | territorialità |
+| tétrade | tetrad | tétrada | tétrade | Tetrade | tétrade | tetraedro |
+| tipicidade | typicality | tipicidad | typicité | Typizität | tipicitat | tipicità |
+| titularidade | ownership | titularidad | titularité | Eigentum | titularitat | titolarità |
+| tonalidade | tonality | tonalidad | tonalité | Tonalität | tonalitat | tonalità |
+| tonicidade | tonicity | tonicidad | tonicité | Tonicität | tonicitat | tonicità |
+| tortuosidade | tortuosity | tortuosidad | tortuosité | Tortuosität | tortuositat | tortuosità |
+| totalidade | totality | totalidad | totalité | Totalität | totalitat | totalità |
+| toxicidade | toxicity | toxicidad | toxicité | Toxizität | toxicitat | tossicità |
+| toxidade | poison | toxicidad | toxicité | Giftigkeit | toxicitat | tossicità |
+| tradicionalidade | traditionality | tradicionalidad | traditionalité | Traditionalität | tradicionalitat | tradizionalità |
+| trafegabilidade | trafficability | traficabilidad | praticabilité | Befahrbarkeit | trafegabilitat | percorribilità |
+| tranquilidade | tranquility | tranquilidad | tranquillité | Ruhe | tranquil·litat | tranquillità |
+| transcendentalidade | transcendence | trascendentalidad | transcendance | Transzendenz | transcendentalitat | trascendenza |
+| transdisciplinaridade | transdisciplinarity | transdisciplinaridad | transdisciplinarité | Transdisziplinarität | transdisciplinarietat | transdisciplinarietà |
+| transitividade | transitivity | transitividad | transitivité | Transitivität | transitivitat | transitività |
+| transitoriedade | transitoriness | transitoriedad | caractère transitoire | Vergänglichkeit | transitorietat | transitorietà |
+| transmissibilidade | transmissibility | transmisibilidad | transmissibilité | Übertragbarkeit | transmissibilitat | trasmissibilità |
+| transnacionalidade | transnationality | transnacionalidad | transnationalité | Transnationalität | transnacionalitat | transnazionalità |
+| transversalidade | transversality | transversalidad | transversalité | Transversalität | transversalitat | trasversalità |
+| tríade | triad | tríada | triade | Triade | tríade | triade |
+| tridimensionalidade | three-dimensionality | tridimensionalidad | tridimensionalité | Dreidimensionalität | tridimensionalitat | tridimensionalità |
+| trindade | trinity | trinidad | trinité | Dreifaltigkeit | trinitat | trinità |
+| triplicidade | triplicity | triplicidad | triplicité | Dreifachheit | triplicitat | triplicità |
+| trivialidade | triviality | trivialidad | trivialité | Banalität | trivialitat | trivialità |
+| tropicalidade | tropicality | tropicalidad | tropicalité | Tropikalität | tropicalitat | tropicalità |
+| tuberosidade | tuberosity | tuberosidad | tubérosité | Tuberosität | tuberositat | tuberosità |

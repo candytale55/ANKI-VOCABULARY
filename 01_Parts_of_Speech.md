@@ -714,3 +714,31 @@
 | leviandade | levity | ligereza | légèreté | Leichtigkeit | lleugeresa | leggerezza |
 | liberalidade | generosity | liberalidad | générosité | Großzügigkeit | liberalitat | liberalità |
 | liberdade | freedom | libertad | liberté | Freiheit | llibertat | libertà |
+
+
+| Português | English | Spanish | French | German | Valencian | Italian |
+|-----------|---------|---------|--------|--------|-----------|---------|
+| liceidade | lawfulness | licitud | légalité | Gesetzlichkeit | llicetud | liceità |
+| licenciosidade | licentiousness | licenciosidad | licence | Ausschweifung | llicenciositat | licenziosità |
+| limosidade | alms | limosna | aumône | Almosen | limosina | limosina |
+| linearidade | linearity | linealidad | linéarité | Linearität | linearitat | linearità |
+| literalidade | literality | literalidad | littéralité | Literalität | literalitat | literalità |
+| litigiosidade | litigiousness | litigiosidad | litigiosité | Streitsucht | litigiositat | litigiosità |
+| localidade | locality | localidad | localité | Lokalität | localitat | località |
+| logicidade | logicality | logicidad | logicialité | Logizität | logicitat | logicità |
+| longanimidade | longanimity | longanimidad | longanimité | Langmut | longanimitat | longanimità |
+| longevidade | longevity | longevidad | longévité | Langlebigkeit | longevitat | longevità |
+| loquacidade | loquacity | loquacidad | loquacité | Redseligkeit | loquacitat | loquacità |
+| lubricidade | lubricity | lubricidad | lubricté | Glitschigkeit | lubricitat | lubrictà |
+| lucratividade | profitability | lucratividad | rentabilité | Rentabilität | lucratiu | redditività |
+| ludicidade | playfulness | ludicidad | ludicité | Spielerischkeit | ludicitat | ludicità |
+| lugubridade | mournfulness | lugubridad | lugubrité | Trauerlichkeit | lugubritat | lugubrità |
+| luminosidade | luminosity | luminosidad | luminosité | Helligkeit | luminositat | luminosità |
+| magnanimidade | magnanimity | magnanimidad | magnanimité | Großmut | magnanimitat | magnanimità |
+| maioridade | majority | mayoría | majorité | Mehrheit | majoritat | maggiore età |
+| majestade | majesty | majestuosidad | majesté | Majestät | majestat | maestà |
+| majestosidade | majesty | majestuosidad | majestuosité | Majestät | majestat | maestosità |
+| maldade | wickedness | maldad | méchanceté | Bosheit | maldat | malvagità |
+| maleabilidade | malleability | maleabilidad | malléabilité | Verformbarkeit | maleabilitat | malleabilità |
+| malignidade | malignity | malignidad | malignité | Bosheit | malignitat | malignità |
+| maneabilidade | manageability | manejabilidad | maniabilité | Handhabbarkeit | manejabilitat | maneggiabilità |

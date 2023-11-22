@@ -648,3 +648,46 @@
 | inteligibilidade | intelligibility | inteligibilidad | intelligibilité | Verständlichkeit | intel·ligibilitat | intelligibilità |
 | intempestividade | untimeliness | intempestividad | intempestivité | Unzeitgemäßheit | intempestivitat | intempestività |
 
+
+
+| Português | English | Spanish | French | German | Valencian | Italian |
+|-----------|---------|---------|--------|--------|-----------|---------|
+| invisibilidade | invisibility | invisibilidad | invisibilité | Unsichtbarkeit | invisibilitat | invisibilità |
+| invulnerabilidade | invulnerability | invulnerabilidad | invulnérabilité | Unverwundbarkeit | invulnerabilitat | invulnerabilità |
+| ipseidade | ipseity | ipseidad | ipséité | Ipseität | ipseitat | ipseità |
+| irascibilidade | irascibility | irascibilidad | irascibilité | Jähzorn | irascibilitat | irascibilità |
+| irmandade | brotherhood | hermandad | fraternité | Brüderlichkeit | germanor | fraternità |
+| irracionalidade | irrationality | irracionalidad | irrationalité | Irrationalität | irracionalitat | irrazionalità |
+| irrazoabilidade | unreasonableness | irrazonabilidad | déraisonnable | Unvernunft | irracionalitat | irragionevolezza |
+| irrealidade | unreality | irrealidad | irréalité | Irrealität | irrealitat | irrealtà |
+| irredutibilidade | irreducibility | irreductibilidad | irréductibilité | Irreduzierbarkeit | irreductibilitat | irriducibilità |
+| irrefutabilidade | irrefutability | irrefutabilidad | irréfutabilité | Unbestreitbarkeit | irrefutabilitat | irrefutabilità |
+| irregularidade | irregularity | irregularidad | irrégularité | Unregelmäßigkeit | irregularitat | irregolarità |
+| irrenunciabilidade | non-renounceability | irrenunciabilidad | irrénonciabilité | Unverzichtbarkeit | irrenunciable | irrinunciabilità |
+| irresponsabilidade | irresponsibility | irresponsabilidad | irresponsabilité | Verantwortungslosigkeit | irresponsabilitat | irresponsabilità |
+| irretratabilidade | untreatability | irretratabilidad | irrétractabilité | Unbehandelbarkeit | irretractabilitat | irretrattabilità |
+| irretroatividade | non-retroactivity | no retroactividad | non-rétroactivité | Nicht-Rückwirkung | no retroactivitat | non retroattività |
+| irreversibilidade | irreversibility | irreversibilidad | irréversibilité | Unumkehrbarkeit | irreversibilitat | irreversibilità |
+| irrevogabilidade | irrevocability | irrevocabilidad | irrévocabilité | Unwiderruflichkeit | irrevocabilitat | irrevocabilità |
+| irritabilidade | irritability | irritabilidad | irritabilité | Reizbarkeit | irritabilitat | irritabilità |
+| iteratividade | iterativity | iteratividad | itérativité | Iterativität | iterativitat | iteratività |
+| jade | jade | jade | jade | Jade | jade | giada |
+| jocosidade | humor | jocosidad | humour | Heiterkeit | jocositat | giocosità |
+| jovialidade | joviality | jovialidad | jovialité | Fröhlichkeit | jovialitat | jovialità |
+| juridicidade | legality | juridicidad | légalité | Legalität | juridicitat | giuridicità |
+| juvenilidade | youthfulness | juventud | jeunesse | Jugendlichkeit | joventut | giovinezza |
+| labilidade | lability | labilidad | labilité | Labilität | labilitat | labilità |
+| laboriosidade | laboriousness | laboriosidad | laboriosité | Fleiß | laboriositat | laboriosità |
+| laicidade | secularity | laicidad | laïcité | Säkularität | laïcitat | laicità |
+| lateralidade | laterality | lateralidad | latéralité | Lateralität | lateralitat | lateralità |
+| lealdade | loyalty | lealtad | loyauté | Treue | lleialtat | lealtà |
+| legalidade | legality | legalidad | légalité | Legalität | legalitat | legalità |
+| legibilidade | legibility | legibilidad | lisibilité | Lesbarkeit | llegibilitat | leggibilità |
+| legitimidade | legitimacy | legitimidad | légitimité | Legitimität | legitimtat | legittimità |
+| leigalidade | layhood | leigalidad | laïcité | Laienstatus | leigalitat | legaleggiabilità |
+| lenidade | mildness | lenidad | douceur | Milde | suavitat | mitezza |
+| lesa-humanidade | crime against humanity | crimen contra la humanidad | crime contre l'humanité | Verbrechen gegen die Menschlichkeit | crim contra la humanitat | crimine contro l'umanità |
+| letalidade | lethality | letalidad | létalité | Letalität | letalitat | letalità |
+| leviandade | levity | ligereza | légèreté | Leichtigkeit | lleugeresa | leggerezza |
+| liberalidade | generosity | liberalidad | générosité | Großzügigkeit | liberalitat | liberalità |
+| liberdade | freedom | libertad | liberté | Freiheit | llibertat | libertà |

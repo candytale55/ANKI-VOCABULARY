@@ -585,6 +585,10 @@
 | inflexibilidade | inflexibility | inflexibilidad | inflexibilité | Unnachgiebigkeit | inflexibilitat | inflessibilità |
 | informalidade | informality | informalidad | informalité | Informalität | informalitat | informalità |
 | ingenuidade | naivety | ingenuidad | naïveté | Naivität | ingenuïtat | ingenuità |
+
+
+
+
 | Português | English | Spanish | French | German | Valencian | Italian |
 |-----------|---------|---------|--------|--------|-----------|---------|
 | inidoneidade | unsuitability | inidoneidad | inaptitude | Untauglichkeit | inidoneïtat | inidoneità |

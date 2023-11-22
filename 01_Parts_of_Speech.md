@@ -586,8 +586,34 @@
 | informalidade | informality | informalidad | informalité | Informalität | informalitat | informalità |
 | ingenuidade | naivety | ingenuidad | naïveté | Naivität | ingenuïtat | ingenuità |
 
-
-
+| Português | English | Spanish | French | German | Valencian | Italian |
+|-----------|---------|---------|--------|--------|-----------|---------|
+| inidoneidade | unsuitability | inidoneidad | inaptitude | Untauglichkeit | inidoneïtat | inidoneità |
+| inimizade | enmity | enemistad | inimitié | Feindschaft | enemistat | inimicizia |
+| inimputabilidade | non-imputability | no imputabilidad | non-imputabilité | Nichtzuschreibungsfähigkeit | no imputabilitat | non imputabilità |
+| iniquidade | iniquity | iniquidad | iniquité | Ungerechtigkeit | iniquitat | iniquità |
+| inocuidade | harmlessness | inocuidad | inoffensivité | Unbedenklichkeit | inocuïtat | inocuità |
+| inomogeneidade | inhomogeneity | inhomogeneidad | inhomogénéité | Inhomogenität | inhomogeneïtat | inomogeneità |
+| inoperabilidade | inoperability | inoperabilidad | inopérabilité | Unbrauchbarkeit | inoperabilitat | inoperabilità |
+| insaciabilidade | insatiability | insaciabilidad | insatiabilité | Unsättlichkeit | insaciabilitat | insaziabilità |
+| insalubridade | unsafety | insalubridad | insalubrité | Unwohnlichkeit | insalubritat | insalubrità |
+| insanidade | insanity | insanidad | insanité | Wahnsinn | insanitat | insanità |
+| insensibilidade | insensitivity | insensibilidad | insensibilité | Gefühllosigkeit | insensibilitat | insensibilità |
+| inseparabilidade | inseparability | inseparabilidad | inseparabilité | Untrennbarkeit | inseparabilitat | inseparabilità |
+| insolubilidade | insolubility | insolubilidad | insolubilité | Unlösbarkeit | insolubilitat | insolubilità |
+| instabilidade | instability | inestabilidad | instabilité | Instabilität | instabilitat | instabilità |
+| instantaneidade | instantaneity | instantaneidad | instantanéité | Unmittelbarkeit | instantaneïtat | istantaneità |
+| institucionalidade | institutionality | institucionalidad | institutionalité | Institutionalität | institucionalitat | istituzionalità |
+| instrumentalidade | instrumentality | instrumentalidad | instrumentalité | Instrumentalität | instrumentalitat | strumentalità |
+| insularidade | insularity | insularidad | insularité | Inselhaftigkeit | insularitat | insularità |
+| insuportabilidade | unacceptability | insoportabilidad | insupportabilité | Unerträglichkeit | insuportabilitat | insopportabilità |
+| insustentabilidade | unsustainability | insostenibilidad | insoutenabilité | Nichtnachhaltigkeit | insostenibilitat | insostenibilità |
+| intangibilidade | intangibility | intangibilidad | intangibilité | Unantastbarkeit | intangibilitat | intangibilità |
+| integralidade | integrality | integralidad | intégralité | Vollständigkeit | integralitat | integralità |
+| integridade | integrity | integridad | intégrité | Integrität | integritat | integrità |
+| intelectualidade | intellectuality | intelectualidad | intellectualité | Intellektualität | intelectualitat | intelligenza |
+| inteligibilidade | intelligibility | inteligibilidad | intelligibilité | Verständlichkeit | intel·ligibilitat | intelligibilità |
+| intempestividade | untimeliness | intempestividad | intempestivité | Unzeitgemäßheit | intempestivitat | intempestività |
 
 | Português | English | Spanish | French | German | Valencian | Italian |
 |-----------|---------|---------|--------|--------|-----------|---------|
@@ -621,33 +647,30 @@
 
 | Português | English | Spanish | French | German | Valencian | Italian |
 |-----------|---------|---------|--------|--------|-----------|---------|
-| inidoneidade | unsuitability | inidoneidad | inaptitude | Untauglichkeit | inidoneïtat | inidoneità |
-| inimizade | enmity | enemistad | inimitié | Feindschaft | enemistat | inimicizia |
-| inimputabilidade | non-imputability | no imputabilidad | non-imputabilité | Nichtzuschreibungsfähigkeit | no imputabilitat | non imputabilità |
-| iniquidade | iniquity | iniquidad | iniquité | Ungerechtigkeit | iniquitat | iniquità |
-| inocuidade | harmlessness | inocuidad | inoffensivité | Unbedenklichkeit | inocuïtat | inocuità |
-| inomogeneidade | inhomogeneity | inhomogeneidad | inhomogénéité | Inhomogenität | inhomogeneïtat | inomogeneità |
-| inoperabilidade | inoperability | inoperabilidad | inopérabilité | Unbrauchbarkeit | inoperabilitat | inoperabilità |
-| insaciabilidade | insatiability | insaciabilidad | insatiabilité | Unsättlichkeit | insaciabilitat | insaziabilità |
-| insalubridade | unsafety | insalubridad | insalubrité | Unwohnlichkeit | insalubritat | insalubrità |
-| insanidade | insanity | insanidad | insanité | Wahnsinn | insanitat | insanità |
-| insensibilidade | insensitivity | insensibilidad | insensibilité | Gefühllosigkeit | insensibilitat | insensibilità |
-| inseparabilidade | inseparability | inseparabilidad | inseparabilité | Untrennbarkeit | inseparabilitat | inseparabilità |
-| insolubilidade | insolubility | insolubilidad | insolubilité | Unlösbarkeit | insolubilitat | insolubilità |
-| instabilidade | instability | inestabilidad | instabilité | Instabilität | instabilitat | instabilità |
-| instantaneidade | instantaneity | instantaneidad | instantanéité | Unmittelbarkeit | instantaneïtat | istantaneità |
-| institucionalidade | institutionality | institucionalidad | institutionalité | Institutionalität | institucionalitat | istituzionalità |
-| instrumentalidade | instrumentality | instrumentalidad | instrumentalité | Instrumentalität | instrumentalitat | strumentalità |
-| insularidade | insularity | insularidad | insularité | Inselhaftigkeit | insularitat | insularità |
-| insuportabilidade | unacceptability | insoportabilidad | insupportabilité | Unerträglichkeit | insuportabilitat | insopportabilità |
-| insustentabilidade | unsustainability | insostenibilidad | insoutenabilité | Nichtnachhaltigkeit | insostenibilitat | insostenibilità |
-| intangibilidade | intangibility | intangibilidad | intangibilité | Unantastbarkeit | intangibilitat | intangibilità |
-| integralidade | integrality | integralidad | intégralité | Vollständigkeit | integralitat | integralità |
-| integridade | integrity | integridad | intégrité | Integrität | integritat | integrità |
-| intelectualidade | intellectuality | intelectualidad | intellectualité | Intellektualität | intelectualitat | intelligenza |
-| inteligibilidade | intelligibility | inteligibilidad | intelligibilité | Verständlichkeit | intel·ligibilitat | intelligibilità |
-| intempestividade | untimeliness | intempestividad | intempestivité | Unzeitgemäßheit | intempestivitat | intempestività |
-
+| intemporalidade | timelessness | atemporalidad | intemporalité | Zeitlosigkeit | intemporalitat | intemporalità |
+| intencionalidade | intentionality | intencionalidad | intentionnalité | Intentionalität | intencionalitat | intenzionalità |
+| intensidade | intensity | intensidad | intensité | Intensität | intensitat | intensità |
+| interatividade | interactivity | interactividad | interactivité | Interaktivität | interactivitat | interattività |
+| interconectividade | interconnectivity | interconectividad | interconnectivité | Interkonnektivität | interconnectivitat | interconnettività |
+| interdisciplinaridade | interdisciplinarity | interdisciplinariedad | interdisciplinarité | Interdisziplinarität | interdisciplinarietat | interdisciplinarietà |
+| interdiscursividade | interdiscursivity | interdiscursividad | interdiscursivité | Interdiskursivität | interdiscursivitat | interdiscorsività |
+| interinidade | interim | interinidad | intérim | Interimszeit | interinitat | interim |
+| interioridade | interiority | interioridad | interiorité | Innerlichkeit | interioritat | interiorità |
+| interoperabilidade | interoperability | interoperabilidad | interopérabilité | Interoperabilität | interoperabilitat | interoperabilità |
+| interseccionalidade | intersectionality | interseccionalidad | intersectionnalité | Intersektionalität | interseccionalitat | intersezionalità |
+| intersubjetividade | intersubjectivity | intersubjetividad | intersubjectivité | Intersubjektivität | intersubjectivitat | intersoggettività |
+| intertextualidade | intertextuality | intertextualidad | intertextualité | Intertextualität | intertextualitat | intertestualità |
+| intimidade | intimacy | intimidad | intimité | Intimität | intimitat | intimità |
+| intransitividade | intransitivity | intransitividad | intransitivité | Intransitivität | intransitivitat | intransitività |
+| intuitividade | intuitiveness | intuición | intuitivité | Intuitivität | intuïtivitat | intuitività |
+| inutilidade | uselessness | inutilidad | inutilité | Nutzlosigkeit | inutilitat | inutilità |
+| invariabilidade | invariability | invariabilidad | invariabilité | Invariabilität | invariabilitat | invariabilità |
+| invencibilidade | invincibility | invencibilidad | invincibilité | Unbesiegbarkeit | invencibilitat | invincibilità |
+| inventividade | inventiveness | inventividad | inventivité | Inventivität | inventivitat | inventività |
+| inveracidade | falsehood | falsedad | fausseté | Unwahrheit | falsedat | falsità |
+| inverdade | untruth | falsedad | mensonge | Unwahrheit | falsedat | menzogna |
+| inviabilidade | unfeasibility | inviabilidad | inviabilité | Unmöglichkeit | inviabilitat | inviabilità |
+| inviolabilidade | inviolability | inviolabilidad | inviolabilité | Unverletzlichkeit | inviolabilitat | inviolabilità |
 
 
 | Português | English | Spanish | French | German | Valencian | Italian |

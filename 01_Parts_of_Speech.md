@@ -872,3 +872,32 @@
 | penalidade | penalty | penalidad | pénalité | Strafe | penalitat | penalità |
 
 
+| Português | English | Spanish | French | German | Valencian | Italian |
+|-----------|---------|---------|--------|--------|-----------|---------|
+| perceptibilidade | perceptibility | perceptibilidad | perceptibilité | Wahrnehmbarkeit | perceptibilitat | percepibilità |
+| perceptividade | perceptivity | perceptividad | perceptivité | Wahrnehmungsfähigkeit | perceptivitat | percepitività |
+| perecibilidade | perishability | perecibilidad | périssabilité | Verderblichkeit | perissabilitat | perecibilità |
+| peremptoriedade | peremptoriness | perentoriedad | péremptorieté | Zwingendheit | peremptorietat | perentorietà |
+| perenidade | permanence | perennidad | pérennité | Dauerhaftigkeit | perennitat | perennità |
+| perfectibilidade | perfectibility | perfectibilidad | perfectibilité | Vervollkommnungsfähigkeit | perfectibilitat | perfezionabilità |
+| periculosidade | danger | peligrosidad | dangerosité | Gefährlichkeit | perillositat | pericolosità |
+| perigosidade | hazardousness | peligrosidad | dangerosité | Gefährlichkeit | perillositat | pericolosità |
+| periodicidade | periodicity | periodicidad | périodicité | Periodizität | periodicitat | periodicità |
+| permeabilidade | permeability | permeabilidad | perméabilité | Durchlässigkeit | permeabilitat | permeabilità |
+| permissibilidade | permissibility | permisibilidad | permisibilité | Zulässigkeit | permissibilitat | permissibilità |
+| permissividade | permissiveness | permisividad | permissivité | Nachgiebigkeit | permissivitat | permissività |
+| permutabilidade | interchangeability | permutabilidad | permutable | Austauschbarkeit | permutabilitat | permutabilità |
+| perniciosidade | harmfulness | nocividad | nocivité | Schädlichkeit | nocivitat | nocività |
+| perpetuidade | perpetuity | perpetuidad | perpétuité | Dauerhaftigkeit | perpetuitat | perpetuità |
+| perplexidade | perplexity | perplejidad | perplexité | Verwirrung | perplexitat | perplessità |
+| personalidade | personality | personalidad | personnalité | Persönlichkeit | personalitat | personalità |
+| perspicuidade | perspicuity | perspicuidad | perspicuité | Deutlichkeit | perspicuitat | perspicuità |
+| perversidade | perversity | perversidad | perversité | Bosheit | perversitat | perversità |
+| pessoalidade | personality | personalidad | personnalité | Persönlichkeit | personalitat | personalità |
+| piedade | mercy | piedad | pitié | Barmherzigkeit | pietat | pietà |
+| pilosidade | hairiness | pilosidad | pilosité | Haarigkeit | pilositat | pelosità |
+| piscosidade | fishiness | piscosidad | poisson | Fischigkeit | peixositat | piscosità |
+| plasticidade | plasticity | plasticidad | plasticité | Plastizität | plasticitat | plasticità |
+| plausibilidade | plausibility | plausibilidad | plausibilité | Plausibilität | plausibilitat | plausibilità |
+| plêiade | pleiad | pléyade | pléiade | Plejade | pleiada | Pleiade |
+| pluralidade | plurality | pluralidad | pluralité | Vielzahl | pluralitat | pluralità |

@@ -742,3 +742,42 @@
 | maleabilidade | malleability | maleabilidad | malléabilité | Verformbarkeit | maleabilitat | malleabilità |
 | malignidade | malignity | malignidad | malignité | Bosheit | malignitat | malignità |
 | maneabilidade | manageability | manejabilidad | maniabilité | Handhabbarkeit | manejabilitat | maneggiabilità |
+
+
+| Português | English | Spanish | French | German | Valencian | Italian |
+|-----------|---------|---------|--------|--------|-----------|---------|
+| manualidade | manual dexterity | destreza manual | dextérité manuelle | manuelle Geschicklichkeit | destresa manual | destrezza manuale |
+| marcialidade | martiality | marcialidad | marcialité | Kampfkraft | marcialitat | marzialità |
+| marginalidade | marginality | marginalidad | marginalité | Randständigkeit | marginalitat | marginalità |
+| masculinidade | masculinity | masculinidad | masculinité | Männlichkeit | masculinitat | mascolinità |
+| materialidade | materiality | materialidad | matérialité | Materialität | materialitat | materialità |
+| maternidade | maternity | maternidad | maternité | Mutterschaft | maternitat | maternità |
+| maturidade | maturity | madurez | maturité | Reife | maduresa | maturità |
+| maviosidade | sweetness | dulzura | douceur | Süße | dolçor | dolcezza |
+| mediocridade | mediocrity | mediocridad | médiocrité | Mittelmäßigkeit | mitjania | mediocrità |
+| mediunidade | mediumship | mediumnidad | médiumnité | Mediumismus | mitjanitat | medianità |
+| meia-idade | middle age | mediana edad | milieu de vie | mittleres Alter | mitjana edat | mezza età |
+| melifluidade | mellifluousness | melifluidad | mélifluence | Melodiösität | mel·lifluïtat | melensaggine |
+| melosidade | mellowness | melosidad | douceur | Weichheit | melositat | melosità |
+| mendacidade | mendacity | mendacidad | mendacité | Lügenhaftigkeit | mentida | menzogna |
+| mendicidade | beggary | mendicidad | mendicité | Bettlertum | mendicitat | mendicità |
+| menoridade | minority | minoría | minorité | Minderjährigkeit | minoritat | minorità |
+| mensalidade | monthly fee | mensualidad | mensualité | Monatsgebühr | mensualitat | mensilità |
+| mensurabilidade | measurability | medibilidad | mesurabilité | Messbarkeit | mesurabilitat | misurabilità |
+| mentalidade | mentality | mentalidad | mentalité | Mentalität | mentalitat | mentalità |
+| mesmidade | sameness | mismidad | mêmeté | Gleichheit | mateixitat | identicità |
+| metade | half | mitad | moitié | Hälfte | meitat | metà |
+| meticulosidade | meticulousness | meticulosidad | méticulosité | Sorgfältigkeit | meticulositat | meticolosità |
+| minoridade | minority | minoría | minorité | Minderjährigkeit | minoritat | minorità |
+| minuciosidade | meticulousness | minuciosidad | minutie | Genauigkeit | minuciositat | minuziosità |
+| miríade | myriad | miríada | myriade | Myriade | miríada | miriade |
+| miscibilidade | miscibility | miscibilidad | miscibilité | Mischbarkeit | miscibilitat | miscibilità |
+| miserabilidade | wretchedness | miseria | misérabilité | Elend | misèria | miseria |
+| misticidade | mysticism | misticismo | mysticisme | Mystizismus | misticitat | misticità |
+| mobilidade | mobility | movilidad | mobilité | Mobilität | mobilitat | mobilità |
+| mocidade | youth | juventud | jeunesse | Jugend | joventut | giovinezza |
+| modalidade | modality | modalidad | modalité | Modalität | modalitat | modalità |
+| modernidade | modernity | modernidad | modernité | Modernität | modernitat | modernità |
+| modicidade | moderation | modicidad | modération | Mäßigkeit | modicitat | modicità |
+| monstruosidade | monstrosity | monstruosidad | monstruosité | Ungeheuerlichkeit | monstruositat | mostruosità |
+

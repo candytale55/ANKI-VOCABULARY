@@ -530,3 +530,58 @@
 | inatividade | inactivity | inactividad | inactivité | Untätigkeit | inactivitat | inattività |
 | inautenticidade | inauthenticity | inautenticidad | inauthenticité | Inauthentizität | inautenticitat | inautenticità |
 | incapacidade | incapacity | incapacidad | incapacité | Unfähigkeit | incapacitat | incapacità |
+
+
+| Português | English | Spanish | French | German | Valencian | Italian |
+|-----------|---------|---------|--------|--------|-----------|---------|
+| incivilidade | incivility | incivilidad | incivilité | Unhöflichkeit | incivilitat | inciviltà |
+| incognoscibilidade | unknowability | incognoscibilidad | incognoscibilité | Unkenntlichkeit | incognoscibilitat | incognoscibilità |
+| incolumidade | safety | incolumidad | incolumité | Unversehrtheit | incolumitat | incolumità |
+| incomensurabilidade | incommensurability | inconmensurabilidad | incommensurabilité | Unmessbarkeit | incomensurabilitat | incomensurabilità |
+| incomodidade | discomfort | incomodidad | inconfort | Unbequemlichkeit | incomoditat | scomodità |
+| incompatibilidade | incompatibility | incompatibilidad | incompatibilité | Unvereinbarkeit | incompatibilitat | incompatibilità |
+| incompressibilidade | incompressibility | incompresibilidad | incompressibilité | Unverpressbarkeit | incompressibilitat | incompressibilità |
+| incomunicabilidade | incommunicability | incomunicabilidad | incommunicabilité | Unkommunizierbarkeit | incomunicabilitat | incomunicabilità |
+| incondicionalidade | unconditionality | incondicionalidad | inconditionnalité | Unbedingtheit | incondicionalitat | incondizionalità |
+| inconformidade | nonconformity | inconformidad | non-conformité | Unstimmigkeit | inconformitat | non conformità |
+| incongruidade | incongruity | incongruencia | incongruité | Unstimmigkeit | incongruïtat | incongruità |
+| inconstitucionalidade | unconstitutionality | inconstitucionalidad | inconstitutionnalité | Verfassungswidrigkeit | inconstitucionalitat | incostituzionalità |
+| incorruptibilidade | incorruptibility | incorruptibilidad | incorruptibilité | Unbestechlichkeit | incorruptibilitat | incorruttibilità |
+| incredibilidade | incredibility | incredibilidad | incrédibilité | Unglaubwürdigkeit | incredibilitat | incredibilità |
+| incredulidade | incredulity | incredulidad | incrédulité | Ungläubigkeit | incredulitat | incredulità |
+| indelebilidade | indelibility | indelebilidad | indélébilité | Unauslöschlichkeit | indelebilitat | indelebilità |
+| indenidade | indemnity | indemnidad | indemnité | Schadenersatz | indemnitat | indennità |
+| indestrutibilidade | indestructibility | indestructibilidad | indestructibilité | Unzerstörbarkeit | indestructibilitat | indestruttibilità |
+| indignidade | indignity | indignidad | indignité | Unwürdigkeit | indignitat | indignità |
+| indispensabilidade | indispensability | indispensabilidad | indispensabilité | Unentbehrlichkeit | indispensabilitat | indispensabilità |
+| indisponibilidade | unavailability | indisponibilidad | indisponibilité | Nichtverfügbarkeit | indisponibilitat |indisponibilità |
+| indissociabilidade | indivisibility | indisolubilidad | indissociabilité | Unteilbarkeit | indissociabilitat | indissolubilità |
+| indissolubilidade | indissolubility | indisolubilidad | indissolubilité | Unauflösbarkeit | indissolubilitat | indissolubilità |
+| individualidade | individuality | individualidad | individualité | Individualität | individualitat | individualità |
+| indivisibilidade | indivisibility | indivisibilidad | indivisibilité | Unteilbarkeit | indivisibilitat | indivisibilità |
+| indubitabilidade | indubitability | indubitabilidad | indubitabilité | Unzweifelhaftigkeit | indubitabilitat | indubitabilità |
+| inefetividade | ineffectiveness | inefectividad | inefficacité | Ineffektivität | inefectivitat | inefficacità |
+| inelegibilidade | ineligibility | inelegibilidad | inéligibilité | Ineligibilität | inelegibilitat | ineleggibilità |
+| inelutabilidade | inevitability | inevitabilidad | inéluctabilité | Unausweichlichkeit | inevitabilitat | inevitabilità |
+| inescrupulosidade | unscrupulousness | deshonestidad | inobservation | Skrupellosigkeit | inescrupolositat | scurrupolosità |
+| inescrutabilidade | inscrutability | inescrutabilidad | insondabilité | Unerforschlichkeit | inescrutabilitat | inscrutabilità |
+| inevitabilidade | inevitability | inevitabilidad | inévitabilité | Unvermeidlichkeit | inevitabilitat | inevitabilità |
+| inexauribilidade | inexhaustibility | inexauribilidad | inépuisabilité | Unerschöpflichkeit | inexauribilitat | inesauribilità |
+| inexequivibilidade | unenforceability | inejecutabilidad | inexécution | Undurchführbarkeit | ineexecutabilitat | inevasabilità |
+| inexistência | nonexistence | inexistencia | inexistence | Nichtexistenz | inexistència | inesistenza |
+| inexistente | nonexistent | inexistente | inexistant | Nichtexistent | inexistència | inesistente |
+| inexigibilidade | unenforceability | inexigibilidad | inexigibilité | Undurchsetzbarkeit | inexigibilitat | inexigibilità |
+| inexorabilidade | inexorability | inexorabilidad | inexorabilité | Unabwendbarkeit | inexorabilitat | inexorabilità |
+| inexpressividade | inexpressiveness | inexpressividad | inexpressivité | Inexpressivität | inexpressivitat | inespressività |
+| inexpugnabilidade | impregnability | inexpugnabilidad | inexpugnabilité | Unüberwindlichkeit | inexpugnabilitat | inexpugnabilità |
+| infalibilidade | infallibility | infalibilidad | infaillibilité | Unfehlbarkeit | infalibilitat | infallibilità |
+| infantilidade | childishness | infantilidad | infantilité | Kindlichkeit | infantilitat | infantilità |
+| infelicidade | unhappiness | infelicidad | malheur | Unglück | infelicitat | infelicità |
+| inferioridade | inferiority | inferioridad | infériorité | Minderwertigkeit | inferioritat | inferiorità |
+| infertilidade | infertility | infertilidad | infertilité | Unfruchtbarkeit | infertilitat | infertilità |
+| infidelidade | infidelity | infidelidad | infidélité | Untreue | infidelitat | infedeltà |
+| infinidade | infinity | infinidad | infinité | Unendlichkeit | infinitat | infinità |
+| inflamabilidade | flammability | inflamabilidad | inflammabilité | Entflammbarkeit | inflamabilitat | infiammabilità |
+| inflexibilidade | inflexibility | inflexibilidad | inflexibilité | Unnachgiebigkeit | inflexibilitat | inflessibilità |
+| informalidade | informality | informalidad | informalité | Informalität | informalitat | informalità |
+| ingenuidade | naivety | ingenuidad | naïveté | Naivität | ingenuïtat | ingenuità |

@@ -1129,3 +1129,40 @@
 | trivialidade | triviality | trivialidad | trivialité | Banalität | trivialitat | trivialità |
 | tropicalidade | tropicality | tropicalidad | tropicalité | Tropikalität | tropicalitat | tropicalità |
 | tuberosidade | tuberosity | tuberosidad | tubérosité | Tuberosität | tuberositat | tuberosità |
+
+
+| Português | English | Spanish | French | German | Valencian | Italian |
+|-----------|---------|---------|--------|--------|-----------|---------|
+| uberdade | uberdade | uberdade | uberdade | uberdade | uberdade | uberdade |
+| ubiquidade | ubiquity | ubicuidad | ubiquité | Ubiquität | ubiquitat | ubiquità |
+| ultratividade | ultrativity | ultratividad | ultrativité | Ultrativität | ultrativitat | ultrattività |
+| umidade | humidity | humedad | humidité | Feuchtigkeit | humitat | umidità |
+| unanimidade | unanimity | unanimidad | unanimité | Einigkeit | unanimitat | unanimità |
+| unicidade | uniqueness | unicidad | unicité | Einzigartigkeit | unicitat | unicità |
+| unidade | unity | unidad | unité | Einheit | unitat | unità |
+| uniformidade | uniformity | uniformidad | uniformité | Einheitlichkeit | uniformitat | uniformità |
+| unilateralidade | unilaterality | unilateralidad | unilateralité | Einseitigkeit | unilateralitat | unilateralità |
+| universalidade | universality | universalidad | universalité | Universalität | universalitat | universalità |
+| universidade | university | universidad | université | Universität | universitat | università |
+| univocidade | univocity | univocidad | univocité | Eindeutigkeit | univocitat | univocità |
+| untuosidade | unctuousness | untuosidad | onctuosité | Unctuousness | unctuositat | unctuosità |
+| upgrade | upgrade | actualización | mise à niveau | Upgrade | actualització | aggiornamento |
+| urbanidade | urbanity | urbanidad | urbanité | Urbanität | urbanitat | urbanità |
+| usabilidade | usability | usabilidad | utilisabilité | Benutzbarkeit | usabilitat | usabilità |
+| utilidade | utility | utilidad | utilité | Nützlichkeit | utilitat | utilità |
+| uxorilocalidade | uxorilocality | uxorilocalidad | uxorilocalité | Uxorilokalität | uxorilocalitat | uxorilocalità |
+| vacuidade | emptiness | vacuidad | vacuité | Leere | vacuïtat | vuotezza |
+| vaguidade | vagueness | vaguedad | imprécision | Unbestimmtheit | vaguetat | vaghezza |
+| vaidade | vanity | vanidad | vanité | Eitelkeit | vanitat | vanità |
+| validade | validity | validez | validité | Gültigkeit | validitat | validità |
+| vanidade | vanity | vanidad | vanité | Eitelkeit | vanitat | vanità |
+| variabilidade | variability | variabilidad | variabilité | Variabilität | variabilitat | variabilità |
+| varicosidade | varicosity | varicosidad | varicosité | Varikosität | varicositat | varicosità |
+| variedade | variety | variedad | variété | Vielfalt | varietat | varietà |
+| varonilidade | masculinity | virilidad | virilité | Männlichkeit | virilitat | virilità |
+| veleidade | fickleness | veleidad | vélléité | Flatterhaftigkeit | veleïtat | veleità |
+| velocidade | speed | velocidad | vitesse | Geschwindigkeit | velocitat | velocità |
+| venalidade | venality | venalidad | venalité | Käuflichkeit | venalitat | venalità |
+| venustidade | beauty | hermosura | beauté | Schönheit | bellesa | bellezza |
+
+

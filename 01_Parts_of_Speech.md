@@ -1166,3 +1166,35 @@
 | venustidade | beauty | hermosura | beauté | Schönheit | bellesa | bellezza |
 
 
+| Português | English | Spanish | French | German | Valencian | Italian |
+|-----------|---------|---------|--------|--------|-----------|---------|
+| veracidade | veracity | veracidad | véracité | Wahrhaftigkeit | veracitat | veracità |
+| verbosidade | verbosity | verbosidad | verbosité | Redseligkeit | verbositat | verbosità |
+| verdade | truth | verdad | vérité | Wahrheit | veritat | verità |
+| vericidade | veracity | veracidad | véracité | Wahrhaftigkeit | veracitat | veracità |
+| veridicidade | veridicality | veracidad | véracité | Wahrhaftigkeit | veracitat | veracità |
+| verificabilidade | verifiability | verificabilidad | vérifiabilité | Überprüfbarkeit | verificabilitat | verificabilità |
+| verossimilidade | likelihood | verosimilitud | vraisemblance | Wahrscheinlichkeit | versemblança | verosimiglianza |
+| versatilidade | versatility | versatilidad | versatilité | Vielseitigkeit | versatilitat | versatilità |
+| verticalidade | verticality | verticalidad | verticalité | Verticalität | verticalitat | verticalità |
+| viabilidade | viability | viabilidad | viabilité | Machbarkeit | viabilitat | fattibilità |
+| vilosidade | vile | vileza | vilenie | Niederträchtigkeit | vilesa | viltà |
+| violabilidade | violability | violabilidad | violabilité | Verletzbarkeit | violabilitat | violabilità |
+| virilidade | masculinity | virilidad | virilité | Männlichkeit | virilitat | virilità |
+| virtualidade | virtuality | virtualidad | virtualité | Virtualität | virtualitat | virtualità |
+| virtuosidade | virtuosity | virtuosidad | virtuosité | Virtuosität | virtuositat | virtuosità |
+| visceralidade | visceralness | visceralidad | visceralité | Eingängigkeit | visceralitat | visceralità |
+| viscosidade | viscosity | viscosidad | viscosité | Zähflüssigkeit | viscositat | viscosità |
+| visibilidade | visibility | visibilidad | visibilité | Sichtbarkeit | visibilitat | visibilità |
+| visualidade | visuality | visualidad | visualité | Sichtbarkeit | visualitat | visualità |
+| vitaliciedade | vitality | vitalidad | vitalité | Vitalität | vitalitat | vitalità |
+| vitalidade | vitality | vitalidad | vitalité | Vitalität | vitalitat | vitalità |
+| vivacidade | liveliness | vivacidad | vivacité | Lebhaftigkeit | vivacitat | vivacità |
+| volatilidade | volatility | volatilidad | volatilité | Flüchtigkeit | volatilitat | volatilità |
+| volubilidade | volubility | volubilidad | volubilité | Wendigkeit | volubilitat | volubilità |
+| voluntariedade | voluntariness | voluntariedad | volontarité | Willkürlichkeit | voluntariat | volontarietà |
+| voluptuosidade | voluptuousness | voluptuosidad | voluptuosité | Sinnlichkeit | voluptuositat | voluttuosità |
+| vontade | will | voluntad | volonté | Wille | voluntat | volontà |
+| voracidade | voracity | voracidad | voracité | Gefräßigkeit | voracitat | voracità |
+| vulgaridade | vulgarity | vulgaridad | vulgarité | Vulgarität | vulgaritat | volgarità |
+| vulnerabilidade | vulnerability | vulnerabilidad | vulnérabilité | Verletzbarkeit | vulnerabilitat | vulnerabilità |

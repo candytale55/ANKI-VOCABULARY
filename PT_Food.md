@@ -3,6 +3,114 @@
 
 | Português | English | Spanish | French | German | Valencian | Italian |
 |-----------|---------|---------|--------|--------|-----------|---------|
+| um café com leite | coffee with milk | café con leche | café au lait | Kaffee mit Milch | café amb llet | caffè con latte |
+| a cebola | onion | cebolla | oignon | Zwiebel | ceba | cipolla |
+| as papas de avéia | oatmeal | avena | avoine | Haferflocken | civada | fiocchi d'avena |
+| o hamburger | hamburger | hamburguesa | hamburger | Hamburger | hamburguesa | hamburger |
+| o açúcar | sugar | azúcar | sucre | Zucker | sucre | zucchero |
+| o iogurte | yogurt | yogur | yaourt | Joghurt | iogurt | yogurt |
+| o chouriço | chorizo | chorizo | chorizo | Chorizo | xoriço | chorizo |
+| o leite | milk | leche | lait | Milch | llet | latte |
+| a mermelada | jam | mermelada | confiture | Marmelade | melmelada | marmellata |
+| os biscoitos | cookies | galletas | biscuits | Kekse | galetes | biscotti |
+| o tofu | tofu | tofu | tofu | Tofu | tofu | tofu |
+| os frutos secos | nuts | frutos secos | fruits secs | Nüsse | fruit sec | frutta secca |
+| as lentinhas | lentils | lentejas | lentilles | Linsen | llenties | lenticchie |
+| couve-portuguesa | Portuguese kale | col portuguesa | chou portugais | Portugiesischer Kohl | col portuguesa | cavolo portoghese |
+| a couve-portuguesa | Portuguese cabbage | col portuguesa | chou portugais | Portugiesischer Kohl | col portuguesa | cavolo portoghese |
+| curgete | zucchini | calabacín | courgette | Zucchini | carbassó | zucchina |
+| cenoura | carrot | zanahoria | carotte | Karotte | pastanaga | carota |
+| brocolo | broccoli | brócoli | brocoli | Brokkoli | bròquil | broccoli |
+| alho | garlic | ajo | ail | Knoblauch | all | aglio |
+| espinafre | spinach | espinacas | épinard | Spinat | espinacs | spinaci |
+| pepino | cucumber | pepino | concombre | Gurke | cogombre | cetriolo |
+| tomate | tomato | tomate | tomate | Tomate | tomaca | pomodoro |
+| alface | lettuce | lechuga | laitue | Kopfsalat | enciam | lattuga |
+| couve flor | cauliflower | coliflor | chou-fleur | Blumenkohl | coliflor | cavolfiore |
+| tomate em cacho | cluster tomato | tomate en racimo | tomate en grappe | Rispentomate | tomàquet en cigró | pomodoro a grappolo |
+| pimento | bell pepper | pimiento | poivron | Paprika | pebrot | peperone |
+| nabo | turnip | nabo | navet | Rübe | nap | rapa |
+| batata | sweet potato | boniato | patate douce | Süßkartoffel | moniato | patata dolce |
+| cogumelo | mushroom | champiñón | champignon | Pilz | bolet | fungo |
+| chuchu | chayote | chayote | chayote | Chayote | xuxo | chayote |
+| cebola roxa | red onion | cebolla morada | oignon rouge | rote Zwiebel | ceba vermella | cipolla rossa |
+| beringela | eggplant | berenjena | aubergine | Aubergine | albergínia | melanzana |
+| espargos | asparagus | espárragos | asperges | Spargel | espàrrec | asparago |
+| feijão verde | green beans | judías verdes | haricots verts | grüne Bohnen | mongetes verdes | fagiolini |
+| abóbora | pumpkin | calabaza | citrouille | Kürbis | carbassa | zucca |
+| couve branca | white cabbage | col blanca | chou blanc | Weißkohl | col blanca | cavolo bianco |
+| couve lombarda | savoy cabbage | col lombarda | chou de Savoie | Wirsingkohl | col lombarda | cavolo verza |
+| beterraba | beetroot | remolacha | betterave | Rote Bete | remolatxa | barbabietola |
+| gengibre | ginger | jengibre | gingembre | Ingwer | gingebre | zenzero |
+| cebolinha | green onion | cebolleta | oignon vert | Frühlingszwiebel | cebes tendres | cipollina |
+| couve Bruxelas | Brussels sprouts | coles de Bruselas | choux de Bruxelles | Rosenkohl | bròquil de Brussel·les | cavolini di Bruxelles |
+| couve roxa | red cabbage | col lombarda | chou rouge | Rotkohl | col lombarda | cavolo cappuccio rosso |
+| pimento padrão | padrón pepper | pimiento de Padrón | piment de Padrón | Padrón-Pfeffer | pebrot de Padró | peperone di Padrón |
+| milho | corn | maíz | maïs | Mais | blat de moro | mais |
+| cheróvia | parsnip | chirivía | panais | Pastinak | pastanaga | pastinaca |
+| rebentos de feijão | bean sprouts | brotes de judía | pousses de haricot | Bohnensprossen | brots de mongeta | germogli di fagiolo |
+| aipo | celery | apio | céleri | Sellerie | api | sedano |
+| romã | pomegranate | granada | grenade | Granatapfel | magrana | melograno |
+| marmelo | quince | membrillo | coing | Quitte | codony | cotogna |
+| dióspiro | persimmon | caqui | plaqueminier | Persimmon | caqui | cachi |
+| pera | pear | pera | poire | Birne | pera | pera |
+| anona | custard apple | chirimoya | anone | Zimtapfel | atmetlla | anona |
+| castanha | chestnut | castaña | châtaigne | Kastanie | castanya | castagna |
+| noz | walnut | nuez | noix | Walnuss | nou | noce |
+| banana | banana | plátano | banane | Banane | plàtan | banana |
+| clementina | clementine | clementina | clémentine | Clementine | clementina | clementina |
+| uva | grape | uva | raisin | Traube | raïm | uva |
+| manga | mango | mango | mangue | Mango | mango | mango |
+| abacate | avocado | aguacate | avocat | Avocado | alvocat | avocado |
+| kiwi | kiwi | kiwi | kiwi | Kiwi | kiwi | kiwi |
+| papaia | papaya | papaya | papaye | Papaya | papaia | papaya |
+| ameixa | plum | ciruela | prune | Pflaume | pruna | prugna |
+| abacaxi | pineapple | piña | ananas | Ananas | pinya | ananas |
+| lima | lime | lima | citron vert | Limette | llimona | lime |
+| meloa | melon | melón | melon | Melone | meló | melone |
+| mamão | papaya | papaya | papaye | Papaya | papaia | papaia |
+| maracujá | passion fruit | maracuyá | fruit de la passion | Passionsfrucht | maracujà | frutto della passione |
+| uva branca | white grape | uva blanca | raisin blanc | weiße Traube | raim blanc | uva bianca |
+| uva rosada | red grape | uva roja | raisin rouge | rote Traube | raim vermell | uva rossa |
+| tangerina | tangerine | mandarina | mandarine | Mandarine | mandarina | mandarino |
+| toranja | grapefruit | pomelo | pamplemousse | Grapefruit | pomel | pompelmo |
+| melancia | watermelon | sandía | pastèque | Wassermelone | síndria | anguria |
+| frutos do bosque | berries | frutos del bosque | baies | Beeren | fruita del bosc | frutti di bosco |
+| coco | coconut | coco | noix de coco | Kokosnuss | coco | cocco |
+| pitaia | dragon fruit | pitaya | pitaya | Drachenfrucht | pitahia | pitaya |
+| granadilha | passion fruit | granadilla | grenadille | Grenadillenfrucht | granadilla | granadiglia |
+| amêndoas | almonds | almendras | amandes | Mandeln | ametlles | mandorle |
+| tamarindo | tamarind | tamarindo | tamarin | Tamarinde | tamarinde | tamarindo |
+| queijo para barrar | cream cheese | queso para untar | fromage à tartiner | Frischkäse | formatge per untar | formaggio spalmabile |
+| creme | cream | crema | crème | Sahne | crema | panna |
+| caldo-verde | caldo verde | caldo verde | caldo vert | Grünkohlsuppe | caldo verd | zuppa di cavolo verde |
+| canja | chicken soup | sopa de pollo | soupe au poulet | Hühnersuppe | sopa de pollastre | zuppa di pollo |
+| os coentros | coriander | cilantro | coriandre | Koriander | coriandre | coriandolo |
+| salsa | parsley | perejil | persil | Petersilie | julivert | prezzemolo |
+| molho | sauce | salsa | sauce | Soße | salsa | salsa |
+| massa | pasta | pasta | pâte | Teigwaren | pasta | pasta |
+| massa | dough | masa | pâte | Teig | massa | impasto |
+| a letria | letria | letria | letria | letria | letria | letria |
+| salmão | salmon | salmón | saumon | Lachs | salmó | salmone |
+| bacalhau | codfish | bacalao | morue | Kabeljau | bacallà | baccalà |
+| fiambre | ham | jamón | jambon | Schinken | pernil dolç | prosciutto cotto |
+| bacon | bacon | bacon | bacon | Speck | bacon | pancetta |
+| fiambre de peito de frango | chicken breast ham | pechuga de pollo | jambon de poulet | Hähnchenbrustschinken | pernil de pit de pollastre | prosciutto di petto di pollo |
+| presunto | ham | jamón curado | jambon sec | Schinken | pernil | prosciutto crudo |
+| a lista | list | lista | liste | Liste | llista | lista |
+| a ementa (PT) | menu | menú | menu | Menü | menú | menù |
+| a cardápio (BR) | menu | menú | menu | Menü | menú | menù |
+
+
+
+
+
+
+
+
+
+| Português | English | Spanish | French | German | Valencian | Italian |
+|-----------|---------|---------|--------|--------|-----------|---------|
 | lisboeta | Lisbonite | lisboeta | lisboète | Lissabonner | lisboeta | lisboeta |
 | alfacinha | from Lisbon | alfacinha | alfacin | Lissabonner | alfacinya | alfacinha |
 | tripeiro | from Porto | tripeiro | tripeiro | Portuenser | triper | tripeiro |

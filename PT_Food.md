@@ -63,6 +63,23 @@
 | um chá de camomila | chamomile tea | un té de manzanilla | un thé à la camomille | ein Kamillentee | un té de camamilla | un tè di camomilla |
 | sumo de laranja | orange juice | zumo de naranja | jus d'orange | Orangensaft | suc de taronja | succo d'arancia |
 
+| Português | English | Spanish | French | German | Valencian | Italian |
+|-----------|---------|---------|--------|--------|-----------|---------|
+| manteiga | butter | mantequilla | beurre | Butter | mantega | burro |
+| limonada | lemonade | limonada | limonade | Limonade | llimonada | limonata |
+| pão | bread | pan | pain | Brot | pa | pane |
+| queijo | cheese | queso | fromage | Käse | formatge | formaggio |
+| vinho | wine | vino | vin | Wein | vi | vino |
+| frango | chicken | pollo | poulet | Huhn | pollastre | pollo |
+| peixe (alimento) | fish | pescado | poisson | Fisch | peix (aliment) | pesce (cibo) |
+| é | is | es | est | ist | és | è |
+| laranja (fruta) | orange (fruit) | naranja (fruta) | orange (fruit) | Orange (Frucht) | taronja (fruita) | arancia (frutta) |
+| leite | milk | leche | lait | Milch | llet | latte |
+| limão | lemon | limón | citron | Zitrone | llimona | limone |
+| cereja | cherry | cereza | cerise | Kirsche | cirera | ciliegia |
+| cerveja | beer | cerveza | bière | Bier | cervesa | birra |
+
+
 
 | No.  | Português           | + Artigo              | IPA (PT)   | IPA (BR)   | TP  | EN            | ES             |
 |------|---------------------|-----------------------|------------|------------|-----|---------------|----------------|

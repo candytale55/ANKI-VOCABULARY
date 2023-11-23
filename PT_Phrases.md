@@ -140,7 +140,20 @@ Enquanto "Muitas felicidades!" foca mais no bem-estar geral e na felicidade do i
 | 9200 | Com certeza              |                             | /kõ sɨɾ.ˈte.zɐ/             | /kõ seʁ.ˈte.zɐ/             | exp  | Certainly                 | Por supuesto                |
 
 
+Certainly! Here's the filled-out table for the provided words/phrases:
 
+| No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
+|-----|-----------|----------|----------|----------|----|----|----|
+| 9201 | Até amanhã | | /a'tɛ ɐ.mɐ.'ɲɐ̃/ | /a'tɛ a.'mɐ̃.ɲã/ | adv | See you tomorrow | Hasta mañana |
+| 9202 | Até a vista! | | /a'tɛ a 'viʃ.tɐ/ | /a'tɛ a 'vis.ta/ | exp | Until we meet again! | ¡Hasta la vista! |
+| 9203 | Um bocadinho | | /ũ bo.kɐ.'ʤi.ɲu/ | /ũ bo.ka.'di.ɲu/ | pron | A little bit | Un poquito |
+| 9204 | Ainda não | | /'aj.nɐ nũ/ | /'aj̃.da naũ/ | adv | Not yet | Aún no |
+| 9205 | Muitas felicidades! | | /'mwi.tɐʒ fɨ.li.si.'ða.dɨʃ/ | /'mwitɐʒ fɛ.li.si.'ða.dɛʃ/ | exp | Many happy returns! | ¡Muchas felicidades! |
+| 9206 | Muitos parabéns! | | /'mwitɔʒ pa.ɾɐ.'bẽj̃ʃ/ | /'mwitɔʒ pa.ɾɐ.'bẽj̃ʃ/ | exp | Congratulations! | ¡Muchos parabéns! |
+| 9207 | Parabéns! | | /pa.ɾɐ.'bẽj̃ʃ/ | /pa.ɾɐ.'bẽj̃ʃ/ | exp | Congratulations! | ¡Parabéns! |
+| 9208 | Feliz Natal! | | /fe.'liʒ na.'tal/ | /fe.'liz na.'tal/ | exp | Merry Christmas! | ¡Feliz Navidad! |
+| 9209 | As melhoras! | | /aʒ mu.li.'ɔ.ɾɐʃ/ | /as me.'ljo.ɾas/ | exp | Get well soon! | ¡Que te mejores! |
+| 9210 | Boas entradas! | | /bo.ɐʃ ẽ.'tɾa.ðɐʃ/ | /bo.ɐʃ ẽ.'tɾa.ðas/ | exp | Happy New Year! | ¡Feliz Año Nuevo! |
 
 
 

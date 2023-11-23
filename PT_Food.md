@@ -5,6 +5,19 @@ Here's the translation for the provided list:
 
 | Português | English | Spanish | French | German | Valencian | Italian |
 |-----------|---------|---------|--------|--------|-----------|---------|
+| o pequeno-almoço | breakfast | desayuno | petit-déjeuner | Frühstück | esmorzar | colazione |
+| o almoço | lunch | almuerzo | déjeuner | Mittagessen | dinar | pranzo |
+| o jantar | dinner | cena | dîner | Abendessen | sopar | cena |
+| refeição | meal | comida | repas | Mahlzeit | àpat | pasto |
+| o pequeno-almoço (PT) | breakfast | desayuno | petit-déjeuner | Frühstück | esmorzar | colazione |
+| o mata-bicho (ANG) | breakfast | desayuno | petit-déjeuner | Frühstück | esmorzar | colazione |
+
+Note: "Mata-bicho" is an Angolan Portuguese term for breakfast.
+
+Let me know if there's anything else you need!
+
+| Português | English | Spanish | French | German | Valencian | Italian |
+|-----------|---------|---------|--------|--------|-----------|---------|
 | chá | tea | té | thé | Tee | te | tè |
 | maçã | apple | manzana | pomme | Apfel | poma | mela |
 | morango | strawberry | fresa | fraise | Erdbeere | maduixa | fragola |

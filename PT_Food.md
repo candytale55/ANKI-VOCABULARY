@@ -65,6 +65,38 @@
 | 8813 | ameixa | a ameixa | /ɐˈmej.ʃɐ/ | /ɐˈmej.ʃɐ/ | sf |
 
 
+| No.  | Português              | + Artigo        | IPA (PT)         | IPA (BR)         | TP  |
+|------|------------------------|-----------------|------------------|------------------|-----|
+| 8767 | airela                 | a airela        | /ɐj.ˈɾɛ.lɐ/      | /aj.ˈɾɛ.lɐ/      | sf  |
+| 8766 | sabugueiro             | o sabugueiro    | /sɐ.bu.ˈɡej.ɾu/ | /sa.bu.ˈɡej.ɾu/ | sm  |
+| 8765 | groselha               | a groselha      | /ɡɾu.ˈzɛ.ʎɐ/   | /ɡɾo.ˈze.ʎɐ/   | sf  |
+| 8764 | boysenberry            | a boysenberry   | /ˈbɔɪ.zənˌbɛ.ri/ | /ˈbɔɪ.zənˌbɛ.ri/ | sf  |
+| 8763 | framboesa              | a framboesa     | /fɾɐ̃.bu.ˈe.zɐ/  | /fɾɐ̃.bo.ˈe.zɐ/  | sf  |
+| 8762 | arando                 | o arando        | /ɐ.ˈɾɐ̃.du/      | /a.ˈɾɐ̃.du/      | sm  |
+| 8761 | amora                  | a amora         | /ɐ.ˈmo.ɾɐ/      | /ɐ.ˈmo.ɾɐ/      | sf  |
+| 8760 | mirtilo                | o mirtilo       | /miɾ.ˈti.lu/     | /miɾ.ˈti.lu/     | sm  |
+| 8759 | morango                | o morango       | /moˈɾɐ̃.ɡu/     | /moˈɾɐ̃.ɡu/     | sm  |
+| 6790 | chocolates             | os chocolates   | /ʃɔ.ku.'la.tɨʃ/ | /ʃɔ.kɔ.'la.tʃis/ | smp |
+| 6782 | café                   | o café          | /'ka.fɨ/         | /'ka.fi/         | sm  |
+| 9267 | um café com leite      |                 |                  |                  | exp |
+| 9268 | cebola                 | a cebola        | /sɨ.'bo.lɐ/      | /se.'bo.la/      | sf  |
+| 9269 | papas de aveia         | as papas de aveia| /'pa.pɐʒ dɨ a.ˈve.jɐ/ | /'pa.pɐʒ dʒi a.ˈve.jɐ/ | sfp |
+| 9270 | hamburger              | o hamburger     | /ˌhæm.bɚ.ˈɡɚ/   | /ˌhæm.bɝ.ˈɡɝ/   | sm  |
+| 9271 | açúcar                 | o açúcar        | /ɐˈsu.kaɾ/       | /aˈsu.kaʁ/       | sm  |
+| 9272 | iogurte                | o iogurte       | /ju.ˈɡuɾ.tɨ/     | /jo.ˈɡuʁ.tʃi/   | sm  |
+| 9273 | chouriço               | o chouriço      | /ʃo.'ɾi.su/      | /ʃo.'ɾi.su/      | sm  |
+| 9274 | leite                  | o leite         | /lej.tɨ/         | /lej.tʃi/        | sm  |
+| 9275 | mermelada              | a mermelada     | /mɨɾ.mɨ.ˈla.dɐ/ | /mɨɾ.mɨ.ˈla.dɐ/ | sf  |
+| 9276 | biscoitos              | os biscoitos    | /bɨʃ.ˈkɔj.tuʃ/  | /bis.ˈkɔj.tus/  | smp |
+| 9277 | tofu                   | o tofu          | /ˈto.fu/         | /ˈto.fu/         | sm  |
+| 9278 | frutos secos           | os frutos secos | /ˈfɾu.tus ˈse.kus/ | /ˈfɾu.tus ˈse.kus/ | smp |
+| 9279 | lentinhas              | as lentinhas    | /lẽ.ˈti.ɲɐʃ/    | /lẽ.ˈti.ɲɐʃ/    | sfp |
+| 9280 | couve-portuguesa       | a couve-portuguesa | /ˈko.vɨ pur.tu.ˈɡez.ɐ/ | /ˈko.ve pur.tu.ˈɡe.zɐ/ | sf |
+| 9281 | curgete                | a curgete       | /kur.ˈʒɛ.tɨ/     | /kur.ˈʒɛ.tʃi/   | sf  |
+| 9282 | cenoura                | a cenoura       | /sɨ.ˈno.ɾɐ/      | /se.ˈno.ɾa/      | sf  |
+| 9283 | brocolo                | o brocolo       | /bɾɔ.ˈko.lu/     | /bɾɔ.ˈko.lu/     | sm  |
+| 9284 | alho                   | o alho          | /ˈa.ʎu/          | /ˈa.ʎu/          | sm  |
+| 9285 | espinafre              | o espinafre     | /eʃ.pi.ˈna.fɾɨ/  | /es.pi.ˈna.fɾi/ | sm  |
 
 
 

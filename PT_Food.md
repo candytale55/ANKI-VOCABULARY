@@ -1,6 +1,12 @@
 # Food
 
 
+| Portuguese | English | Spanish | French | German | Valencian | Italian |
+|------------|---------|---------|--------|--------|-----------|---------|
+| ananás | pineapple | piña | ananas | Ananas | pinya | ananas |
+| leguminosas | legumes | leguminosas | légumineuses | Hülsenfrüchte | llegums | legumi |
+
+
 | Português | English | Spanish | French | German | Valencian | Italian |
 |-----------|---------|---------|--------|--------|-----------|---------|
 | um café com leite | coffee with milk | café con leche | café au lait | Kaffee mit Milch | café amb llet | caffè con latte |

@@ -1,5 +1,43 @@
 # Food
 
+Certainly! Here's the filled-out table for the provided words/phrases:
+
+| No.  | Português           | + Artigo              | IPA (PT)   | IPA (BR)   | TP  | EN            | ES             |
+|------|---------------------|-----------------------|------------|------------|-----|---------------|----------------|
+| 9087 | limões    | **os** limões | /li.ˈmõj̃/ | /li.ˈmõj̃/ | smp | lemons    | limones   |
+| 9211 | batatas fritas      | **as** batatas fritas |            |            | sfp | french fries  | papas fritas   |
+| 9212 | batata              | **a** batata          |            |            | sf  | potato        | patata         |
+| 9213 | batata-doce         | **a** batata-doce     |            |            | sf  | sweet potato  | boniato        |
+| 9214 | massa               | **a** massa           |            |            | sf  | pasta         | pasta          |
+| 9215 | mel                 | **o** mel             |            |            | sm  | honey         | miel           |
+| 9216 | torrada             | **uma** torrada       |            |            | sf  | toast         | tostada        |
+| 9217 | panquecas           | **as** panquecas      |            |            | sfp | pancakes      | tortitas       |
+| 9218 | doce                | **o** doce            |            |            | sm  | candy/sweet   | dulce/caramelo |
+| 9219 | chocolate           | **o** chocolate       |            |            | sm  | chocolate     | chocolate      |
+| 9220 | sopa                | **a** sopa            |            |            | sf  | soup          | sopa           |
+| 9221 | legumes             | **os** legumes        |            |            | smp | vegetables    | verduras       |
+| 9222 | salada              | **a** salada          |            |            | sf  | salad         | ensalada       |
+| 9223 | bolos               | **os** bolos          |            |            | smp | cakes         | pasteles       |
+| 9224 | ovos meixidos       | **os** ovos meixidos  |            |            | smp | scrambled eggs| huevos revueltos|
+| 9225 | arroz               | **o** arroz           |            |            | sm  | rice          | arroz          |
+| 9226 | feijão              |                       |            |            | sm  | beans         | frijoles       |
+| 9227 |                     |                       |            |            | sm  | vegetables    | verduras       |
+| 9228 | carne               | **a** carne           |            |            | sf  | meat          | carne          |
+| 9229 | fruta               | **a** fruta           |            |            | sf  | fruit         | fruta          |
+| 9230 | cabelo comprido     | **o** cabelo comprido |            |            | sm  | long hair     | pelo largo     |
+| 9231 | cabelo curto        | **o** cabelo curto    |            |            | sm  | short hair    | pelo corto     |
+| 9232 | cabelo encaracolado | **o** cabelo encaracolado |        |            | sm  | curly hair    | pelo rizado    |
+| 9233 | cabelo liso         | **o** cabelo liso     |            |            | sm  | straight hair | pelo liso      |
+| 9234 | cabelo ondulado      | **o** cabelo ondulado  |            |            | sm  | wavy hair     | pelo ondulado  |
+| 9235 | carapinha           |                       |            |            | sf  | kinky hair    | pelo afro      |
+| 9242 | nariz aquilino      |                       |            |            | sm  | aquiline nose | nariz aguileño |
+| 9243 | olho claro          |                       |            |            | sm  | light-colored eyes | ojos claros   |
+| 9244 | nariz fina           |                       |            |            | sm  | thin nose     | nariz fino     |
+
+If there are any additional words or adjustments you'd like, feel free to let me know!
+
+
+
 ## Vegetais (Vegetables)
 
 | Portuguese   | Tipo de Palavra  | IPA (PT)       | IPA (BR)      | English    | English IPA   | Spanish     | Spanish IPA  | No. |

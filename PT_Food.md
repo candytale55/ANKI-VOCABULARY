@@ -1,6 +1,68 @@
 # Food
 
-Certainly! Here's the filled-out table for the provided words/phrases:
+
+| Português | English | Spanish | French | German | Valencian | Italian |
+|-----------|---------|---------|--------|--------|-----------|---------|
+| lisboeta | Lisbonite | lisboeta | lisboète | Lissabonner | lisboeta | lisboeta |
+| alfacinha | from Lisbon | alfacinha | alfacin | Lissabonner | alfacinya | alfacinha |
+| tripeiro | from Porto | tripeiro | tripeiro | Portuenser | triper | tripeiro |
+| tuga | Portuguese person | tuga | tuga | Portugiese | tuga | tuga |
+| e | and | y | et | und | i | e |
+| tem bom feitio | has a good nature | tiene buen carácter | a un bon caractère | hat eine gute Natur | té bon caràcter | ha un buon carattere |
+| tem franja | has bangs | tiene flequillo | a une frange | hat Pony | té franja | ha la frangia |
+| tem madeixas | has highlights | tiene mechas | a des mèches | hat Strähnchen | té madeixes | ha colpi di luce |
+| tem mau feitio | has a bad nature | tiene mal carácter | a un mauvais caractère | hat eine schlechte Natur | té mal caràcter | ha un cattivo carattere |
+| tem olhos azuis | has blue eyes | tiene ojos azules | a les yeux bleus | hat blaue Augen | té els ulls blaus | ha gli occhi azzurri |
+| tem olhos verdes | has green eyes | tiene ojos verdes | a les yeux verts | hat grüne Augen | té els ulls verds | ha gli occhi verdi |
+| ê | hey | eh | hé | hey | eix | eh |
+| limões | lemons | limones | citrons | Zitronen | llimons | limoni |
+| batatas fritas | french fries | patatas fritas | frites | Pommes frites | patates fregides | patatine fritte |
+| batata | potato | patata | pomme de terre | Kartoffel | patata | patata |
+| batata-doce | sweet potato | boniato | patate douce | Süßkartoffel | moniato | patata dolce |
+| massa | pasta | pasta | pâtes | Nudeln | massa | pasta |
+| mel | honey | miel | miel | Honig | mel | miele |
+| torrada | toast | tostada | pain grillé | Toast | torrada | pane tostato |
+| panquecas | pancakes | tortitas | crêpes | Pfannkuchen | panqueques | pancake |
+| doce | jam | mermelada | confiture | Marmelade | melmelada | marmellata |
+| chocolate | chocolate | chocolate | chocolat | Schokolade | xocolata | cioccolato |
+| sopa | soup | sopa | soupe | Suppe | sopa | zuppa |
+| legumes | vegetables | verduras | légumes | Gemüse | verdures | verdure |
+| salada | salad | ensalada | salade | Salat | amanida | insalata |
+| bolos | cakes | pasteles | gâteaux | Kuchen | pastissos | torte |
+| ovos meixidos | scrambled eggs | huevos revueltos | œufs brouillés | Rührei | ous remenats | uova strapazzate |
+| arroz | rice | arroz | riz | Reis | arròs | riso |
+| feijão | beans | frijoles | haricots | Bohnen | mongetes | fagioli |
+| carne | meat | carne | viande | Fleisch | carn | carne |
+| fruta | fruit | fruta | fruit | Obst | fruita | frutta |
+| cabelo comprido | long hair | pelo largo | cheveux longs | langes Haar | cabell llarg | capelli lunghi |
+| cabelo curto | short hair | pelo corto | cheveux courts | kurze Haare | cabell curt | capelli corti |
+| cabelo encaracolado | curly hair | pelo rizado | cheveux bouclés | lockiges Haar | cabell arrissat | capelli ricci |
+| cabelo liso | straight hair | pelo liso | cheveux lisses | glattes Haar | cabell llis | capelli lisci |
+| cabelo ondulado | wavy hair | pelo ondulado | cheveux ondulés | welliges Haar | cabell ondulat | capelli mossi |
+| carapinha | kinky hair | pelo muy rizado | cheveux crépus | krauses Haar | cabell molt arrissat | capelli crespi |
+| nariz aquilino | aquiline nose | nariz aguileño | nez aquilin | Hakennase | nas agulí | naso aquilino |
+| olho claro | light eyes | ojos claros | yeux clairs | helle Augen | ull clar | occhi chiari |
+| nariz fina | thin nose | nariz fino | nez fin | schmale Nase | nas prima | naso sottile |
+| um galão | a galão (coffee with milk) | un galão | un galão | ein Galão (Kaffee mit Milch) | un tallat | un galão |
+| um café, uma bica | an espresso | un café | un café | ein Espresso | un café | un caffè |
+| uma italiana | an Italian coffee | un italiano | un italien | ein Italiener (Kaffee) | una italiana | un italiano |
+| um café pingado, uma bica pingada | an espresso with a drop of milk | un café cortado | un café serré | ein Espresso mit einem Tropfen Milch | un tallat amb una gota de llet | un caffè macchiato |
+| um café cheio, uma bica cheia | a strong espresso | un café solo | un café serré fort | ein starker Espresso | un café potent | un caffè forte |
+| uma bica | an espresso | un café | un café | ein Espresso | un café | un caffè |
+| um café abatanado | a weak espresso | un café largo | un café allongé | ein schwacher Espresso | un café poc potent | un caffè diluito |
+| um batido de chocolate | a chocolate shake | un batido de chocolate | un milkshake au chocolat | ein Schokoladen-Shake | un batut de xocolata | un frappè al cioccolato |
+| um café carioca | a weak coffee | un café americano | un café américain | ein schwacher Kaffee | un café americà | un caffè americano |
+| uma fatia de queijo | a slice of cheese | una loncha de queso | une tranche de fromage | eine Scheibe Käse | una llesca de formatge | una fetta di formaggio |
+| uma fatia de pão | a slice of bread | una rebanada de pan | une tranche de pain | eine Scheibe Brot | una llesca de pa | una fetta di pane |
+| uma fatia de bolo | a slice of cake | un trozo de pastel | une tranche de gâteau | ein Stück Kuchen | una trosseta de pastís | una fetta di torta |
+| um bolo de anos | a birthday cake | una tarta de cumpleaños | un gâteau d'anniversaire | eine Geburtstagstorte | una tarta d'aniversari | una torta di compleanno |
+| um chá | a tea | un té | un thé | ein Tee | un te | un tè |
+| um chá de menta / mentol | mint tea | un té de menta / mentol | un thé à la menthe / menthol | ein Minztee / Mentholtee | un té de menta / mentol | un tè alla menta / mentolo |
+| um chá negro | black tea | un té negro | un thé noir | ein schwarzer Tee | un te negre | un tè nero |
+| um chá verde | green tea | un té verde | un thé vert | ein grüner Tee | un te verd | un tè verde |
+| um chá de camomila | chamomile tea | un té de manzanilla | un thé à la camomille | ein Kamillentee | un té de camamilla | un tè di camomilla |
+| sumo de laranja | orange juice | zumo de naranja | jus d'orange | Orangensaft | suc de taronja | succo d'arancia |
+
 
 | No.  | Português           | + Artigo              | IPA (PT)   | IPA (BR)   | TP  | EN            | ES             |
 |------|---------------------|-----------------------|------------|------------|-----|---------------|----------------|

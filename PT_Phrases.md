@@ -101,6 +101,43 @@ Enquanto "Muitas felicidades!" foca mais no bem-estar geral e na felicidade do i
 
 
 
+| No.   | Português                | + Artigo                   | IPA (PT)                    | IPA (BR)                    | TP   | EN                        | ES                          |
+|------|--------------------------|-----------------------------|-----------------------------|-----------------------------|------|---------------------------|-----------------------------|
+| 9166 | Não                      |                             | /nɐ̃w̃/                      | /nɐ̃w̃/                      | adv  | No                        | No                          |
+| 9167 | Sim                      |                             | /sĩ/                        | /sĩ/                        | adv  | Yes                       | Sí                          |
+| 9168 | Obrigada, Obrigado       | **a** Obrigada, **o** Obrigado | /u.bɾi.ˈɡa.dɐ/, /u.bɾi.ˈɡa.du/ | /u.bri.ˈɡa.dɐ/, /u.bri.ˈɡa.du/ | adjf, adjm | Thank you (female), Thank you (male) | Gracias (femenino), Gracias (masculino) |
+| 9169 | De nada                  |                             | /dɨ ˈna.ðɐ/                 | /dɨ ˈna.dɐ/                 | s    | You're welcome            | De nada                     |
+| 9170 | Bom dia                  | **o** Bom dia               | /bõj ˈdi.ɐ/                 | /bõw̃ ˈd͡ʒi.ɐ/               | sm   | Good morning              | Buenos días                 |
+| 9171 | Boa tarde                | **a** Boa tarde             | /buɐ̯ ˈtaɾ.ðɨ/              | /bo.ɐ ˈtaʁ.dʒi/             | sf   | Good afternoon            | Buenas tardes               |
+| 9172 | Boa noite                | **a** Boa noite             | /buɐ̯ ˈnɔi.tɨ/              | /bo.ɐ ˈnɔi.t͡ʃi/            | sf   | Good evening/night         | Buenas noches               |
+| 9173 | Olá                      |                             | /o.ˈla/                     | /o.ˈla/                     | s    | Hello                     | Hola                        |
+| 9174 | Até logo                 |                             | /ɐtɛ ˈlo.ɡu/               | /aˈte lo.ɡu/                | s    | See you later             | Hasta luego                 |
+| 9175 | Adeus                    | **o** Adeus                | /ɐˈdɐw̃ʃ/                   | /aˈdewʃ/                    | sm   | Goodbye                   | Adiós                       |
+| 9176 | Desculpe                 | **o** Desculpe             | /dɨʃ.ˈkul.pɨ/               | /dɛs.ˈkul.pi/               | sm   | Excuse me                 | Disculpe                    |
+| 9177 | Faz favor / Por favor    |                             | /fas fa.ˈvoɾ/, /puɾ fa.ˈvoɾ/ | /fas fa.ˈvoʁ/, /puʁ fa.ˈvoʁ/ | s, prep | Please                  | Por favor                   |
+| 9178 | puxe                     | **o** puxe                 | /puʃ/                       | /ˈpuʃi/                     | sm   | pull                      | tire                        |
+| 9179 | empurre                  | **o** empurre              | /ẽ.'pu.ʁɨ/                  | /ẽ.'pu.ʁi/                  | sm   | push                      | empuje                      |
+| 9180 | fechado                  | **o** fechado              | /fɨ.ˈʃa.du/                | /fe.ˈʃa.du/                 | sm   | closed                    | cerrado                     |
+| 9181 | aberto                   | **o** aberto               | /ɐ.ˈbɛɾ.tu/                 | /ɐ.ˈbɛʁ.tu/                 | sm   | open                      | abierto                     |
+| 9182 | entrada                  | **a** entrada              | /ẽ.ˈtɾa.dɐ/                | /ẽ.ˈtɾa.dɐ/                | sf   | entrance                  | entrada                     |
+| 9183 | saída                    | **a** saída                | /ˈsa.i.dɐ/                  | /ˈsa.i.dɐ/                  | sf   | exit                      | salida                      |
+| 9184 | Não compreendo           |                             | /nɐ̃w̃ kõ.pɾɨ.ˈẽdu/          | /nɐ̃w̃ kõ.pɾi.ˈẽdu/          | v    | I don't understand        | No comprendo                |
+| 9185 | Não percebo              |                             | /nɐ̃w̃ pɨɾ.ˈsɛ.bu/           | /nɐ̃w̃ peʁ.ˈsɛ.bu/           | v    | I don't get it             | No entiendo                |
+| 9186 | Pode repetir?            |                             | /ˈpɔ.dɨ ʁɨ.pɨ.ˈt͡ʃiɾ/       | /ˈpɔ.dɨ ʁe.pi.ˈtiʁ/         | exp  | Can you repeat?           | ¿Puede repetir?            |
+| 9187 | Como se escreve?         |                             | /ˈkɔ.mu sɨ ɨʃ.ˈkɾɛ.vɨ/      | /ˈkɔ.mu se ɨʃ.ˈkɾɛ.vi/      | exp  | How is it spelled?         | ¿Cómo se escribe?           |
+| 9188 | Como se diz?             |                             | /ˈkɔ.mu sɨ ˈdiʃ/            | /ˈkɔ.mu se ˈdiz/            | exp  | How do you say?            | ¿Cómo se dice?              |
+| 9189 | O que significa?         |                             | /u kɨ siɡ.ˈni.fi.kɐ/         | /u ke siɡ.ˈni.fi.ka/         | exp  | What does it mean?         | ¿Qué significa?             |
+| 9190 | Bem-vindo!, Bem-vinda!   | **o** Bem-vindo, **a** Bem-vinda | /bẽ.vĩ.ˈdu/, /bẽ.vĩ.ˈda/ | /bẽ.vĩ.ˈdu/, /bẽ.vĩ.ˈda/ | s    | Welcome! (male), Welcome! (female) | ¡Bienvenido! (masculino), ¡Bienvenida! (femenino) |
+| 9191 | Bom apetite!             |                             | /bõ ɐ.pɨ.ˈtitɨ/             | /bõ a.pi.ˈt͡ʃi.t͡ʃi/         | exp  | Enjoy your meal!          | ¡Buen provecho!             |
+| 9192 | Boa sorte!               |                             | /bu.ɐ ˈsɔɾ.tɨ/              | /bo.ɐ ˈsɔɾ.t͡ʃi/             | exp  | Good luck!                | ¡Buena suerte!              |
+| 9193 | Muito obrigado, Muito obrigada | **o** Muito obrigado, **a** Muito obrigada | /ˈmwitu u.bɾi.ˈɡa.du/, /ˈmwitu u.bɾi.ˈɡa.dɐ/ | /ˈmwitu u.bri.ˈɡa.du/, /ˈmwitu u.bri.ˈɡa.dɐ/ | s    | Thank you very much (male), Thank you very much (female) | Muchas gracias (masculino), Muchas gracias (femenino) |
+| 9194 | Como se chama?           |                             | /ˈkɔ.mu sɨ ˈʃɐ.mɐ/         | /ˈkɔ.mu se ˈʃã.ma/          | exp  | What's your name?          | ¿Cómo te llamas?            |
+| 9195 | Chamo-me                 |                             | /ˈʃɐ.mu ˈmɨ/                | /ˈʃɐ.mu ˈmi/                | exp  | My name is                | Me llamo                    |
+| 9196 | Onde mora?               |                             | /ˈɔ̃.dɨ ˈmo.ɾɐ/             | /ˈõ.d͡ʒi ˈmo.ɾɐ/             | exp  | Where do you live?         | ¿Dónde vives?               |
+| 9197 | Com licença              | **a** Com licença          | /kõ li.ˈsen.sɐ/             | /kõ li.ˈsen.sɐ/             | sf   | Excuse me                 | Con permiso                 |
+| 9198 | Não faz mal!             |                             | /nɐ̃w̃ fɐʃ ˈmaɫ/             | /nɐ̃w̃ faʃ ˈmau̯/             | exp  | It doesn't matter!        | No importa                  |
+| 9199 | Por favor poderia . . .  |                             | /pɔɾ fa.ˈvoɾ pu.ˈde.ɾi.ɐ/   | /poɾ fa.ˈvoʁ po.ˈde.ɾi.ɐ/  | exp  | Could you please...        | ¿Podría por favor...?       |
+| 9200 | Com certeza              |                             | /kõ sɨɾ.ˈte.zɐ/             | /kõ seʁ.ˈte.zɐ/             | exp  | Certainly                 | Por supuesto                |
 
 
 

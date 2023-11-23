@@ -1,4 +1,54 @@
 
+# Comon PT Phrases
+
+
+| Português | English | Spanish | French | German | Valencian | Italian |
+|-----------|---------|---------|--------|--------|-----------|---------|
+| Não | No | No | Non | Nein | No | No |
+| Sim | Yes | Sí | Oui | Ja | Sí | Sì |
+| Obrigada, Obrigado | Thank you (female), Thank you (male) | Gracias | Merci | Danke | Gràcies | Grazie |
+| De nada | You're welcome | De nada | De rien | Bitte | De res | Prego |
+| Bom dia | Good morning | Buenos días | Bonjour | Guten Morgen | Bon dia | Buongiorno |
+| Boa tarde | Good afternoon | Buenas tardes | Bon après-midi | Guten Tag | Bona vesprada | Buon pomeriggio |
+| Boa noite | Good evening/night | Buenas noches | Bonsoir | Gute Nacht | Bona nit | Buona serata / Buona notte |
+| Olá | Hello | Hola | Bonjour | Hallo | Hola | Ciao |
+| Até logo | See you later | Hasta luego | À bientôt | Bis später | Fins aviat | A presto |
+| Adeus | Goodbye | Adiós | Au revoir | Auf Wiedersehen | Adéu | Addio |
+| Desculpe | Excuse me | Disculpe | Excusez-moi | Entschuldigung | Disculpeu | Scusate |
+| Faz favor / Por favor | Please | Por favor | S'il vous plaît | Bitte | Si us plau | Per favore |
+| puxe | pull | tire | tirez | ziehen Sie | tira | tira |
+| empurre | push | empuje | poussez | drücken Sie | empeny | spingi |
+| fechado | closed | cerrado | fermé | geschlossen | tancat | chiuso |
+| aberto | open | abierto | ouvert | geöffnet | obert | aperto |
+| entrada | entrance | entrada | entrée | Eingang | entrada | ingresso |
+| saída | exit | salida | sortie | Ausgang | eixida | uscita |
+| Não compreendo | I don't understand | No comprendo | Je ne comprends pas | Ich verstehe nicht | No comprenc | Non capisco |
+| Não percebo | I don't get it | No entiendo | Je ne saisis pas | Ich verstehe nicht | No entenc | Non capisco |
+| Pode repetir? | Can you repeat? | ¿Puede repetir? | Pouvez-vous répéter ? | Können Sie das wiederholen? | Podeu repetir? | Puoi ripetere? |
+| Como se escreve? | How is it spelled? | ¿Cómo se escribe? | Comment ça s'écrit ? | Wie schreibt man das? | Com es escriu? | Come si scrive? |
+| Como se diz? | How do you say? | ¿Cómo se dice? | Comment ça se dit ? | Wie sagt man das? | Com es diu? | Come si dice? |
+| O que significa? | What does it mean? | ¿Qué significa? | Que signifie ? | Was bedeutet das? | Què significa? | Cosa significa? |
+| Bem-vindo!, Bem-vinda! | Welcome! (male), Welcome! (female) | ¡Bienvenido! ¡Bienvenida! | Bienvenue ! | Willkommen! | Benvingut! Benvinguda! | Benvenuto! Benvenuta! |
+| Bom apetite! | Enjoy your meal! | ¡Buen provecho! | Bon appétit ! | Guten Appetit! | Bon profit! | Buon appetito! |
+| Boa sorte! | Good luck! | ¡Buena suerte! | Bonne chance ! | Viel Glück! | Bona sort! | Buona fortuna! |
+| Muito obrigado, Muito obrigada | Thank you very much (male), Thank you very much (female) | Muchas gracias | Merci beaucoup | Vielen Dank | Moltes gràcies | Grazie mille |
+| Como se chama? | What's your name? | ¿Cómo te llamas? | Comment tu t'appelles ? | Wie heißt du? | Com et dius? | Come ti chiami? |
+| Chamo-me | My name is | Me llamo | Je m'appelle | Ich heiße | Em dic | Mi chiamo |
+| Onde mora? | Where do you live? | ¿Dónde vives? | Où habites-tu ? | Wo wohnst du? | On vius? | Dove abiti? |
+| Com licença | Excuse me | Perdón | Excusez-moi | Entschuldigen Sie | Amb permís | Mi scusi |
+| Não faz mal! | It doesn't matter! | No pasa nada | Ça ne fait rien | Das macht nichts | No passa res | Non importa! |
+| Por favor poderia . . . | Could you please... | ¿Podría por favor...? | Pourriez-vous s'il vous plaît... ? | Könnten Sie bitte...? | Podrieu per favor...? | Potresti per favore...? |
+| Com certeza | Certainly | Por supuesto | Bien sûr | Sicher | Segurament | Certamente |
+| Até amanhã | See you tomorrow | Hasta mañana | À demain | Bis morgen | Fins demà | A domani |
+| Até a vista! | Until we meet again! | ¡Hasta la vista! | Au revoir ! | Auf Wiedersehen! | Fins a la vista! | Alla vista! |
+| Um bocadinho | A little bit | Un poquito | Un peu | Ein bisschen | Una mica | Un pochino |
+| Ainda não | Not yet | Todavía no | Pas encore | Noch nicht | Encara no | Non ancora |
+| Muitas felicidades! | Many happy returns! | Muchas felicidades | Beaucoup de bonheur | Alles Gute zum Geburtstag! | Moltes felicitats! | Tanti auguri! |
+| Muitos parabéns! | Congratulations! | ¡Felicidades! | Félicitations ! | Herzlichen Glückwunsch! | Moltes felicitats! | Congratulazioni! |
+| Parabéns! | Congratulations! | ¡Enhorabuena! | Félicitations ! | Herzlichen Glückwunsch! | Felicitats! | Congratulazioni! |
+| Feliz Natal! | Merry Christmas! | ¡Feliz Navidad! | Joyeux Noël ! | Frohe Weihnachten! | Bon Nadal! | Buon Natale! |
+| As melhoras! | Get well soon! | ¡Que te mejores! | Bon rétablissement ! | Gute Besserung! | Que millories! | Guarisci presto! |
+| Boas entradas! | Happy New Year! | ¡Felices entradas! | Bonnes entrées | Gutes Neues Jahr! | Bona entrada! | Felice anno nuovo! |
 
 
 

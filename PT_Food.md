@@ -35,6 +35,38 @@
 | 9211 | batatas fritas | as batatas fritas | /bɐ.ˈta.tɐʃ ˈfɾi.tɐʃ/ | /ba.ˈta.tɐʃ ˈfɾi.tɐʃ/ | sfp |
 | 9175 | e         |          | /i/      | /i/      | conj      |
 
+| No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP        |
+|-----|-----------|----------|----------|----------|-----------|
+| 9158 | tem olhos verdes |      | /tẽw̃ 'oʎuʃ 'veɾ.dɨʃ/ | /tẽw̃ 'oʎuʃ 'veɾ.dʒɨʃ/ | exp |
+| 9157 | tem olhos azuis |        | /tẽw̃ 'oʎu.ʒɐ.'zujʃ/ | /tẽw̃ 'oʎu.ʒɐ.'zujʃ/ | exp |
+| 9156 | tem mau feitio |        | /tẽw̃ 'maw̃ fɐj.'ti.u̯/ | /tẽw̃ 'maw̃ fɐj.'tʃi.u̯/ | exp |
+| 9155 | tem madeixas |          | /tẽw̃ mɐ.'dei.ʃɐs/ | /tẽw̃ mɐ.'dei.ʃɐs/ | exp |
+| 9154 | tem franja |            | /tẽw̃ 'fɾɐ̃.ʒɐ/ | /tẽw̃ 'fɾɐ̃.ʒɐ/ | exp |
+| 9153 | tem bom feitio |        | /tẽw̃ bõw̃ fɐj.'ti.u̯/ | /tẽw̃ bõw̃ fɐj.'tʃi.u̯/ | exp |
+| 9086 | limões | os limões | /li.ˈmõj̃/ | /li.ˈmõj̃/ | smp |
+| 8902 | laranja (fruta) | a laranja | /lɐ.ˈɾɐ̃.ʒɐ/ | /la.ˈɾɐ̃.ʒɐ/ | sf |
+| 8870 | vinho | o vinho | /ˈvi.ɲu/ | /ˈvi.ɲu/ | sm |
+| 8869 | vegetais | os vegetais | /vɛ.ʒɨˈtaɪ̯ʃ/ | /veʒeˈtaɪ̯s/ | smp |
+| 8867 | uva | a uva | /ˈu.vɐ/ | /ˈu.vɐ/ | sf |
+| 8860 | queijo | o queijo | /ˈkej.ʒu/ | /ˈkej.ʒu/ | sm |
+| 8859 | prato | o prato | /ˈpra.tu/ | /ˈpra.tu/ | sm |
+| 8858 | pera | a pera | /ˈpe.ɾɐ/ | /ˈpe.ɾɐ/ | sf |
+| 8850 | pão | o pão | /ˈpɐ̃w/ | /ˈpɐ̃w̃/ | sm |
+| 8848 | ovo | o ovo | /ˈɔ.vu/ | /ˈɔ.vu/ | sm |
+| 8843 | manteiga | a manteiga | /mɐ̃.ˈtɐj.ɡɐ/ | /mɐ̃ˈtej.ɡɐ/ | sf |
+| 8838 | maçã | a maçã | /maˈsɐ/ | /maˈsɐ/ | sf |
+| 8834 | limão | o limão | /liˈmɐ̃w̃/ | /liˈmɐ̃w̃/ | sm |
+| 8833 | leite | o leite | /ˈlej.tɨ/ | /ˈlej.tʃi/ | sm |
+| 8824 | chá | o chá | /ʃa/ | /ʃa/ | sm |
+| 8822 | cerveja | a cerveja | /sɛɾˈve.ʒɐ/ | /seʁˈve.ʒɐ/ | sf |
+| 8821 | cereja | a cereja | /seˈɾe.ʒɐ/ | /seˈɾe.ʒɐ/ | sf |
+| 8817 | café da manhã | o café da manhã | /ˈka.fe dɐ maˈɲɐ̃/ | /ˈka.fe dɐ maˈɲɐ̃/ | sm |
+| 8814 | banana | a banana | /baˈna.nɐ/ | /baˈna.nɐ/ | sf |
+| 8813 | ameixa | a ameixa | /ɐˈmej.ʃɐ/ | /ɐˈmej.ʃɐ/ | sf |
+
+
+
+
 
 Here's the translation for the provided list:
 

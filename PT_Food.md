@@ -1,5 +1,40 @@
 # Food
 
+| No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP        |
+|-----|-----------|----------|----------|----------|-----------|
+| 9241 | é         |          | /ˈe/     | /ˈe/     | v         |
+| 9240 | ê         |          | /ɛ/      | /ɛ/      | interj    |
+| 9239 | tuga      | o tuga   | /ˈtu.ɡɐ/ | /ˈtu.ɡɐ/ | adj       |
+| 9238 | tripeiro  | o tripeiro| /tɾiˈpɐj.ɾu/ | /tɾiˈpɐj.ɾu/ | adj     |
+| 9237 | alfacinha | a alfacinha| /aɫ.fɐˈsi.ɲɐ/ | /aɫ.faˈsi.ɲɐ/ | adj     |
+| 9236 | lisboeta  | o lisboeta| /liʒ.bɔˈɛ.tɐ/ | /liʒ.bɔˈɛ.tɐ/ | adj     |
+| 9235 | carapinha | a carapinha | /kɐ.ɾɐ.ˈpi.ɲɐ/ | /ka.ɾa.ˈpi.ɲa/ | s |
+| 9234 | cabelo ondulado | o cabelo ondulado | /kɐ.ˈbɛ.lu õ.du.ˈla.du/ | /ka.ˈbɛ.lu õ.du.ˈla.du/ | s |
+| 9233 | cabelo liso | o cabelo liso | /kɐ.ˈbɛ.lu ˈli.zu/ | /ka.ˈbɛ.lu ˈli.zu/ | s |
+| 9232 | cabelo encaracolado | o cabelo encaracolado | /kɐ.ˈbɛ.lu ẽ.ˌka.ɾɐ.ku.ˈla.du/ | /ka.ˈbɛ.lu ẽ.ˌka.ɾɐ.ku.ˈla.du/ | s |
+| 9231 | cabelo curto | o cabelo curto | /kɐ.ˈbɛ.lu ˈkuɾ.tu/ | /ka.ˈbɛ.lu ˈkuɾ.tu/ | s |
+| 9230 | cabelo comprido | o cabelo comprido | /kɐ.ˈbɛ.lu kõ.pɾi.ˈdu/ | /ka.ˈbɛ.lu kõ.pɾi.ˈdu/ | s |
+| 9229 | fruta     | a fruta  | /ˈfɾu.tɐ/ | /ˈfɾu.tɐ/ | sf        |
+| 9228 | carne     | a carne  | /ˈkaɾ.nɨ/ | /ˈkaɾ.ni/ | sf        |
+| 9227 | leguminosas | as leguminosas | /lɨ.ɡu.mi.ˈno.zɐʃ/ | /le.ɡu.mi.ˈno.zɐʃ/ | sfp     |
+| 9226 | feijão    | o feijão | /fɐj.ˈʒɐ̃w̃/ | /fej.ˈʒɐ̃w̃/ | sm        |
+| 9225 | arroz     | o arroz  | /ɐ.ˈʁɔʃ/ | /a.ˈʁɔʃ/ | sm        |
+| 9224 | ovos meixidos | os ovos meixidos | /ˈɔ.vuʃ mɐj.ˈʃi.ðuʃ/ | /ˈɔ.vuʃ mei.ˈʃi.ðuʃ/ | smp  |
+| 9223 | bolos     | os bolos | /ˈbɔ.luʃ/ | /ˈbɔ.luʃ/ | smp       |
+| 9222 | salada    | a salada | /sɐ.ˈla.ðɐ/ | /sa.ˈla.ðɐ/ | sf        |
+| 9221 | legumes   | os legumes | /lɨ.ˈɡu.mɨʃ/ | /le.ˈɡu.mɨʃ/ | smp     |
+| 9220 | sopa      | a sopa   | /ˈso.pɐ/ | /ˈso.pɐ/ | sf        |
+| 9219 | chocolate | o chocolate | /ʃɔ.ku.ˈla.tɨ/ | /ʃɔ.ku.ˈla.tʃi/ | sm     |
+| 9218 | doce      | o doce   | /ˈdɔ.sɨ/ | /ˈdɔ.si/ | sm        |
+| 9217 | panquecas | as panquecas | /pɐ̃ˈke.kɐʃ/ | /pɐ̃ˈke.kɐʃ/ | sfp    |
+| 9216 | torrada   | uma torrada | /tu.ˈʁa.ðɐ/ | /to.ˈʁa.ðɐ/ | sf      |
+| 9215 | mel       | o mel    | /ˈmɛɫ/ | /ˈmɛw̃/ | sm           |
+| 9214 | massa     | a massa  | /ˈma.sɐ/ | /ˈma.sɐ/ | sf        |
+| 9213 | batata-doce | a batata-doce | /bɐ.ˈta.tɐ ˈdo.sɨ/ | /ba.ˈta.ta ˈdo.si/ | sf  |
+| 9212 | batata    | a batata | /bɐ.ˈta.tɐ/ | /ba.ˈta.ta/ | sf        |
+| 9211 | batatas fritas | as batatas fritas | /bɐ.ˈta.tɐʃ ˈfɾi.tɐʃ/ | /ba.ˈta.tɐʃ ˈfɾi.tɐʃ/ | sfp |
+| 9175 | e         |          | /i/      | /i/      | conj      |
+
 
 Here's the translation for the provided list:
 

@@ -1,5 +1,56 @@
 # Food
 
+| No.  | Português              | + Artigo           | IPA (PT)          | IPA (BR)          | TP  |
+|------|------------------------|--------------------|-------------------|-------------------|-----|
+| 9286 | pepino                 | o pepino           | /pɨ.'pi.nu/        | /pe.'pi.no/       | sm  |
+| 9287 | tomate                 | o tomate           | /to.'ma.tɨ/       | /to.'ma.tʃi/      | sm  |
+| 9288 | alface                 | a alface           | /ɐɫ.'fa.sɨ/       | /aɫ.'fa.si/       | sf  |
+| 9289 | couve flor             | a couve flor       | /'ko.vɨ flɔɾ/     | /'ko.ve flɔɾ/     | sf  |
+| 9290 | tomate em cacho        | o tomate em cacho  | /to.'ma.tɨ ẽ 'ka.ʃu/ | /to.'ma.tʃi ẽ 'ka.ʃu/ | sm  |
+| 9291 | pimento                | o pimento          | /pi.'mẽ.tu/       | /pi.'mẽ.tu/       | sm  |
+| 9292 | nabo                   | o nabo             | /ˈna.bu/          | /ˈna.bo/          | sm  |
+| 9293 | batata                 | a batata           | /bɐ.'ta.tɐ/       | /ba.'ta.ta/       | sf  |
+| 9294 | cogumelo               | o cogumelo         | /ko.ɡu.'mɛ.lu/    | /ko.ɡu.'me.lu/    | sm  |
+| 9295 | chuchu                 | o chuchu           | /ʃu.ʃu/           | /ʃu.ʃu/           | sm  |
+| 9296 | cebola roxa            | a cebola roxa      | /sɨ.'bo.lɐ 'ʁɔ.ʃɐ/ | /se.'bo.la 'ʁɔ.ʃa/ | sf  |
+| 9297 | beringela              | a beringela        | /bɨ.ɾĩ.'ʒɛ.lɐ/    | /be.ɾĩ.'ʒɛ.lɐ/    | sf  |
+| 9298 | espargos               | os espargos        | /ɨʃ.ˈpaɾ.ɡuʃ/    | /is.ˈpaɾ.ɡus/     | smp |
+| 9299 | feijão verde           | o feijão verde     | /fei.ʒɐ̃w̃ 'vɛɾ.ðɨ/ | /fei.ʒɐ̃w̃ 'veɾ.ði/ | sm  |
+| 9300 | abóbora                | a abóbora          | /ɐ.'bo.βo.ɾɐ/     | /ɐ.'bo.bo.ɾɐ/     | sf  |
+| 9301 | couve branca           | a couve branca     | /'ko.vɨ 'bɾɐ̃.kɐ/ | /'ko.ve 'bɾɐ̃.ka/ | sf  |
+| 9302 | couve lombarda         | a couve lombarda   | /'ko.vɨ lõ.'baɾ.ðɐ/ | /'ko.ve lõ.'baɾ.ða/ | sf  |
+| 9303 | beterraba              | a beterraba        | /bɨ.'tɛ.ʁɐ.bɐ/    | /be.'te.ʁa.ba/    | sf  |
+| 9304 | gengibre               | o gengibre         | /ʒẽ.'ʒi.bɾɨ/      | /ʒẽ.'ʒi.bɾi/      | sm  |
+| 9305 | cebolinha              | a cebolinha        | /sɨ.bo.'ʎi.ɲɐ/   | /se.bo.'ʎi.ɲa/    | sf  |
+| 9306 | couve Bruxelas         | a couve Bruxelas   | /'ko.vɨ bɾu.'ʒɛ.lɐʃ/ | /'ko.ve bɾu.'ʒɛ.laʃ/ | sf  |
+| 9307 | couve roxa             | a couve roxa       | /'ko.vɨ 'ʁɔ.ʃɐ/   | /'ko.ve 'ʁɔ.ʃa/   | sf  |
+| 9308 | pimento padrão         | o pimento padrão   | /pi.'mẽ.tu pɐ.ˈdɾɐ̃w̃/ | /pi.'mẽ.tu pa.ˈdɾãw̃/ | sm  |
+| 9309 | milho                  | o milho            | /'mi.ʎu/          | /'mi.ʎu/          | sm  |
+| 9310 | cheróvia               | a cheróvia         | /ʃɨ.ɾɔ.'vi.ɐ/    | /ʃi.ɾɔ.'vi.a/    | sf  |
+| 9311 | rebentos de feijão     | os rebentos de feijão | /ʁɨ.ˈbẽ.tuʒ ðɨ fei.ʒɐ̃w̃/ | /ʁi.ˈbẽ.tuʒ ði fei.ʒɐ̃w̃/ | smp |
+| 9312 | aipo                   | o aipo             | /ˈaj.pu/          | /ˈaj.pu/          | sm  |
+| 9313 | romã                   | a romã             | /ʁu.'mã/          | /ʁo.'mã/          | sf  |
+| 9314 | marmelo                | o marmelo          | /mɐɾ.'mɛ.lu/      | /maɾ.'me.lu/      | sm  |
+| 9315 | dióspiro               | o dióspiro         | /di.'ɔʃ.pi.ɾu/    | /djɔʃ.'pi.ɾu/    | sm  |
+| 9316 | pera                   | a pera             | /ˈpe.ɾɐ/          | /ˈpe.ɾɐ/          | sf  |
+| 9317 | anona                  | a anona            | /ɐ.'no.nɐ/        | /ɐ.'no.na/        | sf  |
+| 9318 | castanha               | a castanha         | /kɐʃ.ˈtɐ.ɲɐ/     | /kɐʃ.ˈtɐ.ɲɐ/     | sf  |
+| 9319 | noz                    | a noz              | /ˈnɔʃ/            | /ˈnɔʃ/            | sf  |
+| 9320 | banana                 | a banana           | /bɐ.ˈna.nɐ/       | /ba.ˈna.na/       | sf  |
+| 9321 | clementina             | a clementina       | /klẽ.mẽ.'ti.nɐ/   | /kle.mẽ.'ti.na/   | sf  |
+| 9322 | uva                    | a uva              | /ˈu.vɐ/           | /ˈu.vɐ/           | sf  |
+| 9323 | manga                  | a manga            | /ˈmɐ̃.ɡɐ/         | /ˈmɐ̃.ɡɐ/         | sf  |
+| 9324 | abacate                | o abacate          | /ɐ.bɐ.ˈka.tɨ/     | /ɐ.ba.ˈka.tʃi/    | sm  |
+| 9325 | kiwi                   | o kiwi             | /ˈki.wi/          | /ˈki.wi/          | sm  |
+| 9326 | papaia                 | a papaia           | /pɐ.ˈpa.i.ɐ/      | /pɐ.ˈpa.i.ɐ/      | sf  |
+| 9327 | ameixa                 | a ameixa           | /ɐ.ˈmej.ʃɐ/       | /ɐ.ˈmej.ʃɐ/       | sf  |
+| 9328 | abacaxi                | o abacaxi          | /ɐ.bɐ.ˈka.ʃi/     | /ɐ.ba.ˈka.ʃi/     | sm  |
+| 9329 | lima                   | a lima             | /ˈli.mɐ/          | /ˈli.mɐ/          | sf  |
+| 9330 | meloa                  | a meloa            | /mɨ.ˈlo.ɐ/        | /mi.ˈlo.ɐ/        | sf  |
+| 9331 | mamão                  | o mamão            | /mɐ.ˈmɐ
+
+
+
 | No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP        |
 |-----|-----------|----------|----------|----------|-----------|
 | 9241 | é         |          | /ˈe/     | /ˈe/     | v         |

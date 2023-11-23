@@ -1,5 +1,53 @@
 # Food
 
+| No.  | Português                  | + Artigo                    | IPA (PT)        | IPA (BR)        | TP  |
+|------|----------------------------|-----------------------------|-----------------|-----------------|-----|
+| 9331 | mamão                      | o mamão                     | /mɐ.ˈmɐ̃w̃/      | /ma.ˈmɐ̃w̃/      | sm  |
+| 9332 | maracujá                   | o maracujá                  | /mɐ.ɾɐ.ku.ˈʒa/ | /ma.ɾa.ku.ˈʒa/ | sm  |
+| 9333 | uva branca                 | a uva branca                | /ˈu.vɐ ˈbɾɐ̃.kɐ/ | /ˈu.vɐ ˈbɾɐ̃.ka/ | sf  |
+| 9334 | uva rosada                 | a uva rosada                | /ˈu.vɐ ru.ˈza.ðɐ/ | /ˈu.vɐ ɾo.ˈza.ðɐ/ | sf  |
+| 9335 | tangerina                  | a tangerina                 | /tɐ̃.ʒe.ˈɾi.nɐ/ | /tɐ̃.ʒe.ˈɾi.nɐ/ | sf  |
+| 9336 | toranja                    | a toranja                   | /tu.ˈɾɐ̃.ʒɐ/    | /to.ˈɾɐ̃.ʒa/    | sf  |
+| 9337 | melancia                   | a melancia                  | /mɨ.ˈlɐ̃.si.ɐ/   | /mi.ˈlɐ̃.si.ɐ/  | sf  |
+| 9338 | frutos do bosque           | os frutos do bosque         | /ˈfɾu.tuʒ du ˈboʃ.kɨ/ | /ˈfɾu.tus du ˈboʃ.ki/ | smp |
+| 9339 | coco                       | o coco                      | /ˈko.ku/        | /ˈko.ku/        | sm  |
+| 9340 | pitaia                     | a pitaia                    | /pi.ˈtaɪ.ɐ/     | /pi.ˈtaɪ.ɐ/     | sf  |
+| 9341 | granadilha                 | a granadilha                | /ɡɾɐ.nɐ.ˈði.ʎɐ/ | /ɡɾa.na.ˈði.ʎɐ/ | sf  |
+| 9342 | amêndoas                   | as amêndoas                 | /ɐ.ˈmẽ.du.ɐʃ/  | /ɐ.ˈmẽ.du.ɐʃ/  | sfp |
+| 9343 | tamarindo                  | o tamarindo                 | /tɐ.mɐ.ˈɾĩ.du/ | /ta.ma.ˈɾĩ.du/ | sm  |
+| 9344 | queijo para barrar         | o queijo para barrar        | /ˈkei.ʒu pɐ.ɾɐ ˈba.ʁaɾ/ | /ˈkei.ʒu pa.ɾa ˈba.ʁaʁ/ | sm  |
+| 9345 | creme                      | o creme                     | /ˈkɾe.mɨ/       | /ˈkɾe.mi/       | sm  |
+| 9346 | caldo-verde                | o caldo-verde               | /ˌkaɫ.ðu ˈvɛɾ.ðɨ/ | /ˌkaɫ.ðu ˈveɾ.ði/ | sm  |
+| 9347 | canja                      | a canja                     | /ˈkɐ̃.ʒɐ/       | /ˈkɐ̃.ʒɐ/       | sf  |
+| 9348 | coentros                   | os coentros                 | /kuˈẽtɾuʃ/      | /kwẽˈtɾus/      | smp |
+| 9349 | salsa                      | a salsa                     | /ˈsaɫ.sɐ/       | /ˈsaɫ.sa/       | sf  |
+| 9350 | molho                      | o molho                     | /ˈmo.ʎu/        | /ˈmo.ʎu/        | sm  |
+| 9351 | massa                      | a massa                     | /ˈma.sɐ/        | /ˈma.sa/        | sf  |
+| 9352 | massa                      | a massa                     | /ˈma.sɐ/        | /ˈma.sa/        | sf  |
+| 9353 | letria                     | a letria                    | /lɨˈtɾi.ɐ/      | /leˈtɾi.a/      | sf  |
+| 9354 | salmão                     | o salmão                    | /sɐɫ.ˈmɐ̃w̃/    | /saɫ.ˈmɐ̃w̃/    | sm  |
+| 9355 | bacalhau                   | o bacalhau                  | /bɐ.kɐ.ˈʎaw̃/   | /ba.ka.ˈʎaw̃/   | sm  |
+| 9356 | fiambre                    | o fiambre                   | /fi.ˈɐ̃bɾɨ/      | /fi.ˈɐ̃bɾi/      | sm  |
+| 9357 | bacon                      | o bacon                     | /ˈba.kõ/        | /ˈba.kõ/        | sm  |
+| 9358 | fiambre de peito de frango | o fiambre de peito de frango | /fi.ˈɐ̃bɾɨ ðɨ ˈpɐj.tu ðɨ ˈfɾɐ̃.ɡu/ | /fi.ˈɐ̃bɾi ði ˈpɐj.tu ði ˈfɾɐ̃.ɡu/ | sm  |
+| 9359 | presunto                   | o presunto                  | /pɾɨ.ˈzũ.tu/    | /pɾi.ˈzũ.tu/    | sm  |
+| 9360 | lista                      | a lista                     | /ˈliʃ.tɐ/       | /ˈliʃ.tɐ/       | sf  |
+| 9361 | ementa (PT)                | a ementa (PT)               | /ɨ.ˈmẽ.tɐ/      | /i.ˈmẽ.tɐ/      | sf  |
+| 9362 | cardápio (BR)              | o cardápio (BR)             | /kɐɾ.ˈdapju/    | /kaʁ.ˈdapju/    | sm  |
+| 9363 | ananás                     | o ananás                    | /ɐ.nɐ.ˈnas/     | /ɐ.nɐ.ˈnas/     | sm  |
+| 9364 | lista                      | a lista                     | /ˈliʃ.tɐ/       | /ˈliʃ.tɐ/       | sf  |
+| 9365 | almoço                     | o almoço                    | /ɐˈɫmu.su/      | /aˈlmu.su/      | sm  |
+| 9366 | jantar                     | o jantar                    | /ʒɐ̃ˈtaɾ/        | /ʒɐ̃ˈtaʁ/        | sm  |
+| 9367 | refeição                   | a refeição                  | /ʁɨ.fɐj.ˈsɐ̃w̃/ | /ʁi.fɐj.ˈsɐ̃w̃/ | sf  |
+| 9368 | pequeno-almoço (PT)        | o pequeno-almoço (PT)       | /pɨ.ˌke.nu aɫ.ˈmu.su/ | /pi.ˌke.nu aɫ.ˈmu.su/ | sm  |
+| 9369 | mata-bicho (ANG)           | o mata-bicho (ANG)          | /ˌma.tɐ ˈbi.ʃu/ | /ˌma.ta ˈbi.ʃu/ | sm  |
+
+
+
+
+
+
+
 | No.  | Português              | + Artigo           | IPA (PT)          | IPA (BR)          | TP  |
 |------|------------------------|--------------------|-------------------|-------------------|-----|
 | 9286 | pepino                 | o pepino           | /pɨ.'pi.nu/        | /pe.'pi.no/       | sm  |

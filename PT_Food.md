@@ -1,6 +1,38 @@
 # Food
 
 
+Here's the translation for the provided list:
+
+| Português | English | Spanish | French | German | Valencian | Italian |
+|-----------|---------|---------|--------|--------|-----------|---------|
+| chá | tea | té | thé | Tee | te | tè |
+| maçã | apple | manzana | pomme | Apfel | poma | mela |
+| morango | strawberry | fresa | fraise | Erdbeere | maduixa | fragola |
+| mirtilo | blueberry | arándano | myrtille | Heidelbeere | nabiu | mirtillo |
+| amora | blackberry | mora | mûre | Brombeere | mora | mora |
+| arando | cranberry | arándano rojo | canneberge | Preiselbeere | nabiu roig | mirtillo rosso |
+| framboesa | raspberry | frambuesa | framboise | Himbeere | gerds | lampone |
+| boysenberry | boysenberry | boysenberry | boysenberry | Boysenbeere | boysenberry | boysenberry |
+| groselha | currant | grosella | groseille | Johannisbeere | grosella | ribes |
+| sabugueiro | elderberry | saúco | sureau | Holunder | saüc | sambuco |
+| airela | lingonberry | arándano rojo | airelle | Preiselbeere | airela | aire |
+| amorinha | mulberry | mora | mûre | Maulbeere | morera | gelsomino |
+| loganberry | loganberry | loganberry | loganberry | Loganbeere | loganberry | loganberry |
+| marionberry | marionberry | marionberry | marionberry | Marionbeere | marionberry | marionberry |
+| cloudberry | cloudberry | cloudberry | cloudberry | Moltebeere | cloudberry | cloudberry |
+| ovo | egg | huevo | œuf | Ei | ou | uovo |
+| pera | pear | pera | poire | Birne | pera | pera |
+| prato | plate | plato | assiette | Teller | plat | piatto |
+| uva | grape | uva | raisin | Traube | raïm | uva |
+| vegetais | vegetables | verduras | légumes | Gemüse | verdures | verdure |
+| café | coffee | café | café | Kaffee | cafè | caffè |
+| chocolates | chocolates | chocolates | chocolats | Schokolade | xocolates | cioccolatini |
+| ameixa | plum | ciruela | prune | Pflaume | pruna | prugna |
+| banana | banana | plátano | banane | Banane | banana | banana |
+| café da manhã | breakfast | desayuno | petit-déjeuner | Frühstück | esmorzar | colazione |
+
+Let me know if there's anything else you need!
+
 | Portuguese | English | Spanish | French | German | Valencian | Italian |
 |------------|---------|---------|--------|--------|-----------|---------|
 | ananás | pineapple | piña | ananas | Ananas | pinya | ananas |

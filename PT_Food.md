@@ -1,5 +1,20 @@
 # Food
 
+| English Word          | IPA (US)                                | IPA (UK)                                 | WT    |
+|-----------------------|-----------------------------------------|------------------------------------------|-------|
+| fish                  | /fɪʃ/                                   | /fɪʃ/                                    | n     |
+| orange juice          | /ˈɔrɪndʒ ʤus/                          | /ˈɒrɪndʒ ʤuːs/                          | n     |
+| chicken               | /ˈʧɪkɪn/                                | /ˈʧɪkɪn/                                | n     |
+| chamomile tea         | /ˈkæməˌmaɪl ti/                        | /ˈkæməmaɪl tiː/                         | np    |
+| green tea             | /ˈɡriːn ti/                             | /ˈɡriːn tiː/                             | np    |
+| black tea             | /blæk ti/                               | /blæk tiː/                              | np    |
+| mint tea              | /mɪnt ti/                               | /mɪnt tiː/                              | np    |
+| a tea                 | /ə ti/                                  | /ə tiː/                                 | np    |
+
+
+
+
+
 | No.  | Português                  | + Artigo                    | IPA (PT)        | IPA (BR)        | TP  |
 |------|----------------------------|-----------------------------|-----------------|-----------------|-----|
 | 9331 | mamão                      | o mamão                     | /mɐ.ˈmɐ̃w̃/      | /ma.ˈmɐ̃w̃/      | sm  |

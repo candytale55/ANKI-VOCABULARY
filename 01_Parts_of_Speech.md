@@ -1,9 +1,33 @@
 
 # PARTS OF SPEECH
+Here's the table for the provided English words:
 
+| English Word | IPA (US) | IPA (UK) | WT |
+|--------------|----------|----------|----|
+| thin nose | /θɪn noʊz/ | /θɪn nəʊz/ | np |
+| light-colored eyes | /laɪt-ˈkʌl.ər.d aɪz/ | /laɪt-ˈkʌl.əd aɪz/ | np |
+| aquiline nose | /ˈæk.wə.laɪn noʊz/ | /ˈæk.wɪ.laɪn nəʊz/ | np |
+| is | /ɪz/ | /ɪz/ | v |
+| hey | /heɪ/ | /heɪ/ | interj |
+| Portuguese person | /ˌpɔːr.tʃəˈɡiːz ˈpɜː.sən/ | /ˌpɔː.tjʊˈɡiːz ˈpɜː.sən/ | np |
+| from Porto | /frəm ˈpɔr.toʊ/ | /frəm ˈpɔː.təʊ/ | prep |
+| from Lisbon | /frəm ˈlɪz.bən/ | /frəm ˈlɪz.bən/ | prep |
+| Lisbonite | /ˌlɪz.bəˈnaɪt/ | /ˌlɪz.bəˈnaɪt/ | np |
+| kinky hair | /ˈkɪŋki hɛr/ | /ˈkɪŋki hɛə/ | np |
+| wavy hair | /ˈweɪvi hɛr/ | /ˈweɪvi hɛə/ | np |
+| straight hair | /streɪt hɛr/ | /streɪt hɛə/ | np |
+| curly hair | /ˈkɜrli hɛr/ | /ˈkɜːrli hɛə/ | np |
+| short hair | /ʃɔrt hɛr/ | /ʃɔːt hɛə/ | np |
+| long hair | /lɔŋ hɛr/ | /lɒŋ hɛə/ | np |
+| and | /ænd/ | /ənd/ | conj |
+| has green eyes | /hæz ɡriːn aɪz/ | /hæz ɡriːn aɪz/ | v |
+| has blue eyes | /hæz bluː aɪz/ | /hæz bluː aɪz/ | v |
+| has a bad nature | /hæz ə bæd ˈneɪ.tʃər/ | /hæz ə bæd ˈneɪ.tjʊə/ | v |
+| has highlights | /hæz ˈhaɪ.laɪts/ | /hæz ˈhaɪ.laɪts/ | v |
+| has bangs | /hæz bæŋz/ | /hæz bæŋz/ | v |
+| has a good nature | /hæz ə ɡʊd ˈneɪ.tʃər/ | /hæz ə ɡʊd ˈneɪ.tjʊə/ | v |
 
-Here's the table for the English language:
-Here's the table for the English language:
+Feel free to let me know if you have further requests or adjustments!
 
 | English Word | IPA (US) | IPA (UK) | WT |
 |--------------|----------|----------|----|

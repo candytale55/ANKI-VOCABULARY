@@ -12,6 +12,41 @@
 | a tea                 | /ə ti/                                  | /ə tiː/                                 | np    |
 
 
+| English Word                   | IPA (US)                               | IPA (UK)                               | WT  |
+|--------------------------------|----------------------------------------|----------------------------------------|-----|
+| a birthday cake                | /ə ˈbɜrθ.deɪ keɪk/                    | /ə ˈbɜː.θ.deɪ keɪk/                   | np  |
+| a slice of cake                | /ə slaɪs əv keɪk/                     | /ə slaɪs əv keɪk/                     | np  |
+| a slice of bread               | /ə slaɪs əv brɛd/                     | /ə slaɪs əv brɛd/                     | np  |
+| a slice of cheese              | /ə slaɪs əv tʃiz/                     | /ə slaɪs əv tʃiːz/                    | np  |
+| a weak coffee                  | /ə wik ˈkɒfi/                         | /ə wiːk ˈkɒfi/                         | np  |
+| a chocolate shake              | /ə ˈtʃɒk.lət ʃeɪk/                   | /ə ˈtʃɒk.lət ʃeɪk/                   | np  |
+| lemonade                       | /ˌlɛməˈneɪd/                         | /ˌlɛməˈneɪd/                         | n   |
+| a weak espresso                | /ə wik ɛˈsprɛsoʊ/                     | /ə wiːk ɛˈsprɛsəʊ/                    | np  |
+| an espresso                    | /æn ɛˈsprɛsoʊ/                        | /æn ɛˈsprɛsəʊ/                        | np  |
+| a strong espresso              | /ə strɔŋ ɛˈsprɛsoʊ/                   | /ə strɒŋ ɛˈsprɛsəʊ/                   | np  |
+| an espresso with a drop of milk| /æn ɛˈsprɛsoʊ wɪð ə drɒp əv mɪlk/     | /æn ɛˈsprɛsəʊ wɪð ə drɒp əv mɪlk/    | np  |
+| "an Italian coffee"            | /æn ɪˈtæljən ˈkɒfi/                  | /æn ɪˈtæljən ˈkɒfi/                  | np  |
+| an espresso                    | /æn ɛˈsprɛsoʊ/                        | /æn ɛˈsprɛsəʊ/                        | np  |
+| a galão (coffee with milk)     | /ə ɡəˈlaʊ (ˈkɒfi wɪð mɪlk)/           | /ə ɡəˈlaʊ (ˈkɒfi wɪð mɪlk)/           | np  |
+| fruit                          | /frut/                                 | /fruːt/                                | n   |
+| meat                           | /mit/                                  | /miːt/                                | n   |
+| legumes                        | /ˈlɛɡjuːmz/                           | /ˈlɛɡjuːmz/                           | np  |
+| beans                          | /binz/                                 | /biːnz/                               | nmp |
+| rice                           | /raɪs/                                 | /raɪs/                                | n   |
+| scrambled eggs                 | /ˈskræmbəld ɛɡz/                      | /ˈskræmbəld ɛɡz/                      | np  |
+| cakes                          | /keɪks/                                | /keɪks/                               | nmp |
+| salad                          | /ˈsæləd/                               | /ˈsæləd/                              | n   |
+| vegetables                     | /ˈvɛdʒtəbəlz/                         | /ˈvɛdʒtəbəlz/                        | nfp |
+| soup                           | /suːp/                                 | /suːp/                                | n   |
+| chocolate                      | /ˈtʃɒklət/                            | /ˈtʃɒklət/                           | n   |
+| jam                            | /dʒæm/                                 | /dʒæm/                                | n   |
+| pancakes                       | /ˈpænkeɪks/                            | /ˈpænkeɪks/                           | nmp |
+| toast                          | /toʊst/                                | /toʊst/                               | n   |
+| honey                          | /ˈhʌni/                                | /ˈhʌni/                               | n   |
+| pasta                          | /ˈpæstə/                               | /ˈpæstə/                              | np  |
+| sweet potato                   | /swiːt pəˈteɪtoʊ/                      | /swiːt pəˈteɪtəʊ/                     | np  |
+| potato                         | /pəˈteɪtoʊ/                            | /pəˈteɪtəʊ/                           | n   |
+| french fries                   | /frɛntʃ fraɪz/                         | /frɛntʃ fraɪz/                        | nmp |
 
 
 

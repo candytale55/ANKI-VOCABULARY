@@ -3,7 +3,53 @@
 
 
 Here's the table for the English language:
+Here's the table for the English language:
 
+| English Word | IPA (US) | IPA (UK) | WT |
+|--------------|----------|----------|----|
+| dog | /dɔɡ/ | /dɒɡ/ | n |
+| capacity | /kəˈpæsəti/ | /kəˈpæsɪti/ | n |
+| celebration | /ˌsɛlɪˈbreɪʃən/ | /ˌsɛlɪˈbreɪʃən/ | n |
+| floor | /flɔr/ | /flɔː/ | n |
+| annoy | /əˈnɔɪ/ | /əˈnɔɪ/ | v |
+| gray | /ɡreɪ/ | /ɡreɪ/ | adj |
+| ash | /æʃ/ | /æʃ/ | n |
+| class | /klæs/ | /klɑːs/ | n |
+| working class | /ˈwɜːrkɪŋ klæs/ | /ˈwɜːrkɪŋ klɑːs/ | n |
+| commander | /kəˈmændər/ | /kəˈmɑːndər/ | n |
+| match | /mætʃ/ | /mætʃ/ | n, v |
+| communicative | /kəˈmjuːnɪˌkeɪtɪv/ | /kəˈmjuːnɪkətɪv/ | adj |
+| conscious, aware | /ˈkɒnʃəs/, /əˈwɛər/ | /ˈkɒnʃəs/, /əˈwɛə/ | adj |
+| constitution | /ˌkɒnstɪˈtjuːʃən/ | /ˌkɒnstɪˈtjuːʃən/ | n |
+| construction | /kənˈstrʌkʃən/ | /kənˈstrʌkʃən/ | n |
+| convinced | /kənˈvɪnst/ | /kənˈvɪnst/ | adj |
+| invite | /ɪnˈvaɪt/ | /ɪnˈvaɪt/ | v |
+| heart | /hɑrt/ | /hɑːt/ | n |
+| coward | /ˈkaʊərd/ | /ˈkaʊəd/ | n |
+| coward | /ˈkaʊərd/ | /ˈkaʊəd/ | n |
+| in the morning | /ɪn ðə ˈmɔrnɪŋ/ | /ɪn ðə ˈmɔːrnɪŋ/ | exp |
+| despair | /dɪˈspɛr/ | /dɪˈspɛə/ | n |
+| unnecessary | /ʌnˈnɛsəsəri/ | /ʌnˈnɛsəsəri/ | adj |
+| despise | /dɪˈspaɪz/ | /dɪˈspaɪz/ | v |
+| contempt | /kənˈtɛmpt/ | /kənˈtɛmpt/ | n |
+| direction | /dɪˈrɛkʃən/ | /daɪˈrɛkʃən/ | n |
+| diversity | /daɪˈvɜrsəti/ | /daɪˈvɜːsəti/ | n |
+| crazy | /ˈkreɪzi/ | /ˈkreɪzi/ | adj |
+| education | /ɛdʒʊˈkeɪʃən/ | /ɛdʒʊˈkeɪʃən/ | n |
+| then | /ðɛn/ | /ðɛn/ | adv |
+| smart | /smɑrt/ | /smɑːt/ | adj |
+| squadron | /ˈskwɒdrən/ | /ˈskwɒdrən/ | n |
+| exception | /ɪkˈsɛpʃən/ | /ɪkˈsɛpʃən/ | n |
+| eccentric | /ɪkˈsɛntrɪk/ | /ɪkˈsɛntrɪk/ | adj |
+| explanation | /ɛkspləˈneɪʃən/ | /ɛkspləˈneɪʃən/ | n |
+| fan | /fæn/ | /fæn/ | n |
+| facility | /fəˈsɪləti/ | /fəˈsɪləti/ | n |
+| spell | /spɛl/ | /spɛl/ | v |
+| deed | /diːd/ | /diːd/ | n |
+| made | /meɪd/ | /meɪd/ | adj |
+| apricot | /ˈeɪprɪkɒt/ | /ˈeɪprɪkɒt/ | n |
+
+Feel free to let me know if you have further requests or adjustments!
 
 
 

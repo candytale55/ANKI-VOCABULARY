@@ -253,6 +253,57 @@
 | 9330 | meloa                  | a meloa            | /mɨ.ˈlo.ɐ/        | /mi.ˈlo.ɐ/        | sf  |
 | 9331 | mamão                  | o mamão            | /mɐ.ˈmɐ
 
+| English Word         | IPA (US)      | IPA (UK)      | WT  |
+|----------------------|---------------|---------------|-----|
+| green grape          | /ɡriːn ɡreɪp/ | /ɡriːn ɡreɪp/ | n   |
+| red grape            | /rɛd ɡreɪp/   | /rɛd ɡreɪp/   | n   |
+| tangerine            | /ˈtændʒəriːn/ | /ˈtændʒəriːn/ | n   |
+| grapefruit           | /ˈɡreɪpfruːt/ | /ˈɡreɪpfruːt/ | n   |
+| watermelon           | /ˈwɔtərmɛlən/ | /ˈwɔːtəmɛlən/ | n   |
+| berries              | /ˈbɛrɪz/      | /ˈbɛrɪz/      | nfp |
+| coconut              | /ˈkoʊkənʌt/   | /ˈkəʊkənʌt/   | n   |
+| dragon fruit         | /ˈdræɡən fruːt/ | /ˈdræɡən fruːt/ | n   |
+| passion fruit        | /ˈpæʃən fruːt/ | /ˈpæʃən fruːt/ | n   |
+| almonds              | /ˈɑːməndz/    | /ˈɑːməndz/    | nmp |
+| tamarind             | /ˈtæmərɪnd/   | /ˈtæmərɪnd/   | n   |
+| cream cheese         | /kriːm tʃiz/  | /kriːm tʃiːz/  | n   |
+| cream                | /kriːm/       | /kriːm/       | n   |
+| caldo verde          | /ˈkældu ˈvɛrdi/ | /ˈkældəʊ ˈvɜːdi/ | n   |
+| chicken soup         | /ˈʧɪkɪn sup/  | /ˈʧɪkɪn suːp/  | np  |
+| coriander            | /ˌkɒriˈændər/ | /ˌkɒriˈændə/  | n   |
+| parsley              | /ˈpɑrsli/     | /ˈpɑːsli/     | n   |
+| sauce                | /sɔs/         | /sɔːs/        | n   |
+| pasta                | /ˈpæstə/      | /ˈpæstə/      | n   |
+| dough                | /doʊ/         | /dəʊ/         | n   |
+| letria               | /ˈlɛtriə/     | /ˈlɛtriə/     | n   |
+| salmon               | /ˈsæmən/      | /ˈsæmən/      | n   |
+| codfish              | /ˈkɒdˌfɪʃ/    | /ˈkɒdˌfɪʃ/    | n   |
+| ham                  | /hæm/         | /hæm/         | n   |
+| bacon                | /ˈbeɪkən/     | /ˈbeɪkən/     | n   |
+| chicken breast ham   | /ˈʧɪkɪn brɛst hæm/ | /ˈʧɪkɪn brɛst hæm/ | n   |
+| ham                  | /hæm/         | /hæm/         | n   |
+| list                 | /lɪst/        | /lɪst/        | n   |
+| menu                 | /ˈmɛnjuː/     | /ˈmɛnjuː/     | n   |
+| menu                 | /ˈmɛnjuː/     | /ˈmɛnjuː/     | n   |
+| pineapple            | /ˈpaɪnˌæpl/   | /ˈpaɪnˌæpl̩/  | n   |
+| menu                 | /ˈmɛnjuː/     | /ˈmɛnjuː/     | n   |
+| lunch                | /lʌnʧ/        | /lʌntʃ/       | n   |
+| dinner               | /ˈdɪnər/      | /ˈdɪnə/       | n   |
+| meal                 | /mil/         | /miːl/        | n   |
+| breakfast            | /ˈbrɛkfəst/   | /ˈbrɛkfəst/   | n   |
+| breakfast            | /ˈbrɛkfəst/   | /ˈbrɛkfəst/   | n   |
+| apricot              | /ˈæprɪkɒt/    | /ˈeɪprɪkɒt/   | n   |
+| coffee with milk     | /ˈkɔfi wɪð mɪlk/ | /ˈkɒfi wɪð mɪlk/ | np  |
+| onion                | /ˈʌnjən/      | /ˈʌnjən/      | n   |
+| oatmeal              | /ˈoʊtml̩/      | /ˈəʊtmiːl/    | n   |
+| hamburger            | /ˈhæmbɜːrɡər/ | /ˈhæmbɜːɡə/  | n   |
+| sugar                | /ˈʃʊɡər/      | /ˈʃʊɡə/      | n   |
+| yogurt               | /ˈjoʊɡərt/    | /ˈjɒɡət/     | n   |
+| chorizo              | /tʃəˈrizoʊ/   | /tʃəˈriːzoʊ/ | n   |
+| milk                 | /mɪlk/        | /mɪlk/        | n   |
+| jam                  | /dʒæm/        | /dʒæm/        | n   |
+| cookies              | /ˈkʊkiz/      | /ˈkʊkiz/      | np  |
+| tofu                 | /ˈtoʊfuː/     | /ˈtəʊfuː/    | n   |
 
 
 | No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP        |

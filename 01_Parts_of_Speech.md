@@ -1,6 +1,12 @@
 
 # PARTS OF SPEECH
 
+Here's the entry for the word "damasco (fruta)":
+
+| No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP |
+|-----|-----------|----------|----------|----------|----|
+| 9112 | damasco (fruta) | o damasco | /dɐ.'maʃ.ku/ | /da.'maʃ.ku/ | sm |
+
 
 | No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP |
 |-----|-----------|----------|----------|----------|----|

@@ -2,12 +2,24 @@
 # PARTS OF SPEECH
 
 
-| Português | English          | Spanish           | French            | German           | Valencian         | Italian          |
-|-----------|------------------|-------------------|-------------------|------------------|-------------------|-------------------|
-| abade     | abbot            | abad              | abbé              | Abt              | abat              | abate             |
-| aceitabilidade | acceptability | aceptabilidad     | acceptabilité     | Akzeptabilität   | acceptabilitat   | accettabilità    |
-| acerbidade | acerbity          | acritud           | âpreté            | Herbheit         | acidesa          | acerbità         |
-| apricot   | apricot          | albaricoque       | abricot           | Aprikose         | albercoc         | albicocca        |
+| No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP |
+|-----|-----------|----------|----------|----------|----|
+| 9429 | diversidade | a diversidade | /di.vɨɾ.si.ðɐ.ˈðɨ/ | /di.vɨɾ.si.ˈdadʒi/ | sf |
+| 9430 | doido, doida |  | /ˈdɔj.du/, /ˈdɔj.dɐ/ | /ˈdɔj.du/, /ˈdɔj.dɐ/ | adj m/f |
+| 9431 | educação | a educação | /e.du.ka.si.ˈɐ̃w̃/ | /e.du.ka.si.ˈɐ̃w̃/ | sf |
+| 9432 | então |  | /ẽ.ˈtɐ̃w̃/ | /ẽ.ˈtɐ̃w̃/ | adv |
+| 9433 | esperto, esperta |  | /ɨʃ.ˈpɛɾ.tu/, /ɨʃ.ˈpɛɾ.tɐ/ | /is.ˈpeʁ.tu/, /is.ˈpeʁ.tɐ/ | adj m/f |
+| 9434 | esquadrão | o esquadrão | /ɨʃ.kwɐ.ˈdɾɐ̃w̃/ | /is.kwɐ.ˈdɾɐ̃w̃/ | sm |
+| 9435 | exceção | a exceção | /ɨʃ.sɛ.ˈsɐ̃w̃/ | /is.sɛ.ˈsɐ̃w̃/ | sf |
+| 9436 | excêntrico, excêntrica |  | /ɨʃ.ˈsẽ.tɾi.ku/, /ɨʃ.ˈsẽ.tɾi.kɐ/ | /is.ˈsẽ.tɾi.ku/, /is.ˈsẽ.tɾi.kɐ/ | adj m/f |
+| 9437 | explicação | a explicação | /ɨʃ.pli.kɐ.si.ˈɐ̃w̃/ | /is.pli.kɐ.si.ˈɐ̃w̃/ | sf |
+| 9438 | fã | o fã | /fɐ̃/ | /fɐ̃/ | sm |
+| 9439 | facilidade | a facilidade | /fɐ.si.li.ˈdadɨ/ | /fa.si.li.ˈdadʒi/ | sf |
+| 9440 | feitiço | o feitiço | /fɐj.ˈti.su/ | /fej.ˈti.su/ | sm |
+| 9441 | feito | o feito | /ˈfɐj.tu/ | /ˈfej.tu/ | sm |
+| 9442 | feito | feito | /ˈfɐj.tu/ | /ˈfej.tu/ | adj |
+| 9112 | apricot |  | /a.pɾi.ˈkɔt/ | /a.pɾi.ˈkɔt/ |  |
+
 
 
 | No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP |

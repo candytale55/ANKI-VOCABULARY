@@ -4,6 +4,12 @@
 
 Here's the table for the English language:
 
+
+
+
+
+
+
 | English Word | IPA (US) | IPA (UK) | WT |
 |--------------|----------|----------|----|
 | at night | /æt naɪt/ | /ət naɪt/ | exp |

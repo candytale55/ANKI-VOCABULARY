@@ -1,4 +1,59 @@
 
+| Português | English | Spanish | French | German | Valencian | Italian |
+|-----------|---------|---------|--------|--------|-----------|---------|
+| um | one | uno | un | eins | un | uno |
+| uma | a | una | une | eine | una | una |
+| uns | some | unos | des | einige | uns | alcuni |
+| umas | some | unas | des | einige | unes | alcune |
+| num | in a | en un | dans un | in einem | en un | in uno |
+| numa | in a | en una | dans une | in einer | en una | in una |
+| nuns | in some | en unos | dans des | in einigen | en uns | in alcuni |
+| numas | in some | en unas | dans des | in einigen | en unes | in alcune |
+| dum | of a | de un | d'un | von einem | d'un | di uno |
+| duma | of a | de una | d'une | von einer | d'una | di una |
+| duns | of some | de unos | de des | von einigen | de uns | di alcuni |
+| dumas | of some | de unas | de des | von einigen | de unes | di alcune |
+| o | the | el | le | der | el | il |
+| a (article) | the | la | la | die | la | la |
+| os | the | los | les | die | els | i |
+| as | the | las | les | die | les | le |
+| no | in the | en el | dans le | im | en el | nel |
+| na | in the | en la | dans la | im | en la | nella |
+| nos | in the | en los | dans les | in den | en els | nei |
+| nas | in the | en las | dans les | in den | en les | nelle |
+| do | of the | de el | de le | von dem | del | del |
+| da | of the | de la | de la | von der | de la | della |
+| dos | of the | de los | de les | von den | dels | dei |
+| das | of the | de las | de les | von den | de les | delle |
+| ao | to the | al | à le | zum | al | al |
+| à | to the | a la | à la | zu der | a la | alla |
+| aos | to the | a los | aux les | zu den | als | ai |
+| às | to the | a las | aux les | zu den | als | alle |
+| pelo | by the | por el | par le | durch den | pel | per il |
+| pela | by the | por la | par la | durch die | per la | per la |
+| pelos | by the | por los | par les | durch die | pel | per i |
+| pelas | by the | por las | par les | durch die | per les | per le |
+| este | this | este | ce | dieser | este | questo |
+| esta | this | esta | cette | diese | esta | questa |
+| estes | these | estos | ces | diese | estes | questi |
+| estas | these | estas | ces | diese | estes | queste |
+| isto | this | esto | cela | dieses | açò | questo |
+| isso | that | eso | cela | das | açò | quello |
+| aquilo | that | aquello | cela | das | açò | quello |
+| em | in | en | dans | in | en | in |
+| de | of | de | de | von | de | di |
+| a (preposition) | to | a | à | zu | a | a |
+| por | for | por | par | durch | per | per |
+| àquilo | to that | a eso | à cela | zu das | açò | a quello |
+| àqueles | to those | a esos | à ces | zu denen | aqueixos | a quelli |
+
+
+
+
+
+
+
+
 | No. | Portuguese | IPA (PT) | IPA (BR) | Tipo de Palavra | English Word | English IPA | Spanish Word | Spanish IPA |
 |-----|------------|----------|----------|-----------------|--------------|-------------|--------------|-------------|
 | 8303 | anteontem | /ɐ̃tj'ɔ̃tɐ̃j̃/ | /ɐ̃tʃiˈõtẽj/ | advérbio | day before yesterday | /deɪ bɪ'fɔr jɛstɚ'deɪ/ | anteayer | /antea'ʝeɾ/ |

@@ -91,30 +91,6 @@
 | blueberry     | /ˈbluːbəri/ | /ˈbluːbəri/ | n   |
 | strawberry    | /ˈstrɔːbəri/ | /ˈstrɔːbəri/ | n   |
 
-
-| English Word  | IPA (US) | IPA (UK) | WT |
-|---------------|----------|----------|----|
-| cherry        | /ˈʧɛri/   | /ˈʧɛri/   | n   |
-| breakfast     | /ˈbrɛkfəst/ | /ˈbrɛkfəst/ | n   |
-| banana        | /bəˈnænə/  | /bəˈnɑːnə/ | n   |
-| plum          | /plʌm/     | /plʌm/     | n   |
-| bilberry      | /ˈbɪlbəri/ | /ˈbɪlbəri/ | n   |
-| cloudberry    | /ˈklaʊdbɛri/ | /ˈklaʊdbəri/ | n   |
-| marionberry   | /ˈmærɪənbɛri/ | /ˈmærɪənbəri/ | n   |
-| loganberry    | /ˈloʊɡənbɛri/ | /ˈloʊɡənbəri/ | n   |
-| huckleberry   | /ˈhʌkəlbɛri/ | /ˈhʌkəlbəri/ | n   |
-| mulberry      | /ˈmʌlbəri/ | /ˈmʌlbəri/ | n   |
-| lingonberry   | /ˈlɪŋənbɛri/ | /ˈlɪŋənbəri/ | n   |
-| elderberry    | /ˈɛldərbɛri/ | /ˈɛldərbəri/ | n   |
-| currant       | /ˈkɜrənt/ | /ˈkʌrənt/ | n   |
-| boysenberry   | /ˈbɔɪzənbɛri/ | /ˈbɔɪzənbəri/ | n   |
-| raspberry     | /ˈræzbəri/ | /ˈrɑːzbəri/ | n   |
-| cranberry     | /ˈkrænbəri/ | /ˈkrænbəri/ | n   |
-| blackberry    | /ˈblækbəri/ | /ˈblækbəri/ | n   |
-| blueberry     | /ˈbluːbəri/ | /ˈbluːbəri/ | n   |
-| strawberry    | /ˈstrɔːbəri/ | /ˈstrɔːbəri/ | n   |
-
-
 | English Word      | IPA (US)      | IPA (UK)      | WT   |
 |-------------------|---------------|---------------|------|
 | nuts              | /nʌts/        | /nʌts/        | np   |
@@ -144,6 +120,39 @@
 | savoy cabbage     | /səˈvɔɪ ˈkæbɪdʒ/ | /səˈvɔɪ ˈkæbɪdʒ/ | n    |
 | beetroot          | /ˈbitruːt/     | /ˈbiːtruːt/    | n    |
 | ginger            | /ˈdʒɪndʒər/    | /ˈdʒɪndʒə/    | n    |
+
+
+| English Word        | IPA (US)     | IPA (UK)     | WT  |
+|---------------------|--------------|--------------|-----|
+| green onion         | /ɡriːn ˈʌnjən/ | /ɡriːn ˈʌnjən/ | n   |
+| Brussels sprouts    | /ˈbrʌsəlz spraʊts/ | /ˈbrʌsəlz spraʊts/ | np  |
+| red cabbage         | /rɛd ˈkæbɪdʒ/ | /rɛd ˈkæbɪdʒ/ | n   |
+| padrón pepper       | /pəˈdroʊn ˈpɛpər/ | /pəˈdrɒn ˈpɛpə/ | n   |
+| corn                | /kɔrn/       | /kɒn/        | n   |
+| parsnip             | /ˈpɑrsnɪp/    | /ˈpɑːs.nɪp/   | n   |
+| bean sprouts        | /bin spraʊts/ | /biːn spraʊts/ | nmp |
+| celery              | /ˈsɛləri/    | /ˈsɛləri/    | n   |
+| pomegranate         | /ˈpɒmɪɡrænɪt/ | /ˈpɒmɪɡrænɪt/ | n   |
+| quince              | /kwɪns/      | /kwɪns/      | n   |
+| persimmon           | /pərˈsɪmən/  | /pəˈsɪmən/   | n   |
+| pear                | /pɛr/        | /pɛər/       | n   |
+| custard apple       | /ˈkʌstərd ˈæpl̩/ | /ˈkʌstəd ˈæpl̩/ | n   |
+| chestnut            | /ˈtʃɛsnʌt/   | /ˈtʃɛsnʌt/   | n   |
+| walnut              | /ˈwɔlnʌt/    | /ˈwɔːlnʌt/   | n   |
+| banana              | /bəˈnænə/    | /bəˈnɑːnə/   | n   |
+| clementine          | /klɛmənˌtaɪn/ | /klɛmənˌtiːn/ | n   |
+| grape               | /ɡreɪp/      | /ɡreɪp/      | n   |
+| mango               | /ˈmæŋɡoʊ/    | /ˈmæŋɡəʊ/   | n   |
+| avocado             | /ˌævəˈkɑdoʊ/ | /ˌævəˈkɑːdəʊ/ | n   |
+| kiwi                | /ˈkiwi/      | /ˈkiːwi/     | n   |
+| papaya              | /pəˈpaɪə/    | /pəˈpaɪə/    | n   |
+| plum                | /plʌm/       | /plʌm/       | n   |
+| pineapple           | /ˈpaɪnˌæpl/   | /ˈpaɪnˌæpl̩/  | n   |
+| lime                | /laɪm/       | /laɪm/       | n   |
+| melon               | /ˈmɛlən/     | /ˈmɛlən/     | n   |
+| papaya              | /pəˈpaɪə/    | /pəˈpaɪə/    | n   |
+| passion fruit       | /ˈpæʃən fruːt/ | /ˈpæʃən fruːt/ | n   |
+
 
 
 

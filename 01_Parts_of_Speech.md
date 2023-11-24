@@ -1,6 +1,18 @@
 
 # PARTS OF SPEECH
 
+
+| Português | English          | Spanish           | French            | German           | Valencian         | Italian          |
+|-----------|------------------|-------------------|-------------------|------------------|-------------------|-------------------|
+| abade     | abbot            | abad              | abbé              | Abt              | abat              | abate             |
+| aceitabilidade | acceptability | aceptabilidad     | acceptabilité     | Akzeptabilität   | acceptabilitat   | accettabilità    |
+| acerbidade | acerbity          | acritud           | âpreté            | Herbheit         | acidesa          | acerbità         |
+| apricot   | apricot          | albaricoque       | abricot           | Aprikose         | albercoc         | albicocca        |
+
+
+
+
+
 | English Word | Portuguese Word | Spanish Word | Valencian Word |  French Word | German Word | Italian Word   |
 |--------------|-----------------|--------------|----------------|---------------|-------------|---------------|
 | noun         | substantivo     | sustantivo   | substantiu     | nom           | Nomen       | nome          |

@@ -10,6 +10,67 @@
 | apricot   | apricot          | albaricoque       | abricot           | Aprikose         | albercoc         | albicocca        |
 
 
+| No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP |
+|-----|-----------|----------|----------|----------|----|
+| 9370 | à noite | **a** noite | /ɐ 'nɔɪ.t(ɨ)/ | /ɐ 'nɔɪ.t(ʃi)/ | adv |
+| 9371 | à procura | **a** procura | /ɐ 'pɾɔ.ku.ɾɐ/ | /ɐ 'pɾɔ.ku.ɾɐ/ | adv |
+| 9372 | à tarde | **a** tarde | /ɐ 'taɾ.ðɨ/ | /ɐ 'taʁ.ʤi/ | adv |
+| 9373 | ação | a ação | /ɐ.ˈsɐ̃w̃/ | /ɐ.ˈsɐ̃w̃/ | sf |
+| 9374 | acima |  | /ɐ.ˈsi.ma/ | /ɐ.ˈsi.ma/ | adv |
+| 9375 | acima de |  | /ɐ.ˈsi.ma dɨ/ | /ɐ.ˈsi.ma dʒi/ | prep |
+| 9376 | acima do tudo |  | /ɐ.ˈsi.ma du 'tu.do/ | /ɐ.ˈsi.ma du 'tu.du/ | adv |
+| 9377 | ações | as ações | /ɐ.'sɔ̃w̃ʃ/ | /ɐ.'sɔ̃w̃ʃ/ | sfp |
+| 9378 | acrescentar |  | /ɐ.kɾɨ.sẽ.ˈtaɾ/ | /a.kɾe.sẽ.ˈtaʁ/ | v |
+| 9379 | adeus |  | /ɐ.ˈdɐjʃ/ | /ɐ.ˈdɐjʃ/ | expres |
+| 9380 | ainda não se |  | /ɐj̃.ˈda nɐ̃w̃ sɨ/ | /ɐj̃.ˈda nɐ̃w̃ sɨ/ | expres |
+| 9381 | alemães | os alemães | /ɐ.lɨ.ˈmɐ̃jʃ/ | /ɐ.lẽ.ˈmãjs/ | smp |
+| 9382 | aliado, aliada | o aliado, a aliada | /ɐ.lɨ.ˈa.ðu/, /ɐ.lɨ.ˈa.ðɐ/ | /ɐ.lẽ.ˈa.ðu/, /ɐ.lẽ.ˈa.ðɐ/ | s m/f |
+| 9383 | alvéolo | o alvéolo | /ɐlˈve.o.lu/ | /ɐlˈve.o.lu/ | sm |
+| 9384 | ameaça | a ameaça | /ɐ.mɨ.ˈa.sɐ/ | /ɐ.mɨ.ˈa.sɐ/ | sf |
+| 9385 | apalpar |  | /ɐ.paw.ˈpaɾ/ | /ɐ.paʊ̯.ˈpaʁ/ | v |
+| 9386 | aquecer |  | /ɐ.kɨ.ˈseɾ/ | /a.ki.ˈseʁ/ | v |
+| 9387 | aquilo |  | /ɐ.ˈki.lu/ | /ɐ.ˈki.lu/ | pron |
+| 9388 | ardil | o ardil | /ɐɾ.ˈdiɫ/ | /aʁ.ˈdiw̃/ | sm |
+| 9389 | armadilha | a armadilha | /ɐɾ.mɐ.ˈdi.ʎɐ/ | /aʁ.mɐ.ˈdi.ʎɐ/ | sf |
+| 9390 | arranjar |  | /ɐ.ʁɐ.ˈɲaɾ/ | /ɐ.ʁɐ.ˈɲaʁ/ | v |
+| 9391 | arranjar-se |  | /ɐ.ʁɐ.ˈɲaɾ sɨ/ | /ɐ.ʁɐ.ˈɲaʁ sɨ/ | v |
+| 9392 | atiçar |  | /ɐ.ti.ˈsaɾ/ | /ɐ.ti.ˈsaʁ/ | v |
+| 9393 | atividade | a atividade | /ɐ.ti.vi.ˈda.dɨ/ | /ɐ.ti.vi.ˈdadʒi/ | s |
+| 9394 | atuação | a atuação | /ɐ.tu.ɐ.ˈsɐ̃w̃/ | /ɐ.twa.ˈsɐ̃w̃/ | s |
+| 9395 | bigode | o bigode | /bi.ˈɡɔ.ðɨ/ | /bi.ˈɡɔ.dʒi/ | sm |
+| 9396 | bilhete | o bilhete | /bi.ˈʎɛ.tɨ/ | /bi.ˈʎɛ.tʃi/ | sm |
+| 9397 | fatia | a fatia | /fɐ.ˈti.ɐ/ | /fa.ˈtʃi.ɐ/ | sf |
+| 9398 | cadete | o cadete | /kɐ.ˈde.tɨ/ | /kɐ.ˈde.tʃi/ | sm |
+| 9399 | cair |  | /ka.ˈiɾ/ | /ka.ˈiʁ/ | v |
+| 9400 | calhar |  | /kɐ.ˈʎaɾ/ | /ka.ˈʎaʁ/ | v |
+| 9401 | canção | a canção | /kɐ̃.ˈsɐ̃w̃/ | /kɐ̃.ˈsɐ̃w̃/ | sf |
+| 9402 | canhão | o canhão | /kɐ.ˈɲɐ̃w̃/ | /ka.ˈɲɐ̃w̃/ | sm |
+| 9403 | cão | o cão | /kɐ̃w̃/ | /kɐ̃w̃/ | sm |
+| 9404 | capacidade | a capacidade | /kɐ.pɐ.si.ˈdadɨ/ | /kɐ.pɐ.si.ˈdadʒi/ | sf |
+| 9405 | celebração | a celebração | /sɨ.lɨ.bɾɐ.ˈsɐ̃w̃/ | /se.lɨ.bɾa.ˈsɐ̃w̃/ | sf |
+| 9406 | chão | o chão | /ʃɐ̃w̃/ | /ʃɐ̃w̃/ | sm |
+| 9407 | chatear |  | /ʃɐ.ˈti.aɾ/ | /ʃɐ.ˈtʃi.aʁ/ | v |
+| 9408 | cinza (cor) | o cinza | /ˈsĩ.zɐ/ | /ˈsĩ.zɐ/ | sm |
+| 9409 | cinza (resíduo da combustão) | a cinza | /ˈsĩ.zɐ/ | /ˈsĩ.zɐ/ | sf |
+| 9410 | classe | a classe | /ˈkla.sɨ/ | /ˈklasɨ/ | sf |
+| 9411 | classe operária | a classe operária | /kla.sɨ u.pɨ.ˈɾa.ɾi.ɐ/ | /klasɨ u.pɨ.ˈɾa.ɾjɐ/ | sf |
+| 9412 | comandante | o comandante | /ko.mɐ̃.ˈdɐ̃.tɨ/ | /ko.mɐ̃.ˈdɐ̃.tʃi/ | sm |
+| 9413 | combinar |  | /kõ.bi.ˈnaɾ/ | /kõ.bi.ˈnaʁ/ | v |
+| 9414 | comunicativo, comunicativa |  | /kõ.mu.ni.kɐ.ˈti.vu/, /kõ.mu.ni.kɐ.ˈti.vɐ/ | /ko.mu.ni.ka.ˈti.vu/, /ko.mu.ni.ka.ˈti.vɐ/ | adj m/f |
+| 9415 | consciente |  | /kõʃ.ˈsjẽ.tɨ/ | /kõʃ.ˈsjẽ.tʃi/ | adjf |
+| 9416 | constituição | a constituição | /kõʃ.ti.tu.i.ˈsɐ̃w̃/ | /kõʃ.ti.tu.i.ˈsɐ̃w̃/ | sf |
+| 9417 | construção | a construção | /kõʃ.tɾu.ˈsɐ̃w̃/ | /kõʃ.tɾu.ˈsɐ̃w̃/ | sf |
+| 9418 | convencido, convencida |  | /kõ.vẽ.ˈsi.du/, /kõ.vẽ.ˈsi.dɐ/ | /kõ.vẽ.ˈsi.du/, /kõ.vẽ.ˈsi.dɐ/ | adj m/f |
+| 9419 | convidar |  | /kõ.vi.ˈdaɾ/ | /kõ.vi.ˈdaʁ/ | v |
+| 9420 | coração | o coração | /ko.ɾɐ.ˈsɐ̃w̃/ | /ko.ɾɐ.ˈsɐ̃w̃/ | sm |
+| 9421 | covarde |  | /ko.ˈvaɾ.ðɨ/ | /ko.ˈvaʁ.ði/ | adjf |
+| 9422 | covarde (BR), cobarde (PT) | o/a covarde | /ko.ˈvaɾ.ðɨ/ , /ko.ˈvaɾ.dɨ/ | /ko.ˈvaʁ.ði/ , /ko.ˈvaʁ.dʒi/ | s m/f |
+| 9423 | de manhã |  | /dɨ mɐ.ˈɲã/ | /di mɐ.ˈɲã/ | adv |
+| 9424 | desespero | o desespero | /dɨ.zɨ.ˈspɛ.ɾu/ | /di.zɨ.ˈspe.ɾu/ | sm |
+| 9425 | desnecessário, desnecessária |  | /dɨʃ.ˌnɛ.sɨ.ˈsɐ.ɾju/, /dɨʃ.ˌnɛ.sɨ.ˈsɐ.ɾjɐ/ | /deʃ.ˌnɛ.sɛ.sɐ.ˈɾju/, /deʃ.ˌnɛ.sɛ.sɐ.ˈɾjɐ/ | adj m/f |
+| 9426 | desprezar |  | /dɨʃ.pɾɨ.ˈzaɾ/ | /deʃ.pɾi.ˈzaʁ/ | v |
+| 9427 | desprezo | o desprezo | /dɨʃ.ˈpɾɛ.zu/ | /deʃ.ˈpɾɛ.zu/ | sm |
+| 9428 | direção | a direção | /di.ɾɛ.ˈsɐ̃w̃/ | /di.ɾɛ.ˈsɐ̃w̃/ | sf |
 
 
 

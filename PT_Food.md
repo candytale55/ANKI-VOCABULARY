@@ -50,6 +50,29 @@
 
 
 
+| English Word | IPA (US) | IPA (UK) | WT |
+|--------------|----------|----------|----|
+| lemons       | /ˈlɛmənz/ | /ˈlɛmənz/ | nfp |
+| orange (fruit) | /ˈɔrɪndʒ/ | /ˈɒrɪndʒ/ | n   |
+| wine         | /waɪn/    | /waɪn/    | n   |
+| vegetables   | /ˈvɛdʒtəbəlz/ | /ˈvɛdʒtəbəlz/ | nfp |
+| grape        | /ɡreɪp/   | /ɡreɪp/   | n   |
+| cheese       | /tʃiz/    | /tʃiːz/   | n   |
+| plate        | /pleɪt/   | /pleɪt/   | n   |
+| pear         | /pɛr/     | /peə/     | n   |
+| bread        | /brɛd/    | /brɛd/    | n   |
+| egg          | /ɛɡ/      | /ɛɡ/      | n   |
+| butter       | /ˈbʌtər/  | /ˈbʌtə/   | n   |
+| apple        | /ˈæpl̩/   | /ˈæpl̩/   | n   |
+| lemon        | /ˈlɛmən/  | /ˈlɛmən/  | n   |
+| milk         | /mɪlk/    | /mɪlk/    | n   |
+| tea          | /ti/      | /tiː/     | n   |
+| beer         | /bɪr/     | /bɪə/     | n   |
+
+
+
+
+
 | No.  | Português                  | + Artigo                    | IPA (PT)        | IPA (BR)        | TP  |
 |------|----------------------------|-----------------------------|-----------------|-----------------|-----|
 | 9331 | mamão                      | o mamão                     | /mɐ.ˈmɐ̃w̃/      | /ma.ˈmɐ̃w̃/      | sm  |

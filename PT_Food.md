@@ -69,6 +69,51 @@
 | tea          | /ti/      | /tiː/     | n   |
 | beer         | /bɪr/     | /bɪə/     | n   |
 
+| English Word  | IPA (US) | IPA (UK) | WT |
+|---------------|----------|----------|----|
+| cherry        | /ˈʧɛri/   | /ˈʧɛri/   | n   |
+| breakfast     | /ˈbrɛkfəst/ | /ˈbrɛkfəst/ | n   |
+| banana        | /bəˈnænə/  | /bəˈnɑːnə/ | n   |
+| plum          | /plʌm/     | /plʌm/     | n   |
+| bilberry      | /ˈbɪlbəri/ | /ˈbɪlbəri/ | n   |
+| cloudberry    | /ˈklaʊdbɛri/ | /ˈklaʊdbəri/ | n   |
+| marionberry   | /ˈmærɪənbɛri/ | /ˈmærɪənbəri/ | n   |
+| loganberry    | /ˈloʊɡənbɛri/ | /ˈloʊɡənbəri/ | n   |
+| huckleberry   | /ˈhʌkəlbɛri/ | /ˈhʌkəlbəri/ | n   |
+| mulberry      | /ˈmʌlbəri/ | /ˈmʌlbəri/ | n   |
+| lingonberry   | /ˈlɪŋənbɛri/ | /ˈlɪŋənbəri/ | n   |
+| elderberry    | /ˈɛldərbɛri/ | /ˈɛldərbəri/ | n   |
+| currant       | /ˈkɜrənt/ | /ˈkʌrənt/ | n   |
+| boysenberry   | /ˈbɔɪzənbɛri/ | /ˈbɔɪzənbəri/ | n   |
+| raspberry     | /ˈræzbəri/ | /ˈrɑːzbəri/ | n   |
+| cranberry     | /ˈkrænbəri/ | /ˈkrænbəri/ | n   |
+| blackberry    | /ˈblækbəri/ | /ˈblækbəri/ | n   |
+| blueberry     | /ˈbluːbəri/ | /ˈbluːbəri/ | n   |
+| strawberry    | /ˈstrɔːbəri/ | /ˈstrɔːbəri/ | n   |
+
+
+| English Word  | IPA (US) | IPA (UK) | WT |
+|---------------|----------|----------|----|
+| cherry        | /ˈʧɛri/   | /ˈʧɛri/   | n   |
+| breakfast     | /ˈbrɛkfəst/ | /ˈbrɛkfəst/ | n   |
+| banana        | /bəˈnænə/  | /bəˈnɑːnə/ | n   |
+| plum          | /plʌm/     | /plʌm/     | n   |
+| bilberry      | /ˈbɪlbəri/ | /ˈbɪlbəri/ | n   |
+| cloudberry    | /ˈklaʊdbɛri/ | /ˈklaʊdbəri/ | n   |
+| marionberry   | /ˈmærɪənbɛri/ | /ˈmærɪənbəri/ | n   |
+| loganberry    | /ˈloʊɡənbɛri/ | /ˈloʊɡənbəri/ | n   |
+| huckleberry   | /ˈhʌkəlbɛri/ | /ˈhʌkəlbəri/ | n   |
+| mulberry      | /ˈmʌlbəri/ | /ˈmʌlbəri/ | n   |
+| lingonberry   | /ˈlɪŋənbɛri/ | /ˈlɪŋənbəri/ | n   |
+| elderberry    | /ˈɛldərbɛri/ | /ˈɛldərbəri/ | n   |
+| currant       | /ˈkɜrənt/ | /ˈkʌrənt/ | n   |
+| boysenberry   | /ˈbɔɪzənbɛri/ | /ˈbɔɪzənbəri/ | n   |
+| raspberry     | /ˈræzbəri/ | /ˈrɑːzbəri/ | n   |
+| cranberry     | /ˈkrænbəri/ | /ˈkrænbəri/ | n   |
+| blackberry    | /ˈblækbəri/ | /ˈblækbəri/ | n   |
+| blueberry     | /ˈbluːbəri/ | /ˈbluːbəri/ | n   |
+| strawberry    | /ˈstrɔːbəri/ | /ˈstrɔːbəri/ | n   |
+
 
 
 

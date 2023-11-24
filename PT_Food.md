@@ -1,5 +1,43 @@
 # Food
 
+My apologies for the oversight. Here's the completed table with the missing values filled in, including the IPA and TP:
+
+| No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP |
+|-----|-----------|----------|----------|----------|----|
+| 9266 | peixe (alimento) | o peixe | /ˈpejʃɨ/ | /ˈpej.ʃi/ | sm |
+| 9265 | sumo de laranja | um sumo de laranja | /'sumu dɨ lɐˈɾɐ̃ʒɐ/ | /'sumu dʒi laˈɾãʒɐ/ | s |
+| 9264 | frango | o frango | /ˈfɾɐ̃.ɡu/ | /ˈfɾɐ̃.ɡu/ | sm |
+| 9263 | um chá de camomila | um chá de camomila | /ʃa dɨ kɐmuˈmilɐ/ | /ʃa dʒi kamuˈmilɐ/ | s |
+| 9262 | um chá verde | um chá verde | /ʃa ˈveɾdɨ/ | /ʃa ˈveɾdʒi/ | s |
+| 9261 | um chá negro | um chá negro | /ʃa ˈneɡɾu/ | /ʃa ˈneɡɾu/ | s |
+| 9260 | um chá de menta / mentol | um chá de menta / mentol | /ʃa dɨ ˈmẽtɐ / mẽˈtɔl/ | /ʃa dʒi ˈmẽtɐ / mẽˈtɔl/ | s |
+| 9259 | um chá | um chá | /ʃa/ | /ʃa/ | s |
+| 9258 | um bolo de anos | um bolo de anos | /ˈbɔlu dɨ ˈɐnuʃ/ | /ˈbɔlu dʒi ˈɐnuʃ/ | s |
+| 9257 | uma fatia de bolo | uma fatia de bolo | /ˈfatiɐ dɨ ˈbɔlu/ | /ˈfatiɐ dʒi ˈbɔlu/ | s |
+| 9256 | uma fatia de pão | uma fatia de pão | /ˈfatiɐ dɨ pɐ̃w̃/ | /ˈfatiɐ dʒi pɐ̃w̃/ | s |
+| 9255 | uma fatia de queijo | uma fatia de queijo | /ˈfatiɐ dɨ ˈkejʒu/ | /ˈfatiɐ dʒi ˈkejʒu/ | s |
+| 9254 | um café carioca | um café carioca | /ˈkafe kɐɾiˈɔkɐ/ | /ˈkafe kariˈɔkɐ/ | s |
+| 9253 | um batido de chocolate | um batido de chocolate | /ˈbatidu dɨ ʃɔkuˈlatɨ/ | /baˈtʃidu dʒi ʃɔkuˈlatʃi/ | s |
+| 9252 | limonada | uma limonada | /limuˈnadɐ/ | /limoˈnadɐ/ | sf |
+| 9251 | um café abatanado | um café abatanado | /ˈkafe ɐbɐtɐˈnadu/ | /ˈkafe abɐtaˈnadu/ | s |
+| 9250 | uma bica | uma bica | /ˈbikɐ/ | /ˈbikɐ/ | s |
+| 9249 | um café cheio, uma bica cheia | um café cheio, uma bica cheia | /ˈkafe ˈʃej.u, ˈumɐ ˈbikɐ ˈʃej.ɐ/ | /ˈkafe ˈʃej.u, ˈũmɐ ˈbikɐ ˈʃej.ɐ/ | s |
+| 9248 | um café pingado, uma bica pingada | um café pingado, uma bica pingada | /ˈkafe pĩˈɡadu, ˈumɐ ˈbikɐ pĩˈɡadɐ/ | /ˈkafe pĩˈɡadu, ˈũmɐ ˈbikɐ pĩˈɡadɐ/ | s |
+| 9247 | uma italiana / um café Italiano | uma italiana / um café Italiano | /ˈumɐ i.tɐliˈɐnɐ, ˈum ˈkafe i.tɐliˈɐnu/ | /ˈũmɐ i.tɐliˈɐnɐ, ˈũm ˈkafe i.tɐliˈɐnu/ | s |
+| 9246 | um café, uma bica | um café, uma bica | /ˈkafe, ˈumɐ ˈbikɐ/ | /ˈkafe, ˈũmɐ ˈbikɐ/ | s |
+| 9245 | um galão | um galão | /ɡɐˈlɐ̃w̃/ | /ɡɐˈlɐ̃w̃/ | s |
+| 9244 | nariz fina | | /ˈnaɾiʃ ˈfinu/ | /ˈnaɾiʃ ˈfinɐ/ | s |
+| 9243 | olho claro | | /ˈoʎu ˈklaɾu/ | /ˈoʎu ˈklaru/ | s |
+| 9242 | nariz aquilino | | /ˈnaɾiʒ ɐkiˈlinu/ | /ˈnaɾiʒ aki
+
+
+
+
+
+
+
+
+
 | English Word          | IPA (US)                                | IPA (UK)                                 | WT    |
 |-----------------------|-----------------------------------------|------------------------------------------|-------|
 | fish                  | /fɪʃ/                                   | /fɪʃ/                                    | n     |

@@ -13,6 +13,82 @@
 | interjection | interjeição     | interjección | interjecció    | interjection  | Interjektion | esclamazione |
 
 
+| Português      | English           | Spanish           | French            | German              | Valencian           | Italian          |
+|----------------|-------------------|-------------------|-------------------|---------------------|---------------------|-------------------|
+| à noite        | at night           | por la noche      | la nuit           | in der Nacht        | de nit              | di notte          |
+| à procura      | looking for        | buscando          | à la recherche   | auf der Suche nach  | a la recerca de     | alla ricerca      |
+| à tarde        | in the afternoon   | por la tarde      | dans l'après-midi | am Nachmittag       | a la vesprada       | nel pomeriggio    |
+| ação           | action            | acción            | action            | Aktion              | acció               | azione            |
+| acima          | above             | encima            | au-dessus         | oben                | dalt                | sopra            |
+| acima de       | above             | por encima de     | au-dessus de      | über                | damunt de           | sopra            |
+| acima do tudo  | above all          | sobre todo        | surtout           | vor allem           | sobretot de tot     | soprattutto       |
+| ações          | actions           | acciones          | actions           | Handlungen          | accions             | azioni            |
+| acrescentar    | add               | agregar           | ajouter           | hinzufügen          | afegir              | aggiungere        |
+| adeus          | goodbye           | adiós             | au revoir         | auf Wiedersehen     | adéu               | addio            |
+| ainda não se   | not yet           | todavía no        | pas encore        | noch nicht          | encara no           | non ancora        |
+| alemães        | Germans           | alemanes          | Allemands         | Deutsche            | alemanys            | tedeschi          |
+| aliado, aliada | ally              | aliado            | allié             | Alliierte           | aliat, aliada       | alleato, alleata  |
+| alvéolo        | alveolus          | alvéolo           | alvéole           | Alveole             | alvèol              | alveolo           |
+| ameaça         | threat            | amenaza           | menace            | Bedrohung          | amenaça             | minaccia          |
+| apalpar        | feel              | palpar            | tâter             | tasten              | tastar              | palpare           |
+| aquecer        | heat              | calentar          | chauffer          | heizen              | escalfar            | riscaldare        |
+| aquilo         | that              | eso               | cela              | das                 | açò                | quello            |
+| ardil          | ruse              | estratagema       | ruse              | List                | astúcia             | astuzia           |
+| armadilha      | trap              | trampa            | piège             | Falle               | trampa              | trappola          |
+| arranjar       | arrange           | arreglar          | arranger          | arrangieren         | arreglar            | sistemare         |
+| arranjar-se    | get ready         | arreglarse        | se préparer       | sich bereit machen | arreglar-se         | prepararsi        |
+| atiçar        | stir              | atizar            | attiser           | anheizen            | atiar              | accendere         |
+| atividade     | activity          | actividad         | activité          | Aktivität           | activitat           | attività          |
+| atuação       | performance       | actuación         | performance       | Aufführung          | actuació            | interpretazione   |
+| bigode        | mustache          | bigote            | moustache         | Schnurrbart        | bigot               | baffi            |
+| bilhete       | ticket            | billete           | billet            | Fahrkarte           | bitllet             | biglietto         |
+| fatia         | slice             | trozo             | tranche           | Scheibe             | tallada             | fetta            |
+| cadete        | cadet             | cadete            | cadet             | Kadett              | cadet               | cadetto          |
+| cair          | fall              | caer              | tomber            | fallen              | caure               | cadere           |
+| calhar        | happen to         | ocurrir           | arriver           | zufällig passieren | ocorrer             | capitare         |
+| canção        | song              | canción           | chanson           | Lied                | cançó               | canzone          |
+| canhão        | cannon            | cañón             | canon             | Kanone              | canó                | cannone          |
+| cão           | dog               | perro             | chien             | Hund                | gos                 | cane             |
+| capacidade    | capacity          | capacidad         | capacité          | Kapazität           | capacitat           | capacità         |
+| celebração    | celebration       | celebración       | célébration       | Feier               | celebració          | celebrazione     |
+| chão          | floor             | suelo             | sol               | Boden               | terra               | pavimento        |
+| chatear       | annoy             | molestar          | ennuyer           | ärgern              | molestar            | infastidire      |
+| cinza (cor)   | gray              | gris              | gris              | grau                | gris                | grigio           |
+| cinza (resíduo da combustão) | ash | ceniza | cendre | Asche | cendra | cenere |
+| classe        | class             | clase             | classe            | Klasse              | classe              | classe           |
+| classe operária | working class   | clase obrera      | classe ouvrière   | Arbeiterklasse     | classe obrera       | classe operaia   |
+| comandante    | commander         | comandante        | commandant        | Kommandant          | comandant           | comandante       |
+| combinar      | match             | combinar          | assortir          | kombinieren         | combinar            | abbinare         |
+| comunicativo, comunicativa | communicative | comunicativo, comunicativa | communicatif, communicative | kommunikativ | comunicatiu, comunicativa | comunicativo, comunicativa |
+| consciente     | conscious, aware  | consciente, consciente | conscient, consciente | bewusst             | conscient, conscient | cosciente        |
+| constituição  | constitution      | constitución      | constitution       | Verfassung          | constitució         | costituzione     |
+| construção    | construction       | construcción      | construction       | Bau                 | construcció         | costruzione      |
+| convencido, convencida | convinced | convencido, convencida | convaincu, convaincue | überzeugt | convençut, convençuda | convinto, convinta |
+| convidar      | invite            | invitar           | inviter           | einladen            | convidar            | invitare         |
+| coração       | heart             | corazón           | cœur              | Herz                | cor                 | cuore            |
+| covarde       | coward            | cobarde           | lâche             | feige               | covard              | codardo          |
+| covarde (BR), cobarde (PT) | coward | cobarde | lâche | Feigling | covard | codardo |
+| de manhã      | in the morning     | por la mañana     | le matin          | am Morgen          | al matí             | al mattino       |
+| desespero     | despair           | desesperación     | désespoir         | Verzweiflung        | desesperança        | disperazione     |
+| desnecessário, desnecessária | unnecessary | innecesario, innecesaria | inutile | unnötig | innecessari, innecessaria | inutile, inutile |
+| desprezar     | despise           | despreciar        | mépriser         | verachten          | menysprear          | disprezzare      |
+| desprezo      | contempt          | desprecio         | mépris           | Verachtung         | menyspreu           | disprezzo        |
+| direção       | direction         | dirección        | direction        | Richtung           | direcció            | direzione        |
+| diversidade   | diversity         | diversidad        | diversité        | Vielfalt           | diversitat          | diversità        |
+| doido, doida  | crazy             | loco, loca        | fou, folle       | verrückt           | boig, boja          | pazzo, pazza     |
+| educação      | education         | educación        | éducation        | Bildung            | educació            | educazione       |
+| então         | then              | entonces         | alors            | dann               | llavors             | quindi           |
+| esperto, esperta | smart           | listo, lista      | intelligent, intelligente | schlau | llest, llesta        | intelligente, intelligente |
+| esquadrão     | squadron          | escuadrón        | escadron         | Geschwader         | esquadra            | squadrone        |
+| exceção       | exception         | excepción        | exception        | Ausnahme           | excepció            | eccezione        |
+| excêntrico, excêntrica | eccentric | excéntrico, excéntrica | excentrique | exzentrisch | excèntric, excèntrica | eccentrico, eccentrica |
+| explicação    | explanation       | explicación      | explication      | Erklärung          | explicació          | spiegazione      |
+| fã            | fan               | fanático, fanática | fan             | Fan                | fan                 | fan              |
+| facilidade    | facility          | facilidad        | facilité         | Einrichtung        | facilitat            | facilità         |
+| feitiço       | spell             | hechizo          | sortilège        | Zauber             | encanteri           | incantesimo      |
+| feito         | deed              | hecho            | fait             | Tat                | fet                 | atto             |
+| feito         | made              | hecho            | fait             | gemacht            | fet                 | fatto            |
+
 
 | No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP | EN | ES |
 |-----|-----------|----------|----------|----------|----|----|----|

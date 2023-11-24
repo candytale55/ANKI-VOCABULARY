@@ -1,6 +1,51 @@
 
 # PARTS OF SPEECH
 
+
+Here's the table for the English language:
+
+| English Word | IPA (US) | IPA (UK) | WT |
+|--------------|----------|----------|----|
+| at night | /æt naɪt/ | /ət naɪt/ | exp |
+| looking for | /ˈlʊkɪŋ fɔr/ | /ˈlʊkɪŋ fɔː/ | exp |
+| in the afternoon | /ɪn ðə ˌæftərˈnuːn/ | /ɪn ðə ˌɑːftəˈnuːn/ | exp |
+| action | /ˈækʃən/ | /ˈækʃən/ | n |
+| above | /əˈbʌv/ | /əˈbʌv/ | prep |
+| above all | /əˈbʌv ɔl/ | /əˈbʌv ɔːl/ | exp |
+| actions | /ˈækʃənz/ | /ˈækʃənz/ | np |
+| add | /æd/ | /æd/ | v |
+| goodbye | /ɡʊdˈbaɪ/ | /ɡʊdˈbaɪ/ | interj |
+| not yet | /nɑt jɛt/ | /nɒt jɛt/ | exp |
+| Germans | /ˈdʒɜrmənz/ | /ˈdʒɜːmənz/ | np |
+| ally | /ˈælaɪ/ | /ˈælaɪ/ | n |
+| alveolus | /ælˈviələs/ | /ælˈviːələs/ | nm |
+| threat | /θrɛt/ | /θret/ | n |
+| feel | /fil/ | /fiːl/ | v |
+| heat | /hit/ | /hiːt/ | n |
+| that | /ðæt/ | /ðət/ | conj |
+| ruse | /rus/ | /ruːz/ | n |
+| trap | /træp/ | /træp/ | n |
+| arrange | /əˈreɪndʒ/ | /əˈreɪndʒ/ | v |
+| get ready | /ɡɛt ˈrɛdi/ | /ɡɛt ˈrɛdi/ | exp |
+| stir | /stɜr/ | /stɜː/ | v |
+| activity | /ækˈtɪvɪti/ | /ækˈtɪvɪti/ | n |
+| performance | /pərˈfɔrməns/ | /pəˈfɔːməns/ | n |
+| mustache | /məˈstæʃ/ | /məˈstɑːʃ/ | n |
+| ticket | /ˈtɪkɪt/ | /ˈtɪkɪt/ | n |
+| slice | /slaɪs/ | /slaɪs/ | n |
+| cadet | /kəˈdɛt/ | /kəˈdɛt/ | n |
+| fall | /fɔl/ | /fɔːl/ | v |
+| happen to | /ˈhæpən tuː/ | /ˈhæpən tuː/ | exp |
+| song | /sɔŋ/ | /sɒŋ/ | n |
+| cannon | /ˈkænən/ | /ˈkænən/ | n |
+
+Feel free to let me know if you have further requests or adjustments!
+
+
+
+
+
+
 Here's the entry for the word "damasco (fruta)":
 
 | No. | Português | + Artigo | IPA (PT) | IPA (BR) | TP |

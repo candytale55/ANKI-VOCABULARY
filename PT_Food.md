@@ -115,6 +115,35 @@
 | strawberry    | /ˈstrɔːbəri/ | /ˈstrɔːbəri/ | n   |
 
 
+| English Word      | IPA (US)      | IPA (UK)      | WT   |
+|-------------------|---------------|---------------|------|
+| nuts              | /nʌts/        | /nʌts/        | np   |
+| lentils           | /ˈlɛntəlz/     | /ˈlɛntɪlz/     | np   |
+| Portuguese kale   | /ˌpɔːrtjʊˈɡiːz keɪl/ | /ˌpɔːtʃʊˈɡiːz keɪl/ | n    |
+| zucchini          | /zʊˈkiːni/    | /zʊˈkiːni/    | n    |
+| carrot            | /ˈkærət/       | /ˈkærət/       | n    |
+| broccoli          | /ˈbrɒkəli/     | /ˈbrɒkəli/     | n    |
+| garlic            | /ˈɡɑrlɪk/      | /ˈɡɑːlɪk/      | n    |
+| spinach           | /ˈspɪnɪtʃ/     | /ˈspɪnɪtʃ/     | n    |
+| cucumber          | /ˈkjuːkʌmbər/  | /ˈkjuːkʌmbə/  | n    |
+| tomato            | /təˈmeɪtoʊ/    | /təˈmɑːtəʊ/   | n    |
+| lettuce           | /ˈlɛtɪs/       | /ˈletɪs/      | n    |
+| cauliflower       | /ˈkɒlɪˌflaʊ.ər/ | /ˈkɒlɪˌflaʊ.ə(r)/ | n    |
+| cluster tomato    | /ˈklʌstər təˈmeɪtoʊ/ | /ˈklʌstə ˈtɒmətəʊ/ | n    |
+| bell pepper       | /bɛl ˈpɛpər/   | /bɛl ˈpɛpə/    | n    |
+| turnip            | /ˈtɜrnɪp/      | /ˈtɜːnɪp/      | n    |
+| sweet potato      | /swit pəˈteɪtoʊ/ | /swiːt pəˈteɪtəʊ/ | n    |
+| mushroom          | /ˈmʌʃrum/      | /ˈmʌʃrʊm/      | n    |
+| chayote           | /ʃaɪˈoʊti/     | /ʃaɪˈəʊti/     | n    |
+| red onion         | /rɛd ˈʌnjən/   | /rɛd ˈʌnjən/   | n    |
+| eggplant          | /ˈɛɡˌplænt/    | /ˈɛɡplɑːnt/    | n    |
+| asparagus         | /əˈspærəɡəs/   | /əˈspærəɡəs/   | n    |
+| green beans       | /ɡrin binz/    | /ɡriːn biːnz/  | np   |
+| pumpkin           | /ˈpʌmpkɪn/     | /ˈpʌmpkɪn/     | n    |
+| white cabbage     | /waɪt ˈkæbɪdʒ/ | /waɪt ˈkæbɪdʒ/ | n    |
+| savoy cabbage     | /səˈvɔɪ ˈkæbɪdʒ/ | /səˈvɔɪ ˈkæbɪdʒ/ | n    |
+| beetroot          | /ˈbitruːt/     | /ˈbiːtruːt/    | n    |
+| ginger            | /ˈdʒɪndʒər/    | /ˈdʒɪndʒə/    | n    |
 
 
 

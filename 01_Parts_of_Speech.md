@@ -1,3 +1,55 @@
+Here is the translation of the given words into Portuguese, English, Spanish, French, German, Valencian, and Italian:
+
+| Português | English | Spanish | French | German | Valencian | Italian |
+|-----------|---------|---------|--------|--------|-----------|---------|
+| aço | steel | acero | acier | Stahl | acer | acciaio |
+| ainda | still | aún | encore | noch | encara | ancora |
+| roubar | steal | robar | voler | stehlen | robar | rubare |
+| para | for | para | pour | für | per a | per |
+| quatro | four | cuatro | quatre | vier | quatre | quattro |
+| forte | fort | fuerte | fort | stark | fort | forte |
+| em frente | forth | adelante | en avant | vorwärts | endavant | avanti |
+| três | three | tres | trois | drei | tres | tre |
+| árvore | tree | árbol | arbre | Baum | arbre | albero |
+| afundar | sink | hundir | couler | sinken | enfonsar | affondare |
+| pensar | think | pensar | penser | denken | pensar | pensare |
+| autoritário | authoritative | autoritario | autoritaire | autoritär | autoritari | autorevole |
+| triângulo | triangle | triángulo | triangle | Dreieck | triangle | triangolo |
+| triangulação | triangulation | triangulación | triangulation | Triangulation | triangulació | triangolazione |
+| predominantemente | predominantly | predominantemente | principalement | überwiegend | predominantment | predominantemente |
+| internacionalmente | internationally | internacionalmente | internationalement | international | internacionalment | internazionalmente |
+| nacionalmente | nationally | nacionalmente | nationalement | national | nacionalment | nazionalmente |
+| internamente | internally | internamente | internement | intern | internament | internamente |
+| localmente | locally | localmente | localement | lokal | localment | localmente |
+| focar | focus (v) | enfocar | se concentrer | fokussieren | enfocar | concentrare |
+| foco | focus (n) | enfoque | focus | Fokus | focus | focus |
+| curador | curator | curador | conservateur | Kurator | conservador | curatore |
+| verificado | verified | verificado | vérifié | überprüft | verificat | verificato |
+| petrificado | petrified | petrificado | pétrifié | versteinert | petrificat | pietrificato |
+| predicado | predicate | predicado | prédicat | Prädikat | predicat | predicato |
+| escalar | escalate | escalar | escalader | eskalieren | escalar | escalare |
+| avaliar | evaluate | evaluar | évaluer | bewerten | avaluar | valutare |
+| povoar | populate | poblar | peupler | bevölkern | poblar | popolare |
+| curar | curate | curar | curer | kuratieren | curar | curare |
+| educar | educate | educar | éduquer | erziehen | educar | educare |
+| domesticar | domesticate | domesticar | domestiquer | domestizieren | domesticar | addomesticare |
+| celebrar | celebrate | celebrar | célébrer | feiern | celebrar | celebrare |
+| abreviar | abbreviate | abreviar | abréger | abkürzen | abreviar | abbreviare |
+| ativar | activate | activar | activer | aktivieren | activar | attivare |
+| adequado | adequate | adecuado | adéquat | angemessen | adequat | adeguato |
+| data do ar | airdate | fecha de emisión | date de diffusion | Sendetermin | data d'aire | data di trasmissione |
+| colega de banda | bandmate | compañero de banda | camarade de groupe | Bandkollege | company de banda | compagno di band |
+| companheiro de cama | bedmate | compañero de cama | compagnon de lit | Bettnachbar | company de llit | compagno di letto |
+| bifurcar | bifurcate | bifurcar | bifurquer | sich verzweigen | bifurcar | biforcare |
+| data de nascimento | birthdate | fecha de nacimiento | date de naissance | Geburtsdatum | data de naixement | data di nascita |
+| companheiro de beliche | bunkmate | compañero de litera | camarade de dortoir | Mitbewohner im Schlafsaal | company de llit superposat | compagno di letto a castello |
+| pão-duro | cheapskate | agarrado | radin | Geizhals | tacaño | tirchio |
+| xeque-mate | checkmate | jaque mate | échec et mat | Schachmatt | escac i mat | scacco matto |
+| coagulado | coagulated | coagulado | coagulé | geronnen | coagulat | coagulato |
+| coordenar | coordinate | coordinar | coordonner | koordinieren | coordinar | coordinare |
+| caixa | crate | caja | caisse | Kiste | caixa | cassa |
+| encontro | date | cita | rendez-vous | Verabredung | cita | appuntamento |
+
 
 | Português | English | Spanish | French | German | Valencian | Italian |
 |-----------|---------|---------|--------|--------|-----------|---------|

@@ -1,6 +1,73 @@
 
+| Português | English | Spanish | French | German | Valencian | Italian |
+|-----------|---------|---------|--------|--------|-----------|---------|
+| louro (planta) | laurel (plant) | laurel (planta) | laurier (plante) | Lorbeer (Pflanze) | llorer (planta) | alloro (pianta) |
+| longe | far | lejos | loin | weit | lluny | lontano |
+| perto | near | cerca | près | nah | a prop | vicino |
+| quintal | backyard | patio | cour | Hinterhof | pati | cortile |
+| ele é um querido, ela é uma querida | he's dear, she's dear | él es querido, ella es querida | il est cher, elle est chère | er ist lieb, sie ist lieb | ell és estimat, ella és estimada | lui è caro, lei è cara |
+| habitual | habitual | habitual | habituel | üblich | habitual | abituale |
+| pontual (evento pontual) | punctual | puntual | ponctuel | pünktlich | puntual | puntuale |
+| ficam ou vêm? | do they stay or come? | ¿se quedan o vienen? | restent-ils ou viennent-ils? | bleiben sie oder kommen sie? | queden-se o vénen? | rimangono o vengono? |
+| está a ficar careca | is getting bald | se está quedando calvo | devient chauve | wird kahl | es queda calb | sta diventando calvo |
+| aulas de ... | classes of ... | clases de ... | cours de ... | Klassen von ... | classes de ... | lezioni di ... |
+| chocado, chocada | shocked | impactado, impactada | choqué, choquée | geschockt | xocat, xocada | scioccato, scioccata |
+| peça de roupa | piece of clothing | pieza de ropa | morceau de vêtement | Kleidungsstück | peça de roba | pezzo di abbigliamento |
+| depois | after | después | après | danach | després | dopo |
+| oferecer | to offer | ofrecer | offrir | anbieten | oferir | offrire |
+| ofertar | to give as a gift | regalar | offrir en cadeau | schenken | oferir | offrire |
+| Valência | Valencia | Valencia | Valence | Valencia | València | Valencia |
+| escolher | to choose | elegir | choisir | wählen | triar | scegliere |
+| familiar | familiar | familiar | familier | vertraut | familiar | familiare |
+| pessoa | person | persona | personne | Person | persona | persona |
+| possessivo, possessiva | possessive | posesivo, posesiva | possessif, possessive | besitzergreifend | possessiu, possessiva | possessivo, possessiva |
+| graus | degrees | grados | degrés | Grad | graus | gradi |
+| eu | I | yo | je | ich | jo | io |
+| tu | you | tú | tu | du | tu | tu |
+| ela | she | ella | elle | sie | ella | lei |
+| ele | he | él | il | er | ell | lui |
+| você | you (formal) | usted | vous | Sie | vosté | Lei |
+| vocês | you all | ustedes | vous tous | Sie alle | vosaltres | voi |
+| nós | we | nosotros | nous | wir | nosaltres | noi |
+| eles, elas | they | ellos, ellas | ils, elles | sie | ells, elles | loro |
+| confiança | trust | confianza | confiance | Vertrauen | confiança | fiducia |
+| haja paciência! | have patience! | ¡ten paciencia! | aie patience ! | hab Geduld! | que hi haja paciència! | abbi pazienza! |
+| lanchar | to snack | merendar | prendre une collation | snacken | fer un entrepà | fare uno spuntino |
+| fazer | to do | hacer | faire | machen | fer | fare |
+| vou ... | I'm going to ... | voy a ... | je vais ... | ich werde ... | vaig a ... | vado a ... |
+| apahno . . . | I understand . . . | entiendo . . . | je comprends . . . | ich verstehe . . . | entenc . . . | capisco . . . |
+| faço . . . | I do . . . | hago . . . | je fais . . . | ich mache . . . | faig . . . | faccio . . . |
+| leio | I read | leo | je lis | ich lese | llig | leggo |
+| janto | I have dinner | ceno | je dîne | ich esse zu Abend | sopar | ceno |
+| deitar-se | to go to bed | acostarse | se coucher | sich hinlegen | anar-se'n a dormir | andare a letto |
+| prestável | helpful | servicial | serviable | hilfsbereit | servicial | disponibile |
+| calmo | calm | tranquilo | calme | ruhig | tranquil | calmo |
+| nervoso | nervous | nervioso | nerveux | nervös | nerviós | nervoso |
+| ingénuo | naive | ingenuo | naïf | naiv | ingenu | ingenuo |
+| pontual (ser pontual) | punctual | puntual | ponctuel | pünktlich | puntual | puntuale |
+| sandes | sandwich | sándwich | sandwich | Sandwich | entrepà | panino |
+| lentilhas | lentils | lentejas | lentilles | Linsen | llenties | lenticchie |
+| varanda | balcony | balcón | balcon | Balkon | terrassa | balcone |
+| garagem | garage | garaje | garage | Garage | garatge | garage |
+| sala de estar | living room | sala de estar | salon | Wohnzimmer | sala d'estar | soggiorno |
+| meia-manhã | mid-morning | media mañana | mi-matin | Vormittag | mig matí | mezza mattina |
+| fim de semana | weekend | fin de semana | week-end | Wochenende | cap de setmana | fine settimana |
+| adultos | adults | adultos | adultes | Erwachsene | adults | adulti |
+| crianças | children | niños | enfants | Kinder | xiquets | bambini |
+| lanche | snack | merienda | goûter | Snack | berenar | spuntino |
+| queque | muffin | magdalena | muffin | Muffin | magdalena | muffin |
+| padaria | bakery | panadería | boulangerie | Bäckerei | fleca | panetteria |
+| A padaria portuguesa | The Portuguese bakery | La panadería portuguesa | La boulangerie portugaise | Die portugiesische Bäckerei | La fleca portuguesa | La panetteria portoghese |
+| marmelada | marmalade | mermelada | marmelade | Marmelade | melmelada | marmellata |
+| aletria | aletria | aletría | aletria | Aletria | aletria | aletria |
+| grão-de-bico | chickpea | garbanzo | pois chiche | Kichererbse | cigrons | ceci |
+
+
+
+
 # PARTS OF SPEECH
-Here's the table for the provided English words:
+
+
 
 | English Word | IPA (US) | IPA (UK) | WT |
 |--------------|----------|----------|----|

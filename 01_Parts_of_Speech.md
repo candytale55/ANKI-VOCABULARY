@@ -50,6 +50,49 @@ Here is the translation of the given words into Portuguese, English, Spanish, Fr
 | caixa | crate | caja | caisse | Kiste | caixa | cassa |
 | encontro | date | cita | rendez-vous | Verabredung | cita | appuntamento |
 
+Here is the translation of the given words into Portuguese, English, Spanish, French, German, Valencian, and Italian:
+
+| Português | English | Spanish | French | German | Valencian | Italian |
+|-----------|---------|---------|--------|--------|-----------|---------|
+| debatido | debated | debatido | débattu | debattiert | debatut | dibattuto |
+| decorado | decorated | decorado | décoré | dekoriert | decorat | decorato |
+| dedicar | dedicate | dedicar | dédier | widmen | dedicar | dedicare |
+| profanado | desecrated | profanado | profané | entweiht | profanat | profanato |
+| destinado | destinate | destinado | destiné | bestimmt | destinat | destinato |
+| matriculado | matriculated | matriculado | immatriculé | immatrikuliert | matriculat | immatricolato |
+| medicado | medicated | medicado | médicamenté | mediziert | medicat | medicato |
+| superestimado | overrated | sobrevalorado | surestimé | überbewertet | sobrevalorat | sopravvalutato |
+| rural | rural | rural | rural | ländlich | rural | rurale |
+| travesso | mischievous | travieso | espiègle | schelmisch | travesser | birichino |
+| coronel | colonel | coronel | colonel | Oberst | coronel | colonnello |
+| epítome | epitome | epitome | épitome | Epitom | epitome | epitome |
+| hipérbole | hyperbole | hipérbole | hyperbole | Hyperbel | hipèrbole | iperbole |
+| nauseado | nauseous | nauseado | nauséeux | übelkeit | nauseós | nauseato |
+| sexto | sixth | sexto | sixième | sechste | sisè | sesto |
+| minucioso | thorough | minucioso | minutieux | gründlich | minució | accurato |
+| molho Worcestershire | Worcestershire sauce | salsa Worcestershire | sauce Worcestershire | Worcestershiresauce | salsa Worcestershire | salsa Worcestershire |
+| aberrante | aberrant | aberrante | aberrant | abweichend | aberrant | aberrante |
+| aceder | accede | acceder | accéder | beitreten | accedir | accedere |
+| acessório | accessory | accesorio | accessoire | Accessoire | accessoris | accessorio |
+| inflexível | adamant | inflexible | inflexible | unnachgiebig | inflexible | adamantino |
+| adumbrar | adumbrate | adumbrar | adumbrer | andeuten | adumbrar | adumbrare |
+| agorafobia | agoraphobia | agorafobia | agoraphobie | Agoraphobie | agorafòbia | agorafobia |
+| embora | albeit | aunque | bien que | obwohl | malgrat | sebbene |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 | Português | English | Spanish | French | German | Valencian | Italian |
 |-----------|---------|---------|--------|--------|-----------|---------|

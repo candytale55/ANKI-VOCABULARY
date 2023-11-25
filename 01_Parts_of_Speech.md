@@ -79,6 +79,54 @@ Here is the translation of the given words into Portuguese, English, Spanish, Fr
 | agorafobia | agoraphobia | agorafobia | agoraphobie | Agoraphobie | agorafòbia | agorafobia |
 | embora | albeit | aunque | bien que | obwohl | malgrat | sebbene |
 
+Here is the translation of the given words into Portuguese, English, Spanish, French, German, Valencian, and Italian:
+
+| Português | English | Spanish | French | German | Valencian | Italian |
+|-----------|---------|---------|--------|--------|-----------|---------|
+| alias | alias | alias | alias | Alias | àlies | alias |
+| amêndoa | almond | almendra | amande | Mandel | ametla | mandorla |
+| anátema | anathema | anatema | anathème | Anathema | anàtema | anatema |
+| anêmona | anemone | anémona | anémone | Anemone | anèmona | anemone |
+| anestesista | anesthetist | anestesista | anesthésiste | Anästhesist | anestesista | anestesista |
+| aneurisma | aneurysm | aneurisma | anévrisme | Aneurysma | aneurisma | aneurisma |
+| antártico | antarctic | antártico | antarctique | Antarktis | antàrtic | antartico |
+| antropomorfismo | anthropomorphism | antropomorfismo | anthropomorphisme | Anthropomorphismus | antropomorfisme | antropomorfismo |
+| antidisestablishmentarianism | antidisestablishmentarianism | antidisestablishmentarianism | antidisestablishmentarianisme | Antidisestablishmentarianismus | antidisestablishmentarianisme | antidisestablishmentarianismo |
+| apócrifo | apocryphal | apócrifo | apocryphe | apokryph | apòcrif | apocrifo |
+| arquétipo | archetype | arquetipo | archétype | Archetyp | arquetip | archetipo |
+| arquipélago | archipelago | archipiélago | archipel | Archipel | arxipèlag | arcipelago |
+| ascético | ascetic | ascético | ascétique | asketisch | ascètic | ascetico |
+| asterisco | asterisk | asterisco | astérisque | Asterisk | asterisc | asterisco |
+| atleta | athlete | atleta | athlète | Athlet | atleta | atleta |
+| bacteriologia | bacteriology | bacteriología | bactériologie | Bakteriologie | bacteriologia | batteriologia |
+| embair | beguile | embaucar | séduire | verführen | enganyar | ingannare |
+| blasfêmia | blasphemy | blasfemia | blasphème | Blasphemie | blasfèmia | blasfemia |
+| buquê | bouquet | ramo | bouquet | Blumenstrauß | ram | bouquet |
+| bourbon | bourbon | bourbon | bourbon | Bourbon | bourbon | bourbon |
+| cervejaria | brewery | cervecería | brasserie | Brauerei | cerveseria | birreria |
+| brócolis | broccoli | brócoli | brocoli | Brokkoli | bròquil | broccoli |
+| bóia | buoy | boyar | bouée | Boje | boia | boa |
+| burocracia | bureaucracy | burocracia | bureaucratie | Bürokratie | burocràcia | burocrazia |
+| enterrar | bury | enterrar | enterrer | begraben | enterrar | seppellire |
+| cacciatore | cacciatore | cacciatore | cacciatore | Cacciatore | caçador | cacciatore |
+| esconderijo | cache | escondite | caché | Versteck | amagatall | nascondiglio |
+| cacofonia | cacophony | cacofonía | cacophonie | Kakofonie | cacofonia | cacofonia |
+| persuadir | cajole | halagar | amadouer | schmeicheln | cajoleu | lusingare |
+| insensível | callous | insensible | insensible | gefühllos | insensible | insensibile |
+| camaradagem | camaraderie | camaradería | camaraderie | Kameradschaft | camaraderia | cameratismo |
+| candidato | candidate | candidato | candidat | Kandidat | candidat | candidato |
+| caramelo | caramel | caramelo | caramel | Karamell | caramel | caramello |
+| caricatura | caricature | caricatura | caricature | Karikatur | caricatura | caricatura |
+| cavalaria | cavalry | caballería | cavalerie | Kavallerie | cavalleria | cavalleria |
+| caos | chaos | caos | chaos | Chaos | caos | caos |
+| charcutaria | charcuterie | charcutería | charcuterie | Metzgerei | xarcuteria | salumeria |
+| chauvinismo | chauvinism | chovinismo | chauvinisme | Chauvinismus | xovinisme | chauvinismo |
+| chimpanzé | chimpanzee | chimpancé | chimpanzé | Schimpanse | ximpanzé | scimpanzé |
+| chipotle | chipotle | chipotle | chipotle | Chipotle | chipotle | chipotle |
+| coro | choir | coro | chœur | Chor | cor | coro |
+| roupas | clothes | ropa | vêtements | Kleidung | roba | vestiti |
+| cacau | cocoa | cacao | cacao | Kakao | cacau | cacao |
+
 
 
 

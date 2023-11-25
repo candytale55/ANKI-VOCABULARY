@@ -132,8 +132,248 @@ Here is the translation of the given words into Portuguese, English, Spanish, Fr
 
 
 
+Here is the translation of the given words into Portuguese, English, Spanish, French, German, Valencian, and Italian:
+
+| Português | English | Spanish | French | German | Valencian | Italian |
+|-----------|---------|---------|--------|--------|-----------|---------|
+| coloquialismo | colloquialism | coloquialismo | familiarisme | Umgangssprache | col·loquialisme | colloquialismo |
+| coronel | colonel | coronel | colonel | Oberst | coronel | colonnello |
+| confortável | comfortable | cómodo | confortable | bequem | còmode | comodo |
+| Connecticut | Connecticut | Connecticut | Connecticut | Connecticut | Connecticut | Connecticut |
+| conhecedor | connoisseur | conocedor | connaisseur | Kenner | coneixedor | conoscitore |
+| consciência | conscience | conciencia | conscience | Gewissen | consciència | coscienza |
+| golpe de Estado | coup | golpe de estado | coup d'État | Putsch | cop d'estat | colpo di Stato |
+| criptografia | cryptography | criptografía | cryptographie | Kryptographie | criptografia | crittografia |
+| rabugento | curmudgeon | cascarrabias | ronchon | Miesepeter | rabutx | brontolone |
+| cianose | cyanosis | cianosis | cyanose | Zyanose | cianosi | cianosi |
+| citologia | cytology | citología | cytologie | Zytologie | citologia | citologia |
+| dados | data | datos | données | Daten | dades | dati |
+| devassar | debauch | destruir | débaucher | ausschweifen | desbordar | dissolutore |
+| destroços | debris | escombros | débris | Trümmer | restes | detriti |
+| estreia | debut | debut | début | Debüt | debut | debutto |
+| decrepito | decrepit | decrépito | décrépit | altersschwach | decrepit | decrepito |
+| desfibrilador | defibrillator | desfibrilador | défibrillateur | Defibrillator | desfibril·lador | defibrillatore |
+| demagogo | demagogue | demagogo | démagogue | Demagoge | demagòg | demagogo |
+| dengue | dengue | dengue | dengue | Dengue-Fieber | dengue | dengue |
+| deteriorar | deteriorate | deteriorar | détériorer | verschlechtern | deteriorar | deteriorare |
+| diáfano | diaphanous | diáfano | diaphane | durchscheinend | diàfan | diafano |
+| diafragma | diaphragm | diafragma | diaphragme | Zwerchfell | diafragma | diaframma |
+| dilatar | dilate | dilatar | dilater | erweitern | dilatar | dilatare |
+| gaveta | drawer | cajón | tiroir | Schublade | calaix | cassetto |
+| elite | elite | élite | élite | Elite | elit | élite |
+
+I hope this is helpful!
 
 
+
+Here is the translation of the given words into Portuguese, English, Spanish, French, German, Valencian, and Italian:
+
+| Português | English | Spanish | French | German | Valencian | Italian |
+|-----------|---------|---------|--------|--------|-----------|---------|
+| emoliente | emollient | emoliente | émollient | Emolliens | emolient | emolliente |
+| empreendedor | entrepreneur | emprendedor | entrepreneur | Unternehmer | emprenedor | imprenditore |
+| efêmero | ephemeral | efímero | éphémère | ephemär | efímer | effimero |
+| epistemologia | epistemology | epistemología | épistémologie | Epistemologie | epistemologia | epistemologia |
+| epitome | epitome | epitome | épitomé | Epitom | epitome | epitome |
+| equanimidade | equanimity | ecuanimidad | équanimité | Gelassenheit | equanimitat | equanimità |
+| equívoco | equivocal | equívoco | équivoque | zweideutig | equívoc | equivoco |
+| erináceo | erinaceous | erináceo | érinacé | igelartig | erinaci | erinaceo |
+| esposar | espouse | esposar | épouser | heiraten | esposar | sposare |
+| espresso | espresso | espresso | expresso | Espresso | expresso | espresso |
+| etcetera | etcetera | etcétera | etcetera | etcetera | etcètera | eccetera |
+| elogio fúnebre | eulogy | elogio fúnebre | éloge funèbre | Lobpreisung | elogi fúnebre | elogio funebre |
+| euouae | euouae | euouae | euouae | euouae | euouae | euouae |
+| eutanásia | euthanasia | eutanasia | euthanasie | Euthanasie | eutanàsia | eutanasia |
+| expatiar | expatiate | explayarse | s'étendre | ausweiten | explicar | espatriare |
+| fatuo | fatuous | fatuo | fatueux | töricht | fatu | fatuo |
+| faux pas | faux pas | faux pas | faux pas | faux pas | faux pas | faux pas |
+| fevereiro | February | febrero | février | Februar | febrer | febbraio |
+| filme | film | película | film | Film | film | film |
+| fiscal | fiscal | fiscal | fiscal | fiskalisch | fiscal | fiscale |
+| floccinaucinihilipilificação | floccinaucinihilipilification | floccinaucinihilipilificación | floccinaucinihilipilification | floccinaucinihilipilifikation | floccinaucinihilipil·lificació | floccinaucinihilipilificazione |
+| folhagem | foliage | follaje | feuillage | Laubwerk | fullatge | fogliame |
+| foyer | foyer | vestíbulo | foyer | Foyer | foyer | foyer |
+| fúcsia | fuchsia | fucsia | fuchsia | Fuchsie | fúcsia | fucsia |
+| calibre | gauge | calibre | calibre | Kaliber | calibre | calibro |
+| gênero | genre | género | genre | Genre | gènere | genere |
+| linguagem ininteligível | gibberish | gibrish | charabia | Kauderwelsch | galimaties | gergo |
+
+Here is the translation of the given words into Portuguese, English, Spanish, French, German, Valencian, and Italian:
+
+| Português | English | Spanish | French | German | Valencian | Italian |
+|-----------|---------|---------|--------|--------|-----------|---------|
+| gif | gif | gif | gif | gif | gif | gif |
+| gourmet | gourmet | gourmet | gourmet | Gourmet | gourmet | gourmet |
+| grandiloquente | grandiloquent | grandilocuente | grandiloquent | grandios | grandiloqüent | grandiloquente |
+| hegemonia | hegemony | hegemonía | hégémonie | Hegemonie | hegemonia | egemonia |
+| hediondo | heinous | horrendo | odieux | abscheulich | hiniós | nefando |
+| herdeiro | heir | heredero | héritier | Erbe | hereu | erede |
+| erva | herb | hierba | herbe | Kraut | herba | erba |
+| heresia | heresy | herejía | hérésie | Häresie | heregia | eresia |
+| hérnia | hernia | hernia | hernie | Hernie | hèrnia | ernia |
+| hierarquia | hierarchy | jerarquía | hiérarchie | Hierarchie | jerarquia | gerarchia |
+| hors d'oeuvres | hors d'oeuvres | entradas | hors d'oeuvre | Vorspeisen | hors d'oeuvres | antipasti |
+| ignominioso | ignominious | ignominioso | ignominieux | schmachvoll | ignominiós | ignominioso |
+| Illinois | Illinois | Illinois | Illinois | Illinois | Illinois | Illinois |
+| incoato | inchoate | incoado | inchoatif | inchoat | incoat | incoato |
+| infame | infamous | infame | infâme | berüchtigt | infam | infame |
+| engenhosidade | ingenuity | ingeniosidad | ingéniosité | Genialität | enginy | ingegno |
+| interpretar | interpret | interpretar | interpréter | interpretieren | interpretar | interpretare |
+| isquemia | ischaemia | isquemia | ischémie | Ischämie | isquèmia | ischemia |
+| ilha | island | isla | île | Insel | illa | isola |
+| istmo | isthmus | istmo | isthme | Isthmus | istme | istmo |
+| itinerário | itinerary | itinerario | itinéraire | Reiseroute | itinerari | itinerario |
+| jalapeño | jalapeño | jalapeño | jalapeño | Jalapeño | jalapeño | jalapeño |
+| icterícia | jaundice | ictericia | ictère | Gelbsucht | icterícia | itterizia |
+| joia | jewelry | joyería | bijoux | Schmuck | joieria | gioielli |
+| jurado | juror | jurado | juré | Geschworener | jurat | giurato |
+| caleidoscópico | kaleidoscopic | caleidoscópico | kaléidoscopique | kaleidoskopisch | calidoscòpic | caleidoscopico |
+
+I hope this is helpful!
+
+Here is the translation of the given words into Portuguese, English, Spanish, French, German, Valencian, and Italian:
+
+| Português | English | Spanish | French | German | Valencian | Italian |
+|-----------|---------|---------|--------|--------|-----------|---------|
+| amassar | knead | amasar | pétrir | kneten | moldre | impastare |
+| joelho | knee | rodilla | genou | Knie | genoll | ginocchio |
+| dobrar | knell | doblar | sonner | läuten | doblar | suonare a morto |
+| desleixado | lackadaisical | apático | désinvolte | gleichgültig | desganat | svogliato |
+| Leicester Square | Leicester Square | Leicester Square | Leicester Square | Leicester Square | Leicester Square | Leicester Square |
+| responsável | liable | responsable | responsable | haftbar | responsable | responsabile |
+| ligação | liaison | enlace | liaison | Verbindung | enllaç | collegamento |
+| biblioteca | library | biblioteca | bibliothèque | Bibliothek | biblioteca | biblioteca |
+| licencioso | licentious | licencioso | licencieux | zügellos | llicenciós | licenzioso |
+| lingerie | lingerie | lencería | lingerie | Dessous | roba interior | biancheria intima |
+| redemoinho | maelstrom | remolino | maelström | Mahlstrom | maelstrom | maelstrom |
+| Massachusetts | Massachusetts | Massachusetts | Massachusetts | Massachusetts | Massachusetts | Massachusetts |
+| mastectomia | mastectomy | mastectomía | mastectomie | Mastektomie | mastectomia | mastectomia |
+| malva | mauve | malva | mauve | Malve | malva | malva |
+| medieval | medieval | medieval | médiéval | mittelalterlich | medieval | medievale |
+| meme | meme | meme | mème | Meme | meme | meme |
+| metamorfose | metamorphosis | metamorfosis | métamorphose | Metamorphose | metamorfosi | metamorfosi |
+| miniatura | miniature | miniatura | miniature | Miniatur | miniatura | miniatura |
+| travesso | mischievous | travieso | espiègle | schelmisch | travesset | birichino |
+| misógino | misogynist | misógino | misogyne | misogyn | misògin | misogino |
+| monge | monk | monje | moine | Mönch | monjo | monaco |
+| discutível | moot | discutible | discutable | umstritten | moot | controverso |
+| músculo | muscle | músculo | muscle | Muskel | múscul | muscolo |
+| bigode | mustache | bigote | moustache | Schnurrbart | bigot | baffi |
+| nadir | nadir | nadir | nadir | Nadir | nadir | nadir |
+| narcisista | narcissistic | narcisista | narcissique | narzisstisch | narcisista | narcisista |
+
+I hope this is helpful!
+
+Here is the translation of the given words into Portuguese, English, Spanish, French, German, Valencian, and Italian:
+
+| Português | English | Spanish | French | German | Valencian | Italian |
+|-----------|---------|---------|--------|--------|-----------|---------|
+| neófito | neophyte | neófito | néophyte | Neuling | neòfit | neofita |
+| nicho | niche | nicho | niche | Nische | niu | nicchia |
+| niilismo | nihilism | nihilismo | nihilisme | Nihilismus | nihilisme | nichilismo |
+| nocivo | noisome | perjudicial | nocif | schädlich | nocivo | nocivo |
+| nuclear | nuclear | nuclear | nucléaire | nuklear | nuclear | nucleare |
+| nupcial | nuptial | nupcial | nuptial | nuptial | nupcial | nuziale |
+| obdurate | obdurate | obcecado | obtus | hartnäckig | obdurat | ostinato |
+| ocasião | occasion | ocasión | occasion | Gelegenheit | ocasió | occasione |
+| frequentemente | often | a menudo | souvent | oft | sovint | spesso |
+| oligarquia | oligarchy | oligarquía | oligarchie | Oligarchie | oligarquia | oligarchia |
+| onomatopeia | onomatopoeia | onomatopeya | onomatopée | Onomatopöie | onomatopeia | onomatopea |
+| oftalmologia | ophthalmology | oftalmología | ophtalmologie | Augenheilkunde | oftalmologia | oftalmologia |
+| ordenança | ordinance | ordenanza | ordonnance | Verordnung | ordenança | ordinanza |
+| otorrinolaringologia | otorhinolaryngology | otorrinolaringología | oto-rhino-laryngologie | Hals-Nasen-Ohren-Heilkunde | otorinolaringologia | otorinolaringoiatria |
+| panaceia | panacea | panacea | panacée | Panazee | panàcia | panacea |
+| paradigma | paradigm | paradigma | paradigme | Paradigma | paradigma | paradigma |
+| pauciloquio | pauciloquy | pauciloquio | pauciloquie | Pauciloquie | paucilòquia | pauciloquia |
+| pejorativo | pejorative | peyorativo | péjoratif | abwertend | pejoratiu | dispregiativo |
+| pinguim | penguin | pingüino | manchot | Pinguin | pingüí | pinguino |
+| peremptório | peremptory | perentorio | péremptoire | rechthaberisch | peremptori | perentorio |
+| fenômeno | phenomenon | fenómeno | phénomène | Phänomen | fenomen | fenomeno |
+| fleuma | phlegm | flema | flegme | Phlegma | flegma | flemma |
+| fleumático | phlegmatic | fleumático | flegmatique | phlegmatisch | flegmàtic | flemmatico |
+| imagem | picture | imagen | image | Bild | imatge | immagine |
+| pizza | pizza | pizza | pizza | Pizza | pizza | pizza |
+| encanador | plumber | fontanero | plombier | Klempner | fontaner | idraulico |
+| pneumatologia | pneumatology | neumatología | pneumatologie | Pneumatologie | neumatologia | pneumatologia |
+| pneumonia | pneumonia | neumonía | pneumonie | Lungenentzündung | pneumònia | polmonite |
+| prelúdio | prelude | preludio | prélude | Vorspiel | preludi | preludio |
+| prerrogativa | prerogative | prerrogativa | prérogative | Privileg | prerrogativa | prerogativa |
+| prescrição | prescription | prescripción | prescription | Rezept | prescripció | prescrizione |
+| prevaricar | prevaricate | prevaricar | prévariquer | prevarizare | prevaricar | prevaricare |
+| provavelmente | probably | probablemente | probablement | wahrscheinlich | probablement | probabilmente |
+| pronúncia | pronunciation | pronunciación | prononciation | Aussprache | pronunciació | pronuncia |
+| prostrar-se | prostrate | postrarse | se prosterner | niederwerfen | prosternar-se | prostrarsi |
+| pseudônimo | pseudonym | seudónimo | pseudonyme | Pseudonym | pseudònim | pseudonimo |
+| pueril | puerile | pueril | puéril | kindisch | pueril | puerile |
+| beleza | pulchritude | belleza | beauté | Schönheit | bellesa | bellezza |
+| atoleiro | quagmire | lodazal | bourbier | Sumpf | estanc | pantano |
+| cais | quay | muelle | quai | Kai | moll | banchina |
+| fila | queue | cola | file | Schlange | cua | coda |
+
+
+
+Here is the translation of the given words into Portuguese, English, Spanish, French, German, Valencian, and Italian:
+
+| Português | English | Spanish | French | German | Valencian | Italian |
+|-----------|---------|---------|--------|--------|-----------|---------|
+| quiche | quiche | quiche | quiche | Quiche | quiche | quiche |
+| quinoa | quinoa | quinoa | quinoa | Quinoa | quinoa | quinoa |
+| quintessencial | quintessential | quintesencial | quintessentiel | wesentlich | quintessencial | quintessenziale |
+| peculiar | quirky | peculiar | singulier | eigentümlich | peculiar | stravagante |
+| quixotesco | quixotic | quijotesco | quixotique | quixotisch | quixot | chisciotte |
+| quotidiano | quotidian | cotidiano | quotidien | alltäglich | quotidià | quotidiano |
+| guaxinim | raccoon | mapache | raton laveur | Waschbär | guatxinet | procione |
+| framboesa | raspberry | frambuesa | framboise | Himbeere | nabiu | lampone |
+| recibo | receipt | recibo | reçu | Quittung | rebuda | ricevuta |
+| regime | regime | régimen | régime | Regime | règim | regime |
+| remuneração | remuneration | remuneración | rémunération | Entlohnung | remuneració | remunerazione |
+| encontro | rendezvous | encuentro | rendez-vous | Rendezvous | trobada | appuntamento |
+| restaurateur | restaurateur | restaurador | restaurateur | Restaurateur | restaurador | ristoratore |
+| ritmo | rhythm | ritmo | rythme | Rhythmus | ritme | ritmo |
+| salmão | salmon | salmón | saumon | Lachs | salmó | salmone |
+| sanguíneo | sanguine | sanguíneo | sanguin | sanguinisch | sanguini | sanguigno |
+| escápula | scapula | escápula | scapula | Schulterblatt | escàpula | scapola |
+| schadenfreude | schadenfreude | schadenfreude | schadenfreude | Schadenfreude | schadenfreude | schadenfreude |
+| agenda | schedule | horario | emploi du temps | Zeitplan | horari | programma |
+| tesoura | scissors | tijeras | ciseaux | Schere | tisores | forbici |
+| sesquipedaliano | sesquipedalian | sesquipedaliano | sésquiplédalien | sesquipedalisch | sesquipedali | sesquipedale |
+| sorvete | sherbet | sorbete | sorbet | Sorbet | xerbet | sorbetto |
+| silício | silicon | silicio | silicium | Silizium | silici | silicio |
+| especificável | specifiable | especificable | spécifiable | spezifizierbar | especificable | specificabile |
+| específico | specific | específico | spécifique | spezifisch | específic | specifico |
+| esfigmomanômetro | sphygmomanometer | esfigmomanómetro | sphygmomanomètre | Blutdruckmessgerät | esfigmomanòmetre | sfigmomanometro |
+| esquilo | squirrel | ardilla | écureuil | Eichhörnchen | esquirol | scoiattolo |
+| status | status | estatus | statut | Status | estatus | stato |
+| estultilóquio | stultiloquence | estulticia | stultiloquence | Stultiloquium | estultiloqüència | stultiloquio |
+| sutil | subtle | sutil | subtil | subtil | subtil | sottile |
+| suíte | suite | suite | suite | Suite | suite | suite |
+| supercalifragilisticexpialidocious | supercalifragilisticexpialidocious | supercalifragilisticexpialidocious | supercalifragilisticexpialidocious | Supercalifragilisticexpialidocious | supercalifragilisticexpialidocious | supercalifragilisticexpialidocious |
+| excesso | surfeit | exceso | excès | Überfluss | excess | eccesso |
+| silogismo | syllogism | silogismo | syllogisme | Syllogismus | sil·logisme | sillogismo |
+| sinecdoque | synecdoche | sinécdoque | synecdoque | Synecdoche | sinècdoca | sinecdoche |
+| sinergia | synergy | sinergia | synergie | Synergie | sinèrgia | sinergia |
+| tautologia | tautology | tautología | tautologie | Tautologie | tautologia | tautologia |
+| temperatura | temperature | temperatura | température | Temperatur | temperatura | temperatura |
+| cócegas | ticklish | cosquillas | chatouilleux | kitzelig | cosquillos | solletico |
+| timbre | timbre | timbre | timbre | Timbre | timbre | timbro |
+| triatlo | triathlon | triatlón | triathlon | Triathlon | triatló | triathlon |
+| triscaidecafobia | triskaidekaphobia | triscaidecafobia | triskaïdékaphobie | Triskaidekaphobie | triscaidecafòbia | triscaidecafobia |
+| truculento | truculent | truculento | truculent | truculent | truculent | truculento |
+| onipresente | ubiquitous | ubicuo | ubiquiste | allgegenwärtig | ubiq | ubiquo |
+| valete | valet | vale | valet | Kavalier | valet | valletto |
+| veículo | vehicle | vehículo | véhicule | Fahrzeug | vehicle | veicolo |
+| ventríloquo | ventriloquist | ventrílocuo | ventriloque | Bauchredner | ventríloc | ventriloquo |
+| vicissitude | vicissitude | vicisitud | vicissitude | Wechselfälle | vicissitud | vicissitudine |
+| visceral | visceral | visceral | viscéral | viszeral | visceral | viscerale |
+| quarta-feira | Wednesday | miércoles | mercredi | Mittwoch | dimecres | mercoledì |
+| chicote | whiplash | latigazo | coup de fouet | Peitschenhieb | cop de fuet | frustata |
+| invernal | wintry | invernal | hivernal | winterlich | hivernal | invernale |
+| glicínia | wisteria | glicinia | glycine | Glyzinie | glicínia | glicine |
+| molho inglês | Worcestershire | Worcestershire | Worcestershire | Worcestershire | Worcestershire | Worcestershire |
+| gema | yolk | yema | jaune d'œuf | Eigelb | rovell | tuorlo |
+| zéfiro | zephyr | céfiro | zéphyr | Zephyr | zèfir | zefiro |
+| abobrinha | zucchini | calabacín | courgette | Zucchini | carabassó | zucchina |
+| nascimento | birth | nacimiento | naissance | Geburt | naiximent | nascita |
 
 
 

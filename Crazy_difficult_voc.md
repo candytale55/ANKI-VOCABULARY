@@ -1,4 +1,56 @@
-
+| No. | Portuguese word | Portuguese noun with article | IPA (PT) | IPA (BR) | Type of Word |
+|-----|------------------|----------------------------|----------|----------|--------------|
+| 9606 | arquipélago | o arquipélago | /ɐɾ.ki.pɛ.ˈla.ɡu/ | /aʁ.ki.pɛ.ˈla.ɡu/ | sm |
+| 9608 | asterisco | o asterisco | /ɐʃ.tɛ.ˈɾiʃ.ku/ | /as.te.ˈɾis.ku/ | sm |
+| 9609 | atleta | o atleta | /ɐt.ˈlɛ.tɐ/ | /a.ˈtle.tɐ/ | sm/f |
+| 9610 | bacteriologia | a bacteriologia | /bɐk.tɨ.ɾi.o.lo.ˈʒi.ɐ/ | /bɐk.tɛ.ɾjo.lo.ˈʒi.ɐ/ | sf |
+| 9612 | blasfêmia | a blasfêmia | /blɐʃ.ˈfe.mi.ɐ/ | /blas.ˈfe.mi.ɐ/ | sf |
+| 9613 | buquê | o buquê | /bu.ˈkɛ/ | /bu.ˈke/ | sm |
+| 9614 | bourbon | o bourbon | /ˈbuɾ.bõ/ | /boʁ.ˈbõ/ | sm |
+| 9615 | cervejaria | a cervejaria | /sɛɾ.vɛ.ʒɐ.ˈɾi.ɐ/ | /seʁ.ve.ʒa.ˈɾi.ɐ/ | sf |
+| 9616 | brócolis | o brócolis | /ˈbɾɔ.ku.liʃ/ | /ˈbɾɔ.ko.lis/ | sm |
+| 9617 | bóia | a bóia | /ˈbɔj.ɐ/ | /ˈbɔj.ɐ/ | sf |
+| 9618 | burocracia | a burocracia | /bu.ɾu.ˈkɾa.si.ɐ/ | /bu.ɾo.ˈkɾa.si.ɐ/ | sf |
+| 9620 | cacciatore | o cacciatore | /ka.ʧa.ˈto.ɾi/ | /ka.ʧa.ˈto.ɾi/ | sm |
+| 9621 | esconderijo | o esconderijo | /ɨʃ.kõ.dɨ.ˈʒi.ʒu/ | /is.kõ.dɛ.ˈʒi.ʒu/ | sm |
+| 9622 | cacofonia | a cacofonia | /kɐ.ku.ˈfo.ni.ɐ/ | /ka.ko.ˈfo.ni.ɐ/ | sf |
+| 9625 | camaradagem | a camaradagem | /kɐ.mɐ.ɾɐ.ˈda.ʒẽj̃/ | /ka.ma.ɾa.ˈda.ʒẽj̃/ | sf |
+| 9626 | candidato | o candidato | /kɐ̃.di.ˈda.tu/ | /kɐ̃.di.ˈda.tu/ | sm |
+| 9627 | caramelo | o caramelo | /kɐ.ɾɐ.ˈmɛ.lu/ | /ka.ɾa.ˈmɛ.lu/ | sm |
+| 9628 | caricatura | a caricatura | /kɐ.ɾi.ka.ˈtu.ɾɐ/ | /ka.ɾi.ka.ˈtu.ɾɐ/ | sf |
+| 9629 | cavalaria | a cavalaria | /kɐ.vɐ.lɐ.ˈɾi.ɐ/ | /ka.va.la.ˈɾi.ɐ/ | sf |
+| 9630 | caos | o caos | /ˈkawʃ/ | /ˈkawʃ/ | sm |
+| 9631 | charcutaria | a charcutaria | /ʃaɾ.ku.tɐ.ˈɾi.ɐ/ | /ʃaʁ.ku.ta.ˈɾi.ɐ/ | sf |
+| 9632 | chauvinismo | o chauvinismo | /ʃɐw.vi.ˈniʒ.mu/ | /ʃo.vi.ˈniʒ.mu/ | sm |
+| 9633 | chimpanzé | o chimpanzé | /ʃĩ.pɐ̃.ˈzɛ/ | /ʃĩ.pɐ̃.ˈze/ | sm |
+| 9634 | chipotle | o chipotle | /ʃi.ˈpo.tɨ.li/ | /ʃi.ˈpo.tɨ.li/ | sm |
+| 9635 | coro | o coro | /ˈko.ɾu/ | /ˈko.ɾu/ | sm |
+| 9636 | roupas | as roupas | /ˈʁo.w̃.pɐʃ/ | /ˈʁo.upɐʃ/ | sfp |
+| 9637 | cacau | o cacau | /kɐ.ˈkaw/ | /ka.ˈkaw/ | sm |
+| 9638 | coloquialismo | o coloquialismo | /ku.lu.ki.a.ˈliʒ.mu/ | /ko.lo.ki.a.ˈliʒ.mu/ | sm |
+| 9639 | coronel | o coronel | /ko.ɾu.ˈnɛl/ | /ko.ɾu.ˈnɛw̃/ | sm |
+| 9641 | Connecticut | o Connecticut | /kõ.ˈnɛ.ˌtɪ.kət/ | /ko.ˈnɛ.tɪ.kət/ | sm |
+| 9642 | conhecedor | o conhecedor | /ko.ɲɨ.ˈse.duɾ/ | /ko.ɲe.ˈse.doɾ/ | sm |
+| 9643 | consciência | a consciência | /kõʃ.ˈsjẽ.si.ɐ/ | /kõʃ.ˈsjẽ.si.ɐ/ | sf |
+| 9644 | golpe de Estado | o golpe de Estado | /ˈɡɔɫ.pɨ dɨ iʃ.tɐ.ˈdu/ | /ˈɡɔw̃.pɨ dɨ iʃ.tɐ.ˈdu/ | sm |
+| 9645 | criptografia | a criptografia | /kɾip.to.ɡɾɐ.ˈfi.ɐ/ | /kɾip.to.ɡɾa.ˈfi.ɐ/ | sf |
+| 9646 | rabugento | o rabugento | /ʁɐ.bu.ˈʒẽ.tu/ | /ʁa.bu.ˈʒẽ.tu/ | sm |
+| 9647 | cianose | a cianose | /si.ɐ.ˈno.zɨ/ | /si.ɐ.ˈno.zi/ | sf |
+| 9648 | citologia | a citologia | /si.to.lo.ˈʒi.ɐ/ | /si.to.lo.ˈʒi.ɐ/ | sf |
+| 9649 | dados | os dados | /ˈda.duʃ/ | /ˈda.dus/ | smp |
+| 9651 | destroços | os destroços | /dɨʃ.ˈtɾɔ.suʃ/ | /dɨʃ.ˈtɾɔ.sus/ | smp |
+| 9652 | estreia | a estreia | /iʃ.ˈtɾɐ.jɐ/ | /is.ˈtɾɐ.jɐ/ | sf |
+| 9654 | desfibrilador | o desfibrilador | /dɨʃ.fi.bɾi.lɐ.ˈdoɾ/ | /dɨʃ.fi.bɾi.lɐ.ˈdoɾ/ | sm |
+| 9655 | demagogo | o demagogo | /dɨ.ˈma.ɡɔ.ɡu/ | /dɨ.ˈma.ɡɔ.ɡu/ | sm |
+| 9656 | dengue | a dengue | /ˈdẽ.ɡi/ | /ˈdẽ.ɡi/ | sf |
+| 9659 | diafragma | o diafragma | /di.ɐ.ˈfɾɐɡ.mu/ | /di.ɐ.ˈfɾɐɡ.mu/ | sm |
+| 9661 | gaveta | a gaveta | /ɡɐ.ˈve.tɐ/ | /ɡɐ.ˈve.tɐ/ | sf |
+| 9662 | elite | a elite | /ɨ.ˈlit/ | /i.ˈlit/ | sf |
+| 9664 | empreendedor | o empreendedor | /ɐ̃.pɾɨ.ɐ̃.dʊɾ/ | /ɐ̃.pɾɨ.ɐ̃.dɔɾ/ | sm |
+| 9666 | epistemologia | a epistemologia | /ɛ.pis.tɨ.mo.lo.ˈʒi.ɐ/ | /e.piʃ.tɛ.mo.lo.ˈʒi.ɐ/ | sf |
+| 9667 | epitome | o epitome | /e.pi.ˈto.mi/ | /e.pi.ˈto.mi/ | sm |
+| 9668 | equanimidade | a equanimidade | /ɨ.kwɐ.ni.mi.ˈdad/ | /e.kwa.ni.mi.ˈdadʒi/ | sf |
+| 9672 | espresso | o espresso | /ɛ.sˈpɾɛ.su/ | /es.ˈpɾɛ.su/ | sm |
 
 
 

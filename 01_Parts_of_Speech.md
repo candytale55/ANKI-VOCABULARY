@@ -1,3 +1,14 @@
+Here is the translation of the provided words in a markdown table:
+
+| Português | English | Spanish | French | German | Valencian | Italian |
+|-----------|---------|---------|--------|--------|-----------|---------|
+| ichoate | ichoate | ichoate | ichoate | ichoate | ichoate | ichoate |
+| parataxis | parataxis | parataxis | parataxe | Parataxe | parataxis | paratassi |
+| periphrastic | periphrastic | perifrástico | périphrastique | periphrastisch | perifrástic | perifrastico |
+| tautology | tautology | tautología | tautologie | Tautologie | tautologia | tautologia |
+| intent | intent | intención | intention | Absicht | intenció | intento |
+| intervals | intervals | intervalos | intervalles | Intervalle | intervals | intervalli |
+| smooth | smooth | suave | lisse | glatt | suau | liscio |
 
 | Português | English | Spanish | French | German | Valencian | Italian |
 |-----------|---------|---------|--------|--------|-----------|---------|

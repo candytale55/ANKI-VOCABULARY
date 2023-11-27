@@ -1,5 +1,52 @@
 | No. | Portuguese word | Portuguese noun with article | IPA (PT) | IPA (BR) | Type of Word |
 |-----|------------------|----------------------------|----------|----------|--------------|
+| 9674 | elogio fúnebre | o elogio fúnebre | /e.ˈlo.ʒju fu.ˈnɛ.bɾi/ | /e.ˈlo.ʒju fu.ˈnɛ.bɾi/ | sm |
+| 9675 | euouae |            | /eu.uˈwe/ | /eu.uˈwe/ | int |
+| 9676 | eutanásia | a eutanásia | /eu.ta.ˈna.zi.ɐ/ | /ew.ta.ˈna.zi.ɐ/ | sf |
+| 9679 | faux pas | o faux pas | /fo.pa/ | /fo.pa/ | sm |
+| 9680 | fevereiro | o fevereiro | /fe.vɨ.ɾɐˈjɾu/ | /fe.ve.ˈɾɛ.jɾu/ | sm |
+| 9681 | filme | o filme | /ˈfiɫ.mɨ/ | /ˈfiɫ.mi/ | sm |
+| 9683 | floccinaucinihilipilificação | a floccinaucinihilipilificação | /flok.si.naw.si.ni.i.li.pi.li.fi.ka.sɐ̃w̃/ | /flok.si.naw.si.ni.i.li.pi.li.fi.ka.sɐ̃.ɲaw̃/ | sf |
+| 9684 | folhagem | a folhagem | /fo.ˈʎa.ʒẽj̃/ | /fo.ˈʎa.ʒẽj̃/ | sf |
+| 9685 | foyer | o foyer | /fo.ˈʒɛɾ/ | /fo.ˈʒɛɾ/ | sm |
+| 9686 | fúcsia | a fúcsia | /ˈfus.jɐ/ | /ˈfus.jɐ/ | sf |
+| 9687 | calibre | o calibre | /kɐ.li.ˈbɾɨ/ | /ka.li.ˈbɾe/ | sm |
+| 9688 | gênero | o gênero | /ˈʒɛ.nɐ.ɾu/ | /ˈʒɛ.nɛ.ɾu/ | sm |
+| 9689 | linguagem ininteligível | a linguagem ininteligível | /li.ŋwɐ.ˈʒẽj̃ i.nĩ.tɨ.li.ʒɛ.ˈvɛɫ/ | /li.ŋwa.ˈʒẽj̃ i.nĩ.ti.ʒi.ˈvɛw̃/ | sfp |
+| 9690 | gif | o gif | /ʒif/ | /ʒif/ | sm |
+| 9693 | hegemonia | a hegemonia | /e.ɡɨ.ˈmɔ.ni.ɐ/ | /e.ʒɨ.ˈmɔ.ni.ɐ/ | sf |
+| 9695 | herdeiro | o herdeiro | /eɾ.ˈde.jɾu/ | /eɾ.ˈde.jɾu/ | sm |
+| 9696 | erva | a erva | /ˈɛɾ.vɐ/ | /ˈɛɾ.vɐ/ | sf |
+| 9697 | heresia | a heresia | /hɨ.ˈɾɛ.zi.ɐ/ | /e.ˈɾɛ.zi.ɐ/ | sf |
+| 9698 | hérnia | a hérnia | /ˈɛɾ.ni.ɐ/ | /ˈɛɾ.ni.ɐ/ | sf |
+| 9699 | hierarquia | a hierarquia | /i.ɨ.ɾaɾ.ˈki.ɐ/ | /i.ɛ.ɾaɾ.ˈki.ɐ/ | sf |
+| 9700 | hors d'oeuvres | os hors d'oeuvres | /ɔʁ dœvʁ/ | /ɔʁ dœvʁ/ | smp |
+| 9702 | Illinois | o Illinois | /i.li.ˈnɔj/ | /i.li.ˈnɔj/ | sm |
+| 9705 | engenhosidade | a engenhosidade | /ẽ.ʒɨ.ɲu.si.ˈdad/ | /ẽ.ʒɛ.ɲɔ.si.ˈdadʒi/ | sf |
+| 9707 | isquemia | a isquemia | /iʃ.ˈkɛ.mi.ɐ/ | /is.ˈkɛ.mi.ɐ/ | sf |
+| 9708 | ilha | a ilha | /ˈi.ʎɐ/ | /ˈi.ʎɐ/ | sf |
+| 9709 | istmo | o istmo | /ˈiʃ.tmu/ | /ˈist.mu/ | sm |
+| 9710 | itinerário | o itinerário | /i.ti.nɨ.ˈɾa.ɾi.u/ | /i.ti.nɛ.ˈɾa.ɾi.u/ | sm |
+| 9711 | jalapeño | o jalapeño | /ʒa.la.ˈpe.ɲu/ | /ʒa.la.ˈpe.ɲu/ | sm |
+| 9712 | icterícia | a icterícia | /iʃ.tɨ.ˈɾi.si.ɐ/ | /iʃ.tɛ.ˈɾi.si.ɐ/ | sf |
+| 9713 | joia | a joia | /ˈʒɔ.i.ɐ/ | /ˈʒɔ.i.ɐ/ | sf |
+| 9714 | jurado | o jurado | /ʒu.ˈɾa.ðu/ | /ʒu.ˈɾa.du/ | sm |
+| 9717 | joelho | o joelho | /ˈʒɔ.ɛ.ʎu/ | /ˈʒɔ.ɛ.ʎu/ | sm |
+| 9718 | dobrar | o dobrar | /du.ˈbɾaɾ/ | /du.ˈbɾaɾ/ | sm |
+| 9720 | Leicester Square | o Leicester Square | /ˈlɛs.tɨ.ʃɛr skwɛɹ/ | /ˈlɛs.tɨ.ʃɛr skwɛɹ/ | sm |
+| 9722 | ligação | a ligação | /li.ɡɐ.ˈsɐ̃w̃/ | /li.ɡɐ.ˈzɐ̃w̃/ | sf |
+| 9723 | biblioteca | a biblioteca | /bi.bli.ɔ.ˈtɛ.kɐ/ | /bi.bli.o.ˈtɛ.kɐ/ | sf |
+| 9725 | lingerie | a lingerie | /lɐ̃.ʒɨ.ˈɾi/ | /lɐ̃.ʒɛ.ˈɾi/ | sf |
+| 9726 | redemoinho | o redemoinho | /ʁɨ.ðɨ.ˈmwe.ɲu/ | /ʁɨ.ðɨ.ˈmwe.ɲu/ | sm |
+| 9727 | Massachusetts | o Massachusetts | /məˈsætʃuːsɪts/ | /masəˈtʃuːsɪts/ | sm |
+
+
+
+
+
+
+| No. | Portuguese word | Portuguese noun with article | IPA (PT) | IPA (BR) | Type of Word |
+|-----|------------------|----------------------------|----------|----------|--------------|
 | 9606 | arquipélago | o arquipélago | /ɐɾ.ki.pɛ.ˈla.ɡu/ | /aʁ.ki.pɛ.ˈla.ɡu/ | sm |
 | 9608 | asterisco | o asterisco | /ɐʃ.tɛ.ˈɾiʃ.ku/ | /as.te.ˈɾis.ku/ | sm |
 | 9609 | atleta | o atleta | /ɐt.ˈlɛ.tɐ/ | /a.ˈtle.tɐ/ | sm/f |

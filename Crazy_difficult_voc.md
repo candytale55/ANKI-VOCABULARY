@@ -51,3 +51,57 @@
 | 9776 | prostrar-se | o prostrar-se | /pɾus.ˈtaɾ sɨ/ | /pɾus.ˈtaʁ sɪ/ | v |
 | 9778 | pueril | o pueril | /pu.ˈɛ.ɾiɫ/ | /pu.ˈɛ.ɾiɫ/ | adj m |
 | 9785 | quintessencial | o quintessencial | /kĩ.tɨ.sɐ̃.siˈaɫ/ | /kĩ.tɨ.sɐ̃.si.ˈaɫ/ | adj m |
+
+
+
+Here is the translation in a Markdown table:
+
+| Português | English | Spanish | French | German | Valencian | Italian |
+|-----------|---------|---------|--------|--------|-----------|---------|
+| arquipélago | archipelago | archipiélago | archipel | Archipel | arxipèlag | arcipelago |
+| asterisco | asterisk | asterisco | astérisque | Asterisk | asterisc | asterisco |
+| atleta | athlete | atleta | athlète | Athlet | atleta | atleta |
+| bacteriologia | bacteriology | bacteriología | bactériologie | Bakteriologie | bacteriologia | batteriologia |
+| blasfêmia | blasphemy | blasfemia | blasphème | Blasphemie | blasfèmia | blasfemia |
+| buquê | bouquet | ramo, ramillete | bouquet | Blumenstrauß | ram | bouquet |
+| bourbon | bourbon | bourbon | bourbon | Bourbon | bourbon | bourbon |
+| cervejaria | brewery | cervecería | brasserie | Brauerei | cerveseria | birreria |
+| brócolis | broccoli | brócoli | brocoli | Brokkoli | bròquil | broccolo |
+| bóia | buoy | boya | bouée | Boje | boia | boa |
+| burocracia | bureaucracy | burocracia | bureaucratie | Bürokratie | burocràcia | burocrazia |
+| cacciatore | hunter | cazador | chasseur | Jäger | caçador | cacciatore |
+| esconderijo | hiding place | escondite | cachette | Versteck | amagatall | nascondiglio |
+| cacofonia | cacophony | cacofonía | cacophonie | Kakofonie | cacofonia | cacofonia |
+| camaradagem | comradeship | camaradería | camaraderie | Kameradschaft | camaraderia | cameratismo |
+| candidato | candidate | candidato | candidat | Kandidat | candidat | candidato |
+| caramelo | caramel | caramelo | caramel | Karamell | caramel | caramello |
+| caricatura | caricature | caricatura | caricature | Karikatur | caricatura | caricatura |
+| cavalaria | cavalry | caballería | cavalerie | Kavallerie | cavalleria | cavalleria |
+| caos | chaos | caos | chaos | Chaos | caos | caos |
+| charcutaria | delicatessen | charcutería | charcuterie | Metzgerei | xarcuteria | salumeria |
+| chauvinismo | chauvinism | chovinismo | chauvinisme | Chauvinismus | xovinisme | chauvinismo |
+| chimpanzé | chimpanzee | chimpancé | chimpanzé | Schimpanse | ximpanzé | scimpanzé |
+| chipotle | chipotle | chipotle | chipotle | Chipotle | chipotle | chipotle |
+| coro | choir | coro | chœur | Chor | cor | coro |
+| roupas | clothes | ropa | vêtements | Kleidung | roba | vestiti |
+| cacau | cocoa | cacao | cacao | Kakao | cacau | cacao |
+| coloquialismo | colloquialism | coloquialismo | familiarisme | Umgangssprache | col·loquialisme | colloquialismo |
+| coronel | colonel | coronel | colonel | Oberst | coronel | colonnello |
+| Connecticut | Connecticut | Connecticut | Connecticut | Connecticut | Connecticut | Connecticut |
+| conhecedor | connoisseur | conocedor | connaisseur | Kenner | coneixedor | intenditore |
+| consciência | conscience | conciencia | conscience | Gewissen | consciència | coscienza |
+| golpe de Estado | coup d'état | golpe de Estado | coup d'État | Staatsstreich | cop d'estat | colpo di Stato |
+| criptografia | cryptography | criptografía | cryptographie | Kryptografie | criptografia | crittografia |
+| rabugento | grumpy | gruñón | grognon | mürrisch | rabut | burbero |
+| cianose | cyanosis | cianosis | cyanose | Zyanose | cianosi | cianosi |
+| citologia | cytology | citología | cytologie | Zytologie | citologia | citologia |
+| dados | dice | dados | dés | Würfel | daus | dadi |
+| destroços | wreckage | restos | débris | Trümmer | restes | rottami |
+| estreia | debut | estreno | début | Debüt | estrena | debutto |
+| desfibrilador | defibrillator | desfibrilador | défibrillateur | Defibrillator | desfibril·lador | defibrillatore |
+| demagogo | demagogue | demagogo | démagogue | Demagoge | demagog | demagogo |
+| dengue | dengue fever | dengue | dengue | Dengue-Fieber | dengue | dengue |
+| diafragma | diaphragm | diafragma | diaphragme | Zwerchfell | diafragma | diaframma |
+| gaveta | drawer | cajón | tiroir | Schublade | calaix | cassetto |
+| elite | elite | élite | élite | Elite | elit | élite |
+| empreendedor | entrepreneur | emprendedor | entrepreneur | Unternehmer | emprenedor | imprenditore |

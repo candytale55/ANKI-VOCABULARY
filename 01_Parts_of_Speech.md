@@ -1,14 +1,12 @@
-I apologize for the oversight. Here is the corrected translation:
-
-| Português | English | Spanish | French | German | Valencian | Italian |
-|-----------|---------|---------|--------|--------|-----------|---------|
-| incoante | inchoate | incoante | incoate | inkoat | incoant | incoante |
-| parataxis | parataxis | parataxis | parataxe | Parataxe | parataxis | paratassi |
-| perifrástico | periphrastic | perifrástico | périphrastique | periphrastisch | perifrástic | perifrastico |
-| tautologia | tautology | tautología | tautologie | Tautologie | tautologia | tautologia |
-| intento | intent | intento | intention | Absicht | intenció | intento |
-| intervalos | intervals | intervalos | intervalles | Intervalle | intervals | intervalli |
-| suave | smooth | suave | lisse | glatt | suau | liscio |
+| No. | Portuguese word | Portuguese noun with article | /IPA (PT)/ | /IPA (BR)/ | Type of Word |
+|-----|------------------|------------------------------|------------|------------|--------------|
+| 9797 | incoante | o incoante | /ĩ.ˈkwɐ̃.tɨ/ | /ĩ.ˈkwɐ̃.tʃi/ | sm |
+| 8857 | parataxis | a parataxis | /ˌpa.ɾɐ.ˈtɐ.ʃiʃ/ | /pa.ɾa.ˈta.ʃis/ | sf |
+| 6763 | perifrástico | o perifrástico | /ˌpɛ.ɾi.ˈfɾas.ti.ku/ | /ˌpɛ.ɾi.ˈfɾas.tʃi.ku/ | sm |
+| 9528 | tautologia | a tautologia | /taw.to.lɔ.ˈʒi.ɐ/ | /taw.to.lo.ˈʒi.ɐ/ | sf |
+| 9531 | intento | o intento | /ĩ.ˈtẽ.tu/ | /ĩ.ˈtẽ.tu/ | sm |
+| 8726 | intervalos | os intervalos | /ĩ.tɨɾ.ˈva.lus/ | /ĩ.tɨɾ.ˈva.lus/ | smp |
+| 9680 | suave | o suave | /ˈswa.vɨ/ | /ˈswa.vi/ | sm |
 
 | Português | English | Spanish | French | German | Valencian | Italian |
 |-----------|---------|---------|--------|--------|-----------|---------|

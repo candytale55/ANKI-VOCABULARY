@@ -1,5 +1,46 @@
 | No. | Portuguese word | Portuguese noun with article | IPA (PT) | IPA (BR) | Type of Word |
 |-----|------------------|----------------------------|----------|----------|--------------|
+| 9817 | sinecdoque | a sinecdoque | /si.nɛk.ˈdɔ.kɨ/ | /si.nɛk.ˈdɔ.kɨ/ | sf |
+| 9818 | sinergia | a sinergia | /si.ˈnɛɾ.ʒi.ɐ/ | /si.ˈnɛʁ.ʒi.ɐ/ | sf |
+| 9819 | tautologia | a tautologia | /tɐw̃.to.lo.ˈʒi.ɐ/ | /taw.to.lo.ˈʒi.ɐ/ | sf |
+| 9820 | temperatura | a temperatura | /tɐ̃.pɨ.ɾa.ˈtu.ɾɐ/ | /tɐ̃.pɛ.ɾa.ˈtu.ɾɐ/ | sf |
+| 9822 | timbre | o timbre | /ˈtĩ.bɾɨ/ | /ˈtĩ.bɾɨ/ | sm |
+| 9823 | triatlo | o triatlo | /tɾi.ˈat.lu/ | /tɾi.ˈat.lu/ | sm |
+| 9824 | triscaidecafobia | a triscaidecafobia | /tɾi.skaj.dɨ.ka.ˈfo.bi.ɐ/ | /tɾis.kaj.dɛ.ka.ˈfo.bi.ɐ/ | sf |
+| 9827 | valete | o valete | /vɐ.ˈlɛ.tɨ/ | /va.ˈlɛ.tɨ/ | sm |
+| 9828 | veículo | o veículo | /ˈvɛ.j.ku.lu/ | /ˈvɛ.ji.ku.lu/ | sm |
+| 9829 | ventríloquo | o ventríloquo | /vẽ.ˈtɾi.lɔ.ku/ | /vẽ.ˈtɾi.lɔ.ku/ | sm |
+| 9830 | vicissitude | a vicissitude | /vi.sɨ.si.ˈtu.dɨ/ | /vi.si.si.ˈtu.dʒi/ | sf |
+| 9833 | chicote | o chicote | /ʃi.ˈkɔ.tɨ/ | /ʃi.ˈkɔ.tɨ/ | sm |
+| 9835 | glicínia | a glicínia | /ɡli.ˈsi.ni.ɐ/ | /ɡli.ˈsi.ni.ɐ/ | sf |
+| 9836 | molho inglês | o molho inglês | /ˈmo.ʎu ˈĩ.ɡlɛs/ | /ˈmo.ʎu ˈĩ.ɡlɛs/ | sm |
+| 9838 | zéfiro | o zéfiro | /ˈze.fi.ɾu/ | /ˈze.fi.ɾu/ | sm |
+| 9839 | abobrinha | a abobrinha | /ɐ.bu.ˈbɾi.ɲɐ/ | /ɐ.bo.ˈbɾi.ɲɐ/ | sf |
+| 9756 | panaceia | a panaceia | /ˌpa.na.ˈsej.ɐ/ | /pa.na.ˈsej.ɐ/ | sf |
+| 9783 | quiche | a quiche | /kiʃ/ | /kiʃ/ | sf |
+| 9802 | tesoura | a tesoura | /tɨ.ˈzo.ɾɐ/ | /te.ˈso.ɾɐ/ | sf |
+| 9763 | fleuma | a fleuma | /ˈflɛu̯.mɐ/ | /ˈflɛw̃.mɐ/ | sf |
+| 9781 | cais | o cais | /ˈkaɪ̯ʃ/ | /ˈkaɪ̯ʃ/ | sm |
+| 9837 | gema | a gema | /ˈʒe.mɐ/ | /ˈʒe.mɐ/ | sf |
+| 9589 | aceder | o aceder | /ɐ.ˈse.dɨɾ/ | /ɐ.ˈse.dɛɾ/ | v |
+| 9592 | adumbrar | o adumbrar | /ɐ.dũ.ˈbɾaɾ/ | /ɐ.dũ.ˈbɾaɾ/ | v |
+| 9611 | embair | o embair | /ẽ.ˈba.iɾ/ | /ẽ.ˈba.iɾ/ | v |
+| 9619 | enterrar | o enterrar | /ẽ.ˈtɛ.ʁaɾ/ | /ẽ.ˈte.ʁaɾ/ | v |
+| 9623 | persuadir | o persuadir | /pɨɾ.swɐ.ˈdiɾ/ | /pɛɾ.swɐ.ˈdiɾ/ | v |
+| 9650 | devassar | o devassar | /dɨ.vɐ.ˈsaɾ/ | /dɨ.vɐ.ˈsaɾ/ | v |
+| 9657 | deteriorar | o deteriorar | /dɨ.tɨ.jɔ.ɾi.ɐ.ˈɾ/ | /dɛ.tɨ.jɔ.ɾi.ɐ.ˈɾ/ | v |
+| 9660 | dilatar | o dilatar | /di.lɐ.ˈtaɾ/ | /di.lɐ.ˈtaɾ/ | v |
+| 9671 | esposar | o esposar | /ɨʃ.po.ˈzaɾ/ | /ɛs.po.ˈzaɾ/ | v |
+| 9677 | expatiar | o expatiar | /ɨʃ.pɐ.ˈti.aɾ/ | /ɛʃ.pɐ.ˈti.aɾ/ | v |
+| 9706 | interpretar | o interpretar | /ĩ.tɨɾ.pɾɨ.ˈtaɾ/ | /ĩ.tɨɾ.pɾɛ.ˈtaɾ/ | v |
+| 9716 | amassar | o amassar | /ɐ.mɐ.ˈsaɾ/ | /ɐ.mɐ.ˈsaɾ/ | v |
+| 9773 | prevaricar | o prevaricar | /pɾɨ.vɐ.ɾi.ˈkaɾ/ | /pɾɛ.vɐ.ɾi.ˈkaɾ/ | v |
+
+
+
+
+| No. | Portuguese word | Portuguese noun with article | IPA (PT) | IPA (BR) | Type of Word |
+|-----|------------------|----------------------------|----------|----------|--------------|
 | 9728 | mastectomia | a mastectomia | /mɐʃ.tɛk.to.ˈmi.ɐ/ | /mas.tɛk.to.ˈmi.ɐ/ | sf |
 | 9731 | meme | o meme | /ˈmɛ.mɨ/ | /ˈmɛ.mɨ/ | sm |
 | 9732 | metamorfose | a metamorfose | /mɨ.tɐ.muɾ.ˈfɔ.zɨ/ | /me.ta.mɔɾ.ˈfɔ.zi/ | sf |

@@ -1,14 +1,14 @@
-Here is the translation of the provided words in a markdown table:
+I apologize for the oversight. Here is the corrected translation:
 
 | Português | English | Spanish | French | German | Valencian | Italian |
 |-----------|---------|---------|--------|--------|-----------|---------|
-| ichoate | ichoate | ichoate | ichoate | ichoate | ichoate | ichoate |
+| incoante | inchoate | incoante | incoate | inkoat | incoant | incoante |
 | parataxis | parataxis | parataxis | parataxe | Parataxe | parataxis | paratassi |
-| periphrastic | periphrastic | perifrástico | périphrastique | periphrastisch | perifrástic | perifrastico |
-| tautology | tautology | tautología | tautologie | Tautologie | tautologia | tautologia |
-| intent | intent | intención | intention | Absicht | intenció | intento |
-| intervals | intervals | intervalos | intervalles | Intervalle | intervals | intervalli |
-| smooth | smooth | suave | lisse | glatt | suau | liscio |
+| perifrástico | periphrastic | perifrástico | périphrastique | periphrastisch | perifrástic | perifrastico |
+| tautologia | tautology | tautología | tautologie | Tautologie | tautologia | tautologia |
+| intento | intent | intento | intention | Absicht | intenció | intento |
+| intervalos | intervals | intervalos | intervalles | Intervalle | intervals | intervalli |
+| suave | smooth | suave | lisse | glatt | suau | liscio |
 
 | Português | English | Spanish | French | German | Valencian | Italian |
 |-----------|---------|---------|--------|--------|-----------|---------|

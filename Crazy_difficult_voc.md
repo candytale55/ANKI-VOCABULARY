@@ -1,5 +1,68 @@
 | No. | Portuguese word | Portuguese noun with article | IPA (PT) | IPA (BR) | Type of Word |
 |-----|------------------|----------------------------|----------|----------|--------------|
+| 9728 | mastectomia | a mastectomia | /mɐʃ.tɛk.to.ˈmi.ɐ/ | /mas.tɛk.to.ˈmi.ɐ/ | sf |
+| 9731 | meme | o meme | /ˈmɛ.mɨ/ | /ˈmɛ.mɨ/ | sm |
+| 9732 | metamorfose | a metamorfose | /mɨ.tɐ.muɾ.ˈfɔ.zɨ/ | /me.ta.mɔɾ.ˈfɔ.zi/ | sf |
+| 9733 | miniatura | a miniatura | /mi.ni.ɐ.ˈtu.ɾɐ/ | /mi.ni.ɐ.ˈtu.ɾɐ/ | sf |
+| 9735 | misógino | o misógino | /mi.ˈzɔ.ʒi.nu/ | /mi.ˈzɔ.ʒi.nu/ | sm |
+| 9736 | monge | o monge | /ˈmõ.ʒɨ/ | /ˈmõ.ʒi/ | sm |
+| 9738 | músculo | o músculo | /ˈmuskulu/ | /ˈmus.ku.lu/ | sm |
+| 9739 | bigode | o bigode | /bi.ˈɡɔ.dɨ/ | /bi.ˈɡɔ.dɨ/ | sm |
+| 9740 | nadir | o nadir | /nɐ.ˈdiɾ/ | /na.ˈdiʁ/ | sm |
+| 9742 | neófito | o neófito | /ne.ˈɔ.fi.tu/ | /ne.ˈɔ.fi.tu/ | sm |
+| 9743 | nicho | o nicho | /ˈni.ʃu/ | /ˈni.ʃu/ | sm |
+| 9744 | niilismo | o niilismo | /ni.ˈi.liz.mu/ | /ni.ˈi.liz.mu/ | sm |
+| 9749 | ocasião | a ocasião | /ɔ.kɐ.ˈzi.ɐ̃w̃/ | /ɔ.ka.ˈzi.ɐ̃w̃/ | sf |
+| 9751 | oligarquia | a oligarquia | /o.li.ɡaɾ.ˈki.ɐ/ | /o.li.ɡaɾ.ˈki.ɐ/ | sf |
+| 9752 | onomatopeia | a onomatopeia | /ɔ.nu.mɐ.tu.ˈpɐj.ɐ/ | /o.no.ma.to.ˈpe.jɐ/ | sf |
+| 9753 | oftalmologia | a oftalmologia | /ɔf.tɐl.mu.ˈlo.ʒi.ɐ/ | /oftɐl.mu.ˈlo.ʒi.ɐ/ | sf |
+| 9754 | ordenança | a ordenança | /ɔɾ.dɨ.ˈnɐ̃.sɐ/ | /oɾ.dẽ.ˈnɐ̃.sɐ/ | sf |
+| 9755 | otorrinolaringologia | a otorrinolaringologia | /o.tu.ʁi.nɔ.lɐ.ʁĩ.ɡu.ɾi.ɐ/ | /oto.ʁi.nɔ.la.ɾĩ.ɡo.lo.ʒi.ɐ/ | sf |
+| 9757 | paradigma | o paradigma | /pɐ.ɾɐ.ˈdiɡ.mɐ/ | /pa.ɾa.ˈdiɡ.mɐ/ | sm |
+| 9758 | pauciloquio | o pauciloquio | /paw.si.ˈlɔ.kju/ | /paw.si.ˈlɔ.kju/ | sm |
+| 9760 | pinguim | o pinguim | /pi.ˈɡwĩ.ʃ/ | /pi.ˈɡwĩ.ʃ/ | sm |
+| 9762 | fenômeno | o fenômeno | /fe.ˈnɔ.mɨ.nu/ | /fe.ˈnɔ.me.nu/ | sm |
+| 9765 | imagem | a imagem | /i.ˈmaʒẽj̃/ | /i.ˈma.ʒẽj̃/ | sf |
+| 9766 | pizza | a pizza | /ˈpi.zɐ/ | /ˈpi.zɐ/ | sf |
+| 9767 | encanador | o encanador | /ẽ.ka.ˈna.duɾ/ | /ẽ.ka.ˈna.doɾ/ | sm |
+| 9768 | pneumatologia | a pneumatologia | /pneu.mɐ.to.ˈlo.ʒi.ɐ/ | /pneu.ma.to.lo.ˈʒi.ɐ/ | sf |
+| 9769 | pneumonia | a pneumonia | /pu.ˈmo.ni.ɐ/ | /pu.ˈmo.ni.ɐ/ | sf |
+| 9770 | prelúdio | o prelúdio | /pɾɨ.ˈlu.dju/ | /pɾe.ˈlu.dju/ | sm |
+| 9771 | prerrogativa | a prerrogativa | /pɾɨ.ˈɾɔ.ɡɐ.ti.vɐ/ | /pɾe.ˈɾɔ.ɡɐ.ti.vɐ/ | sf |
+| 9772 | prescrição | a prescrição | /pɾɨ.ˈskɾi.sɐ̃w̃/ | /pɾe.ˈskɾi.sɐ̃w̃/ | sf |
+| 9775 | pronúncia | a pronúncia | /pɾu.ˈnũ.sjɐ/ | /pɾo.ˈnũ.si.ɐ/ | sf |
+| 9777 | pseudônimo | o pseudônimo | /psɨ.ˈdɔ.ni.mu/ | /psɛ.ˈdõ.ni.mu/ | sm |
+| 9779 | beleza | a beleza | /bɨ.ˈlɛ.zɐ/ | /bɛ.ˈle.zɐ/ | sf |
+| 9780 | atoleiro | o atoleiro | /ɐ.tu.ˈlɐj.ɾu/ | /ɐ.to.ˈlej.ɾu/ | sm |
+| 9782 | fila | a fila | /ˈfi.lɐ/ | /ˈfi.lɐ/ | sf |
+| 9784 | quinoa | a quinoa | /ki.ˈnɔ.ɐ/ | /ki.ˈnɔ.ɐ/ | sf |
+| 9789 | guaxinim | o guaxinim | /ɡwa.ʃi.ˈnĩ/ | /ɡwa.ʃi.ˈnĩ/ | sm |
+| 9790 | framboesa | a framboesa | /fɾɐ̃.bɔ.ˈɛ.zɐ/ | /fɾɐ̃.bo.ˈɛ.zɐ/ | sf |
+| 9791 | recibo | o recibo | /ɾɨ.ˈsi.bu/ | /ɾɛ.ˈsi.bu/ | sm |
+| 9792 | regime | o regime | /ʁɨ.ˈʒi.mi/ | /ʁɛ.ˈʒi.mi/ | sm |
+| 9793 | remuneração | a remuneração | /ʁɨ.mu.nɨ.ɾɐ.ˈsɐ̃w̃/ | /ʁe.mu.nɛ.ɾɐ.ˈsɐ̃w̃/ | sf |
+| 9794 | encontro | o encontro | /ẽ.ˈkõ.tɾu/ | /ẽ.ˈkõ.tɾu/ | sm |
+| 9795 | restaurateur | o restaurateur | /ʁɨs.tɐ.ɾa.ˈtœɾ/ | /ʁɛs.tɔ.ɾa.ˈtœʁ/ | sm |
+| 9796 | ritmo | o ritmo | /ˈɾi.tmu/ | /ˈɾi.tmu/ | sm |
+| 9797 | salmão | o salmão | /sɐw̃.ˈmɐ̃w̃/ | /saw̃.ˈmɐ̃w̃/ | sm |
+| 9799 | escápula | a escápula | /ɨʃ.ˈka.pu.lɐ/ | /ɛʃ.ˈka.pu.lɐ/ | sf |
+| 9800 | schadenfreude | o schadenfreude | /ˈʃa.dənˌfʁɔɪ̯.də/ | /ˈʃa.dənˌfʁɔɪ̯.də/ | sm |
+| 9801 | agenda | a agenda | /ɐ.ˈʒẽ.dɐ/ | /a.ˈʒẽ.dɐ/ | sf |
+| 9804 | sorvete | o sorvete | /sɔɾ.ˈve.tɨ/ | /sɔʁ.ˈve.tɨ/ | sm |
+| 9805 | silício | o silício | /si.ˈli.sju/ | /si.ˈli.si.u/ | sm |
+| 9808 | esfigmomanômetro | o esfigmomanômetro | /ɛs.fi.ɡmo.ma.ˈnɔ.mɛ.tɾu/ | /ɛs.fi.ɡmo.ma.ˈnɔ.mɛ.tɾu/ | sm |
+| 9809 | esquilo | o esquilo | /ɛs.ˈki.lu/ | /ɛs.ˈki.lu/ | sm |
+| 9810 | status | o status | /ˈsta.tus/ | /ˈsta.tus/ | sm |
+| 9811 | estultilóquio | o estultilóquio | /ɨʃ.tu.lti.ˈlo.kju/ | /ɛʃ.tu.ti.ˈlo.kju/ | sm |
+| 9813 | suíte | a suíte | /ˈswi.ti/ | /ˈswi.ti/ | sf |
+| 9815 | excesso | o excesso | /ɨɡ.ˈzɛ.su/ | /ɛɡ.ˈsɛ.su/ | sm |
+| 9816 | silogismo | o silogismo | /si.lo.ˈʒiʒ.mu/ | /si.lo.ˈʒiʒ.mu/ | sm |
+
+
+
+
+| No. | Portuguese word | Portuguese noun with article | IPA (PT) | IPA (BR) | Type of Word |
+|-----|------------------|----------------------------|----------|----------|--------------|
 | 9674 | elogio fúnebre | o elogio fúnebre | /e.ˈlo.ʒju fu.ˈnɛ.bɾi/ | /e.ˈlo.ʒju fu.ˈnɛ.bɾi/ | sm |
 | 9675 | euouae |            | /eu.uˈwe/ | /eu.uˈwe/ | int |
 | 9676 | eutanásia | a eutanásia | /eu.ta.ˈna.zi.ɐ/ | /ew.ta.ˈna.zi.ɐ/ | sf |

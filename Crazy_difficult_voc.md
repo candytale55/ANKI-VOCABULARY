@@ -1,3 +1,14 @@
+
+
+
+
+
+
+
+
+
+
+
 | No. | Portuguese word | Portuguese noun with article | IPA (PT) | IPA (BR) | Type of Word |
 |-----|------------------|------------------------------|----------|----------|--------------|
 | 9588 | aberrante | o aberrante | /ɐ.bɨ.ɾˈɐ̃t(ɨ)/ | /ɐ.bɨ.ˈɾɐ̃tʃi/ | adj m/f |

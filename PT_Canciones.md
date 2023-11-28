@@ -39,3 +39,44 @@
 | levar | take | llevar | emporter | nehmen | prendre | prendere |
 | apanha o primeiro autocarro | catch the first bus | coge el primer autobús | attrape le premier bus | nimm den ersten Bus | agafa el primer autobús | prendi il primo autobus |
 | coração de Viana | heart of Viana | corazón de Viana | cœur de Viana | Herz von Viana | cor de Viana | cuore di Viana |
+
+
+
+Here's the translation of the provided words in Portuguese, English, Spanish, French, German, Valencian, and Italian:
+
+| Português | English | Spanish | French | German | Valencian | Italian |
+|-----------|---------|---------|--------|--------|-----------|---------|
+| bolacha | biscuit | galleta | biscuit | Keks | galeta | biscotto |
+| domo um ducha na casa de banho | I take a shower in the bathroom | me doy una ducha en el baño | je prends une douche dans la salle de bains | Ich dusche im Badezimmer | emprenc una dutxa al bany | faccio una doccia in bagno |
+| um ducha | a shower | una ducha | une douche | eine Dusche | una dutxa | una doccia |
+| azeite | olive oil | aceite de oliva | huile d'olive | Olivenöl | oli d'oliva | olio d'oliva |
+| olio | oil | aceite | huile | Öl | oli | olio |
+| esplanada (terraza) | terrace | terraza | terrasse | Terrasse | terrassa | terrazza |
+| bolinhos | cookies | galletas | biscuits | Kekse | galetes | biscotti |
+| uma tosta | a toast | una tostada | un toast | ein Toast | una torrada | una tostata |
+| uma sanduíche | a sandwich | un bocadillo | un sandwich | ein Sandwich | un entrepà | un panino |
+| pão alentejano | Alentejo bread | pan alentejano | pain d'Alentejo | Alentejo-Brot | pa de l'Alentehu | pane alentejano |
+| omelete, omeleta | omelette | tortilla, tortilla francesa | omelette | Omelett | truita, truita francesa | frittata |
+| filete (peixe) | fish fillet | filete de pescado | filet de poisson | Fischfilet | filet de peix | filetto di pesce |
+| bife | steak | filete | bifteck | Steak | baieta | bistecca |
+
+For phrases:
+
+| Português | English | Spanish | French | German | Valencian | Italian |
+|-----------|---------|---------|--------|--------|-----------|---------|
+| Como ...? | How ...? | ¿Cómo ...? | Comment ... ? | Wie ... ? | Com ...? | Come ...? |
+| Qual ....? | Which ....? | ¿Cuál ....? | Quel ....? | Welches ...? | Quin ...? | Quale ...? |
+| Quais....? | Which ....? | ¿Cuáles ....? | Quels ....? | Welche ...? | Quins ...? | Quali ...? |
+| O que ...? | What ...? | ¿Qué ...? | Qu'est-ce que ... ? | Was ...? | Què ...? | Che ...? |
+| Quando ....? | When ...? | ¿Cuándo ...? | Quand ... ? | Wann ...? | Quan ...? | Quando ...? |
+| Até quando ....? | Until when ...? | ¿Hasta cuándo ...? | Jusqu'à quand ... ? | Bis wann ...? | Fins a quan ...? | Fino a quando ...? |
+| A que horas ....? | At what time ...? | ¿A qué hora ...? | À quelle heure ... ? | Um wie viel Uhr ...? | A quina hora ...? | A che ora ...? |
+| Onde estas? | Where are you? | ¿Dónde estás? | Où es-tu ? | Wo bist du? | On ets? | Dove sei? |
+| Aonde vais? | Where are you going? | ¿Adónde vas? | Où vas-tu ? | Wohin gehst du? | On vas? | Dove vai? |
+| De onde vens? | Where are you from? | ¿De dónde eres? | D'où viens-tu ? | Woher kommst du? | D'on véns? | Da dove vieni? |
+| estou cheia de fome | I am very hungry | tengo mucha hambre | j'ai très faim | Ich habe großen Hunger | estic molt de gana | ho molta fame |
+| estou cheia de medo | I am very afraid | tengo mucho miedo | j'ai très peur | Ich habe große Angst | estic molt de por | ho molta paura |
+| estou cheia de sede | I am very thirsty | tengo mucha sed | j'ai très soif | Ich habe großen Durst | estic molt de set | ho molta sete |
+| estou cheia de alegria | I am very happy | estoy muy feliz | je suis très heureux | Ich bin sehr glücklich | estic molt feliç | sono molto felice |
+| sede (por água) | thirst | sed | soif | Durst | set | sete |
+| fome | hunger | hambre | faim | Hunger | gana | fame |

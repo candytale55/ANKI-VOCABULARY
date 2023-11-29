@@ -119,3 +119,36 @@ Certainly, here is the table with the missing values filled:
 | 3965 | abaixo | /ɐˈbaʃu/ | /ɐˈbaʃu/ | adv | below | /bɪˈloʊ/ | debajo | /deˈβa.xo/ |
 | 8400 | atrás | /ɐˈtɾaʃ/ | /ɐˈtɾaʃ/ | adv | behind | /bɪˈhaɪnd/ | detrás | /deˈtɾas/ |
 | 2628 | em baixo | /ẽ ˈbajʃu/ | /ẽ ˈbaʒu/ | prep | below | /bɪˈloʊ/ | abajo | /aˈβa.xo/ |
+
+Here's the translation of the provided words in Portuguese, English, Spanish, French, German, Valencian, and Italian:
+
+| Português | English | Spanish | French | German | Valencian | Italian |
+|-----------|---------|---------|--------|--------|-----------|---------|
+| bolacha | biscuit | galleta | biscuit | Keks | galeta | biscotto |
+| domo um ducha na casa de banho | I take a shower in the bathroom | me doy una ducha en el baño | je prends une douche dans la salle de bains | Ich dusche im Badezimmer | emprenc una dutxa al bany | faccio una doccia in bagno |
+| um ducha | a shower | una ducha | une douche | eine Dusche | una dutxa | una doccia |
+| azeite | olive oil | aceite de oliva | huile d'olive | Olivenöl | oli d'oliva | olio d'oliva |
+| olio | oil | aceite | huile | Öl | oli | olio |
+| esplanada (terraza) | terrace | terraza | terrasse | Terrasse | terrassa | terrazza |
+| bolinhos | cookies | galletas | biscuits | Kekse | galetes | biscotti |
+| uma tosta | a toast | una tostada | un toast | ein Toast | una torrada | una tostata |
+| uma sanduíche | a sandwich | un bocadillo | un sandwich | ein Sandwich | un entrepà | un panino |
+| pão alentejano | Alentejo bread | pan alentejano | pain d'Alentejo | Alentejo-Brot | pa de l'Alentehu | pane alentejano |
+| omelete, omeleta | omelette | tortilla, tortilla francesa | omelette | Omelett | truita, truita francesa | frittata |
+| filete (peixe) | fish fillet | filete de pescado | filet de poisson | Fischfilet | filet de peix | filetto di pesce |
+| bife | steak | filete | bifteck | Steak | baieta | bistecca |
+
+For phrases:
+
+| Português | English | Spanish | French | German | Valencian | Italian |
+|-----------|---------|---------|--------|--------|-----------|---------|
+| Como ...? | How ...? | ¿Cómo ...? | Comment ... ? | Wie ... ? | Com ...? | Come ...? |
+| Qual ....? | Which ....? | ¿Cuál ....? | Quel ....? | Welches ...? | Quin ...? | Quale ...? |
+| Quais....? | Which ....? | ¿Cuáles ....? | Quels ....? | Welche ...? | Quins ...? | Quali ...? |
+| O que ...? | What ...? | ¿Qué ...? | Qu'est-ce que ... ? | Was ...? | Què ...? | Che ...? |
+| Quando ....? | When ...? | ¿Cuándo ...? | Quand ... ? | Wann ...? | Quan ...? | Quando ...? |
+| Até quando ....? | Until when ...? | ¿Hasta cuándo ...? | Jusqu'à quand ... ? | Bis wann ...? | Fins a quan ...? | Fino a quando ...? |
+| A que horas ....? | At what time ...? | ¿A qué hora ...? | À quelle heure ... ? | Um wie viel Uhr ...? | A quina hora ...? | A che ora ...? |
+| Onde estas? | Where are you? | ¿Dónde estás? | Où es-tu ? | Wo bist du? | On ets? | Dove sei? |
+| Aonde vais? | Where are you going? | ¿Adónde vas? | Où vas-tu ? | Wohin gehst du? | On vas? | Dove vai? |
+| De onde vens? | Where are you from? | ¿De dónde eres? | D'où viens-tu ? | Woher kommst du? | D'on véns? | Da dove vieni? |

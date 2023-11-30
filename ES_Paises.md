@@ -1,8 +1,6 @@
 
 # Países en Español
 
-Here is the markdown table with the missing values filled in for Latin American Spanish:
-
 | No. | País | IPA (ES) | IPA (LA) | TP |
 |-----|------|----------|----------|----|
 | 8434 | Afganistán | /af.ɣa.nis.'tan/ | /af.ɣa.nis.'tan/ | sm |

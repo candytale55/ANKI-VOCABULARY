@@ -1,4 +1,4 @@
-Certainly, here is the completed markdown table with the French words you provided:
+# Pays (Francais)
 
 | No.  | French Word |  with Article  | French IPA  | Word Type |
 |------|-------------|----------------|-------------|-----|

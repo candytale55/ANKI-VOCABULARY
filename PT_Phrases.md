@@ -35,6 +35,13 @@
 | es lohnt sich        |                       | /ɛs lɔnt zɪç/        | exp       |
 | egal, was passiert   |                       | /ˈeːɡal vas paˈsɪʁt/ | exp       |
 
+| Valencian/Catalan Phrase |  Valencian IPA           | Catalan IPA           | Word Type |
+|---------------------------|-------------------------|------------------------|-----------|
+| passi el que passi        | /ˈpasi el ke ˈpasi/     | /ˈpasi el ke ˈpasi/    | exp       |
+| ha de tindre              |  /a de ˈtindre/          | /a də ˈtindre/         | exp       |
+| com es fa                 | /kom es ˈfa/            | /kom es ˈfa/           | exp       |
+| val la pena               | /val la ˈpena/          | /ˈbal la ˈpenə/        | exp       |
+
 
 
 | Português | English | Spanish | French | German | Valencian | Italian |

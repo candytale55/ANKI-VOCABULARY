@@ -42,6 +42,13 @@
 | com es fa                 | /kom es ˈfa/            | /kom es ˈfa/           | exp       |
 | val la pena               | /val la ˈpena/          | /ˈbal la ˈpenə/        | exp       |
 
+| Italian Phrase           | with Article          | Italian IPA           | Word Type |
+|--------------------------|-----------------------|-----------------------|-----------|
+| qualunque cosa           |                       | /kwaˈlun.kwe ˈkɔ.sa/ | exp       |
+| deve avere               |                       | /ˈde.ve ˈa.ve.re/     | exp       |
+| come si fa               | come si fa            | /ˈko.me zi fa/        | exp       |
+| ne vale la pena          |                       | /ne ˈva.le la ˈpe.na/ | exp       |
+
 
 
 | Português | English | Spanish | French | German | Valencian | Italian |

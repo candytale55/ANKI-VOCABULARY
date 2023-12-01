@@ -1,6 +1,18 @@
 
+
+
+
 # Comon PT Phrases
 
+
+| Português          | English            | Spanish            | French             | German            | Valencian            | Italian          |
+|--------------------|--------------------|--------------------|--------------------|-------------------|----------------------|------------------|
+| haja o que houver | come what may       | pase lo que pase   | quoi qu'il arrive  | come what may     | passi el que passi    | qualunque cosa   |
+| tem que ter        | must have          | tiene que tener    | doit avoir         | muss haben        | ha de tindre         | deve avere       |
+| como é que faz     | how to do it        | cómo se hace       | comment faire      | wie macht man es  | com es fa            | come si fa       |
+| adianta            | it's worth it       | vale la pena       | ça vaut le coup    | es lohnt sich     | val la pena          | ne vale la pena   |
+
+These translations are provided as general equivalents and may vary based on context and regional language variations.
 
 | Português | English | Spanish | French | German | Valencian | Italian |
 |-----------|---------|---------|--------|--------|-----------|---------|

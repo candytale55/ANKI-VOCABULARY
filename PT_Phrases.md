@@ -27,13 +27,13 @@
 | comment faire         |                       | /kɔ.mɑ̃ fɛʁ/ | exp |
 | ça vaut le coup       |                       | /sa vo lə ku/ | exp |
 
-| German Word          | with Article          | German IPA     | Word Type |
-|----------------------|-----------------------|----------------|-----------|
-| muss haben           |                       | /mʊs ˈhaːbən/ | exp       |
-| wie macht man es     |                       | /viː maxt man ɛs/ | exp    |
-| es lohnt sich        |                       | /ɛs lɔnt zɪç/   | exp       |
-| egal, was passiert       |                        | /ˈeːɡal vas paˈsɪʁt/ | exp       |
-| was auch passiert        |                        | /vas aʊx paˈsɪʁt/ | exp       |
+| German Word          | with Article          | German IPA           | Word Type |
+|----------------------|-----------------------|----------------------|-----------|
+| was auch passiert    |                       | /vas aʊx paˈsɪʁt/    | exp       |
+| muss haben           |                       | /mʊs ˈhaːbən/        | exp       |
+| wie macht man es     |                       | /viː maxt man ɛs/    | exp       |
+| es lohnt sich        |                       | /ɛs lɔnt zɪç/        | exp       |
+| egal, was passiert   |                       | /ˈeːɡal vas paˈsɪʁt/ | exp       |
 
 
 

@@ -12,7 +12,13 @@
 | como é que faz     | how to do it        | cómo se hace       | comment faire      | wie macht man es  | com es fa            | come si fa       |
 | adianta            | it's worth it       | vale la pena       | ça vaut le coup    | es lohnt sich     | val la pena          | ne vale la pena   |
 
-These translations are provided as general equivalents and may vary based on context and regional language variations.
+| Spanish Word       | IPA (ES)              | IPA (LA)                | TP  |
+|--------------------|-----------------------|-------------------------|-----|
+| pase lo que pase   | /ˈpase lo ke ˈpase/   | /ˈpase lo ke ˈpase/    | exp |
+| tiene que tener    | /ˈtjene ke ˈteneɾ/    | /ˈtjene ke ˈteneɾ/     | exp |
+| cómo se hace       | /ˈkomo se ˈase/       | /ˈkomo se ˈase/        | exp |
+| vale la pena       | /ˈbale la ˈpena/      | /ˈbale la ˈpena/       | exp |
+
 
 | Português | English | Spanish | French | German | Valencian | Italian |
 |-----------|---------|---------|--------|--------|-----------|---------|

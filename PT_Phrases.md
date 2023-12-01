@@ -20,6 +20,15 @@
 | vale la pena       | /ˈbale la ˈpena/      | /ˈbale la ˈpena/       | exp |
 
 
+| French Word           | with Article          | French IPA | Word Type |
+|-----------------------|-----------------------|------------|-----------|
+| quoi qu'il arrive     |                       | /kwɑ k‿il a.ʁiv/ | exp |
+| doit avoir            |                       | /dwa avwaʁ/ | exp |
+| comment faire         |                       | /kɔ.mɑ̃ fɛʁ/ | exp |
+| ça vaut le coup       |                       | /sa vo lə ku/ | exp |
+
+
+
 | Português | English | Spanish | French | German | Valencian | Italian |
 |-----------|---------|---------|--------|--------|-----------|---------|
 | Não | No | No | Non | Nein | No | No |

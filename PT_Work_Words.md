@@ -69,6 +69,73 @@
 
 
 
+
+Certainly! Here is the updated table with the feminine form included in the French column:
+
+```markdown
+| French                                     | Article    | IPA                                  | Word Type  |
+|--------------------------------------------|------------|--------------------------------------|------------|
+| jardinier, jardinière                      |            | /ʒaʁ.dinje/, /ʒaʁ.di.njɛʁ/          | sm, sf     |
+| comptable, comptable                        |            | /kɔ̃.tabl/                            | sm/f       |
+| commerçant, commerçante                     |            | /kɔ.mɛʁ.sɑ̃/, /kɔ.mɛʁ.sɑ̃t/         | sm         |
+| agent d'assurance, agente d'assurance      | l', l'     | /a.ʒɑ̃ d‿a.sy.ʁɑ̃s/, /a.ʒɑ̃t d‿a.sy.ʁɑ̃s/ | sm/f    |
+| gestionnaire, gestionnaire                  |            | /ʒɛs.tjɔ.nɛʁ/                         | sm         |
+| reporter, reportère                         |            | /ʁə.pɔʁ.tɛʁ/, /ʁə.pɔʁ.tɛʁɛs/      | sm, sf     |
+| employé, employée                           | l'         | /ɑ̃.plɔ.je/, /ɑ̃.plɔ.jɛ/             | sm/f       |
+| secrétaire, secrétaire                      | la         | /sɛ.kʁɛ.tɛʁ/, /sɛ.kʁɛ.tɛʁɛ/        | sf         |
+| avocat, avocate                             | l', l'     | /a.vo.ka/, /a.vo.kat/                | sm/f       |
+| fleuriste, fleuriste                        |            | /flœ.ʁist/                           | sm/f       |
+| ingénieur informaticien, ingénieure informaticienne | l', l' | /ɛ̃.ʒe.njœʁ ɛ̃.fɔʁ.ma.ti.sjɛ̃/, /ɛ̃.ʒe.njœʁ ɛ̃.fɔʁ.ma.ti.sjɛn/ | sm/f |
+| pianiste, pianiste                           |            | /pja.nist/, /pja.nistɛ/             | sm/f       |
+| dentiste, dentiste                           |            | /dɑ̃.tist/, /dɑ̃.tistɛ/             | sm/f       |
+| coiffeur, coiffeuse                         |            | /kwafœʁ/, /kwaføz/                   | sm         |
+| instructeur de yoga, instructrice de yoga    | l'         | /ɛ̃s.tʁyk.tœʁ də jo.ga/, /ɛ̃s.tʁyk.tʁis də jo.ga/ | sm, sf  |
+| cuisinier, cuisinière                       |            | /kɥi.zi.nje/, /kɥi.zi.njɛʁ/         | sm/f       |
+| serveur, serveuse                           | le, la     | /sɛʁ.vœʁ/, /sɛʁ.vøz/                | sm, sf     |
+| infirmier, infirmière                       | l', l'     | /ɛ̃.fiʁ.mje/, /ɛ̃.fiʁ.mjɛʁ/         | sm/f       |
+| ingénieur, ingénieure                       | l', l'     | /ɛ̃.ʒe.njœʁ/, /ɛ̃.ʒe.njœʁ/         | sm/f       |
+| homme d'affaires, femme d'affaires          | l', la     | /ɔm d‿a.fɛʁ, fam d‿a.fɛʁ/            | sm/f       |
+| chimiste, chimiste                           | le         | /ʃi.mist/, /ʃi.mistɛ/               | sm/f       |
+| biologiste, biologiste                       | le         | /bjo.lɔ.ʒist/, /bjo.lɔ.ʒistɛ/      | sm/f       |
+| serveur, serveuse                           | le, la     | /sɛʁ.vœʁ/, /sɛʁ.vøz/                | sm, sf     |
+| serveur, serveuse                           | le, la     | /sɛʁ.vœʁ/, /sɛʁ.vøz/                | sm, sf     |
+| hôtesse de l'air, stewardess, steward        | l', la     | /ɔ.tɛs də l‿ɛʁ/, /stju.aʁ.dɛs/, /stju.aʁ/ | sf, sm, sm |
+| députée, député                             | la, le     | /de.py.te, de.py.te/                 | sf, sm     |
+| chauffeur de taxi, chauffeuse de taxi       | le, la     | /ʃo.fœʁ də tɑ.ksi/, /ʃo.føz də tɑ.ksi/ | sm, sf  |
+| serveur, serveuse                           | le, la     | /sɛʁ.vœʁ/, /sɛʁ.vøz/                | sm, sf     |
+| employé, employée                           | l'         | /ɑ̃.plɔ.je/, /ɑ̃.plɔ.jɛ/             | sm/f       |
+| fonctionnaire public, fonctionnaire publique | le, la     | /fɔ̃k.sjɔ.nɛʁ py.blik/, /fɔ̃k.sjɔ.nɛʁ py.blik/ | sm/f |
+| garçon d'hôtel, garçonne d'hôtel           | le, la     | /ɡaʁ.sɔ̃ d‿ɔ.tɛl/, /ɡaʁ.sɔn d‿ɔ.tɛlɛ/ | sm, sf |
+| juge, juge                                  | le         | /ʒyʒ/, /ʒyʒɛʁ/                     | sm         |
+| caissier, caissière                         | le, la     | /kɛ.sje/, /kɛ.sjɛʁ/                 | sm, sf     |
+| mannequin, mannequin                        | le, la     | /mɑ.nə.kɛ̃/, /mɑ.nə.kɛ̃/            | sm, sf     |
+| athlète, athlète                            | l'         | /atlɛt/, /atlɛtɛ/                   | sm         |
+| psychanalyste, psychanalyste                | le, la     | /psi.ka.na.list/, /psi.ka.na.listɛ/ | sm, sf     |
+| pilote, pilote                              | le         | /pi.lɔt/, /pi.lɔtɛ/                 | sm         |
+| agent d'assurance, agente d'assurance      | l', l'     | /a.ʒɑ̃ d‿a.sy.ʁɑ̃s/, /a.ʒɑ̃t d‿a.sy.ʁɑ̃s/ | sm/f    |
+| banquier, banquière                         | le, la     | /bɑ̃.kje, bɑ̃.kjeʁ/                 | sm, sf     |
+| profession, profession                       | la         | /pʁɔ.fɛ.sjɔ̃/                       | sf         |
+| traducteur, traductrice                     | le, la     | /tʁa.dyk.tœʁ, tʁa.dyk.tʁis/         | sm, sf     |
+| pharmacien, pharmacienne                     | le, la     | /faʁ.ma.sjɛ̃, faʁ.ma.sjɛn/          | sm, sf     |
+| juriste, juriste                             | le, la     | /ʒy.ʁist/, /ʒy.ʁistɛ/             | sm, sf     |
+| professeur, professeure                     | le, la     | /pʁɔ.fɛ.sœʁ, pʁɔ.fɛ.sœʁ/           | sm, sf     |
+| artiste, artiste                            | l'         | /aʁ.tist/, /aʁ.tistɛ/               | sm, sf     |
+| designer, designer                          | le, la     | /de.zi.ɲe/, /de.zi.ɲɛʁ/             | sm, sf     |
+| agriculteur, agricultrice                   | l', l'     | /a.ɡʁi.kyl.tœʁ, a.ɡʁi.kyl.tʁis/     | sm, sf     |
+| architecte, architecte                      | l', l'     | /aʁ.ʃi.tɛkt/, /aʁ.ʃi.tɛktɛs/       | sm, sf     |
+| écrivain, écrivaine                        | l', l'     | /e.kʁi.vɛ̃, e.kʁi.vɛ.n/             | sm, sf     |
+| médecin, médecin                            | le         | /mɛd.sɛ̃/, /mɛd.sɛ̃/                | sm         |
+| agent de police, agente de police           | l', l'     | /a.ʒɑ̃ də pɔ.lis/, /a.ʒɑ̃t də pɔ.lis/ | sm/f   |
+| conducteur, conductrice                     | le, la     | /kɔ̃.dyk.tœʁ, kɔ̃.dyk.tʁis/         | sm, sf     |
+| docteur, docteure                           | le, la     | /dɔk.tœʁ, dɔk.tœʁ/                 | sm, sf     |
+| directeur, directrice                       | le, la     | /di.ʁɛk.tœʁ, di.ʁɛk.tʁis/           | sm, sf     |
+| ouvrier, ouvrière                           | l', l'     | /u.vʁje, u.vʁjɛʁ/                   | sm, sf     |
+| clown, clowne                               | le, la     | /klun, klun/                        | sm, sf     |
+| soldat, soldate                              | le, la     | /sɔl.da, sɔl.dat/                   | sm, sf     |
+```
+
+
+
 | Portuguese (PT)  | Tipo de Palavra | IPA (PT)        | IPA (BR)       | English      | English IPA | Spanish          | Spanish IPA | No. |
 |------------------|------------------|-----------------|----------------|-----------------|-------------|--------------------|-------------|-----|
 | designer     | sm/f  | /de.ziˈɲeɾ/     | /de.ziˈɲe.ɾu/  | designer     | /dɪˈzaɪnər/ | diseñador         | /desiɲaˈdoɾ/ |2179|

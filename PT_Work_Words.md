@@ -260,6 +260,71 @@
 | pallasso                   | /paˈʎas.o/                       | sm          |
 | soldat, soldada            | /ˈsɔl.dat, sɔlˈda.ða/            | sm, sf      |
 
+## ITALIAN
+
+| Italian                    | IPA                             | Word Type   |
+|----------------------------|---------------------------------|-------------|
+| giardiniere                | /dʒar.diˈnjɛ.re/                | sm          |
+| contabile                  | /konˈta.bile/                   | sm/f        |
+| commerciante               | /kom.merˈʧan.te/                | sm          |
+| agente di assicurazioni    | /aˈdʒɛn.te di assi.ku.raˈzi.o.ni/ | sm/f      |
+| manager                    | /ˈmæn.ɪ.dʒər/                   | sm          |
+| giornalista                | /dʒor.naˈli.sta/                | sm/f        |
+| dipendente                 | /diˈpen.den.te/                 | sm          |
+| segretaria                 | /se.ɡreˈta.ri.a/                | sf          |
+| avvocato                   | /av.voˈka.to/                   | sm          |
+| fioraio                    | /fjoˈra.jo/                    | sm          |
+| ingegnere informatico      | /inˈdʒɛɲe.re in.formaˈti.ko/    | sm          |
+| pianista                   | /pjaˈni.sta/                   | sm/f        |
+| dentista                   | /ˈdɛn.ti.sta/                   | sm/f        |
+| parrucchiere               | /par.ruk.kiˈɛ.re/               | sm          |
+| istruttore di yoga         | /is.truˈto.re di ˈjo.ga/        | sm          |
+| cuoco                      | /ˈkwo.ko/                      | sm          |
+| cameriere                  | /ka.meˈrje.re/                  | sm          |
+| cameriera                  | /ka.meˈrje.ra/                  | sf          |
+| infermiere                 | /im.ferˈmjɛ.re/                 | sm          |
+| ingegnere                  | /inˈdʒɛɲe.re/                   | sm          |
+| imprenditore, imprenditrice | /im.prɛn.dˈto.re, im.prɛn.dˈtri.tʃe/ | sm, sf   |
+| chimico                    | /ˈki.mi.ko/                    | sm          |
+| biologo                    | /ˈbi.o.lo.go/                   | sm          |
+| cameriere                  | /ka.meˈrje.re/                  | sm          |
+| cameriera                  | /ka.meˈrje.ra/                  | sf          |
+| assistente di volo         | /as.siˈstɛn.te di ˈvo.lo/       | sm          |
+| assistente di volo, assistente di volo | /as.siˈstɛn.te di ˈvo.lo/ | sm, sf  |
+| deputato, deputato         | /deˈpu.ta.to, deˈpu.ta/         | sm, sf      |
+| tassista                   | /tasˈsi.sta/                   | sm/f        |
+| cameriere                  | /ka.meˈrje.re/                  | sm          |
+| cameriera                  | /ka.meˈrje.ra/                  | sf          |
+| dipendente                 | /diˈpen.den.te/                 | sm          |
+| funzionario pubblico       | /fun.ʦjo.naˈri.o ˈpub.bli.ko/  | sm          |
+| facchino                   | /fakˈki.no/                    | sm          |
+| giudice                    | /ˈdʒwi.de/                     | sm/f        |
+| cassiere                   | /kaˈsjɛ.re/                    | sm          |
+| modella                    | /moˈdɛl.la/                    | sf          |
+| atleta                     | /aˈtle.ta/                     | sm/f        |
+| psicanalista               | /psi.kaˈnaːlis.ta/             | sm/f        |
+| pilota                     | /ˈpi.lo.ta/                    | sm          |
+| agente di assicurazioni    | /aˈdʒɛn.te di assi.ku.raˈzi.o.ni/ | sm/f      |
+| banchiere                  | /banˈkjɛ.re/                   | sm          |
+| professione                | /pro.fesˈsjɔ.ne/                | sf          |
+| traduttore                 | /traˈdut.to.re/                | sm          |
+| farmacista                 | /far.maˈʧi.sta/                | sm/f        |
+| giurista                   | /dʒuˈrista/                    | sm/f        |
+| insegnante                 | /in.seˈɲan.te/                 | sm/f        |
+| artista                    | /arˈti.sta/                    | sm          |
+| designer                   | /di.zaiˈne/                    | sm          |
+| agricoltore                | /aɡ.ri.kolˈto.re/              | sm          |
+| architetto                 | /ar.kiˈtɛt.to/                  | sm          |
+| scrittore                  | /ˈskrit.to.re/                 | sm          |
+| medico                     | /ˈmɛ.di.ko/                    | sm          |
+| agente di polizia          | /aˈdʒɛn.te di poˈli.tsja/      | sm/f        |
+| autista                    | /awˈti.sta/                    | sm          |
+| medico                     | /ˈmɛ.di.ko/                    | sm          |
+| direttore                  | /diˈrɛt.to.re/                 | sm          |
+| operaio, operaia           | /oˈpɛ.ra.jo, oˈpɛ.ra.ja/       | sm, sf      |
+| pagliaccio                 | /paˈʎat.tʃo/                   | sm          |
+| soldato, soldata           | /ˈsol.da.to, solˈda.ta/         | sm, sf      |
+
 
 ## PORTUGUESE
 

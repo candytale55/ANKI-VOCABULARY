@@ -132,6 +132,65 @@
 | soldat, soldate                              | le, la     | /sɔl.da, sɔl.dat/                   | sm, sf     |
 
 
+## GERMAN
+
+| German                                   | Article    | IPA                              | Word Type  |
+|------------------------------------------|------------|----------------------------------|------------|
+| Gärtner, Gärtnerin                       |            | /ˈɡɛʁtnɐ/, /ˈɡɛʁtnɛʁɪn/          | sm, sf     |
+| Buchhalter, Buchhalterin                 |            | /ˈbʊxˌhal.tɐ/, /ˈbʊxˌhal.təʁɪn/   | sm, sf     |
+| Händler, Händlerin                       |            | /ˈhɛnd.lɐ/, /ˈhɛnd.ləʁɪn/          | sm, sf     |
+| Versicherungsagent, Versicherungsagentin | der, die    | /fɛɐ̯ˈzɪçəʁʊŋsˌʔaˌɡɛnt/, /fɛɐ̯ˈzɪçəʁʊŋsˌʔaˌɡɛntɪn/ | sm, sf |
+| Manager, Managerin                       | der, die    | /ˈmanɪd͡ʒɐ/, /ˌmanɪˈʁiːn/         | sm, sf     |
+| Reporter, Reporterin                     | der, die    | /ʁəˈpɔʁtɐ/, /ʁəˈpɔʁtəʁɪn/        | sm, sf     |
+| Mitarbeiter, Mitarbeiterin               | der, die    | /ˈmiːtɐˌbaɪtɐ/, /ˌmiːtɐˈbaɪtəʁɪn/ | sm, sf     |
+| Sekretärin, Sekretär                     | die, der    | /zeˈkʁeːtɛʁɪn/, /zəˈkʁeːtɛʁ/      | sf, sm     |
+| Anwalt, Anwältin                         | der, die    | /ˈʔanvalt/, /ˈʔanvɛltɪn/           | sm, sf     |
+| Florist, Floristin                       | der, die    | /ˈfloːʁɪst/, /flɔˈʁɪstɪn/          | sm, sf     |
+| Informatiker, Informatikerin             | der, die    | /ˌɪnfoʁmaˈtiːkɐ/, /ˌɪnfoʁmaˈtiːkəʁɪn/ | sm, sf |
+| Pianist, Pianistin                       | der, die    | /piˈaːnɪst/, /piˈaːnɪstɪn/         | sm, sf     |
+| Zahnarzt, Zahnärztin                     | der, die    | /ˈtsaːnˌʔaʁts/, /ˈtsaːnˌʔɛʁtsɪn/   | sm, sf     |
+| Friseur, Friseurin                       | der, die    | /ˈfʁiːzøːʁ/, /fʁiˈzøːʁɪn/         | sm, sf     |
+| Yoga-Instrukteur, Yoga-Instrukteurin     | der, die    | /ˈjoːɡaˌɪ̯nstʁuˌktoːɐ̯/, /ˌjoːɡaˌɪ̯nstʁuˌktoːʁɪn/ | sm, sf |
+| Koch, Köchin                             | der, die    | /koχ/, /ˈkøːçɪn/                   | sm, sf     |
+| Kellner, Kellnerin                       | der, die    | /ˈkɛlnɐ/, /ˈkɛlnəʁɪn/            | sm, sf     |
+| Krankenpfleger, Krankenpflegerin         | der, die    | /ˈkʁaŋkənˌpfleːɡɐ/, /ˈkʁaŋkənˌpfleːɡəʁɪn/ | sm, sf |
+| Ingenieur, Ingenieurin                   | der, die    | /ˌɪnɡəˈnøːɐ̯/, /ˌɪnɡəˈnøːʁɪn/      | sm, sf     |
+| Geschäftsmann, Geschäftsfrau             | der, die    | /ˈɡɛʃɛftsmant/, /ˈɡɛʃɛftsfʁaʊ̯/    | sm, sf     |
+| Chemiker, Chemikerin                     | der, die    | /ˈçɛmɪkɐ/, /ˈçɛmɪkəʁɪn/          | sm, sf     |
+| Biologe, Biologin                         | der, die    | /bi.oˈloːɡə/, /bi.oˈloːɡɪn/        | sm, sf     |
+| Kellner, Kellnerin                       | der, die    | /ˈkɛlnɐ/, /ˈkɛlnəʁɪn/            | sm, sf     |
+| Kellner, Kellnerin                       | der, die    | /ˈkɛlnɐ/, /ˈkɛlnəʁɪn/            | sm, sf     |
+| Flugbegleiter, Flugbegleiterin           | der, die    | /ˈfluːkˌbeːɡlaɪ̯tɐ/, /ˈfluːkˌbeːɡlaɪ̯təʁɪn/ | sm, sf |
+| Kongressabgeordnete, Kongressabgeordneter | die, der    | /ˈkɔnɡʁɛsˌʔapˌɡøːʁdˌneːtə/, /ˈkɔnɡʁɛsˌʔapˌɡøːʁdˌneːtɐ/ | sf, sm |
+| Taxifahrer, Taxifahrerin                 | der, die    | /ˈtak͡siˌfaːʁɐ/, /ˈtak͡siˌfaːʁəʁɪn/ | sm, sf |
+| Kellner, Kellnerin                       | der, die    | /ˈkɛlnɐ/, /ˈkɛlnəʁɪn/            | sm, sf     |
+| Mitarbeiter, Mitarbeiterin               | der, die    | /ˈmiːtɐˌbaɪtɐ/, /ˌmiːtɐˈbaɪtəʁɪn/ | sm, sf     |
+| Beamter, Beamtin                         | der, die    | /ˈbeːamtɐ/, /ˈbeːamtɪn/          | sm, sf     |
+| Page, Page                                | der, die    | /paʒə/, /paʒə/                   | sm, sf     |
+| Richter, Richterin                       | der, die    | /ˈʁɪçtɐ/, /ˈʁɪçtəʁɪn/            | sm, sf     |
+| Kassierer, Kassiererin                   | der, die    | /kasiˈʁɐ/, /kasiˈʁəʁɪn/          | sm, sf     |
+| Model, Modelin                           | das, die    | /ˈmoːdəl/, /ˈmoːdəˌliːn/         | nt, sf     |
+| Athlet, Athletin                         | der, die    | /ˈaːtlet/, /aˈtletɪn/            | sm, sf     |
+| Psychoanalytiker, Psychoanalytikerin     | der, die    | /psyçoˈʔaːnaˌliːtɪkɐ/, /psyçoˌʔaːnaˌliːtɪkəʁɪn/ | sm, sf |
+| Pilot, Pilotin                           | der, die    | /piˈloːt/, /piˈloːtiːn/           | sm, sf     |
+| Versicherungsagent, Versicherungsagentin | der, die    | /fɛɐ̯ˈzɪçəʁʊŋsˌʔaˌɡɛnt/, /fɛɐ̯ˈzɪçəʁʊŋsˌʔaˌɡɛntɪn/ | sm, sf |
+| Banker, Bankerin                         | der, die    | /ˈbɑŋkɐ/, /ˈbɑŋkəʁɪn/            | sm, sf     |
+| Beruf, Berufin                           | der, die    | /bəˈʁuːf/, /bəˈʁuːfɪn/          | sm, sf     |
+| Übersetzer, Übersetzerin                 | der, die    | /ˌyːbɐˈzɛtsɐ/, /ˌyːbɐˈzɛtsɐʁɪn/ | sm, sf     |
+| Apotheker, Apothekerin                   | der, die    | /ˌʔapoˈteːkɐ/, /ˌʔapoˈteːkəʁɪn/ | sm, sf     |
+| Jurist, Juristin                         | der, die    | /ˈjʊʁɪst/, /ˈjʊʁɪstɪn/          | sm, sf     |
+| Lehrer, Lehrerin                         | der, die    | /ˈleːʁɐ/, /ˈleːʁəʁɪn/            | sm, sf     |
+| Künstler, Künstlerin                     | der, die    | /ˈkʏnstlɐ/, /ˈkʏnstləʁɪn/        | sm, sf     |
+| Designer, Designerin                     | der, die    | /dɛˈzaɪ̯nɐ/, /dɛˈzaɪ̯nəʁɪn/        | sm, sf     |
+| Bauer, Bäuerin                           | der, die    | /baʊ̯.ɐ/, /ˈbɔʏ̯.ʁɪn/              | sm, sf     |
+| Architekt, Architektin                   | der, die    | /arçiˈtɛkt/, /arçiˈtɛktɪn/        | sm, sf     |
+| Schriftsteller, Schriftstellerin         | der, die    | /ˈʃʁɪftˌʃtɛlɐ/, /ˈʃʁɪftˌʃtɛlɐɪ̯n/ | sm, sf     |
+| Arzt, Ärztin                             | der, die    | /aʁt͡s/, /ˈɛʁtsɪn/                | sm, sf     |
+| Polizist, Polizistin                     | der, die    | /poˈliːt͡sɪst/, /poˈliːt͡sɪstɪn/ | sm, sf     |
+| Fahrer, Fahrerin                         | der, die    | /ˈfaːʁɐ/, /ˈfaːʁəʁɪn/            | sm, sf     |
+| Arzt, Ärztin                             | der, die    | /aʁt͡s/, /ˈɛʁtsɪn/                | sm, sf     |
+| Direktor, Direktorin                     | der, die    | /dɪʁɛkˈtoːʁ/, /dɪʁɛkˈtoːʁɪn/      | sm, sf     |
+| Arbeiter, Arbeiterin                     | der, die    | /ˈʔaʁbaɪ̯tɐ/, /ˈʔaʁbaɪ̯təʁɪn/     | sm, sf    |
 
 
 ## PORTUGUESE

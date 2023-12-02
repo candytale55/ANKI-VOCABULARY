@@ -3,6 +3,72 @@
 
 ## Profession
 
+
+| Português               | English               | Spanish                | French                | German                | Valencian               | Italian               |
+|-------------------------|-----------------------|------------------------|-----------------------|-----------------------|-------------------------|-----------------------|
+| jardineiro              | gardener              | jardinero              | jardinier             | Gärtner               | jardiner                | giardiniere           |
+| contador                | accountant           | contador               | comptable             | Buchhalter            | comptador               | contabile             |
+| comerciante             | merchant             | comerciante            | commerçant            | Händler               | comerciant              | commerciante          |
+| agente de seguros       | insurance agent       | agente de seguros      | agent d'assurance     | Versicherungsagent    | agent d'assegurances    | agente di assicurazioni |
+| gerente                 | manager               | gerente                | gestionnaire          | Manager               | gerent                 | manager               |
+| repórter                | reporter              | reportero              | reporter              | Reporter              | periodista              | giornalista           |
+| empregado               | employee              | empleado               | employé                | Mitarbeiter           | empleat                | dipendente            |
+| secretária             | secretary             | secretaria             | secrétaire            | Sekretärin            | secretari               | segretaria            |
+| advogado                | lawyer                | abogado                | avocat                | Anwalt                | advocat                | avvocato              |
+| florista                | florist               | florista               | fleuriste             | Florist               | florista                | fioraio               |
+| engenheiro informático  | computer engineer      | ingeniero informático  | ingénieur informaticien| Informatiker          | enginyer informàtic    | ingegnere informatico |
+| pianista                | pianist               | pianista               | pianiste              | Pianist               | pianista                | pianista              |
+| dentista                | dentist               | dentista               | dentiste              | Zahnarzt              | dentista                | dentista              |
+| cabeleireiro            | hairdresser           | peluquero              | coiffeur              | Friseur               | perruquer              | parrucchiere          |
+| instrutor(a) de yoga    | yoga instructor       | instructor(a) de yoga  | instructeur de yoga   | Yoga-Instrukteur      | instructor de ioga     | istruttore di yoga    |
+| cozinheiro              | cook                  | cocinero               | cuisinier             | Koch                  | cuiner                 | cuoco                 |
+| garçom                  | waiter                | camarero               | serveur               | Kellner               | cambrer                | cameriere             |
+| garçonnière             | waitress              | camarera               | serveuse              | Kellnerin             | cambrera                | cameriera             |
+| enfermeiro              | nurse                 | enfermero              | infirmier             | Krankenpfleger        | infermer                | infermiere            |
+| engenheiro              | engineer              | ingeniero              | ingénieur             | Ingenieur             | enginyer                | ingegnere             |
+| empresário, empresária  | businessman, businesswoman | empresario, empresaria | homme d'affaires, femme d'affaires | Geschäftsmann, Geschäftsfrau | empresari, empresària | imprenditore, imprenditrice |
+| químico                 | chemist               | químico                | chimiste              | Chemiker              | químic                 | chimico               |
+| biólogo                 | biologist             | biólogo                | biologiste            | Biologe               | biòleg                 | biologo               |
+| garçom                  | waiter                | camarero               | serveur               | Kellner               | cambrer                | cameriere             |
+| garçonnière             | waitress              | camarera               | serveuse              | Kellnerin             | cambrera                | cameriera             |
+| aeromoça, comissária    | flight attendant      | azafata, azafato       | hôtesse de l'air      | Flugbegleiter         | auxiliar de vol         | assistente di volo   |
+| aeromoça, comissário    | stewardess, steward    | azafata, azafato       | stewardess, steward    | Flugbegleiterin, Flugbegleiter | auxiliar de vol, auxiliar de vol         | assistente di volo, assistente di volo   |
+| deputada, deputado      | congresswoman, congressman | diputada, diputado | députée, député       | Kongressabgeordnete, Kongressabgeordneter | diputada, diputat           | deputato, deputato   |
+| taxista                 | taxi driver           | taxista                | chauffeur de taxi     | Taxifahrer            | taxista                 | tassista              |
+| garçom                  | waiter                | camarero               | serveur               | Kellner               | cambrer                | cameriere             |
+| garçonnière             | waitress              | camarera               | serveuse              | Kellnerin             | cambrera                | cameriera             |
+| empregado               | employee              | empleado               | employé                | Mitarbeiter           | empleat                | dipendente            |
+| funcionário público     | civil servant         | funcionario público    | fonctionnaire public  | Beamter               | funcionari públic        | funzionario pubblico  |
+| mensageiro              | bellboy               | mensajero              | garçon d'hôtel        | Page                  | picapedrer                | facchino              |
+| juiz, juíza            | judge                 | juez, jueza            | juge                  | Richter, Richterin    | jutge                   | giudice               |
+| caixa                   | cashier               | cajero                 | caissier              | Kassierer             | caixer                  | cassiere              |
+| modelo de moda          | fashion model         | modelo de moda         | mannequin             | Model                 | model de moda           | modella               |
+| atleta                  | athlete               | atleta                 | athlète               | Athlet                | atleta                  | atleta                |
+| psicanalista            | psychoanalyst         | psicoanalista          | psychanalyste         | Psychoanalytiker      | psicoanalista            | psicanalista          |
+| piloto                  | pilot                 | piloto                 | pilote                | Pilot                 | pilot                   | pilota                |
+| agente de seguros       | insurance agent       | agente de seguros      | agent d'assurance     | Versicherungsagent    | agent d'assegurances    | agente di assicurazioni |
+| banqueiro, banqueira    | banker                | banquero, banquera     | banquier, banquière   | Banker, Bankerin      | banquer, banquera        | banchiere             |
+| profissão               | profession            | profesión              | profession            | Beruf                 | professió               | professione           |
+| tradutor                | translator            | traductor              | traducteur            | Übersetzer            | traductor               | traduttore            |
+| farmacêutico, farmacêutica | pharmacist           | farmacéutico, farmacéutica | pharmacien, pharmacienne | Apotheker, Apothekerin | farmacèutic, farmacèutica | farmacista            |
+| jurista                 | jurist                | jurista                | juriste               | Jurist                | jurista                 | giurista              |
+| professor               | teacher               | maestro                | professeur            | Lehrer                | mestre                  | insegnante            |
+| artista                 | artist                | artista                | artiste               | Künstler              | artista                 | artista               |
+| designer                | designer              | diseñador              | designer              | Designer              | dissenyador             | designer              |
+| agricultor              | farmer                | agricultor             | agriculteur           | Bauer                 | agricultor               | agricoltore           |
+| arquiteto, arquiteta    | architect             | arquitecto, arquitecta | architecte            | Architekt             | arquitecte              | architetto            |
+| escritor, escritora      | writer                | escritor, escritora     | écrivain              | Schriftsteller        | escriptor, escriptora   | scrittore             |
+| médico, médica          | doctor                | médico, médica         | médecin               | Arzt                  | metge                   | medico                |
+| policial                | police officer        | policía                | agent de police       | Polizist              | policia                 | agente di polizia     |
+| motorista               | driver                | conductor              | conducteur            | Fahrer                | conductor               | autista               |
+| médico                  | doctor                | doctor                 | docteur               | Arzt                  | metge                   | medico                |
+| diretor, diretora       | director              | director(a)            | directeur, directrice | Direktor, Direktorin  | director, directora      | direttore             |
+| operário, operária      | worker                | obrero, obrera         | ouvrier, ouvrière     | Arbeiter, Arbeiterin  | obrer, obrera           | operaio, operaia      |
+| palhaço                 | clown                 | payaso                 | clown                 | Clown                 | pallasso                | pagliaccio            |
+| soldado, soldada        | soldier               | soldado, soldada       | soldat, soldate       | Soldat, Soldatin      | soldat, soldada          | soldato, soldato      |
+
+
+
 | Portuguese (PT)  | Tipo de Palavra | IPA (PT)        | IPA (BR)       | English      | English IPA | Spanish          | Spanish IPA | No. |
 |------------------|------------------|-----------------|----------------|-----------------|-------------|--------------------|-------------|-----|
 | designer     | sm/f  | /de.ziˈɲeɾ/     | /de.ziˈɲe.ɾu/  | designer     | /dɪˈzaɪnər/ | diseñador         | /desiɲaˈdoɾ/ |2179|

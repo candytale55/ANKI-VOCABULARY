@@ -136,9 +136,9 @@
 
 | German                                   | Article    | IPA                              | Word Type  |
 |------------------------------------------|------------|----------------------------------|------------|
-| Gärtner, Gärtnerin                       |            | /ˈɡɛʁtnɐ/, /ˈɡɛʁtnɛʁɪn/          | sm, sf     |
-| Buchhalter, Buchhalterin                 |            | /ˈbʊxˌhal.tɐ/, /ˈbʊxˌhal.təʁɪn/   | sm, sf     |
-| Händler, Händlerin                       |            | /ˈhɛnd.lɐ/, /ˈhɛnd.ləʁɪn/          | sm, sf     |
+| Gärtner, Gärtnerin    | der, die      | /ˈɡɛʁtnɐ/, /ˈɡɛʁtnɛʁɪn/          | sm, sf     |
+| Buchhalter, Buchhalterin | der, die   | /ˈbʊxˌhal.tɐ/, /ˈbʊxˌhal.təʁɪn/   | sm, sf     |
+| Händler, Händlerin    | der, die      | /ˈhɛnd.lɐ/, /ˈhɛnd.ləʁɪn/          | sm, sf     |
 | Versicherungsagent, Versicherungsagentin | der, die    | /fɛɐ̯ˈzɪçəʁʊŋsˌʔaˌɡɛnt/, /fɛɐ̯ˈzɪçəʁʊŋsˌʔaˌɡɛntɪn/ | sm, sf |
 | Manager, Managerin                       | der, die    | /ˈmanɪd͡ʒɐ/, /ˌmanɪˈʁiːn/         | sm, sf     |
 | Reporter, Reporterin                     | der, die    | /ʁəˈpɔʁtɐ/, /ʁəˈpɔʁtəʁɪn/        | sm, sf     |
@@ -191,6 +191,9 @@
 | Arzt, Ärztin                             | der, die    | /aʁt͡s/, /ˈɛʁtsɪn/                | sm, sf     |
 | Direktor, Direktorin                     | der, die    | /dɪʁɛkˈtoːʁ/, /dɪʁɛkˈtoːʁɪn/      | sm, sf     |
 | Arbeiter, Arbeiterin                     | der, die    | /ˈʔaʁbaɪ̯tɐ/, /ˈʔaʁbaɪ̯təʁɪn/     | sm, sf    |
+| Clown                | der, die      | /klaʊ̯n/                          | sm         |
+| Soldat, Soldatin      | der, die      | /ˈzɔl.daːt/, /zɔlˈdaːtɪn/         | sm, sf     |
+
 
 
 ## PORTUGUESE

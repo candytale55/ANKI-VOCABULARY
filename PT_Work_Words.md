@@ -195,6 +195,71 @@
 | Soldat, Soldatin      | der, die      | /ˈzɔl.daːt/, /zɔlˈdaːtɪn/         | sm, sf     |
 
 
+## VALENCIAN 
+
+| Valencian                  | IPA                              | Word Type   |
+|----------------------------|----------------------------------|-------------|
+| jardiner                   | /ʒar.diˈneɾ/                     | sm          |
+| comptador                  | /kõm.pˈta.dor/                   | sm          |
+| comerciant                 | /ko.mer.siˈãnt/                  | sm          |
+| agent d'assegurances       | /aˈʒent dasɛɡuˈɾansɛs/           | sm/f        |
+| gerent                     | /ʒeˈɾent/                        | sm          |
+| periodista                 | /pe.ɾjoˈdis.ta/                  | sm/f        |
+| empleat                    | /em.plɛˈjat/                     | sm          |
+| secretari                  | /se.kɾeˈta.ɾi/                   | sm          |
+| advocat                    | /ad.voˈkat/                      | sm          |
+| florista                   | /floˈɾis.ta/                     | sm/f        |
+| enginyer informàtic        | /en.ʒiˈɲe in.forˈma.tik/         | sm          |
+| pianista                   | /pjaˈnis.ta/                     | sm/f        |
+| dentista                   | /denˈtis.ta/                     | sm/f        |
+| perruquer                  | /pe.ruˈkeɾ/                      | sm          |
+| instructor de ioga         | /ins.tɾuk.toɾ de ˈjo.ɡa/          | sm          |
+| cuiner                     | /kwiˈneɾ/                        | sm          |
+| cambrer                    | /kamˈbɾeɾ/                       | sm          |
+| cambrera                   | /kamˈbe.ɾa/                      | sf          |
+| infermer                   | /imˈfeɾ.mer/                     | sm          |
+| enginyer                   | /en.ʒiˈɲeɾ/                      | sm          |
+| empresari, empresària      | /em.prɛ.zɑ.ˈɾi, em.prɛ.zɑ.ˈɾi.a/  | sm, sf      |
+| químic                    | /ˈkimi/                          | sm          |
+| biòleg                     | /biˈɔ.lɛɡ/                       | sm          |
+| cambrer                    | /kamˈbɾeɾ/                       | sm          |
+| cambrera                   | /kamˈbe.ɾa/                      | sf          |
+| auxiliar de vol            | /aw.siˈli.aɾ de ˈvɔl/            | sm          |
+| auxiliar de vol, auxiliar de vol | /aw.siˈli.aɾ de ˈvɔl/   | sm, sf      |
+| diputada, diputat          | /di.pyˈta.ða, di.pyˈta/          | sf, sm      |
+| taxista                    | /taˈʃis.ta/                      | sm/f        |
+| cambrer                    | /kamˈbɾeɾ/                       | sm          |
+| cambrera                   | /kamˈbe.ɾa/                      | sf          |
+| empleat                    | /em.plɛˈjat/                     | sm          |
+| funcionari públic          | /fun.si.oˈna.ɾi ˈpub.lik/        | sm          |
+| picapedrer                 | /pi.kaˈpe.dɾeɾ/                  | sm          |
+| jutge                      | /ʒuʧ/                            | sm/f        |
+| caixer                     | /kaɪ̯ˈʃeɾ/                        | sm          |
+| model de moda              | /moˈdɛl de ˈmo.da/               | sm          |
+| atleta                     | /atˈle.ta/                       | sm/f        |
+| psicoanalista              | /psi.ko.a.naˈlist.a/             | sm/f        |
+| pilot                      | /piˈlɔt/                         | sm          |
+| agent d'assegurances       | /aˈʒent dasɛɡuˈɾansɛs/           | sm/f        |
+| banquer, banquera          | /bãˈke, bãˈke.ɾa/                | sm, sf      |
+| professió                  | /pɾu.fɛs.siˈo/                   | sf          |
+| traductor                  | /tɾa.duɡˈtoɾ/                    | sm          |
+| farmacèutic, farmacèutica  | /faɾ.maˈθɛu.tik, faɾ.maˈθɛu.ti.ka/ | sm, sf   |
+| jurista                    | /ʒuˈɾis.ta/                      | sm/f        |
+| mestre                     | /ˈmɛs.tɾe/                       | sm          |
+| artista                    | /aɾˈtis.ta/                      | sm          |
+| dissenyador                | /di.seɲˈja.dor/                  | sm          |
+| agricultor                 | /aɡri.kulˈtoɾ/                   | sm          |
+| arquitecte                 | /aɾ.kiˈtɛk.te/                   | sm          |
+| escriptor, escriptora      | /es.kɾiˈtoɾ, es.kɾipˈtoɾa/       | sm, sf      |
+| metge                      | /ˈmɛdʒə/                         | sm          |
+| policia                    | /poˈli.si.a/                     | sm/f        |
+| conductor                  | /kõ̯.du(k)ˈtoɾ/                   | sm          |
+| metge                      | /ˈmɛdʒə/                         | sm          |
+| director, directora        | /di.ɾɛkˈtoɾ, di.ɾɛkˈtoɾa/         | sm, sf      |
+| obrer, obrera              | /oˈbɾeɾ, oˈbɾeɾa/                | sm, sf      |
+| pallasso                   | /paˈʎas.o/                       | sm          |
+| soldat, soldada            | /ˈsɔl.dat, sɔlˈda.ða/            | sm, sf      |
+
 
 ## PORTUGUESE
 

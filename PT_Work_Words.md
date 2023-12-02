@@ -69,10 +69,8 @@
 
 
 
+## FRENCH
 
-Certainly! Here is the updated table with the feminine form included in the French column:
-
-```markdown
 | French                                     | Article    | IPA                                  | Word Type  |
 |--------------------------------------------|------------|--------------------------------------|------------|
 | jardinier, jardinière                      |            | /ʒaʁ.dinje/, /ʒaʁ.di.njɛʁ/          | sm, sf     |
@@ -132,7 +130,11 @@ Certainly! Here is the updated table with the feminine form included in the Fren
 | ouvrier, ouvrière                           | l', l'     | /u.vʁje, u.vʁjɛʁ/                   | sm, sf     |
 | clown, clowne                               | le, la     | /klun, klun/                        | sm, sf     |
 | soldat, soldate                              | le, la     | /sɔl.da, sɔl.dat/                   | sm, sf     |
-```
+
+
+
+
+## PORTUGUESE
 
 
 

@@ -4,11 +4,6 @@
 | vegetais           | vegetables        | vegetales         | légumes           | Gemüse            | vegetals           | verdure             |
 | vinho              | wine              | vino              | vin               | Wein              | vi               | vino                |
 | laranja            | orange            | naranja           | orange            | Orange            | taronja            | arancia             |
-
-
-
-| Portuguese         | English           | Spanish           | French            | German            | Valencian          | Italian            |
-|--------------------|-------------------|-------------------|-------------------|-------------------|--------------------|---------------------|
 | previdência        | foresight         | previsión         | prévoyance        | Voraussicht       | previsió           | previdenza          |
 | beleza             | beauty            | belleza           | beauté            | Schönheit         | bellesa            | bellezza            |
 | entrevista         | interview         | entrevista        | entretien         | Interview         | entrevista         | intervista           |
@@ -16,22 +11,8 @@
 | raça               | race              | raza              | race              | Rasse             | raça               | razza              |
 | fogo               | fire              | fuego             | feu               | Feuer             | foc               | fuoco              |
 | ouro, oiro  | gold    | oro     | or     | Gold  | or        | oro     |
-
-
-
-| Portuguese         | English           | Spanish           | French            | German            | Valencian          | Italian            |
-|--------------------|-------------------|-------------------|-------------------|-------------------|--------------------|---------------------|
 | realizador, realizadora | director (film)  | director (película)| réalisateur, réalisatrice | Regisseur(in)  | realitzador(a)    | regista (film)      |
-
-
-| Portuguese         | English           | Spanish           | French            | German            | Valencian          | Italian            |
-|--------------------|-------------------|-------------------|-------------------|-------------------|--------------------|---------------------|
 | cheia              | flood             | inundación        | inondation        | Flut              | creixent           | piena               |
-
-
-
-| Portuguese         | English           | Spanish           | French            | German            | Valencian          | Italian            |
-|--------------------|-------------------|-------------------|-------------------|-------------------|--------------------|---------------------|
 | preto              | black             | negro             | noir              | Schwarz           | negre              | nero               |
 | negro              | black             | negro             | noir              | Schwarz           | negre              | nero               |
 | branco             | white             | blanco            | blanc             | Weiß              | blanc              | bianco              |
@@ -47,27 +28,14 @@
 | marrom             | brown             | marrón           | brun              | Braun             | marró              | marrone            |
 | laranja            | orange            | naranja           | orange            | Orange            | taronja            | arancia             |
 | roxo               | purple            | morado           | violet            | Lila              | lila               | viola              |
-
-
-
-| Portuguese         | English           | Spanish           | French            | German            | Valencian          | Italian            |
-|--------------------|-------------------|-------------------|-------------------|-------------------|--------------------|---------------------|
-| lar               | home              | hogar            | maison            | Zuhause           | llar             | casa              |
+ lar               | home              | hogar            | maison            | Zuhause           | llar             | casa              |
 | endereço           | address           | dirección         | adresse           | Adresse           | adreça             | indirizzo           |
 | lareira            | hearth, chimney   | hogar, chimenea   | foyer, cheminée   | Kamin             | llar, xemeneia     | camino, camino         |
 | residência         | home              | residencia        | domicile          | Zuhause           | residència         | residenza           |
 | morada             | address           | dirección         | adresse           | Adresse           | adreça             | indirizzo           |
-
-
-| Portuguese         | English           | Spanish           | French            | German            | Valencian          | Italian            |
-|--------------------|-------------------|-------------------|-------------------|-------------------|--------------------|---------------------|
 | sardas     | freckles | pecas   | taches de rousseur | Sommersprossen | taques de sol | lentiggini |
 | beicinho           | lip, pout         | morro            | moue, boudeur      | Lippe, Schmollmund | beic              | labbro, muso       |
 | traquéia           | trachea            | tráquea           | trachée           | Luftröhre        | tràquea            | trachea             |
-
-
-| Portuguese         | English           | Spanish           | French            | German            | Valencian          | Italian            |
-|--------------------|-------------------|-------------------|-------------------|-------------------|--------------------|---------------------|
 | fim da tarde       | evening, end of the day | fin de la tarde | fin de journée    | Abend            | final de la tarda | fine del giorno    |
 
 | Portuguese         | English           | Spanish           | French            | German            | Valencian          | Italian            |

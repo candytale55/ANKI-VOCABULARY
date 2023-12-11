@@ -1,3 +1,6 @@
+# School vocabulary - Portuguese
+
+
 This table includes words about school materials, subjects, and school life.
 
 | Portuguese  | Tipo de Palavra    | IPA     | English              | IPA (USA)      | Spanish       | Spanish IPA | No. |

@@ -30,12 +30,6 @@
 | 9811 | estultilóquio | o estultilóquio | /ɨʃ.tu.lti.ˈlo.kju/ | /ɛʃ.tu.ti.ˈlo.kju/ | sm |
 | 9813 | suíte | a suíte | /ˈswi.ti/ | /ˈswi.ti/ | sf |
 | 9816 | silogismo | o silogismo | /si.lo.ˈʒiʒ.mu/ | /si.lo.ˈʒiʒ.mu/ | sm |
-
-
-
-
-| No. | Portuguese word | Portuguese noun with article | IPA (PT) | IPA (BR) | Type of Word |
-|-----|------------------|----------------------------|----------|----------|--------------|
 | 9674 | elogio fúnebre | o elogio fúnebre | /e.ˈlo.ʒju fu.ˈnɛ.bɾi/ | /e.ˈlo.ʒju fu.ˈnɛ.bɾi/ | sm |
 | 9675 | euouae |            | /eu.uˈwe/ | /eu.uˈwe/ | int |
 | 9676 | eutanásia | a eutanásia | /eu.ta.ˈna.zi.ɐ/ | /ew.ta.ˈna.zi.ɐ/ | sf |
@@ -53,10 +47,6 @@
 | 9707 | isquemia | a isquemia | /iʃ.ˈkɛ.mi.ɐ/ | /is.ˈkɛ.mi.ɐ/ | sf |
 | 9710 | itinerário | o itinerário | /i.ti.nɨ.ˈɾa.ɾi.u/ | /i.ti.nɛ.ˈɾa.ɾi.u/ | sm |
 | 9712 | icterícia | a icterícia | /iʃ.tɨ.ˈɾi.si.ɐ/ | /iʃ.tɛ.ˈɾi.si.ɐ/ | sf |
-
-
-| No. | Portuguese word | Portuguese noun with article | IPA (PT) | IPA (BR) | Type of Word |
-|-----|------------------|----------------------------|----------|----------|--------------|
 | 9606 | arquipélago | o arquipélago | /ɐɾ.ki.pɛ.ˈla.ɡu/ | /aʁ.ki.pɛ.ˈla.ɡu/ | sm |
 | 9608 | asterisco | o asterisco | /ɐʃ.tɛ.ˈɾiʃ.ku/ | /as.te.ˈɾis.ku/ | sm |
 | 9609 | atleta | o atleta | /ɐt.ˈlɛ.tɐ/ | /a.ˈtle.tɐ/ | sm/f |

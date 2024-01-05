@@ -2,6 +2,7 @@
 
 Tomadas de esta URL: https://www.dicio.com.br/lista-de-palavras/
 
+Cambieciño
 
 | Portuguese Word | Part of Speech (Gender) | Portuguese IPA | Equivalent English Word | English IPA (USA) | Equivalent Spanish Word | Spanish IPA (Latin American) | Word No. |
 |-----------------|-------------------------|----------------|------------------------|------------------|-------------------------|-----------------------------|----------|

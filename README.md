@@ -4,8 +4,56 @@ WORKING ON THIS, NO ANKI FILES YET
 
 This repository is dedicated to a vocabulary learning deck that includes words in English, French, Catalan / Valencian, German, Spanish, Portuguese and Italian. Each card includes the word, sometimes an image, the translation to English, and the option to add recordings for better retention.
 
+## Usage Notes:
 
-## Notas de Uso y Licencia:
+This Anki deck is designed to assist in learning basic English vocabulary.
+
+The cards and content included in this deck are provided **"as is,"** and there is no guarantee of their accuracy or completeness.
+
+The images and audio files used in this deck have been obtained from publicly available sources, so they are presumed to be freely usable. However, there is no information available regarding their origin or original licenses.
+
+This deck is provided for free for exclusive use in educational and learning purposes. You may distribute it as teaching material, as long as there is no associated commercial objective.
+
+## Requirements
+
+- Anki: Version ⁨2.1.60 (last version it was used on, should also work on higher versions)
+
+## Installation
+
+1. Download the deck, it's the ".apkg" file. Alternatively, you can clone the entire repository if you prefer.
+2. Open Anki: Launch the Anki application on your computer.
+3. Import the deck: On the main screen of Anki, click on **"File"** in the top menu bar and select **"Import."** Locate the deck file you downloaded and select it. Click **"Open"** to start the import process.
+
+
+## Features
+
+This Anki deck consists of two notes per word. The first one displays an image and a file with the pronunciation of the word. The user can write the corresponding word. When checking their answer, the word they wrote and the correct word are displayed. Correct responses are shown in green, and errors in red.
+
+In the second note, the image representing the word and the word itself are shown. The user will attempt to pronounce it as best as they can. After completing the test, the user can listen to the correct pronunciation and repeat the sound to verify their pronunciation as many times as they want.
+
+## Cards
+
+Each deck has a set of two Cards:
+
+**Card 1: How do you spell this word?**
+![How do you spell this word?](ScreenShots/SC01-Como Deletreas.gif)
+
+*Front side:* Presents the user with an image of a word and asks how it is pronounced. Additionally, the image representing the word is displayed.
+
+*Back side:* On the back of the card, the Spanish translation of the word is shown, along with its phonetic transcription in the International Phonetic Alphabet (IPA). If a recording of the word's pronunciation is available, it is played. This allows the user to learn the correct pronunciation of the word and improve their listening skills in the English language.
+
+**Card 2: How do you pronounce this word?**
+![FrontTemplate 2 "How do you pronounce this word?"](ScreenShots/SC02 - Como pronuncias.gif)
+
+*Front side:* Presents the user with an image related to a word and plays the recording of the pronunciation of that word. The user has the option to type the word they think corresponds to the image and its pronunciation.
+
+*Back side:* The correct word is displayed, and a comparison is made with what the user has written. Differences between the word written by the user and the correct word will be highlighted in red, while the correct parts will be shown in green. This allows the user to quickly identify errors in their response. Typing the word is not mandatory if the user chooses not to do so.
+
+
+
+# ESPAÑOL
+
+## Notas de Uso:
 
 Este mazo de Anki está diseñado para ayudar en el aprendizaje del vocabulario básico de inglés.
 

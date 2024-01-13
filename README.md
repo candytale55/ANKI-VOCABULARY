@@ -1,5 +1,91 @@
 # ANKI-500-Basic-Words
 
+# Anki Vocabulary Decks Documentation
+
+## Intro
+This Anki deck is designed to help users learn vocabulary in multiple languages, including Portuguese, English, Spanish, French, German, Valencian, and Italian. The deck focuses on improving pronunciation, spelling, and comprehension through a variety of language-specific fields.
+
+## Features
+1. **Spelling Practice (Card 1):** Users see an image and hear the pronunciation, then attempt to spell the corresponding word. The correct spelling is revealed, and differences are highlighted in red for quick error identification.
+
+2. **Pronunciation Practice (Card 2):** Users hear the pronunciation, see an image, and optionally type the word. The correct word is shown, and differences between the user's input and the correct word are highlighted in red and green, respectively.
+
+## Cards
+
+### Card 1: How do you spell this word?
+**Front side:**
+- Image of the word
+- Prompt: "How is this word pronounced?"
+
+**Back side:**
+- Spanish translation in IPA
+- Word type and gender
+- User's spelling in red, correct parts in green
+
+### Card 2: How do you pronounce this word?
+**Front side:**
+- Image related to the word
+- Pronunciation audio
+
+**Back side:**
+- Correct word
+- User's input with differences highlighted in red and correct parts in green
+
+## Fields
+
+1. **No:** Note number identifier
+2. **Image:** Field for image representation
+3. **pt_word:** Portuguese word
+4. **pt_word_art:** Portuguese word with article for gender learning
+5. **pt_ipa_PT:** IPA for Portugal's Portuguese pronunciation
+6. **pt_ipa_BR:** IPA for Brazil's Portuguese pronunciation
+7. **pt_type_gender:** Type and gender of Portuguese word
+8. **pt_notes:** Comments and examples for Portuguese word
+9. **en_word:** English word
+10. **en_ipa_US:** IPA for American English pronunciation
+11. **en_ipa_UK:** IPA for British English pronunciation
+12. **en_type:** Type of English word
+13. **en_marker:** Additional marker for English words
+14. **en_notes:** Comments and examples for English word
+15. **es_word:** Spanish word
+16. **es_ipa_ES:** IPA for Iberian Spanish pronunciation
+17. **es_ipa_LA:** IPA for Latin American Spanish pronunciation
+18. **es_type_gender:** Type and gender of Spanish word
+19. **es_marker:** Additional marker for Spanish words
+20. **es_notes:** Comments and examples for Spanish word
+21. **image:** Field for image representation
+22. **fr_word:** French word
+23. **fr_word_art:** French word with article for gender learning
+24. **fr_ipa:** IPA for French pronunciation
+25. **fr_type_gender:** Type and gender of French word
+26. **fr_notes:** Comments and examples for French word
+27. **de_word:** German word
+28. **de_word_art:** German word with article for gender learning
+29. **de_ipa:** IPA for German pronunciation
+30. **de_type_gender:** Type and gender of German word
+31. **de_notes:** Comments and examples for German word
+32. **val_word:** Valencian word
+33. **val_ipa:** IPA for Valencian pronunciation
+34. **cat_ipa:** IPA for Catalan pronunciation (if different from Valencian)
+35. **val_type_gender:** Type and gender of Valencian word
+36. **val_notes:** Comments and examples for Valencian word
+37. **it_word:** Italian word
+38. **it_ipa:** IPA for Italian pronunciation
+39. **it_type_gender:** Type and gender of Italian word
+40. **it_notes:** Comments and examples for Italian word
+41. **en_pron:** Pronunciation audio for English word
+42. **pt_pron:** Pronunciation audio for Portuguese word
+43. **es_pron:** Pronunciation audio for Spanish word
+44. **fr_pron:** Pronunciation audio for French word
+45. **de_pron:** Pronunciation audio for German word
+46. **it_pron:** Pronunciation audio for Italian word
+47. **val_pron:** Pronunciation audio for Valencian word
+
+
+
+
+
+
 WORKING ON THIS, NO ANKI FILES YET
 
 This repository is dedicated to a vocabulary learning deck that includes words in English, French, Catalan / Valencian, German, Spanish, Portuguese and Italian. Each card includes the word, sometimes an image, the translation to English, and the option to add recordings for better retention.

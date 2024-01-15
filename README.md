@@ -31,6 +31,8 @@ This Anki deck is designed to help users learn vocabulary in multiple languages,
 - Correct word
 - User's input with differences highlighted in red and correct parts in green
 
+
+
 ## Fields
 
 1. **No:** Note number identifier
@@ -45,13 +47,13 @@ This Anki deck is designed to help users learn vocabulary in multiple languages,
 10. **en_ipa_US:** IPA for American English pronunciation
 11. **en_ipa_UK:** IPA for British English pronunciation
 12. **en_type:** Type of English word
-13. **en_marker:** Additional marker for English words
+13. **en_marker:** Additional marker for English words (it tells the deck to generate the card)
 14. **en_notes:** Comments and examples for English word
 15. **es_word:** Spanish word
 16. **es_ipa_ES:** IPA for Iberian Spanish pronunciation
 17. **es_ipa_LA:** IPA for Latin American Spanish pronunciation
 18. **es_type_gender:** Type and gender of Spanish word
-19. **es_marker:** Additional marker for Spanish words
+19. **es_marker:** Additional marker for Spanish words (it tells the deck to generate the card)
 20. **es_notes:** Comments and examples for Spanish word
 21. **image:** Field for image representation
 22. **fr_word:** French word

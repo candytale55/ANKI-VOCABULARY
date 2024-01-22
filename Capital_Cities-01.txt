@@ -1,0 +1,193 @@
+#separator:tab
+#html:false
+6576	Abuja	em Abuja				Nigéria	Abuja					Nigeria	Abuja					Nigeria		Abuja		abuʒa		Nigéria ou le Nigeria	Abuja				Nigeria	Abuja				Nigèria	Abuja			Nigeria							
+6577	Acra	em Acra				Gana	Accra					Ghana	Accra					Ghana		Accra		akʁa		le Ghana	Accra				Ghana	Accra				Gana	Accra			Ghana							
+6578	Asgabate	em Asgabate				Turcomenistão	Ashgabat					Turkmenistan	Asjabad					Turkmenistán		Achgabat		aʃɡabat		le Turkménistan ou la Turkménie	Asgabat				Turkmenistan	Asgabat				Turkmenistan	Asgabat			Turkmenistan							
+6579	Adis Abeba	em Adis Abeba				Etiópia	Addis Ababa					Ethiopia	Adís Abeba					Etiopía		Addis-Abeba		adisabeba		l'Éthiopie	Addis Abeba				Äthiopien	Addis Abeba				Etiòpia	Addis Abeba			Etiopia							
+6580	Argel	em Argel				Argélia	Algiers					Algeria	Argel					Argelia		Alger		alʒe		l'Algérie	Algier				Algerien	Alger				Algèria	Algeri			Algeria							
+6581	Alofi	em Alofi				Niue	Alofi					Niue	Alofi					Niue		Alofi		alɔfi		Niue	Alofi				Niue	Alofi				Niue	Alofi			Niue							
+6582	Amã	em Amã				Jordânia	Amman					Jordan	Amán					Jordania		Amman		aman		la Jordanie	Amman				Jordanien	Amman				Jordània	Amman			Giordania							
+6583	Amsterdã	em Amsterdã				Países Baixos	Amsterdam					Netherlands	Ámsterdam					Países Bajos		Amsterdam		amstɛʁdam		les Pays-Bas	Amsterdam				Niederlande	Amsterdam				Països Baixos	Amsterdam			Paesi Bassi							
+6584	Andorra-a-Velha	em Andorra-a-Velha				Andorra	Andorra la Vella					Andorra	Andorra la Vieja					Andorra		Andorre-la-Vieille		ɑ̃dɔʁlavjɛj		l'Andorre	Andorra la Vella				Andorra	Andorra la Vella				Andorra	Andorra la Vella			Andorra							
+6585	Ancara	em Ancara				Turquia	Ankara					Turkey	Ankara					Turquía		Ankara		ɑ̃kaʁa		la Turquie	Ankara				Türkei	Ankara				Turquia	Ankara			Turchia							
+6586	Antananarivo	em Antananarivo				Madagáscar	Antananarivo					Madagascar	Antananarivo					Madagascar		Antananarivo		ɑ̃tananaʁivo		Madagascar	Antananarivo				Madagaskar	Antananarivo				Madagascar	Antananarivo			Madagascar							
+6587	Apia	em Apia				Samoa	Apia					Samoa	Apia					Samoa		Apia		apja		le Samoa	Apia				Samoa	Apia				Samoa	Apia			Samoa							
+6588	Astana	em Astana				Cazaquistão	Astana					Kazakhstan	Astaná					Kazajistán		Astana		astana		le Kazakhstan	Astana				Kasachstan	Astana				Kazakhstan	Astana			Kazakistan							
+6589	Assunção	em Assunção				Paraguai	Asuncion					Paraguay	Asunción					Paraguay		Asuncion		asɛ̃sjɔ̃		le Paraguay	Asunció				Paraguay	Asuncion				Paraguai	Asunción			Paraguay							
+6590	Atenas	em Atenas				Grécia	Athens					Greece	Atenas					Grecia		Athènes		atɛn		la Grèce	Athen				Griechenland	Atenes				Grècia	Atene			Grecia							
+6591	Avarua	em Avarua				Ilhas Cook	Avarua					Cook Islands	Avarua					Islas Cook		Avarua		avaʁɥa		les Îles Cook	Avarua				Cookinseln	Avarua				Illes Cook	Avarua			Isole Cook							
+6592	Bagdá	em Bagdá				Iraque	Baghdad					Iraq	Bagdad					Irak		Bagdad		baɡdad		l'Irak ou l'Iraq	Bagdad				Irak	Bagdad				Iraq	Baghdad			Iraq							
+6593	Bacu	em Bacu				Azerbaijão	Baku					Azerbaijan	Bakú					Azerbaiyán		Bakou		baku		l'Azerbaïdjan	Baku				Aserbaidschan	Bacu				Azerbaitjan	Baku			Azerbaigian							
+6594	Bamako	em Bamako				Mali	Bamako					Mali	Bamako					Malí		Bamako		bamako		le Mali	Bamako				Mali	Bamako				Mali	Bamako			Mali							
+6595	Bandar Seri Begawan	em Bandar Seri Begawan				Brunei	Bandar Seri Begawan					Brunei	Bandar Seri Begawan					Brunéi		Bandar Seri Begawan				le Brunei	Bandar Seri Begawan				Brunei	Bandar Seri Begawan				Brunèi	Bandar Seri Begawan			Brunei							
+6596	Banguecoque	em Banguecoque				Tailândia	Bangkok					Thailand	Bangkok					Tailandia		Bangkok		bɑ̃ŋkɔk		la Thaïlande	Bangkok				Thailand	Bangkok				Tailàndia	Bangkok			Tailandia							
+6597	Bangui	em Bangui				República Centro-Africana	Bangui					Central African Republic	Bangui					República Centroafricana		Bangui		bɑ̃ɡi		la Centrafrique	Bangui				Zentralafrikanische Republik	Bangui				República Centreafricana	Bangui			Repubblica Centrafricana							
+6598	Banjul	em Banjul				Gâmbia	Banjul					Gambia	Banjul					Gambia		Banjul				la Gambie	Banjul				Gambia	Banjul				Gàmbia	Banjul			Gambia							
+6599	Basseterre	em Basseterre				São Cristóvão e Nevis	Basseterre					Saint Kitts and Nevis	Basseterre					San Cristóbal y Nieves		Basseterre		bastɛʁ		Saint-Christophe-et-Niévès	Basseterre				St. Kitts und Nevis	Basseterre				Sant Cristòfol i Nieves	Basseterre			Saint Kitts e Nevis							
+6600	Belgrado	em Belgrado				Sérvia	Belgrade					Serbia	Belgrado					Serbia		Belgrade		bɛlɡʁad		la Serbie	Belgrad				Serbien	Belgrad				Sèrbia	Belgrado			Serbia							
+6601	Berlim	em Berlim				Alemanha	Berlin					Germany	Berlín					Alemania		Berlin		bɛʁlɛ̃		l'Allemagne	Berlín				Deutschland	Berlín				Alemanya	Berlino			Germania							
+6602	Berna	em Berna				Suíça	Bern					Switzerland	Berna					Suiza		Berne		bɛʁn		la Suisse	Bern				Schweiz	Berna				Suïssa	Berna			Svizzera							
+6603	Beirute	em Beirute				Líbano	Beirut					Lebanon	Beirut					Líbano		Beyrouth		beʁut		le Liban	Beirut				Libanon	Beirut				Líban	Beirut			Libano							
+6604	Bisqueque	em Bisqueque				Quirguistão	Bishkek					Kyrgyzstan	Bisquek					Kirguistán		Bichkek		biʃkɛk		le Kirghizistan, le Kirghizstan, la Kirghizie	Bixquic				Kirgisistan	Bisqueig				Kirguizistan	Bisqueque			Kirghizistan							
+6605	Bissau	em Bissau				Guiné-Bissau	Bissau					Guinea-Bissau	Bissáu					Guinea-Bisáu		Bissau		biso		la Guinée-Bissau ou la Guinée-Bissao	Bissau				Guinea-Bissau	Bissau				Guinea Bissau	Bissau			Guinea-Bissau							
+6606	Bogotá	em Bogotá				Colômbia	Bogota					Colombia	Bogotá					Colombia		Bogota		bɔɡɔta		la Colombie	Bogotá				Kolumbien	Bogotà				Colòmbia	Bogotá			Colombia							
+6607	Brasília	em Brasília				Brasil	Brasilia					Brazil	Brasilia					Brasil		Brasilia		bʁazilja		le Brésil	Brasília				Brasilien	Brasília				Brasil	Brasilia			Brasile							
+6608	Bratislava	em Bratislava				Eslováquia	Bratislava					Slovakia	Bratislava					Eslovaquia		Bratislava		bʁatislava		la Slovaquie	Bratislava				Slowakei	Bratislava				Eslovàquia	Bratislava			Slovacchia							
+6609	Bruxelas	em Bruxelas				Bélgica	Brussels					Belgium	Bruselas					Bélgica		Bruxelles		bʁyksɛl		la Belgique	Brüssel				Belgien	Brussel				Bèlgica	Bruxelles			Belgio							
+6610	Bucareste	em Bucareste				Romênia	Bucharest					Romania	Bucarest					Rumania		Bucarest		bykaʁɛst		la Roumanie	Bukarest				Rumänien	Bucarest				Romania	Bucarest			Romania							
+6611	Budapeste	em Budapeste				Hungria	Budapest					Hungary	Budapest					Hungría		Budapest		bydapɛst		la Hongrie	Budapest				Ungarn	Budapest				Hongria	Budapest			Ungheria							
+6612	Buenos Aires	em Buenos Aires				Argentina	Buenos Aires					Argentina	Buenos Aires					Argentina		Buenos Aires		bwenɔzɛʀ		l'Argentine	Buenos Aires				Argentinien	Buenos Aires				Argentina	Buenos Aires			Argentina							
+6613	Bujumbura	em Bujumbura				Burundi	Bujumbura					Burundi	Bujumbura					Burundi		Bujumbura		buʒumbuʁa		le Burundi	Bujumbura				Burundi	Bujumbura				Burundi	Bujumbura			Burundi							
+6614	Camberra	em Camberra				Austrália	Canberra					Australia	Canberra					Australia		Canberra		kɑ̃beʁa		l'Australie	Canberra				Australien	Cambra				Austràlia	Canberra			Australia							
+6615	Caracas	em Caracas				Venezuela	Caracas					Venezuela	Caracas					Venezuela		Caracas				Le Venezuela	Caracas				Venezuela	Caracas				Veneçuela	Caracas			Venezuela							
+6616	Castries	em Castries				Santa Lúcia	Castries					Saint Lucia	Castries					Santa Lucía		Castries		kastʁi		Sainte-Lucie	Castries				Saint Lucia	Castries				Santa Llúcia	Castries			Santa Lucia							
+6617	Chisinau	em Chisinau				Moldávia	Chisinau					Moldova	Chisinau					Moldavia		Chisinau		kiʃinaw		la Moldavie	Chisinau				Moldawien	Chisinau				Moldàvia	Chisinau			Moldavia							
+6618	Cidade do Vaticano	em Cidade do Vaticano				Vaticano	Vatican City					Vatican	Ciudad del Vaticano					Vaticano		Cité du Vatican		site dy vatikɑ̃		le Vatican	Vatikanstadt				Vatikan	Ciutat del Vaticà				Vaticà	Città del Vaticano			Vaticano							
+6619	Conacri	em Conacri				Guiné	Conakry					Guinea	Conakri					Guinea		Conakry		kɔnakʁi		la Guinée	Conakry				Guinea	Conakri				Guinea	Conakry			Guinea							
+6620	Copenhaga	em Copenhaga				Dinamarca	Copenhagen					Denmark	Copenhague					Dinamarca		Copenhague		kɔpənaɡ		le Danemark	Kopenhagen				Dänemark	Copenhaguen				Dinamarca	Copenaghen			Danimarca							
+6621	Damasco	em Damasco				Síria	Damascus					Syria	Damasco					Siria		Damas		damas		la Syrie	Damaskus				Syrien	Damasc				Síria	Damasco			Siria							
+6622	Majuro	em Majuro				Ilhas Marshall	Majuro					Marshall Islands	Majuro					Islas Marshall		Majuro		dəlapyliɡadaʁi], [maʒyʁo		les Îles Marshall	Majuro				Marshallinseln	Majuro				Illes Marshall	Majuro			Isole Marshall							
+6623	Díli	em Díli				Timor-Leste	Dili					East Timor	Dili					Timor Oriental		Dili				le Timor oriental	Dili				Osttimor	Dili				Timor Oriental	Dili			Timor Est							
+6624	Djibuti	em Djibuti				Djibouti	Djibouti					Djibouti	Yibuti					Djibouti		Djibouti		dʒibuti		Djibouti	Dschibuti				Dschibuti	Jibuti				Djibouti	Gibuti			Gibuti							
+6625	Juba	em Juba				Sudão do Sul	Juba					South Sudan	Yuba					Sudán del Sur		Djouba		dʒuba		le Soudan du Sud	Juba				Südsudan	Juba				Sudan del Sud	Juba			Sudan del Sud							
+6626	Dodoma	em Dodoma				Tanzânia	Dodoma					Tanzania	Dodoma					Tanzania		Dodoma		dɔdɔma		la Tanzanie	Dodoma				Tansania	Dodoma				Tanzània	Dodoma			Tanzania							
+6627	Doha	em Doha				Catar	Doha					Qatar	Doha					Catar		Doha				le Qatar ou le Katar	Doha				Katar	Doha				Qatar	Doha			Qatar							
+6628	Duchambé	em Duchambé				Tajiquistão	Dushanbe					Tajikistan	Duchambé					Tayikistán		Douchanbé		duʃɑ̃be		le Tadjikistan	Dusambé				Tadschikistan	Duchambé				Tadjikistan	Duchambé			Tagikistan							
+6629	Dublin	em Dublin				Irlanda	Dublin					Ireland	Dublín					Irlanda		Dublin		dyblɛ̃		l'Irlande	Dublin				Irland	Dublín				Irlanda	Dublino			Irlanda							
+6630	Erevã	em Erevã				Armênia	Yerevan					Armenia	Ereván					Armenia		Erevan				l'Arménie	Jerewan				Armenien	Irevan				Armènia	Erevan			Armenia							
+6631	Freetown	em Freetown				Serra Leoa	Freetown					Sierra Leone	Freetown					Sierra Leona		Freetown		fʁitɔwn		la Sierra Leone	Freetown				Sierra Leone	Freetown				Sierra Lleó	Freetown			Sierra Leone							
+6632	Funafuti	em Funafuti				Tuvalu	Funafuti					Tuvalu	Funafuti					Tuvalu		Funafuti		fynafyti		les Tuvalu	Funafuti				Tuvalu	Funafuti				Tuvalu	Funafuti			Tuvalu							
+6633	Gaborone	em Gaborone				Botsuana	Gaborone					Botswana	Gaborone					Botsuana		Gaborone		ɡabɔʁɔn		le Botswana	Gaborone				Botsuana	Gaborone				Botswana	Gaborone			Botswana							
+6634	Georgetown	em Georgetown				Guiana	Georgetown					Guyana	Georgetown					Guayana		Georgetown		ʒɔʁʒətɔwn		le Guyane	Georgetown				Guyana	Georgetown				Guyana	Georgetown			Guyana							
+6635	Guatemala	em Guatemala				Guatemala	Guatemala					Guatemala	Guatemala					Guatemala		Guatemala		gwatemala		le Guatemala ou le Guatémala	Guatemala				Guatemala	Guatemala				Guatemala	Guatemala			Guatemala							
+6636	Hanói	em Hanói				Vietnã	Hanoi					Vietnam	Hanói					Vietnam		Hanoï		anɔi		le Viêt Nam ou le Vietnam	Hanoi				Vietnam	Hanòi				Vietnam	Hanoi			Vietnam							
+6637	Harare	em Harare				Zimbábue	Harare					Zimbabwe	Harare					Zimbabue		Harare		aʁaʁ		le Zimbabwe	Harare				Simbabwe	Harare				Zimbawe	Harare			Zimbabwe							
+6638	Helsínquia	em Helsínquia				Finlândia	Helsinki					Finland	Helsinki					Finlandia		Helsinki		ɛlsɛ̃ki		la Finlande	Helsinki				Finnland	Hèlsinki				Finlàndia	Helsinki			Finlandia							
+6639	Honiara	em Honiara				Ilhas Salomão	Honiara					Solomon Islands	Honiara					Islas Salomón		Honiara		ɔnjaʁa		les Îles Salomon	Honiara				Salomonen	Honiara				Illes Salomó	Honiara			Isole Salomone							
+6640	Islamabad	em Islamabad				Paquistão	Islamabad					Pakistan	Islamabad					Pakistán		Islamabad		islamaba		le Pakistan	Islamabad				Pakistan	Islamabad				Paquistán	Islamabad			Pakistan							
+6641	Jacarta	em Jacarta				Indonésia	Jakarta					Indonesia	Yakarta					Indonesia		Jakarta		ʒakaʁta		l'Indonésie	Jakarta				Indonesien	Jakarta				Indonèsia	Giacarta			Indonesia							
+6642	Cabul	em Cabul				Afeganistão	Kabul					Afghanistan	Kabul					Afganistán		Kaboul		kabul		l'Afghanistan	Kabul				Afghanistan	Kabul				Afganistan	Kabul			Afghanistan							
+6643	Campala	em Campala				Uganda	Kampala					Uganda	Kampala					Uganda		Kampala		kɑ̃pala		l'Ouganda	Kampala				Uganda	Kampala				Uganda	Kampala			Uganda							
+6644	Catmandu	em Catmandu				Nepal	Kathmandu					Nepal	Katmandú					Nepal		Katmandou		katmɑ̃du		le Népal	Kathmandu				Nepal	Katmandú				Nepal	Kathmandu			Nepal							
+6645	Cartum	em Cartum				Sudão	Khartoum					Sudan	Jartum					Sudán		Khartoum		kaʁtum		le Soudan	Khartum				Sudan	Cartum				Sudan	Khartoum			Sudan							
+6646	Kiev	em Kiev				Ucrânia	Kiev					Ukraine	Kiev					Ucrania		Kiev		kjɛv		l'Ukraine	Kiew				Ukraine	Kiev				Ucraïna	Kiev			Ucraina							
+6647	Quigali	em Quigali				Ruanda	Kigali					Rwanda	Kigali					Ruanda		Kigali		kiɡali		le Rwanda	Kigali				Ruanda	Kigali				Ruanda	Kigali			Ruanda							
+6648	Kingston	em Kingston				Jamaica	Kingston					Jamaica	Kingston					Jamaica		Kingston		kɛ̃ɡstɔ̃		la Jamaïque	Kingston				Jamaika	Kingston				Jamaica	Kingston			Giamaica							
+6649	Kingstown	em Kingstown				São Vicente e Granadinas	Kingstown					Saint Vincent and the Grenadines	Kingstown					San Vicente y las Granadinas		Kingstown		kɛ̃ɡstɔwn		Saint-Vincent-et-les-Grenadines	Kingstown				Saint Vincent und die Grenadinen	Kingstown				Sant Vicent i les Grenadines	Kingstown			Saint Vincent e Grenadine							
+6650	Kinshasa	em Kinshasa				República Democrática do Congo	Kinshasa					Democratic Republic of the Congo	Kinshasa					República Democrática del Congo		Kinshasa		kɛ̃saza		la République démocratique du Congo ou le Congo-Kinshasa	Kinshasa				Demokratische Republik Kongo	Kinshasa				República Democràtica del Congo	Kinshasa			Repubblica Democratica del Congo							
+6651	Kuwait	em Kuwait				Kuwait	Kuwait					Kuwait	Kuwait					Kuwait		Koweït		kɔwəi		le Koweït ou le Kuwait	Kuwait				Kuwait	Kuwait				Kuwait	Kuwait			Kuwait							
+6652	Kuala Lumpur	em Kuala Lumpur				Malásia	Kuala Lumpur					Malaysia	Kuala Lumpur					Malasia		Kuala Lumpur		kɥala lɛ̃pyʁ		la Malaisie	Kuala Lumpur				Malaysia	Kuala Lumpur				Malàisia	Kuala Lumpur			Malesia							
+6653	La Valeta	em La Valeta				Malta	Valletta					Malta				La Valette		Malta		La Valette		la valɛt		Malte	Valletta				Malta	La Valeta				Malta	La Valletta			Malta							
+6654	Cairo	em Cairo				Egito	Cairo					Egypt				Le Caire		Egipto		Le Caire		lə kɛʁ		l'Égypte	Kairo				Ägypten	El Caire				Egipte	Il Cairo			Egitto							
+6655	Libreville	em Libreville				Gabão	Libreville					Gabon				Libreville		Gabón		Libreville		libʁəvil		le Gabon	Libreville				Gabun	Libreville				Gabó	Libreville			Gabon							
+6656	Lilongwe	em Lilongwe				Malawi	Lilongwe					Malawi				Lilongwe		Malawi		Lilongwe		lilɔ̃ɡw		le Malawi	Lilongwe				Malawi	Lilongwe				Malawi	Lilongwe			Malawi							
+6657	Lima	em Lima				Peru	Lima					Peru				Lima		Perú		Lima		lima		le Pérou	Lima				Peru	Lima				Perú	Lima			Perù							
+6658	Liubliana	em Liubliana				Eslovênia	Ljubljana					Slovenia				Ljubljana		Eslovenia		Ljubljana		lʒyblʒana		la Slovénie	Liubliana				Slowenien	Liubliana				Eslovènia	Lubiana			Slovenia							
+6659	Lisboa	em Lisboa				Portugal	Lisbon					Portugal				Lisbonne		Portugal		Lisbonne		lisbɔn		le Portugal	Lissabon				Portugal	Lisboa				Portugal	Lisbona			Portogallo							
+6660	Lomé	em Lomé				Togo	Lome					Togo				Lomé		Togo		Lomé		lɔme		le Togo	Lomé				Togo	Lomé				Togo	Lomé			Togo							
+6661	Londres	em Londres				Inglaterra	London					England				Londres		Inglaterra		Londres		lɔ̃dʁ		l'Angleterre	London				England	Londres				Anglaterra	Londra			Inghilterra							
+6662	London	em London				Reino Unido	London					United Kingdom				Londres		Reino Unido		Londres		lɔ̃dʁ		le Royaume-Uni ou la Grande-Bretagne	London				Vereinigtes Königreich	Londres				Regne Unit	Londra			Regno Unito							
+6663	Luanda	em Luanda				Angola	Luanda					Angola				Luanda		Angola		Luanda		lɥɑ̃da		l'Angola	Luanda				Angola	Luanda				Angola	Luanda			Angola							
+6664	Lusaka	em Lusaka				Zâmbia	Lusaka					Zambia				Lusaka		Zambia		Lusaka		lyzaka		la Zambie	Lusaka				Sambia	Lusaka				Zàmbia	Lusaka			Zambia							
+6665	Madrid	em Madrid				Espanha	Madrid					Spain				Madrid		España		Madrid		madʁi		l'Espagne	Madrid				Spanien	Madrid				Espanya	Madrid			Spagna							
+6666	Malabo	em Malabo				Guiné Equatorial	Malabo					Equatorial Guinea				Malabo		Guinea Ecuatorial		Malabo		malabo		la Guinée équatoriale	Malabo				Äquatorialguinea	Malabo				Guinea Equatorial	Malabo			Guinea Equatoriale							
+6667	Malé	em Malé				Maldivas	Male					Maldives				Malé		Maldivas		Malé		male		les Maldives, les îles Maldives	Malé				Malediven	Malé				Maldives	Malé			Maldive							
+6668	Manágua	em Manágua				Nicarágua	Managua					Nicaragua				Managua		Nicaragua		Managua		manaɡa		le Nicaragua	Manàgua				Nicaragua	Managua				Nicaragua	Managua			Nicaragua							
+6669	Manila	em Manila				Filipinas	Manila					Philippines				Manille		Filipinas		Manille		manil		les Philippines	Manila				Philippinen	Manila				Filipines	Manila			Filippine							
+6670	Maputo	em Maputo				Moçambique	Maputo					Mozambique				Maputo		Mozambique		Maputo		mapyto		le Mozambique	Maputu				Mosambik	Maput				Moçambic	Maputo			Mozambico							
+6671	Mascate	em Mascate				Omã	Muscat					Oman				Mascate		Omán		Mascate		maskat		l'Oman	Mascate				Oman	Mascate				Oman	Mascate			Oman							
+6672	Maseru	em Maseru				Lesoto	Maseru					Lesotho				Maseru		Lesoto		Maseru		mazʁy		le Lesotho	Maseru				Lesotho	Maseru				Lesot	Maseru			Lesotho							
+6673	Mbabane, Lobamba	em Mbabane, Lobamba				Suazilândia	Mbabane, Lobamba					Eswatini				Mbabane, Lobamba		Esuatini		Mbabane, Lobamba		mbaban], [lɔbɑ̃ba		le Swaziland *	Mbabane, Lobamba				Eswatini	Mbabane, Lobamba				Swazilàndia	Mbabane, Lobamba			Eswatini							
+6674	Melekeok	em Melekeok				Palau	Melekeok					Palau				Melekeok		Palaos		Melekeok		məlkəɔk		Palaos (Palau)	Melekeok				Palau	Melekeok				Palau	Melekeok			Palau							
+6675	Cidade do México	do Cidade do México				México	Mexico City					Mexico				Mexico		México		Mexico		mɛksiko		le Mexique	Mexic				Mexiko	Ciutat de Mèxic				Mèxic	Città del Messico			Messico							
+6676	Minsk	em Minsk				Bielorrússia	Minsk					Belarus				Minsk		Bielorrusia		Minsk		mɛ̃sk		la Biélorussie, le Bélarus	Minsk				Weißrussland	Minsk				Bielorússia	Minsk			Bielorussia							
+6677	Mogadíscio	em Mogadíscio				Somália	Mogadishu					Somalia				Mogadiscio		Somalia		Mogadiscio		mɔɡadisjo		la Somalie	Mogadischu				Somalia	Mogadix				Somàlia	Mogadiscio			Somalia							
+6678	Mônaco	em Mônaco				Mônaco	Monaco					Monaco				Monaco		Mónaco		Monaco		mɔnako		Monaco	Monaco				Monaco	Mònaco				Mònaco	Monaco			Monaco							
+6679	Monróvia	em Monróvia				Libéria	Monrovia					Liberia				Monrovia		Liberia		Monrovia		mɔ̃ʁɔvja		le Libéria (ou Liberia)	Monrovia				Liberia	Monròvia				Libèria	Monrovia			Liberia							
+6680	Montevidéu	em Montevidéu				Uruguai	Montevideo					Uruguay				Montevideo		Uruguay		Montevideo		mɔ̃tvidəo		l'Uruguay	Montevideo				Uruguay	Montevideo				Uruguai	Montevideo			Uruguay							
+6681	Moroni	em Moroni				Comores	Moroni					Comoros				Moroni		Comoras		Moroni		mɔʁɔni		les Comores	Moroni				Komoren	Moroni				Comores	Moroni			Comore							
+6682	Moscou	em Moscou				Rússia	Moscow					Russia				Moscou		Rusia		Moscou		mɔsku		la Russie	Moskau				Russland	Moscou				Rússia	Mosca			Russia							
+6683	Nairóbi	em Nairóbi				Quênia	Nairobi					Kenya				Nairobi		Kenia		Nairobi		neʁɔbi		le Kenya	Nairobi				Kenia	Nairobi				Kenya	Nairobi			Kenya							
+6684	Nassau	em Nassau				Bahamas	Nassau					Bahamas				Nassau		Bahamas		Nassau		naso		les Bahamas	Nassau				Bahamas	Nassau				Balears	Nassau			Bahamas							
+6685	Naypyidaw	em Naypyidaw				Mianmar	Naypyidaw					Myanmar				Naypyidaw		Myanmar		Naypyidaw		nepjida		le Myanmar ou la Birmanie	Naypyidaw				Myanmar	Naypyidaw				Myanmar	Naypyidaw			Myanmar							
+6686	N'Djamena	em N'Djamena				Chade	N'Djamena					Chad				Ndjamena		Chad		Ndjamena		ndʒamna		le Tchad	N'Djamena				Tschad	Ndijamina				Txad	N'Djamena			Ciad							
+6687	Nova Deli	em Nova Deli				Índia	New Delhi					India				New Delhi		India		New Delhi		nɛ deli		l'Inde	Neu-Delhi				Indien	Nova Delhi				Índia	Nuova Delhi			India							
+6688	Niamei	em Niamei				Níger	Niamey					Niger				Niamey		Níger		Niamey		abuʒa		le Niger	Niamey				Niger	Niamey				Níger	Niamey			Niger							
+6689	Nicósia	em Nicósia				Chipre	Nicosia					Cyprus				Nicosie		Chipre		Nicosie		nikozi		Chypre	Nikosia				Zypern	Nicòsia				Xipre	Nicosia			Cipro							
+6690	Nuakchott	em Nuakchott				Mauritânia	Nouakchott					Mauritania				Nouakchott		Mauritania		Nouakchott				la Mauritanie	Nuakchott				Mauretanien	Nuakxot				Mauritània	Nouakchott			Mauritania							
+6691	Noumea	em Noumea				Nova Caledônia	Nouméa					New Caledonia				Nouméa		Nueva Caledonia		Nouméa		numea		la Nouvelle-Calédonie	Nouméa				Neukaledonien	Numea				Nova Caledònia	Numea			Nuova Caledonia							
+6692	Nuku'alofa	em Nuku'alofa				Tonga	Nuku'alofa					Tonga				Nuku'alofa		Tonga		Nuku'alofa		nykɥalɔfa		les Tonga	Nuku'alofa				Tonga	Nuku'alofa				Tonga	Nuku'alofa			Tonga							
+6693	Oslo	em Oslo				Noruega	Oslo					Norway				Oslo		Noruega		Oslo		ɔslo		la Norvège	Oslo				Norwegen	Oslo				Noruega	Oslo			Norvegia							
+6694	Otava	em Otava				Canadá	Ottawa					Canada				Ottawa		Canadá		Ottawa				le Canada	Ottawa				Kanada	Ottawa				Canadà	Ottawa			Canada							
+6695	Uagadugu	em Uagadugu				Burkina Faso	Ouagadougou					Burkina Faso				Ouagadougou		Burkina Faso		Ouagadougou		waɡaduɡu		le Burkina Faso	Wagadugu				Burkina Faso	Uagadugú				Burkina Faso	Ouagadougou			Burkina Faso							
+6696	Ulan Bator	em Ulan Bator				Mongólia	Ulaanbaatar					Mongolia				Oulan-Bator		Mongolia		Oulan-Bator		ulanbatɔʁ		la Mongolie	Ulan Bator				Mongolei	Ulan Bator				Mongòlia	Ulan Bator			Mongolia							
+6697	Paliquir	em Paliquir				Micronésia	Palikir					Micronesia				Palikir		Micronesia		Palikir		palikiʁ		la Micronésie	Palikir				Mikronesien	Palikir				Micronèsia	Palikir			Micronesia							
+6698	Panamá	em Panamá				Panamá	Panama City					Panama				Panama		Panamá		Panama		panama		le Panama ou le Panamá	Panama				Panama	Ciutat de Panamà				Panamà	Panama			Panama							
+6699	Paramaribo	em Paramaribo				Suriname	Paramaribo					Suriname				Paramaribo		Surinam		Paramaribo		paʁamaʁibo		le Surinam ou le Suriname	Paramaribo				Suriname	Paramaribo				Surinam	Paramaribo			Suriname							
+6700	Paris	em Paris				França	Paris					France				Paris		Francia		Paris		paʁi		la France	Paris				Frankreich	París				França	Parigi			Francia							
+6701	Pequim	em Pequim				China	Beijing					China				Pékin		China		Pékin		pekɛ̃		la Chine	Peking				China	Beijing				Xina	Pechino			Cina							
+6702	Phnom Penh	em Phnom Penh				Camboja	Phnom Penh					Cambodia				Phnom Penh		Camboya		Phnom Penh		fnɔ̃ pɑ̃		le Cambodge	Phnom Penh				Kambodscha	Phnom Penh				Cambodja	Phnom Penh			Cambogia							
+6703	Podgorica	em Podgorica				Montenegro	Podgorica					Montenegro				Podgorica		Montenegro		Podgorica		pɔdɡɔʁika		le Monténégro	Podgorica				Montenegro	Podgorica				Montenegro	Podgorica			Montenegro							
+6704	Porto Moresby	em Porto Moresby				Papua-Nova Guiné	Port Moresby					Papua New Guinea				Port Moresby		Papúa Nueva Guinea		Port Moresby		pɔʁ mɔʁɛsbi		la Papouasie-Nouvelle-Guinée	Port Moresby				Papua-Neuguinea	Port Moresby				Papua Nova Guinea	Port Moresby			Papua Nuova Guinea							
+6705	Porto Príncipe	em Porto Príncipe				Haiti	Port-au-Prince					Haiti				Port-au-Prince		Haití		Port-au-Prince		pɔʁtopʁɛ̃s		Haïti	Port-au-Prince				Haiti	Port-au-Prince				Haití	Port-au-Prince			Haiti							
+6706	Porto de Espanha	em Porto de Espanha				Trinidad e Tobago	Port of Spain					Trinidad and Tobago				Port-d'Espagne		Trinidad y Tobago		Port-d'Espagne		pɔʁtdɛspaɲ		Trinité-et-Tobago	Port of Spain				Trinidad und Tobago	Port d'Espanya				Trinitat i Tobago	Port of Spain			Trinidad e Tobago							
+6707	Port Louis	em Port Louis				Maurícia	Port Louis					Mauritius				Port-Louis		Mauricio		Port-Louis		pɔʁtlui		Maurice	Port Louis				Mauritius	Port Lluís				Maurícia	Port Louis			Mauritius							
+6708	Porto Vila	em Porto Vila				Vanuatu	Port Vila					Vanuatu				Port-Vila		Vanuatu		Port-Vila		pɔʁtvila		Vanuatu	Port Vila				Vanuatu	Port Vila				Vanuatu	Port Vila			Vanuatu							
+6709	Praga	em Praga				República Tcheca	Prague					Czech Republic				Prague		República Checa		Prague		pʁaɡ		la République Tchèque	Prag				Tschechien	Praga				República Txeca	Praga			Repubblica Ceca							
+6710	Praia	em Praia				Cabo Verde	Praia					Cape Verde				Praia		Cabo Verde		Praia		pʁɛa		le Cap-Vert	Praia				Kap Verde	Praia				Cap Verd	Praia			Capo Verde							
+6711	Pretória, Cidade do Cabo, Bloemfontein	em Pretória, Cidade do Cabo, Bloemfontein				África do Sul	Pretoria, Cape Town, Bloemfontein					South Africa				Pretoria, Le Cap, Bloemfontein		Sudáfrica		Pretoria, Le Cap, Bloemfontein		pʁətɔʁja], [lə kap], [blumfɔntɛjn		l'Afrique du Sud	Pretoria, Kapstadt, Bloemfontein				Südafrika	Pretòria, Ciutat del Cap, Bloemfontein				Sud-àfrica	Pretoria, Città del Capo, Bloemfontein			Sudafrica							
+6712	Pyongyang	em Pyongyang				Coreia do Norte	Pyongyang					North Korea				Pyongyang		Corea del Norte		Pyongyang				la Corée du Nord	Pjöngjang				Nordkorea	Pyongyang				Corea del Nord	Pyongyang			Corea del Nord							
+6713	Quito	em Quito				Equador	Quito					Ecuador				Quito		Ecuador		Quito		kito		l'Équateur	Quito				Ecuador	Quito				Equador	Quito			Ecuador							
+6714	Rabat	em Rabat				Marrocos	Rabat					Morocco				Rabat		Marruecos		Rabat		ʁaba		le Maroc	Rabat				Marokko	Rabat				Marroc	Rabat			Marocco							
+6715	Reykjavik	em Reykjavik				Islândia	Reykjavik					Iceland				Reykjavik		Islandia		Reykjavik		ʁɛkʒavik		l'Islande	Reykjavik				Island	Reykjavik				Islàndia	Reykjavik			Islanda							
+6716	Riga	em Riga				Letônia	Riga					Latvia				Riga		Letonia		Riga		ʁiɡa		la Lettonie	Riga				Lettland	Riga				Letònia	Riga			Lettonia							
+6717	Riade	em Riade				Arábia Saudita	Riyadh					Saudi Arabia				Riyad		Arabia Saudí		Riyad		ʁija		l'Arabie saoudite	Riad				Saudi-Arabien	Riad				Aràbia Saudita	Riyadh			Arabia Saudita							
+6718	Roma	em Roma				Itália	Rome					Italy				Rome		Italia		Rome		ʁɔm		l'Italie	Rom				Italien	Roma				Itàlia	Roma			Italia							
+6719	Roseau	em Roseau				Dominica	Roseau					Dominica				Roseau		Dominica		Roseau		ʁozo		la Dominique	Roseau				Dominica	Roseau				Dominica	Roseau			Dominica							
+6720	Santo Domingo	em Santo Domingo				República Dominicana	Santo Domingo					Dominican Republic				Saint-Domingue		República Dominicana		Saint-Domingue		sɛ̃tdɔmɛ̃ɡ		la République Dominicaine	Santo Domingo				Dominikanische Republik	Sant Doménec				República Dominicana	Santo Domingo			Repubblica Dominicana							
+6721	Saint-George's	em Saint-George's				Granada	Saint George's					Grenada				Saint-Georges		Granada		Saint-Georges		sɛ̃tʒɔʁʒ		la Grenade	Saint George's				Grenada	Saint George				Grenada	Saint George's			Grenada							
+6722	São Marino	em São Marino				San Marino	San Marino					San Marino				Saint-Marin		San Marino		Saint-Marin		sɛ̃tmaʁɛ̃		Saint-Marin	San Marino				San Marino	Sant Marí				Sant Marí	San Marino			San Marino							
+6723	São José	em São José				Costa Rica	San Jose					Costa Rica				San José		Costa Rica		San José		sɑ̃ ʒoze		le Costa Rica	San José				Costa Rica	Sant Josep				Costa Rica	San Jose			Costa Rica							
+6724	San Juan	em San Juan				Porto Rico	San Juan					Puerto Rico				San Juan		Puerto Rico		San Juan		sɑ̃ ʒɥɑ̃		Porto Rico	San Juan				Puerto Rico	Sant Joan				Puerto Rico	San Juan			Porto Rico							
+6725	San Salvador	em San Salvador				El Salvador	San Salvador					El Salvador				San Salvador		El Salvador		San Salvador		sɑ̃ salvadɔʁ		le Salvador	San Salvador				El Salvador	Sant Salvador				El Salvador	San Salvador			El Salvador							
+6726	Saná	em Saná				Iêmen	Sana'a					Yemen				Sanaa		Yemen		Sanaa		sanaa		le Yémen	Sanaa				Jemen	Sana				Iemen	Sana'a			Yemen							
+6727	Santiago	em Santiago				Chile	Santiago					Chile				Santiago		Chile		Santiago		sɑ̃tjaɡo		le Chili	Santiago				Chile	Santiago				Xile	Santiago			Cile							
+6728	São Tomé	em São Tomé				São Tomé e Príncipe	Sao Tome					Sao Tome and Principe				São Tomé		Santo Tomé y Príncipe		São Tomé		so tɔme		Sao Tomé-et-Principe	São Tomé				São Tomé e Príncipe	Sant Tomàs				Sant Tomé i Príncep	São Tomé			São Tomé e Príncipe							
+6729	Sarajevo	em Sarajevo				Bósnia e Herzegovina	Sarajevo					Bosnia and Herzegovina				Sarajevo		Bosnia y Herzegovina		Sarajevo		saʁaʒvo		la Bosnie-Herzégovine	Sarajevo				Bosnien und Herzegowina	Sarajevo				Bòsnia i Hercegovina	Sarajevo			Bosnia-Erzegovina							
+6730	Seul	em Seul				Coreia do Sul	Seoul					South Korea				Séoul		Corea del Sur		Séoul		seul		la Corée du Sud	Seoul				Südkorea	Seül				Corea del Sud	Seul			Corea del Sud							
+6731	Singapura	em Singapura				Singapura	Singapore					Singapore				Singapour		Singapur		Singapour		sɛ̃ɡapuʁ		Singapour	Singapur				Singapur	Singapur				Singapur	Singapore			Singapore							
+6732	Skopje	em Skopje				Macedônia	Skopje					Macedonia				Skopje		Macedonia		Skopje		skɔpʒ		la Macédoine	Skopje				Mazedonien	Skopje				Macedònia	Skopje			Macedonia							
+6733	Sófia	em Sófia				Bulgária	Sofia					Bulgaria				Sofia		Bulgaria		Sofia		sɔfja		la Bulgarie	Sofia				Bulgarien	Sofia				Bulgària	Sofia			Bulgaria							
+6734	Sri Jayawardenapura	em Sri Jayawardenapura				Sri Lanka	Sri Jayawardenapura					Sri Lanka				Sri Jayawardenapura		Sri Lanka		Sri Jayawardenapura		sʁi ʒɛjawaʁdənapyʁa		le Sri Lanka	Sri Jayawardenapura				Sri Lanka	Sri Jayawardenapura				Sri Lanka	Sri Jayawardenapura			Sri Lanka							
+6735	Estocolmo	em Estocolmo				Suécia	Stockholm					Sweden				Stockholm		Suecia		Stockholm		stɔkɔlm		la Suède	Stockholm				Schweden	Estocolm				Suècia	Stoccolma			Svezia							
+6736	Sucre	em Sucre				Bolívia	Sucre					Bolivia				Sucre		Bolivia		Sucre		sykʁ		la Bolivie	Sucre				Bolivien	Sucre				Bolívia	Sucre			Bolivia							
+6737	Suva	em Suva				Fiji	Suva					Fiji				Suva		Fiyi		Suva		syva		les Fidji	Suva				Fidschi	Suva				Fiji	Suva			Figi							
+6738	Tashkent	em Tashkent				Uzbequistão	Tashkent					Uzbekistan				Tachkent		Uzbekistán		Tachkent		taʃkɑ̃		l'Ouzbékistan	Taschkent				Usbekistan	Tasqent				Uzbekistan	Tashkent			Uzbekistan							
+6739	Tallinn	em Tallinn				Estônia	Tallinn					Estonia				Tallinn		Estonia		Tallinn		talin		L'Estonie	Tallinn				Estland	Tallinn				Estònia	Tallinn			Estonia							
+6740	Tbilisi	em Tbilisi				Geórgia	Tbilisi					Georgia				Tbilissi		Georgia		Tbilissi		tbilisi		la Géorgie	Tiflis				Georgien	Tbilisi				Geòrgia	Tbilisi			Georgia							
+6741	Tegucigalpa	em Tegucigalpa				Honduras	Tegucigalpa					Honduras				Tegucigalpa		Honduras		Tegucigalpa		təɡysiɡalpa		le Honduras	Tegucigalpa				Honduras	Tegucigalpa				Hondures	Tegucigalpa			Honduras							
+6742	Teerã	em Teerã				Irã	Tehran					Iran				Téhéran		Irán		Téhéran		teeʁɑ̃		l'Iran	Teheran				Iran	Teheran				Iran	Teheran			Iran							
+6743	Tel Aviv	em Tel Aviv				Israel	Tel Aviv					Israel				Tel Aviv		Israel		Tel Aviv *		tɛl aviv		Israël	Tel Aviv				Israel	Tel Aviv				Israel	Tel Aviv			Israele							
+6744	Thimphu	em Thimphu				Butão	Thimphu					Bhutan				Thimphou		Bután		Thimphou		tɛ̃fu		le Bhoutan	Thimphu				Bhutan	Thimbu				Bhutan	Thimphu			Bhutan							
+6745	Tóquio	em Tóquio				Japão	Tokyo					Japan				Tokyo		Japón		Tokyo		tɔkjo		le Japon	Tokio				Japan	Tòquio				Japó	Tokyo			Giappone							
+6746	Trípoli	em Trípoli				Líbia	Tripoli					Libya				Tripoli		Libia		Tripoli		tʁipɔli		la Libye	Tripolis				Libyen	Trípoli				Líbia	Tripoli			Libia							
+6747	Tunes	em Tunes				Tunísia	Tunis					Tunisia				Tunis		Túnez		Tunis		tyni		la Tunisie	Tunis				Tunesien	Tunís				Tunísia	Tunisi			Tunisia							
+6748	Vaduz	em Vaduz				Liechtenstein	Vaduz					Liechtenstein				Vaduz		Liechtenstein		Vaduz		vady		le Liechtenstein	Vaduz				Liechtenstein	Vaduz				Liechtenstein	Vaduz			Liechtenstein							
+6749	Varsóvia	em Varsóvia				Polônia	Warsaw					Poland				Varsovie		Polonia		Varsovie		vaʁsɔvi		la Pologne	Warschau				Polen	Varsòvia				Polònia	Varsavia			Polonia							
+6750	Victoria	em Victoria				Seychelles	Victoria					Seychelles				Victoria		Seychelles		Victoria		viktɔʁja		les Seychelles	Victoria				Seychellen	Victòria				Seixelles	Victoria			Seychelles							
+6751	Viena	em Viena				Áustria	Vienna					Austria				Vienne		Austria		Vienne		vjɛn		l'Autriche	Wien				Österreich	Viena				Àustria	Vienna			Austria							
+6752	Vientiane	em Vientiane				Laos	Vientiane					Laos				Vientiane		Laos		Vientiane		vjɛ̃tjan		le Laos	Vientiane				Laos	Vientiane				Laos	Vientiane			Laos							
+6753	Vilnius	em Vilnius				Lituânia	Vilnius					Lithuania				Vilnius		Lituania		Vilnius		vilnjy		la Lituanie	Vilnius				Litauen	Vilnius				Lituània	Vilnius			Lituania							
+6754	Washington	em Washington				Estados Unidos	Washington					United States				Washington		Estados Unidos		Washington		waʃiŋtɔn		les États-Unis	Washington				Vereinigte Staaten	Washington				Estats Units	Washington			Stati Uniti							
+6755	Wellington	em Wellington				Nova Zelândia	Wellington					New Zealand				Wellington		Nueva Zelanda		Wellington				la Nouvelle-Zélande	Wellington				Neuseeland	Wellington				Nova Zelanda	Wellington			Nuova Zelanda							
+6756	Windhoek	em Windhoek				Namíbia	Windhoek					Namibia				Windhoek		Namibia		Windhoek		wɛ̃dɔɛk		la Namibie	Windhuk				Namibia	Windhoek				Namíbia	Windhoek			Namibia							
+6757	Yamoussoukro	em Yamoussoukro				Costa do Marfim	Yamoussoukro					Ivory Coast				Yamoussoukro		Costa de Marfil		Yamoussoukro		jamusukʁo		la Côte d'Ivoire	Yamoussoukro				Elfenbeinküste	Yamusukro				Costa d'Ivori	Yamoussoukro			Costa d'Avorio							
+6758	Yaoundé	em Yaoundé				Camarões	Yaounde					Cameroon				Yaoundé		Camerún		Yaoundé		jaunde		le Cameroun	Jaunde				Kamerun	Yaundé				Camerun	Yaoundé			Camerun							
+6759	Yaren	em Yaren				Nauru	Yaren					Nauru				Yaren		Nauru		Yaren		jaʁɑ̃		Nauru	Yaren				Nauru	Yaren				Nauru	Yaren			Nauru							
+6760	Zagreb	em Zagreb				Croácia	Zagreb					Croatia				Zagreb		Croacia		Zagreb		zaɡʁɛb		la Croatie	Zagreb				Kroatien	Zagreb				Croàcia	Zagabria			Croazia							
+6761	Luxemburgo (Cidade)	em Luxemburgo (Cidade)				Luxemburgo						Luxembourg						Luxemburgo						le Luxembourg					Luxemburg					Luxemburg				Lussemburgo							
+6762						Holanda						Netherlands						Países Bajos						la Hollande					Niederlande					Països Baixos				Paesi Bassi							
+6764	Brazavile	em Brazavile				Congo						Congo						Congo						le Congo					Kongo					Congo				Congo							
+6765	Asmara	em Asmara				Eritreia						Eritrea						Eritrea						l'Érythrée					Eritrea					Eritrea				Eritrea							
+6766	Tarawa do Sul	em Tarawa do Sul				Kiribati						Kiribati						Kiribati						Kiribati ou les Kiribati					Kiribati					Kiribati				Kiribati							
+6767	Dacar	em Dacar				Senegal						Senegal						Senegal						le Sénégal					Senegal					Senegal				Senegal							

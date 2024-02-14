@@ -1,27 +1,28 @@
-10114	varanda	a varanda	/vɐ.ˈɾɐ̃dɐ/	/vɐ.ˈɾɐ̃dɐ/	sf		balcony						balcón							balcon					Balkon					balcó					balcone
-10115	casa de banho	a casa de banho	/ˈka.zɐ dɨ ˈbɐ.ɲu/	/ˈka.zɐ dʒi ˈbɐ.ɲu/	sf		bathroom						baño							salle de bains					Badezimmer					bany					bagno
-10116	quarto	o quarto	/ˈkwaɾ.tu/	/ˈkwaʁ.tu/	sm		bedroom						cuarto							chambre					Schlafzimmer					dormitori					camera da letto
-10117	garagem	a garagem	/ɡɐ.ˈɾa.ʒẽj/	/ɡɐ.ˈɾa.ʒẽj/	sf		garage						garaje							garage					Garage					garatge					garage
-10118	cozinha	a cozinha	/ku.ˈzi.ɲɐ/	/ko.ˈzi.ɲɐ/	sf		kitchen						cocina							cuisine					Küche					cuina					cucina
-10119	sala de estar	a sala de estar	/ˈsa.lɐ dɨ iʃ.ˈtaɾ/	/ˈsa.lɐ dʒi iʃ.ˈtaɾ/	sf		living room						salón							salon					Wohnzimmer					sala d'estar					soggiorno
-10120	sala de jantar	a sala de jantar	/ˈsa.lɐ dɨ ʒɐ̃.ˈtaɾ/	/ˈsa.lɐ dʒi ʒɐ̃.ˈtaɾ/	sf		dining room						comedor							salle à manger					Esszimmer					menjador					sala da pranzo
-10121	telhado	o telhado	/tɨ.ˈʎa.ðu/	/te.ˈʎa.du/	sm		roof						techo							toit					Dach					sostre					tetto
-10122	divisão	a divisão	/di.vi.ˈzɐ̃w̃/	/di.vi.ˈzɐ̃w̃/	sf		division						división							division					Abteilung					divisió					divisione
-10123	kitchenette (cozinha aberta)	a kitchenette (cozinha aberta)	/ki.ʃi.ˈnɛ.tɨ (ku.ˈzi.ɲɐ ɐ.ˈbɛɾ.tɐ)/	/ki.ʃi.ˈnɛ.tʃi (ko.ˈzi.ɲɐ a.ˈbɛɾ.tɐ)/	sf		kitchenette						cocina americana							kitchenette					Küchenzeile					cuina americana					cucina
-10124	quintal	o quintal	/kĩ.ˈtal/	/kĩ.ˈtal/	sm		backyard						jardín							cour					Hinterhof					pati					cortile
-10125	terraço	o terraço	/tɨ.ˈʁa.su/	/te.ˈʁa.su/	sm		terrace						terraza							terrasse					Terrasse					terrassa					terrazzo
-10126	marquise	a marquise	/maɾ.ˈki.zɨ/	/maɾ.ˈki.zi/	sf		awning						marquesina							marquise					Markise					marquesina					marquise
-10127	sala	a sala	/ˈsa.lɐ/	/ˈsa.lɐ/	sf		room						sala							salle					Zimmer					sala					sala
-10128	escritório	o escritório	/ɨʃ.kɾi.ʃˈto.ɾju/	/es.kɾi.tu.ˈɾju/	sm		office						oficina							bureau					Büro					oficina					ufficio
-10129	sotão	o sotão	/su.ˈtɐ̃w̃/	/so.ˈtɐ̃w̃/	sm		attic						buhardilla							grenier					Dachboden					golfes					soffitta
-10130	cave	a cave	/ˈka.vɨ/	/ˈka.vɨ/	sf		basement						sótano							cave					Keller					soterrani					cantina
-10161	chão	o chão	/ʃɐ̃w̃/	/ʃɐ̃w̃/	sm		floor						suelo							sol					Boden					terra					pavimento
-10162	teto	o teto	/ˈtɛ.tu/	/ˈte.tu/	sm		ceiling						techo							plafond					Decke					sostre					soffitto
-10163	parede	a parede	/pɐ.ˈɾɛ.dɨ/	/pa.ˈɾe.dʒi/	sf		wall						pared							mur					Wand					paret					parete
-10164	casa	a casa	/ˈka.zɐ/	/ˈka.za/	sf		house						casa							maison					Haus					casa					casa
-10165	zona	a zona	/ˈzo.nɐ/	/ˈzo.nɐ/	sf		area						zona							zone					Bereich					zona					zona
-10166	cidade	a cidade	/si.ˈða.ðɨ/	/si.ˈdadʒi/	sf		city						ciudad							ville					Stadt					ciutat					città
-10167	edifícios	os edifícios	/ɨ.dɨ.ˈfi.si.ɔʃ/	/e.dʒi.ˈfi.si.us/	smp		buildings						edificios							bâtiments					Gebäude					edificis					edifici
-10168	vizinhos	os vizinhos	/vi.ˈzi.ɲuʃ/	/vi.ˈzi.ɲus/	smp		neighbors						vecinos							voisins					Nachbarn					veïns					vicini
-10169	res do chão	o rés-do-chão	/ˌʁɛz du ˈʃɐ̃w̃/	/ˌʁez du ˈʃɐ̃w̃/	sm		ground floor						planta baja							rez-de-chaussée					Erdgeschoss					planta baixa					pianterreno
-10170	apartamento	o apartamento	/ɐ.pɐɾ.ˈta.mẽ.tu/	/a.paɾ.ˈta.mẽ.tu/	sm		apartment						apartamento							appartement					Wohnung					apartament					appartamento
+No	pt_word	pt_word_art	pt_ipa_PT	pt_ipa_BR	pt_type_gender	pt_notes	en_word	en_ipa_US	en_ipa_UK	en_type	artigo_marker	en_notes	es_word	es_ipa_ES	es_ipa_LA	es_type_gender	es_marker	es_notes	image	fr_word	fr_word_art	fr_ipa	fr_type_gender	fr_notes	de_word	de_word_art	de_ipa	de_type_gender	de_notes	val_word	val_ipa	cat_ipa	val_type_gender	val_notes	it_word	it_ipa	it_type_gender	it_notes	en_pron	pt_pron	es_pron	fr_pron	de_pron	it_pron	val_pron	tags
+10114	varanda	a varanda	/vɐ.ˈɾɐ̃dɐ/	/vɐ.ˈɾɐ̃dɐ/	sf		balcony						balcón							balcon					Balkon					balcó					balcone											
+10115	casa de banho	a casa de banho	/ˈka.zɐ dɨ ˈbɐ.ɲu/	/ˈka.zɐ dʒi ˈbɐ.ɲu/	sf		bathroom						baño							salle de bains					Badezimmer					bany					bagno											
+10116	quarto	o quarto	/ˈkwaɾ.tu/	/ˈkwaʁ.tu/	sm		bedroom						cuarto							chambre					Schlafzimmer					dormitori					camera da letto											
+10117	garagem	a garagem	/ɡɐ.ˈɾa.ʒẽj/	/ɡɐ.ˈɾa.ʒẽj/	sf		garage						garaje							garage					Garage					garatge					garage											
+10118	cozinha	a cozinha	/ku.ˈzi.ɲɐ/	/ko.ˈzi.ɲɐ/	sf		kitchen						cocina							cuisine					Küche					cuina					cucina											
+10119	sala de estar	a sala de estar	/ˈsa.lɐ dɨ iʃ.ˈtaɾ/	/ˈsa.lɐ dʒi iʃ.ˈtaɾ/	sf		living room						salón							salon					Wohnzimmer					sala d'estar					soggiorno											
+10120	sala de jantar	a sala de jantar	/ˈsa.lɐ dɨ ʒɐ̃.ˈtaɾ/	/ˈsa.lɐ dʒi ʒɐ̃.ˈtaɾ/	sf		dining room						comedor							salle à manger					Esszimmer					menjador					sala da pranzo											
+10121	telhado	o telhado	/tɨ.ˈʎa.ðu/	/te.ˈʎa.du/	sm		roof						techo							toit					Dach					sostre					tetto											
+10122	divisão	a divisão	/di.vi.ˈzɐ̃w̃/	/di.vi.ˈzɐ̃w̃/	sf		division						división							division					Abteilung					divisió					divisione											
+10123	kitchenette (cozinha aberta)	a kitchenette (cozinha aberta)	/ki.ʃi.ˈnɛ.tɨ (ku.ˈzi.ɲɐ ɐ.ˈbɛɾ.tɐ)/	/ki.ʃi.ˈnɛ.tʃi (ko.ˈzi.ɲɐ a.ˈbɛɾ.tɐ)/	sf		kitchenette						cocina americana							kitchenette					Küchenzeile					cuina americana					cucina											
+10124	quintal	o quintal	/kĩ.ˈtal/	/kĩ.ˈtal/	sm		backyard						jardín							cour					Hinterhof					pati					cortile											
+10125	terraço	o terraço	/tɨ.ˈʁa.su/	/te.ˈʁa.su/	sm		terrace						terraza							terrasse					Terrasse					terrassa					terrazzo											
+10126	marquise	a marquise	/maɾ.ˈki.zɨ/	/maɾ.ˈki.zi/	sf		awning						marquesina							marquise					Markise					marquesina					marquise											
+10127	sala	a sala	/ˈsa.lɐ/	/ˈsa.lɐ/	sf		room						sala							salle					Zimmer					sala					sala											
+10128	escritório	o escritório	/ɨʃ.kɾi.ʃˈto.ɾju/	/es.kɾi.tu.ˈɾju/	sm		office						oficina							bureau					Büro					oficina					ufficio											
+10129	sotão	o sotão	/su.ˈtɐ̃w̃/	/so.ˈtɐ̃w̃/	sm		attic						buhardilla							grenier					Dachboden					golfes					soffitta											
+10130	cave	a cave	/ˈka.vɨ/	/ˈka.vɨ/	sf		basement						sótano							cave					Keller					soterrani					cantina											
+10161	chão	o chão	/ʃɐ̃w̃/	/ʃɐ̃w̃/	sm		floor						suelo							sol					Boden					terra					pavimento											
+10162	teto	o teto	/ˈtɛ.tu/	/ˈte.tu/	sm		ceiling						techo							plafond					Decke					sostre					soffitto											
+10163	parede	a parede	/pɐ.ˈɾɛ.dɨ/	/pa.ˈɾe.dʒi/	sf		wall						pared							mur					Wand					paret					parete											
+10164	casa	a casa	/ˈka.zɐ/	/ˈka.za/	sf		house						casa							maison					Haus					casa					casa											
+10165	zona	a zona	/ˈzo.nɐ/	/ˈzo.nɐ/	sf		area						zona							zone					Bereich					zona					zona											
+10166	cidade	a cidade	/si.ˈða.ðɨ/	/si.ˈdadʒi/	sf		city						ciudad							ville					Stadt					ciutat					città											
+10167	edifícios	os edifícios	/ɨ.dɨ.ˈfi.si.ɔʃ/	/e.dʒi.ˈfi.si.us/	smp		buildings						edificios							bâtiments					Gebäude					edificis					edifici											
+10168	vizinhos	os vizinhos	/vi.ˈzi.ɲuʃ/	/vi.ˈzi.ɲus/	smp		neighbors						vecinos							voisins					Nachbarn					veïns					vicini											
+10169	res do chão	o rés-do-chão	/ˌʁɛz du ˈʃɐ̃w̃/	/ˌʁez du ˈʃɐ̃w̃/	sm		ground floor						planta baja							rez-de-chaussée					Erdgeschoss					planta baixa					pianterreno											
+10170	apartamento	o apartamento	/ɐ.pɐɾ.ˈta.mẽ.tu/	/a.paɾ.ˈta.mẽ.tu/	sm		apartment						apartamento							appartement					Wohnung					apartament					appartamento											

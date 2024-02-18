@@ -1,18 +1,45 @@
-10297	T-shirt	a T-shirt	/a tɛ.ˈʃiɾt/	/a tɛ.ˈʃiɾt/	sf								camiseta
-10298	casaco	o casaco	/kɐ.ˈza.ku/	/ka.ˈza.ku/	sm								abrigo, chaqueta
-10299	camisola	a camisola	/kɐ.mi.ˈzɔ.lɐ/	/ka.mi.ˈzɔ.lɐ/	sf								camisón, jersey
-10300	calças de ganga	as calças de ganga	/ˈkaɫ.sɐʃ dɨ ˈɡɐ̃.ɡɐ/	/ˈkaɫ.sɐʃ dʒi ˈɡɐ̃.ɡɐ/	sfp								jeans, vaqueros
-10301	calções	os calções	/ˈkaɫ.sɐ̃w̃ʃ/	/ˈkaɫ.sɐ̃w̃ʃ/	smp								bermudas, pantalones cortos
-10302	botas	as botas	/ˈbo.tɐʃ/	/ˈbo.tɐʃ/	sfp								botas, botines
-10303	vestido	o vestido	/vɨʃ.ˈti.ðu/	/ves.ˈti.du/	sm								vestido, traje
-10304	cachecol	o cachecol	/ka.ʃɨ.ˈkɔɫ/	/ka.ʃi.ˈkɔw̃/	sm								bufanda, pañuelo
-10305	sandálias	as sandálias	/sɐ̃.ˈda.ʎɐʃ/	/sɐ̃.ˈda.ʎɐʃ/	sfp								sandalias, chancletas
-10306	gabardina	a gabardina	/ɡɐ.bɐɾ.ˈdi.nɐ/	/ɡɐ.bɐɾ.ˈdi.nɐ/	sf								gabardina, impermeable
-10307	saia	a saia	/ˈsaj.ɐ/	/ˈsaj.ɐ/	sf								falda, pollera
-10308	ténis	os ténis	/ˈtɛ.niʃ/	/ˈte.nis/	smp								zapatillas, tenis
-10309	biquini	o biquini	/bi.ˈki.ni/	/bi.ˈki.ni/	sm								bikini
-10310	boné	o boné	/bo.ˈnɛ/	/bo.ˈnɛ/	sm								gorra
-10311	gorro	o gorro	/ˈɡo.ʁu/	/ˈɡo.ʁu/	sm								gorro
-10312	meias	as meias	/ˈmɐj.ɐʃ/	/ˈmɐj.ɐʃ/	sfp								medias, calcetines
-10313	roupa	a roupa	/ˈʁo(w̃).pɐ/	/ˈʁo(w̃).pɐ/	sf								ropa, vestimenta
-10314	bolso	o bolso	/ˈboɫ.su/	/ˈboɫ.su/	sm								bolsillo
+10297	T-shirt	a T-shirt	/a tɛ.ˈʃiɾt/	/a tɛ.ˈʃiɾt/	sf	Cualquier camiseta o blusa que sea de manga corta (PT)	T-shirt						camiseta							T-shirt					T-Shirt					T-shirt					T-shirt
+10298	casaco	o casaco	/kɐ.ˈza.ku/	/ka.ˈza.ku/	sm	Cualquier tipo de abrigo, saco o chaqueta.	jacket						chaqueta							veste					Jacke					jaqueta					giacca
+10299	camisola	a camisola	/kɐ.mi.ˈzɔ.lɐ/	/ka.mi.ˈzɔ.lɐ/	sf	Cualquier tipo de prenda que sea de manga larga y no sea una camisa.	sweater						camiseta							pulli					Pullover					sueter/maglia					maglia
+10300	calças de ganga	as calças de ganga	/ˈkaɫ.sɐʃ dɨ ˈɡɐ̃.ɡɐ/	/ˈkaɫ.sɐʃ dʒi ˈɡɐ̃.ɡɐ/	sfp		jeans						pantalones vaqueros							jeans					Jeans					pantalons vaquers					jeans
+10301	calções	os calções	/ˈkaɫ.sɐ̃w̃ʃ/	/ˈkaɫ.sɐ̃w̃ʃ/	smp		shorts						pantalones cortos							shorts					Shorts					pantalons curts					pantaloni corti
+10302	botas	as botas	/ˈbo.tɐʃ/	/ˈbo.tɐʃ/	sfp		boots						botas							bottes					Stiefel					botes					stivali
+10303	vestido	o vestido	/vɨʃ.ˈti.ðu/	/ves.ˈti.du/	sm		dress						vestido							robe					Kleid					vestit					abito
+10304	cachecol	o cachecol	/ka.ʃɨ.ˈkɔɫ/	/ka.ʃi.ˈkɔw̃/	sm		scarf						bufanda							écharpe					Schal					bufanda					sciarpa
+10305	sandálias	as sandálias	/sɐ̃.ˈda.ʎɐʃ/	/sɐ̃.ˈda.ʎɐʃ/	sfp		sandals						sandalias							sandales					Sandalen					sandàlies					sandali
+10306	gabardina	a gabardina	/ɡɐ.bɐɾ.ˈdi.nɐ/	/ɡɐ.bɐɾ.ˈdi.nɐ/	sf		trench coat						gabardina							trench					Trench					gabardina					gabardina
+10307	saia	a saia	/ˈsaj.ɐ/	/ˈsaj.ɐ/	sf		skirt						falda							jupe					Rock					falda					gonna
+10308	ténis	os ténis	/ˈtɛ.niʃ/	/ˈte.nis/	smp	tmb. sapatilha	sneakers						tenis							baskets					Turnschuhe					esportives					scarpe da ginnastica
+10309	biquini	o biquini	/bi.ˈki.ni/	/bi.ˈki.ni/	sm		bikini						bikini							bikini					Bikini					bikini					bikini
+10310	boné	o boné	/bo.ˈnɛ/	/bo.ˈnɛ/	sm		cap						gorra							casquette					Kappe					gorra					cappello
+10311	gorro	o gorro	/ˈɡo.ʁu/	/ˈɡo.ʁu/	sm		hat						gorro							chapeau					Hut					gorra					cappello
+10312	meias	as meias	/ˈmɐj.ɐʃ/	/ˈmɐj.ɐʃ/	sfp		socks						medias							chaussettes					Socken					calcetins					calze
+10313	roupa	a roupa	/ˈʁo(w̃).pɐ/	/ˈʁo(w̃).pɐ/	sf		clothing						ropa							vêtements					Kleidung					roba					abbigliamento
+10314	bolso	o bolso	/ˈboɫ.su/	/ˈboɫ.su/	sm		pocket						bolsillo							poche					Tasche					bossa					tasca
+10500	peças de roupa	as peças de roupa	/ˈpɛsɐʒ dɨ ˈʁowpɐ/	/ˈpesɐʒ dʒi ˈʁowpɐ/	sfp		clothing						ropa							vêtements					Kleidungsstücke					peces de roba					pezzi di abbigliamento
+10501	collants	os collants	/kɔˈlɐ̃tʃ/	/koˈlɐ̃tʃ/	smp		tights						pantimedias							collants					Strumpfhosen					colles					collant
+10502	camisa	a camisa	/kɐˈmizɐ/	/kɐˈmizɐ/	sf		shirt						camisa 							chemise					Hemd					camió					camicia
+10503	sapato	o sapato	/sɐˈpatu/	/saˈpatu/	sm		shoe						zapato							chaussure					Schuh					sapato					scarpa
+10504	saltos	os saltos	/ˈsaw.tu/	/ˈsaw.tu/	sm		heels						tacones							talons					Absätze					talons					tacchi
+10505	colete	o colete	/kuˈlɛt(ɨ)/	/koˈlɛt(ʃ)i/	sm		vest						chaleco							gilet					Weste					armilla/gilet					gilet
+10506	blusão	o blusão	/bluˈzɐ̃w̃/	/bluˈzɐ̃w̃/	sm		jacket						chaqueta con elástico y cierre (tipo bomber)							blouson					Jacke					jaqueta					ghiacciolo
+10507	saia comprida	a saia comprida	/ˈsajɐ kõˈpɾiðɐ/	/ˈsajɐ kõˈpɾiðɐ/	sf/f		long skirt						falda larga							jupe longue					langer Rock					falda llarga					gonna lunga
+10508	minisaia	a minisaia	/mi.ni.ˈsaj.ɐ/	/mi.ni.ˈsaj.ɐ/	sf/f		miniskirt						minifalda							minijupe					Minirock					minifalda					minigonna
+10509	kispo	o kispo	/ˈkiʃ.pu/	/ˈkiʃ.pu/	sm		quilt						edredón							couette					Steppdecke					edreçó					piumino
+10510	sobretodo	o sobretodo	/su.bɾɨ.ˈto.du/	/su.bɾɨ.ˈto.du/	sm/s		overcoat						abrigo							manteau					Übermantel					abrigo/sobretot					soprabito
+10511	de ganga	de ganga	/dɨ ˈɡɐ̃.ɡɐ/	/dʒi ˈɡɐ̃.ɡɐ/	prep		denim						de mezclilla							de denim					jeans					denim/denim					denim
+10512	impermeável	o impermeável	/ĩ.pɨɾ.mɨ.ˈvɛw̃l/	/ĩ.peɾ.mɨ.ˈvɛw̃w̃/	sm		waterproof						impermeable							Impermeable					Wasserdicht					impermeable/impermeable					Impermeabile
+10513	fato	o fato	/ˈfa.tu/	/ˈfa.tu/	sm		suit						traje							costume					Anzug					traje					abito
+10514	fato de treino	o fato de treino	/ˈfa.tu dɨ ˈtɾɐj.nu/	/ˈfa.tu dʒi ˈtɾɐj.nu/	sm/tr		tracksuit						chándal							ensemble de sport					Trainingsanzug					traje esportiu/trena					tuta
+10515	fato de banho	o fato de banho	/ˈfa.tu dɨ ˈbɐ.ɲu/	/ˈfa.tu dʒi ˈbɐ.ɲu/	sm		swimsuit						traje de baño							maillot					Badeanzug					robe de bany					costume da bagno
+10516	fato de dormir	o fato de dormir	/ˈfa.tu dɨ duɾ.ˈmiɾ/	/ˈfa.tu dʒi duɾ.ˈmiɾ/	sm		pajamas						pijama							pyjama					Schlafanzug/pijama					pijama					pigiama
+10517	vestido de dormir	o vestido de dormir	/vɛʃ.ˈti.du dɨ duɾ.ˈmiɾ/	/vɛʃ.ˈti.du dʒi duɾ.ˈmiɾ/	sm		nightgown						camisón							chemise de nuit					Nachthemd/vestit de nit					vestit de nit					abito da notte
+10518	gabinete de prova	o gabinete de prova	/ɡɐ.bi.ˈnɛ.tɨ dɨ ˈpɾo.vɐ/	/ɡɐ.bi.ˈnɛ.tɨ dʒi ˈpɾo.vɐ/	sm/v		fitting room						probador							cabine d'essayage					Anprobe/Proberaum					probador/cabina de prova					spogliatoio
+10519	sutiã	o sutiã	/su.ti.ˈã/	/su.ti.ˈã/	sm/s		bra						sujetador							soutien-gorge					BH					sostén					reggiseno
+10520	cuecas	as cuecas	/ˈkwe.kɐʃ/	/ˈkwe.kɐʃ/	sfp		underpants						calzoncillos, bragas							culottes					Unterhose/culotte					calsotins/culotte					slip
+10521	oleado	o oleado	/o.le.ˈa.du/	/u.le.ˈa.du/	sm/adj		poncho						poncho							poncho					Poncho					ponxo					poncho
+10522	ténis	os ténis	/ˈte.nis/	/ˈte.nis/	smp		tennis shoes						zapatillas, tenis							baskets					Turnschuhe					esportives					scarpe da ginnastica
+10523	fecho de correr	o fecho de correr	/ˈfɛ.ʃu dɨ ku.ˈreɾ/	/ˈfɛ.ʃu dʒi ku.ˈreɾ/	sm	também fecho écler	zipper						cremallera, cierre							fermeture éclair					Reißverschluss					cremallera					cerniera lampo
+10524	chinelas	as chinelas	/ʃi.ˈnɛ.lɐʃ/	/ʃi.ˈnɛ.lɐʃ/	sfp		slippers						chancletas, pantunflas							charentaises					Hausschuhe					pantofles					pantofole
+10525	calçoes	os calçoes	/kaɫˈsõjʃ/	/kaɫˈsõjʃ/	smp		shorts						shorts							shorts					Shorts					pantalons curts					pantaloni corti
+10526	preto	/prɛ.to/	/pɾɛ.tu/	adjm/n			black						negro							noir					schwarz					negre					nero

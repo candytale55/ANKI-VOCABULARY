@@ -1,0 +1,6 @@
+#separator:tab
+#html:true
+#tags column:47
+10415	México	o México	/'mɛ.ʃi.ku/	/'mɛ.ʃi.ko/	sm		Mexico	/ˈmɛksɪkoʊ/	/ˈmɛksɪkəʊ/	n. prop	*		México	/'me.xi.ko/		sm	*		"<img src=""_Mexico_World_1.png"">"	Mexique	le Mexique	/mɛksik/	sm		Mexiko					Mèxic					Messico											Geo::America::Latin_America Geo::America::North_America Geo::Countries Geo::Language::Spanish_Speaking
+10416	Canadá	o Canadá	"/kɐ.nɐ.&#x27;dɐ/"	"/kɐ.nɐ.&#x27;da/"	sm		Canada	/ˈkænədə/	/ˈkænədə/	n. prop	*		Canadá	"/ka.na.&#x27;ða/"		sm	*		"<img src=""Canada-World.png"">"	Canada	le Canada	/kanada/	sm		Kanada					Canada					Canada											Geo::America::North_America Geo::Countries Geo::Language::English_Speaking Geo::Language::French_Speaking
+10417	Estados Unidos	os Estados Unidos	"/ɨʃ.tɐ.&#x27;dus u.&#x27;ni.dus/"	"/is.&#x27;ta.dus u.&#x27;ni.dus/"	smp		Estados Unidos	"/es&#x27;taðos u&#x27;niðos/"	"/es&#x27;taðos u&#x27;niðos/"	n. prop	*		Estados Unidos	"/es.&#x27;ta.ðos u.&#x27;ni.ðos/"		smp	*		"<img src=""_USA_World.png"">"	États-Unis	les États-Unis	/etazyni/	smp		Vereinigte Staaten					Stati Uniti					Stati Uniti											Geo::America::North_America Geo::Countries Geo::Language::English_Speaking

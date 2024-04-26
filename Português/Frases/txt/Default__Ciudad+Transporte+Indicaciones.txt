@@ -1,34 +1,56 @@
 #separator:tab
 #html:true
 #tags column:7
-Eu vou de bicicleta.	Eu	ir	bicicleta		/ˈew ˈvo dɨ bɨ.si.ˈkɫe.tɐ./	Português::Curso::A1 Português::Frases::Cidade::Transporte
-Tu viajas de avião.	Tu	viajar	avião		/ˈtu vi.ˈa.ʒɐʒ dɨ ɐ.vi.ˈɐ̃w./	Português::Curso::A1 Português::Frases::Cidade::Transporte
-Eles vêm de mota.	Eles	vir	mota		/ˈe.ɫɨʒ ˈvɐ̃jɐ̃j dɨ ˈmo.tɐ./	Português::Curso::A1 Português::Frases::Cidade::Transporte
+Eu vou de bicicleta.	Eu	ir	bicicleta		/ˈew ˈvo   dɨ   bɨ.si.ˈkɫe.tɐ./	Português::Curso::A1 Português::Frases::Cidade::Transporte
+Tu viajas de avião.	Tu	viajar	avião		/ˈtu   vi.ˈa.ʒɐʒ   dɨ   ɐ.vi.ˈɐ̃w./	Português::Curso::A1 Português::Frases::Cidade::Transporte
+Eles vêm de mota.	Eles	vir	mota		/ˈe.ɫɨʒ   ˈvɐ̃jɐ̃j   dɨ  ˈmo.tɐ./	Português::Curso::A1 Português::Frases::Cidade::Transporte
 Ela vai de comboio.	Ela	ir	comboio		/ˈe.ɫɐ ˈvaj dɨ kõ.ˈboj.u./	Português::Curso::A1 Português::Frases::Cidade::Transporte
-Você vai de autocarro.	Você	ir	autocarro		/vu.ˈse ˈvaj dɨ aw.tu.ˈka.ʁu./	Português::Curso::A1 Português::Frases::Cidade::Transporte
+Você vai de autocarro.	Você	ir	autocarro		/vu.ˈse   ˈvaj    dɨ    aw.tu.ˈka.ʁu./	Português::Curso::A1 Português::Frases::Cidade::Transporte
 Vocês vão de metro.	Vocês	ir	metro		/vu.ˈseʒ ˈvɐ̃w dɨ ˈme.tɾu./	Português::Curso::A1 Português::Frases::Cidade::Transporte
 Nós vamos de barco.	Nós	ir	barco		/ˈnɔʒ ˈvɐ.muʒ dɨ ˈbaɾ.ku./	Português::Curso::A1 Português::Frases::Cidade::Transporte
-A minha vizinha vem de eléctrico.	A minha vizinha	vir	eléctrico		/ɐ ˈmi.ɲɐ vɨ.ˈzi.ɲɐ vɐ̃j dɨ i.ˈɫɛk.tɾi.ku./	Português::Curso::A1 Português::Frases::Cidade::Transporte
-Os funcionários vão de carro.	Os funcionários	ir	carro		/uʃ fũ.si.u.ˈna.ɾi.uʒ ˈvɐ̃w dɨ ˈka.ʁu./	Português::Curso::A1 Português::Frases::Cidade::Transporte
+A minha vizinha vem de eléctrico.	A minha vizinha	vir	eléctrico		/ɐ   ˈmi.ɲɐ    vɨ.ˈzi.ɲɐ    vɐ̃j   dɨ    i.ˈɫɛk.tɾi.ku./	Português::Curso::A1 Português::Frases::Cidade::Transporte
+Os funcionários vão de carro.	Os funcionários	ir	carro		/uʃ    fũ.si.u.ˈna.ɾi.uʒ    ˈvɐ̃w   dɨ   ˈka.ʁu./	Português::Curso::A1 Português::Frases::Cidade::Transporte
 O senhor vai à pé.	O senhor	ir	pé		/u sɐ.ˈɲoɾ ˈvaj à ˈpɛ./	Português::Curso::A1 Português::Frases::Cidade::Transporte
 O meu tio vai de bicicleta.	O meu tio	ir	bicicleta		/u ˈmew ˈti.u ˈvaj dɨ bɨ.si.ˈkɫe.tɐ./	Português::Curso::A1 Português::Frases::Cidade::Transporte
-Eu venho no comboio 7.	Eu	vir	comboio	7	/ˈew ˈvɐ.ɲu nu kõ.ˈboj.u 7./	Português::Curso::A1 Português::Frases::Cidade::Transporte
+Eu venho no comboio 7.	Eu	vir	comboio	7	/ˈew  ˈvɐ.ɲu  nu   kõ.ˈboj.u  ˈse.tɨ./	Português::Curso::A1 Português::Frases::Cidade::Transporte
 Tu vais no avião da TAP.	Tu	ir	avião	TAP	/ˈtu ˈvajʒ nu ɐ.vi.ˈɐ̃w dɐ ˈtap./	Português::Curso::A1 Português::Frases::Cidade::Transporte
-Tu vais no comboio das 18:00 horas.	Tu	ir	comboio	18:00 horas	/ˈtu ˈvajʒ nu kõ.ˈboj.u dɐʃ 18:00 ˈo.ɾɐʃ./	Português::Curso::A1 Português::Frases::Cidade::Transporte
-Eles vêm de mota à festa.	Eles	vir	mota	festa	/ˈe.ɫɨʒ ˈvɐ̃jɐ̃j dɨ ˈmo.tɐ à ˈfeʃ.tɐ./	Português::Curso::A1 Português::Frases::Cidade::Transporte
-Ela vai de bicicleta hoje.	Ela	ir	bicicleta		/ˈe.ɫɐ ˈvaj dɨ bɨ.si.ˈkɫe.tɐ ˈo.ʒɨ./	Português::Curso::A1 Português::Frases::Cidade::Transporte
-Você vai de autocarro das 9.	Você	ir	autocarro	das 9	/vu.ˈse ˈvaj dɨ aw.tu.ˈka.ʁu dɐʃ 9./	Português::Curso::A1 Português::Frases::Cidade::Transporte
+Tu vais no comboio das 18:00 horas.	Tu	ir	comboio	18:00 horas	/ˈtu ˈvajʒ   nu    kõ.ˈboj.u   dɐʃ   dɨ.ˈzoj.tu  ˈo.ɾɐʃ./	Português::Curso::A1 Português::Frases::Cidade::Transporte
+Eles vêm de mota à festa.	Eles	vir	mota	festa	/ˈe.ɫɨʒ   ˈvɐ̃jɐ̃j    dɨ    ˈmo.tɐ    à   ˈfeʃ.tɐ./	Português::Curso::A1 Português::Frases::Cidade::Transporte
+Ela vai de bicicleta hoje.	Ela	ir	bicicleta		/ˈe.ɫɐ   ˈvaj    dɨ     bɨ.si.ˈkɫe.tɐ    ˈo.ʒɨ./	Português::Curso::A1 Português::Frases::Cidade::Transporte
+Você vai de autocarro das 9.	Você	ir	autocarro	das 9	/vu.ˈse    ˈvaj    dɨ    aw.tu.ˈka.ʁu    dɐʃ   ˈno.vɨ./	Português::Curso::A1 Português::Frases::Cidade::Transporte
 Vocês vão de metro à noite.	Vocês	ir	metro		/vu.ˈseʒ ˈvɐ̃w dɨ ˈme.tɾu à ˈnoj.tɨ./	Português::Curso::A1 Português::Frases::Cidade::Transporte
 Nós vamos de barco ao pôr do sol.	Nós	ir	barco		/ˈnɔʒ ˈvɐ.muʒ dɨ ˈbaɾ.ku ˈa.u ˈpoɾ du ˈsɔɫ./	Português::Curso::A1 Português::Frases::Cidade::Transporte
-A minha vizinha vem de eléctrico todas as manhãs.	A minha vizinha	vir	eléctrico		/ɐ ˈmi.ɲɐ vɨ.ˈzi.ɲɐ vɐ̃j dɨ i.ˈɫɛk.tɾi.ku ˈto.dɐz ɐʒ mɐ.ˈɲɐ̃ʃ./	Português::Curso::A1 Português::Frases::Cidade::Transporte
+A minha vizinha vem de eléctrico todas as manhãs.	A minha vizinha	vir	eléctrico		/ɐ   ˈmi.ɲɐ   vɨ.ˈzi.ɲɐ    vɐ̃j   dɨ   i.ˈɫɛk.tɾi.ku  ˈto.dɐz   ɐʒ   mɐ.ˈɲɐ̃ʃ./	Português::Curso::A1 Português::Frases::Cidade::Transporte
 Os funcionários vão de carro juntos.	Os funcionários	ir	carro		/uʃ fũ.si.u.ˈna.ɾi.uʒ ˈvɐ̃w dɨ ˈka.ʁu ˈʒũ.tuʃ./	Português::Curso::A1 Português::Frases::Cidade::Transporte
 O senhor vai à pé até à praia.	O senhor	ir	pé		/u sɐ.ˈɲoɾ ˈvaj à ˈpɛ ɐ.ˈtɛ à ˈpɾaj.ɐ./	Português::Curso::A1 Português::Frases::Cidade::Transporte
-O meu tio vai de bicicleta para o trabalho.	O meu tio	ir	bicicleta		/u ˈmew ˈti.u ˈvaj dɨ bɨ.si.ˈkɫe.tɐ pɐ.ɾɐ u tɾɐ.ˈba.ʎu./	Português::Curso::A1 Português::Frases::Cidade::Transporte
-Eu vou de bicicleta pela cidade.	Eu	ir	bicicleta	cidade	/ˈew ˈvo dɨ bɨ.si.ˈkɫe.tɐ ˈpe.ɫɐ si.ˈda.dɨ./	Português::Curso::A1 Português::Frases::Cidade::Transporte
+O meu tio vai de bicicleta para o trabalho.	O meu tio	ir	bicicleta		/u ˈmew   ˈti.u   ˈvaj    dɨ    bɨ.si.ˈkɫe.tɐ     pɐ.ɾɐ    u   tɾɐ.ˈba.ʎu./	Português::Curso::A1 Português::Frases::Cidade::Transporte
+Eu vou de bicicleta pela cidade.	Eu	ir	bicicleta	cidade	/ˈew    ˈvo   dɨ    bɨ.si.ˈkɫe.tɐ   ˈpe.ɫɐ    si.ˈda.dɨ./	Português::Curso::A1 Português::Frases::Cidade::Transporte
 Tu viajas de avião com frequência.	Tu	viajar	avião	frequência	/ˈtu vi.ˈa.ʒɐʒ dɨ ɐ.vi.ˈɐ̃w kõ fɾɨ.ˈkẽ.si.ɐ./	Português::Curso::A1 Português::Frases::Cidade::Transporte
-Eles vêm de mota todos os dias.	Eles	vir	mota	todos + dias	/ˈe.ɫɨʒ ˈvɐ̃jɐ̃j dɨ ˈmo.tɐ ˈto.duz uʒ ˈdi.ɐʃ./	Português::Curso::A1 Português::Frases::Cidade::Transporte
-Ela vai de comboio aos fins de semana.	Ela	ir	comboio	fins de semana	/ˈe.ɫɐ ˈvaj dɨ kõ.ˈboj.u ˈa.uʃ ˈfĩʒ dɨ sɨ.ˈmɐ.nɐ./	Português::Curso::A1 Português::Frases::Cidade::Transporte
+Eles vêm de mota todos os dias.	Eles	vir	mota	todos + dias	/ˈe.ɫɨʒ   ˈvɐ̃jɐ̃j   dɨ  ˈmo.tɐ    ˈto.duz    uʒ    ˈdi.ɐʃ./	Português::Curso::A1 Português::Frases::Cidade::Transporte
+Ela vai de comboio aos fins de semana.	Ela	ir	comboio	fins de semana	/ˈe.ɫɐ   ˈvaj    dɨ    kõ.ˈboj.u   ˈa.uʃ ˈfĩʒ   dɨ    sɨ.ˈmɐ.nɐ./	Português::Curso::A1 Português::Frases::Cidade::Transporte
 Você vai de autocarro na hora de ponta.	Você	ir	autocarro	hora ponta	/vu.ˈse ˈvaj dɨ aw.tu.ˈka.ʁu nɐ ˈo.ɾɐ dɨ ˈpõ.tɐ./	Português::Curso::A1 Português::Frases::Cidade::Transporte
-Vocês vão de metro para a festa.	Vocês	ir	metro	para + festa	/vu.ˈseʒ ˈvɐ̃w dɨ ˈme.tɾu pɐ.ɾɐ ɐ ˈfeʃ.tɐ./	Português::Curso::A1 Português::Frases::Cidade::Transporte
+Vocês vão de metro para a festa.	Vocês	ir	metro	para + festa	/vu.ˈseʒ    ˈvɐ̃w    dɨ    ˈme.tɾu    pɐ.ɾɐ    ɐ   ˈfeʃ.tɐ./	Português::Curso::A1 Português::Frases::Cidade::Transporte
 Nós vamos de barco ao longo do rio.	Nós	ir	barco	longo do rio	/ˈnɔʒ ˈvɐ.muʒ dɨ ˈbaɾ.ku ˈa.u ˈɫõ.gu du ˈʁi.u./	Português::Curso::A1 Português::Frases::Cidade::Transporte
 A minha vizinha vem de eléctrico para o centro.	A minha vizinha	vir	eléctrico	para + centro	/ɐ ˈmi.ɲɐ vɨ.ˈzi.ɲɐ vɐ̃j dɨ i.ˈɫɛk.tɾi.ku pɐ.ɾɐ u ˈsẽ.tɾu./	Português::Curso::A1 Português::Frases::Cidade::Transporte
+Apanho o comboio para o trabalho.	eu	apanhar	comboio	trabalho	/ɐ.ˈpɐ.ɲu  u  kõ.ˈboj.u  pɐ.ɾɐ  u  tɾɐ.ˈba.ʎu./	Português::Curso::A1 Português::Frases::Cidade::Transporte
+Ele apanha o avião para Lisboa.	ele	apanhar	avião	Lisboa	/ˈe.ɫɨ  ɐ.ˈpɐ.ɲɐ  u  ɐ.vi.ˈɐ̃w  pɐ.ɾɐ  ɫɨʒ.ˈbo.ɐ./	Português::Curso::A1 Português::Frases::Cidade::Transporte
+Vamos apanhar o metro até ao centro da cidade.	nós	apanhar	metro	centro + cidade	/ˈvɐ.muz  ɐ.pɐ.ˈɲaɾ  u  ˈme.tɾu  ɐ.ˈtɛ  ˈa.u  ˈsẽ.tɾu  dɐ  si.ˈda.dɨ./	Português::Curso::A1 Português::Frases::Cidade::Transporte
+Ela apanha o eléctrico para ir à praia.	ela	apanhar	eléctrico	praia	/ˈe.ɫɐ  ɐ.ˈpɐ.ɲɐ  u  i.ˈɫɛk.tɾi.ku  pɐ.ɾɐ  ˈiɾ  à  ˈpɾaj.ɐ./	Português::Curso::A1 Português::Frases::Cidade::Transporte
+Apanhamos o barco para atravessar o rio.	nós	apanhar	barco	rio	/ɐ.pɐ.ˈɲɐ.muz  u  ˈbaɾ.ku  pɐ.ɾɐ  ɐ.tɾɐ.vɨ.ˈsaɾ  u  ˈʁi.u./	Português::Curso::A1 Português::Frases::Cidade::Transporte
+Eles apanham a mota para passear pela cidade.	eles	apanhar	mota	cidade	/ˈe.ɫɨz  ɐ.ˈpɐ.ɲɐ̃w  ɐ  ˈmo.tɐ  pɐ.ɾɐ  pɐ.si.ˈaɾ  ˈpe.ɫɐ  si.ˈda.dɨ./	Português::Curso::A1 Português::Frases::Cidade::Transporte
+Apanha o carro para ir ao supermercado.	tu	apanhar	carro	supermercado	/ɐ.ˈpɐ.ɲɐ  u  ˈka.ʁu  pɐ.ɾɐ  ˈiɾ  ˈa.u  su.pɨɾ.mɨɾ.ˈka.du./	Português::Curso::A1 Português::Frases::Cidade::Transporte
+Vocês apanham o autocarro todos os dias para o trabalho.	vocês	apanhar	autocarro	trabalho	/vu.ˈsez  ɐ.ˈpɐ.ɲɐ̃w  u  aw.tu.ˈka.ʁu  ˈto.duz  uʒ  ˈdi.ɐʃ  pɐ.ɾɐ  u  tɾɐ.ˈba.ʎu./	Português::Curso::A1 Português::Frases::Cidade::Transporte
+O avô apanha o comboio para visitar os netos.	avô	apanhar	comboio	netos	/u  ɐ.ˈvo  ɐ.ˈpɐ.ɲɐ  u  kõ.ˈboj.u  pɐ.ɾɐ  vɨ.zi.ˈtaɾ  uʒ  ˈne.tuʃ./	Português::Curso::A1 Português::Frases::Cidade::Transporte
+Apanhamos o eléctrico para fazer turismo pela cidade.	nós	apanhar	eléctrico	turismo + por + cidade	/ɐ.pɐ.ˈɲɐ.muz  u  i.ˈɫɛk.tɾi.ku  pɐ.ɾɐ  fɐ.ˈzeɾ  tu.ˈɾiʒ.mu  ˈpe.ɫɐ  si.ˈda.dɨ./	Português::Curso::A1 Português::Frases::Cidade::Transporte
+Apanha a bicicleta para fazer exercício.	ele	apanhar	bicicleta	fazer + exercício	/ɐ.ˈpɐ.ɲɐ  ɐ  bɨ.si.ˈkɫe.tɐ  pɐ.ɾɐ  fɐ.ˈzeɾ  .ʃɨɾ.ˈsi.sɨ.u./	Português::Curso::A1 Português::Frases::Cidade::Transporte
+Ela apanha o autocarro escolar para ir à escola.	ela	apanhar	autocarro	ir + escola	/ˈe.ɫɐ  ɐ.ˈpɐ.ɲɐ  u  aw.tu.ˈka.ʁu  ʃ.ku.ˈɫaɾ  pɐ.ɾɐ  ˈiɾ  à  ʃ.ˈko.ɫɐ./	Português::Curso::A1 Português::Frases::Cidade::Transporte
+Os turistas apanham o barco para conhecer a ilha.	turistas	apanhar	barco	conhecer + ilha	/uʃ  tu.ˈɾiʃ.tɐz  ɐ.ˈpɐ.ɲɐ̃w  u  ˈbaɾ.ku  pɐ.ɾɐ  ku.ɲɨ.ˈseɾ  ɐ  ˈi.ʎɐ./	Português::Curso::A1 Português::Frases::Cidade::Transporte
+Apanhamos o metro para chegar mais rápido.	nós	apanhar	metro	chegar + mais rápido	/ɐ.pɐ.ˈɲɐ.muz  u  ˈme.tɾu  pɐ.ɾɐ  ʃɨ.ˈgaɾ  ˈmajʒ  ˈʁa.pi.du./	Português::Curso::A1 Português::Frases::Cidade::Transporte
+Eles apanham o autocarro turístico para ver a cidade.	eles	apanhar	autocarro turístico	ver + cidade	/ˈe.ɫɨz  ɐ.ˈpɐ.ɲɐ̃w  u  aw.tu.ˈka.ʁu  tu.ˈɾiʃ.tɨ.ku  pɐ.ɾɐ  ˈveɾ  ɐ  si.ˈda.dɨ./	Português::Curso::A1 Português::Frases::Cidade::Transporte
+Apanha o comboio para ir ao concerto.	tu	apanhar	comboio	ir + concerto	/ɐ.ˈpɐ.ɲɐ  u  kõ.ˈboj.u  pɐ.ɾɐ  ˈiɾ  ˈa.u  kõ.ˈseɾ.tu./	Português::Curso::A1 Português::Frases::Cidade::Transporte
+Vocês apanham o eléctrico para passear pelo centro histórico.	vocês	apanhar	eléctrico	passear + por + centro histórico	/vu.ˈsez  ɐ.ˈpɐ.ɲɐ̃w  u  i.ˈɫɛk.tɾi.ku  pɐ.ɾɐ  pɐ.si.ˈaɾ  ˈpe.ɫu  ˈsẽ.tɾu  ʃ.ˈtɔ.ɾi.ku./	Português::Curso::A1 Português::Frases::Cidade::Transporte
+O avô apanha o autocarro para ir ao médico.	avô	apanhar	autocarro	ir + médico	/u  ɐ.ˈvo  ɐ.ˈpɐ.ɲɐ  u  aw.tu.ˈka.ʁu  pɐ.ɾɐ  ˈiɾ  ˈa.u  ˈmɛ.di.ku./	Português::Curso::A1 Português::Frases::Cidade::Transporte
+Apanham o barco para chegar à ilha deserta.	eles	apanhar	barco	chegar + ilha deserta	/ɐ.ˈpɐ.ɲɐ̃w  u  ˈbaɾ.ku  pɐ.ɾɐ  ʃɨ.ˈgaɾ  à  ˈi.ʎɐ  dɨ.ˈzeɾ.tɐ./	Português::Curso::A1 Português::Frases::Cidade::Transporte
+Ela apanha o carro para ir ao ginásio.	ela	apanhar	carro	ir + ginásio	/ˈe.ɫɐ  ɐ.ˈpɐ.ɲɐ  u  ˈka.ʁu  pɐ.ɾɐ  ˈiɾ  ˈa.u  ʒi.ˈna.zi.u./	Português::Curso::A1 Português::Frases::Cidade::Transporte
+Vamos passear pela Baixa esta tarde.	(Nos) Ir	Passear	Baixa	esta tarde	/ˈvɐ.muʃ  pɐ.si.ˈaɾ  ˈpe.ɫɐ  ˈbaj.ʃɐ  ˈeʃ.tɐ  ˈtaɾ.dɨ./	Português::Curso::A1 Português::Frases::Cidade::Transporte
+O restaurante novo fica na Baixa.	restaurante novo	Ficar	Baixa		/u  ʁɨʃ.taw.ˈɾɐ̃.tɨ  ˈno.vu  ˈfi.kɐ  nɐ  ˈbaj.ʃɐ./	Português::Curso::A1 Português::Frases::Cidade::Transporte

@@ -1,0 +1,82 @@
+
+I'm going to give you a list of words to make practice sentences . 
+
+I want you to use a list of phrases used to ask/give directions here:
+
+ir / seguir em frente
+ir pela rua X
+virar (na primera rua) à esquerda
+virar (na segunda rua) à direita
+virar à esquerda 
+virar à direita
+atravessar (a praça, a rua, etc)
+ir até (à rua, à praça, etc)
+ficar à esquerda
+fica à direita 
+	
+Combined with a list of words that indicate city places/objects that are used to ask/give directions:
+
+a passadeira
+o passeio
+o semáforo
+o cruzamento
+a praça
+a paragem de autocarros
+a estação de metro
+a estação de comboios
+a rua
+a morada
+a estrada
+o endereço
+o destino
+a casa
+
+
+I want you to generate random sentences combining these words using these words and different subjects. The subjects will use the mean of transport words to go or come somewhere in a city or country.  
+
+Rules
+
+
+The sentences must:
+
+- Test the correct use of the verbs when giving/receiving directions. 
+ 
+- I want to test also pronouns + verb conjugation, using the correct number and gender forms of the words. 
+
+- The sentences must match words that make sense together. 
+
+- Please try to use all the words at least once.
+
+- Please note that the lists are not limiting, you can include other words that make sense when asking / receiving directions.
+
+- Return the sentence in Portuguese, then the Spanish translation of the phrase. The Spanish translation will be given to the user so the user can type the form in Portuguêse.  
+
+- Please provide the sentences in a tab separated format so that I can copy paste it to a spreadsheet. The purpose is to then load the list to ANKI to make study cards.
+
+
+Example (You generated a random sentence):
+
+Siga em frente até o cruzamento
+
+
+
+This is what I would expect: 
+
+Siga em frente até o cruzamento	Siga recto hasta el cruce
+
+
+Please generate 20 random sentences that people would use in everyday conversation.
+
+
+
+This is the list of words: 
+
+ir / seguir em frente
+ir pela rua X
+virar (na primera rua) à esquerda
+virar (na segunda rua) à direita
+virar à esquerda 
+virar à direita
+atravessar (a praça, a rua, etc)
+ir até (à rua, à praça, etc)
+	

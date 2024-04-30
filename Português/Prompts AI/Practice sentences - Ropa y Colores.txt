@@ -1,0 +1,449 @@
+
+
+I want you to help me generate sentences in Portuguese to practice describing people's clothing and colors. I also want to practice verb conjugation and agreement of gender and number.
+Focus on making sentences that make sense in daily life:
+- Sentences describing what a person is wearing at that moment.
+- Sentences describing what a person is going to wear or wore at a certain moment.
+- Sentences describing what a person typically wears during a certain season or under certain conditions (rain, winter, parties, etc.).
+- Sentences describing what a school or sports uniform looks like.
+- Sentences describing what a person wants or is going to buy.
+
+Sentences should make sense. It's not logic to have a "impermeável" (raincoat) made of "renda" (lace) or to "calçar" (used for shoes) a "vestido" (dress). Few men wear a "sutiã" (bra) and it's not normal to wear "sandálias" (sandals) in winter. Avoid these type of weird combinations.
+
+These are the type of sentences I expect: 
+
+Trago uma camisola roxa hoje
+A minha filha veste impermeável amarelho sempre que chove.
+A mãe dela usa um vestido de dormir de algodão branco.
+Ela sempre usa chinelos no verão
+A vizinha dela usou calças de ganga na festa ontem.
+A menina vai comprar um gorro quentinho.
+A rapariga calça ténis cor-de-rosa.
+
+
+Please include these words in the sentences you will give me, you can combine them anyway you like just please try to use them once. Use subjects that change gender and number: 
+
+
+T-shirt	preto	comprida
+camisola	cinzento	curta
+calças de ganga	roxo	com padrão
+calções	branco	de ganga
+saia	amarelo	de algodão
+vestido	vermelho	de lã
+colete	castanho	de seda
+blusão	verde	de couro
+camisa	azul	às riscas
+saia comprida	bege	aos cuadrados
+minisaia	cor de laranja	às bolinhas
+fato	cor-de-rosa	
+fato de treino	lilás	
+cachecol		
+sutiã		
+cuecas		
+biquini		
+fato de banho		
+
+
+
+
+
+
+
+Sentences can have an explicit or implicit subject. If implicit, the keyword will be enclosed in parentheses ().
+Sentences can be in the present, past (simple past), or in the combination of "ir + infinitive" of the indicated verb to express the future.
+It's not necessary to follow the order of the words when making the sentences; they can be combined in different orders and can also be repeated, but try to use each of them at least once. You can add more vocabulary that makes sense.
+Sentences should not be too complicated; use one or combine two adjectives for clothing per sentence.
+
+Focus on making sentences that make sense in daily life:
+- Sentences describing what a person is wearing at that moment or is going to wear or wore at a certain moment.
+- Sentences describing what a person typically wears during a certain season or under certain conditions (rain, winter, parties, etc.).
+- Sentences describing what a school or sports uniform looks like.
+- Sentences describing what a person wants or is going to buy.
+
+
+
+
+
+
+
+Trago uma camisola roxa hoje	(Eu)	Trazer	Camisola	Roxo + Hoje
+A minha filha veste impermeável amarelho sempre que chove.	Filha (de Eu)	Vestir	Impermeável	Amarelho + Sempre + Chover
+A mãe dela usa um vestido de dormir de algodão branco.	Mãe (de Ela)	Usar	Vestido de dormir	Algodão + Branco
+Ela sempre usa chinelos no verão	Ela	Sempre + Usar	Chinelas	Verão
+A vizinha dela usou calças de ganga na festa ontem.	Vizinha (de Ela)	Usar (Passado)	Calças de ganga	Festa + Ontem
+A menina vai comprar um gorro quentinho.	Menina	Ir + Comprar	Gorro	Quentinho
+A rapariga calça ténis cor-de-rosa.	Rapariga	Calçar	Ténis	Cor-de-rosa
+
+
+
+
+
+I'm going to give you groups of words with which we'll create sentences in Portuguese, which we'll then use to create a table of values that I'll upload to a spreadsheet. From there, I'll automatically generate ANKI cards for Portuguese study.
+
+In the spreadsheet, the first column will be the Portuguese phrase we create, and the following columns will contain keywords that allow the user to create the sentence. These keywords won't include gender, verb tense, articles, or words adjusted to the gender and number of the subject, which the user must generate themselves. In other words, the user will receive keywords that should be sufficient for them to produce the sentence in the first column.
+
+To generate this table, I'll provide you with the following INSTRUCTIONS:
+
+I'll give you a description of what I want to generate, along with rules to follow when creating the sentences and the objectives to achieve (DESCRIPTION).
+I'll provide an example of what I'll give you and the expected outcome (EXPECTED RESULT).
+I'll give you rules on how the keywords should be presented once the sentences are created (KEYWORD INSTRUCTIONS).
+I'll provide the group of words in a tab-separated format.
+I'll then give you specific instructions and the group of words.
+
+
+
+
+INSTRUCTIONS FOR GENERATING SENTENCES ABOUT CLOTHING AND COLORS:
+
+DESCRIPTION:
+The goal is to generate sentences primarily to practice describing people's clothing and colors, as well as the words used to describe them. Also, to practice verb conjugation and nominal agreement of gender and number between words and their modifiers.
+Sentences can have an explicit or implicit subject. If implicit, the keyword will be enclosed in parentheses ().
+Sentences can be in the present, past (simple past), or in the combination of "ir + infinitive" of the indicated verb to express the future.
+It's not necessary to follow the order of the words when making the sentences; they can be combined in different orders and can also be repeated, but try to use each of them at least once. You can add more vocabulary that makes sense.
+Sentences should not be too complicated; use one or combine two adjectives for clothing per sentence.
+Sentences should make sense. It's not usual to have a "waterproof" lace item, or to "put on" a "dress." Few men wear a "bra," and it's illogical to wear "sandals" in winter.
+Focus on making sentences that make sense in daily life:
+- Sentences describing what a person is wearing at that moment.
+- Sentences describing what a person is going to wear or wore at a certain moment.
+- Sentences describing what a person typically wears during a certain season or under certain conditions (rain, winter, parties, etc.).
+- Sentences describing what a school or sports uniform looks like.
+- Sentences describing what a person wants or is going to buy.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Te voy a dar grupos de palabras con las que vamos a crear oraciones en portugués con las cuales vamos a crear una tabla de valores que voy a subir a una spreadsheet con la cual voy a crear automáticamente tarjetas ANKI para estudiar el portugués. 
+
+En el spreadsheet la primera columna va a ser la frase en portugués que vamos a crear y las siguientes columnas valores son palabras clave que permitirán al usuario crear la oración, pero que no incluyen género, tiempo verbal, artículos o palabras ajustadasal género y número del sujeto y que el usuario tiene que generar. Es decir, el usuario recibirá palabras clave y deben ser suficientes para que el usuario pueda producir la oración en la primera columna. 
+
+Para generar esta tabla te voy a dar las INSTRUCCIONES: 
+
+  Te voy a dar uns descripción de lo que quiero generar, con reglas a seguir al crear las oraciones y los objetivos a cumplir (DESCRIPCIÓN).
+  Te voy a dar un ejemplo de lo que te voy a dar y del resultado que espero. (RESULTADO ESPERADO) 
+  Te voy a dar reglas sobre como deben presentarse las palabras clave una vez que estén hechas las oraciones. (INSTRUCCIONES PALABRAS CLAVE)   
+  Te voy a dar el grupo de palabras en un formato separado por tabulación.
+
+Enseguida te daré instrucciones específicas y el grupo de palabras.
+
+
+
+INSTRUCCIONES PARA GENERAR ORACIONES SOBRE ROPA Y COLORES:
+
+DESCRIPCIÓN: 
+Hay que generar oraciones para practicar PRINCIPALMENTE la descripción de la ropa de las personas y los colores y palabras que se usan para decribirla (a la ropa). 
+También practicar la conjugación de los verbos, y la concordancia nominal de género y número entre las palabras y sus modificadores.  
+Las frases pueden tener un sujeto explícito o implícito. Si es implícito la palabra clave irá entre (). 
+Las frases pueden estar en presente, en pasado (pretérito perfecto simple) o en con la combinación de ir + infinitivo del verbo indicado para expresar futuro.
+No es necesario seguir el órden de las palabras al hacer las oraciones, se pueden combinar en diferente orden y también se pueden repetir, pero tratar de usar por lo menos una vez cada una de ellas. Puedes agregar más vocabulario que tenga sentido.
+Las frases no deben ser muy complicadas, uno o combinar dos adjetivos para la ropa por cada frase. 
+Las frases deben tener sentido. No es normal tener un "impermeável" de "renda", o "calçar" un "vestido". Pocos hombre usan "sutiã" y es ilógico usar "sandálias" en "invierno". 
+Enfócate en hacer frases que tengan sentido el la vida común:
+  - Frases que describen lo que una persona está vistiendo en ese momento.
+  - Frases que describen lo que una persona se va a poner o se puso en un momento determinado.
+  - Frases que describen lo que una persona normalmente se pone durante cierta estación o durante condiciones determinadas (lluvia, invierno, fiestas, etc.)
+  - Frases que describen cómo es un uniforme escolar o deportivo. 
+  - Frases que describen lo que una persona quiere o va a comprar.   
+  
+     
+
+ 
+RESULTADO ESPERADO: 
+
+Un archivo en formato TSV (Tab separated values) con este formato: 
+
+[FRASE]	[SUJEITO]	[VERBO]	[PEÇA DE ROUPA]	[OUTRAS PALAVRAS]
+
+
+
+Si te entrego estas palabras:
+
+I give you the words
+
+Ela	Trazer	T-shirt	preto	comprida	às riscas	De ganga	sempre
+Elas	Vestir	camisola	cinzento	curta	aos cuadrados	Algodão	nunca
+Ele	Calçar	calças de ganga	roxo	com padrão	às bolinhas	Lã	no verão
+Eles	Usar	calções	branco		etc.	Seda	no inverno
+Eu		saia	amarelo			Couro	na primavera
+Filha		vestido	vermelho			Linho	no outono
+Filho 		colete	castanho			Poliéster	quando chove
+Filhos		blusão	verde			Veludo	na festa
+Funcionarios		camisa	azul			Jeans	etc.
+Mãe		saia comprida	bege			Nylon	
+Menina		minisaia	cor de laranja			Cetim	
+Menino		fato	cor-de-rosa			Elastano	
+Namorada		fato de treino	lilás			Feltro	
+Namorado		botas				Caxemira	
+Nós		sandálias				Organza	
+Pai		ténis				Chiffon	
+Rapariga		sapato				Renda	
+Rapaz		saltos				etc.	
+Rapazes		chinelas					
+Senhor		ténis					
+Senhora		chinelas					
+Tu		casaco					
+Vizinha		gabardina					
+Vizinho		impermeável					
+Você		gorro					
+Vocês							
+
+
+
+
+Ejemplo de resultados adecuados: 
+
+Trago uma camisola roxa hoje	(Eu)	Trazer	Camisola	Roxo + Hoje
+A minha filha veste impermeável amarelho sempre que chove.	Filha (de Eu)	Vestir	Impermeável	Amarelho + Sempre + Chover
+A mãe dela usa um vestido de dormir de algodão branco.	Mãe (de Ela)	Usar	Vestido de dormir	Algodão + Branco
+Ela sempre usa chinelos no verão	Ela	Sempre + Usar	Chinelas	Verão
+A vizinha dela usou calças de ganga na festa ontem.	Vizinha (de Ela)	Usar (Passado)	Calças de ganga	Festa + Ontem
+A menina vai comprar um gorro quentinho.	Menina	Ir + Comprar	Gorro	Quentinho
+A rapariga calça ténis cor-de-rosa.	Rapariga	Calçar	Ténis	Cor-de-rosa
+
+
+INSTRUCCIONES PALABRAS CLAVE:
+
+1. La primer columna debe contener la oración.  
+
+2. La segunda columna debe ser el sujeto. 
+Si el sujeto es implícito, incluirlo entre paréntesis. Ejemplo: 
+El sujeto es "Eu", pero la frase es "Trago uma camisola roxa hoje." Las palabras clave serán "(Eu)	Trazer	Camisola	Roxo + Hoje"
+
+Si el sujeto incluye un posesivo, incluir después del sujeto y entre paréntesis una indicación para poderlo adivinar. Por ejemplo:
+La oración es "A vizinha dela usou calças de ganga na festa ontem." Las palabras clave serán "Vizinha (de Ela)	Usar (Passado)	Calças de ganga	Festa + Ontem"
+Usar:
+para "o meu" / "a minha" / "os meus" / "as minhas" (de Eu)
+para "o teu" / "a tua" / "os teus" / "as tuas" (de Tu)
+para "o seu" / "a sua" / "os seus" / "as suas" (de Você)
+para "dele" (de Ele), "dela" (de Ela), "deles" (de Eles), delas (de Elas)
+para "o nosso" / "a nossa" / "os nossos" / "as nossas" (de Nós)
+para "o vosso" / "a vossa" / "os vossos" / "as vossas" (de Vocês)
+
+3. La tercera columna debe ser el verbo
+
+Si antes del verbo debe ir otra palabra, incluirla en la misma columna, separada por un +. Por ejemplo: 
+Si la frase es "Ela sempre usa chinelos no verão"	"Ela	Sempre + Usar	Chinelos	Verão"
+
+El tiempo verbal será en presente a menos que se indique tiempo pasado entre paréntesis. Ejemplo:  
+"A vizinha dela usou calças de ganga na festa ontem." Las palabras clave serán "Vizinha (de Ela)	Usar (Passado)	Calças de ganga	Festa + Ontem"
+
+Usar Ir + [verbo] cuando el tiempo sea en futuro. Ejemplo: 
+A menina vai comprar um gorro quentinho.	Menina	Ir + Comprar	Gorro	Quentinho
+
+
+3. La cuarta columna debe ser la pieza de ropa.
+
+4. La quinta columna deben ser el resto de las palabras clave separadas por un " + " si hay más de una palabra clave. 
+
+
+5. Cada una de las palabras clave deben empezar con mayúscula.
+
+6. No incluir los artículos ni las contracciones de artículos y preposiciones, estos deben ser inferidos por el usuario. 
+
+7. El sujeto debe ir en el género y número que se usa en la frase, pero los adjetivos y otros modificadores deben presentarse en masculino singular. El usuario debe adivinarlos a raíz del sujeto. 
+
+8. Solamente usar las palabras "para" o "por" si es necesario para que el usuario pueda adivinar cual usar. No hacer contracciones pelo, pela, etc. Sólo usar "por"
+
+
+Por favor genera oraciones con estas palabras:
+
+ [SUJEITO]	[VERBO]	[PEÇA DE ROUPA]	[OUTRAS PALAVRAS]	[OUTRAS PALAVRAS]	[OUTRAS PALAVRAS]	[OUTRAS PALAVRAS]	[OUTRAS PALAVRAS]
+Senhor	Trazer	T-shirt	preto	comprida	às riscas	De ganga	sempre
+Senhora	Vestir	camisola	cinzento	curta	aos cuadrados	Algodão	nunca
+Eu		calças de ganga	roxo	com padrão	às bolinhas	Lã	no verão
+Tu		calções	branco		etc.	Seda	no inverno
+Ela		saia	amarelo			Couro	na primavera
+Ele		vestido	vermelho			Linho	no outono
+Você		colete	castanho			Poliéster	quando chove
+Nós		blusão	verde			Veludo	na festa
+Vocês		camisa	azul			Jeans	etc.
+Eles		saia comprida	bege			Nylon	
+Elas		minisaia	cor de laranja			Cetim	
+Rapariga		fato	cor-de-rosa			Elastano	
+Rapaz		fato de treino	lilás			Feltro	
+Menino		casaco				Caxemira	
+Menina		gabardina				Organza	
+Criança		impermeável				Chiffon	
+Crianças		gorro				Renda	
+Raparigas		boné				etc.	
+Rapazes		gorro					
+Estudantes		cachecol					
+Cabelereiro		sutiã					
+Funcionario		cuecas					
+Namorado		biquini					
+Namorada		fato de banho					
+Funcionarias							
+Sócio							
+Sócia							
+Avôs							
+Vizinho							
+Vizinha							
+Filha							
+Filhos							
+Colega							
+Colegas							
+Pai							
+Mãe							
+
+
+
+
+
+
+
+
+  
+Para las palabras clave 
+
+
+
+
+Te voy a dar el grupo de palabras a incluir en columnas.
+
+   La primera columna incluye sujetos.
+   La segunda columna incluye los verbos. 
+   Las siguientes columnas incluyen el vocabulario a incluir en las oraciones.  
+
+
+
+
+1. I want to test the verbs vestir, trazer, calçar Please note that you should use calçar for shoes only. 
+
+2. The sentences must test also adjectives and complements too. 
+
+I don't want to have sentences that doesn't use a form of complement. For example "Ela traz calções."  I want a sentence like "Ela traz calções." 
+
+
+Combinado con adjectivos que describen la ropa
+curto
+comprido
+de agasalho
+quente
+quentinho
+
+
+
+Combinado con colores: 
+preto
+cinzento
+roxo
+branco
+amarelo
+vermelho
+castanho
+verde
+azul
+bege
+cor de laranja
+cor-de-rosa
+lilás
+
+Combinados con diseño: 
+com padrão
+às riscas
+aos cuadrados
+às bolinhas
+
+y/o combinados con material textil:
+Algodão
+Lã
+Seda
+Couro
+Linho
+de ganga
+
+
+You can also words that indicate when they are used.
+sempre
+nunca
+às vezes 
+no inverno
+no verão
+quando chove
+etc.
+
+These are what you need to correct:
+
+Ela compra calções amarelos.	Ela	Comprar	Calções	Amarelo	
+Tu tens calças de ganga brancas.	Tu	Ter	Calças de ganga	Branco	
+Eu trago uma camisola roxa.	Eu	Trazer	Camisola	Roxo	
+Os rapazes usam biquinis lilases.	Rapazes	Usar	Biquini	Lilás	
+Vocês têm sandálias azuis.	Vocês	Ter	Sandálias	Azul	
+Nós usamos cachecóis verdes.	Nós	Usar	Cachecol	Verde	
+As crianças usam roupa de agasalho	Crianças	Usar	Roupa	Quente	
+Ele usa botas vermelhas.	Ele	Usar	Botas	Vermelho	
+Eles usam gabardinas beges.	Eles	Usar	Gabardina	Bege	
+Eu uso um colete.	Eu	Usar	Colete		
+Eles têm sapatos.	Eles	Ter	Sapato		
+Elas usam saias cor de laranja.	Elas	Usar	Saia	Cor de laranja	
+Os estudantes usam collants.	Estudantes	Usar	Collants		
+Os rapazes usam peças de roupa.	Rapazes	Usar	Peças de roupa		
+O cabelereiro usa uma camisa.	Cabelereiro	Usar	Camisa		
+Os funcionários usam saltos.	Funcionários	Usar	Saltos		
+O menino tem um boné.	Menino	Ter	Boné		
+A menina tem um gorro quente.	Menina	Ter	Gorro	Quente	
+As raparigas usam bolsos.	Raparigas	Usar	Bolso		
+O senhor veste t-shirt preta.	Senhor	Vestir	T-shirt	Preto	
+A senhora despe casaco cinzento.	Senhora	Despir	Casaco	Cinzento	
+Eu trago camisola roxa.	Eu	Trazer	Camisola	Roxo	
+Ela usa calções amarelos.	Ela	Usar	Calções	Amarelo	
+Ele tem botas vermelhas.	Ele	Ter	Botas	Vermelho	
+Você tem vestido castanho.	Você	Ter	Vestido	Castanho	
+Nós temos cachecol verde.	Nós	Ter	Cachecol	Verde	
+Eles têm gabardina bege.	Eles	Ter	Gabardina	Bege	
+Elas têm saia cor de laranja.	Elas	Ter	Saia	Cor de laranja	
+A rapariga calça ténis cor-de-rosa.	Rapariga	Calçar	Ténis	Cor-de-rosa	
+O rapaz tem biquini lilás.	Rapaz	Ter	Biquini	Lilás	
+O menino tem boné comprido.	Menino	Ter	Boné	Comprida	
+A menina tem gorro curto.	Menina	Ter	Gorro	Curta	
+A criança usa meias de ganga.	Criança	Usar	Meias de ganga		
+As crianças vestem roupa quente.	Crianças	Vestir	Roupa	Quente	
+As raparigas têm bolso cinzento.	Raparigas	Ter	Bolso	Cinzenta	
+Os rapazes têm peças de roupa roxas.	Rapazes	Ter	Peças de roupa	Roxa	
+Os estudantes usam collants brancos.	Estudantes	Usar	Collants	Branca	
+O cabeleireiro tem camisa amarela.	Cabelereiro	Ter	Camisa	Amarela	
+O funcionário calça sapatos vermelhos.	Funcionario	Calçar	Sapato	Vermelho	
+O namorado tem saltos castanhos.	Namorado	Ter	Saltos	Castanha	
+A namorada tem colete verde.	Namorada	Ter	Colete	Verde	
+As funcionárias têm blusão azul.	Funcionarias	Ter	Blusão	Azul	
+O sócio usa saia comprida bege.	Sócio	Usar	Saia comprida	Bege	
+A sócia usa minisaia cor de laranja.	Sócia	Usar	Minisaia	Cor de laranja	
+Os avôs têm kispo cor-de-rosa.	Avôs	Ter	Kispo	Cor-de-rosa	
+O vizinho tem sobretudo lilás.	Vizinho	Ter	Sobretudo	Lilás	
+A vizinha tem calças de ganga azuis.	Vizinha	Ter	Calças de ganga	Azul	
+A filha tem impermeável amarelho.	Filha	Ter	Impermeável	Amarelho	
+Os filhos têm fatos com padrão.	Filhos	Ter	Fato	Com padrão	
+O colega usa fato de treino às riscas.	Colega	Usar	Fato de treino	Às riscas	
+Os colegas usam fato de banho aos quadrados.	Colegas	Usar	Fato de banho	Aos cuadrados	
+O pai usa fato de dormir às bolinhas.	Pai	Usar	Fato de dormir	Às bolinhas	
+A mãe usa vestido de dormir.	Mãe	Usar	Vestido	Dormir	
+Ela usa sutiã.	Ela	Usar	Sutiã		
+Ele usa cuecas.	Ele	Usar	Cuecas		
+Ela usa oleado.	Ela	Usar	Oleado		
+Ele usa ténis.	Ele	Usar	Ténis		
+Ele usa fato de correr.	Ele	Usar	Fato	Correr	
+Ela usa chinelas.	Ela	Usar	Chinelas		
+Ela usa calções.	Ela	Usar	Calções		
+
+
+
+

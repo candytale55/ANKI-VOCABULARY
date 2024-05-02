@@ -1,0 +1,52 @@
+#separator:tab
+#html:true
+#tags column:7
+16:00 + Que horas são?	16:00	Que horas são?	São quatro da tarde<br>São dezasseis horas			Português::Curso::A1 Português::Vocabulario::Calendario::Horas Português::Vocabulario::Calendario::Horas::Que_horas_sao?
+09:30 + Que horas são?	09:30	Que horas são?	São nove e meia da manhã<br>São nove horas e trinta minutos			Português::Curso::A1 Português::Vocabulario::Calendario::Horas::Que_horas_sao?
+14:45 + Que horas são?	14:45	Que horas são?	São quinze menos quinze da tarde<br>São quatorze horas e quarenta e cinco minutos			Português::Curso::A1 Português::Vocabulario::Calendario::Horas::Que_horas_sao?
+08:00 + Que horas são?	08:00	Que horas são?	São oito da manhã<br>São oito horas			Português::Curso::A1 Português::Vocabulario::Calendario::Horas::Que_horas_sao?
+22:15 + Que horas são?	22:15	Que horas são?	São dez e quinze da noite<br>São vinte e duas horas e quinze minutos			Português::Curso::A1 Português::Vocabulario::Calendario::Horas::Que_horas_sao?
+03:45 + Que horas são?	03:45	Que horas são?	São quatro menos quinze<br>São três horas e quarenta e cinco minutos			Português::Curso::A1 Português::Vocabulario::Calendario::Horas::Que_horas_sao?
+17:30 + Que horas são?	17:30	Que horas são?	São cinco e meia da tarde<br>São dezassete horas e trinta minutos			Português::Curso::A1 Português::Vocabulario::Calendario::Horas::Que_horas_sao?
+10:10 + Que horas são?	10:10	Que horas são?	São dez e dez da manhã<br>São dez horas e dez minutos			Português::Curso::A1 Português::Vocabulario::Calendario::Horas::Que_horas_sao?
+20:00 + Que horas são?	20:00	Que horas são?	São oito da noite<br>São vinte horas			Português::Curso::A1 Português::Vocabulario::Calendario::Horas::Que_horas_sao?
+06:45 + Que horas são?	06:45	Que horas são?	São sete menos quinze<br>São seis horas e quarenta e cinco minutos			Português::Curso::A1 Português::Vocabulario::Calendario::Horas::Que_horas_sao?
+13:20 + Que horas são?	13:20	Que horas são?	São treze e vinte da tarde<br>São treze horas e vinte minutos			Português::Curso::A1 Português::Vocabulario::Calendario::Horas::Que_horas_sao?
+23:59 + Que horas são?	23:59	Que horas são?	São meia-noite menos um minuto<br>São vinte e três horas e cinquenta e nove minutos			Português::Curso::A1 Português::Vocabulario::Calendario::Horas::Que_horas_sao?
+18:45 + Que horas são?	18:45	Que horas são?	São dezanove menos quinze da tarde<br>São dezoito horas e quarenta e cinco minutos			Português::Curso::A1 Português::Vocabulario::Calendario::Horas::Que_horas_sao?
+07:30 + Que horas são?	07:30	Que horas são?	São sete e meia da manhã<br>São sete horas e trinta minutos			Português::Curso::A1 Português::Vocabulario::Calendario::Horas::Que_horas_sao?
+21:05 + Que horas são?	21:05	Que horas são?	São vinte e uma e cinco da noite<br>São vinte e uma horas e cinco minutos			Português::Curso::A1 Português::Vocabulario::Calendario::Horas::Que_horas_sao?
+11:55 + Que horas são?	11:55	Que horas são?	São doze menos cinco da manhã<br>São onze horas e cinquenta e cinco minutos<br>São doze da manhã			Português::Curso::A1 Português::Vocabulario::Calendario::Horas::Que_horas_sao?
+00:30 + Que horas são?	00:30	Que horas são?	São meia-noite e meia			Português::Curso::A1 Português::Vocabulario::Calendario::Horas::Que_horas_sao?
+19:40 + Que horas são?	19:40	Que horas são?	São vinte horas e quarenta minutos<br>São dezanove horas e quarenta minutos			Português::Curso::A1 Português::Vocabulario::Calendario::Horas::Que_horas_sao?
+04:15 + Que horas são?	04:15	Que horas são?	São quatro e quinze			Português::Curso::A1 Português::Vocabulario::Calendario::Horas::Que_horas_sao?
+14:00 + Que horas são?	14:00	Que horas são?	São duas horas da tarde<br>São quatorze horas			Português::Curso::A1 Português::Vocabulario::Calendario::Horas::Que_horas_sao?
+17:15 + Que horas são?	17:15	Que horas são?	São cinco e quinze da tarde<br>São dezassete horas			Português::Curso::A1 Português::Vocabulario::Calendario::Horas::Que_horas_sao?
+20:40 + Que horas são?	20:40	Que horas são?	São oito e quarenta da noite<br>São vinte horas e quarenta minutos			Português::Curso::A1 Português::Vocabulario::Calendario::Horas::Que_horas_sao?
+11:50 + Que horas são?	11:50	Que horas são?	São onze e cinquenta da manhã<br>São onze horas e cinquenta minutos			Português::Curso::A1 Português::Vocabulario::Calendario::Horas::Que_horas_sao?
+22:20 + Que horas são?	22:20	Que horas são?	São vinte e duas da noite<br>São vinte e duas horas e vinte minutos			Português::Curso::A1 Português::Vocabulario::Calendario::Horas::Que_horas_sao?
+13:45 + Que horas são?	13:45	Que horas são?	São treze e quarenta e cinco da tarde<br>São treze horas e quarenta e cinco minutos			Português::Curso::A1 Português::Vocabulario::Calendario::Horas::Que_horas_sao?
+16:10 + Que horas são?	16:10	Que horas são?	São dezasseis e dez<br>São dezasseis horas e dez minutos			Português::Curso::A1 Português::Vocabulario::Calendario::Horas::Que_horas_sao?
+19:35 + Que horas são?	19:35	Que horas são?	São dezanove e trinta e cinco<br>São dezanove horas e trinta e cinco minutos<br>São vinte e cinco para as vinte			Português::Curso::A1 Português::Vocabulario::Calendario::Horas::Que_horas_sao?
+08:05 + Que horas são?	08:05	Que horas são?	São oito e cinco da manhã<br>São oito horas e cinco minutos			Português::Curso::A1 Português::Vocabulario::Calendario::Horas::Que_horas_sao?
+18:25 + Que horas são?	18:25	Que horas são?	São dezoito e vinte e cinco da noite<br>São dezoito horas e vinte e cinco minutos			Português::Curso::A1 Português::Vocabulario::Calendario::Horas::Que_horas_sao?
+12:55 + Que horas são?	12:55	Que horas são?	São doze e cinquenta e cinco da tarde<br>São doze horas e cinquenta e cinco minutos			Português::Curso::A1 Português::Vocabulario::Calendario::Horas::Que_horas_sao?
+15:30 + Que horas são?	15:30	Que horas são?	São quinze e trinta da tarde<br>São quinze horas e trinta minutos			Português::Curso::A1 Português::Vocabulario::Calendario::Horas::Que_horas_sao?
+10:45 + Que horas são?	10:45	Que horas são?	São dez e quarenta e cinco da manhã<br>São dez horas e quarenta e cinco minutos			Português::Curso::A1 Português::Vocabulario::Calendario::Horas::Que_horas_sao?
+21:00 + Que horas são?	21:00	Que horas são?	São vinte e uma da noite<br>São vinte e uma horas			Português::Curso::A1 Português::Vocabulario::Calendario::Horas::Que_horas_sao?
+07:20 + Que horas são?	07:20	Que horas são?	São sete e vinte<br>São sete horas e vinte minutos			Português::Curso::A1 Português::Vocabulario::Calendario::Horas::Que_horas_sao?
+23:50 + Que horas são?	23:50	Que horas são?	São vinte e três e cinquenta da noite<br>São vinte e três horas e cinquenta minutos			Português::Curso::A1 Português::Vocabulario::Calendario::Horas::Que_horas_sao?
+06:15 + Que horas são?	06:15	Que horas são?	São seis e quinze da manhã<br>São seis horas e quinze minutos			Português::Curso::A1 Português::Vocabulario::Calendario::Horas::Que_horas_sao?
+00:05 + Que horas são?	00:05	Que horas são?	É meia-noite e cinco			Português::Curso::A1 Português::Vocabulario::Calendario::Horas::Que_horas_sao?
+03:40 + Que horas são?	03:40	Que horas são?	São três e quarenta da manhã<br>São vinte para as quatro			Português::Curso::A1 Português::Vocabulario::Calendario::Horas::Que_horas_sao?
+12:00 + Que horas são?	12:00	Que horas são?	É meio-dia			Português::Curso::A1 Português::Vocabulario::Calendario::Horas::Que_horas_sao?
+12:30 + Que horas são?	12:30	Que horas são?	É meio-dia e meia			Português::Curso::A1 Português::Vocabulario::Calendario::Horas::Que_horas_sao?
+00:00 + Que horas são?	00:00	Que horas são?	É meia-noite			Português::Curso::A1 Português::Vocabulario::Calendario::Horas::Que_horas_sao?
+12:00 PM + Que horas são?	12:00 PM	Que horas são?	É meio-dia			Português::Curso::A1 Português::Vocabulario::Calendario::Horas::Que_horas_sao?
+12:30 PM + Que horas são?	12:30 PM	Que horas são?	É meio-dia e meia			Português::Curso::A1 Português::Vocabulario::Calendario::Horas::Que_horas_sao?
+12:00 AM + Que horas são?	12:00 AM	Que horas são?	É meia-noite			Português::Curso::A1 Português::Vocabulario::Calendario::Horas::Que_horas_sao?
+12:30 AM + Que horas são?	12:30 AM	Que horas são?	É meia-noite e meia			Português::Curso::A1 Português::Vocabulario::Calendario::Horas::Que_horas_sao?
+01:00 + Que horas são?	01:00	Que horas são?	É uma hora			Português::Curso::A1 Português::Vocabulario::Calendario::Horas::Que_horas_sao?
+02:00 + Que horas são?	02:00	Que horas são?	São duas horas			Português::Curso::A1 Português::Vocabulario::Calendario::Horas::Que_horas_sao?
+01:00 AM + Que horas são?	01:00 AM	Que horas são?	É uma hora			Português::Curso::A1 Português::Vocabulario::Calendario::Horas::Que_horas_sao?
+02:00 AM + Que horas são?	02:00 AM	Que horas são?	São duas horas			Português::Curso::A1 Português::Vocabulario::Calendario::Horas::Que_horas_sao?

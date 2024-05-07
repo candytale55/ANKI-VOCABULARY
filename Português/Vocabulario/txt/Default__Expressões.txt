@@ -1,0 +1,87 @@
+#separator:tab
+#html:true
+#tags column:8
+Apanhar o avião (Exp)	a expressão	Apanhar o avião	o avião	/ɐ.pɐ.ˈɲaɾ u ɐ.vi.ˈɐ̃w/			Português::Curso::A1 Português::Vocabulario::Cidade::Transporte Português::Vocabulario::Expressões Português::Vocabulario::Viagem
+Passar férias (Exp)	a expressão	Passar férias	férias	/pɐ.ˈsaɾ ˈfɛ.ɾi.ɐʃ/			Português::Curso::A1 Português::Vocabulario::Expressões Português::Vocabulario::Viagem
+Andar de barco (Exp)	a expressão	Andar de barco	de barco	/ɐ̃.ˈdaɾ dɨ ˈbaɾ.ku/			Português::Curso::A1 Português::Vocabulario::Cidade::Transporte Português::Vocabulario::Expressões Português::Vocabulario::Viagem
+Tirar fotografias (Exp)	a expressão	Tirar fotografias	fotografias	/ti.ˈɾaɾ fu.tu.gɾɐ.ˈfi.ɐʃ/			Português::Curso::A1 Português::Vocabulario::Expressões Português::Vocabulario::Viagem
+Ser divertido (Exp)	a expressão	Ser divertido	divertido (alguma actividade)	/ˈseɾ di.vɨɾ.ˈti.du/			Português::Curso::A1 Português::Vocabulario::Expressões Português::Vocabulario::Viagem
+Provar comida típica (Exp)	a expressão	Provar comida típica	comida típica	/pɾu.ˈvaɾ ku.ˈmi.dɐ ˈti.pɨ.kɐ/			Português::Curso::A1 Português::Vocabulario::Expressões Português::Vocabulario::Viagem
+Ficar num hotel (Exp)	a expressão	Ficar num hotel	num hotel	/fi.ˈkaɾ ˈnũ o.ˈtɛɫ/			Português::Curso::A1 Português::Vocabulario::Expressões Português::Vocabulario::Viagem
+Festas felizes! (Exp)	a expressão	Festas felizes!	Estamos quase no Natal	/ˈfeʃ.tɐʃ fɨ.ˈɫi.zɨʃ!/			Português::Curso::A1 Português::Vocabulario::Expressões
+Muitas felicidades! (Exp)	a expressão	Muitas felicidades!	A sua colega de trabalho vai casar-se	/ˈmũj.tɐʃ fɨ.ɫɨ.si.ˈda.dɨʃ!/		Vou casar, vou viajar	Português::Curso::A1 Português::Vocabulario::Expressões
+Boa viagem! (Exp)	a expressão	Boa viagem!	Os seus pais estão no aeroporto e vão passar o fim de semana a Paris.	/ˈbo.ɐ vi.ˈa.ʒɐ̃j!/			Português::Curso::A1 Português::Vocabulario::Expressões
+As melhoras! (Exp)	a expressão	As melhoras!	O seu colega tem febre e vai para casa.	/ɐʒ mɨ.ˈʎo.ɾɐʃ!/			Português::Curso::A1 Português::Vocabulario::Expressões
+Muitos parabens! (Exp)	a expressão	Muitos parabens!	A sua prima recebe o diploma da universidade	/ˈmũj.tuʃ pɐ.ɾɐ.bɐ̃jʃ!/		Enhorabuena! - Excepto cumpleaños	Português::Curso::A1 Português::Vocabulario::Expressões
+Tão bom (Exp)	a expressão	Tão bom	t....  bom	/ˈtɐ̃w bõ/			Português::Curso::A1 Português::Vocabulario::Expressões
+Tão depressa (Exp)	a expressão	Tão depressa	t.... depressa	/ˈtɐ̃w dɨ.ˈpɾe.sɐ/			Português::Curso::A1 Português::Vocabulario::Expressões
+Tanta água (Exp)	a expressão	Tanta água	t.... água	/ˈtɐ̃.tɐ ˈa.gwɐ/			Português::Curso::A1 Português::Vocabulario::Expressões
+Tanto café (Exp)	a expressão	Tanto café	t.... café	/ˈtɐ̃.tu kɐ.ˈfɛ/			Português::Curso::A1 Português::Vocabulario::Expressões
+Tantas pessoas (Exp)	a expressão	Tantas pessoas	t.... pessoas	/ˈtɐ̃.tɐʃ pɨ.ˈso.ɐʃ/			Português::Curso::A1 Português::Vocabulario::Expressões
+Tantos presentes (Exp)	a expressão	Tantos presentes	t.... presentes	/ˈtɐ̃.tuʃ pɾɨ.ˈzẽ.tɨʃ/			Português::Curso::A1 Português::Vocabulario::Expressões
+Tão contente (Exp)	a expressão	Tão contente	t.... contente	/ˈtɐ̃w kõ.ˈtẽ.tɨ/			Português::Curso::A1 Português::Vocabulario::Expressões
+Tanto tempo livre (Exp)	a expressão	Tanto tempo livre	t.... tempo livre	/ˈtɐ̃.tu ˈtẽ.pu ˈɫi.vɾɨ/			Português::Curso::A1 Português::Vocabulario::Expressões
+Tantas sobremesas boas (Exp)	a expressão	Tantas sobremesas boas	t.... sobremesas boas	/ˈtɐ̃.tɐʃ su.bɾɨ.ˈme.zɐʒ ˈbo.ɐʃ/			Português::Curso::A1 Português::Vocabulario::Expressões
+Tão difícil (Exp)	a expressão	Tão difícil	t.... difícil	/ˈtɐ̃w dɨ.ˈfi.sɨɫ/			Português::Curso::A1 Português::Vocabulario::Expressões
+Apanhar sol (Exp)	a expressão	Apanhar sol	....  sol	/ɐ.pɐ.ˈɲaɾ ˈsɔɫ/			Português::Curso::A1 Português::Vocabulario::Expressões
+Tomar banho (Exp)	a expressão	Tomar banho	.... banho	/tu.ˈmaɾ ˈbɐ.ɲu/			Português::Curso::A1 Português::Vocabulario::Expressões
+Chegar a horas (Exp)	a expressão	Chegar a horas	.... a horas	/ʃɨ.ˈgaɾ ɐ ˈo.ɾɐʃ/			Português::Curso::A1 Português::Vocabulario::Expressões
+Vestir / Despir um casaco (Exp)	a expressão	Vestir / Despir um casaco	.... um casaco	/vɨʃ.ˈtiɾ   /   dɨʃ.ˈpiɾ ˈũ kɐ.ˈza.ku/			Português::Curso::A1 Português::Vocabulario::Expressões
+Enviar um e-mail (Exp)	a expressão	Enviar um e-mail	.... um e-mail	/ẽ.vi.ˈaɾ ˈũ i-ˈmajɫ/			Português::Curso::A1 Português::Vocabulario::Expressões
+Trazer o guarda-chuva (Exp)	a expressão	Trazer o guarda-chuva	.... o guarda-chuva	/tɾɐ.ˈzeɾ u ˈgwaɾ.dɐ-ˈʃu.vɐ/			Português::Curso::A1 Português::Vocabulario::Expressões
+Usar óculos (Exp)	a expressão	Usar óculos	.... óculos	/u.ˈzaɾ ˈɔ.ku.ɫuʃ/			Português::Curso::A1 Português::Vocabulario::Expressões
+Está tão nublado (Exp)	a expressão	Está tão nublado	......  t.... nublado	/ʃ.ˈta ˈtɐ̃w nu.ˈbɫa.du/			Português::Curso::A1 Português::Vocabulario::Expressões
+Está tão frio (Exp)	a expressão	Está tão frio	......  t....frio	/ʃ.ˈta ˈtɐ̃w ˈfɾi.u/			Português::Curso::A1 Português::Vocabulario::Expressões
+Está tanto vento (Exp)	a expressão	Está tanto vento	......  t.... vento	/ʃ.ˈta ˈtɐ̃.tu ˈvẽ.tu/			Português::Curso::A1 Português::Vocabulario::Expressões
+Esta calor (Exp)	a expressão	Esta calor	calor	/ˈeʃ.tɐ kɐ.ˈɫoɾ/			Português::Curso::A1 Português::Vocabulario::Expressões
+Esta frio (Exp)	a expressão	Esta frio	frio	/ˈeʃ.tɐ ˈfɾi.u/			Português::Curso::A1 Português::Vocabulario::Expressões
+Esta vento (Exp)	a expressão	Esta vento	vento	/ˈeʃ.tɐ ˈvẽ.tu/			Português::Curso::A1 Português::Vocabulario::Expressões
+Esta chuva (Exp)	a expressão	Esta chuva	chuva	/ˈeʃ.tɐ ˈʃu.vɐ/			Português::Curso::A1 Português::Vocabulario::Expressões
+Esta limpo (Exp)	a expressão	Esta limpo	limpo	/ˈeʃ.tɐ ˈɫĩ.pu/			Português::Curso::A1 Português::Vocabulario::Expressões
+Esta mau (Exp)	a expressão	Esta mau	mau	/ˈeʃ.tɐ ˈmaw/			Português::Curso::A1 Português::Vocabulario::Expressões
+Estar com fome (Exp)	a expressão	Estar com fome	com fome	/ʃ.ˈtaɾ kõ ˈfo.mɨ/			Português::Curso::A1 Português::Vocabulario::Expressões
+Estar com sede (Exp)	a expressão	Estar com sede	com sede	/ʃ.ˈtaɾ kõ ˈse.dɨ/			Português::Curso::A1 Português::Vocabulario::Expressões
+Ter sono (Exp)	a expressão	Ter sono	sono	/ˈteɾ ˈso.nu/			Português::Curso::A1 Português::Vocabulario::Expressões
+Ter fome (Exp)	a expressão	Ter fome	fome	/ˈteɾ ˈfo.mɨ/			Português::Curso::A1 Português::Vocabulario::Expressões
+Ter sorte (Exp)	a expressão	Ter sorte	sorte	/ˈteɾ ˈsoɾ.tɨ/			Português::Curso::A1 Português::Vocabulario::Expressões
+Ter azar (Exp)	a expressão	Ter azar	azar	/ˈteɾ ɐ.ˈzaɾ/			Português::Curso::A1 Português::Vocabulario::Expressões
+Ter medo (Exp)	a expressão	Ter medo	medo	/ˈteɾ ˈme.du/			Português::Curso::A1 Português::Vocabulario::Expressões
+Ir / Vir a pé (Exp)	a expressão	Ir / Vir a pé	... pé	/ˈiɾ / ˈviɾ ɐ ˈpɛ/			Português::Curso::A1 Português::Vocabulario::Expressões
+Apanhar o comboio (Exp)	a expressão	Apanhar o comboio	o comboio	/ɐ.pɐ.ˈɲaɾ u kõ.ˈboj.u/			Português::Curso::A1 Português::Vocabulario::Cidade::Transporte Português::Vocabulario::Expressões
+Apanhar o autocarro (Exp)	a expressão	Apanhar o autocarro	o autocarro	/ɐ.pɐ.ˈɲaɾ u aw.tu.ˈka.ʁu/			Português::Curso::A1 Português::Vocabulario::Cidade::Transporte Português::Vocabulario::Expressões
+Apanhar o eléctrico (Exp)	a expressão	Apanhar o eléctrico	o eléctrico	/ɐ.pɐ.ˈɲaɾ u i.ˈɫɛk.tɾi.ku/			Português::Curso::A1 Português::Vocabulario::Cidade::Transporte Português::Vocabulario::Expressões
+Apanhar o barco (Exp)	a expressão	Apanhar o barco	o barco	/ɐ.pɐ.ˈɲaɾ u ˈbaɾ.ku/			Português::Curso::A1 Português::Vocabulario::Cidade::Transporte Português::Vocabulario::Expressões
+Ir / Viajar no eléctrico No. 5 (Exp)	a expressão	Ir / Viajar no eléctrico No. 5	no eléctrico No. 5	/ˈiɾ / vi.ɐ.ˈʒaɾ nu i.ˈɫɛk.tɾi.ku nu. 5/			Português::Curso::A1 Português::Vocabulario::Cidade::Transporte Português::Vocabulario::Expressões
+Ir / Viajar de eléctrico (Exp)	a expressão	Ir / Viajar de eléctrico	de eléctrico	/ˈiɾ / vi.ɐ.ˈʒaɾ dɨ i.ˈɫɛk.tɾi.ku/			Português::Curso::A1 Português::Vocabulario::Cidade::Transporte Português::Vocabulario::Expressões
+Ir / Viajar no comboio deas 17:45 (Exp)	a expressão	Ir / Viajar no comboio deas 17:45	no comboio deas 17:45	/ˈiɾ / vi.ˈaʒ-ˈaɾ nu kõ.ˈboj.u ˈde.ɐʃ 17:45/			Português::Curso::A1 Português::Vocabulario::Cidade::Transporte Português::Vocabulario::Expressões
+Ir / Viajar / Andar de autocarro (Exp)	a expressão	Ir / Viajar / Andar de autocarro	de autocarro	/ˈiɾ / vi.ɐ.ˈʒaɾ / ɐ̃.ˈdaɾ dɨ aw.tu.ˈka.ʁu/			Português::Curso::A1 Português::Vocabulario::Cidade::Transporte Português::Vocabulario::Expressões
+Ir / Viajar / Andar de mota (Exp)	a expressão	Ir / Viajar / Andar de mota	de mota	/ˈiɾ / vi.ɐ.ˈʒaɾ / ɐ̃.ˈdaɾ dɨ ˈmo.tɐ/			Português::Curso::A1 Português::Vocabulario::Cidade::Transporte Português::Vocabulario::Expressões
+Ir / Viajar / Andar de carro (Exp)	a expressão	Ir / Viajar / Andar de carro	de carro	/ˈiɾ / vi.ɐ.ˈʒaɾ / ɐ̃.ˈdaɾ dɨ ˈka.ʁu/			Português::Curso::A1 Português::Vocabulario::Cidade::Transporte Português::Vocabulario::Expressões
+Ir / Viajar / Andar de bicicleta (Exp)	a expressão	Ir / Viajar / Andar de bicicleta	de bicicleta	/ˈiɾ / vi.ɐ.ˈʒaɾ / ɐ̃.ˈdaɾ dɨ bɨ.si.ˈkɫe.tɐ/			Português::Curso::A1 Português::Vocabulario::Cidade::Transporte Português::Vocabulario::Expressões
+Apanho a bicicleta (Exp)	a expressão	Apanho a bicicleta	a bicicleta	/ɐ.ˈpɐ.ɲu ɐ bɨ.si.ˈkɫe.tɐ/			Português::Curso::A1 Português::Vocabulario::Cidade::Transporte Português::Vocabulario::Expressões
+Apanhar uma constipaçao (Exp)	a expressão	Apanhar uma constipaçao	uma constipaçao	/ɐ.pɐ.ˈɲaɾ ˈu.mɐ kõʃ.ti.pɐ.ˈsa.u/			Português::Curso::A1 Português::Vocabulario::Expressões Português::Vocabulario::Saúde
+Tomar um comprimido (Exp)	a expressão	Tomar um comprimido	um comprimido	/tu.ˈmaɾ ˈũ kõ.pɾɨ.ˈmi.du/			Português::Curso::A1 Português::Vocabulario::Expressões Português::Vocabulario::Saúde
+Fazer análises (Exp)	a expressão	Fazer análises	análises	/fɐ.ˈzeɾ ɐ.ˈna.ɫi.zɨʃ/			Português::Curso::A1 Português::Vocabulario::Expressões Português::Vocabulario::Saúde
+Tomar um antibiótico (Exp)	a expressão	Tomar um antibiótico	um antibiótico	/tu.ˈmaɾ ˈũ ɐ̃.tɨ.bi.ˈɔ.ti.ku/			Português::Curso::A1 Português::Vocabulario::Expressões Português::Vocabulario::Saúde
+Apanhar gripe (Exp)	a expressão	Apanhar gripe	gripe	/ɐ.pɐ.ˈɲaɾ ˈgɾi.pɨ/			Português::Curso::A1 Português::Vocabulario::Expressões Português::Vocabulario::Saúde
+Fazer um exame (Exp)	a expressão	Fazer um exame	um exame	/fɐ.ˈzeɾ ˈũ .ˈʃɐ.mɨ/		O que a gente pensa é provas médicas	Português::Curso::A1 Português::Vocabulario::Expressões Português::Vocabulario::Saúde
+Marcar uma consulta (Exp)	a expressão	Marcar uma consulta	uma consulta	/maɾ.ˈkaɾ ˈu.mɐ kõ.ˈsuɫ.tɐ/			Português::Curso::A1 Português::Vocabulario::Expressões Português::Vocabulario::Saúde
+O/A ortopedista (Exp)	a expressão	O/A ortopedista	trata de problemas relacionados com os ossos, articulaçoes, os músculos e os tendões	/u/ɐ oɾ.tu.pɨ.ˈdiʃ.tɐ/			Português::Curso::A1 Português::Vocabulario::Expressões Português::Vocabulario::Saúde
+O/A cardiologista (Exp)	a expressão	O/A cardiologista	trata de doenças do coraçao	/u/ɐ kaɾ.di.u.ɫu.ˈʒiʃ.tɐ/			Português::Curso::A1 Português::Vocabulario::Expressões Português::Vocabulario::Saúde
+O/A oftalmologista (Exp)	a expressão	O/A oftalmologista	trata de problemas relacionados com os olhos	/u/ɐ of.taɫ.mu.ɫu.ˈʒiʃ.tɐ/			Português::Curso::A1 Português::Vocabulario::Expressões Português::Vocabulario::Saúde
+O/A ginecologista (Exp)	a expressão	O/A ginecologista	trata de questões do aparelho reprodutor feminino	/u/ɐ ʒi.nɨ.ku.ɫu.ˈʒiʃ.tɐ/			Português::Curso::A1 Português::Vocabulario::Expressões Português::Vocabulario::Saúde
+O/A dentista (Exp)	a expressão	O/A dentista	trata dos dentes	/u/ɐ dẽ.ˈtiʃ.tɐ/			Português::Curso::A1 Português::Vocabulario::Expressões Português::Vocabulario::Saúde
+O/A pediatra (Exp)	a expressão	O/A pediatra	trata de problemas de saúde das crianças	/u/ɐ pɨ.di.ˈa.tɾɐ/			Português::Curso::A1 Português::Vocabulario::Expressões Português::Vocabulario::Saúde
+O/A otorrinolaringologista (Exp)	a expressão	O/A otorrinolaringologista	trata de problemas com ouvidos, nariz e garganta	/u/ɐ o.tu.ʁi.nu.ɫɐ.ɾĩ.gu.ɫu.ˈʒiʃ.tɐ/			Português::Curso::A1 Português::Vocabulario::Expressões Português::Vocabulario::Saúde
+Ter sono (Exp)	a expressão	Ter sono	... sono	/ˈteɾ ˈso.nu/			Português::Curso::A1 Português::Vocabulario::Expressões Português::Vocabulario::Saúde
+Estar com sono (Exp)	a expressão	Estar com sono	... com sono	/ʃ.ˈtaɾ kõ ˈso.nu/			Português::Curso::A1 Português::Vocabulario::Expressões Português::Vocabulario::Saúde
+Estar com uma soneca (Exp)	a expressão	Estar com uma soneca	... com uma soneca	/ʃ.ˈtaɾ kõ ˈu.mɐ su.ˈne.kɐ/			Português::Curso::A1 Português::Vocabulario::Expressões Português::Vocabulario::Saúde
+Ter uma soneca (Exp)	a expressão	Ter uma soneca	... uma soneca	/ˈteɾ ˈu.mɐ su.ˈne.kɐ/			Português::Curso::A1 Português::Vocabulario::Expressões Português::Vocabulario::Saúde
+Dói-me muito a cabeça (Exp)	a expressão	Dói-me muito a cabeça	.... -me muito a cabeça	/ˈdɔj-mɨ ˈmũj.tu ɐ kɐ.ˈbe.sɐ/			Português::Curso::A1 Português::Vocabulario::Expressões Português::Vocabulario::Saúde
+Doem-me muito os braços (Exp)	a expressão	Doem-me muito os braços	.... -me muito os braços	/ˈdo.ɐ̃j-mɨ ˈmũj.tu uʒ ˈbɾa.suʃ/			Português::Curso::A1 Português::Vocabulario::Expressões Português::Vocabulario::Saúde
+Dói-lhe a barriga (Exp)	a expressão	Dói-lhe a barriga	.... -lhe a barriga	/ˈdɔj-ʎɨ ɐ ba.ˈʁi.gɐ/			Português::Curso::A1 Português::Vocabulario::Expressões Português::Vocabulario::Saúde
+Doem-te os ouvidos (Exp)	a expressão	Doem-te os ouvidos	... -te os ouvidos	/ˈdo.ɐ̃j-tɨ uz o.ˈvi.duʃ/			Português::Curso::A1 Português::Vocabulario::Expressões Português::Vocabulario::Saúde
+Dói-me um dente (Exp)	a expressão	Dói-me um dente	... -me um dente	/ˈdɔj-mɨ ˈũ ˈdẽ.tɨ/			Português::Curso::A1 Português::Vocabulario::Expressões Português::Vocabulario::Saúde
+Está com dors de barriga (Exp)	a expressão	Está com dors de barriga	.... com dores de barriga	/ʃ.ˈta kõ ˈdoɾʒ dɨ ba.ˈʁi.gɐ/			Português::Curso::A1 Português::Vocabulario::Expressões Português::Vocabulario::Saúde
+Tem dores de barriga (Exp)	a expressão	Tem dores de barriga	.... dores de barriga	/tɐ̃j ˈdo.ɾɨʒ dɨ ba.ˈʁi.gɐ/			Português::Curso::A1 Português::Vocabulario::Expressões Português::Vocabulario::Saúde
+Dói-te a barriga (Exp)	a expressão	Dói-te a barriga	... -te a barriga	/ˈdɔj-tɨ ɐ ba.ˈʁi.gɐ/			Português::Curso::A1 Português::Vocabulario::Expressões Português::Vocabulario::Saúde

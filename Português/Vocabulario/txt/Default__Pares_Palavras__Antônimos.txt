@@ -1,0 +1,51 @@
+#separator:tab
+#html:true
+#tags column:8
+alegre + triste (ant)	antônimo	alegre	triste	/ɐ.ˈɫe.gɾɨ/	/ˈtɾiʃ.tɨ/	/triste/   	Português::Curso::A1 Português::Vocabulario::Pares::Antônimos
+grande + pequeno (ant)	antônimo	grande	pequeno	/ˈgɾɐ̃.dɨ/	/pɨ.ˈke.nu/	/pequeno/   	Português::Curso::A1 Português::Vocabulario::Pares::Antônimos
+em frente de + atrás de (ant)	antônimo	em frente de	atrás de	/ɐ̃j ˈfɾẽ.tɨ dɨ/	/ɐ.ˈtɾaʒ dɨ/	/atrás de/   	Português::Curso::A1 Português::Vocabulario::Pares::Antônimos
+em cima de + debaixo de (ant)	antônimo	em cima de	debaixo de	/ɐ̃j ˈsi.mɐ dɨ/	/dɨ.ˈbaj.ʃu dɨ/	/debaixo de/   	Português::Curso::A1 Português::Vocabulario::Pares::Antônimos
+curto + comprido (ant)	antônimo	curto	comprido	/ˈkuɾ.tu/	/kõ.ˈpɾi.du/	/comprido/   	Português::Curso::A1 Português::Vocabulario::Pares::Antônimos
+simpático + antipático (ant)	antônimo	simpático	antipático	/sĩ.ˈpa.ti.ku/	/ɐ̃.ti.ˈpa.ti.ku/	/antipático/   	Português::Curso::A1 Português::Vocabulario::Pares::Antônimos
+alto + baixo (ant)	antônimo	alto	baixo	/ˈaɫ.tu/	/ˈbaj.ʃu/	/baixo/   	Português::Curso::A1 Português::Vocabulario::Pares::Antônimos
+gordo + magro (ant)	antônimo	gordo	magro	/ˈgoɾ.du/	/ˈma.gɾu/	/magro/   	Português::Curso::A1 Português::Vocabulario::Pares::Antônimos
+bonito + feio (ant)	antônimo	bonito	feio	/bu.ˈni.tu/	/ˈfɐj.u/	/feio/   	Português::Curso::A1 Português::Vocabulario::Pares::Antônimos
+arrumado + desarrumado (ant)	antônimo	arrumado	desarrumado	/a.ʁu.ˈma.du/	/dɨ.za.ʁu.ˈma.du/	/desarrumado/   	Português::Curso::A1 Português::Vocabulario::Pares::Antônimos
+calmo + nervoso (ant)	antônimo	calmo	nervoso	/ˈkaɫ.mu/	/nɨɾ.ˈvo.zu/	/nervoso/   	Português::Curso::A1 Português::Vocabulario::Pares::Antônimos
+divertido + chato (ant)	antônimo	divertido	chato	/di.vɨɾ.ˈti.du/	/ˈʃa.tu/	/chato/   	Português::Curso::A1 Português::Vocabulario::Pares::Antônimos
+esperto + ingénuo (ant)	antônimo	esperto	ingénuo	/ʃ.ˈpeɾ.tu/	/ĩ.ˈgɛ.nu.u/	/ingénuo/   	Português::Curso::A1 Português::Vocabulario::Pares::Antônimos
+organizado + desorganizado (ant)	antônimo	organizado	desorganizado	/oɾ.gɐ.ni.ˈza.du/	/dɨ.zuɾ.gɐ.ni.ˈza.du/	/desorganizado/   	Português::Curso::A1 Português::Vocabulario::Pares::Antônimos
+trabalhador + preguiçoso (ant)	antônimo	trabalhador	preguiçoso	/tɾɐ.bɐ.ʎɐ.ˈdoɾ/	/pɾɨ.gi.ˈso.zu/	/preguiçoso/   	Português::Curso::A1 Português::Vocabulario::Pares::Antônimos
+solteiro + casado (ant)	antônimo	solteiro	casado	/sɔɫ.ˈtɐj.ɾu/	/kɐ.ˈza.du/	/casado/   	Português::Curso::A1 Português::Vocabulario::Pares::Antônimos
+estreita + larga (ant)	antônimo	estreita	larga	/ʃ.ˈtɾɐj.tɐ/	/ˈɫaɾ.gɐ/	/larga/   	Português::Curso::A1 Português::Vocabulario::Pares::Antônimos
+pesado + leve (ant)	antônimo	pesado	leve	/pɨ.ˈza.du/	/ˈɫe.vɨ/	/leve/   	Português::Curso::A1 Português::Vocabulario::Pares::Antônimos
+barato + caro (ant)	antônimo	barato	caro	/bɐ.ˈɾa.tu/	/ˈka.ɾu/	/caro/   	Português::Curso::A1 Português::Vocabulario::Pares::Antônimos
+lenta + rápida (ant)	antônimo	lenta	rápida	/ˈɫẽ.tɐ/	/ˈʁa.pi.dɐ/	/rápida/   	Português::Curso::A1 Português::Vocabulario::Pares::Antônimos
+grosso (objeto) + fino (ant)	antônimo	grosso (objeto)	fino	/ˈgɾo.su/	/ˈfi.nu/	/fino/   	Português::Curso::A1 Português::Vocabulario::Pares::Antônimos
+fraco + forte (ant)	antônimo	fraco	forte	/ˈfɾa.ku/   	/ˈfoɾ.tɨ/	/forte/   	Português::Curso::A1 Português::Vocabulario::Pares::Antônimos
+cedo + tarde (ant)	antônimo	cedo	tarde	/ˈse.du/	/ˈtaɾ.dɨ/	/tarde/   	Português::Curso::A1 Português::Vocabulario::Pares::Antônimos
+fora de hora + hora certa (ant)	antônimo	fora de hora	hora certa	/ˈfo.ɾɐ dɨ ˈo.ɾɐ/	/ˈo.ɾɐ ˈseɾ.tɐ/	/hora certa/   	Português::Curso::A1 Português::Vocabulario::Pares::Antônimos
+aborrecido + divertido (ant)	antônimo	aborrecido	divertido	/ɐ.bu.ʁɨ.ˈsi.du/	/di.vɨɾ.ˈti.du/	/divertido/   	Português::Curso::A1 Português::Vocabulario::Pares::Antônimos
+rico + pobre (ant)	antônimo	rico	pobre	/ˈʁi.ku/	/ˈpo.bɾɨ/	/pobre/   	Português::Curso::A1 Português::Vocabulario::Pares::Antônimos
+longa + curta (ant)	antônimo	longa	curta	/ˈɫõ.gɐ/	/ˈkuɾ.tɐ/	/curta/   	Português::Curso::A1 Português::Vocabulario::Pares::Antônimos
+doente + saudável (ant)	antônimo	doente	saudável	/du.ˈẽ.tɨ/	/saw.ˈda.vɛɫ/	/saudável/   	Português::Curso::A1 Português::Vocabulario::Pares::Antônimos
+apaixonado + indiferente (ant)	antônimo	apaixonado	indiferente	/ɐ.paj.ʃu.ˈna.du/	/ĩ.dɨ.fɨ.ˈɾẽ.tɨ/	/indiferente/   	Português::Curso::A1 Português::Vocabulario::Pares::Antônimos
+velho + novo (ant)	antônimo	velho	novo	/ˈvɐ.ʎu/	/ˈno.vu/	/novo/   	Português::Curso::A1 Português::Vocabulario::Pares::Antônimos
+aberto + fechado (ant)	antônimo	aberto	fechado	/ɐ.ˈbeɾ.tu/	/fɨ.ˈʃa.du/	/fechado/   	Português::Curso::A1 Português::Vocabulario::Pares::Antônimos
+limpo + sujo (ant)	antônimo	limpo	sujo	/ˈɫĩ.pu/	/ˈsu.ʒu/	/sujo/   	Português::Curso::A1 Português::Vocabulario::Pares::Antônimos
+subir + descer (ant)	antônimo	subir	descer	/su.ˈbiɾ/	/dɨʃ.ˈseɾ/	/descer/   	Português::Curso::A1 Português::Vocabulario::Pares::Antônimos
+aumentar + diminuir (ant)	antônimo	aumentar	diminuir	/aw.mẽ.ˈtaɾ/	/dɨ.mi.nu.ˈiɾ/	/diminuir/   	Português::Curso::A1 Português::Vocabulario::Pares::Antônimos
+vestir + despir (ant)	antônimo	vestir	despir	/vɨʃ.ˈtiɾ/	/dɨʃ.ˈpiɾ/	/despir/   	Português::Curso::A1 Português::Vocabulario::Pares::Antônimos
+tirar + pôr (ant)	antônimo	tirar	pôr	/ti.ˈɾaɾ/	/ˈpoɾ/	/pôr/   	Português::Curso::A1 Português::Vocabulario::Pares::Antônimos
+gastar + poupar (ant)	antônimo	gastar	poupar	/gɐʃ.ˈtaɾ/	/po.ˈpaɾ/	/poupar/   	Português::Curso::A1 Português::Vocabulario::Pares::Antônimos
+arrumar + desarrumar (ant)	antônimo	arrumar	desarrumar	/a.ʁu.ˈmaɾ/	/dɨ.za.ʁu.ˈmaɾ/	/desarrumar/   	Português::Curso::A1 Português::Vocabulario::Pares::Antônimos
+abrir + fechar (ant)	antônimo	abrir	fechar	/ɐ.ˈbɾiɾ/	/fɨ.ˈʃaɾ/	/fechar/   	Português::Curso::A1 Português::Vocabulario::Pares::Antônimos
+sujar + limpar (ant)	antônimo	sujar	limpar	/su.ˈʒaɾ/	/ɫĩ.ˈpaɾ/	/limpar/   	Português::Curso::A1 Português::Vocabulario::Pares::Antônimos
+entrar + sair (ant)	antônimo	entrar	sair	/ẽ.ˈtɾaɾ/	/sɐ.ˈiɾ/	/sair/   	Português::Curso::A1 Português::Vocabulario::Pares::Antônimos
+nascer + morrer (ant)	antônimo	nascer	morrer	/nɐʃ.ˈseɾ/	/mu.ˈʁeɾ/	/morrer/   	Português::Curso::A1 Português::Vocabulario::Pares::Antônimos
+rir + chorar (ant)	antônimo	rir	chorar	/ˈʁiɾ/	/ʃu.ˈɾaɾ/	/chorar/   	Português::Curso::A1 Português::Vocabulario::Pares::Antônimos
+chegar + partir (ant)	antônimo	chegar	partir	/ʃɨ.ˈgaɾ/	/paɾ.ˈtiɾ/	/partir/   	Português::Curso::A1 Português::Vocabulario::Pares::Antônimos
+esquecer-se + lembrar-se (ant)	antônimo	esquecer-se	lembrar-se	/ʃ.kɨ.ˈseɾ-sɨ/	/ɫẽ.ˈbɾaɾ-sɨ/	/lembrar-se/   	Português::Curso::A1 Português::Vocabulario::Pares::Antônimos
+guardar + deitar fora (ant)	antônimo	guardar	deitar fora	/gwaɾ.ˈdaɾ/	/dɐj.ˈtaɾ ˈfo.ɾɐ/	/deitar fora/   	Português::Curso::A1 Português::Vocabulario::Pares::Antônimos
+levantar-se + deitar-se (ant)	antônimo	levantar-se	deitar-se	/ɫɨ.vɐ̃.ˈtaɾ-sɨ/	/dɐj.ˈtaɾ-sɨ/	/deitar-se/   	Português::Curso::A1 Português::Vocabulario::Pares::Antônimos
+ligar + desligar (ant)	antônimo	ligar	desligar	/ɫi.ˈgaɾ/	/dɨ.ʒɫi.ˈgaɾ/	/desligar/   	Português::Curso::A1 Português::Vocabulario::Pares::Antônimos

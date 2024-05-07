@@ -6,7 +6,7 @@ conde + condessa (Fem/Masc)	femenino ou masculino	conde	condessa	/ˈkõ.dɨ/	/k�
 duque + duquesa (Fem/Masc)	femenino ou masculino	duque	duquesa	/ˈdu.kɨ/	/du.ˈke.zɐ/		Português::Curso::A1 Português::Vocabulario::Pares::Fem-Mas
 sacerdote + sacerdotisa (Fem/Masc)	femenino ou masculino	sacerdote	sacerdotisa	/sɐ.sɨɾ.ˈdo.tɨ/	/sɐ.sɨɾ.du.ˈti.zɐ/		Português::Curso::A1 Português::Vocabulario::Pares::Fem-Mas
 profeta + profetisa (Fem/Masc)	femenino ou masculino	profeta	profetisa	/pɾu.ˈfe.tɐ/	/pɾu.fɨ.ˈti.zɐ/		Português::Curso::A1 Português::Vocabulario::Pares::Fem-Mas
-poeta + poetisa  (Fem/Masc)	femenino ou masculino	poeta	poetisa 	/pu.ˈe.tɐ/	/pu.i.ˈti.zɐ /	(mas muitas poetisas preferem ser chamadas &quot;poetas&quot;)	Português::Curso::A1 Português::Vocabulario::Pares::Fem-Mas
+poeta + poetisa  (Fem/Masc)	femenino ou masculino	poeta	poetisa	/pu.ˈe.tɐ/	/pu.i.ˈti.zɐ /	(mas muitas poetisas preferem ser chamadas &amp;quot;poetas&amp;quot;)	Português::Curso::A1 Português::Vocabulario::Pares::Fem-Mas
 europeu + europeia (Fem/Masc)	femenino ou masculino	europeu	europeia	/iw.ɾu.ˈpew/	/iw.ɾu.ˈpɐj.ɐ/		Português::Curso::A1 Português::Vocabulario::Pares::Fem-Mas
 judeu + judia (Fem/Masc)	femenino ou masculino	judeu	judia	/ʒu.ˈdew/	/ʒu.ˈdi.ɐ/		Português::Curso::A1 Português::Vocabulario::Pares::Fem-Mas
 espanhol + espanhola (Fem/Masc)	femenino ou masculino	espanhol	espanhola	/ʃ.pɐ.ˈɲɔɫ/	/ʃ.pɐ.ˈɲo.ɫɐ/		Português::Curso::A1 Português::Vocabulario::Pares::Fem-Mas
@@ -80,5 +80,5 @@ pombo + pomba (Fem/Masc)	femenino ou masculino	pombo	pomba	/ˈpõ.bu/	/ˈpõ.bɐ
 perdigão + perdiz (Fem/Masc)	femenino ou masculino	perdigão	perdiz	/pɨɾ.di.ˈgɐ̃w/	/pɨɾ.ˈdiʃ/		Português::Curso::A1 Português::Vocabulario::Animais Português::Vocabulario::Pares::Fem-Mas
 frango + franga (Fem/Masc)	femenino ou masculino	frango	franga	/ˈfɾɐ̃.gu/	/ˈfɾɐ̃.gɐ/		Português::Curso::A1 Português::Vocabulario::Animais Português::Vocabulario::Pares::Fem-Mas
 elefante + elefanta (Fem/Masc)	femenino ou masculino	elefante	elefanta	/i.ɫɨ.ˈfɐ̃.tɨ/	/i.ɫɨ.ˈfɐ̃.tɐ/		Português::Curso::A1 Português::Vocabulario::Animais Português::Vocabulario::Pares::Fem-Mas
-os espanhóis + as espanholas (Fem/Masc)	femenino ou masculino	os espanhóis	as espanholas	/uz ʃ.pɐ.ˈɲɔjʃ/	/ɐz ʃ.pɐ.ˈɲo.ɫɐʃ/		Português::Curso::A1 Português::Vocabulario::Pares::Fem-Mas Português::Vocabulario::Pessoas::Nacionalidade
+os espanhóis + as espanholas (Fem/Masc)	femenino ou masculino	os espanhóis	as espanholas	/uz ʃ.pɐ.ˈɲɔjʃ/	/ɐz ʃ.pɐ.ˈɲo.ɫɐʃ/		Português::Curso::A1 Português::Vocabulario::Pares::Fem-Mas
 os homens + as mulheres (Fem/Masc)	femenino ou masculino	os homens	as mulheres	/uz ˈo.mɐ̃jʃ/	/ɐʒ mu.ˈʎe.ɾɨʃ/		Português::Curso::A1 Português::Vocabulario::Pares::Fem-Mas

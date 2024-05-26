@@ -1,0 +1,6 @@
+#separator:tab
+#html:true
+#tags column:47
+viúvo, viúva	viúvo, viúva	viúvo, viúva	viudo, viuda	/'vi.u.vo/,  /'vi.u.vɐ/		adjm , adjf		widowed	/ˈwɪdoʊd/	widower, widow	adj			viudo, viuda	/ˈbwido/ , /ˈbwida/		adjm, adjf																													Português::Curso::A1 Português::Vocabulario::Pessoas::Estado_civil Português::Vocabulario::Pessoas::Familia Português::Vocabulario::Tipo_Palavra::Adjetivos
+casada, casado	casada, casado	casada, casado	casado, casada	"/kɐ&#x27;zaðɐ/ , /kɐ&#x27;zaðu/"		adjm , adjf		married	/ˈmærɪd/	married	adj			casado, casada	"/&#x27;laɾɡo/, /&#x27;laɾɡa/"		adjm, adjf				marié, mariée					verheiratet					casat, casada					sposato, sposata										Português::Curso::A1 Português::Vocabulario::Pessoas::Estado_civil Português::Vocabulario::Pessoas::Familia Português::Vocabulario::Tipo_Palavra::Adjetivos
+solteiro, solteira	solteiro, solteira	solteiro, solteira	soltero, soltera	"/sol&#x27;tejɾu/, /sol&#x27;tejɾɐ/"		adjm , adjf		single	/ˈsɪŋɡəl/	single	adj			soltero, soltera	"/&#x27;timiðo/, /&#x27;timiða/"		adjm, adjf				célibataire					ledig					solter, soltera					single										Português::Curso::A1 Português::Vocabulario::Pessoas::Estado_civil Português::Vocabulario::Pessoas::Familia Português::Vocabulario::Tipo_Palavra::Adjetivos

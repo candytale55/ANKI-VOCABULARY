@@ -1,3 +1,6 @@
+#separator:tab
+#html:true
+#tags column:8
 aluno + aluna (Fem/Masc)	feminino ou masculino	Aluno	Aluna	/ɐ.ˈɫu.nu/	/ɐ.ˈɫu.nɐ/		Português::Curso::A1 Português::Vocabulario::Especial::Pares::Fem-Mas
 conde + condessa (Fem/Masc)	femenino ou masculino	Conde	Condessa	/ˈkõ.dɨ/	/kõ.ˈde.sɐ/		Português::Curso::A1 Português::Vocabulario::Especial::Pares::Fem-Mas
 duque + duquesa (Fem/Masc)	femenino ou masculino	Duque	Duquesa	/ˈdu.kɨ/	/du.ˈke.zɐ/		Português::Curso::A1 Português::Vocabulario::Especial::Pares::Fem-Mas

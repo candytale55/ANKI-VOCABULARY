@@ -1,0 +1,83 @@
+
+I'm going to give you a list of words to make practice sentences . 
+
+The first column is subjects or pronouns in Portuguese. They are going to be the Subjects of the sentences. The second column are verbs. The third column is a piece of clothing or type of shoes, the fourth is a word that describes the piece of clothing.
+
+I want you to generate random sentences combining these words using these words.
+
+Rules
+
+
+The sentences must:
+
+- Test the correct use of the verbs with the form of transport. 
+ 
+- I want to test also pronouns + verb conjugation, using the correct number and gender forms of the words. 
+
+- The sentences must match words that make sense together. 
+
+- Please try to use all the words at least once.
+
+- Please provide the sentences in a tab separated format so that I can copy paste it to a spreadsheet. The purpose is to then load the list to ANKI to make study cards.
+
+- Return the sentence, then the combination of words used without articles or indication if they should be feminine or masculine.  
+
+Example:
+
+
+
+
+This is what I would expect: 
+
+O contabilista trabalha num escritorio.	Contabilista	Trabalhar 	Escritorio
+Eu procuro numa livraria	Eu	Procurar	Livraria
+Os palhaços são espanhóis.	Palhaços	Ser	Espanhol
+Vocês vêm duma pastelaria	Vocês	Vir	Pastelaria
+
+
+This is the list of words: 
+
+Senhor	vestir	T-shirt	preto
+Senhora	despir	casaco	cinzento
+Eu	trazer	camisola	roxo
+Tu	ter	calças de ganga	branco
+Ela	comprar	calções	amarelo
+Ele		botas	vermelho
+Você		vestido	castanho
+Nós		cachecol	verde
+Vocês		sandálias	azul
+Eles		gabardina	bege
+Elas		saia	cor de laranja
+Rapariga		ténis	cor-de-rosa
+Rapaz		biquini	lilás
+Menino		boné	comprida
+Menina		gorro	curta
+Criança		meias	de ganga
+Crianças		roupa	quente
+Raparigas		bolso	
+Rapazes		peças de roupa	
+Estudantes		collants	
+Cabelereiro		camisa	
+Funcionario		sapato	
+		saltos	
+		colete	
+		blusão	
+		saia comprida	
+		minisaia	
+		kispo	
+		sobretodo	
+		de ganga	
+		impermeável	
+		fato	
+		fato de treino	
+		fato de banho	
+		fato de dormir	
+		vestido de dormir	
+		gabinete de prova	
+		sutiã	
+		cuecas	
+		oleado	
+		ténis	
+		fecho de correr	
+		chinelas	
+		calçoes	

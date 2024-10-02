@@ -1,0 +1,122 @@
+
+
+I going to give you sets of group of words. They are used to create ANKI practice cards to test European Portuguese vocabulary on clothing and colors, and also correct conjugation of verbs and using the correct number and gender of words.
+
+
+1. I want to test the verbs vestir, trazer, calçar Please note that you should use calçar for shoes only. 
+
+2. The sentences must test also adjectives and complements too. 
+
+I don't want to have sentences that doesn't use a form of complement. For example "Ela traz calções."  I want a sentence like "Ela traz calções." 
+
+You can use colors: 
+preto
+cinzento
+roxo
+branco
+amarelo
+vermelho
+castanho
+verde
+azul
+bege
+cor de laranja
+cor-de-rosa
+lilás
+
+Combined with design: 
+com padrão
+às riscas
+aos cuadrados
+às bolinhas
+
+and/or combined with material:
+Algodão
+Lã
+Seda
+Couro
+Linho
+de ganga
+
+and/or combined with other clothing adjectives:
+curto
+comprido
+de agasalho
+quente
+etc.
+
+You can also words that indicate when they are used.
+sempre
+nunca
+às vezes 
+no inverno
+no verão
+quando chove
+etc.
+
+These are what you need to correct:
+
+Ela compra calções amarelos.	Ela	Comprar	Calções	Amarelo	
+Tu tens calças de ganga brancas.	Tu	Ter	Calças de ganga	Branco	
+Eu trago uma camisola roxa.	Eu	Trazer	Camisola	Roxo	
+Os rapazes usam biquinis lilases.	Rapazes	Usar	Biquini	Lilás	
+Vocês têm sandálias azuis.	Vocês	Ter	Sandálias	Azul	
+Nós usamos cachecóis verdes.	Nós	Usar	Cachecol	Verde	
+As crianças usam roupa de agasalho	Crianças	Usar	Roupa	Quente	
+Ele usa botas vermelhas.	Ele	Usar	Botas	Vermelho	
+Eles usam gabardinas beges.	Eles	Usar	Gabardina	Bege	
+Eu uso um colete.	Eu	Usar	Colete		
+Eles têm sapatos.	Eles	Ter	Sapato		
+Elas usam saias cor de laranja.	Elas	Usar	Saia	Cor de laranja	
+Os estudantes usam collants.	Estudantes	Usar	Collants		
+Os rapazes usam peças de roupa.	Rapazes	Usar	Peças de roupa		
+O cabelereiro usa uma camisa.	Cabelereiro	Usar	Camisa		
+Os funcionários usam saltos.	Funcionários	Usar	Saltos		
+O menino tem um boné.	Menino	Ter	Boné		
+A menina tem um gorro quente.	Menina	Ter	Gorro	Quente	
+As raparigas usam bolsos.	Raparigas	Usar	Bolso		
+O senhor veste t-shirt preta.	Senhor	Vestir	T-shirt	Preto	
+A senhora despe casaco cinzento.	Senhora	Despir	Casaco	Cinzento	
+Eu trago camisola roxa.	Eu	Trazer	Camisola	Roxo	
+Ela usa calções amarelos.	Ela	Usar	Calções	Amarelo	
+Ele tem botas vermelhas.	Ele	Ter	Botas	Vermelho	
+Você tem vestido castanho.	Você	Ter	Vestido	Castanho	
+Nós temos cachecol verde.	Nós	Ter	Cachecol	Verde	
+Eles têm gabardina bege.	Eles	Ter	Gabardina	Bege	
+Elas têm saia cor de laranja.	Elas	Ter	Saia	Cor de laranja	
+A rapariga calça ténis cor-de-rosa.	Rapariga	Calçar	Ténis	Cor-de-rosa	
+O rapaz tem biquini lilás.	Rapaz	Ter	Biquini	Lilás	
+O menino tem boné comprido.	Menino	Ter	Boné	Comprida	
+A menina tem gorro curto.	Menina	Ter	Gorro	Curta	
+A criança usa meias de ganga.	Criança	Usar	Meias de ganga		
+As crianças vestem roupa quente.	Crianças	Vestir	Roupa	Quente	
+As raparigas têm bolso cinzento.	Raparigas	Ter	Bolso	Cinzenta	
+Os rapazes têm peças de roupa roxas.	Rapazes	Ter	Peças de roupa	Roxa	
+Os estudantes usam collants brancos.	Estudantes	Usar	Collants	Branca	
+O cabeleireiro tem camisa amarela.	Cabelereiro	Ter	Camisa	Amarela	
+O funcionário calça sapatos vermelhos.	Funcionario	Calçar	Sapato	Vermelho	
+O namorado tem saltos castanhos.	Namorado	Ter	Saltos	Castanha	
+A namorada tem colete verde.	Namorada	Ter	Colete	Verde	
+As funcionárias têm blusão azul.	Funcionarias	Ter	Blusão	Azul	
+O sócio usa saia comprida bege.	Sócio	Usar	Saia comprida	Bege	
+A sócia usa minisaia cor de laranja.	Sócia	Usar	Minisaia	Cor de laranja	
+Os avôs têm kispo cor-de-rosa.	Avôs	Ter	Kispo	Cor-de-rosa	
+O vizinho tem sobretudo lilás.	Vizinho	Ter	Sobretudo	Lilás	
+A vizinha tem calças de ganga azuis.	Vizinha	Ter	Calças de ganga	Azul	
+A filha tem impermeável amarelho.	Filha	Ter	Impermeável	Amarelho	
+Os filhos têm fatos com padrão.	Filhos	Ter	Fato	Com padrão	
+O colega usa fato de treino às riscas.	Colega	Usar	Fato de treino	Às riscas	
+Os colegas usam fato de banho aos quadrados.	Colegas	Usar	Fato de banho	Aos cuadrados	
+O pai usa fato de dormir às bolinhas.	Pai	Usar	Fato de dormir	Às bolinhas	
+A mãe usa vestido de dormir.	Mãe	Usar	Vestido	Dormir	
+Ela usa sutiã.	Ela	Usar	Sutiã		
+Ele usa cuecas.	Ele	Usar	Cuecas		
+Ela usa oleado.	Ela	Usar	Oleado		
+Ele usa ténis.	Ele	Usar	Ténis		
+Ele usa fato de correr.	Ele	Usar	Fato	Correr	
+Ela usa chinelas.	Ela	Usar	Chinelas		
+Ela usa calções.	Ela	Usar	Calções		
+
+
+
+

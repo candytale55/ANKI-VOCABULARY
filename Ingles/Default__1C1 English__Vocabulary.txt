@@ -1,0 +1,7 @@
+#separator:tab
+#html:true
+#tags column:52
+vocational training		treinamento vocacional	o treinamento vocacional	/u tɾɐjnɐˈmẽtu vukɐsiuˈnaɫ/	/u tɾejnɐˈmẽtu vokasioˈnaw/	sm			vocational training	/voˈkʰeɪʃənl̩ ˈtɹeɪnɪŋ/	/vəʊˈkʰeɪʃᵊnᵊl ˈtreɪnɪŋ/				formación profesional						formation professionnelle						Berufsausbildung						formació professional						formazione professionale												English::Curso::1C1 English::Curso::1C1::U01 English::Vocabulary Vocabulary::Carreer
+craft beer	"<img src=""_cerveja_artesanal.JPG"">"	cerveja artesanal	a cerveja artesanal	/ɐ sɨɾˈvɐʒɐ ɐɾtɨzɐˈnaɫ/	/a seʁˈveʒɐ aʁtezɐˈnaw/	sf			craft beer	/ˈkɹæft ˈbɪr/	/ˈkrɑːft ˈbɪə/				cerveza artesanal						bière artisanale						Craft-Bier						cervesa artesanal						birra artigianale												English::Curso::1C1 English::Curso::1C1::U01 English::Vocabulary Vocabulary::Food::Beberages::Alcoholic::Beer
+puffin	"<img src=""_puffin.JPG"">"	papagaio-do-mar	o papagaio-do-mar	/u pɐpɐɡɐjuduˈmaɾ/	/u papaɡajodoˈmaʁ/	sm			puffin	/ˈpʰəfən/	/ˈpʰʌfɪn/				frailecillo						macareux						Papageitaucher						fraret						pulcinella di mare												English::Curso::1C1 English::Curso::1C1::U01 English::Vocabulary Vocabulary::Animals::Birds
+table football	"<img src=""_table_football.JPG"">"								table football						futbolín, futbolito																																				English::Curso::1C1 English::Curso::1C1::U01 English::Vocabulary Vocabulary::Games_and_Hobbies
